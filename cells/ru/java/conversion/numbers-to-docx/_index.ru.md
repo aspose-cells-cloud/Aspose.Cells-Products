@@ -1,19 +1,18 @@
 ﻿---
-title:  Конвертировать НОМЕРА в DOCX API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата NUMBERS в файл формата DOCX.
-url: /ru/java/conversion/numbers-to-docx/
+title:  Преобразуйте ЧИСЛА в DOCX, используя Java.
+description:  Использование облачного SDK Aspose.Cells for Java для преобразования файла формата NUMBERS в файл формата DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования NUMBERS в DOCX" h2="Java библиотека для преобразования NUMBERS в DOCX" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования NUMBERS в DOCX и другие форматы документов онлайн с использованием Java." urlsection="conversion/numbers-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать ЧИСЛА в DOCX" h2="Java библиотека для преобразования ЧИСЕЛ в DOCX" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертации ЧИСЕЛ в DOCX и другие форматы документов с помощью номера Java." urlsection="conversion/numbers-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в DOCX в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование NUMBERS в DOCX с помощью Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в DOCX — сложная задача. Все преобразования формата NUMBERS в формат DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации NUMBERS в файлы DOCX. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из NUMBERS в DOCX может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования формата NUMBERS в формат DOCX, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертации ЧИСЕЛ в файлы DOCX. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод в формате DOCX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования NUMBERS в формат DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для преобразования NUMBERS в DOCX с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ url: /ru/java/conversion/numbers-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования NUMBERS в DOCX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для преобразования файлов Excel в другие форматы NUMBERS в DOCX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

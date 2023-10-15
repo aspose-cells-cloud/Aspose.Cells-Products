@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF till ODS Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera GIF-formatfil till ODS-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera GIF-formatfil till ODS-formatfil.
 url: /sv/swift/conversion/gif-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

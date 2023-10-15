@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie NUMBERS als XLS API für Ruby
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die Datei im NUMBERS-Format als Datei im XLS-Format zu speichern.
-url: /de/ruby/saveas/numbers-to-xls/
+title:  Speichern Sie NUMBERS als XLS mit Ruby
+description:  Verwendung des Cloud SDK Aspose.Cells für Ruby zum Speichern der Datei im NUMBERS-Format als Datei im XLS-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um NUMBERS als XLS zu speichern" h2="Ruby-Bibliothek zum Speichern von NUMBERS als XLS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als XLS und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/numbers-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ZAHLEN als XLS speichern" h2="Ruby-Bibliothek zum Speichern von NUMBERS als XLS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als XLS und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/numbers-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als XLS in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/numbers-to-xls/
 Das Speichern von Dateiformaten von NUMBERS als XLS ist eine komplexe Aufgabe. Alle Übergänge von NUMBERS zum XLS-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um ZAHLEN online als XLS-Dateien zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von NUMBERS im XLS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von NUMBERS als XLS mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten von NUMBERS als XLS ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um ZAHLEN als XLS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in anderen Formaten wie XLS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

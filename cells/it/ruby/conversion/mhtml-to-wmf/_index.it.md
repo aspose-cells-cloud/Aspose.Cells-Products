@@ -1,19 +1,18 @@
 ﻿---
-title:  Conversione da MHTML a WMF API per Ruby
-description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per convertire il file in formato MHTML in un file in formato WMF.
-url: /it/ruby/conversion/mhtml-to-wmf/
+title:  Converti MHTML in WMF usando Ruby
+description:  Utilizzando Aspose.Cells Cloud SDK per Ruby per convertire un file in formato MHTML in un file in formato WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per convertire MHTML in WMF" h2="Libreria Ruby per convertire MHTML in WMF" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Ruby. Questa è una soluzione professionale per convertire MHTML in WMF e altri formati di documenti online utilizzando Ruby." urlsection="conversion/mhtml-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti MHTML in WMF" h2="Libreria Ruby per convertire MHTML in WMF" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Ruby. Questa è una soluzione professionale per convertire MHTML in WMF e altri formati di documenti online utilizzando Ruby." urlsection="conversion/mhtml-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file MHTML in WMF in Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti MHTML in WMF utilizzando Cells Cloud SDK per Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da MHTML a WMF è un compito complesso. Tutte le transizioni di formato da MHTML a WMF vengono eseguite dal nostro Ruby SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo MHTML di origine. La nostra libreria Ruby è una soluzione professionale per convertire file MHTML in WMF online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output WMF perfetto.
+La conversione dei formati di file da MHTML a WMF può essere un compito complesso. Il nostro SDK Ruby gestisce tutte le conversioni dal formato MHTML al formato WMF preservando il contenuto strutturale e logico principale del foglio di calcolo MHTML di origine. La nostra libreria Ruby fornisce una soluzione professionale per convertire file MHTML in WMF online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e garantisce output WMF di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby che utilizza REST API per convertire MHTML in formato WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice Ruby per convertire MHTML in WMF utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,15 +29,15 @@ La conversione dei formati di file da MHTML a WMF è un compito complesso. Tutte
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Ruby API per convertire MHTML in WMF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama celle_cartella di lavoro_Mettere_convertire_metodo della cartella di lavoro per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Ruby per convertire i file Excel in altri formati da MHTML a WMF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `put_convert_workbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>rubino 2.5 o più recente</li>
+<li>rubino 2.5 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

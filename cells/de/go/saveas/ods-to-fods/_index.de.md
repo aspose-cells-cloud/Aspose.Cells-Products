@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie ODS als FODS API für Go
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die Datei im ODS-Format als Datei im FODS-Format zu speichern.
-url: /de/go/saveas/ods-to-fods/
+title:  Speichern Sie ODS als FODS mit Go
+description:  Verwendung von Aspose.Cells Cloud SDK für Go zum Speichern der ODS-Formatdatei als FODS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um ODS als FODS zu speichern" h2="Gehen Sie zur Bibliothek, um ODS als FODS zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von ODS als FODS und anderen Dokumentformaten mit Go." urlsection="saveas/ods-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ODS als FODS speichern" h2="Go-Bibliothek zum Speichern von ODS als FODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von ODS als FODS und anderen Dokumentformaten mit Go." urlsection="saveas/ods-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine ODS-Datei als FODS in Go" >}}
@@ -13,7 +12,7 @@ url: /de/go/saveas/ods-to-fods/
 Das Speichern von Dateiformaten aus ODS als FODS ist eine komplexe Aufgabe. Alle Formatübergänge von ODS zu FODS werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung, um ODS als FODS-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von ODS im FODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel zum Speichern von ODS als FODS mit REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten aus ODS als FODS ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um ODS als FODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in anderen Formaten wie ODS und FODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

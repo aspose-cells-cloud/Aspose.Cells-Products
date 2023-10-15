@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF in TSV umwandeln API in Perl
-description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer Datei im EMF-Format in eine Datei im TSV-Format.
-url: /de/perl/conversion/emf-to-tsv/
+title:  Konvertieren Sie EMF mit Perl in TSV
+description:  Verwendung des Aspose.Cells Cloud SDK für Perl zum Konvertieren einer Datei im EMF-Format in eine Datei im TSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zur Umwandlung von EMF in TSV" h2="Perl-Bibliothek zum Konvertieren von EMF in TSV" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um EMF online mit Perl in TSV und andere Dokumentformate zu konvertieren." urlsection="conversion/emf-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie EMF in TSV" h2="Perl-Bibliothek zum Konvertieren von EMF in TSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl-Projekten zu erstellen. Dies ist eine professionelle Lösung, um EMF online mit Perl in TSV und andere Dokumentformate zu konvertieren." urlsection="conversion/emf-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine EMF-Datei in TSV in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie EMF in TSV mit dem Cloud SDK Cells für Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von EMF in TSV ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum TSV-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um EMF online in TSV-Dateien zu konvertieren. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
+Das Konvertieren von Dateiformaten von EMF in TSV kann eine komplexe Aufgabe sein. Unser Perl SDK übernimmt alle Konvertierungen von EMF in das TSV-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle EMF bei. Unsere Perl-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von EMF in TSV-Dateien. Dieses Cloud SDK bietet Perl-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zur Konvertierung von EMF in das TSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel für die Konvertierung von EMF in TSV mit Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Das Konvertieren von Dateiformaten von EMF in TSV ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um EMF in TSV umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Perl SDK, um EMF in TSV zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

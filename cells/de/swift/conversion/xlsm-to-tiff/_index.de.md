@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM in TIFF Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine Datei im TIFF-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine Datei im TIFF-Format.
 url: /de/swift/conversion/xlsm-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  تصدير SHAPE إلى SVG من جدول البيانات باستخدام Perl API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/perl/export/shape-to-svg/
+title:  تصدير SHAPE إلى SVG من Excel باستخدام Cells Cloud SDK لـ Perl
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتصدير الشكل إلى ملف SVG" h2="مكتبة Perl لتصدير الشكل إلى ملف SVG" p="استخدم Cells Export REST API لتصدير مهام سير عمل الكائن الداخلي لجدول البيانات في Perl. هذا حل احترافي لتصدير SHAPE إلى ملف بتنسيق SVG من جدول بيانات عبر الإنترنت باستخدام Perl." urlsection="export/shape-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير الشكل إلى SVG من Excel" h2="مكتبة Perl لتصدير SHAPE إلى ملف SVG" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Perl. هذا حل احترافي لتصدير SHAPE إلى ملف بتنسيق SVG من جدول البيانات عبر الإنترنت باستخدام Perl." urlsection="export/shape-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف بتنسيق SVG بتنسيق Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف تنسيق SVG باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن SHAPE إلى ملف SVG من جدول البيانات مهمة معقدة. تصدير SHAPE إلى SVG يتم تنفيذ انتقالات تنسيق بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SHAPE المصدر. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق SVG عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج SVG مثالي.
+يعد تصدير كائن SHAPE إلى ملف SVG من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى SVG بواسطة Perl SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SHAPE المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق SVG عبر الإنترنت. يمنح Cloud SDK هذا مطوري Perl وظائف قوية وإخراج SVG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Perl باستخدام REST API لتصدير الشكل إلى تنسيق SVG من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Perl باستخدام REST API لتصدير SHAPE إلى تنسيق SVG من جدول البيانات" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,10 +36,10 @@ url: /ar/perl/export/shape-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتصدير الشكل إلى SVG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لتصدير الكائنات من Excel SHAPE إلى SVG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

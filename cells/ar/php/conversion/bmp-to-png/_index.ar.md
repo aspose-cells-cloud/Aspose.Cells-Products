@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP إلى PNG تحويل API لـ PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق BMP إلى ملف بتنسيق PNG.
-url: /ar/php/conversion/bmp-to-png/
+title:  تحويل BMP إلى PNG باستخدام PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق BMP إلى ملف بتنسيق PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل BMP إلى PNG" h2="مكتبة PHP لتحويل BMP إلى PNG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل BMP إلى PNG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/bmp-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل BMP إلى PNG" h2="مكتبة PHP لتحويل BMP إلى PNG" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل BMP إلى PNG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/bmp-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف BMP إلى PNG في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل BMP إلى PNG باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى PNG مهمة معقدة. يتم إجراء جميع انتقالات تنسيق BMP إلى PNG بواسطة SDK PHP مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل BMP إلى PNG الملفات عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج PNG مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من BMP إلى PNG مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات التنسيق BMP إلى PNG مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل BMP إلى PNG ملفًا عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP بوظائف قوية ويضمن إخراج PNG عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل BMP إلى تنسيق PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل BMP إلى PNG باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/bmp-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل BMP إلى PNG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى BMP إلى PNG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

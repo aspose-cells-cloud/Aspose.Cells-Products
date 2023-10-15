@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till EMF Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i ODS-format till fil i EMF-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i ODS-format till fil i EMF-format.
 url: /sv/swift/conversion/ods-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

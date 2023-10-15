@@ -10,7 +10,7 @@ url: /de/swift/saveas/sxc-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als PPTX in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von SXC als PPTX ist eine komplexe Aufgabe. Alle SXC-zu-PPTX-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Speichern von SXC als PPTX-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte PPTX-Ausgabe.
+Das Speichern von Dateiformaten von SXC als PPTX ist eine komplexe Aufgabe. Alle SXC-zu-PPTX-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um SXC als PPTX-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte PPTX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von SXC im PPTX-Format" gistPath="" %}}

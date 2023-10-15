@@ -1,16 +1,15 @@
 ﻿---
-title:  Экспорт WORKSHEET в TXT из электронной таблицы с помощью Android API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/android/export/worksheet-to-txt/
+title:  Экспортируйте WORKSHEET в TXT из Excel с помощью Cloud SDK Cells для Android.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для экспорта WORKSHEET в файл TXT" h2="Библиотека Android для экспорта WORKSHEET в файл TXT" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Android. Это профессиональное решение для экспорта файла формата WORKSHEET в TXT из электронной таблицы онлайн с помощью Android." urlsection="export/worksheet-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт РАБОЧЕГО ЛИСТА в TXT из Excel" h2="Библиотека Android для экспорта WORKSHEET в файл TXT" p="Используйте команду «Экспорт API из Cells Cloud» для экспорта рабочих процессов внутренних объектов файлов Excel в Android. Это профессиональное решение для экспорта файла формата WORKSHEET в TXT из электронной таблицы онлайн с помощью Android." urlsection="export/worksheet-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKSHEET в файл формата TXT в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект WORKSHEET в файл формата TXT с помощью Cloud SDK Cells для Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKSHEET в файл TXT из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат TXT выполняется нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKSHEET. Наша библиотека Android — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата TXT. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TXT.
+Экспорт объекта WORKSHEET в файл TXT из файла Excel — сложная задача. Экспорт переходов формата WORKSHEET в TXT выполняется нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы WORKSHEET. Наша библиотека Android — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата TXT. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для экспорта WORKSHEET в формат TXT из электронной таблицы" gistPath="" %}}
@@ -51,15 +50,15 @@ url: /ru/android/export/worksheet-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для экспорта WORKSHEET в TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для экспорта объектов из Excel WORKSHEET в TXT" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

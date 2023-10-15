@@ -1,16 +1,15 @@
 ﻿---
-title:  Esporta GRAFICO in SVG dal foglio di calcolo utilizzando Go API
+title:  Esporta CHART a SVG da Excel utilizzando Cells Cloud SDK per Go
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/go/export/chart-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per esportare CHART nel file SVG" h2="Vai alla libreria per esportare CHART nel file SVG" p="Utilizzare Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Go. Questa è una soluzione professionale per esportare CHART in un file in formato SVG dal foglio di calcolo online utilizzando Go." urlsection="export/chart-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta TABELLA allo SVG da Excel" h2="Vai alla libreria per esportare CHART nel file SVG" p="Utilizzare Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Go. Questa è una soluzione professionale per esportare CHART nel file in formato SVG da un foglio di calcolo online utilizzando Go." urlsection="export/chart-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto CHART nel file di formato SVG in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto CHART nel file in formato SVG utilizzando Cells Cloud SDK per Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto CHART nel file SVG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di formato da CHART a SVG viene eseguita dal nostro SDK Go mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti CHART in file in formato SVG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output SVG perfetto.
+Esportare l'oggetto CHART nel file SVG dal file Excel è un'attività complessa. L'esportazione di transizioni di formato CHART nel formato SVG viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti CHART in file in formato SVG online. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e un output SVG perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per esportare CHART nel formato SVG dal foglio di calcolo" gistPath="" %}}
@@ -56,10 +55,10 @@ Esportare l'oggetto CHART nel file SVG dal foglio di calcolo è un'attività com
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per esportare CHART in SVG" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo PostExport per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per esportare oggetti da Excel CHART a SVG" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

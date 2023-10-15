@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ TXT كـ TSV API for Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق TXT كملف بتنسيق TSV.
-url: /ar/java/saveas/txt-to-tsv/
+title:  احفظ TXT كـ TSV باستخدام Java
+description: استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق TXT كملف بتنسيق TSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ TXT كملف TSV" h2="Java مكتبة لحفظ TXT كـ TSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ TXT بتنسيق TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/txt-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TXT بصيغة TSV" h2="مكتبة Java لحفظ TXT بصيغة TSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ TXT بتنسيق TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/txt-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT كملف TSV في Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT بتنسيق TSV في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT مثل TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى TSV بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات TSV عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج TSV مثالي.
+يعد حفظ تنسيقات الملفات من TXT بتنسيق TSV مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق TXT إلى TSV بواسطة Java SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبتنا Java حلاً احترافيًا لحفظ TXT كملفات TSV عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Java وظائف قوية ومخرجات TSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لحفظ TXT بتنسيق TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لحفظ TXT كـ TSV باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ url: /ar/java/saveas/txt-to-tsv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ TXT كملف TSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لحفظ ملفات Excel بتنسيقات أخرى TXT مثل TSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

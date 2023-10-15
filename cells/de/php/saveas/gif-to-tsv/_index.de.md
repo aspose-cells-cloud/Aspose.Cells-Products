@@ -1,10 +1,9 @@
 ﻿---
-title:  GIF als TSV API für PHP speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im GIF-Format als Datei im TSV-Format zu speichern.
-url: /de/php/saveas/gif-to-tsv/
+title:  GIF als TSV mit PHP speichern
+description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern der GIF-Formatdatei als TSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um GIF als TSV zu speichern" h2="PHP-Bibliothek zum Speichern von GIF als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um GIF als TSV und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/gif-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF als TSV speichern" h2="PHP Bibliothek zum Speichern von GIF als TSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um GIF als TSV und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/gif-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als TSV unter PHP" >}}
@@ -13,7 +12,7 @@ url: /de/php/saveas/gif-to-tsv/
 Das Speichern von Dateiformaten von GIF als TSV ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum TSV-Format werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um GIF als TSV-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Speichern von GIF im TSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel zum Speichern von GIF als TSV mit REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten von GIF als TSV ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um GIF als TSV zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für PHP, um Excel-Dateien in anderen GIF-Formaten als TSV zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

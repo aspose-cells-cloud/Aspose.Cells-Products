@@ -1,16 +1,15 @@
 ﻿---
-title:  Kryptera lokalt kalkylblad med lösenord med Java i molnet
-description: Cloud API och SDK för att skydda Microsoft Excel & OpenOffice Calc med Java. Kryptera lokala kalkylblad med lösenord med Cells Cloud API SDK for Java.
-url: /sv/java/protect/encrypt-with-password/
+title: Kryptera lokalt kalkylblad med lösenord med Java i molnet
+description:  Cloud API och SDK för att skydda Microsoft Excel & OpenOffice Calc med Java. Kryptera lokala kalkylblad med lösenord med Cells Cloud API SDK for Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att skydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Java-bibliotek för att skydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Java. Den här professionella lösningen skyddar Microsoft Microsoft Microsoft Microsoft 0816164-lösenord med Open-online-kalkylblad och 3761634-lösenord med Open-online-kalkylblad och 3761634-lösenord. 81." urlsection="protect/Encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Använd Cells Cloud SDK for Java för att lösenordsskydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad." h2="Java bibliotek för lösenordsskyddande lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Protect REST API för att säkra lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord i Java arbetsflöden. Denna professionella lösning möjliggör lösenordsskydd för Microsoft Excel och OpenOffice Calc-kalkylblad online med Java." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Skydda lokala Microsoft Excel och OpenOffice Calc kalkylblad med lösenord - Java REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Säkra lokala Microsoft Excel och OpenOffice Calc-kalkylblad med ett lösenord med Cells Cloud SDK för Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
 <br/>
-Att skydda ett lokalt kalkylblad med ett lösenord är en komplex uppgift. Att skydda ett lokalt kalkylblad med lösenordsövergångar utförs av vår Java SDK samtidigt som källkalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att skydda lokala kalkylblad med ett lösenord online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt API.
+Lösenordsskydd för ett lokalt kalkylblad kan vara en komplex uppgift. Vårt Java SDK hanterar processen och bevarar det huvudsakliga strukturella och logiska innehållet i källarket. Vårt Java-bibliotek erbjuder en professionell lösning för lösenordsskydd online för lokala kalkylblad. Denna Cloud SDK ger Java utvecklare robust funktionalitet och en sömlös API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att kryptera lokala kalkylblad" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-Protect.java" %}}
@@ -18,7 +17,7 @@ Att skydda ett lokalt kalkylblad med ett lösenord är en komplex uppgift. Att s
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Java API för att kryptera" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att skydda Excel fil" >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Ring postProtect-metoden för att få den resulterande strömmen</li>

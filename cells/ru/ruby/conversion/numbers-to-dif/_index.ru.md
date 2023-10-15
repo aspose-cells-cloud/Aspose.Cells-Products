@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS to DIF Convert API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата NUMBERS в файл формата DIF.
-url: /ru/ruby/conversion/numbers-to-dif/
+title:  Преобразование ЧИСЕЛ в DIF с помощью Ruby
+description:  Использование Cloud SDK Aspose.Cells для Ruby для преобразования файла формата NUMBERS в файл формата DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования NUMBERS в DIF" h2="Библиотека Ruby для преобразования NUMBERS в DIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для онлайн-конвертации NUMBERS в DIF и другие форматы документов с использованием Ruby." urlsection="conversion/numbers-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать ЧИСЛА в РАЗН" h2="Библиотека Ruby для преобразования ЧИСЕЛ в DIF" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Ruby. Это профессиональное решение для онлайн-конвертирования ЧИСЕЛ в DIF и другие форматы документов с помощью Ruby." urlsection="conversion/numbers-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в DIF в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование ЧИСЕЛ в DIF с помощью Cells Cloud SDK для Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в DIF — сложная задача. Все переходы формата NUMBERS в формат DIF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов NUMBERS в DIF. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод DIF.
+Преобразование форматов файлов из ЧИСЛОВ в DIF может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования формата NUMBERS в формат DIF, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-преобразования ЧИСЕЛ в файлы DIF. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод DIF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования NUMBERS в формат DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для преобразования ЧИСЕЛ в DIF с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ru/ruby/conversion/numbers-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для преобразования NUMBERS в DIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для преобразования файлов Excel в другие форматы NUMBERS в DIF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

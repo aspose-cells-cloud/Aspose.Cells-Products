@@ -1,19 +1,18 @@
 ﻿---
-title:  Android için TSV'den SQL'e Dönüştürme API
-description:  TSV biçim dosyasını SQL biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
-url: /tr/android/conversion/tsv-to-sql/
+title:  Android kullanarak TSV'yi SQL'e dönüştürün
+description:  TSV formatındaki bir dosyayı SQL formatındaki bir dosyaya dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV\'yi SQL\'e dönüştürmek için Android API" h2="TSV\'yi SQL\'e dönüştürmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Android kullanarak çevrimiçi olarak TSV\'yi SQL\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/tsv-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV\'yi SQL\'ye dönüştür" h2="TSV\'yi SQL\'e dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak TSV\'yi çevrimiçi olarak SQL\'e ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/tsv-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir TSV dosyasını SQL\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android için Cells Cloud SDK\'yı kullanarak TSV\'yi SQL\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını TSV'den SQL'e dönüştürmek karmaşık bir iştir. Tüm TSV'den SQL formatına geçişler, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TSV'yi çevrimiçi olarak SQL dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
+Dosya formatlarını TSV'den SQL'e dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak TSV e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm TSV'den SQL formatına dönüşümleri gerçekleştirir. Android kitaplığımız, TSV'yi çevrimiçi olarak SQL dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli SQL çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="TSV\'yi SQL biçimine dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Cells Bulut SDK\'yı kullanarak TSV\'yi SQL\'e dönüştürmek için Android Kod Örneği" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Dosya formatlarını TSV'den SQL'e dönüştürmek karmaşık bir iştir. Tüm T
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="TSV\'yi SQL\'e dönüştürmek için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır TSV\'den SQL\'e" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

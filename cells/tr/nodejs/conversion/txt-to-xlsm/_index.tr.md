@@ -1,19 +1,18 @@
 ﻿---
-title:  NodeJS için TXT'den XLSM'ye Dönüştürme API
-description:  TXT biçim dosyasını XLSM biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/nodejs/conversion/txt-to-xlsm/
+title:  NodeJS kullanarak TXT'yi XLSM'ye dönüştürün
+description:  TXT formatındaki bir dosyayı XLSM formatındaki bir dosyaya dönüştürmek için NodeJS için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="TXT\'yi XLSM\'ye dönüştürmek için NodeJS API" h2="TXT\'yi XLSM\'ye dönüştürmek için NodeJS kitaplığı" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, NodeJS kullanarak TXT\'yi XLSM\'ye ve diğer belge formatlarını çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/txt-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TXT\'yi XLSM\'ye dönüştür" h2="TXT\'yi XLSM\'ye dönüştürmek için NodeJS kütüphanesi" p="NodeJS projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, NodeJS\'yi kullanarak TXT\'yi XLSM\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/txt-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TXT dosyasını NodeJS\'de XLSM\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS için Cells Bulut SDK\'sını kullanarak TXT\'yi XLSM\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını TXT'den XLSM'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den XLSM'ye biçim geçişleri, kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, TXT'yi çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıktısı sağlar.
+Dosya formatlarını TXT'den XLSM'ye dönüştürmek karmaşık bir iş olabilir. NodeJS SDK'mız, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm TXT'den XLSM formatına dönüşümleri gerçekleştirir. NodeJS kitaplığımız, TXT'yi çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli XLSM çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi XLSM formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak TXT\'yi XLSM\'ye dönüştürmek için NodeJS Kod Örneği" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Dosya formatlarını TXT'den XLSM'ye dönüştürmek karmaşık bir iştir. Tüm
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="TXT\'yi XLSM\'ye dönüştürmek için Düğüm API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını TXT\'den XLSM\'ye diğer formatlara dönüştürmek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till SXC Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till SXC-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till SXC-formatfil.
 url: /sv/swift/conversion/ods-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

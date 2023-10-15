@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT in MD Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von Dateien im TXT-Format in Dateien im MD-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von Dateien im TXT-Format in Dateien im MD-Format.
 url: /de/swift/conversion/txt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

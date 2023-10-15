@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ TXT كـ JSON API من أجل Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق TXT كملف بتنسيق JSON.
-url: /ar/go/saveas/txt-to-json/
+title:  احفظ TXT بتنسيق JSON باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق TXT كملف بتنسيق JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لحفظ TXT كـ JSON" h2="انتقل إلى المكتبة لحفظ TXT كـ JSON" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Go. هذا حل احترافي لحفظ TXT بتنسيق JSON وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="saveas/txt-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TXT بتنسيق JSON" h2="انتقل إلى المكتبة لحفظ TXT بتنسيق JSON" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ TXT بتنسيق JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/txt-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT بتنسيق JSON في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT كـ JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى JSON بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TXT المصدر. مكتبة Go لدينا هي حل احترافي لحفظ TXT كملفات JSON عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج JSON مثالي.
+يعد حفظ تنسيقات الملفات من TXT بتنسيق JSON مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق TXT إلى JSON بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات JSON عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية ومخرجات JSON مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لحفظ TXT بتنسيق JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لحفظ TXT كـ JSON باستخدام REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ url: /ar/go/saveas/txt-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لحفظ TXT كـ JSON" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لحفظ ملفات Excel بتنسيقات أخرى TXT مثل JSON" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

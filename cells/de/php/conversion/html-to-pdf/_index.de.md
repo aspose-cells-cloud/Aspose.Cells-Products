@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML in PDF Konvertieren Sie API in PHP
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für PHP, um eine Datei im Format HTML in eine Datei im Format PDF zu konvertieren.
-url: /de/php/conversion/html-to-pdf/
+title:  Konvertieren Sie HTML mit PHP in PDF
+description:  Verwendung des Aspose.Cells Cloud SDK für PHP zum Konvertieren einer Datei im Format HTML in eine Datei im Format PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um HTML in PDF umzuwandeln" h2="PHP-Bibliothek zum Konvertieren von HTML in PDF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um HTML in PDF und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/html-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie HTML in PDF" h2="PHP-Bibliothek zum Konvertieren von HTML in PDF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP-Projekten zu erstellen. Dies ist eine professionelle Lösung, um HTML in PDF und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/html-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine HTML-Datei in PDF in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie HTML in PDF mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von HTML in PDF ist eine komplexe Aufgabe. Alle Formatübergänge von HTML zu PDF werden von unserem PHP SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um HTML-Dateien online in PDF-Dateien zu konvertieren. Dieses Cloud SDK bietet Entwicklern leistungsstarke Funktionalität und eine perfekte PDF Ausgabe.
+Das Konvertieren von Dateiformaten von HTML in PDF kann eine komplexe Aufgabe sein. Unser PHP SDK verarbeitet alle Formatkonvertierungen von HTML in PDF und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle HTML bei. Unsere PHP-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von HTML- in PDF-Dateien. Dieses Cloud SDK stellt PHP-Entwicklern leistungsstarke Funktionen zur Verfügung und gewährleistet eine qualitativ hochwertige PDF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Konvertieren des Formats HTML in das Format PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel für die Konvertierung von HTML in PDF mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Das Konvertieren von Dateiformaten von HTML in PDF ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um HTML in PDF umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkBook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Excel-Dateien in andere Formate von HTML bis PDF zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

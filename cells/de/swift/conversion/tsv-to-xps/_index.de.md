@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV in XPS Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer TSV-Formatdatei in eine Datei im XPS-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer TSV-Formatdatei in eine Datei im XPS-Format.
 url: /de/swift/conversion/tsv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

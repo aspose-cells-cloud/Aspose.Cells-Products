@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva CSV come HTML API per PHP
-description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato CSV come file in formato HTML.
-url: /it/php/saveas/csv-to-html/
+title:  Salva CSV come HTML utilizzando PHP
+description:  Utilizzando Aspose.Cells Cloud SDK per PHP per salvare il file in formato CSV come file in formato HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API per salvare CSV come HTML" h2="PHP libreria per salvare CSV come HTML" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in PHP. Questa è una soluzione professionale per salvare CSV come HTML e altri formati di documenti online utilizzando PHP." urlsection="saveas/csv-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva CSV come HTML" h2="Libreria PHP per salvare CSV come HTML" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in PHP. Si tratta di una soluzione professionale per salvare CSV come HTML e altri formati di documenti online utilizzando PHP." urlsection="saveas/csv-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file CSV come HTML in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da CSV come HTML è un'attività complessa. Tutte le transizioni di formato da CSV a HTML vengono eseguite dal nostro SDK PHP mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria PHP è una soluzione professionale per salvare file CSV come file HTML online. Questo Cloud SDK offre agli sviluppatori PHP potenti funzionalità e un output HTML perfetto.
+Salvare i formati di file da CSV come HTML è un compito complesso. Tutte le transizioni dal formato CSV al formato HTML vengono eseguite dal nostro SDK PHP mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria PHP è una soluzione professionale per salvare online CSV come file HTML. Questo Cloud SDK offre agli sviluppatori PHP funzionalità potenti e un output HTML perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in PHP utilizzando REST API per salvare CSV come formato HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codice Esempio per salvare CSV come HTML utilizzando REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,15 +30,15 @@ Il salvataggio dei formati di file da CSV come HTML è un'attività complessa. T
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare PHP API per salvare CSV come HTML" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per PHP per salvare i file Excel in altri formati CSV come HTML" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PostWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>PHP 7.4 o più recente</li>
+<li>PHP 7.4 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

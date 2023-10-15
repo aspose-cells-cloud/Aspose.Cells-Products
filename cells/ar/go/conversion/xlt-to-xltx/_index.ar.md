@@ -1,19 +1,18 @@
 ﻿---
-title:  XLT إلى XLTX - تحويل API إلى Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XLT إلى ملف بتنسيق XLTX.
-url: /ar/go/conversion/xlt-to-xltx/
+title:  تحويل XLT إلى XLTX باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق XLT إلى ملف بتنسيق XLTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل XLT إلى XLTX" h2="انتقل إلى مكتبة لتحويل XLT إلى XLTX" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل XLT إلى XLTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/xlt-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLT إلى XLTX" h2="انتقل إلى المكتبة لتحويل XLT إلى XLTX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل XLT إلى XLTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/xlt-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLT إلى XLTX في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل XLT إلى XLTX باستخدام Cells Cloud SDK لـ Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLT إلى XLTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى XLTX بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLT المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات XLT إلى XLTX عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLTX مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLT إلى XLTX مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات تنسيق XLT إلى XLTX مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات XLT إلى XLTX عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من الحصول على وظائف قوية ويضمن إخراج XLTX عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل XLT إلى تنسيق XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لتحويل XLT إلى XLTX باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ url: /ar/go/conversion/xlt-to-xltx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل XLT إلى XLTX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتحويل ملفات Excel إلى تنسيقات أخرى من XLT إلى XLTX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

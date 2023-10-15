@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez PNG comme HTML API pour Python
-description: Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format PNG en tant que fichier au format HTML.
-url: /fr/python/saveas/png-to-html/
+title:  Enregistrez PNG sous HTML en utilisant Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format PNG en tant que fichier au format HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer PNG sous HTML" h2="Bibliothèque Python pour enregistrer PNG sous HTML" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer PNG sous HTML et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/png-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer le PNG sous le nom HTML" h2="Bibliothèque Python pour enregistrer PNG sous le nom HTML" p="Utilisez SaveAs API de Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer PNG sous HTML et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/png-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier PNG sous HTML dans Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier PNG sous HTML dans Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de PNG en HTML est une tâche complexe. Toutes les transitions de format PNG à HTML sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque Python est une solution professionnelle pour enregistrer les fichiers PNG en tant que HTML en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie HTML parfaite.
+Enregistrer les formats de fichiers de PNG à HTML est une tâche complexe. Toutes les transitions de format PNG à HTML sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque Python est une solution professionnelle pour enregistrer PNG en tant que fichiers HTML en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie HTML parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour enregistrer PNG au format HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Exemple de code pour enregistrer PNG sous HTML en utilisant REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ L'enregistrement des formats de fichiers de PNG en HTML est une tâche complexe.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour enregistrer PNG en tant que HTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python afin d\'enregistrer les fichiers Excel sous d\'autres formats PNG sous le nom HTML" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_workbook_save_as` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

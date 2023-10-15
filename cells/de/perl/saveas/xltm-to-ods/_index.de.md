@@ -1,10 +1,9 @@
 ﻿---
-title: Speichern Sie XLTM als ODS API für Perl
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die XLTM-Formatdatei als ODS-Formatdatei zu speichern.
-url: /de/perl/saveas/xltm-to-ods/
+title:  Speichern Sie XLTM als ODS mit Perl
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern der XLTM-Formatdatei als ODS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um XLTM als ODS zu speichern" h2="Perl-Bibliothek zum Speichern von XLTM als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um XLTM als ODS und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/xltm-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTM als ODS speichern" h2="Perl Bibliothek zum Speichern von XLTM als ODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um XLTM als ODS und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/xltm-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTM-Datei als ODS unter Perl" >}}
@@ -13,7 +12,7 @@ url: /de/perl/saveas/xltm-to-ods/
 Das Speichern von Dateiformaten aus XLTM als ODS ist eine komplexe Aufgabe. Alle XLTM-zu-ODS-Formatübergänge werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um XLTM als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von XLTM als ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel zum Speichern von XLTM als ODS mit REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Das Speichern von Dateiformaten aus XLTM als ODS ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um XLTM als ODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Perl, um Excel-Dateien in anderen Formaten, XLTM und ODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Beitrag anrufen_Arbeitsmappe_save_as-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

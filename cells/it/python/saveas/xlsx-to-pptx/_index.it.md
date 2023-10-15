@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva XLSX come PPTX API per Python
-description:  Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato XLSX come file in formato PPTX.
-url: /it/python/saveas/xlsx-to-pptx/
+title:  Salva XLSX come PPTX utilizzando Python
+description:  Utilizzando Aspose.Cells Cloud SDK per Python per salvare il file in formato XLSX come file in formato PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per salvare XLSX come PPTX" h2="Python libreria per salvare XLSX come PPTX" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Python. Questa è una soluzione professionale per salvare XLSX come PPTX e altri formati di documenti online utilizzando Python." urlsection="saveas/xlsx-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLSX come PPTX" h2="Libreria Python per il salvataggio di XLSX come PPTX" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Python. Si tratta di una soluzione professionale per salvare XLSX come PPTX e altri formati di documenti online utilizzando Python." urlsection="saveas/xlsx-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLSX come PPTX in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da XLSX come PPTX è un'attività complessa. Tutte le transizioni di formato da XLSX a PPTX vengono eseguite dal nostro SDK Python mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria Python è una soluzione professionale per salvare XLSX come file PPTX online. Questo Cloud SDK offre agli sviluppatori Python potenti funzionalità e un output PPTX perfetto.
+Salvare i formati di file da XLSX come PPTX è un compito complesso. Tutte le transizioni dal formato XLSX al formato PPTX vengono eseguite dal nostro SDK Python mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria Python è una soluzione professionale per salvare online XLSX come file PPTX. Questo Cloud SDK offre agli sviluppatori Python funzionalità potenti e un output PPTX perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Python utilizzando REST API per salvare XLSX come formato PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codice Esempio per salvare XLSX come PPTX utilizzando REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,16 +29,16 @@ Il salvataggio dei formati di file da XLSX come PPTX è un'attività complessa. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Python API per salvare XLSX come PPTX" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama celle_salva_COME_inviare_documento_salva_come metodo per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Python per salvare i file Excel in altri formati XLSX come PPTX" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `post_workbook_save_as` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Python 2.7 o più recente</li>
-<li>Python 3.10 o più recente</li>
+<li>Python 2.7 o successiva</li>
+<li>Python 3.10 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

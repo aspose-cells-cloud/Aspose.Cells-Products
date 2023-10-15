@@ -1,5 +1,5 @@
 ﻿---
-title: PNG till GIF Konvertera API för Swift
+title:  PNG till GIF Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera PNG filformat till GIF-format fil.
 url: /sv/swift/conversion/png-to-gif/
 ---

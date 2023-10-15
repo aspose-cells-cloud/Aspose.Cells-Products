@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير CHART إلى JPG من جدول البيانات باستخدام Ruby API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/ruby/export/chart-to-jpg/
+title:  تصدير CHART إلى JPG من Excel باستخدام Cells Cloud SDK لـ Ruby
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لتصدير CHART إلى ملف JPG" h2="مكتبة روبي لتصدير CHART إلى ملف JPG" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Ruby. هذا حل احترافي لتصدير CHART إلى ملف بتنسيق JPG من جدول بيانات عبر الإنترنت باستخدام Ruby." urlsection="export/chart-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير CHART إلى JPG من Excel" h2="مكتبة روبي لتصدير CHART إلى ملف JPG" p="استخدم تصدير API من Cells Cloud لتصدير Excel سير عمل الكائن الداخلي في Ruby. يعد هذا حلاً احترافيًا لتصدير ملف CHART إلى تنسيق JPG من جدول البيانات عبر الإنترنت باستخدام Ruby." urlsection="export/chart-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق JPG في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتصدير كائن CHART إلى ملف بتنسيق JPG باستخدام Cells Cloud SDK لـ Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن CHART إلى ملف JPG من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير المخطط إلى تنسيق JPG بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CHART المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات CHART إلى ملفات بتنسيق JPG عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج JPG مثالي.
+يعد تصدير كائن CHART إلى ملف JPG من ملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير CHART إلى تنسيق JPG بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CHART المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات CHART إلى ملفات بتنسيق JPG عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية ومخرجات JPG مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتصدير CHART إلى تنسيق JPG من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في روبي باستخدام REST API لتصدير CHART إلى تنسيق JPG من جدول البيانات" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +34,10 @@ url: /ar/ruby/export/chart-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتصدير CHART إلى JPG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لروبي لتصدير الكائنات من Excel CHART إلى JPG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
-title:  حوِّل من Excel FODS إلى XML via Python
-description: إنشاء ملفات Excel أو تحريرها أو تحويلها باستخدام REST API & Open Source Python SDK
+title:  التحويل من Excel FODS إلى XML via Python
+description: إنشاء أو تحرير أو تحويل ملفات Excel باستخدام REST API ومفتوح المصدر Python SDK
 url: /ar/python/conversion/fods-to-xml/
 family: cells
 platformtag: python
@@ -11,24 +11,24 @@ platform: Python
 otherformats: XLSX XLSM XLT ODS XLTX SVG XLTM TXT XPS DIF MHTML FODS XLSB TIFF MD PDF 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى XML باستخدام Python" h2="قراءة وتحرير وتصدير بيانات Excel إلى تنسيقات أخرى باستخدام Cloud SDK مفتوح المصدر لـ Python" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى XML مع Python" h2="قراءة وتحرير وتصدير بيانات Excel إلى تنسيقات أخرى باستخدام Cloud SDK مفتوح المصدر لـ Python" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="FODS لتحويل XML مع Python" %}}
-1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية
-1. قم بتهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
-1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي باستخدام طريقة ```CellsApi.upload_file```
-1. قم باستدعاء طريقة ```CellsApi.cells_save_as_post_document_save_as``` للحصول على ملف XML الناتج
+1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا
+1. تهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
+1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي بطريقة ```CellsApi.upload_file```
+1. اتصل بطريقة ```CellsApi.cells_save_as_post_document_save_as``` للحصول على ملف XML الناتج
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ابدأ باستخدام Excel API و Python SDK" %}}
- احصل على Excel Cloud SDK للحصول على كود المصدر Python من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات تنزيل بديلة.
+{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel API و Python SDK" %}}
+ احصل على Excel Cloud SDK لرمز المصدر Python من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
 
- ألقِ نظرة أيضًا على Swagger المستندة إلى[API المرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel راحة API](https://products.aspose.cloud/cells/curl/).
+ قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Python كود FODS لتحويل XML" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Python كود تحويل FODS إلى XML" gistPath="" %}}
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
 import os

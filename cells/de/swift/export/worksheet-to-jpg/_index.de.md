@@ -1,5 +1,5 @@
 ﻿---
-title:  Exportieren Sie ARBEITSBLATT aus der Tabelle mit Swift API in JPG
+title: Exportieren Sie ARBEITSBLATT aus der Tabelle mit Swift API in JPG
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/worksheet-to-jpg/
 ---

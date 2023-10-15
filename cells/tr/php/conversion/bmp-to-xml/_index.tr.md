@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP'den XML'e Dönüştürme API için PHP
-description:  BMP biçimindeki dosyayı XML biçimindeki dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/php/conversion/bmp-to-xml/
+title:  BMP'i PHP'i kullanarak XML'e dönüştürün
+description:  BMP formatındaki bir dosyayı XML formatındaki bir dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i XML\'e dönüştürmek için PHP API" h2="BMP\'i XML\'e dönüştürmek için PHP kitaplığı" p="PHP\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, BMP\'i PHP kullanarak çevrimiçi olarak XML ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i XML\'e dönüştür" h2="BMP\'i XML\'e dönüştürmek için PHP kitaplığı" p="PHP projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, BMP\'i PHP\'i kullanarak çevrimiçi olarak XML\'e ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını PHP\'de XML\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PHP için Cells Cloud SDK\'yı kullanarak BMP\'i XML\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını BMP'den XML'e dönüştürmek karmaşık bir iştir. Tüm BMP'den XML formatına geçişler, PHP SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, BMP'i çevrimiçi XML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+Dosya formatlarını BMP'den XML'e dönüştürmek karmaşık bir iş olabilir. PHP SDK'mız, kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriğini korurken, BMP'den XML formatına tüm dönüşümleri gerçekleştirir. PHP kitaplığımız, BMP'i çevrimiçi XML dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, PHP geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli XML çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="BMP\'i XML formatına dönüştürmek için REST API\'i kullanan PHP\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Cells Cloud SDK\'yı kullanarak BMP\'i XML\'e dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Dosya formatlarını BMP'den XML'e dönüştürmek karmaşık bir iştir. Tüm B
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="BMP\'i XML\'e dönüştürmek için PHP API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkBook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için PHP için Cells Cloud SDK nasıl kullanılır BMP XML\'e" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

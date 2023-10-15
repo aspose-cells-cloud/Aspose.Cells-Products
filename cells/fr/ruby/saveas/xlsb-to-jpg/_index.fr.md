@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XLSB au format JPG API pour Ruby
-description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format XLSB en tant que fichier au format JPG.
-url: /fr/ruby/saveas/xlsb-to-jpg/
+title:  Enregistrer XLSB au format JPG en utilisant Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format XLSB au format JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour enregistrer XLSB au format JPG" h2="Bibliothèque Ruby pour enregistrer XLSB au format JPG" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB au format JPG et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/xlsb-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLSB au format JPG" h2="Bibliothèque Ruby pour enregistrer XLSB au format JPG" p="Utilisez SaveAs API sur Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB au format JPG et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/xlsb-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB au format JPG dans Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers XLSB au format JPG est une tâche complexe. Toutes les transitions de format XLSB à JPG sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer en ligne des fichiers XLSB sous forme de fichiers JPG. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie JPG parfaite.
+Enregistrer les formats de fichiers XLSB au format JPG est une tâche complexe. Toutes les transitions du format XLSB vers JPG sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer XLSB sous forme de fichiers JPG en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie JPG parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour enregistrer XLSB au format JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Ruby pour enregistrer XLSB au format JPG à l\'aide de REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,15 +32,15 @@ L'enregistrement de formats de fichiers XLSB au format JPG est une tâche comple
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Ruby API pour enregistrer XLSB au format JPG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour enregistrer les fichiers Excel sous d\'autres formats XLSB au format JPG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_workbook_save_as` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

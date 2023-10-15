@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ ODS بصيغة CSV API من أجل Ruby
+title:  احفظ ODS كملف CSV باستخدام Ruby
 description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق ODS كملف بتنسيق CSV.
-url: /ar/ruby/saveas/ods-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لحفظ المواد المستنفدة للأوزون كملف CSV" h2="مكتبة روبي لحفظ ODS كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لحفظ ODS كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/ods-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ المواد المستنفدة للأوزون كملف CSV" h2="مكتبة روبي لحفظ المواد المستنفدة للأوزون بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Ruby. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/ods-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كملف CSV في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بتنسيق CSV في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من نظام الوثائق الرسمية كمهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى CSV بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ ODS كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج CSV مثالي.
+يعد حفظ تنسيقات الملفات من ODS بتنسيق CSV مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق ODS إلى CSV بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية ومخرجات CSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ ODS بتنسيق CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لحفظ المواد المستنفدة للأوزون كملف CSV باستخدام REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /ar/ruby/saveas/ods-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لحفظ ODS كملف CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لحفظ ملفات Excel بتنسيقات أخرى ODS مثل CSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

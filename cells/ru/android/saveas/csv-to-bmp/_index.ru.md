@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить CSV как BMP API для Android
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата CSV как файла формата BMP.
-url: /ru/android/saveas/csv-to-bmp/
+title: Сохраните CSV как BMP с помощью Android.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата CSV как файла формата BMP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения CSV как BMP" h2="Библиотека Android для сохранения CSV как BMP" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения CSV как BMP и других форматов документов онлайн с помощью Android." urlsection="saveas/csv-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить CSV как BMP" h2="Библиотека Android для сохранения CSV как BMP" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения CSV как BMP и других форматов документов онлайн с помощью Android." urlsection="saveas/csv-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как BMP в Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV как BMP — сложная задача. Все переходы между форматами CSV и BMP выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Android — это профессиональное решение для сохранения CSV-файлов в формате BMP онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод BMP.
+Сохранение формата файлов из CSV как BMP — сложная задача. Все переходы формата CSV в BMP выполняются нашим Android SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы CSV. Наша библиотека Android — это профессиональное решение для сохранения CSV-файлов в формате BMP онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод BMP.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения CSV в формате BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для сохранения CSV как BMP с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,15 +34,15 @@ url: /ru/android/saveas/csv-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения CSV как BMP" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для сохранения файлов Excel в других форматах CSV как BMP" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

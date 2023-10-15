@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XLSM بتنسيق XML API for Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSM كملف بتنسيق XML.
-url: /ar/java/saveas/xlsm-to-xml/
+title:  احفظ XLSM كـ XML باستخدام Java
+description: استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSM كملف بتنسيق XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLSM على هيئة XML" h2="Java مكتبة لحفظ XLSM على هيئة XML" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLSM على هيئة XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlsm-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLSM بتنسيق XML" h2="مكتبة Java لحفظ XLSM بصيغة XML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ XLSM بتنسيق XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlsm-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSM بتنسيق XML في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSM على هيئة XML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى XML بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لحفظ XLSM كملفات XML عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج XML مثالي.
+يعد حفظ تنسيقات الملفات من XLSM بتنسيق XML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى XML بواسطة Java SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبتنا Java حلاً احترافيًا لحفظ XLSM كملفات XML عبر الإنترنت. يوفر Cloud SDK لمطوري Java وظائف قوية ومخرجات XML مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لحفظ XLSM كتنسيق XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لحفظ XLSM كـ XML باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ url: /ar/java/saveas/xlsm-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ XLSM على هيئة XML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لحفظ ملفات Excel بتنسيقات أخرى XLSM كـ XML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

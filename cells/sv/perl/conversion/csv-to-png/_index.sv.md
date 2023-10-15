@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV till PNG Konvertera API till Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i CSV-format till fil i PNG-format.
-url: /sv/perl/conversion/csv-to-png/
+title:  Konvertera CSV till PNG med Perl
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera en fil i CSV-format till en fil i PNG-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att konvertera CSV till PNG" h2="Perl bibliotek för att konvertera CSV till PNG" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att konvertera CSV till PNG och andra dokumentformat online med Perl." urlsection="conversion/csv-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera CSV till PNG" h2="Perl bibliotek för att konvertera CSV till PNG" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl projekt. Detta är en professionell lösning för att konvertera CSV till PNG och andra dokumentformat online med Perl." urlsection="conversion/csv-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en CSV-fil till PNG i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera CSV till PNG med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från CSV till PNG är en komplex uppgift. Alla formatövergångar från CSV till PNG utförs av vår Perl SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att konvertera CSV-filer till PNG-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och perfekt PNG-utdata.
+Att konvertera filformat från CSV till PNG kan vara en komplicerad uppgift. Vår Perl SDK hanterar alla CSV- till PNG-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-CSV-kalkylarket bevaras. Vårt Perl-bibliotek erbjuder en professionell lösning för att konvertera CSV-filer till PNG-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa PNG-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att konvertera CSV till PNG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kodexempel för att konvertera CSV till PNG med Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Att konvertera filformat från CSV till PNG är en komplex uppgift. Alla format�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att konvertera CSV till PNG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl SDK för att konvertera CSV till PNG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

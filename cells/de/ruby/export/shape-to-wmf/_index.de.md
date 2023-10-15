@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie SHAPE aus der Tabellenkalkulation mit Ruby API nach WMF
+title:  Exportieren Sie SHAPE von Excel nach WMF mit Cells Cloud SDK für Ruby
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/ruby/export/shape-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Exportieren von SHAPE in eine WMF-Datei" h2="Ruby-Bibliothek zum Exportieren von SHAPE in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von SHAPE in eine WMF-Formatdatei aus einer Tabellenkalkulation mit Ruby." urlsection="export/shape-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie SHAPE von Excel nach WMF" h2="Ruby-Bibliothek zum Exportieren von SHAPE in eine WMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von SHAPE in eine WMF-Formatdatei aus einer Tabellenkalkulation mit Ruby." urlsection="export/shape-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in eine WMF-Formatdatei in Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in eine Datei im WMF-Format mit dem Cloud SDK Cells für Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in eine WMF-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von SHAPE in das WMF-Format wird von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SHAPE-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Exportieren eines SHAPE-Objekts aus der Datei Excel in eine WMF-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von SHAPE in das WMF-Format wird von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SHAPE-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Exportieren von SHAPE aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}
@@ -35,9 +34,9 @@ Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in eine WMF-Da
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um SHAPE nach WMF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Objekte von Excel SHAPE nach WMF zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

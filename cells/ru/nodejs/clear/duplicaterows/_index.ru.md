@@ -1,27 +1,26 @@
 ﻿---
-title:  Удалите повторяющиеся строки в локальной книге с помощью NodeJS в облаке
-description:  Облачные API и SDK для удаления повторяющихся строк в Microsoft Excel и OpenOffice Calc с NodeJS. Удаление повторяющихся строк в локальных электронных таблицах с помощью Cells Cloud API SDK для NodeJS
-url: /ru/nodejs/clear/duplicate-rows/
+title:  Удалите повторяющиеся строки из локальной книги с помощью NodeJS в облачной среде Aspose Cells.
+description:  Облачные API и SDK для очистки повторяющихся строк в Microsoft, Excel и OpenOffice Calc с использованием NodeJS. Удалите повторяющиеся строки в локальных таблицах с помощью Cloud SDK Cells для NodeJS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="NodeJS Clear, чтобы очистить повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить повторяющиеся строки в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение удаляет повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с помощью NodeJS." urlsection="clear/Duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление повторяющихся строк в локальных таблицах Microsoft Excel и OpenOffice Calc." h2="Библиотека NodeJS для удаления повторяющихся строк из локальных таблиц Microsoft Excel и OpenOffice Calc." p="Используйте Cells Clear REST API, чтобы удалить повторяющиеся строки из локальных Microsoft Excel и электронных таблиц OpenOffice Calc в рабочих процессах NodeJS. Это профессиональное решение эффективно удаляет повторяющиеся строки из локальных таблиц Microsoft Excel и OpenOffice Calc с помощью NodeJS." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — NodeJS REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Удалите повторяющиеся строки в локальных таблицах Microsoft Excel и OpenOffice Calc с помощью Cells Cloud SDK для NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Очистка повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc является сложной задачей. Очистка повторяющихся строк в локальных переходах электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека NodeJS — это профессиональное решение для удаления повторяющихся строк в локальной электронной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и совершенный API.
+Удаление повторяющихся строк из локальных таблиц Microsoft, Excel и OpenOffice Calc является сложной задачей, и наш Cloud SDK Cells для NodeJS обрабатывает этот переход, сохраняя при этом структурное и логическое содержимое исходной таблицы. Наша библиотека NodeJS — это профессиональное решение для эффективной очистки повторяющихся строк онлайн в локальных таблицах Microsoft Excel и OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам NodeJS надежную функциональность и мощный код API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Код NodeJS для очистки повторяющихся строк в локальных электронных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-Clear-DuplicateRows.js" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Код NodeJS для очистки повторяющихся строк в локальных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-Clear-DuplicateRows.js" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Как использовать Node API для очистки повторяющихся строк" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postClearObjects, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для удаления повторяющихся строк" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postClearObjects` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

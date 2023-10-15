@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XML كـ EMF API لـ PHP
+title:  احفظ XML كـ EMF باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XML كملف بتنسيق EMF.
-url: /ar/php/saveas/xml-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ XML كـ EMF" h2="مكتبة PHP لحفظ XML كـ EMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ XML كـ EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/xml-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XML كـ EMF" h2="مكتبة PHP لحفظ XML كـ EMF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في PHP. يعد هذا حلاً احترافيًا لحفظ XML كـ EMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/xml-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML بالشكل EMF في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML باسم EMF في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XML كـ EMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى EMF بواسطة PHP SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لحفظ XML كملفات EMF عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج EMF مثالي.
+يعد حفظ تنسيقات الملفات من XML بالرقم EMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى EMF بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحفظ XML كملفات EMF عبر الإنترنت. يمنح Cloud SDK هذا مطوري PHP وظائف قوية وإخراج EMF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ XML بتنسيق EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لحفظ XML كـ EMF باستخدام REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ar/php/saveas/xml-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لحفظ XML كـ EMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لحفظ ملفات Excel بتنسيقات XML أخرى مثل EMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

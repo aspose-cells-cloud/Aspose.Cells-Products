@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie EMF als SXC API für PHP
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im EMF-Format als SXC-Formatdatei zu speichern.
-url: /de/php/saveas/emf-to-sxc/
+title:  Speichern Sie EMF als SXC mit PHP
+description:  Verwendung des Aspose.Cells Cloud SDK für PHP zum Speichern der Datei im EMF-Format als SXC-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um EMF als SXC zu speichern" h2="PHP-Bibliothek zum Speichern von EMF als SXC" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um EMF als SXC und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/emf-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie EMF als SXC" h2="PHP-Bibliothek zum Speichern von EMF als SXC" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um EMF als SXC und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/emf-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine EMF-Datei als SXC in PHP" >}}
@@ -13,7 +12,7 @@ url: /de/php/saveas/emf-to-sxc/
 Das Speichern von Dateiformaten von EMF als SXC ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum SXC-Format werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um EMF als SXC-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte SXC-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Speichern von EMF im SXC-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel zum Speichern von EMF als SXC mit REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten von EMF als SXC ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um EMF als SXC zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Excel Dateien in anderen Formaten zu speichern, EMF als SXC" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

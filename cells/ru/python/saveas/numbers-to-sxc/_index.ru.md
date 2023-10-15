@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить НОМЕРА как SXC API для Python
-description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата NUMBERS в виде файла формата SXC.
-url: /ru/python/saveas/numbers-to-sxc/
+title: Сохраните ЧИСЛА как SXC, используя Python.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата NUMBERS как файла формата SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, чтобы сохранить НОМЕРА как SXC" h2="Библиотека Python для сохранения NUMBERS как SXC" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения NUMBERS в формате SXC и других форматах документов в Интернете с использованием Python." urlsection="saveas/numbers-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ЧИСЛА как SXC" h2="Python библиотека для сохранения ЧИСЕЛ в формате SXC" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Python. Это профессиональное решение для сохранения ЧИСЕЛ в формате SXC и других форматов документов онлайн с использованием Python." urlsection="saveas/numbers-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как SXC в Python." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как SXC по номеру Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как SXC — сложная задача. Все преобразования формата NUMBERS в формат SXC выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для сохранения NUMBERS в виде файлов SXC в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат SXC.
+Сохранение форматов файлов из NUMBERS в формате SXC — сложная задача. Все переходы формата NUMBERS в SXC выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов SXC в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения NUMBERS в формате SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для сохранения ЧИСЕЛ как SXC с использованием REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ru/python/saveas/numbers-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для сохранения NUMBERS как SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python, чтобы сохранить файлы Excel в других форматах ЦИФРЫ как SXC" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML в XLSX Конвертировать API для Ruby
-description: Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата HTML в файл формата XLSX.
-url: /ru/ruby/conversion/html-to-xlsx/
+title:  Преобразование HTML в XLSX с помощью Ruby
+description: Использование Cloud SDK Aspose.Cells для Ruby для преобразования файла формата HTML в файл формата XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования HTML в XLSX" h2="Библиотека Ruby для преобразования HTML в XLSX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для преобразования HTML в XLSX и другие форматы документов онлайн с использованием Ruby." urlsection="conversion/html-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать HTML в XLSX" h2="Библиотека Ruby для преобразования HTML в XLSX" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Ruby. Это профессиональное решение для конвертации HTML в XLSX и другие форматы документов онлайн с помощью Ruby." urlsection="conversion/html-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в XLSX в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте HTML в XLSX с помощью Cloud SDK Cells для Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в XLSX — сложная задача. Все переходы формата HTML в формат XLSX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов HTML в XLSX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
+Преобразование форматов файлов с HTML в XLSX может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования формата HTML в XLSX, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертации HTML в файлы XLSX. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод в формате XLSX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования HTML в формат XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для преобразования HTML в XLSX с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ru/ruby/conversion/html-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для преобразования HTML в XLSX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для преобразования файлов Excel в другие форматы HTML в XLSX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG in XLSX Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine XLSX-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine XLSX-Formatdatei.
 url: /de/swift/conversion/png-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

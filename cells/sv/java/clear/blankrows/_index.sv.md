@@ -1,10 +1,9 @@
 ﻿---
 title:  Rensa tomma rader i den lokala arbetsboken i Cloud
 description: "Cloud API:er och SDK:er för att rensa tomma rader på Microsoft Excel & OpenOffice Calc. Rensa tomma rader på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/java/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att rensa tomma rader på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Java Rensa för att rensa tomma rader på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa tomma rader på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Java. Den här professionella lösningen rensar tomma rader på lokala 0761536164 kalkylblad 1c0616481 och OpenOffice 106483 1c06483 1c06481 8 3481." urlsection="clear/Blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort tomma rader på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Java Rensa för att rensa tomma rader på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa tomma rader på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Java. Den här professionella lösningen rensar tomma rader på lokala 0761536164 kalkylblad 1c0616481 och OpenOffice 106483 1c06483 1c06481 8 3481." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa tomma rader på lokal Microsoft Excel och OpenOffice Calc-kalkylblad - Java REST API" >}}
@@ -18,9 +17,9 @@ Rensa tomma rader på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Java API för att rensa tomma rader" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att rensa tomma rader" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop postClearObjects-metoden för att få den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

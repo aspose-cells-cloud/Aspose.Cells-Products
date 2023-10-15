@@ -1,5 +1,5 @@
 ﻿---
-title: " Gå till Cloud SDK för att generera, redigera och konvertera Excel filer via REST API:er"
+title: "Gå till Cloud SDK för att generera, redigera och konvertera Excel filer via REST API:er"
 description:  Använd cURL-kommandon för att skapa kalkylarks- och omvandlarappar som får åtkomst till Microsoft Excel- och OpenOffice-filer från molnlagring för bearbetning
 weight: 50
 url: /sv/go
@@ -75,7 +75,7 @@ url: /sv/go
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Excel Funktioner för bearbetning av kalkylblad
+ Excel Funktioner för bearbetning av kalkylblad
    </h2>
    <p>
    </p>
@@ -160,7 +160,7 @@ Excel Funktioner för bearbetning av kalkylblad
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Sammanfatta data för stora ListObject eller tabell med pivottabell
+ Sammanfatta data för stora ListObject eller tabell med pivottabell
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ Sammanfatta data för stora ListObject eller tabell med pivottabell
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ta bort specifika eller alla OleObjects från kalkylbladet
+Ta bort specifika eller alla OleObjects från kalkylbladet
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,7 +235,7 @@ För att komma igång med Aspose.Cells Cloud SDK för Go behöver du inte instal
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose för Cloud
      </a>
- och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Go på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Ruby ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
+ och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Go på alla plattformar som stöder REST API:er. Aspose.Cells Cloud SDK för Ruby ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
     </p>
    </div>
    <div class="col-lg-12">

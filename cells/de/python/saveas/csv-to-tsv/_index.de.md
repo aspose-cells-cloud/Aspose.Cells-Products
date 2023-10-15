@@ -1,10 +1,9 @@
 ﻿---
-title:  CSV als TSV API für Python speichern
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Speichern von CSV-Formatdateien als TSV-Formatdateien.
-url: /de/python/saveas/csv-to-tsv/
+title:  CSV als TSV mit Python speichern
+description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern von CSV-Formatdateien als TSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um CSV als TSV zu speichern" h2="Python-Bibliothek zum Speichern von CSV als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um CSV als TSV und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/csv-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="CSV als TSV speichern" h2="Python Bibliothek zum Speichern von CSV als TSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um CSV als TSV und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/csv-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine CSV-Datei als TSV unter Python" >}}
@@ -13,7 +12,7 @@ url: /de/python/saveas/csv-to-tsv/
 Das Speichern von Dateiformaten von CSV als TSV ist eine komplexe Aufgabe. Alle CSV-zu-TSV-Formatübergänge werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-CSV-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um CSV-Dateien online als TSV-Dateien zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Speichern von CSV im TSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel zum Speichern von CSV als TSV mit REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Das Speichern von Dateiformaten von CSV als TSV ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um CSV als TSV zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Python, um Excel-Dateien in anderen Formaten wie CSV oder TSV zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

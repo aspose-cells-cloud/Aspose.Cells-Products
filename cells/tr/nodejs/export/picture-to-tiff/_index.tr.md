@@ -1,19 +1,18 @@
 ﻿---
-title:  PICTURE'ı NodeJS API kullanarak e-tablodan TIFF'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/nodejs/export/picture-to-tiff/
+title:  NodeJS için Cells Bulut SDK'sını kullanarak RESİM'i Excel'den TIFF'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PICTURE\'ı TIFF dosyasına dışa aktarmak için NodeJS API" h2="PICTURE\'ı TIFF dosyasına dışa aktarmak için NodeJS kitaplığı" p="NodeJS\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, PICTURE dosyasını NodeJS kullanarak elektronik tablodan TIFF biçiminde dışa aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="RESMİ Excel\'den TIFF\'e aktar" h2="RESİM\'i TIFF dosyasına aktarmak için NodeJS kütüphanesi" p="NodeJS\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, NodeJS kullanarak çevrimiçi elektronik tablodan RESİM\'i TIFF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PICTURE nesnesini NodeJS\'de TIFF format dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS için Cells Bulut SDK\'sını kullanarak PICTURE nesnesini TIFF biçimli dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-PICTURE nesnesini elektronik tablodan TIFF dosyasına dışa aktarma karmaşık bir iştir. PICTURE'ı TIFF biçimine dışa aktarma geçişleri, kaynak PICTURE e-tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, PICTURE nesnelerini çevrimiçi olarak TIFF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
+PICTURE nesnesini Excel dosyasından TIFF dosyasına aktarmak karmaşık bir iştir. PICTURE'ı TIFF'e aktarma format geçişleri, kaynak PICTURE elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kütüphanemiz, PICTURE nesnelerini çevrimiçi olarak TIFF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PICTURE\'ı e-tablodan TIFF formatına dışa aktarmak için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PICTURE\'ı e-tablodan TIFF formatına aktarmak için REST API\'i kullanan NodeJS\'deki kod örneği" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -41,10 +40,10 @@ PICTURE nesnesini elektronik tablodan TIFF dosyasına dışa aktarma karmaşık 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="RESİM\'i TIFF\'e dışa aktarmak için API Düğümü nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel PICTURE\'dan TIFF\'e dışa aktarmak için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

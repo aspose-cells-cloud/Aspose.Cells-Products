@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie JPG als GIF API für C#
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine Datei im JPG-Format als Datei im GIF-Format zu speichern.
-url: /de/net/saveas/jpg-to-gif/
+title:  Speichern Sie JPG als GIF mit C#
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern von JPG-Formatdateien als GIF-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um JPG als GIF zu speichern" h2="C#-Bibliothek zum Speichern von JPG als GIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um JPG als GIF und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/jpg-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG als GIF speichern" h2="C# Bibliothek zum Speichern von JPG als GIF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um JPG als GIF und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/jpg-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei als GIF unter C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/jpg-to-gif/
 Das Speichern von Dateiformaten von JPG als GIF ist eine komplexe Aufgabe. Alle Übergänge vom JPG- zum GIF-Format werden von unserem SDK C# durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der JPG-Quelltabelle erhalten bleiben. Unsere C#-Bibliothek ist eine professionelle Lösung, um JPG-Dateien online als GIF-Dateien zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und eine perfekte GIF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von JPG als GIF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von JPG als GIF mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten von JPG als GIF ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um JPG als GIF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in anderen Formaten, JPG und GIF, zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

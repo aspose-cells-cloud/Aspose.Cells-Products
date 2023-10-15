@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till FODS Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i HTML-format till fil i FODS-format.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i HTML-format till fil i FODS-format.
 url: /sv/swift/conversion/html-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспорт ИЗОБРАЖЕНИЯ в JPG из электронной таблицы с использованием NodeJS API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/nodejs/export/picture-to-jpg/
+title:  Экспортируйте PICTURE в JPG из Excel с помощью Cloud SDK Cells для NodeJS.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для экспорта ИЗОБРАЖЕНИЯ в файл JPG" h2="Библиотека NodeJS для экспорта ИЗОБРАЖЕНИЯ в файл JPG" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в NodeJS. Это профессиональное решение для экспорта ИЗОБРАЖЕНИЯ в файл формата JPG из электронной таблицы онлайн с использованием NodeJS." urlsection="export/picture-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт ИЗОБРАЖЕНИЯ в JPG из Excel" h2="Библиотека NodeJS для экспорта ИЗОБРАЖЕНИЯ в файл JPG." p="Используйте «Экспорт API» из «Cells Cloud» для экспорта рабочих процессов внутренних объектов файлов Excel в NodeJS. Это профессиональное решение для экспорта ИЗОБРАЖЕНИЯ в файл формата JPG из электронной таблицы онлайн с помощью NodeJS." urlsection="export/picture-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта PICTURE в файл формата JPG в NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект PICTURE в файл формата JPG с помощью Cloud SDK Cells для NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта ИЗОБРАЖЕНИЕ в файл JPG из электронной таблицы является сложной задачей. Переходы экспорта ИЗОБРАЖЕНИЯ в формат JPG выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека NodeJS — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата JPG. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод JPG.
+Экспорт объекта PICTURE в файл JPG из файла Excel — сложная задача. Экспорт переходов формата PICTURE в JPG выполняется нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы PICTURE. Наша библиотека NodeJS — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата JPG. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для экспорта ИЗОБРАЖЕНИЯ в формат JPG из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для экспорта PICTURE в формат JPG из электронной таблицы" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -41,10 +40,10 @@ url: /ru/nodejs/export/picture-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для экспорта ИЗОБРАЖЕНИЯ в JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для экспорта объектов из Excel PICTURE в JPG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

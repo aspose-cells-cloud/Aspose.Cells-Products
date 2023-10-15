@@ -1,14 +1,13 @@
 ﻿---
-title:  Ställ in bakgrunden med Python
-description:  Aspose.Cells Cloud REST API stöder set bakgrund för Excel fil med Python. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
-url: /sv/python/background/
+title:  Ställ in en bakgrund för Excel-filer med Python
+description: " Aspose.Cells Cloud REST API stöder inställning av bakgrunden för Excel-filer med Python, och erbjuder SDK:er för olika programmeringsspråk."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ställ in bakgrunden med Python" h2="Aspose.Cells Cloud SDK stöder tydligt innehåll, stil, diagram, tabell, bakgrund och så vidare i Excel-filer." p="Aspose.Cells Cloud REST API stöder set bakgrund för Excel fil med Python. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ställ in en bakgrund för Excel-filer med Python" h2="Aspose.Cells Cloud SDK stöder inställning av bakgrunder i Excel-filer." p="Aspose.Cells Cloud REST API stöder inställning av bakgrunden för Excel-filer med Python, och erbjuder SDK:er för olika programmeringsspråk." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Ställ in bakgrund med Python Tilläggslänkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Ställ in en bakgrund för Excel-filer med Python tilläggslänkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

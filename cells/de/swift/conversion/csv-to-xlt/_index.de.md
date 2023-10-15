@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV in XLT Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im CSV-Format in eine Datei im XLT-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im CSV-Format in eine Datei im XLT-Format.
 url: /de/swift/conversion/csv-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

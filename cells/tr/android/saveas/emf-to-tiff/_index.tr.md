@@ -1,19 +1,18 @@
 ﻿---
-title: Android için EMF'i TIFF API olarak kaydet
-description:  EMF biçim dosyasını TIFF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
-url: /tr/android/saveas/emf-to-tiff/
+title: Android'i kullanarak EMF'i TIFF olarak kaydedin
+description:  EMF formatındaki dosyayı TIFF formatındaki dosya olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i TIFF olarak kaydetmek için Android API" h2="EMF\'i TIFF olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Android kullanarak çevrimiçi olarak EMF\'i TIFF olarak ve diğer belge biçimlerini kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i TIFF olarak kaydet" h2="EMF\'i TIFF olarak kaydetmek için Android kütüphanesi" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Android kullanarak EMF\'i TIFF olarak ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir EMF dosyasını TIFF olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="EMF dosyasını Android\'de TIFF olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-EMF'deki dosya biçimlerini TIFF olarak kaydetmek karmaşık bir iştir. EMF'den TIFF'e tüm format geçişleri, kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, EMF'i çevrimiçi olarak TIFF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
+Dosya formatlarını EMF'den TIFF olarak kaydetmek karmaşık bir iştir. EMF'den TIFF'e tüm format geçişleri, kaynak EMF elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, EMF'i çevrimiçi olarak TIFF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="EMF\'i TIFF biçiminde kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="REST API\'i kullanarak EMF\'i TIFF olarak kaydetmek için Android Kod Örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ EMF'deki dosya biçimlerini TIFF olarak kaydetmek karmaşık bir iştir. EMF'den
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="EMF\'i TIFF olarak kaydetmek için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlar olarak kaydetmek için Android için Cells Cloud SDK nasıl kullanılır? EMF, TIFF olarak" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

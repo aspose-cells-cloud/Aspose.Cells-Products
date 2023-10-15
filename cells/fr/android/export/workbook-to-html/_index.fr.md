@@ -1,19 +1,18 @@
 ﻿---
-title:  Exporter WORKBOOK vers HTML à partir d'une feuille de calcul à l'aide d'Android API
+title: Exportez WORKBOOK vers HTML à partir de Excel à l'aide du SDK Cloud Cells pour Android
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
-url: /fr/android/export/workbook-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour exporter WORKBOOK vers le fichier HTML" h2="Bibliothèque Android pour exporter WORKBOOK vers le fichier HTML" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Android. Il s\'agit d\'une solution professionnelle pour exporter WORKBOOK vers un fichier au format HTML à partir d\'une feuille de calcul en ligne à l\'aide d\'Android." urlsection="export/workbook-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter WORKBOOK vers HTML à partir de Excel" h2="Bibliothèque Android pour exporter WORKBOOK vers le fichier HTML" p="Utilisez Export API de Cells Cloud pour exporter les workflows d\'objets internes du fichier Excel dans Android. Il s\'agit d\'une solution professionnelle pour exporter un WORKBOOK au format HTML à partir d\'une feuille de calcul en ligne à l\'aide d\'Android." urlsection="export/workbook-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKBOOK vers un fichier au format HTML dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportez l\'objet WORKBOOK vers un fichier au format HTML à l\'aide du SDK Cloud Cells pour Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exporter l'objet WORKBOOK vers le fichier HTML à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format WORKBOOK vers HTML est effectuée par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKBOOK source. Notre bibliothèque Android est une solution professionnelle pour exporter en ligne des objets WORKBOOK vers des fichiers au format HTML. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie HTML parfaite.
+Exporter l'objet WORKBOOK vers le fichier HTML à partir du fichier Excel est une tâche complexe. L'exportation des transitions au format WORKBOOK au format HTML est effectuée par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKBOOK source. Notre bibliothèque Android est une solution professionnelle pour exporter des objets WORKBOOK au format HTML en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie HTML parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour exporter WORKBOOK au format HTML à partir d\'une feuille de calcul" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code sous Android utilisant REST API pour exporter WORKBOOK au format HTML à partir d\'une feuille de calcul" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -51,16 +50,16 @@ Exporter l'objet WORKBOOK vers le fichier HTML à partir d'une feuille de calcul
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour exporter WORKBOOK vers HTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour exporter des objets de Excel WORKBOOK vers HTML" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode postExport pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postExport` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

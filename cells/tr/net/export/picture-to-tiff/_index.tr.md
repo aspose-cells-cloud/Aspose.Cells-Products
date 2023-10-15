@@ -1,19 +1,18 @@
 ﻿---
-title:  C# API kullanarak PICTURE dosyasını e-tablodan TIFF'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/net/export/picture-to-tiff/
+title:  C# için Cells Bulut SDK'sını kullanarak RESMİ Excel'den TIFF'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="RESİM\'i TIFF dosyasına aktarmak için C# API" h2="RESİM\'i TIFF dosyasına dışa aktarmak için C# kitaplığı" p="Net\'te elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, RESİM\'i C# kullanarak elektronik tablodan TIFF biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="RESMİ Excel\'den TIFF\'e aktar" h2="RESİM\'i TIFF dosyasına aktarmak için C# kitaplığı" p="Net\'te Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, C#\'i kullanarak çevrimiçi elektronik tablodan RESİM\'i TIFF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PICTURE nesnesini C#\'deki TIFF format dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="C# için Cells Bulut SDK\'sını kullanarak PICTURE nesnesini TIFF biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-PICTURE nesnesini elektronik tablodan TIFF dosyasına dışa aktarma karmaşık bir iştir. PICTURE'ı TIFF biçimine dışa aktarma geçişleri, C# SDK'mız tarafından gerçekleştirilir ve kaynak PICTURE e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, PICTURE nesnelerini çevrimiçi olarak TIFF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
+PICTURE nesnesini Excel dosyasından TIFF dosyasına aktarmak karmaşık bir iştir. PICTURE'ı TIFF'e aktar format geçişleri C# SDK'mız tarafından gerçekleştirilir ve kaynak PICTURE elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, RESİM nesnelerini çevrimiçi olarak TIFF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, C# geliştiriciye güçlü işlevsellik ve mükemmel TIFF çıktı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="RESİM\'i e-tablodan TIFF biçimine dışa aktarmak için REST API kullanan C#\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="RESİM\'i e-tablodan TIFF formatına aktarmak için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,16 +43,16 @@ PICTURE nesnesini elektronik tablodan TIFF dosyasına dışa aktarma karmaşık 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="RESİM\'i TIFF\'e dışa aktarmak için C# API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için PostExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel PICTURE\'dan TIFF\'e dışa aktarmak için Cells Cloud SDK for Net nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>NET Framework 4.5.2 veya daha yenisi</li>
-<li>Net Standard 2.0 veya daha yenisi</li>
+<li>Net Standardı 2.0 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,19 +1,18 @@
 ﻿---
-title: JPG till SVG Konvertera API till Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i JPG-format till fil i SVG-format.
-url: /sv/perl/conversion/jpg-to-svg/
+title:  Konvertera JPG till SVG med Perl
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera en fil i JPG-format till en fil i SVG-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att konvertera JPG till SVG" h2="Perl bibliotek för att konvertera JPG till SVG" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att konvertera JPG till SVG och andra dokumentformat online med Perl." urlsection="conversion/jpg-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera JPG till SVG" h2="Perl bibliotek för att konvertera JPG till SVG" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl projekt. Detta är en professionell lösning för att konvertera JPG till SVG och andra dokumentformat online med Perl." urlsection="conversion/jpg-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en JPG-fil till SVG i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera JPG till SVG med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från JPG till SVG är en komplex uppgift. Alla JPG- till SVG-formatövergångar utförs av vår Perl SDK samtidigt som Käll-JPG-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att konvertera JPG-filer till SVG-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och perfekt SVG-utdata.
+Att konvertera filformat från JPG till SVG kan vara en komplicerad uppgift. Vår Perl SDK hanterar alla JPG- till SVG-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-JPG-kalkylarket bevaras. Vårt Perl-bibliotek tillhandahåller en professionell lösning för att konvertera JPG-filer till SVG-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa SVG-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att konvertera JPG till SVG format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kodexempel för att konvertera JPG till SVG med Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Att konvertera filformat från JPG till SVG är en komplex uppgift. Alla JPG- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att konvertera JPG till SVG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl SDK för att konvertera JPG till SVG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

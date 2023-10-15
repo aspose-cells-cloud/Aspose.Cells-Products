@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som TSV API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att spara EMF filformat som TSV-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att spara EMF filformat som TSV-formatfil.
 url: /sv/swift/saveas/emf-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

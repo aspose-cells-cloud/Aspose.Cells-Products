@@ -1,5 +1,5 @@
 ﻿---
-title: Cloud Spreadsheet Generator & Converter SDK och REST API
+title:  Cloud Spreadsheet Generator & Converter SDK och REST API
 description: " SDK:er för populära språk ger sömlös integrering i dina appar för att läsa, modifiera och konvertera Excel och OpenOffice-kalkylblad som finns i molnet"
 weight: 10
 url: /sv/family

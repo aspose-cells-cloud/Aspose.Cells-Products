@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLSB als SQL API für Android
-description: Verwenden von Aspose.Cells Cloud SDK für Android zum Speichern von XLSB-Formatdateien als SQL-Formatdateien.
-url: /de/android/saveas/xlsb-to-sql/
+title:  Speichern Sie XLSB als SQL mit Android
+description: Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von XLSB-Formatdateien als SQL-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Speichern von XLSB als SQL" h2="Android-Bibliothek zum Speichern von XLSB als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSB als SQL und anderen Dokumentformaten mit Android." urlsection="saveas/xlsb-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSB als SQL speichern" h2="Android-Bibliothek zum Speichern von XLSB als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSB als SQL und anderen Dokumentformaten mit Android." urlsection="saveas/xlsb-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSB-Datei als SQL in Android" >}}
@@ -13,7 +12,7 @@ url: /de/android/saveas/xlsb-to-sql/
 Das Speichern von Dateiformaten aus XLSB als SQL ist eine komplexe Aufgabe. Alle XLSB-zu-SQL-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLSB-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLSB als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von XLSB als SQL-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von XLSB als SQL mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus XLSB als SQL ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um XLSB als SQL zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android, um Excel-Dateien in anderen Formaten, XLSB und SQL zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

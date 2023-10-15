@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните XLT как EMF API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLT как файла формата EMF.
-url: /ru/php/saveas/xlt-to-emf/
+title:  Сохраните XLT как EMF, используя PHP.
+description:  Использование Cloud SDK Aspose.Cells для PHP для сохранения файла формата XLT как файла формата EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить XLT как EMF" h2="PHP библиотека для сохранения XLT как EMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения XLT как EMF и других форматов документов в Интернете с использованием PHP." urlsection="saveas/xlt-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLT как EMF" h2="PHP библиотека для сохранения XLT как EMF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения XLT как EMF и других форматов документов в Интернете с использованием PHP." urlsection="saveas/xlt-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как EMF в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT как EMF — сложная задача. Все переходы между форматами XLT и EMF выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека PHP — это профессиональное решение для сохранения файлов XLT в формате EMF в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат EMF.
+Сохранение формата файла из XLT как EMF — сложная задача. Все переходы формата XLT в EMF выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной таблицы XLT. Наша библиотека PHP — это профессиональное решение для сохранения файлов XLT в формате EMF онлайн. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный результат EMF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения XLT в формате EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения XLT как EMF с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/xlt-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API, чтобы сохранить XLT как EMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP, чтобы сохранить файлы Excel в других форматах XLT как EMF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XML كـ SQL API لـ Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف تنسيق XML كملف بتنسيق SQL.
-url: /ar/python/saveas/xml-to-sql/
+title:  احفظ XML بتنسيق SQL باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف تنسيق XML كملف تنسيق SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XML كـ SQL" h2="مكتبة Python لحفظ XML كـ SQL" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XML كـ SQL وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xml-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XML بتنسيق SQL" h2="مكتبة Python لحفظ XML بصيغة SQL" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ XML بتنسيق SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xml-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML كملف SQL في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML بتنسيق SQL في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XML كـ SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى SQL بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لحفظ XML كملفات SQL عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج SQL مثالي.
+يعد حفظ تنسيقات الملفات من XML بتنسيق SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى SQL بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ XML كملفات SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Python وظائف قوية ومخرجات SQL مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ XML كتنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ XML كـ SQL باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/xml-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ XML كـ SQL" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات XML أخرى مثل SQL" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

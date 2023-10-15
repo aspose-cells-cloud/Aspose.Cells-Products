@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva TSV come TXT API per Go
-description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato TSV come file in formato TXT.
-url: /it/go/saveas/tsv-to-txt/
+title:  Salva TSV come TXT utilizzando Go
+description:  Utilizzando Aspose.Cells Cloud SDK per Go per salvare il file in formato TSV come file in formato TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per salvare TSV come TXT" h2="Vai alla libreria per salvare TSV come TXT" p="Utilizza Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per salvare TSV come TXT e altri formati di documenti online utilizzando Go." urlsection="saveas/tsv-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva TSV come TXT" h2="Vai alla libreria per salvare TSV come TXT" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Go. Questa è una soluzione professionale per salvare TSV come TXT e altri formati di documenti online utilizzando Go." urlsection="saveas/tsv-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file TSV come TXT in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da TSV come TXT è un compito complesso. Tutte le transizioni dal formato TSV al formato TXT vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo TSV di origine. La nostra libreria Go è una soluzione professionale per salvare TSV come file TXT online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output TXT perfetto.
+Salvare i formati di file da TSV come TXT è un compito complesso. Tutte le transizioni dal formato TSV al formato TXT vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo TSV di origine. La nostra libreria Go è una soluzione professionale per salvare TSV come file TXT online. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e output TXT perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per salvare TSV come formato TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Esempio per salvare TSV come TXT utilizzando REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Salvare i formati di file da TSV come TXT è un compito complesso. Tutte le tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per salvare TSV come TXT" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiamare il metodo CellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per salvare i file Excel in altri formati TSV come TXT" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PostWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

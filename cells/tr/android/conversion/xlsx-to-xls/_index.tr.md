@@ -1,19 +1,18 @@
 ﻿---
-title:  Android için XLSX'ten XLS'ye Dönüştürme API
-description: XLSX biçim dosyasını XLS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
-url: /tr/android/conversion/xlsx-to-xls/
+title:  Android'i kullanarak XLSX'i XLS'ye dönüştürün
+description: XLSX formatındaki bir dosyayı XLS formatındaki bir dosyaya dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX\'i XLS\'ye dönüştürmek için Android API" h2="XLSX\'i XLS\'ye dönüştürmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Android kullanarak çevrimiçi olarak XLSX\'i XLS\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlsx-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX\'yi XLS\'ye dönüştür" h2="XLSX\'i XLS\'ye dönüştürmek için Android kütüphanesi" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak XLSX\'i XLS\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlsx-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLSX dosyasını XLS\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android için Cells Cloud SDK\'yı kullanarak XLSX\'i XLS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSX'ten XLS'ye dönüştürmek karmaşık bir iştir. Tüm XLSX'ten XLS formatına geçişler, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSX'i çevrimiçi olarak XLS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLS çıktısı sağlar.
+Dosya formatlarını XLSX'ten XLS'ye dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm XLSX'ten XLS formatına dönüşümleri gerçekleştirir. Android kitaplığımız, XLSX'i çevrimiçi olarak XLS dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli XLS çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLSX\'i XLS formatına dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak XLSX\'i XLS\'ye dönüştürmek için Android Kod Örneği" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Dosya formatlarını XLSX'ten XLS'ye dönüştürmek karmaşık bir iştir. Tüm
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLSX\'i XLS\'ye dönüştürmek için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara XLSX\'ten XLS\'ye dönüştürmek için Android için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

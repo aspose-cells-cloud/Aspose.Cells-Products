@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование SXC в FODS API для Perl
-description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата SXC в файл формата FODS.
-url: /ru/perl/conversion/sxc-to-fods/
+title:  Преобразуйте SXC в FODS, используя Perl.
+description:  Использование Cloud SDK Aspose.Cells для Perl для преобразования файла формата SXC в файл формата FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования SXC в FODS" h2="Библиотека Perl для преобразования SXC в FODS" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации SXC в FODS и другие форматы документов с использованием Perl." urlsection="conversion/sxc-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать SXC в FODS" h2="Perl библиотека для конвертации SXC в FODS" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Perl. Это профессиональное решение для онлайн-конвертирования SXC в FODS и другие форматы документов с использованием номера Perl." urlsection="conversion/sxc-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте файл SXC в FODS по номеру Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте SXC в FODS с помощью Cloud SDK Cells для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в FODS — сложная задача. Все переходы формата SXC в формат FODS выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов SXC в FODS. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный результат FODS.
+Преобразование форматов файлов из SXC в FODS может оказаться сложной задачей. Наш SDK Perl обрабатывает все преобразования формата SXC в FODS, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Perl предоставляет профессиональное решение для онлайн-конвертирования файлов SXC в FODS. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и обеспечивает высококачественный вывод FODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования SXC в формат FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для преобразования SXC в FODS с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ru/perl/conversion/sxc-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для преобразования SXC в FODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl SDK для преобразования SXC в FODS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

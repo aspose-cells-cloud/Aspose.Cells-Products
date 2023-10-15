@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG в JPG Конвертировать API в Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата PNG в файл формата JPG.
-url: /ru/perl/conversion/png-to-jpg/
+title:  Конвертируйте PNG в JPG, используя Perl.
+description:  Использование Cloud SDK Aspose.Cells для Perl для преобразования файла формата PNG в файл формата JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования PNG в JPG" h2="Perl библиотека для преобразования PNG в JPG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования PNG в JPG и другие форматы документов онлайн с использованием Perl." urlsection="conversion/png-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать PNG в JPG" h2="Perl библиотека для конвертации PNG в JPG" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Perl. Это профессиональное решение для онлайн-конвертирования PNG в JPG и другие форматы документов с помощью Perl." urlsection="conversion/png-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл PNG в JPG в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте PNG в JPG с помощью Cloud SDK Cells для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в JPG — сложная задача. Все переходы PNG в формат JPG выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации PNG в файлы JPG. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов PNG в JPG может оказаться сложной задачей. Наш SDK Perl обрабатывает все преобразования формата PNG в JPG, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека Perl предоставляет профессиональное решение для онлайн-конвертирования PNG в файлы JPG. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и обеспечивает высококачественный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования PNG в формат JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для преобразования PNG в JPG с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ru/perl/conversion/png-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для преобразования PNG в JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl SDK для преобразования PNG в JPG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

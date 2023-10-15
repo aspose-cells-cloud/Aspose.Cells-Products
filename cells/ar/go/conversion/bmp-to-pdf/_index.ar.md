@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP إلى PDF قم بتحويل API إلى Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق BMP إلى ملف بتنسيق PDF.
-url: /ar/go/conversion/bmp-to-pdf/
+title:  تحويل BMP إلى PDF باستخدام Go
+description: استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق BMP إلى ملف بتنسيق PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API للتحويل BMP إلى PDF" h2="انتقل إلى المكتبة لتحويل BMP إلى PDF" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل BMP إلى PDF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/bmp-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل BMP إلى PDF" h2="اذهب إلى المكتبة لتحويل BMP إلى PDF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل BMP إلى PDF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/bmp-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف BMP إلى PDF في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل BMP إلى PDF باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى PDF بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل BMP إلى PDF الملفات عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج PDF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من BMP إلى PDF مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات التنسيق من BMP إلى PDF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل الملفات من BMP إلى PDF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من الحصول على وظائف قوية ويضمن إخراج PDF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتحويل BMP إلى تنسيق PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لتحويل BMP إلى PDF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ url: /ar/go/conversion/bmp-to-pdf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل BMP إلى PDF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتحويل ملفات Excel إلى تنسيقات أخرى BMP إلى PDF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

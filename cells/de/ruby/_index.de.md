@@ -1,5 +1,5 @@
 ﻿---
-title:  Lesen, Anzeigen und Konvertieren von Cloud Excel-Dateien (via Ruby REST SDK)
+title:  Cloud Excel-Dateien lesen, anzeigen und konvertieren (via Ruby REST SDK)
 description: Erweitert Ihre Ruby-Anwendungen um die Verarbeitung und Bearbeitung von Microsoft Excel- und OpenOffice-Tabellen in der Cloud
 weight: 120
 url: /de/ruby
@@ -74,7 +74,7 @@ url: /de/ruby
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Excel Funktionen zur Tabellenverarbeitung
+ Excel Funktionen zur Tabellenverarbeitung
    </h2>
    <p>
    </p>
@@ -159,7 +159,7 @@ Excel Funktionen zur Tabellenverarbeitung
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer Pivot-Tabelle zusammen
+ Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer Pivot-Tabelle zusammen
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer 
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
+Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
     </p>
    </div>
    <div class="col-lg-4">

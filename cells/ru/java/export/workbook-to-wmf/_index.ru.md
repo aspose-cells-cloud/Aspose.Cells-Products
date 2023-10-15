@@ -1,16 +1,15 @@
 ﻿---
-title:  Экспорт WORKBOOK в WMF из электронной таблицы с помощью Java API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/java/export/workbook-to-wmf/
+title:  Экспортируйте WORKBOOK в WMF из Excel с помощью Cloud SDK Cells for Java.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для экспорта WORKBOOK в файл WMF" h2="Java библиотека для экспорта WORKBOOK в файл WMF" p="Используйте Cells Экспорт REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Java. Это профессиональное решение для экспорта файла формата WORKBOOK в файл формата WMF из электронной таблицы онлайн с использованием Java." urlsection="export/workbook-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт WORKBOOK в WMF с номера Excel" h2="Java библиотека для экспорта WORKBOOK в файл WMF" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Java. Это профессиональное решение для экспорта WORKBOOK в файл формата WMF из электронной таблицы онлайн с помощью Java." urlsection="export/workbook-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата WMF в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект WORKBOOK в файл формата WMF с помощью Cloud SDK Cells for Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл WMF из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат WMF выполняется нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата WMF. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод WMF.
+Экспорт объекта WORKBOOK в файл WMF из файла Excel — сложная задача. Экспорт переходов формата WORKBOOK в WMF выполняется с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата WMF. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и отличный результат в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для экспорта WORKBOOK в формат WMF из электронной таблицы" gistPath="" %}}
@@ -51,10 +50,10 @@ url: /ru/java/export/workbook-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для экспорта WORKBOOK в WMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для экспорта объектов из Excel WORKBOOK в WMF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

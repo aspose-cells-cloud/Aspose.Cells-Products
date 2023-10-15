@@ -1,19 +1,18 @@
 ﻿---
-title:  SXC a XLS Convertir API para Python
-description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato SXC a un archivo de formato XLS.
-url: /es/python/conversion/sxc-to-xls/
+title:  Convierta SXC a XLS usando Python
+description:  Utilizar el SDK de la nube Aspose.Cells para Python para convertir un archivo de formato SXC a un archivo de formato XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir SXC a XLS" h2="Python biblioteca para convertir SXC a XLS" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir SXC a XLS y otros formatos de documentos en línea usando Python." urlsection="conversion/sxc-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir SXC a XLS" h2="Biblioteca Python para convertir SXC a XLS" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Python proyectos. Esta es una solución profesional para convertir SXC a XLS y otros formatos de documentos en línea usando Python." urlsection="conversion/sxc-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo SXC a XLS en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta SXC a XLS usando Cells Cloud SDK para Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de SXC a XLS es una tarea compleja. Todas las transiciones de formato SXC a XLS se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Python es una solución profesional para convertir archivos SXC a XLS en línea. Este SDK de Cloud ofrece a los desarrolladores de Python una potente funcionalidad y una salida XLS perfecta.
+Convertir formatos de archivo de SXC a XLS puede ser una tarea compleja. Nuestro SDK Python maneja todas las conversiones de formato SXC a XLS al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Python proporciona una solución profesional para convertir archivos SXC a XLS en línea. Este SDK de nube brinda a los desarrolladores Python una potente funcionalidad y garantiza una salida XLS de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para convertir SXC a formato XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Ejemplo de código para convertir SXC a XLS usando Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Convertir formatos de archivo de SXC a XLS es una tarea compleja. Todas las tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Python API para convertir SXC a XLS" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_libro de trabajo_poner_convertir_método del libro de trabajo para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Python para convertir archivos Excel a otros formatos SXC a XLS" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Conversion MHTML en SQL API pour Ruby
-description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format MHTML en fichier au format SQL.
-url: /fr/ruby/conversion/mhtml-to-sql/
+title:  Convertir MHTML en SQL à l'aide de Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format MHTML en fichier au format SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour convertir MHTML en SQL" h2="bibliothèque Ruby pour convertir MHTML en SQL" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour convertir MHTML en SQL et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/mhtml-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir MHTML en SQL" h2="Bibliothèque Ruby pour convertir MHTML en SQL" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Ruby. Il s\'agit d\'une solution professionnelle pour convertir MHTML en SQL et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/mhtml-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier MHTML en SQL en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir MHTML en SQL à l\'aide du SDK Cloud Cells pour Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de MHTML en SQL est une tâche complexe. Toutes les transitions de format MHTML vers SQL sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque Ruby est une solution professionnelle pour convertir des fichiers MHTML en SQL en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie SQL parfaite.
+La conversion des formats de fichiers MHTML vers SQL peut être une tâche complexe. Notre SDK Ruby gère toutes les conversions du format MHTML vers SQL tout en préservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque Ruby fournit une solution professionnelle pour convertir des fichiers MHTML en SQL en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et garantit une sortie SQL de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir MHTML au format SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Ruby pour convertir MHTML en SQL à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,15 +29,15 @@ La conversion des formats de fichiers de MHTML en SQL est une tâche complexe. T
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Ruby API pour convertir MHTML en SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour convertir des fichiers Excel vers d\'autres formats MHTML en SQL" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

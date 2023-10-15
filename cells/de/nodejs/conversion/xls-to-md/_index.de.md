@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS zu MD Konvertieren API für NodeJS
-description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer XLS-Formatdatei in eine MD-Formatdatei.
-url: /de/nodejs/conversion/xls-to-md/
+title:  Konvertieren Sie XLS mit NodeJS in MD
+description:  Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Konvertieren einer Datei im XLS-Format in eine Datei im MD-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von XLS in MD" h2="NodeJS-Bibliothek zum Konvertieren von XLS in MD" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLS in MD und andere Dokumentformate mit NodeJS." urlsection="conversion/xls-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLS in MD" h2="NodeJS-Bibliothek zum Konvertieren von XLS in MD" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLS in MD und andere Dokumentformate mit NodeJS." urlsection="conversion/xls-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLS-Datei in MD in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLS in MD mit dem Cloud SDK Cells für NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLS in MD ist eine komplexe Aufgabe. Alle XLS-zu-MD-Formatübergänge werden von unserem NodeJS SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLS-Tabelle erhalten bleiben. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLS- in MD-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
+Das Konvertieren von Dateiformaten von XLS in MD kann eine komplexe Aufgabe sein. Unser NodeJS SDK übernimmt alle XLS-in-MD-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLS-Quelltabelle bei. Unsere NodeJS-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLS- in MD-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Konvertieren von XLS in das MD-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel für die Konvertierung von XLS in MD mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Das Konvertieren von Dateiformaten von XLS in MD ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API zum Konvertieren von XLS in MD" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in andere Formate, XLS in MD, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование ODS в WMF API для Go
-description:  Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата ODS в файл формата WMF.
-url: /ru/go/conversion/ods-to-wmf/
+title:  Конвертируйте ODS в WMF с помощью Go
+description:  Использование Cloud SDK Aspose.Cells для Go для преобразования файла формата ODS в файл формата WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать ODS в WMF." h2="Библиотека Go для преобразования ODS в WMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации ODS в WMF и другие форматы документов с помощью Go." urlsection="conversion/ods-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать ODS в WMF" h2="Библиотека Go для конвертации ODS в WMF" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для онлайн-конвертирования ODS в WMF и другие форматы документов с помощью Go." urlsection="conversion/ods-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в WMF в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование ODS в WMF с помощью Cloud SDK Cells для Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в WMF — сложная задача. Все переходы между форматами ODS и WMF выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов ODS в WMF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод WMF.
+Преобразование форматов файлов из ODS в WMF может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования форматов ODS в WMF, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования файлов ODS в WMF. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод WMF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования ODS в формат WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования ODS в WMF с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /ru/go/conversion/ods-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для преобразования ODS в WMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для преобразования файлов Excel в другие форматы ODS в WMF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

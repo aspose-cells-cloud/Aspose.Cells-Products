@@ -1,19 +1,18 @@
 ﻿---
-title:  XLTX in XLSM Konvertieren Sie API in Python
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im XLTX-Format in eine Datei im XLSM-Format.
-url: /de/python/conversion/xltx-to-xlsm/
+title:  Konvertieren Sie XLTX mit Python in XLSM
+description: Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer XLTX-Formatdatei in eine XLSM-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von XLTX in XLSM" h2="Python-Bibliothek zum Konvertieren von XLTX in XLSM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um XLTX in XLSM und andere Dokumentformate online mit Python zu konvertieren." urlsection="conversion/xltx-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLTX in XLSM" h2="Python Bibliothek zur Konvertierung von XLTX in XLSM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTX in XLSM und andere Dokumentformate unter Python." urlsection="conversion/xltx-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLTX-Datei in XLSM in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLTX in XLSM mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTX nach XLSM ist eine komplexe Aufgabe. Alle XLTX-zu-XLSM-Formatübergänge werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLTX-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLTX- in XLSM-Dateien. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte XLSM-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTX in XLSM kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle Konvertierungen des XLTX- in das XLSM-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTX-Quelltabelle bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTX- in XLSM-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSM-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von XLTX in das XLSM-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel für die Konvertierung von XLTX in XLSM mit Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Das Konvertieren von Dateiformaten von XLTX nach XLSM ist eine komplexe Aufgabe.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um XLTX in XLSM zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Python, um Excel-Dateien in andere Formate von XLTX nach XLSM zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

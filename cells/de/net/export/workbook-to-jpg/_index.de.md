@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie die Arbeitsmappe aus der Tabelle in JPG mit C# API
+title:  Exportieren Sie WORKBOOK in JPG von Excel mit Cells Cloud SDK für C#
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/net/export/workbook-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren der Arbeitsmappe in eine JPG-Datei" h2="C#-Bibliothek zum Exportieren von WORKBOOK in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von Arbeitsmappen in JPG-Formatdateien aus Tabellenkalkulationen unter der Nummer C#." urlsection="export/workbook-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie die Arbeitsmappe von Excel in JPG" h2="C#-Bibliothek zum Exportieren von WORKBOOK in eine JPG-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Net zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von Arbeitsmappen in JPG-Formatdateien aus Tabellenkalkulationen unter der Nummer C#." urlsection="export/workbook-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in die JPG-Formatdatei C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im JPG-Format mit dem Cloud SDK Cells für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine JPG-Datei ist eine komplexe Aufgabe. Übergänge im Export von WORKBOOK in das JPG-Format werden von unserem C# SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im JPG-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
+Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in eine JPG-Datei ist eine komplexe Aufgabe. Übergänge im Export von WORKBOOK in das JPG-Format werden von unserem C# SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im JPG-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von WORKBOOK aus der Tabellenkalkulation in das JPG-Format" gistPath="" %}}
@@ -44,10 +43,10 @@ Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine JPG
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um WORKBOOK in JPG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Objekte aus Excel WORKBOOK in JPG zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

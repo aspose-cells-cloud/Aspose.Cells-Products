@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XLTM sous XLS API pour Android
-description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format XLTM en tant que fichier au format XLS.
-url: /fr/android/saveas/xltm-to-xls/
+title:  Enregistrer XLTM au format XLS avec Android
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLTM au format XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XLTM en XLS" h2="Bibliothèque Android pour enregistrer XLTM en XLS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format XLS et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xltm-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLTM en tant que XLS" h2="Bibliothèque Android pour enregistrer XLTM au format XLS" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format XLS et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xltm-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format XLS sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de XLTM au format XLS est une tâche complexe. Toutes les transitions de format XLTM vers XLS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers XLTM au format XLS. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XLS parfaite.
+Enregistrer les formats de fichiers de XLTM au format XLS est une tâche complexe. Toutes les transitions du format XLTM vers XLS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTM source. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLTM sous forme de fichiers XLS en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XLS parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLTM au format XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour enregistrer XLTM au format XLS à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ L'enregistrement des formats de fichiers de XLTM au format XLS est une tâche co
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer XLTM en XLS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour enregistrer des fichiers Excel sous d\'autres formats XLTM comme XLS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

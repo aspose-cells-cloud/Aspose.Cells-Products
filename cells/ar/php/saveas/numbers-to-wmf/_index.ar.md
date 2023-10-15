@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ الأرقام باسم WMF API لـ PHP
+title: احفظ الأرقام كـ WMF باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق NUMBERS كملف بتنسيق WMF.
-url: /ar/php/saveas/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ الأرقام كـ WMF" h2="PHP مكتبة لحفظ الأرقام كـ WMF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ الأرقام بتنسيق WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/numbers-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ الأرقام باسم WMF" h2="مكتبة PHP لحفظ الأرقام بصيغة WMF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في PHP. يعد هذا حلاً احترافيًا لحفظ NUMBERS بتنسيق WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/numbers-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف NUMBERS كملف WMF في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف NUMBERS باسم WMF في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من NUMBERS مثل WMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق الأرقام إلى WMF بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. مكتبتنا PHP هي حل احترافي لحفظ الأرقام كملفات WMF عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج WMF مثالي.
+يعد حفظ تنسيقات الملفات من NUMBERS بتنسيق WMF مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق NUMBERS إلى WMF بواسطة PHP SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحفظ الأرقام كملفات WMF عبر الإنترنت. يوفر Cloud SDK هذا لمطوري PHP وظائف قوية ومخرجات WMF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ الأرقام بتنسيق WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لحفظ الأرقام كـ WMF باستخدام REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ar/php/saveas/numbers-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لحفظ الأرقام بتنسيق WMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لحفظ ملفات Excel بتنسيقات أخرى NUMBERS مثل WMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

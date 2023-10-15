@@ -1,19 +1,18 @@
 ﻿---
-title:  JSON till XML Konvertera API för Ruby
-description:  Använder Aspose.Cells Cloud SDK för Ruby för att konvertera JSON-formatfil till XML-formatfil.
-url: /sv/ruby/conversion/json-to-xml/
+title:  Konvertera JSON till XML med Ruby
+description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera en fil i JSON-format till en fil i XML-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att konvertera JSON till XML" h2="Ruby-bibliotek för att konvertera JSON till XML" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Ruby. Detta är en professionell lösning för att konvertera JSON till XML och andra dokumentformat online med Ruby." urlsection="conversion/json-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera JSON till XML" h2="Ruby-bibliotek för att konvertera JSON till XML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby-projekt. Detta är en professionell lösning för att konvertera JSON till XML och andra dokumentformat online med Ruby." urlsection="conversion/json-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en JSON-fil till XML i Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera JSON till XML med Cells Cloud SDK för Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från JSON till XML är en komplex uppgift. Alla JSON- till XML-formatövergångar utförs av vår Ruby SDK samtidigt som käll-JSON-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att konvertera JSON till XML-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt XML-utdata.
+Att konvertera filformat från JSON till XML kan vara en komplex uppgift. Vår Ruby SDK hanterar alla konverteringar av JSON till XML-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets JSON-kalkylblad bevaras. Vårt Ruby-bibliotek tillhandahåller en professionell lösning för att konvertera JSON till XML-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och säkerställer XML-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att konvertera JSON till XML-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Exempel för att konvertera JSON till XML med Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ Att konvertera filformat från JSON till XML är en komplex uppgift. Alla JSON- 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att konvertera JSON till XML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att konvertera Excel-filer till andra format JSON till XML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

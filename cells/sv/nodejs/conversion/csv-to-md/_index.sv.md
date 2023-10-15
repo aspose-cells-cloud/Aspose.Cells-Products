@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV till MD Konvertera API för NodeJS
-description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i CSV-format till fil i MD-format.
-url: /sv/nodejs/conversion/csv-to-md/
+title:  Konvertera CSV till MD med NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera en CSV-fil till en MD-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att konvertera CSV till MD" h2="NodeJS-bibliotek för att konvertera CSV till MD" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att konvertera CSV till MD och andra dokumentformat online med NodeJS." urlsection="conversion/csv-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera CSV till MD" h2="NodeJS-bibliotek för att konvertera CSV till MD" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera CSV till MD och andra dokumentformat online med NodeJS." urlsection="conversion/csv-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en CSV-fil till MD i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera CSV till MD med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från CSV till MD är en komplex uppgift. Alla CSV- till MD-formatövergångar utförs av vår NodeJS SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att konvertera CSV till MD-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt MD-utgång.
+Att konvertera filformat från CSV till MD kan vara en komplex uppgift. Vår NodeJS SDK hanterar alla konverteringar av CSV till MD-format samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-CSV-kalkylarket bevaras. Vårt NodeJS-bibliotek tillhandahåller en professionell lösning för att konvertera CSV- till MD-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa MD-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att konvertera CSV till MD-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att konvertera CSV till MD med Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Att konvertera filformat från CSV till MD är en komplex uppgift. Alla CSV- til
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att konvertera CSV till MD" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att konvertera Excel-filer till andra format CSV till MD" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

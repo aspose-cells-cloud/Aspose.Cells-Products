@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT zu MHTML Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im TXT-Format in eine Datei im MHTML-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im TXT-Format in eine Datei im MHTML-Format.
 url: /de/swift/conversion/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

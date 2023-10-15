@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSM a MHTML Convertir API para Python
-description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato XLSM a un archivo de formato MHTML.
-url: /es/python/conversion/xlsm-to-mhtml/
+title:  Convierta XLSM a MHTML usando Python
+description: Utilizar el SDK de la nube Aspose.Cells para Python para convertir un archivo de formato XLSM a un archivo de formato MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir XLSM a MHTML" h2="Python biblioteca para convertir XLSM a MHTML" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir XLSM a MHTML y otros formatos de documentos en línea usando Python." urlsection="conversion/xlsm-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSM a MHTML" h2="Biblioteca Python para convertir XLSM a MHTML" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Python proyectos. Esta es una solución profesional para convertir XLSM a MHTML y otros formatos de documentos en línea usando Python." urlsection="conversion/xlsm-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSM a MHTML en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLSM a MHTML usando Cells Cloud SDK para Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLSM a MHTML es una tarea compleja. Todas las transiciones de formato XLSM a MHTML se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSM de origen. Nuestra biblioteca Python es una solución profesional para convertir archivos XLSM a MHTML en línea. Este SDK de Cloud brinda a los desarrolladores de Python una funcionalidad poderosa y una salida MHTML perfecta.
+Convertir formatos de archivo de XLSM a MHTML puede ser una tarea compleja. Nuestro SDK Python maneja todas las conversiones de formato XLSM a MHTML al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo XLSM de origen. Nuestra biblioteca Python proporciona una solución profesional para convertir archivos XLSM a MHTML en línea. Este SDK de nube brinda a los desarrolladores Python una potente funcionalidad y garantiza una salida MHTML de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para convertir XLSM a formato MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Ejemplo de código para convertir XLSM a MHTML usando Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Convertir formatos de archivo de XLSM a MHTML es una tarea compleja. Todas las t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Python API para convertir XLSM a MHTML" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_libro de trabajo_poner_convertir_método del libro de trabajo para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Python para convertir archivos Excel a otros formatos XLSM a MHTML" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

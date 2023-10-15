@@ -1,19 +1,18 @@
 ﻿---
-title: PNG إلى WMF Convert API لنظام Android
-description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق PNG إلى ملف بتنسيق WMF.
-url: /ar/android/conversion/png-to-wmf/
+title:  تحويل PNG إلى WMF باستخدام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف بتنسيق PNG إلى ملف بتنسيق WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="أندرويد API لتحويل PNG إلى WMF" h2="مكتبة Android لتحويل PNG إلى WMF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لتحويل PNG إلى WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/png-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل PNG إلى WMF" h2="مكتبة Android لتحويل PNG إلى WMF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Android. يعد هذا حلاً احترافيًا لتحويل PNG إلى WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/png-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف PNG إلى WMF في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل PNG إلى WMF باستخدام Cells Cloud SDK لنظام Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من PNG إلى WMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى WMF بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجداول البيانات المصدر PNG. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل PNG إلى ملفات WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج WMF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من PNG إلى WMF مهمة معقدة. يتعامل Android SDK الخاص بنا مع جميع تحويلات تنسيق PNG إلى WMF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. توفر مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل PNG إلى ملفات WMF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Android من الحصول على وظائف قوية ويضمن إخراج WMF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل PNG إلى تنسيق WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لتحويل PNG إلى WMF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ url: /ar/android/conversion/png-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتحويل PNG إلى WMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتحويل ملفات Excel إلى تنسيقات أخرى PNG إلى WMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

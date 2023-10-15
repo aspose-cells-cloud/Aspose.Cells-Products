@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML till XML Konvertera API för Swift
+title: MHTML till XML Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera MHTML-formatfil till XML-formatfil.
 url: /sv/swift/conversion/mhtml-to-xml/
 ---

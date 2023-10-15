@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS till JSON Konvertera API för C#
-description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i NUMBERS-format till fil i JSON-format.
-url: /sv/net/conversion/numbers-to-json/
+title:  Konvertera NUMBERS till JSON med C#
+description:  Använda Aspose.Cells Cloud SDK för C# för att konvertera en NUMBERS-formatfil till en JSON-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att konvertera NUMBERS till JSON" h2="C# bibliotek för att konvertera NUMBERS till JSON" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Net. Detta är en professionell lösning för att konvertera NUMBERS till JSON och andra dokumentformat online med C#." urlsection="conversion/numbers-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera NUMBERS till JSON" h2="C# bibliotek för att konvertera NUMBERS till JSON" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera NUMBERS till JSON och andra dokumentformat online med C#." urlsection="conversion/numbers-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en NUMBERS-fil till JSON i C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera NUMBERS till JSON med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från NUMBERS till JSON är en komplex uppgift. Alla NUMBERS- till JSON-formatövergångar utförs av vår C# SDK samtidigt som källarket NUMBERS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att konvertera NUMBERS till JSON-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt JSON-utgång.
+Att konvertera filformat från NUMBERS till JSON kan vara en komplex uppgift. Vår C# SDK hanterar alla NUMBERS till JSON-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket NUMBERS bevaras. Vårt C#-bibliotek tillhandahåller en professionell lösning för att konvertera NUMBERS till JSON-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och säkerställer högkvalitativa JSON-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att konvertera NUMBERS till JSON-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kodexempel för att konvertera NUMBERS till JSON med Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ Att konvertera filformat från NUMBERS till JSON är en komplex uppgift. Alla NU
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att konvertera NUMBERS till JSON" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att konvertera Excel-filer till andra format NUMBERS till JSON" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

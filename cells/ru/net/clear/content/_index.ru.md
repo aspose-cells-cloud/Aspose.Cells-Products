@@ -1,33 +1,32 @@
 ﻿---
-title:  Очистить содержимое локальной книги в облаке
-description:  Облачные API и SDK для очистки содержимого на Microsoft Excel и OpenOffice Calc. Очистить содержимое локальных электронных таблиц с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
-url: /ru/net/clear/content/
+title:  Очистка содержимого локальной книги в облаке
+description: Облачные API и SDK для очистки контента по телефонам Microsoft и OpenOffice Calc. Очистка содержимого локальных таблиц с помощью облака Cells API. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для очистки содержимого локального Microsoft Excel и электронной таблицы OpenOffice Calc" h2="C# Очистить, чтобы очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки содержимого в локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в C#. Это профессиональное решение очищает содержимое в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью C#." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление содержимого из локальной таблицы Microsoft Excel и таблицы OpenOffice Calc." h2="C# Очистить, чтобы очистить содержимое локальной таблицы Microsoft Excel и таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки содержимого локальных Microsoft Excel и рабочих процессов электронных таблиц OpenOffice Calc в C#. Это профессиональное решение очищает содержимое локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью C#." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc — C# REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить содержимое локальной таблицы Microsoft Excel и таблицы OpenOffice Calc — C# REST API." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Очистка содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc является сложной задачей. Очистка содержимого локальных переходов электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим пакетом SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека C# — это профессиональное решение для очистки формул в локальной электронной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот Cloud SDK предоставляет C# разработчикам мощную функциональность и идеальную API.
+Очистка содержимого локальных Microsoft Excel и электронных таблиц OpenOffice Calc — сложная задача. Очистка содержимого локальных переходов электронных таблиц Microsoft Excel и OpenOffice Calc выполняется нашим SDK C# с сохранением основного структурного и логического содержимого исходной таблицы. Наша библиотека C# — это профессиональное решение для очистки формул в локальных Microsoft Excel и онлайн-таблицах OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и совершенный API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Сетевой код для очистки содержимого в локальных электронных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Content.cs" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Сетевой код для очистки содержимого локальных таблиц" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Content.cs" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Как использовать C# API для очистки содержимого" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод PostClearObjects, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для очистки контента" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод PostClearObjects, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

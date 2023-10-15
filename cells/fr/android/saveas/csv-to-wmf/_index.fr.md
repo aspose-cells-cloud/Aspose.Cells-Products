@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer CSV sous WMF API pour Android
-description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format CSV en tant que fichier au format WMF.
-url: /fr/android/saveas/csv-to-wmf/
+title:  Enregistrer CSV au format WMF avec Android
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format CSV au format WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer CSV au format WMF" h2="Bibliothèque Android pour enregistrer CSV au format WMF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format WMF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/csv-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer CSV au format WMF" h2="Bibliothèque Android pour enregistrer CSV au format WMF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer du CSV au format WMF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/csv-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format WMF sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de CSV en tant que WMF est une tâche complexe. Toutes les transitions de format CSV vers WMF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers CSV en tant que fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie WMF parfaite.
+L'enregistrement des formats de fichiers CSV au format WMF est une tâche complexe. Toutes les transitions du format CSV vers WMF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers CSV sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie WMF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer CSV au format WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour enregistrer CSV au format WMF à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ L'enregistrement de formats de fichiers à partir de CSV en tant que WMF est une
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer CSV au format WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour enregistrer les fichiers Excel sous d\'autres formats CSV comme WMF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie BMP als XML API für Swift
-description:  Verwenden des Aspose.Cells Cloud SDK für Swift zum Speichern der Datei im BMP-Format als XML-Formatdatei.
+description: Verwenden des Aspose.Cells Cloud SDK für Swift zum Speichern der Datei im BMP-Format als XML-Formatdatei.
 url: /de/swift/saveas/bmp-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

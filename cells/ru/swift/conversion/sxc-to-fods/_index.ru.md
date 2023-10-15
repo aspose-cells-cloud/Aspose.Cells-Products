@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование SXC в FODS API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата SXC в файл формата FODS.
+title:  SXC в FODS Конвертировать API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата SXC в файл формата FODS.
 url: /ru/swift/conversion/sxc-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования SXC в FODS" h2="Библиотека Swift для преобразования SXC в FODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации SXC в FODS и другие форматы документов с использованием Swift." urlsection="conversion/sxc-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации SXC в FODS" h2="Библиотека Swift для преобразования SXC в FODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования SXC в FODS и другие форматы документов с помощью Swift." urlsection="conversion/sxc-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в FODS в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл SXC в FODS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в FODS — сложная задача. Все переходы формата SXC в формат FODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов SXC в FODS. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод FODS.
+Преобразование форматов файлов из SXC в FODS — сложная задача. Все переходы формата SXC в FODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов SXC в FODS. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования SXC в формат FODS" gistPath="" %}}
@@ -65,10 +65,10 @@ url: /ru/swift/conversion/sxc-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования SXC в FODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для конвертации SXC в FODS" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Exporte SHAPE a SVG desde una hoja de cálculo usando PHP API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/php/export/shape-to-svg/
+title:  Exporte SHAPE a SVG desde Excel usando Cells Cloud SDK para PHP
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para exportar SHAPE al archivo SVG" h2="PHP biblioteca para exportar SHAPE al archivo SVG" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en PHP. Esta es una solución profesional para exportar SHAPE a un archivo de formato SVG desde una hoja de cálculo en línea usando PHP." urlsection="export/shape-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar FORMA a SVG desde Excel" h2="Biblioteca PHP para exportar SHAPE al archivo SVG" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en PHP. Esta es una solución profesional para exportar FORMA a un archivo de formato SVG desde una hoja de cálculo en línea usando PHP." urlsection="export/shape-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto SHAPE al archivo de formato SVG en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto SHAPE al archivo de formato SVG usando Cells Cloud SDK para PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto SHAPE al archivo SVG desde una hoja de cálculo es una tarea compleja. Exportar SHAPE a las transiciones de formato SVG se realiza mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SHAPE de origen. Nuestra biblioteca PHP es una solución profesional para exportar objetos SHAPE a archivos de formato SVG en línea. Este SDK de Cloud ofrece a los desarrolladores de PHP una potente funcionalidad y un resultado SVG perfecto.
+Exportar el objeto SHAPE al archivo SVG desde el archivo Excel es una tarea compleja. Nuestro SDK PHP realiza la exportación de transiciones de formato SHAPE a SVG manteniendo el contenido estructural y lógico principal de la hoja de cálculo SHAPE de origen. Nuestra biblioteca PHP es una solución profesional para exportar objetos SHAPE a archivos de formato SVG en línea. Este SDK de nube ofrece a los desarrolladores de PHP una funcionalidad potente y un resultado de SVG perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para exportar SHAPE al formato SVG desde una hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para exportar FORMA al formato SVG desde una hoja de cálculo" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Exportar un objeto SHAPE al archivo SVG desde una hoja de cálculo es una tarea 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar PHP API para exportar SHAPE a SVG" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método postExport para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para exportar objetos de Excel SHAPE a SVG" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postExport` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

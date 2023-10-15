@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie JSON als JPG API für C#
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine Datei im JSON-Format als Datei im JPG-Format zu speichern.
-url: /de/net/saveas/json-to-jpg/
+title:  Speichern Sie JSON als JPG mit C#
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der Datei im JSON-Format als Datei im JPG-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um JSON als JPG zu speichern" h2="C#-Bibliothek zum Speichern von JSON als JPG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von JSON als JPG und anderen Dokumentformaten unter C#." urlsection="saveas/json-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie JSON als JPG" h2="C#-Bibliothek zum Speichern von JSON als JPG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von JSON als JPG und anderen Dokumentformaten unter C#." urlsection="saveas/json-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JSON-Datei als JPG unter C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/json-to-jpg/
 Das Speichern von Dateiformaten von JSON als JPG ist eine komplexe Aufgabe. Alle Übergänge vom JSON- zum JPG-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der JSON-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um JSON als JPG-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von JSON im JPG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von JSON als JPG mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten von JSON als JPG ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um JSON als JPG zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in anderen Formaten wie JSON und JPG zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

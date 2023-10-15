@@ -1,19 +1,18 @@
 ﻿---
-title: احفظ XLSB كـ ODS API لـ PHP
+title:  احفظ XLSB كملف ODS باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XLSB كملف بتنسيق ODS.
-url: /ar/php/saveas/xlsb-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ XLSB كـ ODS" h2="مكتبة PHP لحفظ XLSB كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ XLSB على أنه ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/xlsb-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLSB كملف ODS" h2="مكتبة PHP لحفظ XLSB كمواد مستنفدة للأوزون" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في PHP. يعد هذا حلاً احترافيًا لحفظ XLSB كملف ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/xlsb-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB كملف ODS في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB بتنسيق ODS في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSB مثل ODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى ODS بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. مكتبتنا PHP هي حل احترافي لحفظ XLSB كملفات ODS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج ODS مثالي.
+يعد حفظ تنسيقات الملفات من XLSB كملف ODS مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق XLSB إلى ODS بواسطة PHP SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحفظ XLSB كملفات ODS عبر الإنترنت. يوفر Cloud SDK هذا لمطوري PHP وظائف قوية ومخرجات مثالية للمواد المستنفدة للأوزون.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ XLSB كتنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لحفظ XLSB كملف ODS باستخدام REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ar/php/saveas/xlsb-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لحفظ XLSB كـ ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لحفظ ملفات Excel بتنسيقات أخرى XLSB مثل ODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

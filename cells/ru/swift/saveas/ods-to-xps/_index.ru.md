@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохраните ODS как XPS API для Swift
+title:  Сохранить ODS как XPS API для Swift.
 description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата ODS как файла формата XPS.
 url: /ru/swift/saveas/ods-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения ODS как XPS" h2="Библиотека Swift для сохранения ODS как XPS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения ODS как XPS и других форматов документов в Интернете с использованием Swift." urlsection="saveas/ods-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить ODS как XPS." h2="Библиотека Swift для сохранения ODS как XPS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения ODS как XPS и других форматов документов онлайн с помощью Swift." urlsection="saveas/ods-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как XPS в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS как XPS — сложная задача. Все переходы формата ODS в формат XPS выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для сохранения файлов ODS в формате XPS онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
+Сохранение формата файла из ODS как XPS — сложная задача. Все переходы формата ODS в формат XPS выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для сохранения ODS в виде файлов XPS онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения ODS в формате XPS" gistPath="" %}}
@@ -55,9 +55,9 @@ url: /ru/swift/saveas/ods-to-xps/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения ODS как XPS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

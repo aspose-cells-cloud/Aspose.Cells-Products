@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF'den JSON'a C# için API'i dönüştürün
-description: EMF biçim dosyasını JSON biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/net/conversion/emf-to-json/
+title:  EMF'i C#'i kullanarak JSON'a dönüştürün
+description:  EMF biçimindeki bir dosyayı JSON biçimindeki bir dosyaya dönüştürmek için C# için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i JSON\'a dönüştürmek için C# API" h2="EMF\'i JSON\'a dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, EMF\'i JSON\'a ve C#\'i kullanarak çevrimiçi diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/emf-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i JSON\'a dönüştür" h2="EMF\'i JSON\'a dönüştürmek için C# kitaplığı" p="Net projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, EMF\'i C#\'i kullanarak çevrimiçi olarak JSON\'a ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/emf-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir EMF dosyasını C#\'de JSON\'a dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="C# için Cells Cloud SDK\'yı kullanarak EMF\'i JSON\'a dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini EMF'den JSON'a dönüştürmek karmaşık bir iştir. EMF'den JSON biçimine geçişlerin tümü, kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, EMF'i çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
+Dosya formatlarını EMF'den JSON'a dönüştürmek karmaşık bir iş olabilir. C# SDK'mız, kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm EMF'den JSON formatına dönüşümleri gerçekleştirir. C# kitaplığımız, EMF'i çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, C# geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli JSON çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="EMF\'i JSON formatına dönüştürmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Cells Cloud SDK\'yı kullanarak EMF\'i JSON\'a dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ Dosya biçimlerini EMF'den JSON'a dönüştürmek karmaşık bir iştir. EMF'den
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="EMF\'i JSON\'a dönüştürmek için C# API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için CellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara EMF JSON\'a dönüştürmek için Cells Cloud SDK for Net nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>NET Framework 4.5.2 veya daha yenisi</li>
-<li>Net Standard 2.0 veya daha yenisi</li>
+<li>Net Standardı 2.0 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

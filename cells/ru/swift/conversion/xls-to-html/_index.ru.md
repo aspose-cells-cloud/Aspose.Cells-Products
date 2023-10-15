@@ -1,16 +1,16 @@
 ﻿---
-title:  XLS в HTML Преобразование API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLS в файл формата HTML.
+title:  XLS в HTML Преобразовать API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLS в файл формата HTML.
 url: /ru/swift/conversion/xls-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в HTML" h2="Библиотека Swift для преобразования XLS в HTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLS в HTML и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xls-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в HTML" h2="Библиотека Swift для преобразования XLS в HTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации XLS в HTML и другие форматы документов с помощью Swift." urlsection="conversion/xls-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в HTML в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLS в HTML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в HTML — сложная задача. Все переходы между форматами XLS и HTML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLS в HTML. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
+Преобразование форматов файлов из XLS в HTML — сложная задача. Все переходы формата XLS в HTML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLS в файлы HTML. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLS в формат HTML" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/xls-to-html/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования XLS в HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспорт WORKSHEET в PPTX из электронной таблицы с помощью Go API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/go/export/worksheet-to-pptx/
+title:  Экспортируйте WORKSHEET в PPTX из Excel с помощью Cloud SDK Cells для Go.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы экспортировать WORKSHEET в файл PPTX." h2="Библиотека Go для экспорта WORKSHEET в файл PPTX" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Go. Это профессиональное решение для экспорта WORKSHEET в файл формата PPTX из электронной таблицы онлайн с помощью Go." urlsection="export/worksheet-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт РАБОЧЕГО ЛИСТА в PPTX с номера Excel" h2="Библиотека Go для экспорта WORKSHEET в файл PPTX" p="Используйте «Экспорт API из Cells Cloud», чтобы экспортировать рабочие процессы внутренних объектов файлов Excel в Go. Это профессиональное решение для экспорта файла WORKSHEET в формат PPTX из электронной таблицы онлайн с помощью Go." urlsection="export/worksheet-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKSHEET в файл формата PPTX в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект WORKSHEET в файл формата PPTX с помощью Cells Cloud SDK for Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKSHEET в файл PPTX из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат PPTX выполняется нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKSHEET. Наша библиотека Go — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата PPTX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PPTX.
+Экспорт объекта WORKSHEET в файл PPTX из файла Excel — сложная задача. Экспорт переходов формата WORKSHEET в PPTX выполняется нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы WORKSHEET. Наша библиотека Go — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата PPTX. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для экспорта WORKSHEET в формат PPTX из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Go с использованием REST API для экспорта WORKSHEET в формат PPTX из электронной таблицы" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -56,10 +55,10 @@ url: /ru/go/export/worksheet-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для экспорта WORKSHEET в PPTX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод PostExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для экспорта объектов из Excel WORKSHEET в PPTX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

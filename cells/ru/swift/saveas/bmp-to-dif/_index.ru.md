@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохранить BMP как DIF API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата BMP в виде файла формата DIF.
+title:  Сохранить BMP как DIF API для Swift.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата BMP как файла формата DIF.
 url: /ru/swift/saveas/bmp-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить BMP как DIF" h2="Библиотека Swift для сохранения BMP как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения BMP в формате DIF и других форматах документов в Интернете с помощью Swift." urlsection="saveas/bmp-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить BMP как DIF" h2="Библиотека Swift для сохранения BMP как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения BMP в формате DIF и других форматов документов онлайн с помощью Swift." urlsection="saveas/bmp-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как DIF в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как DIF в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP в формате DIF является сложной задачей. Все переходы формата BMP в формат DIF выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Swift — это профессиональное решение для сохранения BMP в виде файлов DIF онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод DIF.
+Сохранение файлов формата BMP в формате DIF — сложная задача. Все переходы формата BMP в формат DIF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы BMP. Наша библиотека Swift — это профессиональное решение для сохранения BMP в виде файлов DIF в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения BMP в формате DIF" gistPath="" %}}
@@ -54,10 +54,10 @@ url: /ru/swift/saveas/bmp-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения BMP как DIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API, чтобы сохранить BMP как DIF" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

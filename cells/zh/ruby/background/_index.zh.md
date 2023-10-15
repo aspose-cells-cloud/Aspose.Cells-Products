@@ -1,14 +1,13 @@
 ﻿---
-title: 使用 Ruby 设置背景
-description: Aspose.Cells Cloud REST API 支持使用 Ruby 为 Excel 文件设置背景。 SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/ruby/background/
+title: 使用 Ruby 设置 Excel 文件的背景
+description: Aspose.Cells Cloud REST API支持使用Ruby为Excel文件设置背景，并提供各种编程语言的SDK。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Ruby 设置背景" h2="Aspose.Cells Cloud SDK支持Excel文件中清晰的内容、样式、图表、表格、背景等。" p="Aspose.Cells Cloud REST API 支持使用 Ruby 为 Excel 文件设置背景。 SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Ruby 设置 Excel 文件的背景" h2="Aspose.Cells Cloud SDK支持在Excel文件中设置背景。" p="Aspose.Cells Cloud REST API支持使用Ruby为Excel文件设置背景，并提供各种编程语言的SDK。" urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="使用 Ruby 扩展链接设置背景" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Ruby Extension 链接为 Excel 文件设置背景" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

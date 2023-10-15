@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML zu XLTX Konvertieren Sie API für Swift
+title: MHTML zu XLTX Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer MHTML-Formatdatei in eine XLTX-Formatdatei.
 url: /de/swift/conversion/mhtml-to-xltx/
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: BMP till SXC Konvertera API för Swift
+title:  BMP till SXC Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera BMP filformat till SXC format fil.
 url: /sv/swift/conversion/bmp-to-sxc/
 ---

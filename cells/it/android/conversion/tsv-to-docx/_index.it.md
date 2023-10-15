@@ -1,19 +1,18 @@
 ﻿---
-title:  Conversione da TSV a DOCX API per Android
-description:  Utilizzo di Aspose.Cells Cloud SDK per Android per convertire il file in formato TSV in un file in formato DOCX.
-url: /it/android/conversion/tsv-to-docx/
+title:  Converti TSV in DOCX utilizzando Android
+description: Utilizzando Aspose.Cells Cloud SDK per Android per convertire un file in formato TSV in un file in formato DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per convertire TSV in DOCX" h2="Libreria Android per convertire TSV in DOCX" p="Utilizza Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Android. Questa è una soluzione professionale per convertire TSV in DOCX e altri formati di documenti online utilizzando Android." urlsection="conversion/tsv-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti TSV in DOCX" h2="Libreria Android per convertire TSV in DOCX" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Android. Questa è una soluzione professionale per convertire TSV in DOCX e altri formati di documenti online utilizzando Android." urlsection="conversion/tsv-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file TSV in DOCX in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti TSV in DOCX utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da TSV a DOCX è un'attività complessa. Tutte le transizioni dal formato TSV al formato DOCX vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TSV di origine. La nostra libreria Android è una soluzione professionale per convertire file TSV in DOCX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output DOCX perfetto.
+La conversione dei formati di file da TSV a DOCX può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato TSV a DOCX preservando il contenuto strutturale e logico principale del foglio di calcolo TSV di origine. La nostra libreria Android fornisce una soluzione professionale per convertire file TSV in DOCX online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output DOCX di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per convertire TSV in formato DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice Android per convertire TSV in DOCX utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ La conversione dei formati di file da TSV a DOCX è un'attività complessa. Tutt
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Java API per convertire TSV in DOCX" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Android per convertire i file Excel in altri formati TSV in DOCX" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `putConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Android 7 o più recente</li>
-<li>Java(TM) SE Ambiente di runtime</li>
+<li>Android 7 o successivo</li>
+<li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

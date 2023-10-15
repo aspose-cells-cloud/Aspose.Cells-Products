@@ -1,10 +1,9 @@
 ﻿---
-title: Exporter en utilisant Java
-description:  Aspose.Cells Cloud REST API prend en charge l'exportation de classeurs et d'objets internes vers toutes sortes de formats à l'aide de Java. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
-url: /fr/java/export/
+title:  Exporter les objets Excel en utilisant Java
+description:  Aspose.Cells Cloud REST API prend en charge l'exportation de classeurs et d'objets internes vers tous types de formats à l'aide de Java. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter en utilisant Java" h2="Aspose.Cells Le SDK Cloud prend en charge l\'exportation de classeurs et d\'objets internes vers plus de 30 formats de fichiers." p="Aspose.Cells Cloud REST API prend en charge l\'exportation de classeurs et d\'objets internes vers toutes sortes de formats à l\'aide de Java. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter les objets Excel en utilisant Java" h2="Aspose.Cells Cloud SDK prend en charge l\'exportation de classeurs et d\'objets internes vers plus de 30 formats de fichiers." p="Aspose.Cells Cloud REST API prend en charge l\'exportation de classeurs et d\'objets internes vers tous types de formats à l\'aide de Java. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -14,25 +13,25 @@ url: /fr/java/export/
 	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Format d'entrée</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Bureau ouvert:</b> Ods, Fods, Ots</li>
-	<li><b>XML :</b>TableurML, Xml</li>
+	<li><b>XML :</b>Feuille de calculML, XML</li>
 	<li><b>Texte:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>La toile:</b> Html, Mhtml</li>
+	<li><b>La toile:</b> HTML, HTML</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Format de sortie</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Format de sortie</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Mot/PowerPoint :</b> Docx, Pptx</li>
+	<li><b>Microsoft Mot/PowerPoint :</b> Docx, PPTX</li>
 	<li><b>Bureau ouvert:</b> Ods, Fods, Ots</li>
-	<li><b>XML :</b>TableurML, Xml</li>
+	<li><b>XML :</b>Feuille de calculML, XML</li>
 	<li><b>Texte:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>La toile:</b> Html, Mhtml</li>
+	<li><b>La toile:</b> HTML, HTML</li>
 	<li><b>Images:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
-	<li><b>Autre:</b> Pdf, Xps, Dif, Json, Markdown, Sql</li>
+	<li><b>Autre:</b> Pdf, Xps, Dif, Json, Markdown, SQL</li>
 	</ul></div>
 	</div>
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Exporter à l\'aide des liens d\'extension Java" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Exporter les objets Excel à l\'aide des liens d\'extension Java" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
@@ -44,7 +43,7 @@ url: /fr/java/export/
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
 {{< blocks/products/pf/slr-element name="API Références" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vidéos tutorielles" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Support produit" tabId="support" >}}
@@ -53,7 +52,7 @@ url: /fr/java/export/
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.Cells Cloud SDK for .NET ?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.Cells SDK Cloud for .NET ?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Liste des clients" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Sécurité" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer ODS sous DIF API pour PHP
-description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format ODS en tant que fichier au format DIF.
-url: /fr/php/saveas/ods-to-dif/
+title:  Enregistrez l'ODS au format DIF en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format ODS au format DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer ODS au format DIF" h2="PHP bibliothèque pour enregistrer ODS au format DIF" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format DIF et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/ods-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer l\'ODS au format DIF" h2="Bibliothèque PHP pour enregistrer l\'ODS au format DIF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer l\'ODS au format DIF et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/ods-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier ODS au format DIF dans PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir d'ODS au format DIF est une tâche complexe. Toutes les transitions de format ODS vers DIF sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer ODS en tant que fichiers DIF en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie DIF parfaite.
+L'enregistrement des formats de fichiers d'ODS au format DIF est une tâche complexe. Toutes les transitions du format ODS vers DIF sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer les ODS sous forme de fichiers DIF en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie DIF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour enregistrer ODS au format DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour enregistrer l\'ODS au format DIF à l\'aide de REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ L'enregistrement de formats de fichiers à partir d'ODS au format DIF est une t�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour enregistrer ODS au format DIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP pour enregistrer les fichiers Excel sous d\'autres formats ODS comme DIF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

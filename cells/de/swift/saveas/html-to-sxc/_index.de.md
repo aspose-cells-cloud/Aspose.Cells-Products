@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als SXC API für Swift
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im HTML-Format als SXC-Formatdatei zu speichern.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im HTML-Format als SXC-Formatdatei zu speichern.
 url: /de/swift/saveas/html-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

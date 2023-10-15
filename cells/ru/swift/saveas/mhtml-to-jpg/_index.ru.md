@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохранить MHTML как JPG API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата MHTML в виде файла формата JPG.
+title:  Сохраните MHTML как JPG API для Swift.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата MHTML в формате JPG.
 url: /ru/swift/saveas/mhtml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить MHTML как JPG" h2="Библиотека Swift для сохранения MHTML как JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения MHTML в виде JPG и других форматов документов в Интернете с использованием Swift." urlsection="saveas/mhtml-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить MHTML в формате JPG." h2="Библиотека Swift для сохранения MHTML в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения MHTML в формате JPG и других форматов документов онлайн с помощью Swift." urlsection="saveas/mhtml-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как JPG в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML в формате JPG в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде JPG — сложная задача. Все переходы между форматами MHTML и JPG выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Swift — это профессиональное решение для онлайн-сохранения MHTML-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов из MHTML в формате JPG — сложная задача. Все переходы формата MHTML в JPG выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Swift — это профессиональное решение для сохранения файлов MHTML в формате JPG онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения MHTML в формате JPG" gistPath="" %}}
@@ -55,9 +55,9 @@ url: /ru/swift/saveas/mhtml-to-jpg/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения MHTML в формате JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

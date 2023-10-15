@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez MHTML sous PNG API pour C#
-description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format MHTML en tant que fichier au format PNG.
-url: /fr/net/saveas/mhtml-to-png/
+title:  Enregistrez MHTML sous PNG en utilisant C#
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format MHTML au format PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer MHTML sous PNG" h2="C# bibliothèque pour enregistrer MHTML sous PNG" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer MHTML sous PNG et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/mhtml-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer MHTML sous PNG" h2="Bibliothèque C# pour enregistrer MHTML sous PNG" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer du MHTML sous le numéro PNG et d\'autres formats de documents en ligne sous le numéro C#." urlsection="saveas/mhtml-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier MHTML sous PNG dans C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de MHTML sous le nom PNG est une tâche complexe. Toutes les transitions de format MHTML vers PNG sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque C# est une solution professionnelle pour enregistrer des fichiers MHTML sous PNG en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie PNG parfaite.
+Enregistrer les formats de fichiers MHTML sous le nom PNG est une tâche complexe. Toutes les transitions du format MHTML vers PNG sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque C# est une solution professionnelle pour enregistrer du MHTML sous forme de fichiers PNG en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie PNG parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans C# utilisant REST API pour enregistrer MHTML au format PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Exemple de code pour enregistrer MHTML sous PNG à l\'aide de REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ L'enregistrement des formats de fichiers à partir de MHTML sous le nom PNG est 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser C# API pour enregistrer MHTML sous PNG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Net pour enregistrer les fichiers Excel sous d\'autres formats MHTML sous le nom PNG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>NET Framework 4.5.2 ou plus récent</li>
-<li>Net Standard 2.0 ou plus récent</li>
+<li>NET Framework 4.5.2 ou version ultérieure</li>
+<li>Net Standard 2.0 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

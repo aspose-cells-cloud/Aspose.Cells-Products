@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara SXC som SVG API för C#
-description:  Använder Aspose.Cells Cloud SDK för C# för att spara SXC-formatfilen som SVG-formatfil.
-url: /sv/net/saveas/sxc-to-svg/
+title:  Spara SXC som SVG med C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara fil i SXC-format som fil i SVG-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att spara SXC som SVG" h2="C# bibliotek för att spara SXC som SVG" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara SXC som SVG och andra dokumentformat online med C#." urlsection="saveas/sxc-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara SXC som SVG" h2="C# bibliotek för att spara SXC som SVG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara SXC som SVG och andra dokumentformat online med C#." urlsection="saveas/sxc-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en SXC-fil som SVG i C#" >}}
@@ -13,7 +12,7 @@ url: /sv/net/saveas/sxc-to-svg/
 Att spara filformat från SXC som SVG är en komplex uppgift. Alla SXC- till SVG-formatövergångar utförs av vår C# SDK samtidigt som käll-SXC-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att spara SXC som SVG-filer online. Denna Cloud SDK ger C#-utvecklare kraftfull funktionalitet och perfekt SVG-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att spara SXC som SVG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kod Exempel för att spara SXC som SVG med REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Att spara filformat från SXC som SVG är en komplex uppgift. Alla SXC- till SVG
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att spara SXC som SVG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att spara Excel filer som andra format SXC som SVG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

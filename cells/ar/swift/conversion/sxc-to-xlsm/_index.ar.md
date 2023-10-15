@@ -1,19 +1,19 @@
 ﻿---
-title:  SXC إلى XLSM - تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق SXC إلى ملف بتنسيق XLSM.
+title:  تحويل SXC إلى XLSM API لـ Swift
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق SXC إلى ملف تنسيق XLSM.
 url: /ar/swift/conversion/sxc-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل SXC إلى XLSM" h2="مكتبة سريعة لتحويل SXC إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل SXC إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/sxc-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل SXC إلى XLSM" h2="مكتبة سويفت لتحويل SXC إلى XLSM" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل SXC إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/sxc-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى XLSM في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف SXC إلى XLSM في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من SXC إلى XLSM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى XLSM بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لتحويل ملفات SXC إلى XLSM عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XLSM مثالي.
+يعد تحويل تنسيقات الملفات من SXC إلى XLSM مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق SXC إلى XLSM بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات SXC إلى ملفات XLSM عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات XLSM مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل SXC إلى تنسيق XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل SXC إلى تنسيق XLSM" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/sxc-to-xlsm/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل SXC إلى XLSM" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

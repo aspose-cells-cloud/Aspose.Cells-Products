@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS en MHTML Convertir API pour PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format NUMBERS en fichier au format MHTML.
-url: /fr/php/conversion/numbers-to-mhtml/
+title:  Convertissez des NUMBERS en MHTML en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir un fichier au format NUMBERS en un fichier au format MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir les NUMBERS en MHTML" h2="PHP bibliothèque pour convertir les NUMBERS en MHTML" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en MHTML et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/numbers-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir des NOMBRES en MHTML" h2="Bibliothèque PHP pour convertir des NUMBERS en MHTML" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets PHP. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en MHTML et d\'autres formats de documents en ligne à l\'aide du PHP." urlsection="conversion/numbers-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier NUMBERS en MHTML en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez NUMBERS en MHTML à l\'aide du SDK Cloud Cells pour PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de NUMBERS en MHTML est une tâche complexe. Toutes les transitions de format NUMBERS vers MHTML sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque PHP est une solution professionnelle pour convertir des NUMBERS en fichiers MHTML en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie MHTML parfaite.
+La conversion des formats de fichiers de NUMBERS en MHTML peut être une tâche complexe. Notre SDK PHP gère toutes les conversions du format NUMBERS au format MHTML tout en préservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque PHP fournit une solution professionnelle pour convertir en ligne des NUMBERS en fichiers MHTML. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et garantit une sortie MHTML de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour convertir NUMBERS au format MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour convertir NUMBERS en MHTML à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ La conversion des formats de fichiers de NUMBERS en MHTML est une tâche complex
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour convertir des NUMBERS en MHTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP afin de convertir les fichiers Excel vers d\'autres formats NUMBERS en MHTML" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkBook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,10 +1,9 @@
 ﻿---
-title: Spara TSV som XLS API för Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att spara TSV-formatfil som XLS-formatfil.
-url: /sv/perl/saveas/tsv-to-xls/
+title:  Spara TSV som XLS med Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara TSV-formatfilen som XLS-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att spara TSV som XLS" h2="Perl bibliotek för att spara TSV som XLS" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att spara TSV som XLS och andra dokumentformat online med Perl." urlsection="saveas/tsv-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara TSV som XLS" h2="Perl bibliotek för att spara TSV som XLS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara TSV som XLS och andra dokumentformat online med Perl." urlsection="saveas/tsv-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en TSV-fil som XLS i Perl" >}}
@@ -13,7 +12,7 @@ url: /sv/perl/saveas/tsv-to-xls/
 Att spara filformat från TSV som XLS är en komplex uppgift. Alla TSV- till XLS-formatövergångar utförs av vår Perl SDK samtidigt som käll-TSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att spara TSV som XLS-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt XLS-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att spara TSV som XLS-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kod Exempel för att spara TSV som XLS med REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Att spara filformat från TSV som XLS är en komplex uppgift. Alla TSV- till XLS
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att spara TSV som XLS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att spara Excel filer som andra format TSV som XLS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Ring post_arbetsbok_save_as-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

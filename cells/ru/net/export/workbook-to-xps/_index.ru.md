@@ -1,16 +1,15 @@
 ﻿---
-title:  Экспорт WORKBOOK в XPS из электронной таблицы с использованием C# API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/net/export/workbook-to-xps/
+title:  Экспортируйте WORKBOOK в XPS из Excel с помощью Cloud SDK Cells для C#.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для экспорта WORKBOOK в файл XPS" h2="Библиотека C# для экспорта WORKBOOK в файл XPS" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Net. Это профессиональное решение для экспорта WORKBOOK в файл формата XPS из электронной таблицы онлайн с использованием C#." urlsection="export/workbook-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать РАБОЧУЮ КНИГУ на номер XPS из Excel." h2="Библиотека C# для экспорта WORKBOOK в файл XPS" p="Используйте «Экспорт API из Cells Cloud» для экспорта рабочих процессов внутренних объектов файлов Excel в Net. Это профессиональное решение для экспорта WORKBOOK в файл формата XPS из электронной таблицы онлайн с использованием C#." urlsection="export/workbook-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата XPS в C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект WORKBOOK в файл формата XPS с помощью Cloud SDK Cells для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл XPS из электронной таблицы является сложной задачей. Экспорт WORKBOOK в переходы формата XPS выполняется нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата XPS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат XPS.
+Экспорт объекта WORKBOOK в файл XPS из файла Excel — сложная задача. Экспорт WORKBOOK в формат переходов XPS выполняется нашим SDK C# с сохранением основного структурного и логического содержимого исходной таблицы WORKBOOK. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата XPS. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для экспорта WORKBOOK в формат XPS из электронной таблицы" gistPath="" %}}
@@ -44,16 +43,16 @@ url: /ru/net/export/workbook-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для экспорта WORKBOOK в XPS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод PostExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для экспорта объектов из Excel WORKBOOK в XPS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

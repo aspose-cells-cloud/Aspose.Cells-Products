@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS to DOCX Convert API لروبي
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق DOCX.
-url: /ar/ruby/conversion/numbers-to-docx/
+title:  تحويل NUMBERS إلى DOCX باستخدام Ruby
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لتحويل الأرقام إلى DOCX" h2="مكتبة روبي لتحويل الأرقام إلى DOCX" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لتحويل الأرقام إلى DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/numbers-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى DOCX" h2="مكتبة روبي لتحويل الأرقام إلى DOCX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Ruby. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/numbers-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى DOCX في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل NUMBERS إلى DOCX باستخدام Cells Cloud SDK لـ Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى DOCX بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات NUMBERS المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل الأرقام إلى ملفات DOCX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج DOCX مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من NUMBERS إلى DOCX مهمة معقدة. تتعامل مجموعة Ruby SDK الخاصة بنا مع جميع تحويلات تنسيق NUMBERS إلى DOCX مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل NUMBERS إلى ملفات DOCX عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Ruby من خلال وظائف قوية ويضمن إخراج DOCX عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل الأرقام إلى تنسيق DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Ruby لتحويل NUMBERS إلى DOCX باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ar/ruby/conversion/numbers-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتحويل الأرقام إلى DOCX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتحويل ملفات Excel إلى تنسيقات أخرى من NUMBERS إلى DOCX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

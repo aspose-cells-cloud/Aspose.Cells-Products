@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ BMP كـ HTML API مقابل Python
-description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق BMP كملف بتنسيق HTML.
-url: /ar/python/saveas/bmp-to-html/
+title:  احفظ BMP كـ HTML باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق BMP كملف بتنسيق HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ BMP كـ HTML" h2="مكتبة Python لحفظ BMP كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ BMP كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/bmp-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ BMP كـ HTML" h2="مكتبة Python لحفظ BMP باسم HTML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ BMP كـ HTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/bmp-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP كـ HTML في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من BMP كـ HTML مهمة معقدة. يتم إجراء جميع انتقالات تنسيق BMP إلى HTML بواسطة SDK Python مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات BMP المصدر. مكتبتنا Python هي حل احترافي لحفظ BMP كملفات HTML عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج HTML مثالي.
+يعد حفظ تنسيقات الملفات من BMP إلى HTML مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من BMP إلى HTML بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP. تعد مكتبتنا Python حلاً احترافيًا لحفظ BMP كملفات HTML عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج HTML مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ BMP بتنسيق HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على حفظ BMP كـ HTML باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/bmp-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ BMP كـ HTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى BMP كـ HTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
-title:  FODS'yi Bulutta PDF'e dönüştürün via PHP
-description: REST API ve Açık Kaynak PHP SDK ile Excel dosyaları oluşturun, düzenleyin veya dönüştürün
+title:  Bulutta FODS'yi PDF'e dönüştürün via PHP
+description: REST API ve Açık Kaynak PHP SDK ile Excel dosyalarını oluşturun, düzenleyin veya dönüştürün
 url: /tr/php/conversion/fods-to-pdf/
 family: cells
 platformtag: php
@@ -11,24 +11,24 @@ platform: PHP
 otherformats: DIF XPS XLT HTML TXT MHTML PDF CSV TSV XLTM XLSB XML XLTX ODS SVG TIFF 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="PHP ile FODS\'yi PDF\'e dönüştür" h2="Excel ve OpenOffice dosya dönüştürmesini PHP için açık kaynaklı Cloud SDK ile otomatikleştirin" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="FODS\'yi PHP ile PDF\'e dönüştürün" h2="Excel için açık kaynak Cloud SDK ile Excel ve OpenOffice dosya dönüştürmeyi otomatikleştirin" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS\'yi Hızlıca PDF via PHP\'e Dönüştürün" %}}
-1.  adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları
-1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlat
-1. ```CellsApi.uploadFile``` yöntemiyle FODS dosyasını varsayılan Bulut Depolamaya yükleyin
+{{% blocks/products/pf/agp/feature-section-col title="FODS\'yi hızla PDF via PHP\'e dönüştürün" %}}
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
+1. FODS dosyasını ```CellsApi.uploadFile``` yöntemiyle varsayılan Cloud Storage'a yükleyin
 1. Ortaya çıkan PDF dosyasını almak için ```CellsApi.cellsSaveAsPostDocumentSaveAs```'i arayın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Excel API ve PHP SDK\'yı Kullanmaya Başlayın" %}}
- PHP kaynak kodu için Excel Cloud SDK'yı şuradan edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) alternatif indirme seçenekleri için.
+ PHP kaynak kodu için Excel Cloud SDK'yı şu adresten edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) Alternatif indirme seçenekleri için.
 
- Ayrıca Swagger tabanlı bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
+ Ayrıca Swagger tabanlıya da bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="PHP FODS\'den PDF\'e Dönüştürme Kodu" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="PHP FODS kodunu PDF\'e dönüştürme" gistPath="" %}}
 ```php
 
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php

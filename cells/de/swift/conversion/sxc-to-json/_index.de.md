@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC zu JSON Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im SXC-Format in eine Datei im JSON-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im SXC-Format in eine Datei im JSON-Format.
 url: /de/swift/conversion/sxc-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

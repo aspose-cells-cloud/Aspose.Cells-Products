@@ -1,19 +1,18 @@
 ﻿---
-title:  NodeJS için XLTX'den MHTML'ye Dönüştürme API
-description:  XLTX biçim dosyasını MHTML biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for NodeJS'yi kullanma.
-url: /tr/nodejs/conversion/xltx-to-mhtml/
+title:  NodeJS kullanarak XLTX'i MHTML'ye dönüştürün
+description:  XLTX biçimindeki bir dosyayı MHTML biçimindeki bir dosyaya dönüştürmek için NodeJS için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i MHTML\'ye dönüştürmek için NodeJS API" h2="XLTX\'i MHTML\'ye dönüştürmek için NodeJS kitaplığı" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, XLTX\'i MHTML\'ye ve diğer belge formatlarını çevrimiçi olarak NodeJS kullanarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltx-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'yi MHTML\'ye dönüştür" h2="XLTX\'i MHTML\'ye dönüştürmek için NodeJS kütüphanesi" p="NodeJS projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, NodeJS\'yi kullanarak XLTX\'i MHTML\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltx-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTX dosyasını NodeJS\'de MHTML\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS için Cells Cloud SDK\'yı kullanarak XLTX\'i MHTML\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLTX'ten MHTML'ye dönüştürmek karmaşık bir iştir. Tüm XLTX'ten MHTML formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLTX'i çevrimiçi olarak MHTML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
+Dosya formatlarını XLTX'ten MHTML'ye dönüştürmek karmaşık bir iş olabilir. NodeJS SDK'mız, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLTX'ten MHTML formatına dönüşümleri gerçekleştirir. NodeJS kitaplığımız, XLTX'i çevrimiçi olarak MHTML dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli MHTML çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i MHTML formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak XLTX\'i MHTML\'ye dönüştürmek için NodeJS Kod Örneği" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Dosya formatlarını XLTX'ten MHTML'ye dönüştürmek karmaşık bir iştir. T�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLTX\'i MHTML\'ye dönüştürmek için Düğüm API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara XLTX\'den MHTML\'ye dönüştürmek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

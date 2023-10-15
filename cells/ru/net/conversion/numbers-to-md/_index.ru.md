@@ -1,19 +1,18 @@
 ﻿---
-title: НОМЕРА в MD Преобразовать API в C#
-description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата NUMBERS в файл формата MD.
-url: /ru/net/conversion/numbers-to-md/
+title:  Преобразуйте ЧИСЛА в MD, используя C#.
+description: Использование Cloud SDK Aspose.Cells для C# для преобразования файла формата NUMBERS в файл формата MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования ЧИСЕЛ в MD" h2="C# библиотека для преобразования NUMBERS в MD" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации NUMBERS в MD и другие форматы документов по телефону C#." urlsection="conversion/numbers-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать ЧИСЛА в MD" h2="C# библиотека для преобразования ЧИСЕЛ в МД" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Net. Это профессиональное решение для онлайн-конвертации ЧИСЕЛ в MD и другие форматы документов с помощью C#." urlsection="conversion/numbers-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в MD в C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте ЧИСЛА в MD с помощью Cells Cloud SDK для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в MD — сложная задача. Все переходы NUMBERS в формат MD выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в MD. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
+Преобразование форматов файлов из NUMBERS в MD может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования формата NUMBERS в формат MD, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертации ЧИСЕЛ в файлы MD. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод MD.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования NUMBERS в формат MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для преобразования ЧИСЕЛ в MD с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ru/net/conversion/numbers-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для преобразования ЧИСЕЛ в MD" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для преобразования файлов Excel в другие форматы NUMBERS в MD" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

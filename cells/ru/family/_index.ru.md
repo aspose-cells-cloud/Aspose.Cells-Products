@@ -1,61 +1,61 @@
 ﻿---
-title: Пакеты SDK для генератора и преобразователя облачных таблиц и REST API
-description:  SDK для популярных языков обеспечивают бесшовную интеграцию с вашими приложениями для чтения, изменения и преобразования электронных таблиц Excel и OpenOffice, размещенных в облаке.
+title:  Пакеты SDK для облачного генератора и конвертера электронных таблиц и API REST
+description:  SDK для популярных языков обеспечивает плавную интеграцию с вашими приложениями для чтения, изменения и преобразования электронных таблиц Excel и OpenOffice, размещенных в облаке.
 weight: 10
 url: /ru/family
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Облачные SDK и REST API для обработки Excel листов" h2="Пакеты SDK для популярных языков обеспечивают бесшовную интеграцию с вашими приложениями для чтения, изменения и преобразования электронных таблиц Excel и OpenOffice, размещенных в облаке." logoImageSrc="/headers/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Облачные SDK и REST API для обработки таблиц Excel" h2="Пакеты SDK для популярных языков обеспечивают плавную интеграцию с вашими приложениями для чтения, изменения и преобразования электронных таблиц Excel и OpenOffice, размещенных в облаке." logoImageSrc="/headers/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Cells API с малым кодом включают" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells Включают API с низким кодом" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облако для cURL" imgSrc="/sdk/aspose_cells-for-curl.svg" productLink="/cells/curl/" >}}
-Доступ к электронным таблицам Excel и OpenOffice, размещенным в облаке, для обработки и преобразования с использованием cURL via REST API.
+Получите доступ к электронным таблицам Excel и OpenOffice, размещенным в облаке, для обработки и преобразования с помощью cURL via REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
-Создавайте облачные приложения для создания и преобразования электронных таблиц с помощью Cloud SDK для C#, ASP.NET или другого языка, связанного с .NET.
+Создавайте облачные приложения для создания и конвертации электронных таблиц с помощью Cloud SDK для C#, ASP.NET или другого языка, связанного с .NET.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK for Java" imgSrc="/sdk/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-Разрешите своим Java облачным приложениям получать доступ, читать, записывать и обрабатывать Excel рабочие листы, размещенные в облаке.
+Предоставьте облачным приложениям Java доступ, чтение, запись и обработку листов Excel, размещенных в облаке.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для PHP" imgSrc="/sdk/aspose_cells-for-php.svg" productLink="/cells/php/" >}}
-Создавайте, просматривайте, объединяйте, разделяйте и конвертируйте электронные таблицы XLSX и ODS в облаке via PHP REST SDK.
+Создавайте, просматривайте, объединяйте, разделяйте и конвертируйте таблицы XLSX и ODS в облаке via PHP REST SDK.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Android" imgSrc="/sdk/aspose_cells-for-android.svg" productLink="/cells/android/" >}}
-Быстро разрабатывайте Excel и OpenOffice генератор электронных таблиц и приложения для шифрования для устройств Android с использованием REST API.
+Быстро разрабатывайте приложения Excel, генератор электронных таблиц и шифрования OpenOffice для устройств Android с помощью REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Python" imgSrc="/sdk/aspose_cells-for-python.svg" productLink="/cells/python/" >}}
-Python REST SDK для доступа к облачным Excel листам и файлам ODS для чтения, редактирования и преобразования в ваших Python приложениях.
+Python REST SDK для доступа к облачным Excel листам и файлам ODS для чтения, редактирования и преобразования в ваших приложениях Python.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Ruby" imgSrc="/sdk/aspose_cells-for-ruby.svg" productLink="/cells/ruby/" >}}
-Включите облачные приложения Ruby для просмотра, шифрования, изменения, преобразования и экспорта Excel электронных таблиц, размещенных в облаке.
+Разрешите своим облачным приложениям Ruby просматривать, шифровать, изменять, конвертировать и экспортировать электронные таблицы Excel, размещенные в облаке.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Node.js" imgSrc="/sdk/aspose_cells-for-node.svg" productLink="/cells/nodejs/" >}}
-Легко интегрируйте Microsoft Excel и функции обработки электронных таблиц OpenOffice в ваши облачные приложения Node.js via REST API.
+Легко интегрируйте Microsoft Excel и функции обработки электронных таблиц OpenOffice в свои облачные приложения Node.js via REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Perl" imgSrc="/sdk/aspose_cells-for-perl.svg" productLink="/cells/perl/" >}}
-Помогает вашим облачным приложениям Perl получать доступ и управлять таблицами XLSX и ODS в облаке без какого-либо стороннего программного обеспечения.
+Помогает вашим облачным приложениям Perl получать доступ к таблицам XLSX и ODS и манипулировать ими в облаке без какого-либо стороннего программного обеспечения.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Swift" imgSrc="/sdk/aspose_cells-for-swift.svg" productLink="/cells/swift/" >}}
-Легко создайте собственный облачный генератор и экспортер файлов Excel и OpenOffice на языке программирования Swift.
+Легко создайте свой собственный облачный генератор и экспортер файлов Excel и OpenOffice на языке программирования Swift.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Go" imgSrc="/sdk/aspose_cells-for-go.svg" productLink="/cells/go/" >}}
-Получите возможность создавать, изменять, обрабатывать или конвертировать Microsoft Excel и электронные таблицы OpenOffice via Go на любой платформе.
+Получите возможность создавать, изменять, обрабатывать или конвертировать Microsoft Excel и электронные таблицы OpenOffice via на языке Go на любой платформе.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для CPP" imgSrc="/sdk/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
-Получите возможность создавать, изменять, обрабатывать или конвертировать Microsoft Excel и электронные таблицы OpenOffice via Go на любой платформе.
+Получите возможность создавать, изменять, обрабатывать или конвертировать Microsoft Excel и электронные таблицы OpenOffice via на языке Go на любой платформе.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
@@ -65,8 +65,8 @@ Python REST SDK для доступа к облачным Excel листам и 
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells-cloud" >}}
-{{< blocks/products/pf/slr-element name="API Ссылки" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Рекомендации" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="Обучающие видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}

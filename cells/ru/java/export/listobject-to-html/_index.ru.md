@@ -1,16 +1,15 @@
 ﻿---
-title:  Экспорт LISTOBJECT в HTML из электронной таблицы с использованием Java API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/java/export/listobject-to-html/
+title:  Экспортируйте LISTOBJECT в HTML из Excel с помощью Cloud SDK Cells for Java.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для экспорта LISTOBJECT в файл HTML" h2="Java библиотека для экспорта LISTOBJECT в файл HTML" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Java. Это профессиональное решение для экспорта LISTOBJECT в файл формата HTML из электронной таблицы онлайн с использованием Java." urlsection="export/listobject-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать LISTOBJECT в HTML из Excel" h2="Java библиотека для экспорта LISTOBJECT в файл HTML" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Java. Это профессиональное решение для экспорта LISTOBJECT в файл формата HTML из электронной таблицы онлайн с использованием Java." urlsection="export/listobject-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата HTML в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект LISTOBJECT в файл формата HTML с помощью Cloud SDK Cells for Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл HTML из электронной таблицы является сложной задачей. Экспорт переходов формата LISTOBJECT в формат HTML выполняется нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата HTML. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат HTML.
+Экспорт объекта LISTOBJECT в файл HTML из файла Excel — сложная задача. Экспорт LISTOBJECT в переходы формата HTML выполняется нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы LISTOBJECT. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата HTML. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный результат HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для экспорта LISTOBJECT в формат HTML из электронной таблицы" gistPath="" %}}
@@ -51,10 +50,10 @@ url: /ru/java/export/listobject-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для экспорта LISTOBJECT в HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для экспорта объектов из Excel LISTOBJECT в HTML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

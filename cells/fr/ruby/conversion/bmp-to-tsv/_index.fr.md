@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP en TSV Convertir API pour Ruby
-description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format BMP en fichier au format TSV.
-url: /fr/ruby/conversion/bmp-to-tsv/
+title:  Convertir BMP en TSV en utilisant Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format BMP en fichier au format TSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour convertir BMP en TSV" h2="bibliothèque Ruby pour convertir BMP en TSV" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour convertir BMP en TSV et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/bmp-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir BMP en TSV" h2="Bibliothèque Ruby pour convertir BMP en TSV" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Ruby. Il s\'agit d\'une solution professionnelle pour convertir BMP en TSV et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/bmp-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier BMP en TSV en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez BMP en TSV à l\'aide du SDK Cloud Cells pour Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de BMP en TSV est une tâche complexe. Toutes les transitions du format BMP vers le format TSV sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Ruby est une solution professionnelle pour convertir en ligne les fichiers BMP en fichiers TSV. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie TSV parfaite.
+La conversion des formats de fichiers de BMP en TSV peut être une tâche complexe. Notre SDK Ruby gère toutes les conversions du format BMP au format TSV tout en préservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Ruby fournit une solution professionnelle pour convertir en ligne BMP en fichiers TSV. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et garantit une sortie TSV de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir BMP au format TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Ruby pour convertir BMP en TSV à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,15 +29,15 @@ La conversion des formats de fichiers de BMP en TSV est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Ruby API pour convertir BMP en TSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour convertir des fichiers Excel vers d\'autres formats BMP en TSV" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

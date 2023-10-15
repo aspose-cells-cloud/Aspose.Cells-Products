@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XLT как DOCX API для Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLT в виде файла формата DOCX.
-url: /ru/perl/saveas/xlt-to-docx/
+title:  Сохраните XLT как DOCX, используя Perl.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLT как файла формата DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить XLT как DOCX" h2="Perl библиотека для сохранения XLT как DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения XLT как DOCX и других форматов документов в Интернете с использованием Perl." urlsection="saveas/xlt-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLT как DOCX" h2="Perl библиотека для сохранения XLT в формате DOCX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения XLT в формате DOCX и других форматов документов в Интернете с помощью Perl." urlsection="saveas/xlt-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как DOCX по адресу Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как DOCX по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде DOCX — сложная задача. Все переходы между форматами XLT и DOCX выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Perl — это профессиональное решение для сохранения XLT в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из XLT в формате DOCX — сложная задача. Все переходы формата XLT в DOCX выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Perl — это профессиональное решение для сохранения XLT в формате DOCX в Интернете. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XLT в формате DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения XLT как DOCX с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/xlt-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для сохранения XLT как DOCX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl для сохранения файлов Excel в других форматах XLT как DOCX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

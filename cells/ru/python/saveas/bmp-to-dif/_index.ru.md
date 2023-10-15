@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить BMP как DIF API для Python
-description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата BMP в виде файла формата DIF.
-url: /ru/python/saveas/bmp-to-dif/
+title:  Сохраните BMP как DIF, используя Python.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата BMP как файла формата DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, чтобы сохранить BMP как DIF" h2="Python библиотека для сохранения BMP как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения BMP в формате DIF и других форматах документов в Интернете с использованием Python." urlsection="saveas/bmp-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить BMP как DIF" h2="Python библиотека для сохранения BMP как DIF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Python. Это профессиональное решение для сохранения BMP в формате DIF и других форматов документов в Интернете с помощью Python." urlsection="saveas/bmp-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как DIF в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP в формате DIF является сложной задачей. Все переходы формата BMP в формат DIF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека Python — это профессиональное решение для сохранения BMP в виде файлов DIF онлайн. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод DIF.
+Сохранение файлов формата BMP в формате DIF — сложная задача. Все переходы формата BMP в формат DIF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной таблицы BMP. Наша библиотека Python — это профессиональное решение для сохранения BMP в виде файлов DIF в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и идеальный вывод в формате DIF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения BMP в формате DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для сохранения BMP как DIF с использованием REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ru/python/saveas/bmp-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для сохранения BMP как DIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Python для сохранения файлов Excel в других форматах BMP как DIF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

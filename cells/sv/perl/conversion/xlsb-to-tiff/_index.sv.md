@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSB till TIFF Konvertera API till Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLSB-format till fil i TIFF-format.
-url: /sv/perl/conversion/xlsb-to-tiff/
+title:  Konvertera XLSB till TIFF med Perl
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera en fil i XLSB-format till en fil i TIFF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att konvertera XLSB till TIFF" h2="Perl bibliotek för att konvertera XLSB till TIFF" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att konvertera XLSB till TIFF och andra dokumentformat online med Perl." urlsection="conversion/xlsb-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLSB till TIFF" h2="Perl bibliotek för att konvertera XLSB till TIFF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl projekt. Detta är en professionell lösning för att konvertera XLSB till TIFF och andra dokumentformat online med Perl." urlsection="conversion/xlsb-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLSB-fil till TIFF i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLSB till TIFF med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSB till TIFF är en komplex uppgift. Alla formatövergångar från XLSB till TIFF utförs av vår Perl SDK samtidigt som källbladets XLSB-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att konvertera XLSB till TIFF-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och perfekt TIFF-utdata.
+Att konvertera filformat från XLSB till TIFF kan vara en komplicerad uppgift. Vår Perl SDK hanterar alla formatkonverteringar från XLSB till TIFF samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLSB bevaras. Vårt Perl-bibliotek tillhandahåller en professionell lösning för att konvertera XLSB till TIFF-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TIFF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att konvertera XLSB till TIFF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kodexempel för att konvertera XLSB till TIFF med Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Att konvertera filformat från XLSB till TIFF är en komplex uppgift. Alla forma
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att konvertera XLSB till TIFF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl SDK för att konvertera XLSB till TIFF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

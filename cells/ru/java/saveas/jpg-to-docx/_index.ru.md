@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить JPG как DOCX API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата JPG в виде файла формата DOCX.
-url: /ru/java/saveas/jpg-to-docx/
+title:  Сохраните JPG как DOCX, используя Java.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата JPG как файла формата DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить JPG как DOCX" h2="Java библиотека для сохранения JPG в формате DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения JPG как DOCX и других форматов документов в Интернете с использованием Java." urlsection="saveas/jpg-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить JPG как DOCX" h2="Java библиотека для сохранения JPG в формате DOCX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения JPG в формате DOCX и других форматов документов в Интернете с помощью Java." urlsection="saveas/jpg-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG в формате DOCX по адресу Java." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как DOCX по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG в формате DOCX — сложная задача. Все переходы из формата JPG в формат DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Java — это профессиональное решение для сохранения файлов JPG в формате DOCX в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов JPG в формате DOCX — сложная задача. Все переходы формата JPG в DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Java — это профессиональное решение для сохранения файлов JPG в формате DOCX онлайн. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения JPG в формате DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения JPG в формате DOCX с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/jpg-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения JPG в формате DOCX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах JPG как DOCX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

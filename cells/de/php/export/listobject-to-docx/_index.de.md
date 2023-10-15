@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT aus der Tabelle mit PHP API nach DOCX
+title:  Exportieren Sie LISTOBJECT von Excel nach DOCX mit dem Cloud SDK Cells für PHP
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/php/export/listobject-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren von LISTOBJECT in eine DOCX-Datei" h2="PHP-Bibliothek zum Exportieren von LISTOBJECT in eine DOCX-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine DOCX-Formatdatei aus einer Tabellenkalkulation online mit PHP." urlsection="export/listobject-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie LISTOBJECT von Excel nach DOCX" h2="PHP Bibliothek zum Exportieren von LISTOBJECT in eine DOCX-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel dateiinterne Objektworkflows in PHP zu exportieren. Dies ist eine professionelle Lösung, um LISTOBJECT online aus einer Tabellenkalkulation in eine DOCX-Formatdatei mit PHP zu exportieren." urlsection="export/listobject-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine DOCX-Formatdatei in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine Datei im DOCX-Format mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine DOCX-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das DOCX-Format wird von unserem SDK PHP durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Bibliothek PHP ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im DOCX-Format. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte DOCX-Ausgabe.
+Das Exportieren eines LISTOBJECT-Objekts aus der Datei Excel in eine DOCX-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-zu-DOCX-Formatübergängen wird von unserem SDK PHP durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im DOCX-Format. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte DOCX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von LISTOBJECT in das DOCX-Format aus einer Tabellenkalkulation" gistPath="" %}}
@@ -36,10 +35,10 @@ Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine D
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um LISTOBJECT nach DOCX zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Objekte von Excel LISTOBJECT nach DOCX zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

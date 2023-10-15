@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera SHAPE till GIF från kalkylark med Go API
+title: Exportera SHAPE till GIF från Excel med Cells Cloud SDK for Go
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/go/export/shape-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att exportera SHAPE till GIF-fil" h2="Gå till biblioteket för att exportera SHAPE till GIF-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylark i Go. Detta är en professionell lösning för att exportera SHAPE till GIF-formatfil från kalkylblad online med Go." urlsection="export/shape-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera SHAPE till GIF från Excel" h2="Gå till biblioteket för att exportera SHAPE till GIF-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i Go. Detta är en professionell lösning för att exportera SHAPE till GIF-formatfil från kalkylblad online med Go." urlsection="export/shape-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera SHAPE-objekt till GIF-formatfil i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera SHAPE-objekt till GIF-formatfil med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera SHAPE-objekt till GIF-fil från kalkylblad är en komplex uppgift. Export av SHAPE till GIF-formatövergångar utförs av vår Go SDK samtidigt som källarkets SHAPE-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att exportera SHAPE-objekt till GIF-formatfiler online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
+Exportera SHAPE-objekt till GIF-fil från Excel-filen är en komplex uppgift. Export av SHAPE till GIF-formatövergångar utförs av vår Go SDK samtidigt som källarkets SHAPE-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att exportera SHAPE-objekt till GIF-formatfiler online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att exportera SHAPE till GIF-format från kalkylark" gistPath="" %}}
@@ -56,10 +55,10 @@ Exportera SHAPE-objekt till GIF-fil från kalkylblad är en komplex uppgift. Exp
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att exportera SHAPE till GIF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring PostExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att exportera objekt från Excel SHAPE till GIF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

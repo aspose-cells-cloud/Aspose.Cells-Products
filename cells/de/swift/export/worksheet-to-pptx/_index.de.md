@@ -1,5 +1,5 @@
 ﻿---
-title: Exportieren Sie ARBEITSBLATT aus einer Tabellenkalkulation nach PPTX mit Swift API
+title:  Exportieren Sie ARBEITSBLATT aus einer Tabellenkalkulation nach PPTX mit Swift API
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/worksheet-to-pptx/
 ---

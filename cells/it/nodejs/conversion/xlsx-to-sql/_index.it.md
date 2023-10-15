@@ -1,19 +1,18 @@
 ﻿---
-title:  Converti da XLSX a SQL API per NodeJS
-description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato XLSX in un file in formato SQL.
-url: /it/nodejs/conversion/xlsx-to-sql/
+title:  Converti XLSX in SQL utilizzando NodeJS
+description:  Utilizzando Aspose.Cells Cloud SDK per NodeJS per convertire un file in formato XLSX in un file in formato SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per convertire XLSX in SQL" h2="Libreria NodeJS per convertire XLSX in SQL" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in NodeJS. Questa è una soluzione professionale per convertire XLSX in SQL e altri formati di documenti online utilizzando NodeJS." urlsection="conversion/xlsx-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti XLSX in SQL" h2="Libreria NodeJS per convertire XLSX in SQL" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo nei progetti NodeJS. Questa è una soluzione professionale per convertire XLSX in SQL e altri formati di documenti online utilizzando NodeJS." urlsection="conversion/xlsx-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XLSX in SQL in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti XLSX in SQL utilizzando Cells Cloud SDK per NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XLSX a SQL è un'attività complessa. Tutte le transizioni dal formato XLSX al formato SQL vengono eseguite dal nostro NodeJS SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria NodeJS è una soluzione professionale per convertire XLSX in file SQL online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output SQL perfetto.
+La conversione dei formati di file da XLSX a SQL può essere un compito complesso. Il nostro SDK NodeJS gestisce tutte le conversioni dal formato XLSX al formato SQL preservando il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria NodeJS fornisce una soluzione professionale per convertire file XLSX in SQL online. Questo Cloud SDK offre agli sviluppatori NodeJS funzionalità potenti e garantisce output SQL di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per convertire XLSX in formato SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice NodeJS per convertire XLSX in SQL utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ La conversione dei formati di file da XLSX a SQL è un'attività complessa. Tutt
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare il nodo API per convertire XLSX in SQL" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Node per convertire i file Excel in altri formati XLSX in SQL" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `putConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

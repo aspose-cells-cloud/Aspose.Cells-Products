@@ -1,7 +1,6 @@
 ﻿---
 title:  Fügen Sie ein Wasserzeichen für die lokale Arbeitsmappe mit PHP in der Cloud hinzu
 description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit PHP. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für PHP.
-url: /de/php/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Hinzufügen eines Wasserzeichens für lokale Microsoft Excel und OpenOffice Calc-Tabellen" h2="PHP-Bibliothek zum Hinzufügen von Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellen" p="Verwenden Sie Cells Watermark REST API, um Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in PHP hinzuzufügen. Diese professionelle Lösung fügt Wasserzeichen für Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows online unter PHP hinzu." urlsection="background/Add-watermark/" >}}
@@ -18,7 +17,7 @@ Das Hinzufügen eines Wasserzeichens für eine lokale Tabelle mit PHP ist eine k
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API zum Hinzufügen eines Wasserzeichens" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für PHP, um einer Excel-Datei ein Wasserzeichen hinzuzufügen." >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postWatermark auf, um den resultierenden Stream abzurufen</li>

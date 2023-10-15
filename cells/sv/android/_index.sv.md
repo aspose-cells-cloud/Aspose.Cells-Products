@@ -161,7 +161,7 @@ url: /sv/android
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Sammanfatta data för stora ListObject eller tabell med pivottabell
+ Sammanfatta data för stora ListObject eller tabell med pivottabell
     </p>
    </div>
    <div class="col-lg-4">
@@ -175,7 +175,7 @@ Sammanfatta data för stora ListObject eller tabell med pivottabell
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ta bort specifika eller alla OleObjects från kalkylbladet
+Ta bort specifika eller alla OleObjects från kalkylbladet
     </p>
    </div>
    <div class="col-lg-4">

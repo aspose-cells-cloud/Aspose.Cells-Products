@@ -1,6 +1,6 @@
 ﻿---
-title:  Экспорт WORKBOOK в TIFF из электронной таблицы с помощью Swift API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
+title:  Экспортируйте WORKBOOK в TIFF из электронной таблицы с помощью Swift API.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 url: /ru/swift/export/workbook-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/export/workbook-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата TIFF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл TIFF из электронной таблицы является сложной задачей. Экспорт WORKBOOK в переходы формата TIFF выполняется нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для экспорта объектов WORKBOOK в файлы формата TIFF онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TIFF.
+Экспорт объекта WORKBOOK в файл TIFF из электронной таблицы — сложная задача. Экспорт WORKBOOK в формат переходов TIFF выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для экспорта объектов WORKBOOK в файлы формата TIFF онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта WORKBOOK в формат TIFF из электронной таблицы" gistPath="" %}}
@@ -56,9 +56,9 @@ url: /ru/swift/export/workbook-to-tiff/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для экспорта WORKBOOK в TIFF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод postExport, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

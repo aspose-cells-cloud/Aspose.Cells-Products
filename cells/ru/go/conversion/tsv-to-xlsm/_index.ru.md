@@ -1,19 +1,18 @@
 ﻿---
-title:  Конвертировать TSV в XLSM API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата TSV в файл формата XLSM.
-url: /ru/go/conversion/tsv-to-xlsm/
+title:  Конвертируйте TSV в XLSM с помощью Go
+description: Использование Cloud SDK для Go Aspose.Cells для преобразования файла формата TSV в файл формата XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать TSV в XLSM." h2="Библиотека Go для преобразования TSV в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации TSV в XLSM и другие форматы документов с помощью Go." urlsection="conversion/tsv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать TSV в XLSM" h2="Библиотека Go для конвертации TSV в XLSM" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для конвертации TSV в XLSM и другие форматы документов онлайн с помощью Go." urlsection="conversion/tsv-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в XLSM в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование TSV в XLSM с помощью Cells Cloud SDK для Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в XLSM — сложная задача. Все переходы форматов TSV в XLSM выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов TSV в XLSM. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
+Преобразование форматов файлов из TSV в XLSM может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования формата TSV в XLSM, сохраняя при этом основное структурное и логическое содержимое исходной таблицы TSV. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования файлов TSV в XLSM. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования TSV в формат XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования TSV в XLSM с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /ru/go/conversion/tsv-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для преобразования TSV в XLSM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для преобразования файлов Excel в другие форматы TSV в XLSM" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

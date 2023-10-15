@@ -1,19 +1,18 @@
 ﻿---
-title:  وفر HTML كـ XLT API مقابل PHP
+title: احفظ HTML كـ XLT باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق HTML كملف بتنسيق XLT.
-url: /ar/php/saveas/html-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ HTML كـ XLT" h2="مكتبة PHP لحفظ HTML كـ XLT" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ HTML كـ XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/html-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ HTML كـ XLT" h2="مكتبة PHP لحفظ HTML بصيغة XLT" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في PHP. يعد هذا حلاً احترافيًا لحفظ HTML بتنسيق XLT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/html-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML كـ XLT في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML بتنسيق XLT في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من HTML كـ XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى تنسيق XLT بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحفظ HTML كملفات XLT عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج XLT مثالي.
+يعد حفظ تنسيقات الملفات من HTML بتنسيق XLT مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق HTML إلى XLT بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML. تعد مكتبتنا PHP حلاً احترافيًا لحفظ HTML كملفات XLT عبر الإنترنت. يوفر Cloud SDK لمطوري PHP وظائف قوية ومخرجات XLT مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ HTML بتنسيق XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على حفظ HTML كـ XLT باستخدام REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ar/php/saveas/html-to-xlt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لحفظ HTML كـ XLT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لحفظ ملفات Excel بتنسيقات أخرى HTML بتنسيق XLT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XLS كـ BMP API for Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLS كملف بتنسيق BMP.
-url: /ar/java/saveas/xls-to-bmp/
+title:  احفظ XLS كـ BMP باستخدام Java
+description: استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLS كملف بتنسيق BMP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLS كـ BMP" h2="مكتبة Java لحفظ XLS كـ BMP" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLS كـ BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xls-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLS كـ BMP" h2="مكتبة Java لحفظ XLS برقم BMP" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ XLS كـ BMP وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xls-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLS بالشكل BMP في Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLS باسم BMP في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLS كـ BMP مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى BMP بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLS المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لحفظ ملفات XLS على شكل BMP عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج BMP مثالي.
+يعد حفظ تنسيقات الملفات من XLS كـ BMP مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى BMP بواسطة Java SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLS المصدر. تعد مكتبتنا Java حلاً احترافيًا لحفظ XLS كملفات BMP عبر الإنترنت. يمنح Cloud SDK هذا مطوري Java وظائف قوية وإخراج BMP مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لحفظ XLS بتنسيق BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لحفظ XLS كـ BMP باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ url: /ar/java/saveas/xls-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ XLS كـ BMP" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لحفظ ملفات Excel بتنسيقات أخرى XLS مثل BMP" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

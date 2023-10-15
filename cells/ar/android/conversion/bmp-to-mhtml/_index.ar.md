@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP إلى MHTML تحويل API لنظام Android
-description: استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق BMP إلى ملف بتنسيق MHTML.
-url: /ar/android/conversion/bmp-to-mhtml/
+title:  تحويل BMP إلى MHTML باستخدام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف بتنسيق BMP إلى ملف بتنسيق MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="أندرويد API لتحويل BMP إلى MHTML" h2="مكتبة Android لتحويل BMP إلى MHTML" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لتحويل BMP إلى MHTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/bmp-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل BMP إلى MHTML" h2="مكتبة Android لتحويل BMP إلى MHTML" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Android. يعد هذا حلاً احترافيًا لتحويل BMP إلى MHTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/bmp-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف BMP إلى MHTML في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل BMP إلى MHTML باستخدام Cells Cloud SDK لنظام Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى MHTML بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجداول البيانات المصدر BMP. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل BMP إلى ملفات MHTML عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج MHTML مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من BMP إلى MHTML مهمة معقدة. يتعامل Android SDK الخاص بنا مع جميع تحويلات تنسيق BMP إلى MHTML مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. توفر مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل BMP إلى ملفات MHTML عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Android من الحصول على وظائف قوية ويضمن إخراج MHTML عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل BMP إلى تنسيق MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لتحويل BMP إلى MHTML باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ url: /ar/android/conversion/bmp-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتحويل BMP إلى MHTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتحويل ملفات Excel إلى تنسيقات أخرى BMP إلى MHTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
 title:  Rensa diagram på den lokala arbetsboken i Cloud
-description: " Cloud API:er och SDK:er för att rensa diagram på Microsoft Excel & OpenOffice Calc. Rensa diagram på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/android/clear/charts/
+description: "Cloud API:er och SDK:er för att rensa diagram på Microsoft Excel & OpenOffice Calc. Rensa diagram på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa diagram på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Android. Denna professionella lösning tydliga diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort diagram på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Android Rensa för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa diagram på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Android. Denna professionella lösning tydliga diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Android REST API" >}}
@@ -18,9 +17,9 @@ Att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Java API för att rensa diagram" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att rensa diagram" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop postClearObjects-metoden för att få den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

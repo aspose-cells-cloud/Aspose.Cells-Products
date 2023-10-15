@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF в SXC Преобразование API в Python
-description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата EMF в файл формата SXC.
-url: /ru/python/conversion/emf-to-sxc/
+title:  Преобразуйте EMF в SXC, используя Python.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата EMF в файл формата SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования EMF в SXC" h2="Библиотека Python для преобразования EMF в SXC" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для преобразования EMF в SXC и другие форматы документов онлайн с использованием Python." urlsection="conversion/emf-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать EMF в SXC" h2="Python библиотека для конвертации EMF в SXC" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для конвертации EMF в SXC и другие форматы документов онлайн с помощью Python." urlsection="conversion/emf-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в SXC в Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте EMF в SXC с помощью Cloud SDK Cells для Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в SXC — сложная задача. Все переходы формата EMF в формат SXC выполняются нашим пакетом SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Python — это профессиональное решение для онлайн-конвертации EMF в файлы SXC. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из EMF в SXC может оказаться сложной задачей. Наш SDK Python обрабатывает все преобразования формата EMF в SXC, сохраняя при этом основное структурное и логическое содержимое исходной таблицы EMF. Наша библиотека Python предоставляет профессиональное решение для онлайн-конвертации EMF в файлы SXC. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и обеспечивает высококачественный вывод SXC.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования EMF в формат SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для преобразования EMF в SXC с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ru/python/conversion/emf-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для преобразования EMF в SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python для преобразования файлов Excel в другие форматы EMF в SXC" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

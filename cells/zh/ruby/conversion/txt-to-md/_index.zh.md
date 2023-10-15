@@ -1,19 +1,18 @@
 ﻿---
-title:  TXT 到 MD 转换 API for Ruby
-description: 使用Aspose.Cells Cloud SDK for Ruby将TXT格式文件转换为MD格式文件。
-url: /zh/ruby/conversion/txt-to-md/
+title: 使用 Ruby 将 TXT 转换为 MD
+description: 利用Aspose.Cells Cloud SDK for Ruby将TXT格式文件转换为MD格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 TXT 转换为 MD" h2="将 TXT 转换为 MD 的 Ruby 库" p="使用 Cells Conversion REST API 在 Ruby 中创建自定义电子表格工作流程。这是使用 Ruby 在线将 TXT 转换为 MD 和其他文档格式的专业解决方案。" urlsection="conversion/txt-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 TXT 转换为 MD" h2="用于将 TXT 转换为 MD 的 Ruby 库" p="使用 Cells Cloud 的 Conversion API 在 Ruby 项目中创建自定义电子表格工作流程。这是使用 Ruby 在线将 TXT 转换为 MD 和其他文档格式的专业解决方案。" urlsection="conversion/txt-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Ruby 中将 TXT 文件转换为 MD" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Ruby 将 TXT 转换为 MD" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 TXT 转换为 MD 是一项复杂的任务。所有 TXT 到 MD 格式的转换均由我们的 Ruby SDK 执行，同时保留源 TXT 电子表格的主要结构和逻辑内容。我们的 Ruby 库是在线将 TXT 转换为 MD 文件的专业解决方案。该Cloud SDK为Ruby开发人员提供了强大的功能和完美的MD输出。
+将文件格式从 TXT 转换为 MD 可能是一项复杂的任务。我们的 Ruby SDK 处理所有 TXT 到 MD 格式的转换，同时保留源 TXT 电子表格的主要结构和逻辑内容。我们的 Ruby 库提供了在线将 TXT 转换为 MD 文件的专业解决方案。该Cloud SDK为Ruby开发人员提供了强大的功能，并确保高质量的MD输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ruby 中使用 REST API 将 TXT 转换为 MD 格式的代码示例" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="使用 Cells Cloud SDK 将 TXT 转换为 MD 的 Ruby 代码示例" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /zh/ruby/conversion/txt-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Ruby API 将TXT转换为MD" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>呼叫细胞_作业簿_放_转变_获取结果流的工作簿方法</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Ruby将Excel文件转换为其他格式TXT转MD" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `put_convert_workbook` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML in TSV umwandeln API in Python
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im HTML-Format in eine Datei im TSV-Format.
-url: /de/python/conversion/html-to-tsv/
+title:  Konvertieren Sie HTML mit Python in TSV
+description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im HTML-Format in eine Datei im TSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zur Umwandlung von HTML in TSV" h2="Python-Bibliothek zum Konvertieren von HTML in TSV" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um HTML online mit Python in TSV und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie HTML in TSV" h2="Python-Bibliothek zum Konvertieren von HTML in TSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung, um HTML online mit Python in TSV und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine HTML-Datei in TSV in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie HTML in TSV mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von HTML in TSV ist eine komplexe Aufgabe. Alle Übergänge vom Format HTML zum TSV-Format werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um HTML online in TSV-Dateien zu konvertieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
+Das Konvertieren von Dateiformaten von HTML in TSV kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle Konvertierungen von HTML in das TSV-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle HTML bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von HTML in TSV-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zur Konvertierung von HTML in das TSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel für die Konvertierung von HTML in TSV mit Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Das Konvertieren von Dateiformaten von HTML in TSV ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um HTML in TSV umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Excel-Dateien in andere Formate zu konvertieren, HTML in TSV" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,5 +1,5 @@
 ﻿---
-title:  EMF in XLSB Konvertieren Sie API für Swift
+title: EMF in XLSB Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im EMF-Format in eine XLSB-Formatdatei.
 url: /de/swift/conversion/emf-to-xlsb/
 ---

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XLSM كـ SQL API من أجل Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق XLSM كملف بتنسيق SQL.
-url: /ar/go/saveas/xlsm-to-sql/
+title:  احفظ XLSM بتنسيق SQL باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق XLSM كملف تنسيق SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لحفظ XLSM كـ SQL" h2="انتقل إلى المكتبة لحفظ XLSM كـ SQL" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Go. هذا حل احترافي لحفظ XLSM بتنسيق SQL وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="saveas/xlsm-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLSM بتنسيق SQL" h2="انتقل إلى المكتبة لحفظ XLSM بتنسيق SQL" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ XLSM بتنسيق SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/xlsm-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSM كملف SQL في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSM بتنسيق SQL في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSM مثل SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى SQL بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ XLSM كملفات SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Go وظائف قوية وإخراج SQL مثالي.
+يعد حفظ تنسيقات الملفات من XLSM بتنسيق SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى SQL بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ XLSM كملفات SQL عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية ومخرجات SQL مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لحفظ XLSM كتنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لحفظ XLSM كـ SQL باستخدام REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ url: /ar/go/saveas/xlsm-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لحفظ XLSM كـ SQL" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لحفظ ملفات Excel بتنسيقات أخرى XLSM مثل SQL" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ JPG كملف CSV API لـ PHP
+title:  احفظ JPG بتنسيق CSV باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق JPG كملف بتنسيق CSV.
-url: /ar/php/saveas/jpg-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ JPG كملف CSV" h2="PHP مكتبة لحفظ JPG كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ JPG كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/jpg-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ JPG كملف CSV" h2="مكتبة PHP لحفظ JPG بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في PHP. يعد هذا حلاً احترافيًا لحفظ JPG بتنسيق CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/jpg-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG كملف CSV في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بتنسيق CSV في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JPG مثل CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى CSV بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات CSV عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج CSV مثالي.
+يعد حفظ تنسيقات الملفات من JPG بتنسيق CSV مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق JPG إلى CSV بواسطة PHP SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحفظ JPG كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري PHP وظائف قوية ومخرجات CSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ JPG بتنسيق CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لحفظ JPG كملف CSV باستخدام REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ar/php/saveas/jpg-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لحفظ JPG كملف CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لحفظ ملفات Excel بتنسيقات أخرى JPG مثل CSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

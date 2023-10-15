@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ GIF كـ ODS API لـ Python
+title:  احفظ GIF كملف ODS باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق GIF كملف بتنسيق ODS.
-url: /ar/python/saveas/gif-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ GIF كـ ODS" h2="مكتبة Python لحفظ GIF كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ GIF كـ ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/gif-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ GIF كمواد مستنفدة للأوزون" h2="مكتبة Python لحفظ صور GIF كمواد مستنفدة للأوزون" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ GIF كملف ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/gif-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF كملف ODS في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF بتنسيق ODS في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من GIF مثل ODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى ODS بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. مكتبتنا Python هي حل احترافي لحفظ GIF كملفات ODS عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج ODS مثالي.
+يعد حفظ تنسيقات الملفات من GIF بتنسيق ODS مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق GIF إلى ODS بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ ملفات GIF كملفات ODS عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Python وظائف قوية ومخرجات مثالية للمواد المستنفدة للأوزون.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ GIF بتنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ GIF كملف ODS باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/gif-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ GIF كـ ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى GIF مثل ODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

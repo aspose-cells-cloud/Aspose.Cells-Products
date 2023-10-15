@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLTX unter TIFF API für Android
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Android, um die Datei im XLTX-Format als Datei im Format TIFF zu speichern.
-url: /de/android/saveas/xltx-to-tiff/
+title:  Speichern Sie XLTX unter Android unter TIFF
+description: Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern der Datei im XLTX-Format als Datei im Format TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, um XLTX als TIFF zu speichern" h2="Android-Bibliothek zum Speichern von XLTX unter TIFF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLTX als TIFF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xltx-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLTX unter TIFF" h2="Android-Bibliothek zum Speichern von XLTX als TIFF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLTX als TIFF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xltx-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTX-Datei unter Android als TIFF" >}}
@@ -13,7 +12,7 @@ url: /de/android/saveas/xltx-to-tiff/
 Das Speichern von Dateiformaten aus XLTX als TIFF ist eine komplexe Aufgabe. Alle XLTX-Formatübergänge in das TIFF-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLTX-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLTX-Dateien im Format TIFF. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von XLTX im TIFF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von XLTX als TIFF unter Verwendung von REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus XLTX als TIFF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um XLTX als TIFF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in anderen XLTX-Formaten als TIFF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

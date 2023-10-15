@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie WORKBOOK aus der Tabelle mit NodeJS API nach TIFF
+title:  Exportieren Sie WORKBOOK von Excel nach TIFF mit Cells Cloud SDK für NodeJS
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/nodejs/export/workbook-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren der Arbeitsmappe in die Datei TIFF" h2="NodeJS-Bibliothek zum Exportieren von WORKBOOK in die Datei TIFF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine Datei im Format TIFF aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/workbook-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie die Arbeitsmappe von Excel nach TIFF" h2="NodeJS-Bibliothek zum Exportieren von WORKBOOK in die Datei TIFF" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine Datei im Format TIFF aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/workbook-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in die Formatdatei TIFF in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im Format TIFF mit dem Cloud SDK Cells für NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des WORKBOOK-Objekts aus der Tabellenkalkulation in die Datei TIFF ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKBOOK in das TIFF-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im Format TIFF. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
+Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in die Datei TIFF ist eine komplexe Aufgabe. Formatübergänge beim Exportieren von WORKBOOK in das Format TIFF werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im Format TIFF. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Exportieren von WORKBOOK in das Format TIFF aus der Tabellenkalkulation" gistPath="" %}}
@@ -41,10 +40,10 @@ Das Exportieren des WORKBOOK-Objekts aus der Tabellenkalkulation in die Datei TI
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API zum Exportieren einer Arbeitsmappe nach TIFF" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Objekte von Excel WORKBOOK nach TIFF zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

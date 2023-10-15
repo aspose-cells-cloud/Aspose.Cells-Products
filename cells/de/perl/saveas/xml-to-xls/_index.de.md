@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XML als XLS API für Perl
-description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Speichern von XML-Formatdateien als XLS-Formatdateien.
-url: /de/perl/saveas/xml-to-xls/
+title:  Speichern Sie XML als XLS mit Perl
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern der XML-Formatdatei als XLS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um XML als XLS zu speichern" h2="Perl-Bibliothek zum Speichern von XML als XLS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um XML als XLS und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/xml-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML als XLS speichern" h2="Perl Bibliothek zum Speichern von XML als XLS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um XML als XLS und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/xml-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als XLS unter Perl" >}}
@@ -13,7 +12,7 @@ url: /de/perl/saveas/xml-to-xls/
 Das Speichern von Dateiformaten aus XML als XLS ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum XLS-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um XML als XLS-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von XML im XLS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel zum Speichern von XML als XLS mit REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Das Speichern von Dateiformaten aus XML als XLS ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um XML als XLS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Perl, um Excel-Dateien in anderen Formaten wie XML und XLS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Beitrag anrufen_Arbeitsmappe_save_as-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  TXT إلى CSV - تحويل API لروبي
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق TXT إلى ملف بتنسيق CSV.
-url: /ar/ruby/conversion/txt-to-csv/
+title:  تحويل TXT إلى CSV باستخدام روبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف بتنسيق TXT إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لتحويل TXT إلى CSV" h2="مكتبة روبي لتحويل TXT إلى CSV" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لتحويل TXT إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/txt-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل TXT إلى CSV" h2="مكتبة روبي لتحويل TXT إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Ruby. يعد هذا حلاً احترافيًا لتحويل TXT إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/txt-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TXT إلى CSV في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل TXT إلى CSV باستخدام Cells Cloud SDK لروبي" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TXT إلى CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى CSV بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات TXT إلى CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج CSV مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من TXT إلى CSV مهمة معقدة. يتعامل Ruby SDK الخاص بنا مع جميع تحويلات تنسيق TXT إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. توفر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات TXT إلى CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Ruby من خلال وظائف قوية ويضمن إخراج CSV عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل TXT إلى تنسيق CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لتحويل TXT إلى CSV باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ar/ruby/conversion/txt-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتحويل TXT إلى CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتحويل ملفات Excel إلى تنسيقات أخرى من TXT إلى CSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

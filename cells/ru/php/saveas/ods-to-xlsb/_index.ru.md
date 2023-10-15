@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните ODS как XLSB API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата ODS в виде файла формата XLSB.
-url: /ru/php/saveas/ods-to-xlsb/
+title:  Сохраните ODS как XLSB, используя PHP.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата ODS как файла формата XLSB.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для сохранения ODS как XLSB" h2="PHP библиотека для сохранения ODS как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения ODS в виде XLSB и других форматов документов в Интернете с использованием PHP." urlsection="saveas/ods-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ODS как XLSB" h2="PHP библиотека для сохранения ODS в формате XLSB" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения ODS в формате XLSB и других форматов документов в Интернете с помощью PHP." urlsection="saveas/ods-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как XLSB в PHP." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как XLSB по номеру PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде XLSB — сложная задача. Все переходы от формата ODS к формату XLSB выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека PHP — это профессиональное решение для сохранения ODS в виде файлов XLSB онлайн. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
+Сохранение форматов файлов из ODS в формате XLSB — сложная задача. Все переходы формата ODS в XLSB выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека PHP — это профессиональное решение для сохранения онлайн-файлов ODS в формате XLSB. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный вывод XLSB.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения ODS в формате XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения ODS в формате XLSB с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/ods-to-xlsb/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения ODS как XLSB" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для сохранения файлов Excel в других форматах ODS как XLSB" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

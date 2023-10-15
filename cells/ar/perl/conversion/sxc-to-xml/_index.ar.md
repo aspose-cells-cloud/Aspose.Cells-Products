@@ -1,19 +1,18 @@
 ﻿---
-title: تحويل SXC إلى XML API لـ Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق SXC إلى ملف بتنسيق XML.
-url: /ar/perl/conversion/sxc-to-xml/
+title:  تحويل SXC إلى XML باستخدام Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق SXC إلى ملف بتنسيق XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل SXC إلى XML" h2="Perl مكتبة لتحويل SXC إلى XML" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل SXC إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/sxc-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل SXC إلى XML" h2="مكتبة Perl لتحويل SXC إلى XML" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل SXC إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/sxc-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى XML في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل SXC إلى XML باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من SXC إلى XML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى XML بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لتحويل ملفات SXC إلى ملفات XML عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XML مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من SXC إلى XML مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق SXC إلى XML مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات SXC إلى ملفات XML عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن إخراج XML عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل SXC إلى تنسيق XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل SXC إلى XML باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/sxc-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل SXC إلى XML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل SXC إلى XML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

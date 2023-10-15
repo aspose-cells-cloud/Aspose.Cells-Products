@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XML au format WMF API for Java
-description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format XML en tant que fichier au format WMF.
-url: /fr/java/saveas/xml-to-wmf/
+title:  Enregistrez XML au format WMF en utilisant Java
+description: Utilisation du SDK Cloud Aspose.Cells for Java pour enregistrer le fichier au format XML au format WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer XML au format WMF" h2="Java bibliothèque pour enregistrer XML au format WMF" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer XML au format WMF et d\'autres formats de document en ligne à l\'aide de Java." urlsection="saveas/xml-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XML au format WMF" h2="Bibliothèque Java pour enregistrer XML au format WMF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer du XML au format WMF et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/xml-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XML au format WMF au Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XML au format WMF dans Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XML en tant que WMF est une tâche complexe. Toutes les transitions de format XML vers WMF sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Java est une solution professionnelle pour enregistrer en ligne des fichiers XML sous forme de fichiers WMF. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie WMF parfaite.
+L'enregistrement des formats de fichiers XML au format WMF est une tâche complexe. Toutes les transitions du format XML vers WMF sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Java est une solution professionnelle pour enregistrer du XML sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie WMF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour enregistrer XML au format WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Exemple de code pour enregistrer XML au format WMF à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ L'enregistrement de formats de fichiers à partir de XML en tant que WMF est une
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer XML au format WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Cells Cloud SDK for Java pour enregistrer des fichiers Excel sous d\'autres formats XML comme WMF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Maven 2.2.0 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Maven 2.2.0 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

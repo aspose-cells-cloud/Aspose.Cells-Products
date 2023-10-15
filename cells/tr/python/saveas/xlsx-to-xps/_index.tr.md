@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSX'i Python için XPS API olarak kaydedin
-description:  XLSX biçim dosyasını XPS biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
-url: /tr/python/saveas/xlsx-to-xps/
+title:  Python'i kullanarak XLSX'i XPS olarak kaydedin
+description:  XLSX formatındaki dosyayı XPS formatındaki dosya olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX\'i XPS olarak kaydetmek için Python API" h2="XLSX\'i XPS olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XLSX\'i XPS olarak ve diğer belge biçimlerini çevrimiçi olarak Python kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xlsx-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX\'i XPS olarak kaydet" h2="XLSX\'i XPS olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulut\'un API\'i Kaydet\'i kullanın. Bu, Python\'i kullanarak XLSX\'i XPS ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xlsx-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSX dosyasını Python\'de XPS olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSX dosyasını Python\'e XPS olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını XLSX'ten XPS olarak kaydetmek karmaşık bir iştir. Tüm XLSX - XPS biçim geçişleri, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, XLSX'i çevrimiçi olarak XPS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel XPS çıkışı sağlar.
+Dosya formatlarını XLSX'ten XPS olarak kaydetmek karmaşık bir iştir. XLSX'ten XPS'e tüm format geçişleri, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, XLSX'i çevrimiçi olarak XPS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel XPS çıktı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLSX\'i XPS biçiminde kaydetmek için REST API kullanan Python\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python XLSX\'i REST API kullanarak XPS olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Dosya formatlarını XLSX'ten XPS olarak kaydetmek karmaşık bir iştir. Tüm X
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLSX\'i XPS olarak kaydetmek için Python API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Çağrı hücreleri_kaydetmek_gibi_postalamak_belge_kaydetmek_sonuçtaki akışı alma yöntemi olarak</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer XLSX formatlarında XPS olarak kaydetmek için Python için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

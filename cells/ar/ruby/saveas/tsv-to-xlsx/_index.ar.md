@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ TSV كـ XLSX API لـ Ruby
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف TSV كملف بتنسيق XLSX.
-url: /ar/ruby/saveas/tsv-to-xlsx/
+title:  احفظ TSV بتنسيق XLSX باستخدام Ruby
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق TSV كملف بتنسيق XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لحفظ TSV كـ XLSX" h2="مكتبة روبي لحفظ TSV كـ XLSX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لحفظ TSV كـ XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/tsv-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TSV بتنسيق XLSX" h2="مكتبة روبي لحفظ TSV بصيغة XLSX" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Ruby. يعد هذا حلاً احترافيًا لحفظ TSV بتنسيق XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/tsv-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV باسم XLSX في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV بتنسيق XLSX في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TSV كـ XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى XLSX بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ TSV كملفات XLSX عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLSX مثالي.
+يعد حفظ تنسيقات الملفات من TSV بتنسيق XLSX مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق TSV إلى XLSX بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ TSV كملفات XLSX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية ومخرجات XLSX مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ TSV بتنسيق XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لحفظ TSV كـ XLSX باستخدام REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /ar/ruby/saveas/tsv-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لحفظ TSV كـ XLSX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لحفظ ملفات Excel بتنسيقات أخرى TSV مثل XLSX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

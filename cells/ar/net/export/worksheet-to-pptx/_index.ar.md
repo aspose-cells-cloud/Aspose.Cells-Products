@@ -1,19 +1,18 @@
 ﻿---
-title: قم بتصدير ورقة العمل إلى PPTX من جدول البيانات باستخدام C# API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/net/export/worksheet-to-pptx/
+title:  تصدير ورقة عمل إلى PPTX من Excel باستخدام Cells Cloud SDK لـ C#
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لتصدير WORKSHEET إلى ملف PPTX" h2="مكتبة C# لتصدير WORKSHEET إلى ملف PPTX" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Net. هذا حل احترافي لتصدير WORKSHEET إلى ملف بتنسيق PPTX من جدول بيانات عبر الإنترنت باستخدام C#." urlsection="export/worksheet-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير ورقة العمل إلى PPTX من Excel" h2="مكتبة C# لتصدير ورقة العمل إلى ملف PPTX" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي لملف Excel في Net. يعد هذا حلاً احترافيًا لتصدير ورقة العمل إلى ملف بتنسيق PPTX من جدول البيانات عبر الإنترنت باستخدام C#." urlsection="export/worksheet-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق PPTX في C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن ورقة العمل إلى ملف بتنسيق PPTX باستخدام Cells Cloud SDK لـ C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف PPTX من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKSHEET إلى تنسيق PPTX بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعتبر مكتبة C# الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق PPTX عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج PPTX مثالي.
+يعد تصدير كائن ورقة العمل إلى ملف PPTX من الملف Excel مهمة معقدة. يتم تنفيذ انتقالات تصدير ورقة العمل إلى تنسيق PPTX بواسطة C# SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات المصدر. تعد مكتبتنا C# حلاً احترافيًا لتصدير كائنات ورقة العمل إلى ملفات بتنسيق PPTX عبر الإنترنت. يوفر Cloud SDK هذا لمطوري C# وظائف قوية ومخرجات PPTX مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتصدير WORKSHEET إلى تنسيق PPTX من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في C# باستخدام REST API لتصدير ورقة عمل إلى تنسيق PPTX من جدول البيانات" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,16 +43,16 @@ url: /ar/net/export/worksheet-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام C# API لتصدير ورقة العمل إلى PPTX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة PostExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لتصدير الكائنات من ورقة عمل Excel إلى PPTX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
-<li>Net Standard 2.0 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

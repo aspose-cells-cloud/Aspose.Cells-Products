@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS zu XML Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer ODS-Formatdatei in eine XML-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer ODS-Formatdatei in eine XML-Formatdatei.
 url: /de/swift/conversion/ods-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

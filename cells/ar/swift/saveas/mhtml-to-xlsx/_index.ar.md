@@ -1,19 +1,19 @@
 ﻿---
 title:  احفظ MHTML كـ XLSX API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق MHTML كملف بتنسيق XLSX.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق MHTML كملف بتنسيق XLSX.
 url: /ar/swift/saveas/mhtml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ MHTML كـ XLSX" h2="مكتبة سريعة لحفظ MHTML كـ XLSX" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ MHTML كـ XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/mhtml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ MHTML كـ XLSX" h2="مكتبة سويفت لحفظ MHTML كـ XLSX" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ MHTML بتنسيق XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/mhtml-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم XLSX في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML بتنسيق XLSX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من MHTML كـ XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى XLSX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ MHTML كملفات XLSX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XLSX مثالي.
+يعد حفظ تنسيقات الملفات من MHTML بتنسيق XLSX مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق MHTML إلى XLSX بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ MHTML كملفات XLSX عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات XLSX مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ MHTML بتنسيق XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ MHTML بتنسيق XLSX" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,15 +54,15 @@ url: /ar/swift/saveas/mhtml-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ MHTML كـ XLSX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ MHTML بتنسيق XLSX" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

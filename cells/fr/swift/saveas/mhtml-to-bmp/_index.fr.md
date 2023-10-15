@@ -1,16 +1,16 @@
 ﻿---
-title:  Enregistrez MHTML sous BMP API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format MHTML en tant que fichier au format BMP.
+title:  Enregistrer MHTML sous BMP API pour Swift
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format MHTML au format BMP.
 url: /fr/swift/saveas/mhtml-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer MHTML sous BMP" h2="Bibliothèque Swift pour enregistrer MHTML sous BMP" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer MHTML sous BMP et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/mhtml-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer MHTML sous BMP" h2="Bibliothèque Swift pour enregistrer MHTML sous BMP" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer le MHTML sous le numéro BMP et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/mhtml-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier MHTML sous BMP dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de MHTML sous le nom BMP est une tâche complexe. Toutes les transitions de format MHTML vers BMP sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des fichiers MHTML sous BMP en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie BMP parfaite.
+Enregistrer les formats de fichiers MHTML sous le nom BMP est une tâche complexe. Toutes les transitions du format MHTML vers BMP sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer du MHTML sous forme de fichiers BMP en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie BMP parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer MHTML au format BMP" gistPath="" %}}
@@ -56,8 +56,8 @@ L'enregistrement des formats de fichiers à partir de MHTML sous le nom BMP est 
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer MHTML sous BMP" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

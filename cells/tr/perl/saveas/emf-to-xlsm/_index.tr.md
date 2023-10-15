@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF'i Perl için XLSM API olarak kaydedin
-description: EMF biçimli dosyayı XLSM biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
-url: /tr/perl/saveas/emf-to-xlsm/
+title:  EMF'i Perl'i kullanarak XLSM olarak kaydedin
+description:  EMF formatındaki dosyayı XLSM formatındaki dosya olarak kaydetmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i XLSM olarak kaydetmek için Perl API" h2="EMF\'i XLSM olarak kaydetmek için Perl kitaplığı" p="Perl\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Perl\'i kullanarak EMF\'i XLSM ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i XLSM olarak kaydet" h2="EMF\'i XLSM olarak kaydetmek için Perl kitaplığı" p="Perl\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Perl\'i kullanarak EMF\'i XLSM ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir EMF dosyasını Perl\'de XLSM olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="EMF dosyasını Perl\'e XLSM olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-EMF'den dosya formatlarını XLSM olarak kaydetmek karmaşık bir iştir. EMF'den XLSM biçimine geçişlerin tümü, kaynak EMF elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, EMF'i çevrimiçi XLSM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıkışı sağlar.
+EMF'den dosya formatlarını XLSM olarak kaydetmek karmaşık bir iştir. EMF'den XLSM formatına tüm geçişler, Perl SDK'mız tarafından gerçekleştirilir ve kaynak EMF elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Perl kitaplığımız, EMF'i çevrimiçi XLSM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Perl geliştiriciye güçlü işlevsellik ve mükemmel XLSM çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="EMF\'i XLSM formatı olarak kaydetmek için REST API\'i kullanan Perl\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl REST API kullanarak EMF\'i XLSM olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ EMF'den dosya formatlarını XLSM olarak kaydetmek karmaşık bir iştir. EMF'de
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="EMF\'i XLSM olarak kaydetmek için Perl API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Çağrı hücreleri_kaydetmek_gibi_postalamak_belge_kaydetmek_sonuçtaki akışı alma yöntemi olarak</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda kaydetmek için Perl için Cells Cloud SDK nasıl kullanılır EMF XLSM olarak" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Çağrı postası_çalışma kitabı_Ortaya çıkan akışı almak için save_as yöntemi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

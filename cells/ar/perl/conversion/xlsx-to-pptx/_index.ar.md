@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSX إلى PPTX تحويل API إلى Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLSX إلى ملف بتنسيق PPTX.
-url: /ar/perl/conversion/xlsx-to-pptx/
+title:  تحويل XLSX إلى PPTX باستخدام Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق XLSX إلى ملف بتنسيق PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLSX إلى PPTX" h2="Perl مكتبة لتحويل XLSX إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل XLSX إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsx-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSX إلى PPTX" h2="مكتبة Perl لتحويل XLSX إلى PPTX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل XLSX إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsx-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSX إلى PPTX في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSX إلى PPTX باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSX إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى PPTX بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XLSX إلى PPTX عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج PPTX مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSX إلى PPTX مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق XLSX إلى PPTX مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XLSX إلى PPTX عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن إخراج PPTX عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل XLSX إلى تنسيق PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل XLSX إلى PPTX باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/xlsx-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل XLSX إلى PPTX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل XLSX إلى PPTX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

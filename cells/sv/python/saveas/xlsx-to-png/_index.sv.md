@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLSX som PNG API för Python
+title:  Spara XLSX som PNG med Python
 description:  Använder Aspose.Cells Cloud SDK för Python för att spara XLSX-formatfil som PNG-fil.
-url: /sv/python/saveas/xlsx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att spara XLSX som PNG" h2="Python bibliotek för att spara XLSX som PNG" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Python. Detta är en professionell lösning för att spara XLSX som PNG och andra dokumentformat online med Python." urlsection="saveas/xlsx-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSX som PNG" h2="Python bibliotek för att spara XLSX som PNG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python. Detta är en professionell lösning för att spara XLSX som PNG och andra dokumentformat online med Python." urlsection="saveas/xlsx-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSX-fil som PNG i Python" >}}
@@ -13,7 +12,7 @@ url: /sv/python/saveas/xlsx-to-png/
 Att spara filformat från XLSX som PNG är en komplex uppgift. Alla formatövergångar från XLSX till PNG utförs av vår Python SDK samtidigt som källbladets XLSX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att spara XLSX som PNG-filer online. Denna Cloud SDK ger Python-utvecklare kraftfull funktionalitet och perfekt PNG-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att spara XLSX som PNG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att spara XLSX som PNG med REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Att spara filformat från XLSX som PNG är en komplex uppgift. Alla formatöverg
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att spara XLSX som PNG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att spara Excel filer som andra format XLSX som PNG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

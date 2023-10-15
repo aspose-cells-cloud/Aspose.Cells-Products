@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie CHART aus der Tabellenkalkulation nach EMF mit Perl API
+title:  Exportieren Sie CHART von Excel nach EMF mit dem Cloud SDK Cells für Perl
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/perl/export/chart-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um CHART in die Datei EMF zu exportieren" h2="Perl-Bibliothek zum Exportieren von CHART in die Datei EMF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Perl zu exportieren. Dies ist eine professionelle Lösung, um CHART online aus einer Tabellenkalkulation in eine Datei im EMF-Format zu exportieren, indem Sie Perl verwenden." urlsection="export/chart-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Diagramm von Excel nach EMF exportieren" h2="Perl-Bibliothek zum Exportieren von CHART in die EMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel-Datei-interne Objekt-Workflows in Perl zu exportieren. Dies ist eine professionelle Lösung, um CHART in eine EMF-Formatdatei aus einer Tabellenkalkulation online mit Perl zu exportieren." urlsection="export/chart-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in die Formatdatei EMF in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in eine Datei im Format EMF mit dem Cloud SDK Cells für Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in die Datei EMF ist eine komplexe Aufgabe. Übergänge im CHART-Format in das EMF-Format exportieren werden von unserem Perl-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um CHART-Objekte online in Dateien im EMF-Format zu exportieren. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und eine perfekte EMF Ausgabe.
+Das Exportieren eines CHART-Objekts aus der Datei Excel in die Datei EMF ist eine komplexe Aufgabe. Übergänge beim Exportieren von CHART in das EMF-Format werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um CHART-Objekte online in Dateien im EMF-Format zu exportieren. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und eine perfekte EMF Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von CHART in das Format EMF aus der Tabellenkalkulation" gistPath="" %}}
@@ -37,9 +36,9 @@ Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in die Datei E
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um CHART nach EMF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Perl, um Objekte von Excel CHART nach EMF zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

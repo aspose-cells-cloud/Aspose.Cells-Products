@@ -1,19 +1,18 @@
 ﻿---
-title:  XLTX'den SVG'e Dönüştür API for Java
-description:  XLTX biçim dosyasını SVG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
-url: /tr/java/conversion/xltx-to-svg/
+title:  Java'i kullanarak XLTX'i SVG'e dönüştürün
+description:  XLTX biçimindeki bir dosyayı SVG biçimindeki bir dosyaya dönüştürmek için Aspose.Cells Bulut SDK for Java'i kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i SVG\'e dönüştürmek için Java API" h2="XLTX\'i SVG\'e dönüştürmek için Java kitaplığı" p="Java\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, XLTX\'i Java kullanarak çevrimiçi olarak SVG\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltx-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i SVG\'e dönüştür" h2="XLTX\'i SVG\'e dönüştürmek için Java kitaplığı" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, XLTX\'i SVG\'e ve Java\'i kullanarak çevrimiçi olarak diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltx-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTX dosyasını Java\'de SVG\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Java\'i kullanarak XLTX\'i SVG\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLTX'ten SVG'e dönüştürmek karmaşık bir iştir. Tüm XLTX - SVG biçim geçişleri, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, XLTX'i çevrimiçi olarak SVG dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
+Dosya formatlarını XLTX'ten SVG'e dönüştürmek karmaşık bir iş olabilir. Java SDK'mız, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLTX'ten SVG formatına dönüşümleri gerçekleştirir. Java kitaplığımız, XLTX'i çevrimiçi olarak SVG dosyalara dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Java geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli SVG çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i SVG biçimine dönüştürmek için REST API kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Cells Bulut SDK\'yı kullanarak XLTX\'i SVG\'e dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Dosya formatlarını XLTX'ten SVG'e dönüştürmek karmaşık bir iştir. Tüm 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLTX\'i SVG\'e dönüştürmek için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer XLTX formatlarından SVG\'e dönüştürmek için Cells Cloud SDK for Java nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

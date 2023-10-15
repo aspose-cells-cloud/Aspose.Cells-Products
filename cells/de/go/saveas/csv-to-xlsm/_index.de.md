@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie CSV als XLSM API für Go
-description:  Verwenden Sie Aspose.Cells Cloud SDK für Go, um CSV-Formatdateien als XLSM-Formatdateien zu speichern.
-url: /de/go/saveas/csv-to-xlsm/
+title:  Speichern Sie CSV als XLSM mit Go
+description:  Verwendung von Aspose.Cells Cloud SDK für Go zum Speichern von CSV-Formatdateien als XLSM-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um CSV als XLSM zu speichern" h2="Gehen Sie zur Bibliothek, um CSV als XLSM zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von CSV als XLSM und anderen Dokumentformaten mit Go." urlsection="saveas/csv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="CSV als XLSM speichern" h2="Go-Bibliothek zum Speichern von CSV als XLSM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von CSV als XLSM und anderen Dokumentformaten mit Go." urlsection="saveas/csv-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine CSV-Datei als XLSM in Go" >}}
@@ -13,7 +12,7 @@ url: /de/go/saveas/csv-to-xlsm/
 Das Speichern von Dateiformaten aus CSV als XLSM ist eine komplexe Aufgabe. Alle CSV-zu-XLSM-Formatübergänge werden von unserem Go SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-CSV-Tabelle erhalten bleiben. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Speichern von CSV-Dateien als XLSM. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte XLSM-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von CSV im XLSM-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel zum Speichern von CSV als XLSM mit REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten aus CSV als XLSM ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um CSV als XLSM zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in anderen Formaten, CSV und XLSM, zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

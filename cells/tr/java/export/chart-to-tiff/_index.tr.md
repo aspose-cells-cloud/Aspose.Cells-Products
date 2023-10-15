@@ -1,19 +1,18 @@
 ﻿---
-title:  Java API kullanarak CHART'ı e-tablodan TIFF'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/java/export/chart-to-tiff/
+title:  Cells Cloud SDK for Java'i kullanarak CHART'ı Excel'den TIFF'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="CHART\'ı TIFF dosyasına dışa aktarmak için Java API" h2="CHART\'ı TIFF dosyasına dışa aktarmak için Java kitaplığı" p="Java\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, CHART\'ı Java kullanarak elektronik tablodan TIFF biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/chart-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="CHART\'ı Excel\'den TIFF\'e aktar" h2="CHART\'ı TIFF dosyasına aktarmak için Java kitaplığı" p="Java\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Java\'i kullanarak çevrimiçi elektronik tablodan CHART\'ı TIFF biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/chart-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="CHART nesnesini Java\'deki TIFF biçim dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Java\'i kullanarak CHART nesnesini TIFF biçimindeki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-CHART nesnesini elektronik tablodan TIFF dosyasına dışa aktarma karmaşık bir iştir. CHART'ı TIFF biçimine dışa aktarma geçişleri, Java SDK'mız tarafından gerçekleştirilir ve kaynak CHART e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, CHART nesnelerini çevrimiçi olarak TIFF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
+CHART nesnesini Excel dosyasından TIFF dosyasına aktarmak karmaşık bir iştir. CHART'ı TIFF'e aktarma format geçişleri Java SDK'mız tarafından gerçekleştirilirken, kaynak CHART elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, CHART nesnelerini çevrimiçi olarak TIFF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Java geliştiriciye güçlü işlevsellik ve mükemmel TIFF çıktı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="CHART\'ı e-tablodan TIFF biçimine dışa aktarmak için REST API kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="CHART\'ı elektronik tablodan TIFF formatına aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,10 +50,10 @@ CHART nesnesini elektronik tablodan TIFF dosyasına dışa aktarma karmaşık bi
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="CHART\'ı TIFF\'e dışa aktarmak için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel CHART\'tan TIFF\'e aktarmak için Cells Cloud SDK for Java nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

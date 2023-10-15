@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XLTX как XLSX API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLTX в виде файла формата XLSX.
-url: /ru/ruby/saveas/xltx-to-xlsx/
+title:  Сохраните XLTX как XLSX, используя Ruby.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLTX как файла формата XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, чтобы сохранить XLTX как XLSX" h2="Библиотека Ruby для сохранения XLTX как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLTX как XLSX и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xltx-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLTX как XLSX" h2="Библиотека Ruby для сохранения XLTX как XLSX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Ruby. Это профессиональное решение для сохранения XLTX в формате XLSX и других форматов документов онлайн с использованием Ruby." urlsection="saveas/xltx-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как XLSX в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как XLSX в Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в XLSX — сложная задача. Все переходы между форматами XLTX и XLSX выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLTX в формате XLSX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
+Сохранение форматов файлов из XLTX в XLSX — сложная задача. Все переходы формата XLTX в XLSX выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLTX в формате XLSX онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLTX в формате XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для сохранения XLTX как XLSX с использованием REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /ru/ruby/saveas/xltx-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для сохранения XLTX как XLSX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для сохранения файлов Excel в других форматах XLTX как XLSX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

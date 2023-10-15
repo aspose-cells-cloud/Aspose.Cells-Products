@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить GIF как PPTX API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата GIF как файла формата PPTX.
-url: /ru/ruby/saveas/gif-to-pptx/
+title:  Сохраните GIF как PPTX с помощью Ruby
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата GIF в формате PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения GIF в формате PPTX" h2="Библиотека Ruby для сохранения GIF в формате PPTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения GIF в формате PPTX и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/gif-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить GIF как PPTX" h2="Библиотека Ruby для сохранения GIF в формате PPTX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Ruby. Это профессиональное решение для сохранения GIF в формате PPTX и других форматов документов онлайн с помощью Ruby." urlsection="saveas/gif-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как PPTX в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как PPTX в Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде PPTX — сложная задача. Все переходы формата GIF в формат PPTX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Ruby — это профессиональное решение для сохранения файлов GIF в формате PPTX онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод PPTX.
+Сохранение форматов файлов GIF в формате PPTX — сложная задача. Все переходы формата GIF в PPTX выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Ruby — это профессиональное решение для сохранения GIF в формате PPTX онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения GIF в формате PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для сохранения GIF в формате PPTX с использованием REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /ru/ruby/saveas/gif-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для сохранения GIF в формате PPTX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для сохранения файлов Excel в других форматах GIF как PPTX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

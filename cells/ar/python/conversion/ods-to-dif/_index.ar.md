@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS إلى DIF تحويل API لـ Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق ODS إلى ملف بتنسيق DIF.
-url: /ar/python/conversion/ods-to-dif/
+title:  تحويل المواد المستنفدة للأوزون إلى DIF باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق ODS إلى ملف بتنسيق DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل ODS إلى DIF" h2="مكتبة Python لتحويل ODS إلى DIF" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Python. هذا حل احترافي لتحويل ODS إلى DIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/ods-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل المواد المستنفدة للأوزون إلى DIF" h2="Python مكتبة لتحويل ODS إلى DIF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل ODS إلى DIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/ods-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف ODS إلى DIF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ODS إلى DIF باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى DIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى DIF بواسطة SDK Python مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل ملفات ODS إلى DIF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج DIF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من ODS إلى DIF مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق ODS إلى DIF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل ملفات ODS إلى ملفات DIF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python من الحصول على وظائف قوية ويضمن مخرجات DIF عالية الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل ODS إلى تنسيق DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل ODS إلى DIF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/ods-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل ODS إلى DIF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى ODS إلى DIF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

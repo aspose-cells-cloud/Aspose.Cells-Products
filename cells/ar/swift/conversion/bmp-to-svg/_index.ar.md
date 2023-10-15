@@ -1,19 +1,19 @@
 ﻿---
-title:  BMP إلى SVG قم بالتحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق BMP إلى ملف بتنسيق SVG.
+title:  BMP إلى SVG تحويل API إلى سويفت
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق BMP إلى ملف بتنسيق SVG.
 url: /ar/swift/conversion/bmp-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل BMP إلى SVG" h2="مكتبة سويفت لتحويل BMP إلى SVG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل BMP إلى SVG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/bmp-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل BMP إلى SVG" h2="مكتبة سويفت لتحويل BMP إلى SVG" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل BMP إلى SVG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/bmp-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف BMP إلى SVG في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف BMP إلى SVG في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى SVG بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل BMP إلى SVG الملفات عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج SVG مثالي.
+يعد تحويل تنسيقات الملفات من BMP إلى SVG مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من BMP إلى SVG بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل BMP إلى SVG ملفًا عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراجًا مثاليًا SVG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل BMP إلى تنسيق SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل تنسيق BMP إلى تنسيق SVG" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -65,15 +65,15 @@ url: /ar/swift/conversion/bmp-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل BMP إلى SVG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام سويفت API لتحويل BMP إلى SVG" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

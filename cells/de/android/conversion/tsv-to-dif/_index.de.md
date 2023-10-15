@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV zu DIF Konvertieren API für Android
-description:  Verwenden von Aspose.Cells Cloud SDK für Android zum Konvertieren von TSV-Formatdateien in DIF-Formatdateien.
-url: /de/android/conversion/tsv-to-dif/
+title:  Konvertieren Sie TSV in DIF mit Android
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im TSV-Format in eine Datei im DIF-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von TSV in DIF" h2="Android-Bibliothek zum Konvertieren von TSV in DIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TSV in DIF und andere Dokumentformate mit Android." urlsection="conversion/tsv-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie TSV in DIF" h2="Android-Bibliothek zum Konvertieren von TSV in DIF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TSV in DIF und andere Dokumentformate mit Android." urlsection="conversion/tsv-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TSV-Datei in DIF in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie TSV in DIF mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TSV in DIF ist eine komplexe Aufgabe. Alle TSV-zu-DIF-Formatübergänge werden von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TSV- in DIF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte DIF-Ausgabe.
+Das Konvertieren von Dateiformaten von TSV in DIF kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle TSV-in-DIF-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-TSV-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von TSV- in DIF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige DIF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Konvertieren von TSV in das DIF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel für die Konvertierung von TSV in DIF mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von TSV in DIF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um TSV in DIF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in andere Formate, TSV in DIF, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC zu DIF Konvertieren API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im SXC-Format in eine Datei im DIF-Format zu konvertieren.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im SXC-Format in eine Datei im DIF-Format zu konvertieren.
 url: /de/swift/conversion/sxc-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

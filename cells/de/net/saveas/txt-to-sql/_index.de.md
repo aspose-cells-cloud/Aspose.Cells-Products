@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie TXT als SQL API für C#
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die TXT-Formatdatei als SQL-Formatdatei zu speichern.
-url: /de/net/saveas/txt-to-sql/
+title:  Speichern Sie TXT als SQL mit C#
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der TXT-Formatdatei als SQL-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um TXT als SQL zu speichern" h2="C#-Bibliothek zum Speichern von TXT als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von TXT als SQL und anderen Dokumentformaten unter C#." urlsection="saveas/txt-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie TXT als SQL" h2="C# Bibliothek zum Speichern von TXT als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von TXT als SQL und anderen Dokumentformaten unter C#." urlsection="saveas/txt-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TXT-Datei als SQL unter C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/txt-to-sql/
 Das Speichern von Dateiformaten aus TXT als SQL ist eine komplexe Aufgabe. Alle TXT-zu-SQL-Formatübergänge werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um TXT als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von TXT im SQL-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von TXT als SQL mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten aus TXT als SQL ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um TXT als SQL zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in anderen Formaten wie TXT und SQL zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB zu WMF Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSB-Format in eine Datei im WMF-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSB-Format in eine Datei im WMF-Format.
 url: /de/swift/conversion/xlsb-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

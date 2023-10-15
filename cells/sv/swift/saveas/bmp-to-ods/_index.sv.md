@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som ODS API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att spara BMP filformat som ODS-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att spara BMP filformat som ODS-formatfil.
 url: /sv/swift/saveas/bmp-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

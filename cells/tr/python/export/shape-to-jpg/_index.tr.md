@@ -1,19 +1,18 @@
 ﻿---
-title:  Python API kullanarak SHAPE'i e-tablodan JPG'ye aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/python/export/shape-to-jpg/
+title:  Python için Cells Cloud SDK'yı kullanarak SHAPE'i Excel'den JPG'ye aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SHAPE\'i JPG dosyasına dışa aktarmak için Python API" h2="SHAPE\'i JPG dosyasına dışa aktarmak için Python kitaplığı" p="Python\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Python kullanarak çevrimiçi elektronik tablodan SHAPE\'i JPG formatına dışa aktarmak için profesyonel bir çözümdür." urlsection="export/shape-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="SHAPE\'i Excel\'den JPG\'ye aktar" h2="SHAPE\'i JPG dosyasına aktarmak için Python kitaplığı" p="Python\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Python\'i kullanarak elektronik tablodan SHAPE\'i JPG formatındaki dosyaya çevrimiçi olarak dışa aktarmak için profesyonel bir çözümdür." urlsection="export/shape-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="SHAPE nesnesini Python\'de JPG formatındaki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Python için Cells Cloud SDK\'yı kullanarak SHAPE nesnesini JPG formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-SHAPE nesnesini e-tablodan JPG dosyasına dışa aktarma karmaşık bir görevdir. SHAPE'i JPG biçimine dışa aktarma geçişleri, kaynak SHAPE e-tablosunun ana yapısal ve mantıksal içeriğini korurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, SHAPE nesnelerini çevrimiçi olarak JPG formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
+SHAPE nesnesini Excel dosyasından JPG dosyasına aktarmak karmaşık bir iştir. SHAPE'i JPG'ye aktarma formatı geçişleri, kaynak SHAPE elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, SHAPE nesnelerini çevrimiçi olarak JPG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Python geliştiriciye güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="SHAPE\'i e-tablodan JPG formatına dışa aktarmak için REST API kullanan Python\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="SHAPE\'i elektronik tablodan JPG formatına aktarmak için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,9 +36,9 @@ SHAPE nesnesini e-tablodan JPG dosyasına dışa aktarma karmaşık bir görevdi
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="SHAPE\'i JPG\'ye dışa aktarmak için Python API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel SHAPE\'den JPG\'ye dışa aktarmak için Python için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için post_export yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

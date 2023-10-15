@@ -1,19 +1,18 @@
 ﻿---
-title: Convertir XLSM en XML API pour PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format XLSM en fichier au format XML.
-url: /fr/php/conversion/xlsm-to-xml/
+title:  Convertir XLSM en XML en utilisant PHP
+description: Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir un fichier au format XLSM en fichier au format XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir XLSM en XML" h2="bibliothèque PHP pour convertir XLSM en XML" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir XLSM en XML et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/xlsm-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSM en XML" h2="Bibliothèque PHP pour convertir XLSM en XML" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets PHP. Il s\'agit d\'une solution professionnelle pour convertir XLSM en XML et d\'autres formats de documents en ligne à l\'aide du PHP." urlsection="conversion/xlsm-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSM en XML en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez XLSM en XML à l\'aide du SDK Cloud Cells pour PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion de formats de fichiers XLSM en XML est une tâche complexe. Toutes les transitions de format XLSM vers XML sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque PHP est une solution professionnelle pour convertir en ligne des fichiers XLSM en XML. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie XML parfaite.
+La conversion des formats de fichiers XLSM vers XML peut être une tâche complexe. Notre SDK PHP gère toutes les conversions du format XLSM vers XML tout en préservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque PHP fournit une solution professionnelle pour convertir des fichiers XLSM en XML en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et garantit une sortie XML de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour convertir XLSM au format XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour convertir XLSM en XML à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ La conversion de formats de fichiers XLSM en XML est une tâche complexe. Toutes
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour convertir XLSM en XML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP afin de convertir des fichiers Excel vers d\'autres formats XLSM en XML" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkBook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie BILD aus der Tabellenkalkulation nach PNG mit Python API
+title:  Exportieren Sie PICTURE von Excel nach PNG mit dem Cloud SDK Cells für Python
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/python/export/picture-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um BILD in die Datei PNG zu exportieren" h2="Python-Bibliothek zum Exportieren von BILD in die Datei PNG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Python zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online aus einer Tabellenkalkulation in eine Datei im PNG-Format zu exportieren, indem Sie Python verwenden." urlsection="export/picture-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie BILD von Excel nach PNG" h2="Python-Bibliothek zum Exportieren von PICTURE in die Datei PNG" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Python zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online mit Python aus einer Tabellenkalkulation in das Format PNG zu exportieren." urlsection="export/picture-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Formatdatei PNG in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Formatdatei PNG mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei PNG ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das PNG-Format wird von unserem Python-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format PNG zu exportieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
+Das Exportieren des PICTURE-Objekts aus der Datei Excel in die Datei PNG ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das PNG-Format wird von unserem Python-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format PNG zu exportieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von PICTURE in das Format PNG aus der Tabellenkalkulation" gistPath="" %}}
@@ -37,9 +36,9 @@ Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei PNG
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um PICTURE nach PNG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Objekte von Excel PICTURE nach PNG zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить MHTML как GIF API для PHP
-description: Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата MHTML в виде файла формата GIF.
-url: /ru/php/saveas/mhtml-to-gif/
+title:  Сохраните MHTML в формате GIF, используя PHP.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата MHTML в формате GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить MHTML в формате GIF" h2="PHP библиотека для сохранения MHTML в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения документов MHTML в формате GIF и других форматов в Интернете с использованием PHP." urlsection="saveas/mhtml-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить MHTML в формате GIF" h2="PHP библиотека для сохранения MHTML в формате GIF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения MHTML в формате GIF и других форматов документов в Интернете с помощью PHP." urlsection="saveas/mhtml-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML в формате GIF в PHP." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML в формате GIF по номеру PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде GIF — сложная задача. Все переходы форматов MHTML в GIF выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека PHP — это профессиональное решение для сохранения файлов MHTML в формате GIF в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод GIF.
+Сохранение файлов формата MHTML в формате GIF — сложная задача. Все переходы формата MHTML в GIF выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека PHP — это профессиональное решение для сохранения MHTML в формате GIF в Интернете. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения MHTML в формате GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения MHTML в формате GIF с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/mhtml-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения MHTML в формате GIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для сохранения файлов Excel в других форматах MHTML в формате GIF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS till XLSB Konvertera API för PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera NUMBERS-formatfil till XLSB-formatfil.
-url: /sv/php/conversion/numbers-to-xlsb/
+title:  Konvertera NUMBERS till XLSB med PHP
+description: Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i NUMBERS-format till en fil i XLSB-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att konvertera NUMBERS till XLSB" h2="PHP bibliotek för att konvertera NUMBERS till XLSB" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att konvertera NUMBERS till XLSB och andra dokumentformat online med PHP." urlsection="conversion/numbers-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera NUMBERS till XLSB" h2="PHP bibliotek för att konvertera NUMBERS till XLSB" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera NUMBERS till XLSB och andra dokumentformat online med PHP." urlsection="conversion/numbers-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en NUMBERS-fil till XLSB i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera NUMBERS till XLSB med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från NUMBERS till XLSB är en komplex uppgift. Alla NUMBERS- till XLSB-formatövergångar utförs av vår PHP SDK samtidigt som källarket NUMBERS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att konvertera NUMBERS till XLSB-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
+Att konvertera filformat från NUMBERS till XLSB kan vara en komplicerad uppgift. Vår PHP SDK hanterar alla NUMBERS till XLSB-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket NUMBERS bevaras. Vårt PHP-bibliotek tillhandahåller en professionell lösning för att konvertera NUMBERS till XLSB-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer XLSB-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att konvertera NUMBERS till XLSB-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kodexempel för att konvertera NUMBERS till XLSB med Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Att konvertera filformat från NUMBERS till XLSB är en komplex uppgift. Alla NU
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att konvertera NUMBERS till XLSB" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring cellsWorkbookPutConvertWorkBook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att konvertera Excel filer till andra format NUMBERS till XLSB" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

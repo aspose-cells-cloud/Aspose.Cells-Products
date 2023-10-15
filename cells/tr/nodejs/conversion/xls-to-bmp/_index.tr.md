@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS'den BMP'e NodeJS için API'e Dönüştür
-description:  XLS biçim dosyasını BMP biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/nodejs/conversion/xls-to-bmp/
+title:  NodeJS kullanarak XLS'yi BMP'e dönüştürün
+description:  XLS biçimindeki bir dosyayı BMP biçimindeki bir dosyaya dönüştürmek için NodeJS için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLS\'yi BMP\'e dönüştürmek için NodeJS API" h2="XLS\'yi BMP\'e dönüştürmek için NodeJS kitaplığı" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, XLS\'yi NodeJS kullanarak çevrimiçi olarak BMP\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xls-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLS\'yi BMP\'e dönüştür" h2="XLS\'yi BMP\'e dönüştürmek için NodeJS kitaplığı" p="NodeJS projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, NodeJS\'yi kullanarak XLS\'yi BMP\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xls-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLS dosyasını NodeJS\'de BMP\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS için Cells Cloud SDK\'yı kullanarak XLS\'yi BMP\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den BMP'e dönüştürmek karmaşık bir iştir. Tüm XLS'den BMP'e biçim geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLS'yi çevrimiçi olarak BMP dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel BMP çıkışı sağlar.
+Dosya formatlarını XLS'den BMP'e dönüştürmek karmaşık bir iş olabilir. NodeJS SDK'mız, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm XLS'den BMP formatına dönüşümleri gerçekleştirir. NodeJS kitaplığımız, XLS'yi çevrimiçi olarak BMP dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli BMP çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi BMP formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak XLS\'yi BMP\'e dönüştürmek için NodeJS Kod Örneği" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Dosya formatlarını XLS'den BMP'e dönüştürmek karmaşık bir iştir. Tüm X
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLS\'yi BMP\'e dönüştürmek için Düğüm API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer XLS biçimlerine BMP\'e dönüştürmek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

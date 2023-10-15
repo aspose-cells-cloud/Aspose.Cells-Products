@@ -1,5 +1,5 @@
 ﻿---
-title:  JPG in CSV konvertieren API für Swift
+title: JPG in CSV konvertieren API für Swift
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine JPG-Formatdatei in eine CSV-Formatdatei zu konvertieren.
 url: /de/swift/conversion/jpg-to-csv/
 ---

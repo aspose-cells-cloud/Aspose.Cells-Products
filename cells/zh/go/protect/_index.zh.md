@@ -1,14 +1,13 @@
 ﻿---
-title: 使用 Go 进行保护
-description: Aspose.Cells Cloud REST API 支持使用 Go 解密、加密和数字签名工作簿。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/go/protect/
+title: 使用 Go 保护 Excel 文件
+description: Aspose.Cells Cloud REST API 支持使用 Go 对工作簿进行加密、解密和添加数字签名，并提供各种编程语言的 SDK。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Go 进行保护" h2="Aspose.Cells Cloud SDK支持解密、加密、数字签名工作簿。" p="Aspose.Cells Cloud REST API 支持使用 Go 解密、加密和数字签名工作簿。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Go 保护 Excel 文件" h2="Aspose.Cells Cloud SDK 支持对工作簿进行解密、加密和数字签名。" p="Aspose.Cells Cloud REST API 支持使用 Go 对工作簿进行加密、解密和添加数字签名，并提供各种编程语言的 SDK。" urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="使用 Go Extension 链接进行保护" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Go Extension 链接保护 Excel 文件" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

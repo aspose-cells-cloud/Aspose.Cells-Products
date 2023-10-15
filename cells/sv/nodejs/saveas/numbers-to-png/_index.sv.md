@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara NUMBERS som PNG API för NodeJS
-description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara NUMBERS-formatfilen som PNG-formatfil.
-url: /sv/nodejs/saveas/numbers-to-png/
+title:  Spara NUMBERS som PNG med NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara NUMBERS-formatfilen som PNG-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att spara NUMBERS som PNG" h2="NodeJS-bibliotek för att spara NUMBERS som PNG" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara NUMMER som PNG och andra dokumentformat online med NodeJS." urlsection="saveas/numbers-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara NUMBERS som PNG" h2="NodeJS-bibliotek för att spara NUMBERS som PNG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara NUMMER som PNG och andra dokumentformat online med NodeJS." urlsection="saveas/numbers-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en NUMBERS-fil som PNG i NodeJS" >}}
@@ -13,7 +12,7 @@ url: /sv/nodejs/saveas/numbers-to-png/
 Att spara filformat från NUMBERS som PNG är en komplex uppgift. Alla NUMBERS till PNG formatövergångar utförs av vår NodeJS SDK med bibehållen källkods NUMBERS kalkylblads huvudsakliga strukturella och logiska innehåll. Vårt NodeJS-bibliotek är en professionell lösning för att spara NUMBERS som PNG-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt PNG-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att spara NUMBERS som PNG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att spara NUMBERS som PNG med REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Att spara filformat från NUMBERS som PNG är en komplex uppgift. Alla NUMBERS t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder nod API för att spara NUMMER som PNG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att spara Excel filer som andra format NUMBERS som PNG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

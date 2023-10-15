@@ -1,16 +1,16 @@
 ﻿---
-title:  Convertir XLSB en XML API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format XLSB en fichier au format XML.
+title:  Conversion XLSB en XML API pour Swift
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format XLSB en fichier au format XML.
 url: /fr/swift/conversion/xlsb-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir XLSB en XML" h2="bibliothèque Swift pour convertir XLSB en XML" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir XLSB en XML et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/xlsb-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir XLSB en XML" h2="Bibliothèque Swift pour convertir XLSB en XML" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir XLSB en XML et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/xlsb-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSB en XML dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion de formats de fichiers XLSB en XML est une tâche complexe. Toutes les transitions de format XLSB vers XML sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers XLSB en XML. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XML parfaite.
+La conversion des formats de fichiers XLSB vers XML est une tâche complexe. Toutes les transitions du format XLSB vers XML sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers XLSB en fichiers XML en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XML parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir XLSB au format XML" gistPath="" %}}
@@ -67,8 +67,8 @@ La conversion de formats de fichiers XLSB en XML est une tâche complexe. Toutes
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir XLSB en XML" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

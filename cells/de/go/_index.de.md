@@ -1,5 +1,5 @@
 ﻿---
-title:  Gehen Sie zum Cloud SDK, um Excel-Dateien und via-REST-APIs zu generieren, zu bearbeiten und zu konvertieren
+title: Gehen Sie zum Cloud SDK, um Excel-Dateien und via-REST-APIs zu generieren, zu bearbeiten und zu konvertieren
 description:  Verwenden Sie die Befehle cURL, um Anwendungen zum Erstellen und Konvertieren von Tabellenkalkulationen zu erstellen, die zur Verarbeitung auf Microsoft Excel und OpenOffice-Dateien aus dem Cloud-Speicher zugreifen
 weight: 50
 url: /de/go
@@ -75,7 +75,7 @@ url: /de/go
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Excel Funktionen zur Tabellenverarbeitung
+ Excel Funktionen zur Tabellenverarbeitung
    </h2>
    <p>
    </p>
@@ -160,7 +160,7 @@ Excel Funktionen zur Tabellenverarbeitung
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer Pivot-Tabelle zusammen
+ Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer Pivot-Tabelle zusammen
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer 
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
+Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
     </p>
    </div>
    <div class="col-lg-4">

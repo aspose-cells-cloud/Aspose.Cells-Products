@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMÉROS en SVG Convertir API pour Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir le fichier au format NUMBERS en fichier au format SVG.
-url: /fr/android/conversion/numbers-to-svg/
+title:  Convertir des NOMBRES en SVG en utilisant Android
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format NUMBERS en fichier au format SVG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour convertir les NUMÉROS en SVG" h2="Bibliothèque Android pour convertir les NUMBERS en SVG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour convertir des NUMÉROS en SVG et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/numbers-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir des NOMBRES en SVG" h2="Bibliothèque Android pour convertir NUMBERS en SVG" p="Utilisez la conversion API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans des projets Android. Il s\'agit d\'une solution professionnelle pour convertir des NUMÉROS en SVG et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/numbers-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier NUMBERS en SVG sous Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez NUMBERS en SVG à l\'aide du SDK Cloud Cells pour Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de NUMBERS en SVG est une tâche complexe. Toutes les transitions de format NUMBERS vers SVG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Android est une solution professionnelle pour convertir des fichiers NUMBERS en SVG en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie SVG parfaite.
+La conversion des formats de fichiers de NUMBERS en SVG peut être une tâche complexe. Notre SDK Android gère toutes les conversions du format NUMBERS vers SVG tout en préservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Android fournit une solution professionnelle pour convertir en ligne des fichiers NUMBERS en SVG. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et garantit une sortie SVG de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour convertir NUMBERS au format SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour convertir NUMBERS en SVG à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ La conversion des formats de fichiers de NUMBERS en SVG est une tâche complexe.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour convertir des CHIFFRES en SVG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour convertir des fichiers Excel vers d\'autres formats NUMBERS en SVG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

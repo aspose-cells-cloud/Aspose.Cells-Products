@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT aus der Tabelle mit Java API nach JSON
+title:  Exportieren Sie LISTOBJECT nach JSON von Excel mit Cells Cloud SDK for Java
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/java/export/listobject-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Exportieren von LISTOBJECT in eine JSON-Datei" h2="Java-Bibliothek zum Exportieren von LISTOBJECT in eine JSON-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Java zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine JSON-Formatdatei aus einer Tabellenkalkulation online mit Java." urlsection="export/listobject-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie LISTOBJECT von Excel nach JSON" h2="Java Bibliothek zum Exportieren von LISTOBJECT in eine JSON-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel dateiinterne Objektworkflows in Java zu exportieren. Dies ist eine professionelle Lösung, um LISTOBJECT online aus einer Tabellenkalkulation in eine JSON-Formatdatei mit Java zu exportieren." urlsection="export/listobject-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in die JSON-Formatdatei in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt mit Cells Cloud SDK for Java in eine JSON-Formatdatei" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine JSON-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das JSON-Format wird von unserem SDK Java durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Bibliothek Java ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im JSON-Format. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
+Das Exportieren eines LISTOBJECT-Objekts aus der Datei Excel in eine JSON-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das JSON-Format wird von unserem SDK Java durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Bibliothek Java ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im JSON-Format. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Exportieren von LISTOBJECT in das JSON-Format aus einer Tabellenkalkulation" gistPath="" %}}
@@ -51,10 +50,10 @@ Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine J
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um LISTOBJECT nach JSON zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Exportieren von Objekten aus Excel LISTOBJECT nach JSON" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

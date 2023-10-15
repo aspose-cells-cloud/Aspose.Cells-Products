@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните XLTX как XPS API для NodeJS.
-description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLTX как файла формата XPS.
-url: /ru/nodejs/saveas/xltx-to-xps/
+title:  Сохраните XLTX как XPS с помощью NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLTX как файла формата XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить XLTX как XPS" h2="Библиотека NodeJS для сохранения XLTX как XPS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLTX как XPS и других форматов документов онлайн с использованием NodeJS." urlsection="saveas/xltx-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLTX как XPS" h2="Библиотека NodeJS для сохранения XLTX как XPS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения XLTX как XPS и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/xltx-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как XPS в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX как XPS — сложная задача. Все переходы между форматами XLTX и XPS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLTX в формате XPS онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат XPS.
+Сохранение формата файла XLTX как XPS — сложная задача. Все переходы формата XLTX в XPS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы XLTX. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLTX в виде XPS онлайн. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод XPS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLTX в формате XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения XLTX как XPS с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/xltx-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать узел API для сохранения XLTX как XPS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах XLTX как XPS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

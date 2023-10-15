@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG in PDF Konvertieren Sie API für Go
-description:  Verwenden Sie Aspose.Cells Cloud SDK für Go, um eine Datei im Format PNG in eine Datei im Format PDF zu konvertieren.
-url: /de/go/conversion/png-to-pdf/
+title:  Konvertieren Sie PNG mit Go in PDF
+description: Verwendung des Aspose.Cells Cloud SDK für Go zum Konvertieren einer Datei im Format PNG in eine Datei im Format PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um PNG in PDF umzuwandeln" h2="Gehen Sie zur Bibliothek, um PNG in PDF zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um PNG in PDF und andere Dokumentformate online mit Go zu konvertieren." urlsection="conversion/png-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie PNG in PDF" h2="Go-Bibliothek zum Konvertieren von PNG in PDF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go-Projekten zu erstellen. Dies ist eine professionelle Lösung, um PNG in PDF und andere Dokumentformate online mit Go zu konvertieren." urlsection="conversion/png-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in PDF in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie PNG in PDF mit Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in PDF ist eine komplexe Aufgabe. Alle Formatübergänge von PNG zu PDF werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von PNG- in PDF-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte PDF-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in PDF kann eine komplexe Aufgabe sein. Unser Go SDK verarbeitet alle Formatkonvertierungen von PNG in PDF und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Go-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG- in PDF-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und gewährleistet eine qualitativ hochwertige PDF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren des Formats PNG in das Format PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel für die Konvertierung von PNG in PDF mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Das Konvertieren von Dateiformaten von PNG in PDF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um PNG in PDF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in andere Formate von PNG bis PDF zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

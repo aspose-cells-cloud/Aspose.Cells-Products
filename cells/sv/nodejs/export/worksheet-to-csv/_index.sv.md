@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera ARBETSBLAD till CSV från kalkylblad med NodeJS API
+title:  Exportera ARBETSBLAD till CSV från Excel med Cells Cloud SDK för NodeJS
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/nodejs/export/worksheet-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att exportera ARBETSBLAD till CSV-fil" h2="NodeJS-bibliotek för att exportera WORKSHEET till CSV-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylblad i NodeJS. Detta är en professionell lösning för att exportera ARBETSBLAD till CSV-formatfil från kalkylblad online med NodeJS." urlsection="export/worksheet-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBLAD till CSV från Excel" h2="NodeJS-bibliotek för export av WORKSHEET till CSV-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i NodeJS. Detta är en professionell lösning för att exportera ARBETSBLAD till CSV-formatfil från kalkylblad online med NodeJS." urlsection="export/worksheet-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till CSV-formatfil i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till CSV-formatfil med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKSHEET-objekt till CSV-fil från kalkylark är en komplex uppgift. Exportera ARBETSBLAD till CSV-formatövergångar utförs av vår NodeJS SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till CSV-formatfiler online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Exportera WORKSHEET-objekt till CSV-fil från Excel-filen är en komplex uppgift. Exportera ARBETSBLAD till CSV-formatövergångar utförs av vår NodeJS SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till CSV-formatfiler online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att exportera WORKSHEET till CSV-format från kalkylblad" gistPath="" %}}
@@ -41,10 +40,10 @@ Exportera WORKSHEET-objekt till CSV-fil från kalkylark är en komplex uppgift. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att exportera ARBETSBLAD till CSV" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att exportera objekt från Excel WORKSHEET till CSV" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

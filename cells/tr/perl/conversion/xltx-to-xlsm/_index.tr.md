@@ -1,19 +1,18 @@
 ﻿---
-title:  Perl için XLTX'den XLSM'ye Dönüştürme API
-description:  XLTX biçim dosyasını XLSM biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/perl/conversion/xltx-to-xlsm/
+title:  Perl'i kullanarak XLTX'i XLSM'ye dönüştürün
+description: XLTX biçimindeki bir dosyayı XLSM biçimindeki dosyaya dönüştürmek için Perl için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i XLSM\'ye dönüştürmek için Perl API" h2="XLTX\'i XLSM\'ye dönüştürmek için Perl kitaplığı" p="Perl\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Perl\'i kullanarak XLTX\'i XLSM\'ye ve diğer belge formatlarını çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltx-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'yi XLSM\'ye dönüştür" h2="XLTX\'i XLSM\'ye dönüştürmek için Perl kütüphane" p="Perl projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Perl numaralı telefonu kullanarak XLTX\'i XLSM\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltx-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTX dosyasını Perl\'de XLSM\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Perl için Cells Cloud SDK\'yı kullanarak XLTX\'i XLSM\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLTX'ten XLSM'ye dönüştürmek karmaşık bir iştir. Tüm XLTX - XLSM format geçişleri, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, XLTX'i çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıkışı sağlar.
+Dosya formatlarını XLTX'ten XLSM'ye dönüştürmek karmaşık bir iş olabilir. Perl SDK'mız, kaynak XLTX e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm XLTX'ten XLSM formatına dönüşümleri gerçekleştirir. Perl kitaplığımız, XLTX'i çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Perl geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli XLSM çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i XLSM formatına dönüştürmek için REST API kullanan Perl\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Cells Bulut SDK\'yı kullanarak XLTX\'i XLSM\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Dosya formatlarını XLTX'ten XLSM'ye dönüştürmek karmaşık bir iştir. Tü
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLTX\'i XLSM\'ye dönüştürmek için Perl API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Çağrı hücreleri_çalışma kitabı_koymak_dönüştürmek_sonuç akışını almak için çalışma kitabı yöntemi</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLTX\'i XLSM\'ye dönüştürmek için Perl SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `put_convert_workbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

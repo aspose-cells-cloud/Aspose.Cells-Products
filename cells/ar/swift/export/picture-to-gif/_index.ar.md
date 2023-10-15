@@ -1,19 +1,19 @@
 ﻿---
-title:  قم بتصدير PICTURE إلى GIF من جدول البيانات باستخدام Swift API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
+title:  تصدير الصورة إلى GIF من جدول البيانات باستخدام Swift API
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 url: /ar/swift/export/picture-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتصدير PICTURE إلى ملف GIF" h2="مكتبة سريعة لتصدير PICTURE إلى ملف GIF" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Swift. هذا حل احترافي لتصدير PICTURE إلى ملف بتنسيق GIF من جدول بيانات عبر الإنترنت باستخدام Swift." urlsection="export/picture-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتصدير الصورة إلى ملف GIF" h2="مكتبة سويفت لتصدير الصورة إلى ملف GIF" p="استخدم Cells تصدير REST API لتصدير سير عمل الكائنات الداخلية لجدول البيانات في Swift. يعد هذا حلاً احترافيًا لتصدير ملف بتنسيق PICTURE إلى GIF من جدول البيانات عبر الإنترنت باستخدام Swift." urlsection="export/picture-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف بتنسيق GIF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن PICTURE إلى ملف GIF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير PICTURE إلى تنسيق GIF بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق GIF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج GIF مثالي.
+يعد تصدير كائن PICTURE إلى ملف GIF من جدول البيانات مهمة معقدة. يتم تنفيذ عمليات تصدير الصور إلى تنسيق GIF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق GIF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات GIF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتصدير PICTURE إلى تنسيق GIF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتصدير الصورة إلى تنسيق GIF من جدول البيانات" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,8 +55,8 @@ url: /ar/swift/export/picture-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتصدير PICTURE إلى GIF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتصدير الصورة إلى GIF" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

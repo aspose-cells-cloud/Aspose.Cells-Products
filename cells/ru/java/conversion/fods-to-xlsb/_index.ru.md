@@ -1,6 +1,6 @@
 ﻿---
-title:  Конвертируйте FODS в XLSB в облаке via Java
-description: Создавайте, редактируйте или конвертируйте Excel файлы с помощью REST API и Open Source Java SDK
+title:  Преобразование FODS в XLSB в облаке via Java
+description: Создавайте, редактируйте или конвертируйте файлы Excel с помощью REST API и SDK с открытым исходным кодом Java.
 url: /ru/java/conversion/fods-to-xlsb/
 family: cells
 platformtag: java
@@ -11,21 +11,21 @@ platform: Java
 otherformats: XPS CSV TIFF TXT TSV PDF MD XLS DIF HTML FODS XML XLTX XLSM MHTML SVG 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование FODS в XLSB с помощью Java" h2="Автоматизируйте преобразование файлов Excel и OpenOffice с помощью Cloud SDK с открытым исходным кодом for Java" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Конвертируйте FODS в XLSB с помощью Java" h2="Автоматизируйте преобразование файлов Excel и OpenOffice с помощью Cloud SDK с открытым исходным кодом for Java" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Простое преобразование FODS в XLSB" %}}
-1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API
-1. Инициализируйте ```CellsApi``` с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.
+1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API
+1. Инициализируйте ```CellsApi```, используя идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.
 1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.Upload```.
-1. Позвоните по номеру ```CellsApi.cellsWorkbookGetWorkbook```, чтобы получить результирующий файл XLSB.
+1. Позвоните по номеру ```CellsApi.cellsWorkbookGetWorkbook```, чтобы получить полученный файл XLSB.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Начните работу с Excel, API и Java SDK" %}}
- Получите исходный код Excel Cloud SDK for Java из[Гитхаб](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) скомпилировать SDK самостоятельно или обратиться к[Релизы](https://releases.aspose.cloud/) для альтернативных вариантов загрузки.
+{{% blocks/products/pf/agp/feature-section-col title="Начало работы с Excel, API и Java SDK" %}}
+ Получите исходный код Excel Cloud SDK for Java с сайта[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
 
- Также взгляните на Swagger-based[API Ссылка](https://apireference.aspose.cloud/cells/) узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
+ Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Код для преобразования FODS в XLSB" gistPath="" %}}

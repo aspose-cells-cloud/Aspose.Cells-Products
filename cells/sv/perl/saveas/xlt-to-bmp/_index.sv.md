@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLT som BMP API för Perl
-description:  Använd Aspose.Cells Cloud SDK för Perl för att spara XLT-formatfil som BMP-fil.
-url: /sv/perl/saveas/xlt-to-bmp/
+title:  Spara XLT som BMP med Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara XLT-formatfil som BMP-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att spara XLT som BMP" h2="Perl bibliotek för att spara XLT som BMP" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara XLT som BMP och andra dokumentformat online med Perl." urlsection="saveas/xlt-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLT som BMP" h2="Perl bibliotek för att spara XLT som BMP" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara XLT som BMP och andra dokumentformat online med Perl." urlsection="saveas/xlt-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLT-fil som BMP i Perl" >}}
@@ -13,7 +12,7 @@ url: /sv/perl/saveas/xlt-to-bmp/
 Att spara filformat från XLT som BMP är en komplex uppgift. Alla formatövergångar från XLT till BMP utförs av vår Perl SDK samtidigt som käll-XLT-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att spara XLT som BMP-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och perfekt BMP-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att spara XLT som BMP-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kod Exempel för att spara XLT som BMP med REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Att spara filformat från XLT som BMP är en komplex uppgift. Alla formatöverg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att spara XLT som BMP" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att spara Excel filer som andra format XLT som BMP" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Ring post_arbetsbok_save_as-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ TXT كـ MD API لـ Python
+title:  احفظ TXT كـ MD باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق TXT كملف بتنسيق MD.
-url: /ar/python/saveas/txt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ TXT كـ MD" h2="مكتبة Python لحفظ TXT كـ MD" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ TXT كـ MD وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/txt-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TXT كـ MD" h2="Python مكتبة لحفظ TXT بصيغة MD" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ TXT بتنسيق MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/txt-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT كملف MD في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT باسم MD في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT كـ MD مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى MD بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات MD عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج MD مثالي.
+يعد حفظ تنسيقات الملفات من TXT كـ MD مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق TXT إلى MD بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ TXT كملفات MD عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Python وظائف قوية ومخرجات MD مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ TXT بتنسيق MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ TXT كـ MD باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/txt-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ TXT كملف MD" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى TXT مثل MD" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

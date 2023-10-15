@@ -1,16 +1,15 @@
 ﻿---
-title: Экспорт LISTOBJECT в MD из электронной таблицы с использованием Python API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/python/export/listobject-to-md/
+title:  Экспортируйте LISTOBJECT в MD из Excel с помощью Cloud SDK Cells для Python.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для экспорта LISTOBJECT в файл MD" h2="Python библиотека для экспорта LISTOBJECT в файл MD" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Python. Это профессиональное решение для экспорта LISTOBJECT в файл формата MD из электронной таблицы онлайн с использованием Python." urlsection="export/listobject-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт LISTOBJECT в MD с Excel" h2="Python библиотека для экспорта LISTOBJECT в файл MD" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Python. Это профессиональное решение для экспорта LISTOBJECT в файл формата MD из электронной таблицы онлайн с использованием Python." urlsection="export/listobject-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата MD в Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект LISTOBJECT в файл формата MD с помощью Cloud SDK Cells для Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл MD из электронной таблицы является сложной задачей. Экспорт переходов формата LISTOBJECT в формат MD выполняется нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Python — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата MD. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод MD.
+Экспорт объекта LISTOBJECT в файл MD из файла Excel — сложная задача. Экспорт переходов формата LISTOBJECT в MD выполняется нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Python представляет собой профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата MD. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для экспорта LISTOBJECT в формат MD из электронной таблицы" gistPath="" %}}
@@ -37,10 +36,10 @@ url: /ru/python/export/listobject-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для экспорта LISTOBJECT в MD" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод post_export, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python для экспорта объектов из Excel LISTOBJECT в MD" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод post_export, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

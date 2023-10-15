@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLT als DIF API für PHP
-description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Speichern von XLT-Formatdateien als DIF-Formatdateien.
-url: /de/php/saveas/xlt-to-dif/
+title:  Speichern Sie XLT als DIF mit PHP
+description:  Verwendung von Aspose.Cells Cloud SDK für PHP zum Speichern von XLT-Formatdateien als DIF-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um XLT als DIF zu speichern" h2="PHP-Bibliothek zum Speichern von XLT als DIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um XLT als DIF und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/xlt-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLT als DIF speichern" h2="PHP Bibliothek zum Speichern von XLT als DIF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um XLT als DIF und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/xlt-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als DIF unter PHP" >}}
@@ -13,7 +12,7 @@ url: /de/php/saveas/xlt-to-dif/
 Das Speichern von Dateiformaten von XLT als DIF ist eine komplexe Aufgabe. Alle XLT-zu-DIF-Formatübergänge werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um XLT als DIF-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte DIF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Speichern von XLT im DIF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel zum Speichern von XLT als DIF mit REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten von XLT als DIF ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um XLT als DIF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Excel-Dateien in anderen XLT-Formaten als DIF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ BMP كـ HTML API من أجل Go
+title:  احفظ BMP كـ HTML باستخدام Go
 description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق BMP كملف بتنسيق HTML.
-url: /ar/go/saveas/bmp-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API واحفظ BMP بالشكل HTML" h2="انتقل إلى المكتبة لحفظ BMP كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Go. هذا حل احترافي لحفظ BMP كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="saveas/bmp-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ BMP كـ HTML" h2="اذهب إلى المكتبة لحفظ BMP كـ HTML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ BMP كـ HTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/bmp-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP بالشكل HTML في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP باسم HTML في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من BMP كـ HTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى HTML بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ BMP كملفات HTML عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج HTML مثالي.
+يعد حفظ تنسيقات الملفات من BMP إلى HTML مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من BMP إلى HTML بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ BMP كملفات HTML عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية وإخراجًا مثاليًا HTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لحفظ BMP بتنسيق HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Go لحفظ BMP كـ HTML باستخدام REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ url: /ar/go/saveas/bmp-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لحفظ BMP كـ HTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Go لحفظ ملفات Excel بتنسيقات أخرى BMP كـ HTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

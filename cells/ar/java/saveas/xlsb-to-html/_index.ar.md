@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XLSB بالشكل HTML API for Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSB كملف بتنسيق HTML.
-url: /ar/java/saveas/xlsb-to-html/
+title:  احفظ XLSB كـ HTML باستخدام Java
+description: استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSB كملف بتنسيق HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLSB كـ HTML" h2="مكتبة Java لحفظ XLSB كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLSB كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlsb-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLSB كـ HTML" h2="مكتبة Java لحفظ XLSB كـ HTML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ XLSB كـ HTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlsb-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB بالشكل HTML في Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB كـ HTML في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSB كـ HTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى HTML بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. مكتبتنا Java هي حل احترافي لحفظ XLSB كملفات HTML عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج HTML مثالي.
+يعد حفظ تنسيقات الملفات من XLSB كـ HTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى HTML بواسطة Java SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبتنا Java حلاً احترافيًا لحفظ XLSB كملفات HTML عبر الإنترنت. يمنح Cloud SDK هذا مطوري Java وظائف قوية وإخراج HTML مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لحفظ XLSB بتنسيق HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لحفظ XLSB كـ HTML باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ url: /ar/java/saveas/xlsb-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ XLSB كـ HTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لحفظ ملفات Excel بتنسيقات أخرى XLSB كـ HTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

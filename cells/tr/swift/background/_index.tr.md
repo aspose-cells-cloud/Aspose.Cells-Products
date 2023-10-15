@@ -1,10 +1,10 @@
 ﻿---
-title:  Swift kullanarak arka planı ayarla
-description:  Aspose.Cells Cloud REST API, Swift kullanan Excel dosyası için arka planı ayarlamayı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Swift kullanarak arka planı ayarlayın
+description: Aspose.Cells Cloud REST API, Swift kullanılarak Excel dosyası için ayarlanan arka planı destekler. SDK birden fazla geliştirme dilini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 url: /tr/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift kullanarak arka planı ayarla" h2="Aspose.Cells Cloud SDK, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, Swift kullanan Excel dosyası için arka planı ayarlamayı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift kullanarak arka planı ayarlayın" h2="Aspose.Cells Bulut SDK\'sı, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, Swift kullanılarak Excel dosyası için ayarlanan arka planı destekler. SDK birden fazla geliştirme dilini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -17,10 +17,10 @@ url: /tr/swift/background/
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/cells" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

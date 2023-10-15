@@ -1,19 +1,18 @@
 ﻿---
-title:  تحويل الأرقام إلى SQL API for Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق SQL.
-url: /ar/java/conversion/numbers-to-sql/
+title:  تحويل الأرقام إلى SQL باستخدام Java
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى SQL" h2="Java مكتبة لتحويل الأرقام إلى SQL" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل الأرقام إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى SQL" h2="مكتبة Java لتحويل الأرقام إلى SQL" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى SQL في Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل الأرقام إلى SQL باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق الأرقام إلى SQL بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لتحويل الأرقام إلى ملفات SQL عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج SQL مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من NUMBERS إلى SQL مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى SQL مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل NUMBERS إلى ملفات SQL عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من الحصول على وظائف قوية ويضمن إخراج SQL عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل الأرقام إلى تنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لتحويل NUMBERS إلى SQL باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,16 +46,16 @@ url: /ar/java/conversion/numbers-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتحويل الأرقام إلى SQL" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لتحويل ملفات Excel إلى تنسيقات أخرى NUMBERS إلى SQL" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

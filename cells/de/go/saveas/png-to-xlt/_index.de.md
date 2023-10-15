@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie PNG als XLT API für Go
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Go, um die Datei im PNG-Format als XLT-Formatdatei zu speichern.
-url: /de/go/saveas/png-to-xlt/
+title:  Speichern Sie PNG als XLT mit Go
+description:  Verwendung des Aspose.Cells Cloud SDK für Go zum Speichern der Datei im PNG-Format als XLT-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um PNG als XLT zu speichern" h2="Gehen Sie zur Bibliothek, um PNG als XLT zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von PNG als XLT und anderen Dokumentformaten mit Go." urlsection="saveas/png-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie PNG als XLT" h2="Gehen Sie zur Bibliothek, um PNG als XLT zu speichern" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von PNG als XLT und anderen Dokumentformaten mit Go." urlsection="saveas/png-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine PNG-Datei als XLT in Go" >}}
@@ -13,7 +12,7 @@ url: /de/go/saveas/png-to-xlt/
 Das Speichern von Dateiformaten ab PNG als XLT ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum XLT-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Speichern von PNG als XLT-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte XLT-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von PNG im XLT-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel zum Speichern von PNG als XLT mit REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten ab PNG als XLT ist eine komplexe Aufgabe. Alle �
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um PNG als XLT zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel Dateien in anderen Formaten PNG als XLT zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

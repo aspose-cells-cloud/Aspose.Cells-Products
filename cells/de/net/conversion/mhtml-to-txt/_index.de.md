@@ -1,19 +1,18 @@
 ﻿---
-title:  MHTML in TXT Konvertieren Sie API in C#
-description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer MHTML-Formatdatei in eine TXT-Formatdatei.
-url: /de/net/conversion/mhtml-to-txt/
+title:  Konvertieren Sie MHTML in TXT mit C#
+description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im MHTML-Format in eine Datei im TXT-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von MHTML in TXT" h2="C#-Bibliothek zum Konvertieren von MHTML in TXT" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in TXT und andere Dokumentformate unter C#." urlsection="conversion/mhtml-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie MHTML in TXT" h2="C# Bibliothek zum Konvertieren von MHTML in TXT" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in TXT und andere Dokumentformate unter C#." urlsection="conversion/mhtml-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in TXT in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie MHTML in TXT mit dem Cloud SDK Cells für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von MHTML in TXT ist eine komplexe Aufgabe. Alle MHTML-zu-TXT-Formatübergänge werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von MHTML- in TXT-Dateien. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
+Das Konvertieren von Dateiformaten von MHTML in TXT kann eine komplexe Aufgabe sein. Unser C# SDK übernimmt alle Konvertierungen von MHTML in das TXT-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-MHTML-Tabelle bei. Unsere C#-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von MHTML- in TXT-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TXT-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von MHTML in das TXT-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel für die Konvertierung von MHTML in TXT mit Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ Das Konvertieren von Dateiformaten von MHTML in TXT ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um MHTML in TXT zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in andere Formate MHTML in TXT zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,19 @@
 ﻿---
-title:  احفظ XLSX باسم DOCX API لـ Swift
+title:  احفظ XLSX كـ DOCX API لـ Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق XLSX كملف بتنسيق DOCX.
 url: /ar/swift/saveas/xlsx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ XLSX بتنسيق DOCX" h2="مكتبة سريعة لحفظ XLSX كـ DOCX" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ XLSX بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xlsx-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ XLSX كـ DOCX" h2="مكتبة سويفت لحفظ XLSX بصيغة DOCX" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ XLSX بتنسيق DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xlsx-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSX بتنسيق DOCX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSX كـ DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى DOCX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ XLSX كملفات DOCX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج DOCX مثالي.
+يعد حفظ تنسيقات الملفات من XLSX بصيغة DOCX مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLSX إلى DOCX بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSX كملفات DOCX عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات DOCX مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ XLSX بتنسيق DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق DOCX" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,15 +54,15 @@ url: /ar/swift/saveas/xlsx-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ XLSX بتنسيق DOCX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ XLSX كـ DOCX" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

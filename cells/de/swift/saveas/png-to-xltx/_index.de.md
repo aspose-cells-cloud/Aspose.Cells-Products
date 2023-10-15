@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie PNG als XLTX API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im Format PNG als Datei im XLTX-Format zu speichern.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im Format PNG als Datei im XLTX-Format zu speichern.
 url: /de/swift/saveas/png-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

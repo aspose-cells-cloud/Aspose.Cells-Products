@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP WMF'ye Dönüştür API for Java
-description:  BMP biçim dosyasını WMF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
-url: /tr/java/conversion/bmp-to-wmf/
+title:  BMP'i Java'i kullanarak WMF'ye dönüştürün
+description:  Aspose.Cells Cloud SDK for Java'i kullanarak BMP formatındaki bir dosyayı WMF formatındaki bir dosyaya dönüştürmek.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i WMF\'ye dönüştürmek için Java API" h2="BMP\'i WMF\'ye dönüştürmek için Java kitaplığı" p="Java\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, BMP\'i Java kullanarak çevrimiçi olarak WMF\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i WMF\'ye dönüştür" h2="BMP\'i WMF\'ye dönüştürmek için Java kitaplığı" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, BMP\'i Java\'i kullanarak çevrimiçi olarak WMF\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını Java\'de WMF\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Java\'i kullanarak BMP\'i WMF\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını BMP'den WMF'ye dönüştürmek karmaşık bir iştir. BMP'den WMF formatına tüm geçişler, Java SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, BMP'i çevrimiçi WMF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
+Dosya formatlarını BMP'den WMF'ye dönüştürmek karmaşık bir iş olabilir. Java SDK'mız, kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriğini korurken, BMP'den WMF formatına tüm dönüşümleri gerçekleştirir. Java kitaplığımız, BMP'i çevrimiçi olarak WMF dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Java geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli WMF çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="BMP\'i WMF formatına dönüştürmek için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Cells Cloud SDK\'yı kullanarak BMP\'i WMF\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Dosya formatlarını BMP'den WMF'ye dönüştürmek karmaşık bir iştir. BMP'd
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="BMP\'i WMF\'ye dönüştürmek için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud SDK for Java, Excel dosyalarını diğer formatlara dönüştürmek için nasıl kullanılır? BMP, WMF\'ye" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

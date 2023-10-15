@@ -1,35 +1,35 @@
 ﻿---
-title:  Bulut Excel Dosyalarını Okuyun, Görüntüleyin ve Dönüştürün (via Ruby REST SDK)
-description: Bulutta Microsoft Excel ve OpenOffice elektronik tablolarını işlemek ve işlemek için Ruby uygulamalarınızı geliştirir
+title:  Cloud Excel Dosyalarını Okuyun, Görüntüleyin ve Dönüştürün (via Ruby REST SDK)
+description: Ruby uygulamalarınızı buluttaki Microsoft Excel ve OpenOffice elektronik tablolarını işleyecek ve yönetecek şekilde geliştirir
 weight: 120
 url: /tr/ruby
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Derleme Excel Dosya Okuyucu, Görüntüleyici ve Dönüştürücü Uygulamaları via Ruby" h2="Bulutta Microsoft Excel ve OpenOffice elektronik tablolarını işlemek ve işlemek için Ruby uygulamalarınızı geliştirir." logoImageSrc="/headers/aspose_cells-for-ruby.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Build Excel Dosya Okuyucu, Görüntüleyici ve Dönüştürücü Uygulamalar via Ruby" h2="Ruby uygulamalarınızı buluttaki Microsoft Excel ve OpenOffice elektronik tablolarını işleyecek ve yönetecek şekilde geliştirir." logoImageSrc="/headers/aspose_cells-for-ruby.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Ruby" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-ruby.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for Ruby, geliştiricilerin herhangi bir 3. taraf yazılımı yüklemeden bulut depolamada barındırılan Excel dosyalarına erişmesine ve bunları okumasına yardımcı olur. XLS, XLSX, ODS dosyalarını CSV, XML, Markdown (MD), PDF, XPS, TIFF, DIF ve diğer biçimlere dönüştürmek için Ruby kodunuzu etkinleştirin.</p>
-<p>Ruby programlarınızın bulut çalışma sayfalarını, çalışma kitaplarını, elektronik tabloları işlemesini ve ayrıca tek tek hücrelere, satırlara ve sütunlara erişmesini ve bunları değiştirmesini sağlayın. Ruby kodunu kullanarak özel filtreler, ListObjects, OleObjects ve koşullu biçimlendirme uygulayın. Aspose.Cells Cloud SDK for Ruby ayrıca e-tabloları şifrelemenize, bölmenize, birleştirmenize, korumanıza ve dönüştürmenize olanak tanır.</p>
+<p>Ruby için Aspose.Cells Bulut SDK'sı, geliştiricilerin herhangi bir üçüncü taraf yazılımı yüklemeden bulut depolama alanında barındırılan Excel dosyalara erişmesine ve bunları okumasına yardımcı olur. XLS, XLSX, ODS dosyalarını CSV, XML, Markdown (MD), PDF, XPS, TIFF, DIF ve diğer formatlara dönüştürmek için Ruby kodunuzu etkinleştirin.</p>
+<p>Ruby programlarınızın bulut çalışma sayfalarını, çalışma kitaplarını, e-tabloları işlemesine ve ayrıca tek tek hücrelere, satırlara ve sütunlara erişmesine ve bunları değiştirmesine olanak tanıyın. Ruby kodunu kullanarak özel filtreler, ListObjects, OleObjects ve koşullu biçimlendirme uygulayın. Aspose.Cells Ruby için Cloud SDK ayrıca e-tabloları şifrelemenize, bölmenize, birleştirmenize, korumanıza ve dönüştürmenize olanak tanır.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells Bulut, tüm elektronik tablo işleme görevlerini gerçekleştirebilir." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells Bulut, tüm elektronik tablo düzenleme görevlerini gerçekleştirebilir." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>genel bakış</header><ul><li>Tablolarla çalışma</li>
+<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>Genel Bakış</header><ul><li>Tablolarla çalışma</li>
 <li>Hücrelerle çalışma</li>
 <li>Grafiklerle çalışma</li>
 <li>Köprülerle çalışma</li>
 <li>Pivot tablolarla çalışma</li>
-<li>Resimler ve şekillerle çalışma</li>
+<li>Resimler ve şekillerle çalışın</li>
 <li>Doğrulamalarla çalışma</li>
 </ul></div>
 <!--/right--></div>
@@ -39,18 +39,18 @@ url: /tr/ruby
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Cells Bulut tarafından desteklenen dosya biçimleri." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.Cells Bulut destekli dosya formatları." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Giriş çıkış</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Açık ofis:</b> ODS</li>
-<li><b>E-tabloML:</b> xml</li>
-<li><b>Metin:</b> CSV, TSV, TXT (Sekmeyle Sınırlandırılmış)</li>
+<li><b>Elektronik TabloML:</b> XML</li>
+<li><b>Metin:</b> CSV, TSV, TXT (Sekmeyle Ayrılmış)</li>
 <li><b>Ağ:</b> HTML, MHTML</li>
 </ul></div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Yalnızca Giriş</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Yalnızca Çıktı</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> Yalnızca Çıkış</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -60,7 +60,7 @@ url: /tr/ruby
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells Bulut, tüm büyük platformları ve programlama dillerini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells Bulut, tüm önemli platformları ve programlama dillerini destekler." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -74,7 +74,7 @@ url: /tr/ruby
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Excel Elektronik Tablo İşleme Özellikleri
+ Excel Elektronik Tablo İşleme Özellikleri
    </h2>
    <p>
    </p>
@@ -89,14 +89,14 @@ Excel Elektronik Tablo İşleme Özellikleri
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Birden çok liste filtresi türü için destek
+ Birden fazla liste filtresi türü desteği
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Grafik Alanı kenarlığı veya dolgu formatı hakkında bilgi alın
+ Grafik Alanı kenarlığı veya dolgu formatı hakkında bilgi alma
     </p>
    </div>
    <div class="col-lg-4">
@@ -117,7 +117,7 @@ Excel Elektronik Tablo İşleme Özellikleri
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Başlığı alın, güncelleyin, grafik başlığını alın ve görünürlüğünü ayarlayın
+ Grafik başlığını alın, güncelleyin, görünürlüğünü ayarlayın
     </p>
    </div>
    <div class="col-lg-4">
@@ -145,49 +145,49 @@ Excel Elektronik Tablo İşleme Özellikleri
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Bir çalışma sayfasındaki belirli veya tüm ListObject'leri silin
+ Çalışma sayfasındaki belirli ListObject'leri veya tüm ListObject'leri silin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- ListObject veya tabloyu bir hücre aralığına dönüştürün
+ ListObject'i veya tabloyu bir hücre aralığına dönüştürün
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
+ Büyük ListObject veya Table verilerini Pivot Table ile özetleme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Excel çalışma sayfasına OleObjects ekleyin
+ OleObjects'i Excel çalışma sayfasına ekleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfasından belirli veya tüm OleObject'leri silin
+Belirli veya tüm OleObject'leri çalışma sayfasından silin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ekleme veya silme, yatay veya dikey sayfa sonları
+ Yatay veya dikey sayfa sonları ekleme veya silme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa düzenini, başlığı &amp; alt bilgi
+ Sayfa düzenini, başlığı ve içeriği değiştirin alt bilgi
     </p>
    </div>
    <div class="col-lg-4">
@@ -208,21 +208,21 @@ Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
     <em class="fa fa-copy ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfasından gerekli şekli getir
+ Gerekli şekli çalışma sayfasından getir
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfasından şekil ekleme, güncelleme veya silme
+ Çalışma sayfasına şekil ekleme, güncelleme veya silme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfaları için doğrulama ekleme, güncelleme veya silme
+ Çalışma sayfaları için doğrulamaları ekleme, güncelleme veya silme
     </p>
    </div>
    <div class="col-lg-12">
@@ -230,19 +230,19 @@ Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
  Excel Elektronik Tablo İşleme SDK'sını Kullanmaya Başlayın
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Ruby'yi kullanmaya başlamak için herhangi bir şey yüklemeniz gerekmez. Tek yapmanız gereken bir hesap oluşturmak
+ Ruby için Aspose.Cells Cloud SDK'yı kullanmaya başlamak için herhangi bir şey yüklemenize gerek yoktur. Tek yapmanız gereken şu adreste bir hesap oluşturmak:
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
- ve uygulama bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarıyla, REST API'lerini destekleyen herhangi bir platformda Aspose.Cells Cloud SDK for Ruby'yi kullanmaya hazırsınız. Aspose.Cells Cloud SDK for Ruby size e-tablo oluşturmanız, düzenlemeniz ve dönüştürmeniz için gereken tüm özellikleri sağlar. Ayrıca, daha fazla işleme veya depolama için elektronik tablolardan veri çıkarmanıza olanak tanır.
+ ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'lerini destekleyen herhangi bir platformda Ruby için Aspose.Cells Cloud SDK'yı kullanmaya hazırsınız. Aspose.Cells Ruby için Cloud SDK, e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Çalışma Kitaplarını İşleme via Cloud SDK
+ Çalışma Kitaplarını İşleme via Bulut SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK for Ruby, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine dışa aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri yok sayarak çalışma kitabı satırlarını otomatik sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı sağlamanıza olanak tanır uzunluk, çalışma kitabına veri aktarma, çalışma kitabındaki tüm formülleri hesaplama, hassas strateji vb. sağlayarak formül hesaplama ayarlarını belirleme, akıllı işaretçi kullanma, çalışma kitabını istek içeriğinden başka bir formata dönüştürme, içerik değişikliğine izin vermek için parola uygulama.
+Aspose.Cells Ruby için Cloud SDK, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri göz ardı ederek çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı sağlamanıza olanak tanır uzunluk, çalışma kitabına veri aktarma, çalışma kitabındaki tüm formülleri hesaplama, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapma, akıllı işaretleyici kullanma, çalışma kitabını istek içeriğinden başka bir formata dönüştürme, içerik değişikliğine izin vermek için şifre uygulama.
     </p>
    </div>
    <div class="col-lg-12">
@@ -250,18 +250,18 @@ Aspose.Cells Cloud SDK for Ruby, metin oluşturmanıza, bölmenize, birleştirme
 Çalışma Sayfalarını İşlemek için Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK for Ruby'yi kullanarak çalışma sayfasındaki belirli satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satırını veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi içine kopyalayabilirsiniz. başka bir hücre, çalışma sayfası sütunlarını ve satırlarını kopyala, çalışma sayfası satırlarını ve sütunlarını gruplandır, çalışma sayfası satırlarını ve sütunlarını gizle, çalışma sayfası sütun ve satır stillerini ayarla, HTMLSTRING değerini hücreye ayarla, hücre aralığı değerini ayarla ve diğer birçok çalışma sayfası ayarını değiştir.
+Ruby için Aspose.Cells Cloud SDK'yı kullanarak çalışma sayfasındaki belirli bir satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satır veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi kopyalayabilirsiniz. başka bir hücreye, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplayın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Pivot Tabloların gücünden yararlanın &amp; Aralıklar
+ Pivot Tabloların gücünden yararlanın ve; Aralıklar
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Ruby, çalışma sayfasına bir pivot tablo eklemenize, pivot tabloya pivot alanlar eklemenize veya silmenize, pivot tablo dizini için pivot filtre eklemenize veya kaldırmanıza, pivot tablo için hücre stilini güncellemenize ve pivot tablonun verilerini hücrelere göre hesaplamanıza olanak tanır.
+ Aspose.Cells Ruby için Cloud SDK, çalışma sayfasına bir pivot tablo eklemenize, pivot tabloya pivot alanları eklemenize veya silmenize, pivot tablo dizini için pivot filtresi eklemenize veya kaldırmanıza, pivot tablo için hücre stilini güncellemenize ve pivot tablonun hücrelere ait verilerini hesaplamanıza olanak tanır.
     </p>
     <p>
-Aspose.Cells Ruby için Cloud SDK, aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücre listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, mevcut aralığı hedef aralığa taşımak, ayarlar yapmak için de kullanılabilir. bir hücre aralığı etrafındaki ana hatları çizin, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasında kopyalayın.
+Aspose.Cells Ruby için Cloud SDK ayrıca aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücrelerin listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, geçerli aralığı hedef aralığa taşımak, ayarlamak için de kullanılabilir. bir hücre aralığı etrafındaki kenarlığın ana hatlarını çizin, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasına kopyalayın.
     </p>
    </div>
   </div>
@@ -273,10 +273,10 @@ Aspose.Cells Ruby için Cloud SDK, aralık adına veya satır sütun dizinlerine
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/cells" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://apireference.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}
@@ -285,7 +285,7 @@ Aspose.Cells Ruby için Cloud SDK, aralık adına veya satır sütun dizinlerine
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Ruby için neden Aspose.Cells Cloud SDK?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Neden Ruby için Aspose.Cells Bulut SDK\'sı?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Güvenlik" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS zu XLSB Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im ODS-Format in eine Datei im XLSB-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im ODS-Format in eine Datei im XLSB-Format.
 url: /de/swift/conversion/ods-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

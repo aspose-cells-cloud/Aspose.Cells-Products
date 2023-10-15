@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara JPG som XLTX API för C#
+title:  Spara JPG som XLTX med C#
 description:  Använder Aspose.Cells Cloud SDK för C# för att spara JPG-formatfil som XLTX-formatfil.
-url: /sv/net/saveas/jpg-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att spara JPG som XLTX" h2="C# bibliotek för att spara JPG som XLTX" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara JPG som XLTX och andra dokumentformat online med C#." urlsection="saveas/jpg-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara JPG som XLTX" h2="C# bibliotek för att spara JPG som XLTX" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara JPG som XLTX och andra dokumentformat online med C#." urlsection="saveas/jpg-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en JPG-fil som XLTX i C#" >}}
@@ -13,7 +12,7 @@ url: /sv/net/saveas/jpg-to-xltx/
 Att spara filformat från JPG som XLTX är en komplex uppgift. Alla JPG- till XLTX-formatövergångar utförs av vår C# SDK samtidigt som käll-JPG-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att spara JPG som XLTX-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt XLTX-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att spara JPG som XLTX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kod Exempel för att spara JPG som XLTX med REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Att spara filformat från JPG som XLTX är en komplex uppgift. Alla JPG- till XL
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att spara JPG som XLTX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att spara Excel filer som andra format JPG som XLTX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

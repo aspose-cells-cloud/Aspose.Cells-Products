@@ -1,19 +1,18 @@
 ﻿---
-title: Экспорт WORKSHEET в SQL из электронной таблицы с помощью C# API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/net/export/worksheet-to-sql/
+title:  Экспортируйте WORKSHEET в SQL из Excel с помощью Cloud SDK Cells для C#.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для экспорта WORKSHEET в файл SQL" h2="C# библиотека для экспорта WORKSHEET в файл SQL" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Net. Это профессиональное решение для экспорта файла формата WORKSHEET в файл SQL из электронной таблицы онлайн с использованием C#." urlsection="export/worksheet-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт РАБОЧЕГО ЛИСТА в SQL из Excel" h2="C# библиотека для экспорта WORKSHET в файл SQL" p="Используйте «Экспорт API из Cells Cloud» для экспорта рабочих процессов внутренних объектов файлов Excel в Net. Это профессиональное решение для экспорта файла формата WORKSHET в SQL из электронной таблицы онлайн с использованием номера C#." urlsection="export/worksheet-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKSHEET в файл формата SQL в C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект WORKSHEET в файл формата SQL с помощью Cloud SDK Cells для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKSHEET в файл SQL из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат SQL выполняется нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKSHEET. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата SQL. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Экспорт объекта WORKSHEET в файл SQL из файла Excel — сложная задача. Переходы формата WORKSHEET в SQL выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной таблицы WORKSHEET. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата SQL. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для экспорта WORKSHEET в формат SQL из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для экспорта WORKSHET в формат SQL из электронной таблицы." gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,16 +43,16 @@ url: /ru/net/export/worksheet-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для экспорта WORKSHEET в SQL" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод PostExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для экспорта объектов из Excel WORKSHEET в SQL" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie JPG als DIF API für Perl
-description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Speichern von JPG-Formatdateien als DIF-Formatdateien.
-url: /de/perl/saveas/jpg-to-dif/
+title:  Speichern Sie JPG als DIF mit Perl
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern von JPG-Formatdateien als DIF-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um JPG als DIF zu speichern" h2="Perl-Bibliothek zum Speichern von JPG als DIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um JPG als DIF und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/jpg-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG als DIF speichern" h2="Perl Bibliothek zum Speichern von JPG als DIF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um JPG als DIF und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/jpg-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei als DIF unter Perl" >}}
@@ -13,7 +12,7 @@ url: /de/perl/saveas/jpg-to-dif/
 Das Speichern von Dateiformaten von JPG als DIF ist eine komplexe Aufgabe. Alle Übergänge vom JPG- zum DIF-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um JPG als DIF-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte DIF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von JPG im DIF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel zum Speichern von JPG als DIF mit REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Das Speichern von Dateiformaten von JPG als DIF ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um JPG als DIF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Perl, um Excel-Dateien in anderen Formaten wie JPG und DIF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Beitrag anrufen_Arbeitsmappe_save_as-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

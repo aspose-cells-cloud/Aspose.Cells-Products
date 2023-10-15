@@ -1,10 +1,9 @@
 ﻿---
-title: Spara XLT som JSON API för Perl
+title:  Spara XLT som JSON med Perl
 description:  Använder Aspose.Cells Cloud SDK för Perl för att spara XLT-formatfil som JSON-formatfil.
-url: /sv/perl/saveas/xlt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att spara XLT som JSON" h2="Perl-biblioteket för att spara XLT som JSON" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara XLT som JSON och andra dokumentformat online med Perl." urlsection="saveas/xlt-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLT som JSON" h2="Perl bibliotek för att spara XLT som JSON" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara XLT som JSON och andra dokumentformat online med Perl." urlsection="saveas/xlt-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLT-fil som JSON i Perl" >}}
@@ -13,7 +12,7 @@ url: /sv/perl/saveas/xlt-to-json/
 Att spara filformat från XLT som JSON är en komplex uppgift. Alla XLT- till JSON-formatövergångar utförs av vår Perl SDK med bibehållen XLT-källans huvudsakliga strukturella och logiska innehåll. Vårt Perl-bibliotek är en professionell lösning för att spara XLT som JSON-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt JSON-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att spara XLT som JSON-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kod Exempel för att spara XLT som JSON med REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Att spara filformat från XLT som JSON är en komplex uppgift. Alla XLT- till JS
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att spara XLT som JSON" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att spara Excel filer som andra format XLT som JSON" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Ring post_arbetsbok_save_as-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

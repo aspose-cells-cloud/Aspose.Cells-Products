@@ -1,19 +1,18 @@
 ﻿---
-title:  GIF en HTML Convertir API pour Android
-description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir le fichier au format GIF en fichier au format HTML.
-url: /fr/android/conversion/gif-to-html/
+title:  Convertir GIF en HTML avec Android
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format GIF en fichier au format HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour convertir GIF en HTML" h2="Bibliothèque Android pour convertir GIF en HTML" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour convertir GIF en HTML et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/gif-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir GIF en HTML" h2="Bibliothèque Android pour convertir GIF en HTML" p="Utilisez la conversion API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans des projets Android. Il s\'agit d\'une solution professionnelle pour convertir GIF en HTML et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/gif-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en HTML sous Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir GIF en HTML à l\'aide du SDK Cloud Cells pour Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers GIF en HTML est une tâche complexe. Toutes les transitions de format GIF vers HTML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Android est une solution professionnelle pour convertir des fichiers GIF en fichiers HTML en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie HTML parfaite.
+La conversion des formats de fichiers GIF en HTML peut être une tâche complexe. Notre SDK Android gère toutes les conversions au format GIF au format HTML tout en préservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Android fournit une solution professionnelle pour convertir en ligne des fichiers GIF en fichiers HTML. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et garantit une sortie HTML de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour convertir GIF au format HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour convertir GIF en HTML à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ La conversion des formats de fichiers GIF en HTML est une tâche complexe. Toute
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour convertir GIF en HTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour convertir des fichiers Excel vers d\'autres formats GIF en HTML" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

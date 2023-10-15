@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG إلى BMP تحويل API لـ Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق PNG إلى ملف بتنسيق BMP.
-url: /ar/python/conversion/png-to-bmp/
+title:  تحويل PNG إلى BMP باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق PNG إلى ملف بتنسيق BMP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل PNG إلى BMP" h2="مكتبة Python لتحويل PNG إلى BMP" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل PNG إلى BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/png-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل PNG إلى BMP" h2="مكتبة Python لتحويل PNG إلى BMP" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل PNG إلى BMP وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/png-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف PNG إلى BMP في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل PNG إلى BMP باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من PNG إلى BMP مهمة معقدة. يتم إجراء جميع انتقالات تنسيق PNG إلى BMP بواسطة SDK Python مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل PNG إلى BMP الملفات عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج BMP مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من PNG إلى BMP مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات التنسيق PNG إلى BMP مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل PNG إلى BMP ملفًا عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python بوظائف قوية ويضمن إخراج BMP عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل PNG إلى تنسيق BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل PNG إلى BMP باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/png-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل PNG إلى BMP" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى PNG إلى BMP" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

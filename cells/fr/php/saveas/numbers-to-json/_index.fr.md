@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez les NUMÉROS sous JSON API pour PHP
-description: Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format NUMBERS en tant que fichier au format JSON.
-url: /fr/php/saveas/numbers-to-json/
+title:  Enregistrez NUMBERS au format JSON en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format NUMBERS au format JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer les NUMÉROS au format JSON" h2="PHP bibliothèque pour enregistrer les NUMÉROS au format JSON" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format JSON et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/numbers-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer les NUMÉROS au format JSON" h2="Bibliothèque PHP pour enregistrer des NUMBERS au format JSON" p="Utilisez SaveAs API de Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format JSON et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/numbers-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier NUMBERS au format JSON en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier NUMBERS au format JSON dans PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de NUMBERS au format JSON est une tâche complexe. Toutes les transitions de format NUMBERS vers JSON sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer des NUMBERS sous forme de fichiers JSON en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie JSON parfaite.
+Enregistrer les formats de fichiers de NUMBERS au format JSON est une tâche complexe. Toutes les transitions du format NUMBERS vers JSON sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer des NUMBERS sous forme de fichiers JSON en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie JSON parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour enregistrer NUMBERS au format JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour enregistrer NUMBERS au format JSON à l\'aide de REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ L'enregistrement de formats de fichiers à partir de NUMBERS au format JSON est 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour enregistrer des NUMÉROS au format JSON" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP afin d\'enregistrer les fichiers Excel sous d\'autres formats NUMBERS au format JSON" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

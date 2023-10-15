@@ -1,19 +1,18 @@
 ﻿---
-title:  Конвертировать TSV в MHTML API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата TSV в файл формата MHTML.
-url: /ru/java/conversion/tsv-to-mhtml/
+title:  Конвертируйте TSV в MHTML, используя Java.
+description:  Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата TSV в файл формата MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования TSV в MHTML" h2="Java библиотека для преобразования TSV в MHTML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации TSV в MHTML и другие форматы документов с использованием Java." urlsection="conversion/tsv-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать TSV в MHTML" h2="Java библиотека для конвертации TSV в MHTML" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертации TSV в MHTML и другие форматы документов с использованием номера Java." urlsection="conversion/tsv-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в MHTML в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование TSV в MHTML с помощью Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в MHTML — сложная задача. Все переходы форматов TSV в MHTML выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов TSV в MHTML. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из TSV в MHTML может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования формата TSV в MHTML, сохраняя при этом основное структурное и логическое содержимое исходной таблицы TSV. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертирования файлов TSV в MHTML. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод MHTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования TSV в формат MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для преобразования TSV в MHTML с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ url: /ru/java/conversion/tsv-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования TSV в MHTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для преобразования файлов Excel в другие форматы TSV в MHTML." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

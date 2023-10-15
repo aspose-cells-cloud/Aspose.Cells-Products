@@ -1,19 +1,18 @@
 ﻿---
-title:  XML إلى FODS قم بتحويل API من أجل Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XML إلى ملف بتنسيق FODS.
-url: /ar/go/conversion/xml-to-fods/
+title: تحويل XML إلى FODS باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق XML إلى ملف بتنسيق FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل XML إلى FODS" h2="اذهب إلى المكتبة لتحويل XML إلى FODS" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل XML إلى FODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/xml-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XML إلى FODS" h2="انتقل إلى المكتبة لتحويل XML إلى FODS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل XML إلى FODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/xml-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XML إلى FODS في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XML إلى FODS باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XML إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى FODS بواسطة Go SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل XML إلى ملفات FODS عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج FODS مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XML إلى FODS مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات تنسيق XML إلى FODS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XML المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات XML إلى ملفات FODS عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من الحصول على وظائف قوية ويضمن إخراج FODS عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل XML إلى تنسيق FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لتحويل XML إلى FODS باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ url: /ar/go/conversion/xml-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل XML إلى FODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتحويل ملفات Excel إلى تنسيقات أخرى XML إلى FODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

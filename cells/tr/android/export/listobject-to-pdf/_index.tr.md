@@ -1,19 +1,18 @@
 ﻿---
-title:  Android API kullanarak LISTOBJECT'i e-tablodan PDF'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/android/export/listobject-to-pdf/
+title:  Android için Cells Cloud SDK'yı kullanarak LISTOBJECT'i Excel'den PDF'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i PDF dosyasına dışa aktarmak için Android API" h2="LISTOBJECT\'i PDF dosyasına dışa aktarmak için Android kitaplığı" p="Android\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Android kullanılarak elektronik tablodan LISTOBJECT dosyasını PDF biçiminde dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i Excel\'den PDF\'e aktar" h2="LISTOBJECT\'i PDF dosyasına aktarmak için Android kitaplığı" p="Android\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Android kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i PDF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Android\'de PDF biçim dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android için Cells Cloud SDK\'yı kullanarak LISTOBJECT nesnesini PDF biçimindeki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini e-tablodan PDF dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i PDF biçimine dışa aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak PDF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel PDF çıkışı sağlar.
+LISTOBJECT nesnesini Excel dosyasından PDF dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i PDF'e aktarma format geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak PDF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel PDF çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan PDF biçimine dışa aktarmak için REST API kullanan Android\'de kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan PDF biçimine aktarmak için REST API\'i kullanan Android\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -51,10 +50,10 @@ LISTOBJECT nesnesini e-tablodan PDF dosyasına dışa aktarma karmaşık bir gö
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="LISTOBJECT\'i PDF\'e dışa aktarmak için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel LISTOBJECT\'ten PDF\'e aktarmak için Android için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

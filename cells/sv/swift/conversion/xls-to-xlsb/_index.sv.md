@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS till XLSB Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLS-formatfil till XLSB-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLS-formatfil till XLSB-formatfil.
 url: /sv/swift/conversion/xls-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

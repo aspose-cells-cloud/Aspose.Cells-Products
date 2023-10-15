@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSM in SQL konvertieren API für C#
-description: Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer XLSM-Formatdatei in eine SQL-Formatdatei.
-url: /de/net/conversion/xlsm-to-sql/
+title:  Konvertieren Sie XLSM mit C# in SQL
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Konvertieren einer XLSM-Formatdatei in eine SQL-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von XLSM in SQL" h2="C#-Bibliothek zum Konvertieren von XLSM in SQL" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSM in SQL und andere Dokumentformate unter C#." urlsection="conversion/xlsm-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLSM in SQL" h2="C# Bibliothek zum Konvertieren von XLSM in SQL" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSM in SQL und andere Dokumentformate unter C#." urlsection="conversion/xlsm-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSM-Datei in SQL in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLSM in SQL mit dem Cloud SDK Cells für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSM nach SQL ist eine komplexe Aufgabe. Alle XLSM-zu-SQL-Formatübergänge werden von unserem SDK C# durchgeführt, während der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um XLSM online in SQL-Dateien zu konvertieren. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSM in SQL kann eine komplexe Aufgabe sein. Unser C# SDK übernimmt alle Konvertierungen von XLSM in das SQL-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLSM-Quelltabelle bei. Unsere C#-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSM- in SQL-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige SQL-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von XLSM in das SQL-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel für die Konvertierung von XLSM in SQL mit Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ Das Konvertieren von Dateiformaten von XLSM nach SQL ist eine komplexe Aufgabe. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API zum Konvertieren von XLSM in SQL" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in andere Formate, XLSM in SQL, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

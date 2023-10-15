@@ -1,26 +1,26 @@
 ﻿---
-title:  PHP Excel Traitement des feuilles de calcul dans le cloud (via REST API)
-description: Manipulation de feuille de calcul REST API pour générer, afficher, modifier, chiffrer et gérer les fichiers Excel et OpenOffice dans le cloud
+title:  PHP Excel Traitement de feuilles de calcul dans le cloud (via REST API)
+description: Manipulation de feuilles de calcul REST API pour générer, visualiser, modifier, chiffrer et gérer les fichiers Excel et OpenOffice dans le cloud
 weight: 100
 url: /fr/php
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Traiter et convertir des feuilles de calcul dans le cloud via PHP SDK" h2="Manipulation de feuille de calcul REST API pour générer, afficher, modifier, chiffrer et gérer les fichiers Excel et OpenOffice." logoImageSrc="/headers/aspose_cells-for-php.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Traiter et convertir des feuilles de calcul dans le cloud via PHP SDK" h2="Manipulation de feuilles de calcul REST API pour générer, afficher, modifier, crypter et gérer les fichiers Excel et OpenOffice." logoImageSrc="/headers/aspose_cells-for-php.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for PHP" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-php.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-php" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK pour PHP est conçu pour les développeurs afin de les aider à améliorer leurs applications de générateur, de visualisation et de conversion de feuilles de calcul basées sur le cloud programmées dans PHP. Notre SDK cloud de traitement de documents Excel est basé sur Aspose.Cells REST API. Aspose.Cells Cloud SDK pour 076173 481 est disponible sous une licence MIT.</p>
-<p>Créer une feuille Excel dans PHP, travailler avec des formes automatiques, des filtres automatiques, des classeurs, des feuilles de calcul, des lignes, des cellules, des graphiques, une mise en forme conditionnelle, des ListObjects, des hyperliens, des OleObjects, des tableaux croisés dynamiques, des formes, des plages, des tâches, la sécurité, les validations de feuille de calcul et le cloud stockage de fichiers, le tout à l'aide du SDK Cloud Aspose.Cells simple pour PHP.</p>
+<p>Aspose.Cells Cloud SDK pour PHP est conçu pour les développeurs afin de les aider à améliorer leurs applications de génération, de visualisation et de conversion de feuilles de calcul basées sur le cloud programmées dans PHP. Notre SDK cloud de processeur de documents Excel est basé sur Aspose.Cells REST API. Aspose.Cells Cloud SDK pour 07617 3481 est disponible sous une licence MIT.</p>
+<p>Créez une feuille Excel dans PHP, travaillez avec des formes automatiques, des filtres automatiques, des classeurs, des feuilles de calcul, des lignes, des cellules, des graphiques, une mise en forme conditionnelle, des ListObjects, des hyperliens, des OleObjects, des tableaux croisés dynamiques, des formes, des plages, des tâches, la sécurité, des validations de feuilles de calcul et le cloud. stockage de fichiers, le tout utilisant le simple SDK Cloud Aspose.Cells pour PHP.</p>
 <p>Il permet également à votre code PHP de convertir les feuilles de calcul Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) et OpenOffice (ODS) en PDF, XPS, TIFF, SVG, DIF et MD (Mark vers le bas).</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="En bref" description="Aspose.Cells Cloud peut effectuer toutes les tâches de manipulation de feuilles de calcul." >}}
+{{< blocks/products/pf/carousel-item h3="En un coup d\'œil" description="Aspose.Cells Cloud peut effectuer toutes les tâches de manipulation de feuilles de calcul." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
@@ -28,7 +28,7 @@ url: /fr/php
 <div class="d1-col d1-right"><header><i class="fa fa-table"> </i>Aperçu</header><ul><li>Travailler avec des tableaux</li>
 <li>Travailler avec des cellules</li>
 <li>Travailler avec des graphiques</li>
-<li>Travailler avec des liens hypertexte</li>
+<li>Travailler avec des hyperliens</li>
 <li>Travailler avec des tableaux croisés dynamiques</li>
 <li>Travailler avec des images et des formes</li>
 <li>Travailler avec des validations</li>
@@ -45,13 +45,13 @@ url: /fr/php
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Bureau ouvert:</b> SAO</li>
-<li><b>TableurML :</b> XML</li>
-<li><b>Texte:</b> CSV, TSV, TXT (délimité par des tabulations)</li>
-<li><b>La toile:</b> HTML, MHTML</li>
+<li><b>Feuille de calculML :</b> XML</li>
+<li><b>Texte:</b> CSV, TSV, TXT (TabDelimited)</li>
+<li><b>La toile:</b> HTML, HTML</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Entrée uniquement</header><ul><li>SXC, FOD</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Sortie uniquement</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Marque)</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Entrée uniquement</header><ul><li>SXC, FODS</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> Sortie uniquement</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -61,7 +61,7 @@ url: /fr/php
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Indépendance de la plate-forme" description="Aspose.Cells Cloud prend en charge toutes les principales plateformes et langages de programmation." >}}
+{{< blocks/products/pf/carousel-item h3="Indépendance de la plateforme" description="Aspose.Cells Cloud prend en charge toutes les principales plates-formes et langages de programmation." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -75,7 +75,7 @@ url: /fr/php
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Fonctionnalités avancées de manipulation de feuilles de calcul Excel
+Fonctionnalités avancées de manipulation de feuille de calcul Excel
    </h2>
    <p>
    </p>
@@ -97,14 +97,14 @@ url: /fr/php
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Obtenir des informations sur la bordure ou le format de remplissage de la zone de graphique
+ Obtenir des informations sur la bordure de la zone de graphique ou le format de remplissage
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-copy ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ajouter, mettre à jour et supprimer des graphiques dans la feuille de calcul
+ Ajouter, mettre à jour et supprimer des graphiques dans une feuille de calcul
     </p>
    </div>
    <div class="col-lg-4">
@@ -118,7 +118,7 @@ url: /fr/php
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Obtenez, mettez à jour, titrez le graphique et définissez sa visibilité
+ Obtenez, mettez à jour le titre du graphique et définissez sa visibilité
     </p>
    </div>
    <div class="col-lg-4">
@@ -153,28 +153,28 @@ url: /fr/php
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Convertir ListObject ou table en une plage de cellules
+ Convertir ListObject ou un tableau en une plage de cellules
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
+ Résumer les données d'un grand ListObject ou d'un tableau avec un tableau croisé dynamique
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ajouter OleObjects à la feuille de calcul Excel
+ Ajouter des OleObjects à la feuille de calcul Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Supprimer des OleObjects spécifiques ou tous de la feuille de calcul
+Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de calcul
     </p>
    </div>
    <div class="col-lg-4">
@@ -188,7 +188,7 @@ Résumer les données d'un grand ListObject ou d'une table avec un tableau crois
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipuler la configuration de la page, l'en-tête et l'amp; bas de page
+ Manipuler la mise en page, l'en-tête et l'amp; bas de page
     </p>
    </div>
    <div class="col-lg-4">
@@ -202,7 +202,7 @@ Résumer les données d'un grand ListObject ou d'une table avec un tableau crois
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Créer, mettre à jour, récupérer ou supprimer des propriétés de document
+ Créer, mettre à jour, récupérer ou supprimer les propriétés du document
     </p>
    </div>
    <div class="col-lg-4">
@@ -228,41 +228,41 @@ Résumer les données d'un grand ListObject ou d'une table avec un tableau crois
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Premiers pas avec le SDK de traitement de feuille de calcul Excel
+ Premiers pas avec le SDK de traitement de feuilles de calcul Excel
     </h2>
     <p>
- Pour démarrer avec Aspose.Cells Cloud SDK pour PHP, vous n'avez rien à installer. Il vous suffit de créer un compte sur
+ Pour démarrer avec le SDK Cloud Aspose.Cells pour PHP, vous n'avez rien besoin d'installer. Il vous suffit de créer un compte sur
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose pour le Cloud
      </a>
- et obtenez les informations de votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser Aspose.Cells Cloud SDK pour PHP sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Le SDK Cloud pour PHP vous fournit toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
+et obtenez les informations relatives à votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour PHP sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Cloud SDK pour PHP vous offre toutes les fonctionnalités nécessaires pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Traitement des classeurs via SDK Cloud
+ Classeurs de traitement via SDK Cloud
     </h2>
     <p>
-Aspose.Cells Cloud SDK pour PHP vous permet de créer, diviser, fusionner, rechercher et remplacer du texte, la protection par mot de passe, l'exportation vers un format de fichier pris en charge, la lecture des éléments de texte du classeur, l'ajustement automatique des lignes du classeur tout en ignorant les éléments masqués, le chiffrement du mot de passe du classeur et la fourniture d'une clé de chiffrement longueur, importer des données dans le classeur, calculer toutes les formules dans le classeur, définir les paramètres de calcul de la formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande dans un autre format, appliquer un mot de passe pour permettre la modification du contenu.
+ Aspose.Cells Cloud SDK pour PHP vous permet de créer, diviser, fusionner, rechercher et remplacer du texte, protéger par mot de passe, exporter vers un format de fichier pris en charge, lire les éléments de texte du classeur, ajuster automatiquement les lignes du classeur tout en ignorant les éléments cachés, chiffrer le mot de passe du classeur et fournir une clé de chiffrement. longueur, importer des données dans un classeur, calculer toutes les formules du classeur, définir les paramètres de calcul de formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande vers un autre format, appliquer un mot de passe pour permettre la modification du contenu.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-SDK Cloud pour traiter les feuilles de calcul
+SDK Cloud pour traiter les feuilles de calcul
     </h2>
     <p>
-À l'aide du SDK Cloud Aspose.Cells pour PHP, vous pouvez supprimer une ligne spécifique ou toutes les lignes de la feuille de calcul, récupérer les données de cellule de la feuille de calcul ou le style de cellule par nom de cellule, lire les données de ligne ou de colonne de la feuille de calcul par son index, calculer la formule de la cellule, effacer le contenu de la cellule, copier la cellule dans une autre cellule, copiez les colonnes et les lignes de la feuille de calcul, regroupez les lignes et les colonnes de la feuille de calcul, masquez les lignes et les colonnes de la feuille de calcul, définissez les styles de colonne et de ligne de la feuille de calcul, définissez la valeur HTMLSTRING dans la cellule, définissez la valeur de la plage de cellules et modifiez de nombreux autres paramètres de la feuille de calcul.
+À l'aide du SDK Cloud Aspose.Cells pour PHP, vous pouvez supprimer une ligne spécifique ou toutes les lignes de la feuille de calcul, récupérer les données de cellule ou le style de cellule de la feuille de calcul par nom de cellule, lire les données de ligne ou de colonne de la feuille de calcul par son index, calculer la formule de cellule, effacer le contenu de la cellule, copier la cellule dans une autre cellule, copiez les colonnes et les lignes de la feuille de calcul, regroupez les lignes et les colonnes de la feuille de calcul, masquez les lignes et les colonnes de la feuille de calcul, définissez les styles de colonne et de ligne de la feuille de calcul, définissez la valeur HTMLSTRING dans la cellule, définissez la valeur de la plage de cellules et modifiez de nombreux autres paramètres de la feuille de calcul.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Tirez parti de la puissance des tableaux croisés dynamiques &amp; Gammes
+ Tirez parti de la puissance des tableaux croisés dynamiques et des fonctionnalités des tableaux croisés dynamiques. Gammes
     </h2>
     <p>
- Aspose.Cells Le SDK Cloud pour PHP vous permet d'ajouter un tableau croisé dynamique dans la feuille de calcul, d'ajouter ou de supprimer des champs croisés dynamiques dans le tableau croisé dynamique, d'ajouter ou de supprimer un filtre croisé dynamique pour l'index du tableau croisé dynamique, de mettre à jour le style de cellule pour le tableau croisé dynamique et de calculer les données du tableau croisé dynamique dans les cellules.
+ Aspose.Cells Cloud SDK pour PHP vous permet d'ajouter un tableau croisé dynamique dans une feuille de calcul, d'ajouter ou de supprimer des champs croisés dans le tableau croisé dynamique, d'ajouter ou de supprimer un filtre croisé dynamique pour l'index du tableau croisé dynamique, de mettre à jour le style de cellule pour le tableau croisé dynamique et de calculer les données du tableau croisé dynamique dans les cellules.
     </p>
     <p>
-Aspose.Cells Le SDK Cloud pour PHP peut également être utilisé pour obtenir une liste de cellules dans une plage par nom de plage ou index de colonne de ligne, définir la largeur de colonne de la plage, combiner une plage de cellules en une seule cellule, déplacer la plage actuelle vers la plage de destination, définir bordure de contour autour d'une plage de cellules., définir la hauteur de ligne de la plage, définir le style de la plage, dissocier les cellules fusionnées de cette plage, mettre une valeur dans la plage et convertir son type de données, et copier la plage dans la feuille de calcul.
+Aspose.Cells Le SDK Cloud pour PHP peut également être utilisé pour obtenir la liste des cellules d'une plage par nom de plage ou index de colonne de ligne, définir la largeur de colonne de la plage, combiner une plage de cellules en une seule cellule, déplacer la plage actuelle vers la plage de destination, définir tracer la bordure autour d'une plage de cellules., définir la hauteur de ligne de la plage, définir le style de la plage, annuler la fusion des cellules fusionnées de cette plage, mettre une valeur dans la plage et convertir son type de données, et copier la plage dans la feuille de calcul.
     </p>
    </div>
   </div>
@@ -277,7 +277,7 @@ Aspose.Cells Le SDK Cloud pour PHP peut également être utilisé pour obtenir u
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-php" >}}
 {{< blocks/products/pf/slr-element name="API Références" href="https://apireference.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vidéos tutorielles" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Support produit" tabId="support" >}}
@@ -286,7 +286,7 @@ Aspose.Cells Le SDK Cloud pour PHP peut également être utilisé pour obtenir u
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.Cells SDK Cloud pour PHP ?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Pourquoi le SDK Cloud Aspose.Cells pour PHP ?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Liste des clients" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Sécurité" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS till PPTX Konvertera API för NodeJS
-description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera XLS-formatfil till PPTX-formatfil.
-url: /sv/nodejs/conversion/xls-to-pptx/
+title:  Konvertera XLS till PPTX med NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera en XLS-formatfil till en PPTX-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att konvertera XLS till PPTX" h2="NodeJS-bibliotek för att konvertera XLS till PPTX" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att konvertera XLS till PPTX och andra dokumentformat online med NodeJS." urlsection="conversion/xls-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLS till PPTX" h2="NodeJS-bibliotek för att konvertera XLS till PPTX" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera XLS till PPTX och andra dokumentformat online med NodeJS." urlsection="conversion/xls-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLS-fil till PPTX i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLS till PPTX med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLS till PPTX är en komplex uppgift. Alla XLS- till PPTX-formatövergångar utförs av vår NodeJS SDK samtidigt som käll-XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att konvertera XLS till PPTX-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt PPTX-utdata.
+Att konvertera filformat från XLS till PPTX kan vara en komplex uppgift. Vår NodeJS SDK hanterar alla konverteringar av XLS till PPTX-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLS-kalkylblad bevaras. Vårt NodeJS-bibliotek tillhandahåller en professionell lösning för att konvertera XLS till PPTX-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och säkerställer PPTX-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att konvertera XLS till PPTX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att konvertera XLS till PPTX med Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Att konvertera filformat från XLS till PPTX är en komplex uppgift. Alla XLS- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att konvertera XLS till PPTX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att konvertera Excel-filer till andra format XLS till PPTX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

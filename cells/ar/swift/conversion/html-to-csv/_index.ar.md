@@ -1,19 +1,19 @@
 ﻿---
-title:  HTML إلى CSV قم بتحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق HTML إلى ملف بتنسيق CSV.
+title:  HTML إلى CSV تحويل API لـ Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق HTML إلى ملف بتنسيق CSV.
 url: /ar/swift/conversion/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل HTML إلى CSV" h2="مكتبة سريعة لتحويل HTML إلى CSV" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل HTML إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/html-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل HTML إلى CSV" h2="مكتبة سويفت لتحويل HTML إلى CSV" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل HTML إلى ملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف HTML إلى ملف CSV في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف HTML إلى CSV في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى CSV بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل HTML إلى ملفات CSV عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج CSV مثالي.
+يعد تحويل تنسيقات الملفات من HTML إلى CSV مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق HTML إلى CSV بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل HTML إلى ملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات CSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل HTML إلى تنسيق CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل HTML إلى تنسيق CSV" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/html-to-csv/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل HTML إلى CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

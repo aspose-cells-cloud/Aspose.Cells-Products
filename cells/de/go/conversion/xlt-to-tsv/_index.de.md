@@ -1,19 +1,18 @@
 ﻿---
-title:  XLT in TSV konvertieren API für Go
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um eine Datei im XLT-Format in eine Datei im TSV-Format zu konvertieren.
-url: /de/go/conversion/xlt-to-tsv/
+title: Konvertieren Sie XLT mit Go in TSV
+description:  Verwendung des Cloud SDK Aspose.Cells für Go zum Konvertieren einer Datei im XLT-Format in eine Datei im TSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XLT in TSV umzuwandeln" h2="Gehen Sie zur Bibliothek, um XLT in TSV zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLT in TSV und andere Dokumentformate mit Go." urlsection="conversion/xlt-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLT in TSV" h2="Go-Bibliothek zum Konvertieren von XLT in TSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLT in TSV und andere Dokumentformate mit Go." urlsection="conversion/xlt-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLT-Datei in Go in TSV" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLT in TSV mit dem Cloud SDK Cells für Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLT in TSV ist eine komplexe Aufgabe. Alle XLT-zu-TSV-Formatübergänge werden von unserem Go SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLT-Tabelle erhalten bleiben. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLT- in TSV-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
+Das Konvertieren von Dateiformaten von XLT in TSV kann eine komplexe Aufgabe sein. Unser Go SDK übernimmt alle XLT-in-TSV-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLT-Quelltabelle bei. Unsere Go-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLT- in TSV-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von XLT in das TSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel für die Konvertierung von XLT in TSV mit dem Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Das Konvertieren von Dateiformaten von XLT in TSV ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um XLT in TSV zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in andere Formate, XLT in TSV, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

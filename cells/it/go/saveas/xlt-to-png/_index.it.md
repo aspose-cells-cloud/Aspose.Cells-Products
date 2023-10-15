@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva XLT come PNG API per Go
-description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato XLT come file in formato PNG.
-url: /it/go/saveas/xlt-to-png/
+title:  Salva XLT come PNG utilizzando Go
+description:  Utilizzando Aspose.Cells Cloud SDK per Go per salvare il file in formato XLT come file in formato PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per salvare XLT come PNG" h2="Vai alla libreria per salvare XLT come PNG" p="Utilizza Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per salvare XLT come PNG e altri formati di documenti online utilizzando Go." urlsection="saveas/xlt-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLT come PNG" h2="Vai alla libreria per salvare XLT come PNG" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Go. Questa è una soluzione professionale per salvare XLT come PNG e altri formati di documenti online utilizzando Go." urlsection="saveas/xlt-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLT come PNG in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLT come PNG è un compito complesso. Tutte le transizioni di formato da XLT a PNG vengono eseguite dal nostro Go SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLT di origine. La nostra libreria Go è una soluzione professionale per salvare XLT come file PNG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output PNG perfetto.
+Salvare i formati di file da XLT come PNG è un compito complesso. Tutte le transizioni dal formato XLT al formato PNG vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLT di origine. La nostra libreria Go è una soluzione professionale per salvare online XLT come file PNG. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e un output PNG perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per salvare XLT come formato PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Esempio per salvare XLT come PNG utilizzando REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Salvare i formati di file da XLT come PNG è un compito complesso. Tutte le tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per salvare XLT come PNG" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiamare il metodo CellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per salvare i file Excel in altri formati XLT come PNG" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PostWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

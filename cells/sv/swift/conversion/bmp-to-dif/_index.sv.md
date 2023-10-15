@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till DIF Konvertera API för Swift
-description:  Använda Aspose.Cells Cloud SDK för Swift för att konvertera BMP filformat till DIF-format fil.
+description: Använda Aspose.Cells Cloud SDK för Swift för att konvertera BMP filformat till DIF-format fil.
 url: /sv/swift/conversion/bmp-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

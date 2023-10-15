@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie BMP als XLSB API für NodeJS
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für NodeJS, um die Datei im BMP-Format als XLSB-Formatdatei zu speichern.
-url: /de/nodejs/saveas/bmp-to-xlsb/
+title:  Speichern Sie BMP als XLSB mit NodeJS
+description:  Verwendung des Aspose.Cells Cloud SDK für NodeJS zum Speichern der Datei im BMP-Format als XLSB-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, um BMP als XLSB zu speichern" h2="NodeJS-Bibliothek zum Speichern von BMP als XLSB" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um BMP als XLSB und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/bmp-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie BMP als XLSB" h2="NodeJS-Bibliothek zum Speichern von BMP als XLSB" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um BMP als XLSB und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/bmp-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine BMP-Datei als XLSB in NodeJS" >}}
@@ -13,7 +12,7 @@ url: /de/nodejs/saveas/bmp-to-xlsb/
 Das Speichern von Dateiformaten ab BMP als XLSB ist eine komplexe Aufgabe. Alle Übergänge vom Format BMP zum XLSB-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um BMP als XLSB-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von BMP im XLSB-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel zum Speichern von BMP als XLSB mit REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten ab BMP als XLSB ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um BMP als XLSB zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel Dateien in anderen Formaten BMP als XLSB zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

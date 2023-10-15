@@ -1,19 +1,18 @@
 ﻿---
-title:  تحويل من XLSM إلى JSON API for Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLSM إلى ملف بتنسيق JSON.
-url: /ar/java/conversion/xlsm-to-json/
+title:  تحويل XLSM إلى JSON باستخدام Java
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق XLSM إلى ملف بتنسيق JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLSM إلى JSON" h2="Java مكتبة لتحويل XLSM إلى JSON" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل XLSM إلى JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlsm-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSM إلى JSON" h2="مكتبة Java لتحويل XLSM إلى JSON" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل XLSM إلى JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlsm-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى JSON في Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSM إلى JSON باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى JSON بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبتنا Java حلاً احترافيًا لتحويل ملفات XLSM إلى JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج JSON مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSM إلى JSON مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق XLSM إلى JSON مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل ملفات XLSM إلى JSON عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من الحصول على وظائف قوية ويضمن إخراج JSON عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل XLSM إلى تنسيق JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لتحويل XLSM إلى JSON باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,16 +46,16 @@ url: /ar/java/conversion/xlsm-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتحويل XLSM إلى JSON" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لتحويل ملفات Excel إلى تنسيقات أخرى XLSM إلى JSON" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
-title: 将 PNG 另存为 EMF API 为 C#
-description: 使用Aspose.Cells Cloud SDK for C#将PNG格式文件保存为EMF格式文件。
-url: /zh/net/saveas/png-to-emf/
+title: 使用 C# 将 PNG 保存为 EMF
+description: 利用Aspose.Cells Cloud SDK for C#将PNG格式文件保存为EMF格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 PNG 保存为 EMF" h2="C#库将PNG另存为EMF" p="使用 Cells SaveAs REST API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将PNG另存为EMF等文档格式的专业解决方案。" urlsection="saveas/png-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 PNG 另存为 EMF" h2="C# 库，用于将 PNG 保存为 EMF" p="使用 Cells Cloud 的 SaveAs API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将PNG另存为EMF等文档格式的专业解决方案。" urlsection="saveas/png-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 PNG 文件另存为 C# 中的 EMF" >}}
@@ -13,7 +12,7 @@ url: /zh/net/saveas/png-to-emf/
 将文件格式从 PNG 保存为 EMF 是一项复杂的任务。所有 PNG 到 EMF 格式转换均由我们的 C# SDK 执行，同时保留源 PNG 电子表格的主要结构和逻辑内容。我们的 C# 库是在线将 PNG 保存为 EMF 文件的专业解决方案。此Cloud SDK为C#开发者提供了强大的功能和完美的EMF输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# 中的代码示例使用 REST API 将 PNG 保存为 EMF 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# 使用 REST API 将 PNG 保存为 EMF 的代码示例" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ url: /zh/net/saveas/png-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 C# API 将 PNG 保存为 EMF" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 CellsSaveAsPostDocumentSaveAs 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Net将Excel文件保存为其他格式PNG为EMF" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

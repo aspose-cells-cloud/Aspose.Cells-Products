@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG in DIF Konvertieren Sie API für Android
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im PNG-Format in eine DIF-Formatdatei zu konvertieren.
-url: /de/android/conversion/png-to-dif/
+title:  Konvertieren Sie PNG mit Android in DIF
+description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im PNG-Format in eine DIF-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von PNG in DIF" h2="Android-Bibliothek zum Konvertieren von PNG in DIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von PNG in DIF und andere Dokumentformate online mit Android." urlsection="conversion/png-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie PNG in DIF" h2="Android-Bibliothek zum Konvertieren von PNG in DIF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von PNG in DIF und andere Dokumentformate online mit Android." urlsection="conversion/png-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in DIF in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie PNG in DIF mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in DIF ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum DIF-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von PNG- in DIF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte DIF-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in DIF kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle Konvertierungen von PNG in das DIF-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG- in DIF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige DIF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Konvertieren von PNG in das DIF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel für die Konvertierung von PNG in DIF mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von PNG in DIF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um PNG in DIF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android zum Konvertieren von Excel-Dateien in andere Formate PNG in DIF" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS in DIF Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im DIF-Format.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im DIF-Format.
 url: /de/swift/conversion/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

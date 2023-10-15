@@ -1,19 +1,18 @@
 ﻿---
-title: GIF in XPS Converti API in Perl
-description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato GIF nel file in formato XPS.
-url: /it/perl/conversion/gif-to-xps/
+title:  Converti GIF in XPS utilizzando Perl
+description:  Utilizzando Aspose.Cells Cloud SDK per Perl per convertire un file in formato GIF in un file in formato XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per convertire GIF in XPS" h2="Perl libreria per convertire GIF in XPS" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Perl. Questa è una soluzione professionale per convertire GIF in XPS e altri formati di documenti online utilizzando Perl." urlsection="conversion/gif-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti GIF in XPS" h2="Libreria Perl per convertire GIF in XPS" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Perl. Questa è una soluzione professionale per convertire GIF in XPS e altri formati di documenti online utilizzando Perl." urlsection="conversion/gif-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file GIF in XPS in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti GIF in XPS utilizzando Cells Cloud SDK per Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da GIF a XPS è un'attività complessa. Tutte le transizioni di formato da GIF a XPS vengono eseguite dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo GIF di origine. La nostra libreria Perl è una soluzione professionale per convertire GIF in file XPS online. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e un output XPS perfetto.
+Convertire i formati di file da GIF a XPS può essere un compito complesso. Il nostro SDK Perl gestisce tutte le conversioni del formato GIF in XPS preservando il contenuto strutturale e logico principale del foglio di calcolo GIF di origine. La nostra libreria Perl fornisce una soluzione professionale per convertire file GIF in file XPS online. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e garantisce un output XPS di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Perl utilizzando REST API per convertire GIF nel formato XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Esempio di codice per convertire GIF in XPS utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ La conversione dei formati di file da GIF a XPS è un'attività complessa. Tutte
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Perl API per convertire GIF in XPS" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama celle_cartella di lavoro_Mettere_convertire_metodo della cartella di lavoro per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare l\'SDK Perl per convertire GIF in XPS" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `put_convert_workbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

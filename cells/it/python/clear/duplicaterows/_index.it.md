@@ -1,33 +1,32 @@
 ﻿---
-title: Cancella le righe duplicate nella cartella di lavoro locale con Python in Cloud
-description:  API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc con Python. Cancella le righe duplicate sui fogli di calcolo locali tramite l'SDK Cells Cloud API per Python
-url: /it/python/clear/duplicate-rows/
+title:  Rimuovere le righe duplicate dalla cartella di lavoro locale utilizzando Python all'interno dell'ambiente cloud Aspose Cells.
+description:  API e SDK Cloud per eliminare le righe duplicate in Microsoft Excel e OpenOffice Calc utilizzando Python. Eliminare le righe duplicate nei fogli di calcolo locali con Cells Cloud SDK per Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Python Cancella per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le righe duplicate sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Python. Questa soluzione professionale cancella le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Python." urlsection="clear/Duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Rimozione di righe duplicate nei fogli di calcolo locali Microsoft Excel e OpenOffice Calc." h2="Libreria Python per rimuovere righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc." p="Utilizzare Cells Cancella REST API per rimuovere le righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc all\'interno dei flussi di lavoro Python. Questa soluzione professionale elimina in modo efficiente le righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc utilizzando Python." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Python REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella le righe duplicate nei fogli di calcolo locali Microsoft Excel e OpenOffice Calc utilizzando Cells Cloud SDK per Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc è un compito complesso. La cancellazione delle righe duplicate sulle transizioni del foglio di calcolo locale Microsoft Excel e OpenOffice Calc viene eseguita dal nostro SDK Python mantenendo il contenuto strutturale e logico principale del foglio di calcolo di origine. La nostra libreria Python è una soluzione professionale per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc online. Questo Cloud SDK offre agli sviluppatori Python potenti funzionalità e un perfetto API.
+Eliminare le righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc è complesso e il nostro Cloud SDK Cells per Python gestisce questa transizione preservando il contenuto strutturale e logico del foglio di calcolo di origine. La nostra libreria Python è una soluzione professionale per eliminare in modo efficiente le righe duplicate online nei fogli di calcolo locali Microsoft Excel e OpenOffice Calc. Questo Cloud SDK offre agli sviluppatori Python funzionalità robuste e un potente API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python codice per eliminare le righe duplicate sui fogli di calcolo locali" gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=Example-Clear-DuplicateRows.py" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codice Python per eliminare le righe duplicate sui fogli di calcolo locali" gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=Example-Clear-DuplicateRows.py" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Come utilizzare Python API per cancellare le righe duplicate" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Posta di chiamata_chiaro_objects metodo per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Python per eliminare le righe duplicate" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `post_clear_objects` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Python 2.7 o più recente</li>
-<li>Python 3.10 o più recente</li>
+<li>Python 2.7 o successiva</li>
+<li>Python 3.10 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

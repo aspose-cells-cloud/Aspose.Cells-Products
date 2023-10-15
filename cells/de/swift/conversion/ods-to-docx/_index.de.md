@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS zu DOCX Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im ODS-Format in eine Datei im DOCX-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im ODS-Format in eine Datei im DOCX-Format.
 url: /de/swift/conversion/ods-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,9 @@
 ﻿---
-title:  TSV als WMF API für C# speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die TSV-Formatdatei als WMF-Formatdatei zu speichern.
-url: /de/net/saveas/tsv-to-wmf/
+title:  TSV als WMF unter C# speichern
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der TSV-Formatdatei als WMF-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Speichern des TSV als WMF" h2="C#-Bibliothek zum Speichern von TSV als WMF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um TSV als WMF und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/tsv-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV als WMF speichern" h2="C# Bibliothek zum Speichern von TSV als WMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um TSV als WMF und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/tsv-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als WMF unter C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/tsv-to-wmf/
 Das Speichern von Dateiformaten von TSV als WMF ist eine komplexe Aufgabe. Alle Formatübergänge von TSV in das WMF-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um TSV als WMF-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von TSV im WMF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von TSV als WMF mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten von TSV als WMF ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um TSV als WMF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Net, um Excel-Dateien in anderen Formaten wie TSV und WMF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

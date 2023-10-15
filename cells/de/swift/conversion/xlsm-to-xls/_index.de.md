@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM zu XLS Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine XLS-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine XLS-Formatdatei.
 url: /de/swift/conversion/xlsm-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

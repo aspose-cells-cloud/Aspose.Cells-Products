@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM zu ODS Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine ODS-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine ODS-Formatdatei.
 url: /de/swift/conversion/xlsm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

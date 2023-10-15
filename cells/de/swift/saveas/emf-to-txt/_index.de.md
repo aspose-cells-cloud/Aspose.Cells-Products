@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie EMF als TXT API für Swift
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im EMF-Format als TXT-Formatdatei zu speichern.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im EMF-Format als TXT-Formatdatei zu speichern.
 url: /de/swift/saveas/emf-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF in SQL Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im EMF-Format in eine SQL-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im EMF-Format in eine SQL-Formatdatei.
 url: /de/swift/conversion/emf-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,14 +1,13 @@
 ﻿---
-title:  Proteger usando Ruby
-description: Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital mediante Ruby. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
-url: /es/ruby/protect/
+title:  Proteger archivos Excel usando Ruby
+description: Aspose.Cells Cloud REST API admite cifrar, descifrar y agregar firmas digitales a libros mediante Ruby y ofrece SDK para varios lenguajes de programación.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteger usando Ruby" h2="Aspose.Cells Cloud SDK admite libros de trabajo de descifrado, cifrado y firma digital." p="Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital mediante Ruby. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteger archivos Excel usando Ruby" h2="Aspose.Cells Cloud SDK admite descifrar, cifrar y firmar digitalmente libros." p="Aspose.Cells Cloud REST API admite cifrar, descifrar y agregar firmas digitales a libros mediante Ruby y ofrece SDK para varios lenguajes de programación." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Proteger usando enlaces de extensión de Ruby" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Proteja archivos Excel usando enlaces de extensión Ruby" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
@@ -29,7 +28,7 @@ url: /es/ruby/protect/
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells SDK de la nube for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells SDK de nube for .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Seguridad" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

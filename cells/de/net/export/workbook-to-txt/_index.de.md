@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie WORKBOOK aus der Tabellenkalkulation in TXT mit C# API
+title:  Exportieren Sie WORKBOOK nach TXT von Excel mit Cells Cloud SDK für C#
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/net/export/workbook-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren der Arbeitsmappe in eine TXT-Datei" h2="C#-Bibliothek zum Exportieren von WORKBOOK in eine TXT-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von Arbeitsmappen in TXT-Formatdateien aus Tabellenkalkulationen unter der Nummer C#." urlsection="export/workbook-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie die Arbeitsmappe in TXT von Excel" h2="C#-Bibliothek zum Exportieren von WORKBOOK in eine TXT-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine TXT-Formatdatei aus einer Tabellenkalkulation online unter Verwendung der Nummer C#." urlsection="export/workbook-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in die TXT-Formatdatei in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im TXT-Format mit dem Cloud SDK Cells für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine TXT-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von WORKBOOK in das TXT-Format werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im TXT-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
+Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in eine TXT-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von WORKBOOK in das TXT-Format werden von unserem SDK C# durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im TXT-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von WORKBOOK in das TXT-Format aus der Tabellenkalkulation" gistPath="" %}}
@@ -44,10 +43,10 @@ Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine TXT
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um WORKBOOK in TXT zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Objekte aus Excel WORKBOOK nach TXT zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

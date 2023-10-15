@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML till XPS Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i MHTML-format till fil i XPS-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i MHTML-format till fil i XPS-format.
 url: /sv/swift/conversion/mhtml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

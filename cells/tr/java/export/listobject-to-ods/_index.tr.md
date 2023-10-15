@@ -1,19 +1,18 @@
 ﻿---
-title: Java API kullanarak LISTOBJECT'i e-tablodan ODS'ye aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/java/export/listobject-to-ods/
+title:  Cells Cloud SDK for Java'i kullanarak LISTOBJECT'i Excel'den ODS'ye aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, LISTOBJECT\'i ODS dosyasına aktarmak için" h2="LISTOBJECT\'i ODS dosyasına aktarmak için Java kitaplığı" p="Java\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Java kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i ODS biçim dosyasına dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i Excel\'den ODS\'ye aktar" h2="LISTOBJECT\'i ODS dosyasına aktarmak için Java kitaplığı" p="Java\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Java\'i kullanarak çevrimiçi olarak elektronik tablodan LISTOBJECT\'i ODS biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Java\'de ODS biçim dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Cells Cloud SDK for Java kullanarak ODS biçimindeki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini elektronik tablodan ODS dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i ODS biçimine aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, LISTOBJECT nesnelerini ODS formatındaki dosyalara çevrimiçi olarak dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıkışı sağlar.
+LISTOBJECT nesnesini Excel dosyasından ODS dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i ODS formatına aktarma geçişleri Java SDK'mız tarafından gerçekleştirilir ve kaynak LISTOBJECT elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak ODS formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK'sı, Java geliştiriciye güçlü işlevsellik ve mükemmel ODS çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i elektronik tablodan ODS formatına dışa aktarmak için REST API kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i elektronik tablodan ODS formatına aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,10 +50,10 @@ LISTOBJECT nesnesini elektronik tablodan ODS dosyasına dışa aktarma karmaşı
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="LISTOBJECT\'i ODS\'ye dışa aktarmak için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel LISTOBJECT\'ten ODS\'ye aktarmak için Cells Cloud SDK for Java nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

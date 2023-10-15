@@ -1,16 +1,16 @@
 ﻿---
-title:  Convertir XLTM en SXC API pour Swift
+title:  XLTM en SXC Convertir API pour Swift
 description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format XLTM en fichier au format SXC.
 url: /fr/swift/conversion/xltm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir XLTM en SXC" h2="Bibliothèque Swift pour convertir XLTM en SXC" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir XLTM en SXC et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/xltm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir XLTM en SXC" h2="Bibliothèque Swift pour convertir XLTM en SXC" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir XLTM en SXC et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/xltm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTM en SXC dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de XLTM en SXC est une tâche complexe. Toutes les transitions de format XLTM vers SXC sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers XLTM en SXC. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie SXC parfaite.
+La conversion des formats de fichiers de XLTM en SXC est une tâche complexe. Toutes les transitions du format XLTM vers SXC sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTM source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers XLTM en fichiers SXC en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie SXC parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir XLTM au format SXC" gistPath="" %}}
@@ -67,8 +67,8 @@ La conversion des formats de fichiers de XLTM en SXC est une tâche complexe. To
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir XLTM en SXC" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

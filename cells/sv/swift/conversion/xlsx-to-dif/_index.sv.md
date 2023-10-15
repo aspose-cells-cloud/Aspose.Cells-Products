@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX till DIF Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLSX-formatfil till DIF-formatfil.
+title: XLSX till DIF Konvertera API för Swift
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLSX-formatfil till DIF-formatfil.
 url: /sv/swift/conversion/xlsx-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

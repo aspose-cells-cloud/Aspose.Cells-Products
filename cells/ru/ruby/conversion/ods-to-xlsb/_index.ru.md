@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование ODS в XLSB API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата ODS в файл формата XLSB.
-url: /ru/ruby/conversion/ods-to-xlsb/
+title:  Конвертируйте ODS в XLSB с помощью Ruby
+description:  Использование Cloud SDK Aspose.Cells для Ruby для преобразования файла формата ODS в файл формата XLSB.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования ODS в XLSB" h2="Библиотека Ruby для преобразования ODS в XLSB" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для онлайн-конвертации ODS в XLSB и другие форматы документов с использованием Ruby." urlsection="conversion/ods-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать ODS в XLSB" h2="Библиотека Ruby для преобразования ODS в XLSB" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Ruby. Это профессиональное решение для онлайн-конвертирования ODS в XLSB и другие форматы документов с помощью Ruby." urlsection="conversion/ods-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в XLSB в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование ODS в XLSB с помощью Cloud SDK Cells для Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в XLSB — сложная задача. Все переходы от формата ODS к формату XLSB выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов ODS в XLSB. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате XLSB.
+Преобразование форматов файлов из ODS в XLSB может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования форматов ODS в XLSB, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертации файлов ODS в файлы XLSB. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод XLSB.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования ODS в формат XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для преобразования ODS в XLSB с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ru/ruby/conversion/ods-to-xlsb/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для преобразования ODS в XLSB" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для преобразования файлов Excel в другие форматы ODS в XLSB" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG in MD konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von JPG-Formatdateien in MD-Formatdateien.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von JPG-Formatdateien in MD-Formatdateien.
 url: /de/swift/conversion/jpg-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

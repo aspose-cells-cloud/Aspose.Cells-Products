@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLTX als XLTM API für NodeJS
-description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei im XLTX-Format als Datei im XLTM-Format zu speichern.
-url: /de/nodejs/saveas/xltx-to-xltm/
+title:  Speichern Sie XLTX als XLTM mit NodeJS
+description:  Verwendung von Aspose.Cells Cloud SDK für NodeJS zum Speichern von XLTX-Formatdateien als XLTM-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von XLTX als XLTM" h2="NodeJS-Bibliothek zum Speichern von XLTX als XLTM" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um XLTX als XLTM und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/xltx-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLTX als XLTM" h2="NodeJS-Bibliothek zum Speichern von XLTX als XLTM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um XLTX als XLTM und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/xltx-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTX-Datei als XLTM in NodeJS" >}}
@@ -13,7 +12,7 @@ url: /de/nodejs/saveas/xltx-to-xltm/
 Das Speichern von Dateiformaten von XLTX als XLTM ist eine komplexe Aufgabe. Alle XLTX-zu-XLTM-Formatübergänge werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTX-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um XLTX als XLTM-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte XLTM-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von XLTX im XLTM-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel zum Speichern von XLTX als XLTM mit REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten von XLTX als XLTM ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um XLTX als XLTM zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in den anderen Formaten XLTX und XLTM zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

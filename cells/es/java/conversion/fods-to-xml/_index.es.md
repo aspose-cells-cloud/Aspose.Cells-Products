@@ -11,21 +11,21 @@ platform: Java
 otherformats: ODS XML FODS MHTML DIF XLS XPS CSV SVG XLTM PDF MD XLSB TXT XLTX XLSM 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta FODS a XML con Java" h2="Automatice Excel y la conversión de archivos de OpenOffice con el SDK de nube de código abierto for Java" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta FODS a XML con Java" h2="Automatice la conversión de archivos Excel y OpenOffice con el SDK de nube de código abierto for Java" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversión simple de FODS a XML" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, Secreto de cliente, URL base y versión API
-1. Cargue el archivo FODS al almacenamiento en la nube predeterminado con el método ```CellsApi.Upload```
+{{% blocks/products/pf/agp/feature-section-col title="Conversión sencilla de FODS a XML" %}}
+1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
+1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
+1. Cargue el archivo FODS al Cloud Storage predeterminado con el método ```CellsApi.Upload```
 1. Llame al ```CellsApi.cellsWorkbookGetWorkbook``` para obtener el archivo XML resultante
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Comience con Excel API y Java SDK" %}}
- Obtenga el código fuente Excel Cloud SDK for Java de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) para compilar el SDK usted mismo o diríjase a la[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
+ Obtenga el código fuente Excel Cloud SDK for Java de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
 
- También eche un vistazo a Swagger-based[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
+ También eche un vistazo a Basado en Swagger[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Código para convertir FODS a XML" gistPath="" %}}

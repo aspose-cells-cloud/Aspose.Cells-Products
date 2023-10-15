@@ -1,16 +1,16 @@
 ﻿---
-title:  Convertir TXT en XML API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format TXT en fichier au format XML.
+title:  Conversion TXT en XML API pour Swift
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format TXT en fichier au format XML.
 url: /fr/swift/conversion/txt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir TXT en XML" h2="Bibliothèque Swift pour convertir TXT en XML" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir TXT en XML et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/txt-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir TXT en XML" h2="Bibliothèque Swift pour convertir TXT en XML" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir TXT en XML et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/txt-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier TXT en XML dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion de formats de fichiers de TXT en XML est une tâche complexe. Toutes les transitions de format TXT vers XML sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers TXT en XML en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XML parfaite.
+La conversion des formats de fichiers de TXT en XML est une tâche complexe. Toutes les transitions du format TXT vers XML sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers TXT en XML en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XML parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir TXT au format XML" gistPath="" %}}
@@ -67,8 +67,8 @@ La conversion de formats de fichiers de TXT en XML est une tâche complexe. Tout
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir TXT en XML" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  JPG in PPTX konvertieren API für Go
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um eine Datei im JPG-Format in eine Datei im PPTX-Format zu konvertieren.
-url: /de/go/conversion/jpg-to-pptx/
+title:  Konvertieren Sie JPG mit Go in PPTX
+description:  Verwendung des Cloud SDK Aspose.Cells für Go zum Konvertieren einer JPG-Formatdatei in eine PPTX-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um JPG in PPTX zu konvertieren" h2="Gehen Sie zur Bibliothek, um JPG in PPTX zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JPG in PPTX und andere Dokumentformate mit Go." urlsection="conversion/jpg-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie JPG in PPTX" h2="Go-Bibliothek zum Konvertieren von JPG in PPTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JPG in PPTX und andere Dokumentformate mit Go." urlsection="conversion/jpg-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JPG-Datei in Go in PPTX" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie JPG in PPTX mit dem Cloud SDK Cells für Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von JPG in PPTX ist eine komplexe Aufgabe. Alle Übergänge von JPG ins PPTX-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von JPG- in PPTX-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte PPTX-Ausgabe.
+Das Konvertieren von Dateiformaten von JPG in PPTX kann eine komplexe Aufgabe sein. Unser Go SDK übernimmt alle Konvertierungen von JPG in das PPTX-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der JPG-Quelltabelle bei. Unsere Go-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von JPG- in PPTX-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PPTX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von JPG in das PPTX-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel für die Konvertierung von JPG in PPTX mit dem Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Das Konvertieren von Dateiformaten von JPG in PPTX ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um JPG in PPTX zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in andere Formate, JPG in PPTX, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

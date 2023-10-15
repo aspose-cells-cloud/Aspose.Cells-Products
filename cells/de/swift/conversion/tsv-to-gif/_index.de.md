@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV in GIF konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von TSV-Formatdateien in GIF-Formatdateien.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von TSV-Formatdateien in GIF-Formatdateien.
 url: /de/swift/conversion/tsv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

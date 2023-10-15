@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara HTML som WMF API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att spara HTML filformat som WMF-formatfil.
-url: /sv/go/saveas/html-to-wmf/
+title:  Spara HTML som WMF med Go
+description:  Använder Aspose.Cells Cloud SDK för Go för att spara HTML filformat som WMF-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att spara HTML som WMF" h2="Gå till biblioteket för att spara HTML som WMF" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att spara HTML som WMF och andra dokumentformat online med Go." urlsection="saveas/html-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara HTML som WMF" h2="Gå till biblioteket för att spara HTML som WMF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att spara HTML som WMF och andra dokumentformat online med Go." urlsection="saveas/html-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en HTML-fil som WMF i Go" >}}
@@ -13,7 +12,7 @@ url: /sv/go/saveas/html-to-wmf/
 Att spara filformat från HTML som WMF är en komplex uppgift. Alla formatövergångar från HTML till WMF utförs av vår Go SDK samtidigt som källbladets HTML kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att spara HTML som WMF-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt WMF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att spara HTML som WMF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att spara HTML som WMF med REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Att spara filformat från HTML som WMF är en komplex uppgift. Alla formatöverg
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att spara HTML som WMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att spara Excel filer som andra format HTML som WMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

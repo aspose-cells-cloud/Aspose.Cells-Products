@@ -1,19 +1,18 @@
 ﻿---
-title:  Convertir JSON en CSV API pour Go
-description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format JSON en fichier au format CSV.
-url: /fr/go/conversion/json-to-csv/
+title:  Convertir JSON en CSV à l'aide de Go
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format JSON en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir JSON en CSV" h2="Aller à la bibliothèque pour convertir JSON en CSV" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir JSON en CSV et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/json-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir JSON en CSV" h2="Aller à la bibliothèque pour convertir JSON en CSV" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Go. Il s\'agit d\'une solution professionnelle pour convertir JSON en CSV et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/json-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier JSON en CSV dans Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez JSON en CSV à l\'aide du SDK Cloud Cells pour Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de JSON en CSV est une tâche complexe. Toutes les transitions de format JSON vers CSV sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers JSON en fichiers CSV en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie CSV parfaite.
+La conversion des formats de fichiers JSON en CSV peut être une tâche complexe. Notre SDK Go gère toutes les conversions au format JSON vers CSV tout en préservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque Go fournit une solution professionnelle pour convertir des fichiers JSON en CSV en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et garantit une sortie CSV de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir JSON au format CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Exemple de code pour convertir JSON en CSV à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ La conversion des formats de fichiers de JSON en CSV est une tâche complexe. To
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Go API pour convertir JSON en CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Go pour convertir les fichiers Excel vers d\'autres formats JSON en CSV" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PutConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>go version go1.13.0 ou plus récente</li>
+<li>aller à la version go1.13.0 ou plus récente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

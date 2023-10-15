@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ TXT كـ DIF API من أجل Ruby
+title:  احفظ TXT بتنسيق DIF باستخدام Ruby
 description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق TXT كملف بتنسيق DIF.
-url: /ar/ruby/saveas/txt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لحفظ TXT كـ DIF" h2="مكتبة روبي لحفظ TXT كـ DIF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لحفظ TXT كـ DIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/txt-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TXT بصيغة DIF" h2="مكتبة روبي لحفظ TXT بصيغة DIF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Ruby. يعد هذا حلاً احترافيًا لحفظ TXT بتنسيق DIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/txt-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT كملف DIF في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT بتنسيق DIF في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT كـ DIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى DIF بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات DIF عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج DIF مثالي.
+يعد حفظ تنسيقات الملفات من TXT بتنسيق DIF مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق TXT إلى DIF بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات DIF عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية ومخرجات DIF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ TXT بتنسيق DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لحفظ TXT كـ DIF باستخدام REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /ar/ruby/saveas/txt-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لحفظ TXT كـ DIF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لحفظ ملفات Excel بتنسيقات أخرى TXT مثل DIF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

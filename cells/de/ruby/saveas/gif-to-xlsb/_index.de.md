@@ -1,10 +1,9 @@
 ﻿---
-title:  GIF als XLSB API für Ruby speichern
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern von GIF-Formatdateien als XLSB-Formatdateien.
-url: /de/ruby/saveas/gif-to-xlsb/
+title:  GIF als XLSB mit Ruby speichern
+description:  Verwendung von Aspose.Cells Cloud SDK für Ruby zum Speichern von GIF-Formatdateien als XLSB-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um GIF als XLSB zu speichern" h2="Ruby-Bibliothek zum Speichern von GIF als XLSB" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als XLSB und anderen Dokumentformaten mit Ruby." urlsection="saveas/gif-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF als XLSB speichern" h2="Ruby-Bibliothek zum Speichern von GIF als XLSB" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als XLSB und anderen Dokumentformaten mit Ruby." urlsection="saveas/gif-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als XLSB in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/gif-to-xlsb/
 Das Speichern von GIF-Dateiformaten als XLSB ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XLSB-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Speichern von GIF als XLSB-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von GIF im XLSB-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von GIF als XLSB mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von GIF-Dateiformaten als XLSB ist eine komplexe Aufgabe. Alle Üb
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um GIF als XLSB zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in anderen GIF-Formaten als XLSB zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als ODS API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im HTML-Format als ODS-Formatdatei zu speichern.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im HTML-Format als ODS-Formatdatei zu speichern.
 url: /de/swift/saveas/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

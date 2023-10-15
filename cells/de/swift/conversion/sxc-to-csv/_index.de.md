@@ -1,5 +1,5 @@
 ﻿---
-title:  SXC zu CSV Konvertieren API für Swift
+title: SXC zu CSV Konvertieren API für Swift
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im SXC-Format in eine Datei im CSV-Format zu konvertieren.
 url: /de/swift/conversion/sxc-to-csv/
 ---

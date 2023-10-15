@@ -1,10 +1,10 @@
 ﻿---
-title:  MHTML 到 MD 转换 API for Swift
+title: MHTML 到 MD 转换 API for Swift
 description: 使用Aspose.Cells Cloud SDK for Swift将MHTML格式文件转换为MD格式文件。
 url: /zh/swift/conversion/mhtml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 将 MHTML 转换为 MD" h2="将 MHTML 转换为 MD 的 Swift 库" p="使用 Cells Conversion REST API 在 Swift 中创建自定义电子表格工作流程。这是一个使用 Swift 在线将 MHTML 转换为 MD 和其他文档格式的专业解决方案。" urlsection="conversion/mhtml-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 将 MHTML 转换为 MD" h2="将 MHTML 转换为 MD 的 Swift 库" p="使用 Cells Conversion REST API 在 Swift 中创建自定义电子表格工作流程。这是使用 Swift 在线将 MHTML 转换为 MD 和其他文档格式的专业解决方案。" urlsection="conversion/mhtml-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Swift 中将 MHTML 文件转换为 MD" >}}
@@ -67,7 +67,7 @@ url: /zh/swift/conversion/mhtml-to-md/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Swift API 将 MHTML 转换为 MD" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 cellsWorkbookPutConvertWorkbook 方法来获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

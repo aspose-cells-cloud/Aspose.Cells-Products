@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ TXT كـ FODS API لنظام Android
+title:  احفظ TXT كـ FODS باستخدام Android
 description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق TXT كملف بتنسيق FODS.
-url: /ar/android/saveas/txt-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TXT كـ FODS" h2="مكتبة Android لحفظ TXT كـ FODS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ TXT كـ FODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/txt-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TXT كـ FODS" h2="مكتبة Android لحفظ TXT كـ FODS" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ TXT بتنسيق FODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/txt-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT كملف FODS في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT كـ FODS في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT كـ FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى FODS بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. مكتبة Android الخاصة بنا هي حل احترافي لحفظ TXT كملفات FODS عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج FODS مثالي.
+يعد حفظ تنسيقات الملفات من TXT كـ FODS مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق TXT إلى FODS بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات FODS عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات FODS مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ TXT بتنسيق FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لحفظ TXT كـ FODS باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ url: /ar/android/saveas/txt-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ TXT كـ FODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى TXT مثل FODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

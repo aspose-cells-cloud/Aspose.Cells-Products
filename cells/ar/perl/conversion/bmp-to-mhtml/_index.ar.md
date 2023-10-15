@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP إلى MHTML - تحويل API لـ Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق BMP إلى ملف بتنسيق MHTML.
-url: /ar/perl/conversion/bmp-to-mhtml/
+title:  تحويل BMP إلى MHTML باستخدام Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق BMP إلى ملف بتنسيق MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل BMP إلى MHTML" h2="Perl مكتبة لتحويل BMP إلى MHTML" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل BMP إلى MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/bmp-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل BMP إلى MHTML" h2="مكتبة Perl لتحويل BMP إلى MHTML" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل BMP إلى MHTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/bmp-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف BMP إلى MHTML في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل BMP إلى MHTML باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى MHTML مهمة معقدة. يتم إجراء جميع انتقالات تنسيق BMP إلى MHTML بواسطة Perl SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل BMP إلى ملفات MHTML عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج MHTML مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من BMP إلى MHTML مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق BMP إلى MHTML مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل BMP إلى ملفات MHTML عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن إخراج MHTML عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل BMP إلى تنسيق MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل BMP إلى MHTML باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/bmp-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل BMP إلى MHTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل BMP إلى MHTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

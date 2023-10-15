@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara CSV som SVG API för Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att spara CSV-formatfilen som SVG-fil.
-url: /sv/perl/saveas/csv-to-svg/
+title:  Spara CSV som SVG med Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara fil i CSV-format som fil i SVG-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att spara CSV som SVG" h2="Perl bibliotek för att spara CSV som SVG" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara CSV som SVG och andra dokumentformat online med Perl." urlsection="saveas/csv-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara CSV som SVG" h2="Perl bibliotek för att spara CSV som SVG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara CSV som SVG och andra dokumentformat online med Perl." urlsection="saveas/csv-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en CSV-fil som SVG i Perl" >}}
@@ -13,7 +12,7 @@ url: /sv/perl/saveas/csv-to-svg/
 Att spara filformat från CSV som SVG är en komplex uppgift. Alla formatövergångar från CSV till SVG utförs av vår Perl SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att spara CSV som SVG-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och perfekt SVG-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att spara CSV som SVG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kod Exempel för att spara CSV som SVG med REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Att spara filformat från CSV som SVG är en komplex uppgift. Alla formatöverg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att spara CSV som SVG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att spara Excel filer som andra format CSV som SVG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Ring post_arbetsbok_save_as-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

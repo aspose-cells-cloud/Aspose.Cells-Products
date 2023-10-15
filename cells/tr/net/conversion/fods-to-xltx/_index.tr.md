@@ -1,6 +1,6 @@
 ﻿---
-title:  FODS'yi XLTX'e dönüştür via .NET
-description: Cloud API ve Açık Kaynak .NET SDK ile Excel dosyaları oluşturun, düzenleyin veya dönüştürün
+title:  FODS'yi XLTX'ye dönüştürün via .NET
+description: Cloud API ve Açık Kaynak .NET SDK ile Excel dosyalarını Oluşturun, Düzenleyin veya Dönüştürün
 url: /tr/net/conversion/fods-to-xltx/
 family: cells
 platformtag: net
@@ -11,21 +11,21 @@ platform: .NET
 otherformats: XLS MHTML XML XLTX XLSM ODS MD SVG XLTM DIF TIFF XLSB XPS PDF TXT XLSX 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="FODS\'yi Bulutta XLTX\'e Dönüştürün" h2="Excel ve açık kaynaklı Cloud SDK for .NET ile OpenOffice elektronik tablo dönüştürme" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Bulutta FODS\'yi XLTX\'e dönüştürün" h2="Excel ve açık kaynak Cloud SDK ile OpenOffice elektronik tablo dönüşümü for .NET" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=".NET Uygulamalarında FODS\'den XLTX\'e Dönüştürme" %}}
-1.  adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları
-1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlat
-1. ```CellsApi.Upload``` yöntemiyle FODS dosyasını varsayılan Bulut Depolamaya yükleyin
+{{% blocks/products/pf/agp/feature-section-col title=".NET Uygulamalarında FODS\'den XLTX\'e Dönüşüm" %}}
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
+1. FODS dosyasını ```CellsApi.Upload``` yöntemiyle varsayılan Cloud Storage'a yükleyin
 1. Ortaya çıkan XLTX dosyasını almak için ```CellsApi.CellsSaveAsPostDocumentSaveAs``` yöntemini çağırın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Başlayın Excel REST API" %}}
- Excel Cloud SDK for .NET kaynak kodunu şu adresten alın:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) alternatif indirme seçenekleri için.
+{{% blocks/products/pf/agp/feature-section-col title="Excel REST API ile Başlayın" %}}
+ Excel Cloud SDK for .NET kaynak kodunu şu adresten alın:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) Alternatif indirme seçenekleri için.
 
- Ayrıca Swagger tabanlı bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
+ Ayrıca Swagger tabanlıya da bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# .NET FODS\'den XLTX\'e Dönüşüm Kodu" gistPath="" %}}

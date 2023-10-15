@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSM в XPS Преобразование API для NodeJS
-description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLSM в файл формата XPS.
-url: /ru/nodejs/conversion/xlsm-to-xps/
+title:  Преобразуйте XLSM в XPS с помощью NodeJS.
+description:  Использование Cloud SDK Aspose.Cells для NodeJS для преобразования файла формата XLSM в файл формата XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSM в XPS" h2="Библиотека NodeJS для преобразования XLSM в XPS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для преобразования XLSM в XPS и другие форматы документов онлайн с использованием NodeJS." urlsection="conversion/xlsm-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать XLSM в XPS" h2="Библиотека NodeJS для преобразования XLSM в XPS" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах NodeJS. Это профессиональное решение для онлайн-конвертации XLSM в XPS и другие форматы документов с помощью NodeJS." urlsection="conversion/xlsm-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в XPS в NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XLSM в XPS с помощью Cloud SDK Cells для NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в XPS — сложная задача. Все переходы формата XLSM в формат XPS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLSM в XPS. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат XPS.
+Преобразование форматов файлов из XLSM в XPS может оказаться сложной задачей. Наш NodeJS SDK обрабатывает все преобразования формата XLSM в XPS, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека NodeJS предоставляет профессиональное решение для онлайн-конвертации файлов XLSM в файлы XPS. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и обеспечивает высококачественный вывод XPS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLSM в формат XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для преобразования XLSM в XPS с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ url: /ru/nodejs/conversion/xlsm-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать узел API для преобразования XLSM в XPS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для преобразования файлов Excel в другие форматы XLSM в XPS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

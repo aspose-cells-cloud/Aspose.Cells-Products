@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS в MHTML Преобразовать API в Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата NUMBERS в файл формата MHTML.
-url: /ru/perl/conversion/numbers-to-mhtml/
+title:  Преобразуйте ЧИСЛА в MHTML, используя Perl.
+description:  Использование Cloud SDK Aspose.Cells для Perl для преобразования файла формата NUMBERS в файл формата MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования NUMBERS в MHTML" h2="Perl библиотека для преобразования NUMBERS в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации NUMBERS в MHTML и другие форматы документов с использованием Perl." urlsection="conversion/numbers-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать ЧИСЛА в MHTML" h2="Perl библиотека для преобразования ЧИСЕЛ в MHTML" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Perl. Это профессиональное решение для онлайн-конвертирования ЧИСЕЛ в MHTML и другие форматы документов с помощью Perl." urlsection="conversion/numbers-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в MHTML в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте ЧИСЛА в MHTML с помощью Cells Cloud SDK для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в MHTML — сложная задача. Все переходы NUMBERS в формат MHTML выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов NUMBERS в MHTML. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из ЧИСЛОВ в MHTML может оказаться сложной задачей. Наш SDK Perl обрабатывает все преобразования формата NUMBERS в MHTML, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Perl предоставляет профессиональное решение для онлайн-конвертации ЧИСЕЛ в файлы MHTML. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и обеспечивает высококачественный вывод MHTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования NUMBERS в формат MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для преобразования ЧИСЕЛ в MHTML с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ru/perl/conversion/numbers-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для преобразования NUMBERS в MHTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl SDK для преобразования ЧИСЕЛ в MHTML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

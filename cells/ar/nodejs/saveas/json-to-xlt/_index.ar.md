@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ JSON كـ XLT API لـ NodeJS
-description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق JSON كملف بتنسيق XLT.
-url: /ar/nodejs/saveas/json-to-xlt/
+title:  احفظ JSON بتنسيق XLT باستخدام NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق JSON كملف بتنسيق XLT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لحفظ JSON كـ XLT" h2="مكتبة NodeJS لحفظ JSON كـ XLT" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في NodeJS. هذا حل احترافي لحفظ JSON بتنسيق XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/json-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ JSON بتنسيق XLT" h2="مكتبة NodeJS لحفظ JSON بتنسيق XLT" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في NodeJS. يعد هذا حلاً احترافيًا لحفظ JSON بتنسيق XLT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/json-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON باسم XLT في NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON بتنسيق XLT في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JSON كـ XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى XLT بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ JSON كملفات XLT عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج XLT مثالي.
+يعد حفظ تنسيقات الملفات من JSON بتنسيق XLT مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق JSON إلى XLT بواسطة NodeJS SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لحفظ JSON كملفات XLT عبر الإنترنت. يوفر Cloud SDK لمطوري NodeJS وظائف قوية ومخرجات XLT مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ JSON بتنسيق XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود NodeJS لحفظ JSON كـ XLT باستخدام REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ url: /ar/nodejs/saveas/json-to-xlt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Node API لحفظ JSON كـ XLT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لحفظ ملفات Excel بتنسيقات أخرى JSON مثل XLT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>العقدة v6.17.1 أو أحدث</li>
+<li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

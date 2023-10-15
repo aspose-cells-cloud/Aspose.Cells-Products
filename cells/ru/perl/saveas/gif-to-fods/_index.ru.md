@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить GIF как FODS API для Perl
+title:  Сохраните GIF как FODS, используя Perl.
 description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата GIF как файла формата FODS.
-url: /ru/perl/saveas/gif-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить GIF как FODS" h2="Perl библиотека для сохранения GIF как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения GIF в виде FODS и других форматов документов в Интернете с использованием Perl." urlsection="saveas/gif-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить GIF как FODS" h2="Perl библиотека для сохранения GIF в формате FODS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения GIF в формате FODS и других форматов документов в Интернете с помощью Perl." urlsection="saveas/gif-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните GIF-файл как FODS по номеру Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как FODS по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде FODS — сложная задача. Все переходы формата GIF в формат FODS выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Perl — это профессиональное решение для сохранения GIF в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный результат FODS.
+Сохранение форматов файлов GIF как FODS — сложная задача. Все переходы формата GIF в FODS выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы GIF. Наша библиотека Perl — это профессиональное решение для сохранения GIF в виде файлов FODS онлайн. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и отличный результат FODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения GIF в формате FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения GIF как FODS с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/gif-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API, чтобы сохранить GIF как FODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl, чтобы сохранять файлы Excel в других форматах GIF как FODS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

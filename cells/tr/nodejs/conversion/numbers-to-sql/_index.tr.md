@@ -1,19 +1,18 @@
 ﻿---
-title:  NodeJS için NUMBERS SQL Dönüştürme API
-description:  NUMBERS biçim dosyasını SQL biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/nodejs/conversion/numbers-to-sql/
+title:  NodeJS kullanarak NUMBERS'ı SQL'e dönüştürün
+description:  NUMBERS biçimindeki bir dosyayı SQL biçimindeki bir dosyaya dönüştürmek için NodeJS için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SAYILARI SQL\'e dönüştürmek için NodeJS API" h2="NUMBERS\'i SQL\'e dönüştürmek için NodeJS kitaplığı" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, NodeJS kullanarak NUMBERS\'i SQL\'e ve diğer belge biçimlerine çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı SQL\'e dönüştür" h2="NUMBERS\'ı SQL\'e dönüştürmek için NodeJS kitaplığı" p="NodeJS projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, NodeJS kullanarak NUMBERS\'ı çevrimiçi olarak SQL\'e ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını NodeJS\'de SQL\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS için Cells Cloud SDK\'yı kullanarak NUMBERS\'ı SQL\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-NUMBERS dosya biçimlerini SQL'e dönüştürmek karmaşık bir iştir. Tüm NUMBERS'tan SQL formatına geçişler, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, NUMBERS'i çevrimiçi SQL dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
+Dosya formatlarını NUMBERS'tan SQL'e dönüştürmek karmaşık bir iş olabilir. NodeJS SDK'mız, kaynak NUMBERS e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm NUMBERS'tan SQL'e format dönüşümlerini gerçekleştirir. NodeJS kitaplığımız, NUMBERS'ı çevrimiçi olarak SQL dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli SQL çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="NUMBERS\'ı SQL formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak NUMBERS\'ı SQL\'e dönüştürmek için NodeJS Kod Örneği" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ NUMBERS dosya biçimlerini SQL'e dönüştürmek karmaşık bir iştir. Tüm NUM
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="SAYILARI SQL\'e dönüştürmek için Düğüm API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara NUMBERS\'den SQL\'e dönüştürmek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

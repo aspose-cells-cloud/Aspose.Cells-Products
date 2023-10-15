@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить EMF как HTML API для Go
+title:  Сохраните EMF как HTML с помощью Go.
 description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата EMF как файла формата HTML.
-url: /ru/go/saveas/emf-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить EMF как HTML." h2="Перейти в библиотеку, чтобы сохранить EMF как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения EMF как HTML и других форматов документов в Интернете с помощью Go." urlsection="saveas/emf-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить EMF как HTML" h2="Библиотека Go для сохранения EMF как HTML" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения EMF как HTML и других форматов документов онлайн с помощью Go." urlsection="saveas/emf-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как HTML в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как HTML в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как HTML — сложная задача. Все переходы форматов с EMF на HTML выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека Go — это профессиональное решение для сохранения файлов EMF как HTML онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод HTML.
+Сохранение форматов файлов с EMF как HTML — сложная задача. Все переходы форматов с EMF на HTML выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы EMF. Наша библиотека Go — это профессиональное решение для сохранения файлов EMF как HTML в Интернете. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения EMF в формате HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения EMF как HTML с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /ru/go/saveas/emf-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API, чтобы сохранить EMF как HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах EMF как HTML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till XLSX Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till XLSX-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till XLSX-formatfil.
 url: /sv/swift/conversion/ods-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

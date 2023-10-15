@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP'i Python için ODS API olarak kaydedin
-description:  BMP formatındaki dosyayı ODS formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
-url: /tr/python/saveas/bmp-to-ods/
+title:  BMP'i Python'i kullanarak ODS olarak kaydedin
+description:  BMP formatındaki dosyayı ODS formatındaki dosya olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i ODS olarak kaydetmek için Python API" h2="BMP\'i ODS olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, BMP\'i ODS ve Python kullanarak çevrimiçi diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/bmp-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i ODS olarak kaydet" h2="BMP\'i ODS olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API of Cells Cloud\'u kullanın. Bu, Python\'i kullanarak BMP\'i ODS ve diğer belge formatları olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/bmp-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="BMP dosyasını Python\'de ODS olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-BMP'den dosya biçimlerini ODS olarak kaydetmek karmaşık bir iştir. BMP'den ODS biçimine geçişlerin tümü, Python SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, BMP'i çevrimiçi ODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıkışı sağlar.
+BMP'den dosya formatlarını ODS olarak kaydetmek karmaşık bir iştir. BMP'den ODS formatına tüm geçişler, Python SDK'mız tarafından gerçekleştirilir ve kaynak BMP elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, BMP'i çevrimiçi ODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK'sı, Python geliştiriciye güçlü işlevsellik ve mükemmel ODS çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="BMP\'i ODS formatı olarak kaydetmek için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python REST API kullanarak BMP\'i ODS olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ BMP'den dosya biçimlerini ODS olarak kaydetmek karmaşık bir iştir. BMP'den O
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="BMP\'i ODS olarak kaydetmek için Python API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Çağrı hücreleri_kaydetmek_gibi_postalamak_belge_kaydetmek_sonuçtaki akışı alma yöntemi olarak</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda BMP ODS olarak kaydetmek için Python için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

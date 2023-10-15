@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera BILD till PNG från kalkylblad med Android API
+title:  Exportera BILD till PNG från Excel med Cells Cloud SDK för Android
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/android/export/picture-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att exportera BILD till PNG fil" h2="Android-bibliotek för att exportera BILD till PNG-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylark i Android. Detta är en professionell lösning för att exportera BILD till PNG filformat från kalkylblad online med Android." urlsection="export/picture-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera BILD till PNG från Excel" h2="Android-bibliotek för att exportera BILD till PNG-fil" p="Använd Export API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Android. Detta är en professionell lösning för att exportera BILD till PNG filformat från kalkylblad online med Android." urlsection="export/picture-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera PICTURE-objekt till PNG-formatfil i Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera PICTURE-objekt till PNG filformat med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera PICTURE-objekt till PNG-fil från kalkylblad är en komplex uppgift. Exportera PICTURE till PNG formatövergångar utförs av vår Android SDK samtidigt som källbildens kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att exportera BILDobjekt till filer i PNG-format online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt PNG-utgång.
+Exportera PICTURE-objekt till PNG-filen från Excel-filen är en komplex uppgift. Exportera PICTURE till PNG formatövergångar utförs av vår Android SDK samtidigt som källbilden PICTURE-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att exportera BILDobjekt till filer i PNG-format online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt PNG-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att exportera BILD till PNG-format från kalkylark" gistPath="" %}}
@@ -51,10 +50,10 @@ Exportera PICTURE-objekt till PNG-fil från kalkylblad är en komplex uppgift. E
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att exportera BILD till PNG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att exportera objekt från Excel BILD till PNG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

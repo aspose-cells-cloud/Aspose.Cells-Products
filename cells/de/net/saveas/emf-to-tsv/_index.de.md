@@ -1,10 +1,9 @@
 ﻿---
-title: Speichern Sie EMF als TSV API für C#
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für C#, um die Datei im EMF-Format als TSV-Formatdatei zu speichern.
-url: /de/net/saveas/emf-to-tsv/
+title: Speichern Sie EMF als TSV unter C#
+description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Speichern der Datei im EMF-Format als TSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zu speichern EMF als TSV" h2="C#-Bibliothek zum Speichern von EMF als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um EMF als TSV und andere Dokumentformate online mit C# zu speichern." urlsection="saveas/emf-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF als TSV speichern" h2="C#-Bibliothek zum Speichern von EMF als TSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um EMF als TSV und andere Dokumentformate online mit C# zu speichern." urlsection="saveas/emf-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine EMF-Datei als TSV in C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/emf-to-tsv/
 Das Speichern von Dateiformaten von EMF als TSV ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum TSV-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um EMF als TSV-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von EMF im TSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von EMF als TSV mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten von EMF als TSV ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um EMF als TSV zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel Dateien in anderen Formaten EMF als TSV zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

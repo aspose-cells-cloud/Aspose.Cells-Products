@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSM إلى XLTM تحويل API لـ PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLSM إلى ملف بتنسيق XLTM.
-url: /ar/php/conversion/xlsm-to-xltm/
+title:  تحويل XLSM إلى XLTM باستخدام PHP
+description: استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق XLSM إلى ملف بتنسيق XLTM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLSM إلى XLTM" h2="PHP مكتبة لتحويل XLSM إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل XLSM إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xlsm-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSM إلى XLTM" h2="مكتبة PHP لتحويل XLSM إلى XLTM" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل XLSM إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xlsm-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى XLTM في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSM إلى XLTM باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى XLTM بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل ملفات XLSM إلى XLTM عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج XLTM مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSM إلى XLTM مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق XLSM إلى XLTM مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات XLSM إلى XLTM عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج XLTM عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل XLSM إلى تنسيق XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل XLSM إلى XLTM باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/xlsm-to-xltm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل XLSM إلى XLTM" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى من XLSM إلى XLTM" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

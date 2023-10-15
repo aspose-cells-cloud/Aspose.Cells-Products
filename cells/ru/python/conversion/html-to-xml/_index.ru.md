@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML в XML Преобразовать API в Python
-description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата HTML в файл формата XML.
-url: /ru/python/conversion/html-to-xml/
+title:  Преобразуйте HTML в XML, используя Python.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата HTML в файл формата XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования HTML в XML" h2="библиотека Python для преобразования HTML в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для преобразования HTML в XML и другие форматы документов онлайн с использованием Python." urlsection="conversion/html-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать HTML в XML" h2="Python библиотека для преобразования HTML в XML" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертирования HTML в XML и другие форматы документов с помощью Python." urlsection="conversion/html-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в XML в Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте HTML в XML с помощью Cloud SDK Cells для Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в XML — сложная задача. Все переходы HTML в формат XML выполняются нашим Python SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации HTML в файлы XML. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов HTML в XML может оказаться сложной задачей. Наш SDK Python обрабатывает все преобразования формата HTML в формат XML, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Python предоставляет профессиональное решение для онлайн-преобразования HTML в XML-файлы. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и обеспечивает высококачественный вывод XML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования HTML в формат XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для преобразования HTML в XML с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ru/python/conversion/html-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для преобразования HTML в XML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python для преобразования файлов Excel в другие форматы HTML в XML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

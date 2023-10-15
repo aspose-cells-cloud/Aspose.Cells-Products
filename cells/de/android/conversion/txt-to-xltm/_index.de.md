@@ -1,19 +1,18 @@
 ﻿---
-title:  TXT zu XLTM Konvertieren API für Android
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Android, um eine Datei im TXT-Format in eine Datei im XLTM-Format zu konvertieren.
-url: /de/android/conversion/txt-to-xltm/
+title:  Konvertieren Sie TXT mit Android in XLTM
+description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im TXT-Format in eine Datei im XLTM-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von TXT in XLTM" h2="Android-Bibliothek zum Konvertieren von TXT in XLTM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TXT in XLTM und andere Dokumentformate mit Android." urlsection="conversion/txt-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie TXT in XLTM" h2="Android-Bibliothek zum Konvertieren von TXT in XLTM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TXT in XLTM und andere Dokumentformate mit Android." urlsection="conversion/txt-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TXT-Datei in XLTM in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie TXT in XLTM mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TXT in XLTM ist eine komplexe Aufgabe. Alle Übergänge vom TXT- zum XLTM-Format werden von unserem Android SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-TXT-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TXT- in XLTM-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XLTM-Ausgabe.
+Das Konvertieren von Dateiformaten von TXT in XLTM kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen des TXT-Formats in das XLTM-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der TXT-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von TXT- in XLTM-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLTM-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Konvertieren von TXT in das XLTM-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel für die Konvertierung von TXT in XLTM mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von TXT in XLTM ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um TXT in XLTM zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in andere Formate von TXT in XLTM zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

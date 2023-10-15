@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera BILD till SVG från kalkylblad med PHP API
+title:  Exportera BILD till SVG från Excel med Cells Cloud SDK för PHP
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/php/export/picture-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att exportera BILD till SVG fil" h2="PHP bibliotek för att exportera BILD till SVG fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i PHP. Detta är en professionell lösning för att exportera BILD till filformatet SVG från kalkylark online med PHP." urlsection="export/picture-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera BILD till SVG från Excel" h2="PHP bibliotek för att exportera BILD till SVG fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i PHP. Detta är en professionell lösning för att exportera BILD till SVG filformat från kalkylblad online med PHP." urlsection="export/picture-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera PICTURE-objekt till SVG-formatfil i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera PICTURE-objekt till SVG filformat med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera PICTURE-objekt till SVG-fil från kalkylblad är en komplex uppgift. Exportera PICTURE till SVG formatövergångar utförs av vår PHP SDK samtidigt som källbilden PICTURE-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att exportera BILDobjekt till filer i SVG-format online. Denna Cloud SDK ger PHP-utvecklare kraftfull funktionalitet och perfekt SVG-utdata.
+Exportera PICTURE-objekt till SVG-filen från Excel-filen är en komplex uppgift. Exportera PICTURE till SVG formatövergångar utförs av vår PHP SDK samtidigt som källkoden PICTURE-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att exportera BILDobjekt till filer i SVG-format online. Denna Cloud SDK ger PHP-utvecklare kraftfull funktionalitet och perfekt SVG-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att exportera BILD till SVG-format från kalkylark" gistPath="" %}}
@@ -36,10 +35,10 @@ Exportera PICTURE-objekt till SVG-fil från kalkylblad är en komplex uppgift. E
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att exportera BILD till SVG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att exportera objekt från Excel BILD till SVG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

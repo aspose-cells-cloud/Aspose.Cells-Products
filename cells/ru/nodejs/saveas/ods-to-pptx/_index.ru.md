@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните ODS как PPTX API для NodeJS.
-description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата ODS в виде файла формата PPTX.
-url: /ru/nodejs/saveas/ods-to-pptx/
+title:  Сохраните ODS как PPTX с помощью NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата ODS как файла формата PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения ODS как PPTX" h2="Библиотека NodeJS для сохранения ODS как PPTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения ODS в виде PPTX и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/ods-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ODS как PPTX" h2="Библиотека NodeJS для сохранения ODS в формате PPTX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения ODS в формате PPTX и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/ods-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как PPTX в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде PPTX — сложная задача. Все переходы формата ODS в формат PPTX выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека NodeJS — это профессиональное решение для сохранения ODS в виде файлов PPTX в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод PPTX.
+Сохранение форматов файлов из ODS в формате PPTX — сложная задача. Все переходы формата ODS в PPTX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека NodeJS — это профессиональное решение для сохранения ODS в виде файлов PPTX онлайн. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения ODS в формате PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения ODS в формате PPTX с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/ods-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения ODS как PPTX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах ODS как PPTX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

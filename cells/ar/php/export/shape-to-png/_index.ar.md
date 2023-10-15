@@ -1,19 +1,18 @@
 ﻿---
-title:  تصدير SHAPE إلى PNG من جدول البيانات باستخدام PHP API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/php/export/shape-to-png/
+title:  تصدير SHAPE إلى PNG من Excel باستخدام Cells Cloud SDK لـ PHP
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتصدير الشكل إلى ملف PNG" h2="مكتبة PHP لتصدير الشكل إلى ملف PNG" p="استخدم Cells Export REST API لتصدير مهام سير عمل الكائن الداخلي لجدول البيانات في PHP. هذا حل احترافي لتصدير SHAPE إلى ملف بتنسيق PNG من جدول بيانات عبر الإنترنت باستخدام PHP." urlsection="export/shape-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير الشكل إلى PNG من Excel" h2="مكتبة PHP لتصدير SHAPE إلى ملف PNG" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في PHP. هذا حل احترافي لتصدير SHAPE إلى ملف بتنسيق PNG من جدول البيانات عبر الإنترنت باستخدام PHP." urlsection="export/shape-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف بتنسيق PNG بتنسيق PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف تنسيق PNG باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن SHAPE إلى ملف PNG من جدول البيانات مهمة معقدة. تصدير SHAPE إلى PNG يتم تنفيذ انتقالات تنسيق بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SHAPE المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق PNG عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج PNG مثالي.
+يعد تصدير كائن SHAPE إلى ملف PNG من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى PNG بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SHAPE المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق PNG عبر الإنترنت. يمنح Cloud SDK هذا مطوري PHP وظائف قوية وإخراج PNG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في PHP باستخدام REST API لتصدير الشكل إلى تنسيق PNG من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في PHP باستخدام REST API لتصدير SHAPE إلى تنسيق PNG من جدول البيانات" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/export/shape-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتصدير الشكل إلى PNG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتصدير الكائنات من Excel SHAPE إلى PNG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

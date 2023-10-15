@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS'den PDF'e Python için API'i dönüştür
-description:  XLS biçim dosyasını PDF biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/python/conversion/xls-to-pdf/
+title:  Python'i kullanarak XLS'yi PDF'e dönüştürün
+description:  XLS biçimindeki bir dosyayı PDF biçimindeki bir dosyaya dönüştürmek için Python için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLS\'yi PDF\'e dönüştürmek için Python API" h2="XLS\'yi PDF\'e dönüştürmek için Python kitaplığı" p="Python\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Python kullanarak XLS\'yi PDF\'e ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xls-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLS\'yi PDF\'e dönüştür" h2="XLS\'yi PDF\'e dönüştürmek için Python kitaplığı" p="Python projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Python\'i kullanarak XLS\'yi PDF\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xls-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLS dosyasını Python\'de PDF\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Python için Cells Cloud SDK\'yı kullanarak XLS\'yi PDF\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den PDF'e dönüştürmek karmaşık bir iştir. Tüm XLS'den PDF'e format geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, XLS'yi çevrimiçi olarak PDF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel PDF çıkışı sağlar.
+Dosya formatlarını XLS'den PDF'e dönüştürmek karmaşık bir iş olabilir. Python SDK'mız, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLS'den PDF formatına dönüşümleri gerçekleştirir. Python kitaplığımız, XLS'yi çevrimiçi olarak PDF dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Python geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli PDF çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi PDF formatına dönüştürmek için REST API kullanan Python\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Cells Cloud SDK\'yı kullanarak XLS\'yi PDF\'e dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Dosya formatlarını XLS'den PDF'e dönüştürmek karmaşık bir iştir. Tüm X
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLS\'yi PDF\'e dönüştürmek için Python API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Çağrı hücreleri_çalışma kitabı_koymak_dönüştürmek_sonuç akışını almak için çalışma kitabı yöntemi</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer XLS biçimlerine PDF\'e dönüştürmek için Python için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `put_convert_workbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

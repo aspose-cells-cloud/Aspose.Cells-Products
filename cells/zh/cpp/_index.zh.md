@@ -96,7 +96,7 @@ Excel 电子表格处理功能
 将 Microsoft Excel 或 OpenOffice Calc 电子表格转换为各种格式文件。
     </h2>
     <p>
-Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式将 Excel 工作簿转换为各种格式文件的功能。 Microsoft Excel 或 OpenOffice Calc 电子表格转换是一个复杂的过程。许多因素都会导致复杂性，因此在转换过程中应考虑到。能够以精确的专业品质将 Excel 文件从一种格式转换为另一种格式是 Aspose.Cells Cloud 的顶级功能。
+ Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式将 Excel 工作簿转换为各种格式文件的功能。 Microsoft Excel 或 OpenOffice Calc 电子表格转换是一个复杂的过程。许多因素都会导致复杂性，因此在转换过程中应考虑到。能够以精确的专业品质将 Excel 文件从一种格式转换为另一种格式是 Aspose.Cells Cloud 的顶级功能。
     </p>
    </div>
    <div class="col-lg-12">
@@ -104,7 +104,7 @@ Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式将 Excel �
 保护 Microsoft Excel via CPP API
     </h2>
     <p>
- Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式保护 Excel 工作簿的功能。例如用密码保护和取消保护工作簿，为工作簿添加数字签名。
+ Aspose.Cells 适用于 CPP 的 Cloud SDK 包含使用 CPP 语言以编程方式保护 Excel 工作簿的功能。例如用密码保护和取消保护工作簿，为工作簿添加数字签名。
     </p>
    </div>
    <div class="col-lg-12">
@@ -112,7 +112,7 @@ Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式将 Excel �
 将多个 Microsoft Excel 或 OpenOffice Calc 电子表格合并到一个文件中。
     </h2>
     <p>
-Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式将多个 Microsoft Excel 或 OpenOffice Calc 电子表格合并到文件中的功能。支持多种格式文件输入。并支持多种格式输出。
+ Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式将多个 Microsoft Excel 或 OpenOffice Calc 电子表格合并到文件中的功能。支持多种格式文件输入。并支持多种格式输出。
     </p>
     <h2 class="h2title">
 查找和替换文本工作簿

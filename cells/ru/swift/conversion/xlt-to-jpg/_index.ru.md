@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование XLT в JPG API для Swift
+title:  Конвертировать XLT в JPG API для Swift
 description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLT в файл формата JPG.
 url: /ru/swift/conversion/xlt-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLT в JPG" h2="Библиотека Swift для преобразования XLT в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации XLT в JPG и другие форматы документов с помощью Swift." urlsection="conversion/xlt-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации XLT в JPG" h2="Библиотека Swift для преобразования XLT в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования XLT в JPG и другие форматы документов с помощью Swift." urlsection="conversion/xlt-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в JPG в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLT в JPG в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в JPG — сложная задача. Все переходы между форматами XLT и JPG выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLT в JPG. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из XLT в JPG — сложная задача. Все переходы формата XLT в JPG выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов XLT в JPG. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLT в формат JPG" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/xlt-to-jpg/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования XLT в JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

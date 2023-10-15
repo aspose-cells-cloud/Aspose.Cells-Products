@@ -1,31 +1,31 @@
 ﻿---
-title:  Leer, ver y convertir archivos en la nube Excel (via Ruby REST SDK)
-description: Mejora sus aplicaciones Ruby para procesar y manipular Microsoft Excel y hojas de cálculo de OpenOffice en la nube
+title:  Leer, ver y convertir archivos Cloud Excel (via Ruby REST SDK)
+description: Mejora sus aplicaciones Ruby para procesar y manipular hojas de cálculo Microsoft Excel y OpenOffice en la nube
 weight: 120
 url: /es/ruby
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Build Excel Aplicaciones de lector, visor y convertidor de archivos via Ruby" h2="Mejora sus aplicaciones Ruby para procesar y manipular Microsoft Excel y hojas de cálculo de OpenOffice en la nube." logoImageSrc="/headers/aspose_cells-for-ruby.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Compile Excel aplicaciones de lectura, visualización y conversión de archivos via Ruby" h2="Mejora sus aplicaciones Ruby para procesar y manipular hojas de cálculo Microsoft Excel y OpenOffice en la nube." logoImageSrc="/headers/aspose_cells-for-ruby.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Ruby" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-ruby.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for Ruby ayuda a los desarrolladores a acceder y leer Excel archivos alojados en el almacenamiento en la nube, sin instalar ningún software de terceros. Habilite su código Ruby para convertir archivos XLS, XLSX, ODS a CSV, XML, Markdown (MD), PDF, XPS, TIFF, DIF y otros formatos.</p>
-<p>Habilite sus programas de Ruby para procesar hojas de cálculo, libros de trabajo y hojas de cálculo en la nube, así como para acceder y modificar celdas, filas y columnas individuales. Aplique filtros personalizados, ListObjects, OleObjects y formato condicional usando código Ruby. Aspose.Cells Cloud SDK for Ruby también le permite cifrar, dividir, fusionar, proteger y convertir hojas de cálculo.</p>
+<p>Aspose.Cells Cloud SDK para Ruby ayuda a los desarrolladores a acceder y leer archivos Excel alojados en el almacenamiento en la nube, sin instalar ningún software de terceros. Habilite su código Ruby para convertir archivos XLS, XLSX, ODS a CSV, XML, Markdown (MD), PDF, XPS, TIFF, DIF y otros formatos.</p>
+<p>Habilite sus programas Ruby para procesar hojas de cálculo, libros de trabajo y hojas de cálculo en la nube, así como para acceder y modificar celdas, filas y columnas individuales. Aplique filtros personalizados, ListObjects, OleObjects y formato condicional usando código Ruby. Aspose.Cells Cloud SDK para Ruby también le permite cifrar, dividir, fusionar, proteger y convertir hojas de cálculo.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="de un vistazo" description="Aspose.Cells Cloud puede realizar todas las tareas de manipulación de hojas de cálculo." >}}
+{{< blocks/products/pf/carousel-item h3="De un vistazo" description="Aspose.Cells Cloud puede realizar todas las tareas de manipulación de hojas de cálculo." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa fa-table"> </i>Descripción general</header><ul><li>trabajar con tablas</li>
-<li>trabajar con celdas</li>
+<li>trabajar con celulas</li>
 <li>Trabajar con gráficos</li>
 <li>Trabajar con hipervínculos</li>
 <li>Trabajar con tablas dinámicas</li>
@@ -45,12 +45,12 @@ url: /es/ruby
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> De entrada y salida</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Oficina abierta:</b> SAO</li>
 <li><b>Hoja de cálculoML:</b> XML</li>
-<li><b>Texto:</b> CSV, TSV, TXT (separado por tabuladores)</li>
-<li><b>Web:</b> HTML, MHTML</li>
+<li><b>Texto:</b> CSV, TSV, TXT (delimitado por tabulaciones)</li>
+<li><b>Web:</b> HTML, HTML</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Solo entrada</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Solo salida</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Rebaja)</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Sólo entrada</header><ul><li>SXC, FODS</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> Sólo salida</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Rebaja)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -60,7 +60,7 @@ url: /es/ruby
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Independencia de la plataforma" description="Aspose.Cells Cloud es compatible con las principales plataformas y lenguajes de programación." >}}
+{{< blocks/products/pf/carousel-item h3="Independencia de plataforma" description="Aspose.Cells Cloud es compatible con todas las principales plataformas y lenguajes de programación." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -74,7 +74,7 @@ url: /es/ruby
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Excel Funciones de procesamiento de hojas de cálculo
+ Excel Funciones de procesamiento de hojas de cálculo
    </h2>
    <p>
    </p>
@@ -89,7 +89,7 @@ Excel Funciones de procesamiento de hojas de cálculo
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Soporte para múltiples tipos de filtros de lista
+ Soporte para múltiples tipos de filtros de lista.
     </p>
    </div>
    <div class="col-lg-4">
@@ -110,7 +110,7 @@ Excel Funciones de procesamiento de hojas de cálculo
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Obtenga, actualice, muestre u oculte la leyenda del gráfico
+ Obtener, actualizar, mostrar u ocultar la leyenda del gráfico
     </p>
    </div>
    <div class="col-lg-4">
@@ -124,14 +124,14 @@ Excel Funciones de procesamiento de hojas de cálculo
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar o eliminar un área de celda para el formato condicional
+ Agregar o eliminar un área de celda para formato condicional
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar, actualizar y eliminar hipervínculos de hojas de trabajo
+ Agregar, actualizar y eliminar hipervínculos de hojas de cálculo
     </p>
    </div>
    <div class="col-lg-4">
@@ -159,7 +159,7 @@ Excel Funciones de procesamiento de hojas de cálculo
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Resumir datos de ListObject o Table grandes con Pivot Table
+ Resumir datos de ListObject o tabla grande con tabla dinámica
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,35 +173,35 @@ Resumir datos de ListObject o Table grandes con Pivot Table
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Eliminar OleObjects específicos o todos de la hoja de trabajo
+Eliminar OleObjects específicos o todos de la hoja de trabajo
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Insertar o eliminar, saltos de página horizontales o verticales
+ Insertar o eliminar saltos de página horizontales o verticales
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipular configuración de página, encabezado y amp; pie de página
+ Manipular la configuración de la página, el encabezado y el contenido. pie de página
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregue, actualice, obtenga o elimine imágenes de la hoja de trabajo
+ Agregar, actualizar, recuperar o eliminar imágenes de hojas de trabajo
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crear, actualizar, buscar o eliminar propiedades de documentos
+ Crear, actualizar, recuperar o eliminar propiedades del documento
     </p>
    </div>
    <div class="col-lg-4">
@@ -215,7 +215,7 @@ Resumir datos de ListObject o Table grandes con Pivot Table
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar, actualizar o eliminar formas de una hoja de cálculo
+ Agregar, actualizar o eliminar formas de una hoja de trabajo
     </p>
    </div>
    <div class="col-lg-4">
@@ -227,41 +227,41 @@ Resumir datos de ListObject o Table grandes con Pivot Table
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Comience con Excel SDK de procesamiento de hojas de cálculo
+ Comience con el SDK de procesamiento de hojas de cálculo Excel
     </h2>
     <p>
- Para comenzar con Aspose.Cells Cloud SDK for Ruby, no necesita instalar nada. Todo lo que necesita hacer es crear una cuenta en
+ Para comenzar con Aspose.Cells Cloud SDK para Ruby, no necesita instalar nada. Todo lo que necesitas hacer es crear una cuenta en
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose para la nube
      </a>
- y obtenga la información de su solicitud. Una vez que tenga el SID de la aplicación &amp; clave, está listo para usar Aspose.Cells Cloud SDK for Ruby en cualquier plataforma que admita REST API. Aspose.Cells Cloud SDK for Ruby le brinda todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
+ y obtenga la información de su solicitud. Una vez que tenga la aplicación SID &amp; clave, está listo para usar Aspose.Cells Cloud SDK para Ruby en cualquier plataforma que admita API REST. Aspose.Cells Cloud SDK para Ruby le proporciona todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Procesamiento de libros de trabajo via Cloud SDK
+ Procesamiento de libros de trabajo via SDK de nube
     </h2>
     <p>
-Aspose.Cells Cloud SDK para Ruby le permite crear, dividir, fusionar, buscar y reemplazar texto, proteger con contraseña, exportar a un formato de archivo compatible, leer elementos de texto del libro de trabajo, ajustar automáticamente las filas del libro de trabajo ignorando los elementos ocultos, cifrar la contraseña del libro de trabajo y proporcionar la clave de cifrado longitud, importar datos al libro de trabajo, calcular todas las fórmulas en el libro de trabajo, establecer la configuración de cálculo de fórmula proporcionando una estrategia de precisión, etc., usar un marcador inteligente, convertir el libro de trabajo del contenido de la solicitud a otro formato, aplicar una contraseña para permitir la modificación del contenido.
+Aspose.Cells Cloud SDK para Ruby le permite crear, dividir, fusionar, buscar y reemplazar texto, proteger con contraseña, exportar a formato de archivo compatible, leer elementos de texto del libro, ajustar automáticamente las filas del libro mientras se ignoran los elementos ocultos, cifrar la contraseña del libro y proporcionar una clave de cifrado. longitud, importar datos al libro de trabajo, calcular todas las fórmulas en el libro de trabajo, establecer configuraciones de cálculo de fórmulas proporcionando una estrategia de precisión, etc., usar un marcador inteligente, convertir el libro de trabajo del contenido solicitado a otro formato, aplicar una contraseña para permitir la modificación del contenido.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Cloud SDK para procesar hojas de trabajo
+SDK de nube para procesar hojas de trabajo
     </h2>
     <p>
-Con Aspose.Cells Cloud SDK for Ruby, puede eliminar una fila específica o todas las filas de la hoja de cálculo, obtener datos de celda de la hoja de cálculo o estilo de celda por nombre de celda, leer datos de fila o columna de la hoja de cálculo por su índice, calcular fórmula de celda, borrar contenido de celda, copiar celda en otra celda, copiar columnas y filas de la hoja de trabajo, agrupar filas y columnas de la hoja de trabajo, ocultar filas y columnas de la hoja de trabajo, establecer estilos de columna y fila de la hoja de trabajo, establecer el valor HTMLSTRING en la celda, establecer el valor del rango de celda y modificar muchas otras configuraciones de la hoja de trabajo.
+Con Aspose.Cells Cloud SDK para Ruby, puede eliminar una fila específica o todas las filas de la hoja de trabajo, obtener datos de celda de la hoja de trabajo o estilo de celda por el nombre de la celda, leer datos de fila o columna de la hoja de trabajo por su índice, calcular la fórmula de la celda, borrar el contenido de la celda, copiar la celda en otra celda, copie columnas y filas de la hoja de trabajo, agrupe filas y columnas de la hoja de trabajo, oculte filas y columnas de la hoja de trabajo, establezca estilos de columnas y filas de la hoja de trabajo, establezca el valor HTMLSTRING en la celda, establezca el valor del rango de celdas y modifique muchas otras configuraciones de la hoja de trabajo.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Aproveche el poder de Pivot Tables &amp; Rangos
+ Aproveche el poder de las tablas dinámicas y las tablas dinámicas. Rangos
     </h2>
     <p>
- Aspose.Cells Cloud SDK para Ruby le permite agregar una tabla dinámica en la hoja de trabajo, agregar o eliminar campos dinámicos en la tabla dinámica, agregar o eliminar el filtro dinámico para el índice de la tabla dinámica, actualizar el estilo de celda para la tabla dinámica y calcular los datos de la tabla dinámica en las celdas.
+ Aspose.Cells Cloud SDK para Ruby le permite agregar una tabla dinámica en la hoja de trabajo, agregar o eliminar campos dinámicos en la tabla dinámica, agregar o eliminar un filtro dinámico para el índice de la tabla dinámica, actualizar el estilo de celda de la tabla dinámica y calcular los datos de la tabla dinámica en celdas.
     </p>
     <p>
-Aspose.Cells Cloud SDK for Ruby también se puede usar para obtener una lista de celdas en un rango por nombre de rango o índices de columna de fila, establecer el ancho de columna del rango, combinar un rango de celdas en una sola celda, mover el rango actual al rango de destino, conjuntos delinee el borde alrededor de un rango de celdas, establezca la altura de la fila del rango, establezca el estilo del rango, deshaga las celdas combinadas de este rango, coloque un valor en el rango y convierta su tipo de datos, y copie el rango en la hoja de cálculo.
+Aspose.Cells Cloud SDK para Ruby también se puede usar para obtener una lista de celdas en un rango por nombre de rango o índices de columna de fila, establecer el ancho de columna del rango, combinar un rango de celdas en una sola celda, mover el rango actual al rango de destino, establecer delinear el borde alrededor de un rango de celdas, establecer la altura de la fila del rango, establecer el estilo del rango, separar las celdas fusionadas de este rango, colocar un valor en el rango y convertir su tipo de datos, y copiar el rango en la hoja de trabajo.
     </p>
    </div>
   </div>

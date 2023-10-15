@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP in TSV Converti API per NodeJS
-description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato BMP in un file in formato TSV.
-url: /it/nodejs/conversion/bmp-to-tsv/
+title:  Converti BMP in TSV utilizzando NodeJS
+description:  Utilizzando Aspose.Cells Cloud SDK per NodeJS per convertire un file in formato BMP in un file in formato TSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per convertire BMP in TSV" h2="Libreria NodeJS per convertire BMP in TSV" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in NodeJS. Questa è una soluzione professionale per convertire BMP in TSV e altri formati di documenti online utilizzando NodeJS." urlsection="conversion/bmp-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti BMP in TSV" h2="Libreria NodeJS per convertire BMP in TSV" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo nei progetti NodeJS. Questa è una soluzione professionale per convertire BMP in TSV e altri formati di documenti online utilizzando NodeJS." urlsection="conversion/bmp-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file BMP in TSV in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti BMP in TSV utilizzando Cells Cloud SDK per NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da BMP a TSV è un'attività complessa. Tutte le transizioni dal formato BMP al formato TSV vengono eseguite dal nostro NodeJS SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo BMP. La nostra libreria NodeJS è una soluzione professionale per convertire BMP in file TSV online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output TSV perfetto.
+La conversione dei formati di file da BMP a TSV può essere un compito complesso. Il nostro SDK NodeJS gestisce tutte le conversioni del formato BMP in TSV preservando il contenuto strutturale e logico principale del foglio di calcolo sorgente BMP. La nostra libreria NodeJS fornisce una soluzione professionale per convertire BMP in file TSV online. Questo Cloud SDK offre agli sviluppatori NodeJS funzionalità potenti e garantisce output TSV di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per convertire BMP nel formato TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice NodeJS per convertire BMP in TSV utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ La conversione dei formati di file da BMP a TSV è un'attività complessa. Tutte
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare il nodo API per convertire BMP in TSV" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Node per convertire i file Excel in altri formati BMP in TSV" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `putConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ BMP بصيغة GIF API مقابل PHP
+title:  احفظ BMP بصيغة GIF باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق BMP كملف بتنسيق GIF.
-url: /ar/php/saveas/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ BMP بصيغة GIF" h2="مكتبة PHP لحفظ BMP بصيغة GIF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ BMP بتنسيق GIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/bmp-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ BMP بصيغة GIF" h2="مكتبة PHP لحفظ BMP بصيغة GIF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في PHP. يعد هذا حلاً احترافيًا لحفظ BMP بتنسيق GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/bmp-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP كملف GIF في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP بصيغة GIF في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من BMP كـ GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى GIF بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات BMP المصدر. مكتبتنا PHP هي حل احترافي لحفظ BMP كملفات GIF عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج GIF مثالي.
+يعد حفظ تنسيقات الملفات من BMP بصيغة GIF مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق BMP إلى GIF بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP. تعد مكتبتنا PHP حلاً احترافيًا لحفظ BMP كملفات GIF عبر الإنترنت. يوفر Cloud SDK هذا لمطوري PHP وظائف قوية ومخرجات GIF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ BMP بتنسيق GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على حفظ BMP بصيغة GIF باستخدام REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ar/php/saveas/bmp-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لحفظ BMP بصيغة GIF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لحفظ Excel ملف بتنسيقات أخرى BMP كـ GIF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

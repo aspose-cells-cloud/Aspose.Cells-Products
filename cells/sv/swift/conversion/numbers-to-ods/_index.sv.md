@@ -1,5 +1,5 @@
 ﻿---
-title:  NUMBERS till ODS Konvertera API för Swift
+title: NUMBERS till ODS Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera NUMBERS-formatfil till ODS-formatfil.
 url: /sv/swift/conversion/numbers-to-ods/
 ---

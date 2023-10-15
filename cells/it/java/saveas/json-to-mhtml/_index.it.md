@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva JSON come MHTML API for Java
-description:  Utilizzo di Aspose.Cells Cloud SDK for Java per salvare il file in formato JSON come file in formato MHTML.
-url: /it/java/saveas/json-to-mhtml/
+title:  Salva JSON come MHTML utilizzando Java
+description:  Utilizzando Aspose.Cells Cloud SDK for Java per salvare il file in formato JSON come file in formato MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per salvare JSON come MHTML" h2="Java libreria per salvare JSON come MHTML" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Java. Questa è una soluzione professionale per salvare JSON come MHTML e altri formati di documenti online utilizzando Java." urlsection="saveas/json-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva JSON come MHTML" h2="Libreria Java per il salvataggio di JSON come MHTML" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Java. Si tratta di una soluzione professionale per salvare JSON come MHTML e altri formati di documenti online utilizzando Java." urlsection="saveas/json-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file JSON come MHTML in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da JSON come MHTML è un'attività complessa. Tutte le transizioni dal formato JSON a MHTML vengono eseguite dal nostro SDK Java mantenendo il contenuto strutturale e logico principale del foglio di calcolo JSON di origine. La nostra libreria Java è una soluzione professionale per salvare JSON come file MHTML online. Questo Cloud SDK offre agli sviluppatori Java potenti funzionalità e un output MHTML perfetto.
+Salvare i formati di file da JSON come MHTML è un compito complesso. Tutte le transizioni dal formato JSON al formato MHTML vengono eseguite dal nostro SDK Java mantenendo il contenuto strutturale e logico principale del foglio di calcolo JSON di origine. La nostra libreria Java è una soluzione professionale per salvare JSON come file MHTML online. Questo Cloud SDK offre agli sviluppatori Java funzionalità potenti e un output MHTML perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Java utilizzando REST API per salvare JSON come formato MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Esempio di codice per salvare JSON come MHTML utilizzando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ Il salvataggio dei formati di file da JSON come MHTML è un'attività complessa.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Java API per salvare JSON come MHTML" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Java per salvare i file Excel in altri formati JSON come MHTML" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Maven 2.2.0 o più recente</li>
-<li>Java(TM) SE Ambiente di runtime</li>
+<li>Maven 2.2.0 o successiva</li>
+<li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

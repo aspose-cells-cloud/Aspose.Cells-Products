@@ -1,19 +1,18 @@
 ﻿---
-title: احفظ ODS بصيغة CSV API لـ NodeJS
+title:  احفظ ODS كملف CSV باستخدام NodeJS
 description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق ODS كملف بتنسيق CSV.
-url: /ar/nodejs/saveas/ods-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لحفظ ODS كملف CSV" h2="مكتبة NodeJS لحفظ ODS كملف CSV" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في NodeJS. هذا حل احترافي لحفظ ODS كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/ods-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ المواد المستنفدة للأوزون كملف CSV" h2="مكتبة NodeJS لحفظ المواد المستنفدة للأوزون بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في NodeJS. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/ods-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كملف CSV في NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بتنسيق CSV في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من نظام الوثائق الرسمية كمهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى CSV بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ ODS كملفات CSV عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج CSV مثالي.
+يعد حفظ تنسيقات الملفات من ODS بتنسيق CSV مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق ODS إلى CSV بواسطة NodeJS SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري NodeJS وظائف قوية ومخرجات CSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ ODS بتنسيق CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز NodeJS لحفظ المواد المستنفدة للأوزون كملف CSV باستخدام REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ url: /ar/nodejs/saveas/ods-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام العقدة API لحفظ ODS كملف CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لحفظ ملفات Excel بتنسيقات أخرى ODS مثل CSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>العقدة v6.17.1 أو أحدث</li>
+<li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

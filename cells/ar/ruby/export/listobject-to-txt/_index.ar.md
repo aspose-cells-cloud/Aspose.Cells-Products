@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير LISTOBJECT إلى TXT من جدول البيانات باستخدام Ruby API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/ruby/export/listobject-to-txt/
+title:  تصدير LISTOBJECT إلى TXT من Excel باستخدام Cells Cloud SDK لـ Ruby
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لتصدير LISTOBJECT إلى ملف TXT" h2="مكتبة روبي لتصدير LISTOBJECT إلى ملف TXT" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Ruby. هذا حل احترافي لتصدير LISTOBJECT إلى ملف بتنسيق TXT من جدول بيانات عبر الإنترنت باستخدام Ruby." urlsection="export/listobject-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير LISTOBJECT إلى TXT من Excel" h2="مكتبة روبي لتصدير LISTOBJECT إلى ملف TXT" p="استخدم تصدير API من Cells Cloud لتصدير Excel سير عمل الكائن الداخلي في Ruby. يعد هذا حلاً احترافيًا لتصدير ملف بتنسيق LISTOBJECT إلى TXT من جدول البيانات عبر الإنترنت باستخدام Ruby." urlsection="export/listobject-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتصدير كائن LISTOBJECT إلى ملف بتنسيق TXT في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن LISTOBJECT إلى ملف بتنسيق TXT باستخدام Cells Cloud SDK لـ Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن LISTOBJECT إلى ملف TXT من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير LISTOBJECT إلى تنسيق TXT بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق TXT عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج TXT مثالي.
+يعد تصدير كائن LISTOBJECT إلى ملف TXT من ملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير تنسيق LISTOBJECT إلى تنسيق TXT بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق TXT عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج TXT مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتصدير LISTOBJECT إلى تنسيق TXT من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في روبي باستخدام REST API لتصدير LISTOBJECT إلى تنسيق TXT من جدول البيانات" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +34,10 @@ url: /ar/ruby/export/listobject-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتصدير LISTOBJECT إلى TXT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لروبي لتصدير الكائنات من Excel LISTOBJECT إلى TXT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

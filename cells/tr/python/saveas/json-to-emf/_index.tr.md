@@ -1,19 +1,18 @@
 ﻿---
-title:  JSON'u Python için EMF API olarak kaydedin
-description:  JSON biçim dosyasını EMF biçim dosyası olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/python/saveas/json-to-emf/
+title:  Python'i kullanarak JSON'u EMF olarak kaydedin
+description:  JSON formatındaki dosyayı EMF formatındaki dosya olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="JSON\'u EMF olarak kaydetmek için Python API" h2="JSON\'u EMF olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, JSON\'u EMF olarak ve diğer belge biçimlerini çevrimiçi olarak Python kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/json-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JSON\'u EMF olarak kaydedin" h2="JSON\'u EMF olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulut\'un API\'ini Kaydet\'i kullanın. Bu, Python\'i kullanarak JSON\'u EMF olarak ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/json-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını Python\'de EMF olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını Python\'e EMF olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-JSON'dan dosya biçimlerini EMF olarak kaydetmek karmaşık bir iştir. Tüm JSON - EMF biçim geçişleri, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, JSON'u çevrimiçi olarak EMF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel EMF çıkışı sağlar.
+Dosya formatlarını JSON'dan EMF olarak kaydetmek karmaşık bir iştir. Tüm JSON'dan EMF'e format geçişleri, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, JSON'u çevrimiçi olarak EMF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel EMF çıktı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="JSON\'u EMF biçiminde kaydetmek için REST API kullanan Python\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python JSON\'u REST API kullanarak EMF olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ JSON'dan dosya biçimlerini EMF olarak kaydetmek karmaşık bir iştir. Tüm JSO
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="JSON\'u EMF olarak kaydetmek için Python API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Çağrı hücreleri_kaydetmek_gibi_postalamak_belge_kaydetmek_sonuçtaki akışı alma yöntemi olarak</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer JSON formatlarında EMF olarak kaydetmek için Python için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

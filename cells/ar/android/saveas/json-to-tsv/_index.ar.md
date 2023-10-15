@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ JSON باسم TSV API لنظام Android
-description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق JSON كملف بتنسيق TSV.
-url: /ar/android/saveas/json-to-tsv/
+title:  احفظ JSON بتنسيق TSV باستخدام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق JSON كملف بتنسيق TSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JSON كـ TSV" h2="مكتبة Android لحفظ JSON كـ TSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ JSON بتنسيق TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/json-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ JSON بتنسيق TSV" h2="مكتبة Android لحفظ JSON كـ TSV" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ JSON بتنسيق TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/json-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON بتنسيق TSV في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JSON مثل TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى TSV بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. مكتبة Android الخاصة بنا هي حل احترافي لحفظ JSON كملفات TSV عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج TSV مثالي.
+يعد حفظ تنسيقات الملفات من JSON بتنسيق TSV مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق JSON إلى TSV بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ JSON كملفات TSV عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات TSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ JSON بتنسيق TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود Android لحفظ JSON كـ TSV باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ url: /ar/android/saveas/json-to-tsv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ JSON بتنسيق TSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى JSON مثل TSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

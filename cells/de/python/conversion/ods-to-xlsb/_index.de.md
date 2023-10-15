@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS in XLSB Konvertieren Sie API in Python
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im ODS-Format in eine Datei im XLSB-Format.
-url: /de/python/conversion/ods-to-xlsb/
+title:  Konvertieren Sie ODS mit Python in XLSB
+description: Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer ODS-Formatdatei in eine XLSB-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von ODS in XLSB" h2="Python-Bibliothek zum Konvertieren von ODS in XLSB" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in XLSB und andere Dokumentformate mit Python." urlsection="conversion/ods-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie ODS in XLSB" h2="Python Bibliothek zur Konvertierung von ODS in XLSB" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in XLSB und andere Dokumentformate unter Python." urlsection="conversion/ods-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine ODS-Datei in XLSB in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie ODS in XLSB mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS nach XLSB ist eine komplexe Aufgabe. Alle Übergänge vom ODS- zum XLSB-Format werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von ODS- in XLSB-Dateien. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in XLSB kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle Konvertierungen von ODS in das XLSB-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-ODS-Tabelle bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS- in XLSB-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSB-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von ODS in das XLSB-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel für die Konvertierung von ODS in XLSB mit Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Das Konvertieren von Dateiformaten von ODS nach XLSB ist eine komplexe Aufgabe. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um ODS in XLSB zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Python, um Excel-Dateien in andere Formate, ODS in XLSB, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

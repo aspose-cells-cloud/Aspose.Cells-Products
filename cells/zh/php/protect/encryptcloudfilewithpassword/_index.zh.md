@@ -1,7 +1,6 @@
 ﻿---
 title: 在云中使用密码加密云电子表格
 description: 用于保护的云 API 和 SDK Microsoft Excel 和 OpenOffice Calc。通过Cells云API对云电子表格进行密码加密。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/php/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 用于保护云 Microsoft Excel 和带有密码的 OpenOffice Calc 电子表格" h2="PHP 库，用于保护云 Microsoft Excel 和带密码的 OpenOffice Calc 电子表格" p="使用 Cells 保护 REST API 来保护云 Microsoft Excel 和 OpenOffice Calc 电子表格（使用 PHP 中的密码工作流程）。此专业解决方案使用 PHP 保护云 Microsoft Excel 和在线 OpenOffice Calc 电子表格（使用密码）。" urlsection="protect/Encrypt-cloud-file-with-password/" >}}
@@ -18,9 +17,9 @@ url: /zh/php/protect/encrypt-cloud-file-with-password/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用PHP API进行加密" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用PHP云SDK加密Excel文件" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 cellsWorkbookPostEncryptDocument 方法以获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

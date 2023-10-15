@@ -1,19 +1,18 @@
 ﻿---
-title:  LISTOBJECT'i Ruby API kullanarak e-tablodan XPS'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/ruby/export/listobject-to-xps/
+title:  Ruby için Cells Cloud SDK'yı kullanarak LISTOBJECT'i Excel'den XPS'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i XPS dosyasına dışa aktarmak için Ruby API" h2="LISTOBJECT\'i XPS dosyasına dışa aktarmak için Ruby kitaplığı" p="Ruby\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, LISTOBJECT\'i Ruby kullanarak elektronik tablodan XPS biçimindeki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i Excel\'den XPS\'e aktar" h2="LISTOBJECT\'i XPS dosyasına aktarmak için Ruby kütüphanesi" p="Ruby\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Cloud\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Ruby kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i XPS formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Ruby\'de XPS biçim dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Ruby için Cells Cloud SDK\'yı kullanarak LISTOBJECT nesnesini XPS biçimindeki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini e-tablodan XPS dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i XPS biçimine dışa aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak XPS biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XPS çıkışı sağlar.
+LISTOBJECT nesnesini Excel dosyasından XPS dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i XPS'e aktarma format geçişleri Ruby SDK'mız tarafından gerçekleştirilir ve kaynak LISTOBJECT elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Ruby kütüphanemiz, LISTOBJECT nesnelerini çevrimiçi olarak XPS formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XPS çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan XPS biçimine dışa aktarmak için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan XPS formatına aktarmak için REST API\'i kullanan Ruby\'deki kod örneği" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,15 +34,15 @@ LISTOBJECT nesnesini e-tablodan XPS dosyasına dışa aktarma karmaşık bir gö
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="LISTOBJECT\'i XPS\'e dışa aktarmak için Ruby API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel LISTOBJECT\'ten XPS\'e nesneleri dışa aktarmak için Ruby için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için post_export yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
-<li>Yakut 2.5 veya daha yenisi</li>
+<li>yakut 2.5 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

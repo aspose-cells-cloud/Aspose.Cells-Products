@@ -1,19 +1,19 @@
 ﻿---
-title:  Сохранить НОМЕРА как XLT API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата NUMBERS в виде файла формата XLT.
+title:  Сохранить ЧИСЛА как XLT API для Swift
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата NUMBERS в формате XLT.
 url: /ru/swift/saveas/numbers-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить NUMBERS как XLT" h2="Библиотека Swift для сохранения NUMBERS как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения NUMBERS в формате XLT и других форматах документов в Интернете с использованием Swift." urlsection="saveas/numbers-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить ЧИСЛА как XLT" h2="Библиотека Swift для сохранения ЧИСЕЛ как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения ЧИСЕЛ в формате XLT и других форматов документов онлайн с помощью Swift." urlsection="saveas/numbers-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как XLT в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде XLT — сложная задача. Все переходы формата NUMBERS в формат XLT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения NUMBERS в виде файлов XLT онлайн. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод XLT.
+Сохранение форматов файлов из NUMBERS в формате XLT — сложная задача. Все переходы формата NUMBERS в XLT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов XLT онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XLT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения NUMBERS в формате XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения ЧИСЕЛ в формате XLT" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,10 +54,10 @@ url: /ru/swift/saveas/numbers-to-xlt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения NUMBERS как XLT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения ЧИСЕЛ в формате XLT" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSB in FODS Konvertieren Sie API für Swift
+title: XLSB in FODS Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSB-Format in eine Datei im FODS-Format.
 url: /de/swift/conversion/xlsb-to-fods/
 ---

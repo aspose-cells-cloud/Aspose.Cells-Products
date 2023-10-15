@@ -1,19 +1,19 @@
 ﻿---
 title:  Swift için TSV'yi TIFF API olarak kaydedin
-description:  TSV biçim dosyasını TIFF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
+description:  TSV formatındaki dosyayı TIFF formatındaki dosya olarak kaydetmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/saveas/tsv-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV\'yi TIFF olarak kaydetmek için Swift API" h2="TSV\'yi TIFF olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift kullanarak TSV\'yi TIFF olarak ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/tsv-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV\'yi TIFF olarak kaydetmek için Swift API" h2="TSV\'yi TIFF olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, TSV\'yi TIFF olarak ve diğer belge formatlarını Swift kullanarak çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/tsv-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TSV dosyasını Swift\'de TIFF olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını TSV'den TIFF olarak kaydetmek karmaşık bir iştir. TSV'den TIFF'e tüm biçim geçişleri, kaynak TSV e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, TSV'yi çevrimiçi olarak TIFF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
+Dosya formatlarını TSV'den TIFF olarak kaydetmek karmaşık bir iştir. TSV'den TIFF'e tüm format geçişleri Swift SDK'mız tarafından gerçekleştirilir ve kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, TSV'yi çevrimiçi olarak TIFF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="TSV\'yi TIFF formatı olarak kaydetmek için REST API kullanan Swift\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="TSV\'yi TIFF biçiminde kaydetmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,15 +55,15 @@ Dosya formatlarını TSV'den TIFF olarak kaydetmek karmaşık bir iştir. TSV'de
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="TSV\'yi TIFF olarak kaydetmek için Swift API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
+<li>Ortaya çıkan akışı almak için CellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>macOS Monterey 12.4</li>
-<li>hızlı 4.2</li>
+<li>Hızlı 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

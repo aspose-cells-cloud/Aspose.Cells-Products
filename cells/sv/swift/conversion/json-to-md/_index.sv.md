@@ -1,5 +1,5 @@
 ﻿---
-title:  JSON till MD Konvertera API för Swift
+title: JSON till MD Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i JSON-format till fil i MD-format.
 url: /sv/swift/conversion/json-to-md/
 ---

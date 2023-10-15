@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML in DIF Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im HTML-Format in eine DIF-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im HTML-Format in eine DIF-Formatdatei.
 url: /de/swift/conversion/html-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

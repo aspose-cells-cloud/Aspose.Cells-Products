@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XLSB sous SQL API pour C#
+title:  Enregistrez XLSB au format SQL en utilisant C#
 description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XLSB en tant que fichier au format SQL.
-url: /fr/net/saveas/xlsb-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer XLSB en SQL" h2="C# bibliothèque pour enregistrer XLSB en SQL" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB au format SQL et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/xlsb-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLSB au format SQL" h2="Bibliothèque C# pour enregistrer XLSB au format SQL" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB au format SQL et d\'autres formats de documents en ligne en utilisant le C#." urlsection="saveas/xlsb-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSB en tant que SQL dans C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSB au format SQL dans C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSB en tant que SQL est une tâche complexe. Toutes les transitions de format XLSB vers SQL sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque C# est une solution professionnelle pour enregistrer en ligne des fichiers XLSB sous forme de fichiers SQL. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie SQL parfaite.
+Enregistrer les formats de fichiers XLSB au format SQL est une tâche complexe. Toutes les transitions du format XLSB vers SQL sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque C# est une solution professionnelle pour enregistrer XLSB sous forme de fichiers SQL en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie SQL parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans C# utilisant REST API pour enregistrer XLSB au format SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Exemple de code pour enregistrer XLSB au format SQL à l\'aide de REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ L'enregistrement de formats de fichiers à partir de XLSB en tant que SQL est un
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser C# API pour enregistrer XLSB en SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Net pour enregistrer les fichiers Excel sous d\'autres formats XLSB comme SQL" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>NET Framework 4.5.2 ou plus récent</li>
-<li>Net Standard 2.0 ou plus récent</li>
+<li>NET Framework 4.5.2 ou version ultérieure</li>
+<li>Net Standard 2.0 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie die Nummern als HTML API für Python
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im NUMBERS-Format als Datei im Format HTML zu speichern.
-url: /de/python/saveas/numbers-to-html/
+title:  Speichern Sie NUMBERS als HTML unter Verwendung von Python
+description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern der Datei im NUMBERS-Format als Datei im Format HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um NUMMERN als HTML zu speichern" h2="Python-Bibliothek, um NUMBERS als HTML zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als HTML und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/numbers-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie die Nummern unter HTML" h2="Python-Bibliothek zum Speichern von ZAHLEN als HTML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als HTML und andere Dokumentformate online unter Python zu speichern." urlsection="saveas/numbers-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei unter HTML in Python" >}}
@@ -13,7 +12,7 @@ url: /de/python/saveas/numbers-to-html/
 Das Speichern von Dateiformaten von NUMBERS als HTML ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu HTML werden von unserem Python SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um NUMBERS als HTML-Dateien online zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte HTML Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Speichern von ZAHLEN im HTML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel zum Speichern von ZAHLEN als HTML unter Verwendung von REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Das Speichern von Dateiformaten von NUMBERS als HTML ist eine komplexe Aufgabe. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um ZAHLEN als HTML zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Excel-Dateien in anderen Formaten zu speichern. ZAHLEN wie HTML" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

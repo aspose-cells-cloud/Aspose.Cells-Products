@@ -1,19 +1,18 @@
 ﻿---
-title:  تصدير WORKSHEET إلى PPTX من جدول البيانات باستخدام Go API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/go/export/worksheet-to-pptx/
+title:  تصدير ورقة عمل إلى PPTX من Excel باستخدام Cells Cloud SDK for Go
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لتصدير WORKSHEET إلى ملف PPTX" h2="انتقل إلى المكتبة لتصدير WORKSHEET إلى ملف PPTX" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Go. هذا حل احترافي لتصدير WORKSHEET إلى ملف بتنسيق PPTX من جدول بيانات عبر الإنترنت باستخدام Go." urlsection="export/worksheet-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير ورقة العمل إلى PPTX من Excel" h2="انتقل إلى المكتبة لتصدير ورقة العمل إلى ملف PPTX" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Go. يعد هذا حلاً احترافيًا لتصدير ورقة العمل إلى ملف بتنسيق PPTX من جدول البيانات عبر الإنترنت باستخدام Go." urlsection="export/worksheet-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق PPTX في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن ورقة العمل إلى ملف بتنسيق PPTX باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف PPTX من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير WORKSHEET إلى تنسيق PPTX بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج PPTX مثالي.
+يعد تصدير كائن ورقة العمل إلى ملف PPTX من الملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير ورقة العمل إلى تنسيق PPTX بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Go وظائف قوية ومخرجات PPTX مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتصدير WORKSHEET إلى تنسيق PPTX من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Go باستخدام REST API لتصدير ورقة عمل إلى تنسيق PPTX من جدول البيانات" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -56,15 +55,15 @@ url: /ar/go/export/worksheet-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتصدير WORKSHEET إلى PPTX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة PostExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتصدير الكائنات من ورقة عمل Excel إلى PPTX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLTM als ODS API für NodeJS
-description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die XLTM-Formatdatei als ODS-Formatdatei zu speichern.
-url: /de/nodejs/saveas/xltm-to-ods/
+title:  Speichern Sie XLTM als ODS mit NodeJS
+description:  Verwendung von Aspose.Cells Cloud SDK für NodeJS zum Speichern von XLTM-Formatdateien als ODS-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von XLTM als ODS" h2="NodeJS-Bibliothek zum Speichern von XLTM als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um XLTM als ODS und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/xltm-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTM als ODS speichern" h2="NodeJS-Bibliothek zum Speichern von XLTM als ODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um XLTM als ODS und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/xltm-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTM-Datei als ODS in NodeJS" >}}
@@ -13,7 +12,7 @@ url: /de/nodejs/saveas/xltm-to-ods/
 Das Speichern von Dateiformaten aus XLTM als ODS ist eine komplexe Aufgabe. Alle XLTM-zu-ODS-Formatübergänge werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um XLTM als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von XLTM als ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel zum Speichern von XLTM als ODS mit REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten aus XLTM als ODS ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um XLTM als ODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in anderen Formaten, XLTM und ODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

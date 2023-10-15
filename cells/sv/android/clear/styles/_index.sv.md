@@ -1,10 +1,9 @@
 ﻿---
 title:  Tydliga stilar på den lokala arbetsboken i Cloud
 description: " Cloud API:er och SDK:er för att rensa stilar på Microsoft Excel & OpenOffice Calc. Rensa stilar på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/android/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa stilar på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Android. Denna professionella lösning tydliggör stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort stilar på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Android Rensa för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa stilar på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Android. Denna professionella lösning tydliggör stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Android REST API" >}}
@@ -18,9 +17,9 @@ Rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är en ko
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Java API för att rensa stilar" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att rensa stilar" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop postClearObjects-metoden för att få den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните JSON как XLSM API для PHP.
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата JSON в виде файла формата XLSM.
-url: /ru/php/saveas/json-to-xlsm/
+title:  Сохраните JSON как XLSM, используя PHP.
+description:  Использование Cloud SDK Aspose.Cells для PHP для сохранения файла формата JSON как файла формата XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить JSON как XLSM" h2="PHP библиотека для сохранения JSON как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения JSON в виде XLSM и других форматов документов в Интернете с использованием PHP." urlsection="saveas/json-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить JSON как XLSM" h2="PHP библиотека для сохранения JSON в формате XLSM" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения JSON как XLSM и других форматов документов в Интернете с помощью PHP." urlsection="saveas/json-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как XLSM в PHP." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как XLSM по номеру PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде XLSM — сложная задача. Все переходы между форматами JSON и XLSM выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека PHP — это профессиональное решение для сохранения JSON в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и отличный результат XLSM.
+Сохранение форматов файлов из JSON в формате XLSM — сложная задача. Все переходы формата JSON в XLSM выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека PHP — это профессиональное решение для сохранения файлов JSON в формате XLSM онлайн. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения JSON в формате XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения JSON как XLSM с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/json-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения JSON как XLSM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP, чтобы сохранять файлы Excel в других форматах JSON и XLSM." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

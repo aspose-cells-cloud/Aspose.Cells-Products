@@ -1,16 +1,15 @@
 ﻿---
-title:  Экспортируйте CHART в GIF из электронной таблицы, используя Perl API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/perl/export/chart-to-gif/
+title: Экспортируйте CHART в GIF из Excel с помощью Cloud SDK Cells для Perl.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для экспорта CHART в файл GIF" h2="Perl библиотека для экспорта CHART в файл GIF" p="Используйте Cells Экспорт REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Perl. Это профессиональное решение для экспорта файла формата CHART в GIF из электронной таблицы онлайн с использованием Perl." urlsection="export/chart-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать CHART в GIF из Excel" h2="Perl библиотека для экспорта CHART в файл GIF" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Perl. Это профессиональное решение для экспорта CHART в файл формата GIF из электронной таблицы онлайн с помощью Perl." urlsection="export/chart-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта CHART в файл формата GIF в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект CHART в файл формата GIF с помощью Cells Cloud SDK для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта CHART в файл GIF из электронной таблицы является сложной задачей. Экспорт переходов CHART в формат GIF выполняется нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы CHART. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата GIF. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод GIF.
+Экспорт объекта CHART в файл GIF из файла Excel — сложная задача. Экспорт переходов формата CHART в GIF выполняется нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы CHART. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата GIF. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для экспорта CHART в формат GIF из электронной таблицы" gistPath="" %}}
@@ -37,10 +36,10 @@ url: /ru/perl/export/chart-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для экспорта ДИАГРАММЫ в GIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод post_export, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Perl для экспорта объектов из Excel CHART в GIF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод post_export, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

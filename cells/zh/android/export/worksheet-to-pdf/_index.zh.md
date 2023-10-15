@@ -1,16 +1,15 @@
 ﻿---
-title: 使用 Android API 将电子表格中的 WORKSHEET 导出到 PDF
+title: 使用适用于 Android 的 Cells Cloud SDK 将工作表从 Excel 导出到 PDF
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
-url: /zh/android/export/worksheet-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将WORKSHEET导出到PDF文件" h2="Android库将WORKSHEET导出到PDF文件" p="使用 Cells Export REST API 在 Android 中导出电子表格内部对象工作流程。这是使用 Android 在线电子表格将 WORKSHEET 导出为 PDF 格式文件的专业解决方案。" urlsection="export/worksheet-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将工作表从 Excel 导出到 PDF" h2="用于将 WORKSHEET 导出到 PDF 文件的 Android 库" p="使用Cells Cloud的Export API导出Android中的Excel文件内部对象工作流程。这是使用 Android 在线电子表格将 WORKSHEET 导出为 PDF 格式文件的专业解决方案。" urlsection="export/worksheet-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在Android中将WORKSHEET对象导出为PDF格式文件" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Android 将 WORKSHEET 对象导出为 PDF 格式文件" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-将 WORKSHEET 对象从电子表格导出到 PDF 文件是一项复杂的任务。将 WORKSHEET 导出为 PDF 格式转换由我们的 Android SDK 执行，同时保留源 WORKSHEET 电子表格的主要结构和逻辑内容。我们的 Android 库是在线将 WORKSHEET 对象导出为 PDF 格式文件的专业解决方案。此Cloud SDK为Android开发者提供了强大的功能和完美的PDF输出。
+将 WORKSHEET 对象从 Excel 文件导出到 PDF 文件是一项复杂的任务。将 WORKSHEET 导出为 PDF 格式转换由我们的 Android SDK 执行，同时保留源 WORKSHEET 电子表格的主要结构和逻辑内容。我们的 Android 库是在线将 WORKSHEET 对象导出为 PDF 格式文件的专业解决方案。此Cloud SDK为Android开发者提供了强大的功能和完美的PDF输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Android 中使用 REST API 将电子表格中的 WORKSHEET 导出为 PDF 格式的代码示例" gistPath="" %}}
@@ -51,10 +50,10 @@ url: /zh/android/export/worksheet-to-pdf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Java API 将 WORKSHEET 导出到 PDF" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 postExport 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Android将对象从Excel WORKSHEET导出到PDF" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `postExport` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

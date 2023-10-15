@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF 到 TIFF 转换 API Android 版
-description: 使用Aspose.Cells Cloud SDK for Android将EMF格式文件转换为TIFF格式文件。
-url: /zh/android/conversion/emf-to-tiff/
+title: 使用 Android 将 EMF 转换为 TIFF
+description: 利用Aspose.Cells Cloud SDK for Android将EMF格式文件转换为TIFF格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将 EMF 转换为 TIFF" h2="Android库将EMF转换为TIFF" p="使用 Cells Conversion REST API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将EMF转换为TIFF和其他文档格式的专业解决方案。" urlsection="conversion/emf-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 EMF 转换为 TIFF" h2="用于将 EMF 转换为 TIFF 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用Android在线将EMF转换为TIFF和其他文档格式的专业解决方案。" urlsection="conversion/emf-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在Android中将EMF文件转换为TIFF" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Android 将 EMF 转换为 TIFF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 EMF 转换为 TIFF 是一项复杂的任务。所有 EMF 到 TIFF 的格式转换均由我们的 Android SDK 执行，同时保留源 EMF 电子表格的主要结构和逻辑内容。我们的Android库是在线将EMF文件转换为TIFF文件的专业解决方案。此Cloud SDK为Android开发者提供了强大的功能和完美的TIFF输出。
+将文件格式从 EMF 转换为 TIFF 可能是一项复杂的任务。我们的 Android SDK 处理所有 EMF 到 TIFF 格式转换，同时保留源 EMF 电子表格的主要结构和逻辑内容。我们的Android库提供了在线将EMF文件转换为TIFF文件的专业解决方案。该Cloud SDK为Android开发者提供了强大的功能，并确保高质量的TIFF输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Android 中使用 REST API 将 EMF 转换为 TIFF 格式的代码示例" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="使用 Cells Cloud SDK 将 EMF 转换为 TIFF 的 Android 代码示例" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ url: /zh/android/conversion/emf-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Java API 将 EMF 转换为 TIFF" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 cellsWorkbookPutConvertWorkbook 方法来获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Android将Excel文件转换为其他格式EMF到TIFF" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `putConvertWorkbook` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

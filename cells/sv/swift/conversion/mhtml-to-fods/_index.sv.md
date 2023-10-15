@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML till FODS Konvertera API för Swift
+title: MHTML till FODS Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i MHTML-format till fil i FODS-format.
 url: /sv/swift/conversion/mhtml-to-fods/
 ---

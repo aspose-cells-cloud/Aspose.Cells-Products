@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV إلى DOCX تحويل API لـ NodeJS
-description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق TSV إلى ملف بتنسيق DOCX.
-url: /ar/nodejs/conversion/tsv-to-docx/
+title:  تحويل TSV إلى DOCX باستخدام NodeJS
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف بتنسيق TSV إلى ملف بتنسيق DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لتحويل TSV إلى DOCX" h2="مكتبة NodeJS لتحويل TSV إلى DOCX" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول البيانات المخصصة في NodeJS. هذا حل احترافي لتحويل TSV إلى DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="conversion/tsv-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل TSV إلى DOCX" h2="مكتبة NodeJS لتحويل TSV إلى DOCX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع NodeJS. يعد هذا حلاً احترافيًا لتحويل TSV إلى DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="conversion/tsv-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى DOCX في NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل TSV إلى DOCX باستخدام Cells Cloud SDK لـ NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TSV إلى DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى DOCX بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات TSV إلى DOCX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج DOCX مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من TSV إلى DOCX مهمة معقدة. يتعامل NodeJS SDK الخاص بنا مع جميع تحويلات تنسيق TSV إلى DOCX مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. توفر مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى DOCX عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري NodeJS بوظائف قوية ويضمن إخراج DOCX عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل TSV إلى تنسيق DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز NodeJS لتحويل TSV إلى DOCX باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,15 +34,15 @@ url: /ar/nodejs/conversion/tsv-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Node API لتحويل TSV إلى DOCX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لتحويل ملفات Excel إلى تنسيقات أخرى من TSV إلى DOCX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>العقدة v6.17.1 أو أحدث</li>
+<li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

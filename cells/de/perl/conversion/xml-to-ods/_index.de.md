@@ -1,19 +1,18 @@
 ﻿---
-title:  XML zu ODS Konvertieren Sie API in Perl
-description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren einer XML-Formatdatei in eine ODS-Formatdatei.
-url: /de/perl/conversion/xml-to-ods/
+title:  Konvertieren Sie XML mit Perl in ODS
+description:  Verwendung des Aspose.Cells Cloud SDK für Perl zum Konvertieren einer XML-Formatdatei in eine ODS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Konvertieren von XML in ODS" h2="Perl-Bibliothek zum Konvertieren von XML in ODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in ODS und andere Dokumentformate mit Perl." urlsection="conversion/xml-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XML in ODS" h2="Perl Bibliothek zur Konvertierung von XML in ODS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in ODS und andere Dokumentformate unter Perl." urlsection="conversion/xml-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XML-Datei in ODS in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XML in ODS mit dem Cloud SDK Cells für Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XML nach ODS ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum ODS-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML- in ODS-Dateien. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
+Das Konvertieren von Dateiformaten von XML nach ODS kann eine komplexe Aufgabe sein. Unser Perl SDK übernimmt alle Konvertierungen von XML in das ODS-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XML-Quelltabelle bei. Unsere Perl-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XML- in ODS-Dateien. Dieses Cloud SDK bietet Perl-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von XML in das ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel für die Konvertierung von XML in ODS mit Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Das Konvertieren von Dateiformaten von XML nach ODS ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API zum Konvertieren von XML in ODS" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das SDK Perl zum Konvertieren von XML in ODS" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

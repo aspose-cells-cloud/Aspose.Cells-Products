@@ -1,19 +1,18 @@
 ﻿---
-title:  Java API kullanarak ÇALIŞMA KİTABI'nı e-tablodan CSV'ye aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/java/export/workbook-to-csv/
+title:  Cells Cloud SDK for Java'i kullanarak ÇALIŞMA KİTABI'nı Excel'den CSV'ye aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABI\'nı CSV dosyasına aktarmak için Java API" h2="ÇALIŞMA KİTABI\'nı CSV dosyasına aktarmak için Java kitaplığı" p="Java\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, ÇALIŞMA KİTABI\'nı Java kullanarak çevrimiçi elektronik tablodan CSV biçiminde dışa aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABI\'nı Excel\'den CSV\'ye aktar" h2="ÇALIŞMA KİTABI\'nı CSV dosyasına aktarmak için Java kitaplığı" p="Java\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Java\'i kullanarak çevrimiçi tablodan ÇALIŞMA KİTABI\'nı CSV formatındaki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="ÇALIŞMA KİTABI nesnesini Java\'de CSV biçimindeki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Java\'i kullanarak ÇALIŞMA KİTABI nesnesini CSV formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-ÇALIŞMA KİTABI nesnesini e-tablodan CSV dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u CSV formatına aktarma geçişleri, kaynak WORKBOOK e-tablosunun ana yapısal ve mantıksal içeriğini korurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak CSV formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
+ÇALIŞMA KİTABI nesnesini Excel dosyasından CSV dosyasına aktarmak karmaşık bir iştir. ÇALIŞMA KİTABI'nı CSV'ye aktarma formatı geçişleri Java SDK'mız tarafından gerçekleştirilir ve kaynak ÇALIŞMA KİTABI e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, ÇALIŞMA KİTABI nesnelerini çevrimiçi olarak CSV formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK'sı, Java geliştiriciye güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan CSV formatına dışa aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan CSV formatına aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,10 +50,10 @@ url: /tr/java/export/workbook-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="ÇALIŞMA KİTABI\'nı CSV\'ye dışa aktarmak için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel WORKBOOK\'tan CSV\'ye aktarmak için Cells Cloud SDK for Java nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

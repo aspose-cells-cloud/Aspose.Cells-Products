@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS in SVG Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im ODS-Format in eine Datei im SVG-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer ODS-Formatdatei in eine Datei im SVG-Format.
 url: /de/swift/conversion/ods-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

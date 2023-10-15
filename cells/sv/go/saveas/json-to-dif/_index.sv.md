@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara JSON som DIF API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att spara JSON-formatfilen som DIF-formatfil.
-url: /sv/go/saveas/json-to-dif/
+title:  Spara JSON som DIF med Go
+description:  Använder Aspose.Cells Cloud SDK för Go för att spara JSON-formatfilen som DIF-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att spara JSON som DIF" h2="Gå till biblioteket för att spara JSON som DIF" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att spara JSON som DIF och andra dokumentformat online med Go." urlsection="saveas/json-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara JSON som DIF" h2="Gå till biblioteket för att spara JSON som DIF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att spara JSON som DIF och andra dokumentformat online med Go." urlsection="saveas/json-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en JSON-fil som DIF i Go" >}}
@@ -13,7 +12,7 @@ url: /sv/go/saveas/json-to-dif/
 Att spara filformat från JSON som DIF är en komplex uppgift. Alla JSON- till DIF-formatövergångar utförs av vår Go SDK samtidigt som käll-JSON-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att spara JSON som DIF-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att spara JSON som DIF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att spara JSON som DIF med REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Att spara filformat från JSON som DIF är en komplex uppgift. Alla JSON- till D
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att spara JSON som DIF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att spara Excel filer som andra format JSON som DIF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

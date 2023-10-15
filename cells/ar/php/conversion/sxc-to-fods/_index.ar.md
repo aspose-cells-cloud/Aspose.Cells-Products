@@ -1,19 +1,18 @@
 ﻿---
-title:  SXC إلى FODS - تحويل API إلى PHP
-description: استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق SXC إلى ملف بتنسيق FODS.
-url: /ar/php/conversion/sxc-to-fods/
+title:  تحويل SXC إلى FODS باستخدام PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق SXC إلى ملف تنسيق FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل SXC إلى FODS" h2="مكتبة PHP لتحويل SXC إلى FODS" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في PHP. هذا حل احترافي لتحويل SXC إلى FODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/sxc-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل SXC إلى FODS" h2="مكتبة PHP لتحويل SXC إلى FODS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل SXC إلى FODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/sxc-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى FODS في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل SXC إلى FODS باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من SXC إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى FODS بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل ملفات SXC إلى ملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج FODS مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من SXC إلى FODS مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق SXC إلى FODS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات SXC إلى FODS عبر الإنترنت. يعمل Cloud SDK هذا على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج FODS عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل SXC إلى تنسيق FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل SXC إلى FODS باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/sxc-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل SXC إلى FODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى من SXC إلى FODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

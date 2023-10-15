@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV'den XLTM'ye Dönüştürme API for Java
-description: CSV biçimli dosyayı XLTM biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
-url: /tr/java/conversion/csv-to-xltm/
+title:  Java'i kullanarak CSV'yi XLTM'ye dönüştürün
+description:  CSV formatındaki bir dosyayı XLTM formatındaki bir dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="CSV\'yi XLTM\'ye dönüştürmek için Java API" h2="CSV\'yi XLTM\'ye dönüştürmek için Java kitaplığı" p="Java\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Java\'i kullanarak CSV\'yi XLTM\'ye ve diğer belge formatlarını çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/csv-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="CSV\'yi XLTM\'ye dönüştür" h2="CSV\'yi XLTM\'ye dönüştürmek için Java kütüphane" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Java\'i kullanarak CSV\'yi XLTM\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/csv-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Java\'de bir CSV dosyasını XLTM\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Java\'i kullanarak CSV\'yi XLTM\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını CSV'den XLTM'ye dönüştürmek karmaşık bir iştir. Tüm CSV'den XLTM formatına geçişler, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, CSV'yi çevrimiçi olarak XLTM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
+Dosya formatlarını CSV'den XLTM'ye dönüştürmek karmaşık bir iş olabilir. Java SDK'mız, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm CSV'den XLTM formatına dönüşümleri gerçekleştirir. Java kitaplığımız, CSV'yi çevrimiçi olarak XLTM dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Java geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli XLTM çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="CSV\'yi XLTM formatına dönüştürmek için REST API kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Cells Bulut SDK\'yı kullanarak CSV\'yi XLTM\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Dosya formatlarını CSV'den XLTM'ye dönüştürmek karmaşık bir iştir. Tüm
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="CSV\'yi XLTM\'ye dönüştürmek için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını CSV\'den XLTM\'ye diğer formatlara dönüştürmek için Cells Cloud SDK for Java nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

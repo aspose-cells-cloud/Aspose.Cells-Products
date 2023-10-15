@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSX till HTML Konvertera API till Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLSX-format till fil i HTML-format.
-url: /sv/perl/conversion/xlsx-to-html/
+title:  Konvertera XLSX till HTML med Perl
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera en fil i XLSX-format till en fil i HTML-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att konvertera XLSX till HTML" h2="Perl bibliotek för att konvertera XLSX till HTML" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att konvertera XLSX till HTML och andra dokumentformat online med Perl." urlsection="conversion/xlsx-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLSX till HTML" h2="Perl bibliotek för att konvertera XLSX till HTML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl projekt. Detta är en professionell lösning för att konvertera XLSX till HTML och andra dokumentformat online med Perl." urlsection="conversion/xlsx-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLSX-fil till HTML i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLSX till HTML med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSX till HTML är en komplex uppgift. Alla formatövergångar från XLSX till HTML utförs av vår Perl SDK samtidigt som källbladets XLSX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att konvertera XLSX till HTML-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och perfekt HTML-utdata.
+Att konvertera filformat från XLSX till HTML kan vara en komplicerad uppgift. Vår Perl SDK hanterar alla XLSX- till HTML-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLSX-kalkylblad bevaras. Vårt Perl-bibliotek tillhandahåller en professionell lösning för att konvertera XLSX till HTML-filer online. Denna Cloud SDK ger Perl-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa HTML-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att konvertera XLSX till HTML-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kodexempel för att konvertera XLSX till HTML med Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Att konvertera filformat från XLSX till HTML är en komplex uppgift. Alla forma
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att konvertera XLSX till HTML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl SDK för att konvertera XLSX till HTML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP'den SQL'e Go için API'e Dönüştür
-description: Aspose.Cells Cloud SDK for Go kullanılarak BMP biçimindeki dosyayı SQL biçimindeki dosyaya dönüştürün.
-url: /tr/go/conversion/bmp-to-sql/
+title:  Go'yu kullanarak BMP'i SQL'e dönüştürün
+description:  BMP biçimindeki bir dosyayı SQL biçimindeki bir dosyaya dönüştürmek için Go için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i SQL\'e dönüştürmek için API\'e gidin" h2="BMP\'i SQL\'e dönüştürmek için kitaplığa gidin" p="Go\'da özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Go kullanarak BMP\'i SQL\'e ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i SQL\'e dönüştür" h2="BMP\'i SQL\'e dönüştürmek için kitaplığa gidin" p="Go projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Go\'yu kullanarak BMP\'i SQL\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını Go\'da SQL\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Go için Cells Cloud SDK\'yı kullanarak BMP\'i SQL\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını BMP'den SQL'e dönüştürmek karmaşık bir iştir. Tüm BMP'den SQL biçimine geçişler, kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, BMP'i çevrimiçi SQL dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
+Dosya formatlarını BMP'den SQL'e dönüştürmek karmaşık bir iş olabilir. Go SDK'mız, kaynak BMP elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm BMP'den SQL formatına dönüşümleri gerçekleştirir. Go kitaplığımız, BMP'i çevrimiçi olarak SQL dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli SQL çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="BMP\'i SQL formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="BMP\'i Cells Cloud SDK kullanarak SQL\'e dönüştürmek için Kod Örneğine Git" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ Dosya formatlarını BMP'den SQL'e dönüştürmek karmaşık bir iştir. Tüm B
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="BMP\'i SQL\'e dönüştürmek için Go API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için CellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara (BMP) SQL\'e dönüştürmek için Cells Cloud SDK for Go nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
-<li>sürüm go1.13.0 veya daha yenisine gidin</li>
+<li>go sürümü go1.13.0 veya daha yeni</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

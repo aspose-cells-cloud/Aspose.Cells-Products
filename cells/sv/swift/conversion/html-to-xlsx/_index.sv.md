@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till XLSX Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till XLSX format fil.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till XLSX format fil.
 url: /sv/swift/conversion/html-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

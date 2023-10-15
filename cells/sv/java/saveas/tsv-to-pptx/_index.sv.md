@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara TSV som PPTX API for Java
-description:  Använd Aspose.Cells Cloud SDK for Java för att spara TSV-formatfil som PPTX-formatfil.
-url: /sv/java/saveas/tsv-to-pptx/
+title:  Spara TSV som PPTX med Java
+description: Använder Aspose.Cells Cloud SDK for Java för att spara TSV-formatfil som PPTX-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att spara TSV som PPTX" h2="Java bibliotek för att spara TSV som PPTX" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara TSV som PPTX och andra dokumentformat online med Java." urlsection="saveas/tsv-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara TSV som PPTX" h2="Java bibliotek för att spara TSV som PPTX" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Java. Detta är en professionell lösning för att spara TSV som PPTX och andra dokumentformat online med Java." urlsection="saveas/tsv-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en TSV-fil som PPTX i Java" >}}
@@ -13,7 +12,7 @@ url: /sv/java/saveas/tsv-to-pptx/
 Att spara filformat från TSV som PPTX är en komplex uppgift. Alla TSV- till PPTX-formatövergångar utförs av vår Java SDK samtidigt som käll-TSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara TSV som PPTX-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt PPTX-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att spara TSV som PPTX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att spara TSV som PPTX med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Att spara filformat från TSV som PPTX är en komplex uppgift. Alla TSV- till PP
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara TSV som PPTX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att spara Excel filer som andra format TSV som PPTX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

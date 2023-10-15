@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB zu XLTM Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine XLTM-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine XLTM-Formatdatei.
 url: /de/swift/conversion/xlsb-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

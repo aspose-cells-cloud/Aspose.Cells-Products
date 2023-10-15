@@ -1,10 +1,9 @@
 ﻿---
-title: 将 XLTM 保存为 PNG API 用于 Go
-description: 使用Aspose.Cells Cloud SDK for Go将XLTM格式文件保存为PNG格式文件。
-url: /zh/go/saveas/xltm-to-png/
+title: 使用 Go 将 XLTM 保存为 PNG
+description: 利用Aspose.Cells Cloud SDK for Go将XLTM格式文件保存为PNG格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="转到API将XLTM另存为PNG" h2="去库将XLTM保存为PNG" p="使用 Cells SaveAs REST API 在 Go 中创建自定义电子表格工作流程。这是使用Go在线将XLTM保存为PNG等文档格式的专业解决方案。" urlsection="saveas/xltm-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将XLTM另存为PNG" h2="用于将 XLTM 保存为 PNG 的 Go 库" p="使用 Cells Cloud 的 SaveAs API 在 Go 中创建自定义电子表格工作流程。这是使用Go在线将XLTM保存为PNG等文档格式的专业解决方案。" urlsection="saveas/xltm-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 XLTM 文件保存为 PNG" >}}
@@ -13,7 +12,7 @@ url: /zh/go/saveas/xltm-to-png/
 将 XLTM 中的文件格式保存为 PNG 是一项复杂的任务。所有 XLTM 到 PNG 的格式转换均由我们的 Go SDK 执行，同时保留源 XLTM 电子表格的主要结构和逻辑内容。我们的Go库是在线将XLTM保存为PNG文件的专业解决方案。这个Cloud SDK为Go开发者提供了强大的功能和完美的PNG输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go 中使用 REST API 将 XLTM 保存为 PNG 格式的代码示例" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="使用 REST API 将 XLTM 保存为 PNG 的 Go 代码示例" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /zh/go/saveas/xltm-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Go API将XLTM另存为PNG" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 CellsSaveAsPostDocumentSaveAs 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Go将Excel文件保存为其他格式XLTM为PNG" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

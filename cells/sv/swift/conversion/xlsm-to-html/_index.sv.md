@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM till HTML Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLSM-format till fil i HTML-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLSM-format till fil i HTML-format.
 url: /sv/swift/conversion/xlsm-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

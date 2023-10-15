@@ -1,14 +1,13 @@
 ﻿---
-title:  Legen Sie den Hintergrund mit Go fest
-description: Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit Go. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/go/background/
+title:  Legen Sie mit Go einen Hintergrund für Excel-Dateien fest
+description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für Excel-Dateien mit Go und bietet SDKs für verschiedene Programmiersprachen.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Legen Sie den Hintergrund mit Go fest" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit Go. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Legen Sie mit Go einen Hintergrund für Excel-Dateien fest" h2="Aspose.Cells Cloud SDK unterstützt das Festlegen von Hintergründen in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für Excel-Dateien mit Go und bietet SDKs für verschiedene Programmiersprachen." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mithilfe von Go-Erweiterungslinks fest" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie mithilfe der Go-Erweiterungslinks einen Hintergrund für Excel-Dateien fest" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

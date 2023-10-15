@@ -1,5 +1,5 @@
 ﻿---
-title: BMP in GIF Konvertieren Sie API für Swift
+title:  BMP in GIF Konvertieren Sie API für Swift
 description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um eine Datei im BMP-Format in eine GIF-Formatdatei zu konvertieren.
 url: /de/swift/conversion/bmp-to-gif/
 ---

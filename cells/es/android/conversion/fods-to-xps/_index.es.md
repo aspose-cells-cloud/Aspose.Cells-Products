@@ -1,6 +1,6 @@
 ﻿---
 title:  Convierta FODS a XPS en Android
-description: Automatice las operaciones de manipulación de archivos Excel, como la creación, edición y conversión con la nube API y el SDK de Android de código abierto
+description: Automatice las operaciones de manipulación de archivos Excel, como la creación, edición y conversión con Cloud API y el SDK de Android de código abierto
 url: /es/android/conversion/fods-to-xps/
 family: cells
 platformtag: android
@@ -11,24 +11,24 @@ platform: Android
 otherformats: MD CSV TSV FODS PDF XLS XLSB XLSX SVG TXT DIF MHTML XPS XLTM XML XLTX 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta FODS a XPS en la nube" h2="Convierta Excel y hojas de cálculo de OpenOffice con Cloud SDK de código abierto para Android" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta FODS a XPS en la nube" h2="Convierta hojas de cálculo Excel y OpenOffice con Cloud SDK de código abierto para Android" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de FODS a XPS en aplicaciones de Android" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, Secreto de cliente, URL base y versión API
-1. Cargue el archivo FODS al almacenamiento en la nube predeterminado con el método ```CellsApiUtil.Upload```
+1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
+1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
+1. Cargue el archivo FODS al Cloud Storage predeterminado con el método ```CellsApiUtil.Upload```
 1. Llame al ```CellsApi.cellsWorkbookGetWorkbook``` para obtener el archivo XPS resultante
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Comience con Excel DESCANSO API" %}}
- Obtenga el código fuente Excel Cloud SDK para ANDROID de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) para compilar el SDK usted mismo o diríjase a la[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
+ Obtenga Excel Cloud SDK para el código fuente de ANDROID de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
 
- También eche un vistazo a Swagger-based[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
+ También eche un vistazo a Basado en Swagger[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Android: Conversión de FODS a XPS" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Android: conversión de FODS a XPS" gistPath="" %}}
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
 try {

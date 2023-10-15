@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF in PPTX Konvertieren Sie API für NodeJS
-description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im EMF-Format in eine PPTX-Formatdatei.
-url: /de/nodejs/conversion/emf-to-pptx/
+title:  Konvertieren Sie EMF mit NodeJS in PPTX
+description:  Verwendung des Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im EMF-Format in eine PPTX-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von EMF in PPTX" h2="NodeJS-Bibliothek zum Konvertieren von EMF in PPTX" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von EMF in PPTX und andere Dokumentformate mit NodeJS." urlsection="conversion/emf-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie EMF in PPTX" h2="NodeJS-Bibliothek zum Konvertieren von EMF in PPTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von EMF in PPTX und andere Dokumentformate mit NodeJS." urlsection="conversion/emf-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine EMF-Datei in PPTX in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie EMF in PPTX mit dem Cloud SDK Cells für NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von EMF in PPTX ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum PPTX-Format werden von unserem NodeJS SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von EMF in PPTX-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte PPTX-Ausgabe.
+Das Konvertieren von Dateiformaten von EMF in PPTX kann eine komplexe Aufgabe sein. Unser NodeJS SDK verarbeitet alle Konvertierungen von EMF in das PPTX-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle EMF bei. Unsere NodeJS-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von EMF in PPTX-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PPTX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Konvertieren von EMF in das PPTX-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel für die Konvertierung von EMF in PPTX mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Das Konvertieren von Dateiformaten von EMF in PPTX ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um EMF in PPTX zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in andere Formate zu konvertieren, EMF in PPTX" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

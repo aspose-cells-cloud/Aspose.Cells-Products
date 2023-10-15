@@ -1,10 +1,9 @@
 ﻿---
-title:  GIF als XLTX API für C# speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im GIF-Format als Datei im XLTX-Format zu speichern.
-url: /de/net/saveas/gif-to-xltx/
+title:  Speichern Sie GIF als XLTX mit C#
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der GIF-Formatdatei als XLTX-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um GIF als XLTX zu speichern" h2="C#-Bibliothek zum Speichern von GIF als XLTX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als XLTX und anderen Dokumentformaten unter C#." urlsection="saveas/gif-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF als XLTX speichern" h2="C#-Bibliothek zum Speichern von GIF als XLTX" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als XLTX und anderen Dokumentformaten unter C#." urlsection="saveas/gif-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als XLTX unter C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/gif-to-xltx/
 Das Speichern von Dateiformaten von GIF als XLTX ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XLTX-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um GIF als XLTX-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte XLTX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von GIF im XLTX-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von GIF als XLTX mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten von GIF als XLTX ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um GIF als XLTX zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in anderen Formaten wie GIF und XLTX zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  تصدير SHAPE إلى SVG من جدول البيانات باستخدام C# API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/net/export/shape-to-svg/
+title:  تصدير SHAPE إلى SVG من Excel باستخدام Cells Cloud SDK لـ C#
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لتصدير الشكل إلى ملف SVG" h2="مكتبة C# لتصدير الشكل إلى ملف SVG" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Net. هذا حل احترافي لتصدير SHAPE إلى ملف بتنسيق SVG من جدول بيانات عبر الإنترنت باستخدام C#." urlsection="export/shape-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير الشكل إلى SVG من Excel" h2="مكتبة C# لتصدير SHAPE إلى ملف SVG" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي لملف Excel في Net. يعد هذا حلاً احترافيًا لتصدير ملف SHAPE إلى تنسيق SVG من جدول البيانات عبر الإنترنت باستخدام C#." urlsection="export/shape-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف بتنسيق SVG بتنسيق C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف تنسيق SVG باستخدام Cells Cloud SDK لـ C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن SHAPE إلى ملف SVG من جدول البيانات مهمة معقدة. تصدير SHAPE إلى SVG يتم تنفيذ انتقالات تنسيق بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SHAPE المصدر. تعتبر مكتبة C# الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق SVG عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج SVG مثالي.
+يعد تصدير كائن SHAPE إلى ملف SVG من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى SVG بواسطة C# SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SHAPE المصدر. تعد مكتبتنا C# حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق SVG عبر الإنترنت. يمنح Cloud SDK هذا مطوري C# وظائف قوية وإخراج SVG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في C# باستخدام REST API لتصدير الشكل إلى تنسيق SVG من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في C# باستخدام REST API لتصدير SHAPE إلى تنسيق SVG من جدول البيانات" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,16 +43,16 @@ url: /ar/net/export/shape-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام C# API لتصدير الشكل إلى SVG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة PostExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لتصدير الكائنات من Excel SHAPE إلى SVG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
-<li>Net Standard 2.0 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS'den XLTX'e Dönüştürme API için C#
-description:  XLS biçim dosyasını XLTX biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/net/conversion/xls-to-xltx/
+title:  C#'i kullanarak XLS'yi XLTX'e dönüştürün
+description:  XLS formatındaki bir dosyayı XLTX formatındaki bir dosyaya dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLS\'yi XLTX\'e dönüştürmek için C# API" h2="XLS\'yi XLTX\'e dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, C#\'i kullanarak XLS\'yi XLTX\'e ve diğer belge formatlarını çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xls-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLS\'yi XLTX\'ye dönüştür" h2="XLS\'yi XLTX\'e dönüştürmek için C# kütüphane" p="Net projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, C# numaralı telefonu kullanarak XLS\'yi XLTX\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xls-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLS dosyasını C#\'de XLTX\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="C# için Cells Cloud SDK\'yı kullanarak XLS\'yi XLTX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den XLTX'e dönüştürmek karmaşık bir iştir. Tüm XLS'den XLTX'e format geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, XLS'yi çevrimiçi olarak XLTX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıkışı sağlar.
+Dosya formatlarını XLS'den XLTX'e dönüştürmek karmaşık bir iş olabilir. C# SDK'mız, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm XLS'den XLTX formatına dönüştürme işlemlerini gerçekleştirir. C# kitaplığımız, XLS dosyalarını çevrimiçi olarak XLTX dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, C# geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli XLTX çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi XLTX formatına dönüştürmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Cells Bulut SDK\'yı kullanarak XLS\'yi XLTX\'e dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ Dosya formatlarını XLS'den XLTX'e dönüştürmek karmaşık bir iştir. Tüm 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLS\'yi XLTX\'ye dönüştürmek için C# API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için CellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını XLS\'den XLTX\'e diğer formatlara dönüştürmek için Net için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>NET Framework 4.5.2 veya daha yenisi</li>
-<li>Net Standard 2.0 veya daha yenisi</li>
+<li>Net Standardı 2.0 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

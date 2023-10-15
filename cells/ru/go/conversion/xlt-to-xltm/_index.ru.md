@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLT в XLTM API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLT в файл формата XLTM.
-url: /ru/go/conversion/xlt-to-xltm/
+title:  Конвертируйте XLT в XLTM с помощью Go
+description:  Использование Cloud SDK для Go Aspose.Cells для преобразования файла формата XLT в файл формата XLTM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать XLT в XLTM." h2="Библиотека Go для преобразования XLT в XLTM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации XLT в XLTM и других форматов документов с помощью Go." urlsection="conversion/xlt-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLT в XLTM" h2="Библиотека Go для конвертации XLT в XLTM" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для конвертации XLT в XLTM и другие форматы документов онлайн с помощью Go." urlsection="conversion/xlt-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в XLTM в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XLT в XLTM с помощью Cloud SDK Cells для Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в XLTM — сложная задача. Все переходы между форматами XLT и XLTM выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLT в XLTM. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLTM.
+Преобразование форматов файлов из XLT в XLTM может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования форматов XLT в XLTM, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования файлов XLT в XLTM. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод XLTM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLT в формат XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования XLT в XLTM с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /ru/go/conversion/xlt-to-xltm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для преобразования XLT в XLTM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для преобразования файлов Excel в другие форматы XLT в XLTM" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

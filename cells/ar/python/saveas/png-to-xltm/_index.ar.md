@@ -1,19 +1,18 @@
 ﻿---
-title: وفر PNG كـ XLTM API مقابل Python
+title:  احفظ PNG كـ XLTM باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق PNG كملف بتنسيق XLTM.
-url: /ar/python/saveas/png-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ PNG كـ XLTM" h2="مكتبة Python لحفظ PNG كـ XLTM" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ PNG كـ XLTM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/png-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ PNG كـ XLTM" h2="مكتبة Python لحفظ PNG بصيغة XLTM" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ PNG بتنسيق XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/png-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف PNG كـ XLTM في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف PNG بتنسيق XLTM في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من PNG كـ XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى XLTM بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ PNG كملفات XLTM عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLTM مثالي.
+يعد حفظ تنسيقات الملفات من PNG بتنسيق XLTM مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق PNG إلى XLTM بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG. تعد مكتبتنا Python حلاً احترافيًا لحفظ PNG كملفات XLTM عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Python وظائف قوية ومخرجات XLTM مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ PNG بتنسيق XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ PNG كـ XLTM باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/png-to-xltm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ PNG كـ XLTM" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى PNG بتنسيق XLTM" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

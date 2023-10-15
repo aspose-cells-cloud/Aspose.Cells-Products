@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie ARBEITSBLATT aus der Tabellenkalkulation nach SVG mit Python API
+title:  Exportieren Sie ARBEITSBLATT von Excel nach SVG mit dem Cloud SDK Cells für Python
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/python/export/worksheet-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um ARBEITSBLATT in die Datei SVG zu exportieren" h2="Python-Bibliothek zum Exportieren von ARBEITSBLATT in die Datei SVG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Python zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine SVG-Formatdatei aus einer Tabellenkalkulation online mit Python." urlsection="export/worksheet-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie das Arbeitsblatt von Excel nach SVG" h2="Python-Bibliothek zum Exportieren von WORKSHEET in die SVG-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel-Datei-interne Objekt-Workflows in Python zu exportieren. Dies ist eine professionelle Lösung, um ARBEITSBLATT online aus einer Tabellenkalkulation in eine SVG-Formatdatei mit Python zu exportieren." urlsection="export/worksheet-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in die Formatdatei SVG in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in die Formatdatei SVG mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in die Datei SVG ist eine komplexe Aufgabe. Formatübergänge beim Exportieren von WORKSHEET in das SVG-Format werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im SVG-Format. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte SVG Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in die Datei SVG ist eine komplexe Aufgabe. Formatübergänge beim Exportieren von WORKSHEET in das SVG-Format werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im SVG-Format. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte SVG Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von WORKSHEET in das SVG-Format aus der Tabellenkalkulation" gistPath="" %}}
@@ -37,9 +36,9 @@ Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in die Dat
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um ARBEITSBLATT nach SVG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Objekte von Excel WORKSHEET nach SVG zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

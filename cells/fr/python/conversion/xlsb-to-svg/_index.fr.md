@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSB en SVG Convertir API en Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format XLSB en fichier au format SVG.
-url: /fr/python/conversion/xlsb-to-svg/
+title:  Convertir XLSB en SVG en utilisant Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir un fichier au format XLSB en fichier au format SVG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir XLSB en SVG" h2="Bibliothèque Python pour convertir XLSB en SVG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir XLSB en SVG et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/xlsb-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSB en SVG" h2="Bibliothèque Python pour convertir XLSB en SVG" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Python. Il s\'agit d\'une solution professionnelle pour convertir XLSB en SVG et d\'autres formats de documents en ligne en utilisant Python." urlsection="conversion/xlsb-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSB en SVG en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez XLSB en SVG à l\'aide du SDK Cloud Cells pour Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLSB en SVG est une tâche complexe. Toutes les transitions de format XLSB vers SVG sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Python est une solution professionnelle pour convertir en ligne des fichiers XLSB en SVG. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie SVG parfaite.
+La conversion des formats de fichiers XLSB vers SVG peut être une tâche complexe. Notre SDK Python gère toutes les conversions du format XLSB vers SVG tout en préservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Python fournit une solution professionnelle pour convertir en ligne des fichiers XLSB en fichiers SVG. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et garantit une sortie SVG de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour convertir XLSB au format SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Exemple de code pour convertir XLSB en SVG à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ La conversion des formats de fichiers XLSB en SVG est une tâche complexe. Toute
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour convertir XLSB en SVG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python pour convertir les fichiers Excel vers d\'autres formats XLSB en SVG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ JSON كـ TIFF API مقابل Python
+title:  احفظ JSON كـ TIFF باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق JSON كملف بتنسيق TIFF.
-url: /ar/python/saveas/json-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ JSON كـ TIFF" h2="مكتبة Python لحفظ JSON كـ TIFF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ JSON كـ TIFF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/json-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ JSON كـ TIFF" h2="مكتبة Python لحفظ JSON كـ TIFF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ JSON كـ TIFF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/json-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON كـ TIFF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON باسم TIFF في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JSON كـ TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى TIFF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JSON المصدر. مكتبتنا Python هي حل احترافي لحفظ JSON كملفات TIFF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج TIFF مثالي.
+يعد حفظ تنسيقات الملفات من JSON كـ TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى TIFF بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ JSON كملفات TIFF عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج TIFF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ JSON بتنسيق TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ JSON كـ TIFF باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/json-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ JSON كـ TIFF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى JSON كـ TIFF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

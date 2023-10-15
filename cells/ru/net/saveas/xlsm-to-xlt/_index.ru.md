@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XLSM как XLT API для C#
-description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSM в виде файла формата XLT.
-url: /ru/net/saveas/xlsm-to-xlt/
+title:  Сохраните XLSM как XLT, используя C#.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSM как файла формата XLT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить XLSM как XLT" h2="C# библиотека для сохранения XLSM как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLSM как XLT и других форматов документов в Интернете с использованием C#." urlsection="saveas/xlsm-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSM как XLT" h2="C# библиотека для сохранения XLSM как XLT" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Net. Это профессиональное решение для сохранения XLSM в формате XLT и других форматов документов онлайн с использованием номера C#." urlsection="saveas/xlsm-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как XLT в C#." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как XLT по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM в виде XLT — сложная задача. Все переходы между форматами XLSM и XLT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека C# — это профессиональное решение для сохранения XLSM в виде файлов XLT в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
+Сохранение форматов файлов из XLSM в формате XLT — сложная задача. Все переходы формата XLSM в XLT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной таблицы XLSM. Наша библиотека C# — это профессиональное решение для сохранения файлов XLSM в формате XLT онлайн. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и идеальный вывод XLT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLSM в формате XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для сохранения XLSM как XLT с использованием REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ url: /ru/net/saveas/xlsm-to-xlt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API, чтобы сохранить XLSM как XLT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Net для сохранения файлов Excel в других форматах XLSM как XLT" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

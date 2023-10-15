@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie TXT als PDF API für C#
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im TXT-Format als Datei im Format PDF zu speichern.
-url: /de/net/saveas/txt-to-pdf/
+title:  Speichern Sie TXT unter PDF mit C#
+description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Speichern der TXT-Formatdatei als PDF-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um TXT als PDF zu speichern" h2="C#-Bibliothek, um TXT unter PDF zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um TXT als PDF und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/txt-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie TXT unter PDF" h2="C#-Bibliothek zum Speichern von TXT als PDF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um TXT als PDF und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/txt-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TXT-Datei unter PDF in C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/txt-to-pdf/
 Das Speichern von Dateiformaten aus TXT als PDF ist eine komplexe Aufgabe. Alle TXT-Formatübergänge in das PDF-Format werden von unserem C#-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um TXT als PDF-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und eine perfekte PDF Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von TXT im PDF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von TXT als PDF mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten aus TXT als PDF ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um TXT als PDF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in anderen TXT-Formaten als PDF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

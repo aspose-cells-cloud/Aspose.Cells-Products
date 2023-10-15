@@ -1,10 +1,9 @@
 ﻿---
 title:  Rensa innehåll på den lokala arbetsboken i Cloud
-description: " Cloud API:er och SDK:er för att rensa innehåll på Microsoft Excel & OpenOffice Calc. Rensa innehåll på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/perl/clear/content/
+description: "Cloud API:er och SDK:er för att rensa innehåll på Microsoft Excel & OpenOffice Calc. Rensa innehåll på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Perl Rensa för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Perl. Denna professionella lösning rensar innehåll på lokalt Microsoft Microsoft 07161634 Calc 7481 07161634 och OpenOffice Calc 1761634 kalkylblad med OpenOffice 1761634 och OpenOffice." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Perl Rensa för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Perl. Denna professionella lösning rensar innehåll på lokalt Microsoft Microsoft 07161634 Calc 7481 07161634 och OpenOffice Calc 1761634 kalkylblad med OpenOffice 1761634 och OpenOffice." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad - Perl REST API" >}}
@@ -19,8 +18,8 @@ Rensa innehåll på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är en
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Perl API för att rensa innehåll" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Ring post_klar_objektsmetod för att få den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

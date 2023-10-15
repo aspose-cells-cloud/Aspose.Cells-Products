@@ -1,19 +1,19 @@
 ﻿---
-title:  Конвертировать NUMBERS в TXT API для Swift
+title:  NUMBERS в TXT Конвертировать API для Swift
 description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата NUMBERS в файл формата TXT.
 url: /ru/swift/conversion/numbers-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования NUMBERS в TXT" h2="Библиотека Swift для преобразования NUMBERS в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования NUMBERS в TXT и другие форматы документов онлайн с помощью Swift." urlsection="conversion/numbers-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования ЧИСЕЛ в TXT" h2="Библиотека Swift для преобразования ЧИСЕЛ в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования ЧИСЕЛ в TXT и другие форматы документов с помощью Swift." urlsection="conversion/numbers-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в TXT в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в TXT — сложная задача. Все переходы формата NUMBERS в формат TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов NUMBERS в TXT. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из NUMBERS в TXT — сложная задача. Все переходы формата NUMBERS в TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации ЧИСЕЛ в файлы TXT. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования NUMBERS в формат TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования ЧИСЕЛ в формат TXT" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -65,10 +65,10 @@ url: /ru/swift/conversion/numbers-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования NUMBERS в TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования ЧИСЕЛ в TXT" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

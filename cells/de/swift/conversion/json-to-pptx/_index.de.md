@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON zu PPTX Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im JSON-Format in eine Datei im PPTX-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im JSON-Format in eine Datei im PPTX-Format.
 url: /de/swift/conversion/json-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

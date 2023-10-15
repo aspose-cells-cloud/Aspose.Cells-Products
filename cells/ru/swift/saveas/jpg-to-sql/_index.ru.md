@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохранить JPG как SQL API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата JPG в виде файла формата SQL.
+title:  Сохраните JPG как SQL API для Swift.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата JPG в формате SQL.
 url: /ru/swift/saveas/jpg-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить JPG как SQL" h2="Библиотека Swift для сохранения JPG как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения JPG как SQL и других форматов документов онлайн с помощью Swift." urlsection="saveas/jpg-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить JPG как SQL" h2="Библиотека Swift для сохранения JPG как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения JPG в формате SQL и других форматов документов онлайн с помощью Swift." urlsection="saveas/jpg-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как SQL в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG в виде SQL — сложная задача. Все переходы формата JPG в формат SQL выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Swift — это профессиональное решение для сохранения файлов JPG в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из JPG в формате SQL — сложная задача. Все переходы формата JPG в SQL выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Swift — это профессиональное решение для сохранения файлов JPG в формате SQL онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения JPG в формате SQL" gistPath="" %}}
@@ -55,9 +55,9 @@ url: /ru/swift/saveas/jpg-to-sql/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения JPG как SQL" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

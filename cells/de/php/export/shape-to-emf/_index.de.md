@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie SHAPE aus der Tabelle mit PHP API nach EMF
+title:  Exportieren Sie SHAPE von Excel nach EMF mit dem Cloud SDK Cells für PHP
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/php/export/shape-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um SHAPE in die Datei EMF zu exportieren" h2="PHP-Bibliothek zum Exportieren von SHAPE in die EMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung, um SHAPE online mit PHP aus einer Tabellenkalkulation in eine Datei im EMF-Format zu exportieren." urlsection="export/shape-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie SHAPE von Excel nach EMF" h2="PHP-Bibliothek zum Exportieren von SHAPE in die EMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel-Datei-interne Objekt-Workflows in PHP zu exportieren. Dies ist eine professionelle Lösung, um SHAPE online mit PHP aus einer Tabellenkalkulation in eine Datei im EMF-Format zu exportieren." urlsection="export/shape-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in die Formatdatei EMF in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in die Formatdatei EMF mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in die Datei EMF ist eine komplexe Aufgabe. Der Export von SHAPE-Formatübergängen in das EMF-Format wird von unserem PHP-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um SHAPE-Objekte online in Dateien im EMF-Format zu exportieren. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte EMF Ausgabe.
+Das Exportieren eines SHAPE-Objekts aus der Datei Excel in die Datei EMF ist eine komplexe Aufgabe. Der Export von SHAPE-Formatübergängen in das EMF-Format wird von unserem PHP-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SHAPE-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um SHAPE-Objekte online in Dateien im EMF-Format zu exportieren. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte EMF Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von SHAPE in das EMF-Format aus der Tabellenkalkulation" gistPath="" %}}
@@ -36,10 +35,10 @@ Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in die Datei E
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um SHAPE nach EMF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Objekte von Excel SHAPE nach EMF zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,16 @@
 ﻿---
-title: Exporter WORKSHEET vers CSV à partir d'une feuille de calcul à l'aide de Swift API
+title:  Exporter WORKSHEET au format CSV à partir d'une feuille de calcul à l'aide de Swift API
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
 url: /fr/swift/export/worksheet-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour exporter WORKSHEET vers un fichier CSV" h2="Bibliothèque Swift pour exporter WORKSHEET vers un fichier CSV" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Swift. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format CSV à partir d\'une feuille de calcul en ligne à l\'aide de Swift." urlsection="export/worksheet-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour exporter la FEUILLE DE TRAVAIL vers un fichier CSV" h2="Bibliothèque Swift pour exporter WORKSHEET vers un fichier CSV" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes d\'une feuille de calcul dans Swift. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format CSV à partir d\'une feuille de calcul en ligne à l\'aide de Swift." urlsection="export/worksheet-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKSHEET vers un fichier au format CSV dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'exportation d'un objet WORKSHEET vers un fichier CSV à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions au format WORKSHEET vers CSV est effectuée par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKSHEET source. Notre bibliothèque Swift est une solution professionnelle pour exporter en ligne des objets WORKSHEET vers des fichiers au format CSV. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie CSV parfaite.
+Exporter un objet WORKSHEET vers un fichier CSV à partir d'une feuille de calcul est une tâche complexe. Les transitions d'exportation de WORKSHEET au format CSV sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKSHEET source. Notre bibliothèque Swift est une solution professionnelle pour exporter des objets WORKSHEET vers des fichiers au format CSV en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie CSV parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour exporter WORKSHEET au format CSV à partir d\'une feuille de calcul" gistPath="" %}}
@@ -55,9 +55,9 @@ L'exportation d'un objet WORKSHEET vers un fichier CSV à partir d'une feuille d
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour exporter WORKSHEET vers CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour exporter une FEUILLE DE TRAVAIL au format CSV" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
 <li>Appelez la méthode postExport pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XLSX как BMP API для Perl
+title:  Сохраните XLSX как BMP, используя Perl.
 description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLSX как файла формата BMP.
-url: /ru/perl/saveas/xlsx-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить XLSX как BMP" h2="Библиотека Perl для сохранения XLSX как BMP" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения XLSX как BMP и других форматов документов в Интернете с использованием Perl." urlsection="saveas/xlsx-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSX как BMP." h2="Perl библиотека для сохранения XLSX как BMP" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения XLSX как BMP и других форматов документов онлайн с использованием Perl." urlsection="saveas/xlsx-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как BMP в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX как BMP — сложная задача. Все переходы между форматами XLSX и BMP выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Perl — это профессиональное решение для сохранения файлов XLSX в формате BMP в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат BMP.
+Сохранение файлов формата XLSX как BMP — сложная задача. Все переходы формата XLSX в BMP выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы XLSX. Наша библиотека Perl — это профессиональное решение для сохранения файлов XLSX в формате BMP онлайн. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный результат BMP.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XLSX в формате BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения XLSX как BMP с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/xlsx-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API, чтобы сохранить XLSX как BMP" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl, чтобы сохранить файлы Excel в других форматах XLSX как BMP" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

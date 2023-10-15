@@ -1,10 +1,9 @@
 ﻿---
-title: 出口使用C#
-description:  Aspose.Cells Cloud REST API 支持使用 C# 将工作簿和内部对象导出为各种格式。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/net/export/
+title: 使用 C# 导出 Excel 对象
+description: Aspose.Cells Cloud REST API 支持使用 C# 将工作簿和内部对象导出为各种格式。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="出口使用C#" h2="Aspose.Cells Cloud SDK 支持将工作簿和内部对象导出为 30 多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用 C# 将工作簿和内部对象导出为各种格式。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 C# 导出 Excel 对象" h2="Aspose.Cells Cloud SDK 支持将工作簿和内部对象导出为 30 多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用 C# 将工作簿和内部对象导出为各种格式。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +31,7 @@ url: /zh/net/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="使用 C# 扩展链接导出" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 C# 扩展链接导出 Excel 对象" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

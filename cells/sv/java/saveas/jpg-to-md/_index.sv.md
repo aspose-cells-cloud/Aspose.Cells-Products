@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara JPG som MD API for Java
+title:  Spara JPG som MD med Java
 description:  Använder Aspose.Cells Cloud SDK for Java för att spara JPG-formatfil som MD-fil.
-url: /sv/java/saveas/jpg-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att spara JPG som MD" h2="Java bibliotek för att spara JPG som MD" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Java. Detta är en professionell lösning för att spara JPG som MD och andra dokumentformat online med Java." urlsection="saveas/jpg-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara JPG som MD" h2="Java bibliotek för att spara JPG som MD" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Java. Detta är en professionell lösning för att spara JPG som MD och andra dokumentformat online med Java." urlsection="saveas/jpg-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en JPG-fil som MD i Java" >}}
@@ -13,7 +12,7 @@ url: /sv/java/saveas/jpg-to-md/
 Att spara filformat från JPG som MD är en komplex uppgift. Alla JPG- till MD-formatövergångar utförs av vår Java SDK samtidigt som käll-JPG-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara JPG som MD-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt MD-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att spara JPG som MD-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att spara JPG som MD med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Att spara filformat från JPG som MD är en komplex uppgift. Alla JPG- till MD-f
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara JPG som MD" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att spara Excel filer som andra format JPG som MD" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

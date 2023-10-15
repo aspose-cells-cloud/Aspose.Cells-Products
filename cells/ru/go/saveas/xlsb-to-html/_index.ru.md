@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните XLSB как HTML API для Go
+title:  Сохраните XLSB как HTML с помощью Go.
 description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLSB как файла формата HTML.
-url: /ru/go/saveas/xlsb-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLSB как HTML." h2="Перейти в библиотеку, чтобы сохранить XLSB как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLSB как HTML и других форматов документов в Интернете с помощью Go." urlsection="saveas/xlsb-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSB как HTML." h2="Библиотека Go для сохранения XLSB как HTML" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения XLSB как HTML и других форматов документов в Интернете с помощью Go." urlsection="saveas/xlsb-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как HTML в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB под номером HTML в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB как HTML — сложная задача. Все переходы формата XLSB в формат HTML выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для сохранения файлов XLSB в формате HTML онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод HTML.
+Сохранение формата файлов из XLSB как HTML — сложная задача. Все переходы формата XLSB в HTML выполняются нашим Go SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSB. Наша библиотека Go — это профессиональное решение для сохранения файлов XLSB в формате HTML в Интернете. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLSB в формате HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения XLSB как HTML с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /ru/go/saveas/xlsb-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для сохранения XLSB как HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах XLSB как HTML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

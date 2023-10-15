@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG إلى XLSX تحويل API ل Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق PNG إلى ملف بتنسيق XLSX.
-url: /ar/python/conversion/png-to-xlsx/
+title:  تحويل PNG إلى XLSX باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق PNG إلى ملف بتنسيق XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل PNG إلى XLSX" h2="Python مكتبة لتحويل PNG إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل PNG إلى XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/png-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل PNG إلى XLSX" h2="مكتبة Python لتحويل PNG إلى XLSX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل PNG إلى XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/png-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف PNG إلى XLSX في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل PNG إلى XLSX باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من PNG إلى XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى XLSX بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل PNG إلى ملفات XLSX عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLSX مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من PNG إلى XLSX مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق PNG إلى XLSX مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل PNG إلى ملفات XLSX عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python من الحصول على وظائف قوية ويضمن إخراج XLSX عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل PNG إلى تنسيق XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل PNG إلى XLSX باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/png-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل PNG إلى XLSX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى PNG إلى XLSX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

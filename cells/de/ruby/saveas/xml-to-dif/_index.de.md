@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XML als DIF API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern von XML-Formatdateien als DIF-Formatdateien.
-url: /de/ruby/saveas/xml-to-dif/
+title:  Speichern Sie XML als DIF mit Ruby
+description:  Verwendung von Aspose.Cells Cloud SDK für Ruby zum Speichern von XML-Formatdateien als DIF-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Speichern von XML als DIF" h2="Ruby-Bibliothek zum Speichern von XML als DIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als DIF und anderen Dokumentformaten mit Ruby." urlsection="saveas/xml-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML als DIF speichern" h2="Ruby-Bibliothek zum Speichern von XML als DIF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als DIF und anderen Dokumentformaten mit Ruby." urlsection="saveas/xml-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als DIF in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/xml-to-dif/
 Das Speichern von Dateiformaten aus XML als DIF ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum DIF-Format werden von unserem Ruby SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XML-Quelltabelle erhalten bleiben. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um XML als DIF-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und eine perfekte DIF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von XML im DIF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von XML als DIF mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten aus XML als DIF ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um XML als DIF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in anderen XML-Formaten als DIF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,19 @@
 ﻿---
-title:  تحويل الأرقام إلى DIF API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق DIF.
+title:  NUMBERS إلى DIF تحويل API لـ Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق NUMBERS إلى ملف تنسيق DIF.
 url: /ar/swift/conversion/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل الأرقام إلى DIF" h2="مكتبة سريعة لتحويل الأرقام إلى DIF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل الأرقام إلى DIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/numbers-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل الأرقام إلى DIF" h2="مكتبة سويفت لتحويل الأرقام إلى DIF" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى DIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/numbers-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى DIF في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف NUMBERS إلى DIF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى DIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى DIF بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات NUMBERS المصدر. تعتبر مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل الأرقام إلى ملفات DIF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج DIF مثالي.
+يعد تحويل تنسيقات الملفات من NUMBERS إلى DIF مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق NUMBERS إلى DIF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل NUMBERS إلى ملفات DIF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات DIF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل الأرقام إلى تنسيق DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل NUMBERS إلى تنسيق DIF" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/numbers-to-dif/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل الأرقام إلى DIF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

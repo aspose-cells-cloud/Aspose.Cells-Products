@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez BMP comme PDF API pour Go
+title:  Enregistrez BMP sous PDF en utilisant Go
 description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format BMP en tant que fichier au format PDF.
-url: /fr/go/saveas/bmp-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour enregistrer BMP en tant que PDF" h2="Aller à la bibliothèque pour enregistrer BMP sous PDF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer BMP sous PDF et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/bmp-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer le BMP sous le nom PDF" h2="Accédez à la bibliothèque pour enregistrer BMP sous le nom PDF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer BMP sous PDF et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/bmp-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier BMP sous PDF dans Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier BMP sous le nom PDF dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de BMP en PDF est une tâche complexe. Toutes les transitions de format BMP à PDF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Go est une solution professionnelle pour enregistrer les fichiers BMP en tant que PDF en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie PDF parfaite.
+Enregistrer les formats de fichiers de BMP à PDF est une tâche complexe. Toutes les transitions de format BMP à PDF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Go est une solution professionnelle pour enregistrer BMP en tant que fichiers PDF en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie PDF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer BMP au format PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Exemple de code pour enregistrer BMP sous PDF en utilisant REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ L'enregistrement des formats de fichiers de BMP en PDF est une tâche complexe. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Go API pour enregistrer BMP en tant que PDF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Go pour enregistrer les fichiers Excel sous d\'autres formats BMP sous PDF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>go version go1.13.0 ou plus récente</li>
+<li>aller à la version go1.13.0 ou plus récente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

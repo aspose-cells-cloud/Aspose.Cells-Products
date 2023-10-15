@@ -13,7 +13,7 @@ url: /de/swift/saveas/gif-to-png/
 Das Speichern von GIF-Dateiformaten als PNG ist eine komplexe Aufgabe. Alle GIF-Formatübergänge in das PNG-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um GIF-Dateien im Format PNG online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte PNG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von GIF im PNG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von GIF im Format PNG" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

@@ -1,19 +1,19 @@
 ﻿---
-title: PICTURE'ı Swift API kullanarak e-tablodan SVG'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
+title:  Swift API'i kullanarak elektronik tablodan RESİM'i SVG'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 url: /tr/swift/export/picture-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="RESİM\'i SVG dosyasına dışa aktarmak için API\'i kaydırın" h2="PICTURE\'ı SVG dosyasına dışa aktarmak için Swift kitaplığı" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Swift kullanarak elektronik tablodan PICTURE dosyasını SVG formatında dışa aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="RESİM\'i SVG dosyasına aktarmak için Swift API" h2="RESİM\'i SVG dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells REST\'i Dışa Aktar API\'i kullanın. Bu, Swift kullanarak çevrimiçi elektronik tablodan RESİM\'i SVG formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PICTURE nesnesini Swift\'de SVG format dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PICTURE nesnesini Swift\'de SVG formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-PICTURE nesnesini elektronik tablodan SVG dosyasına dışa aktarma karmaşık bir iştir. PICTURE'ı SVG biçimine dışa aktarma geçişleri, kaynak PICTURE e-tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, PICTURE nesnelerini çevrimiçi olarak SVG biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
+PICTURE nesnesini e-tablodan SVG dosyasına aktarmak karmaşık bir iştir. PICTURE'ı SVG'e aktar format geçişleri Swift SDK'mız tarafından gerçekleştirilir ve kaynak PICTURE elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, PICTURE nesnelerini çevrimiçi olarak SVG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PICTURE\'ı e-tablodan SVG formatına dışa aktarmak için REST API kullanan Swift kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Swift\'de PICTURE\'ı e-tablodan SVG formatına aktarmak için REST API\'i kullanan kod örneği" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,8 +55,8 @@ PICTURE nesnesini elektronik tablodan SVG dosyasına dışa aktarma karmaşık b
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="PICTURE\'ı SVG\'e dışa aktarmak için Swift API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="RESİM\'i SVG\'e aktarmak için Swift API nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

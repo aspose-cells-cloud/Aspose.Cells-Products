@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XML als SVG API für Android
-description: Verwenden von Aspose.Cells Cloud SDK für Android zum Speichern der XML-Formatdatei als SVG-Formatdatei.
-url: /de/android/saveas/xml-to-svg/
+title:  Speichern Sie XML unter Android als SVG
+description: Verwendung des Aspose.Cells Cloud SDK für Android zum Speichern der XML-Formatdatei als SVG-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, um XML als SVG zu speichern" h2="Android-Bibliothek zum Speichern von XML als SVG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als SVG und anderen Dokumentformaten mit Android." urlsection="saveas/xml-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XML unter SVG" h2="Android-Bibliothek zum Speichern von XML als SVG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als SVG und anderen Dokumentformaten mit Android." urlsection="saveas/xml-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei unter Android als SVG" >}}
@@ -13,7 +12,7 @@ url: /de/android/saveas/xml-to-svg/
 Das Speichern von Dateiformaten aus XML als SVG ist eine komplexe Aufgabe. Alle XML-Formatübergänge in das SVG-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XML-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML-Dateien im Format SVG. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte SVG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von XML im SVG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von XML als SVG mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus XML als SVG ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um XML als SVG zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in anderen XML-Formaten als SVG zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie CHART aus der Tabellenkalkulation nach SVG mit Java API
+title:  Exportieren Sie CHART von Excel nach SVG mit Cells Cloud SDK for Java
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/java/export/chart-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um CHART in die Datei SVG zu exportieren" h2="Java-Bibliothek zum Exportieren von CHART in die Datei SVG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Java zu exportieren. Dies ist eine professionelle Lösung, um CHART online aus einer Tabellenkalkulation in eine Datei im SVG-Format zu exportieren, indem Sie Java verwenden." urlsection="export/chart-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Diagramm von Excel nach SVG exportieren" h2="Java-Bibliothek zum Exportieren von CHART in die SVG-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel-Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um CHART in eine SVG-Formatdatei aus einer Tabellenkalkulation online mit Java zu exportieren." urlsection="export/chart-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in die Formatdatei SVG in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in eine Datei im SVG-Format mit dem Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in die Datei SVG ist eine komplexe Aufgabe. Übergänge im CHART-Format in das SVG-Format exportieren werden von unserem Java-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um CHART-Objekte online in Dateien im SVG-Format zu exportieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte SVG Ausgabe.
+Das Exportieren eines CHART-Objekts aus der Datei Excel in die Datei SVG ist eine komplexe Aufgabe. Übergänge beim Exportieren von CHART in das SVG-Format werden von unserem Java SDK durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um CHART-Objekte online in Dateien im SVG-Format zu exportieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte SVG Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Exportieren von CHART in das Format SVG aus der Tabellenkalkulation" gistPath="" %}}
@@ -51,10 +50,10 @@ Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in die Datei S
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um CHART nach SVG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Objekte von Excel CHART nach SVG zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

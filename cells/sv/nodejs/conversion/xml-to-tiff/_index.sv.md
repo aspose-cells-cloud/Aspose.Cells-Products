@@ -1,19 +1,18 @@
 ﻿---
-title:  XML till TIFF Konvertera API för NodeJS
-description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera XML-formatfil till TIFF-formatfil.
-url: /sv/nodejs/conversion/xml-to-tiff/
+title:  Konvertera XML till TIFF med NodeJS
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera en fil i XML-format till en fil i TIFF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att konvertera XML till TIFF" h2="NodeJS-bibliotek för att konvertera XML till TIFF" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att konvertera XML till TIFF och andra dokumentformat online med NodeJS." urlsection="conversion/xml-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XML till TIFF" h2="NodeJS-bibliotek för att konvertera XML till TIFF" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera XML till TIFF och andra dokumentformat online med NodeJS." urlsection="conversion/xml-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XML-fil till TIFF i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XML till TIFF med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XML till TIFF är en komplex uppgift. Alla XML- till TIFF-formatövergångar utförs av vår NodeJS SDK samtidigt som XML-källbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att konvertera XML till TIFF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt TIFF-utgång.
+Att konvertera filformat från XML till TIFF kan vara en komplex uppgift. Vår NodeJS SDK hanterar alla XML- till TIFF-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i XML-källarket bevaras. Vårt NodeJS-bibliotek tillhandahåller en professionell lösning för att konvertera XML till TIFF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TIFF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att konvertera XML till TIFF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att konvertera XML till TIFF med Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Att konvertera filformat från XML till TIFF är en komplex uppgift. Alla XML- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att konvertera XML till TIFF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att konvertera Excel-filer till andra format XML till TIFF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

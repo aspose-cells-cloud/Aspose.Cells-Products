@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование ODS в TSV API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата ODS в файл формата TSV.
+title:  Конвертировать ODS в TSV API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата ODS в файл формата TSV.
 url: /ru/swift/conversion/ods-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования ODS в TSV" h2="Библиотека Swift для преобразования ODS в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации ODS в TSV и другие форматы документов с помощью Swift." urlsection="conversion/ods-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации ODS в TSV" h2="Библиотека Swift для преобразования ODS в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования ODS в TSV и другие форматы документов с помощью Swift." urlsection="conversion/ods-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в TSV в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл ODS в TSV в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в TSV — сложная задача. Все переходы между форматами ODS и TSV выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов ODS в TSV. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TSV.
+Преобразование форматов файлов из ODS в TSV — сложная задача. Все переходы формата ODS в TSV выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов ODS в TSV. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования ODS в формат TSV" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/ods-to-tsv/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования ODS в TSV" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

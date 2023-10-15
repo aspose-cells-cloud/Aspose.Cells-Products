@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XLSX باسم WMF API لنظام Android
+title:  احفظ XLSX بتنسيق WMF باستخدام Android
 description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق WMF.
-url: /ar/android/saveas/xlsx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSX كـ WMF" h2="مكتبة Android لحفظ XLSX كـ WMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSX بتنسيق WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsx-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLSX بصيغة WMF" h2="مكتبة Android لحفظ XLSX بصيغة WMF" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ XLSX بتنسيق WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsx-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSX بتنسيق WMF في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSX مثل WMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى WMF بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. مكتبة Android الخاصة بنا هي حل احترافي لحفظ XLSX كملفات WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج WMF مثالي.
+يعد حفظ تنسيقات الملفات من XLSX بتنسيق WMF مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLSX إلى WMF بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ XLSX كملفات WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات WMF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ XLSX بتنسيق WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لحفظ XLSX كـ WMF باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ url: /ar/android/saveas/xlsx-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ XLSX كـ WMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى XLSX مثل WMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

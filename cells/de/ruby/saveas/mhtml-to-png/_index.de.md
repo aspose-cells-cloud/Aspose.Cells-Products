@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie MHTML unter PNG API für Ruby
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die Datei im MHTML-Format als Datei im Format PNG zu speichern.
-url: /de/ruby/saveas/mhtml-to-png/
+title:  Speichern Sie MHTML unter PNG mit Ruby
+description:  Verwendung des Cloud SDK Aspose.Cells für Ruby zum Speichern der Datei im MHTML-Format als Datei im Format PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um MHTML als PNG zu speichern" h2="Ruby-Bibliothek zum Speichern von MHTML als PNG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von MHTML als PNG und anderen Dokumentformaten mit Ruby." urlsection="saveas/mhtml-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie MHTML unter PNG" h2="Ruby-Bibliothek zum Speichern von MHTML als PNG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von MHTML als PNG und anderen Dokumentformaten mit Ruby." urlsection="saveas/mhtml-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine MHTML-Datei unter dem Namen PNG in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/mhtml-to-png/
 Das Speichern von Dateiformaten aus MHTML als PNG ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML in das Format PNG werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um MHTML als PNG-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und eine perfekte PNG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von MHTML im Format PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von MHTML als PNG unter Verwendung von REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten aus MHTML als PNG ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um MHTML als PNG zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in anderen MHTML-Formaten als PNG zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

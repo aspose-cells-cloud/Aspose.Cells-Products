@@ -1,7 +1,6 @@
 ﻿---
 title:  Kryptera molnkalkylblad med lösenord i molnet
 description: "Cloud API:er och SDK:er för att skydda Microsoft Excel & OpenOffice Calc. Kryptera molnkalkylblad med lösenord med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/php/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="PHP bibliotek för att skydda molnet Microsoft Excel och OpenOffice Calc kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i PHP. Den här professionella lösningen skyddar molnet Microsoft Microsoft online-kalkylblad Microsoft Microsoft 0761s30Office36 online-lösenord med OpenOffice-kalkylblad 1 076160Off37 och 7C online 481." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
@@ -18,7 +17,7 @@ Att skydda ett molnkalkylblad med ett lösenord är en komplex uppgift. Att skyd
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder PHP API för att kryptera" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att kryptera filen Excel" >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Ring cellsWorkbookPostEncryptDocument-metoden för att hämta den resulterande strömmen</li>

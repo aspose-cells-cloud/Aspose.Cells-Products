@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie JPG unter TIFF API für Android
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Android, um eine Datei im JPG-Format als Datei im Format TIFF zu speichern.
-url: /de/android/saveas/jpg-to-tiff/
+title:  Speichern Sie JPG unter Android unter TIFF
+description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Speichern von JPG-Formatdateien als TIFF-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, um JPG als TIFF zu speichern" h2="Android-Bibliothek zum Speichern von JPG als TIFF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um JPG als TIFF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/jpg-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie JPG unter TIFF" h2="Android-Bibliothek zum Speichern von JPG als TIFF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um JPG als TIFF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/jpg-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei unter Android als TIFF" >}}
@@ -13,7 +12,7 @@ url: /de/android/saveas/jpg-to-tiff/
 Das Speichern von Dateiformaten aus JPG als TIFF ist eine komplexe Aufgabe. Alle JPG-Formatübergänge in das TIFF-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um JPG-Dateien im Format TIFF online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von JPG im Format TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von JPG als TIFF mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus JPG als TIFF ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um JPG als TIFF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in anderen JPG-Formaten als TIFF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,15 @@
 ﻿---
-title:  Экспорт LISTOBJECT в ODS из электронной таблицы с использованием Ruby API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/ruby/export/listobject-to-ods/
+title:  Экспортируйте LISTOBJECT в ODS из Excel с помощью Cloud SDK Cells для Ruby.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для экспорта LISTOBJECT в файл ODS" h2="Библиотека Ruby для экспорта LISTOBJECT в файл ODS" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Ruby. Это профессиональное решение для экспорта LISTOBJECT в файл формата ODS из электронной таблицы онлайн с использованием Ruby." urlsection="export/listobject-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт LISTOBJECT в ODS с номера Excel" h2="Библиотека Ruby для экспорта LISTOBJECT в файл ODS" p="Используйте команду «Экспорт API из облака Cells» для экспорта рабочих процессов внутренних объектов файлов Excel в Ruby. Это профессиональное решение для экспорта LISTOBJECT в файл формата ODS из электронной таблицы онлайн с использованием Ruby." urlsection="export/listobject-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата ODS в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект LISTOBJECT в файл формата ODS с помощью Cloud SDK Cells для Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов формата LISTOBJECT в формат ODS выполняется нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Ruby — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата ODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод ODS.
+Экспорт объекта LISTOBJECT в файл ODS из файла Excel — сложная задача. Экспорт переходов формата LISTOBJECT в ODS выполняется нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Ruby — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата ODS. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный результат ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для экспорта LISTOBJECT в формат ODS из электронной таблицы" gistPath="" %}}
@@ -35,10 +34,10 @@ url: /ru/ruby/export/listobject-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для экспорта LISTOBJECT в ODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод post_export, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для экспорта объектов из Excel LISTOBJECT в ODS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод post_export, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

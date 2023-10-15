@@ -1,16 +1,16 @@
 ﻿---
-title: Экспорт WORKBOOK в WMF из электронной таблицы с помощью Swift API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
+title:  Экспортируйте WORKBOOK в WMF из электронной таблицы с помощью Swift API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 url: /ru/swift/export/workbook-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для экспорта WORKBOOK в файл WMF" h2="Библиотека Swift для экспорта WORKBOOK в файл WMF" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Swift. Это профессиональное решение для экспорта файла формата WORKBOOK в WMF из электронной таблицы онлайн с помощью Swift." urlsection="export/workbook-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для экспорта WORKBOOK в файл WMF" h2="Библиотека Swift для экспорта WORKBOOK в файл WMF" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Swift. Это профессиональное решение для экспорта WORKBOOK в файл формата WMF из электронной таблицы онлайн с помощью Swift." urlsection="export/workbook-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата WMF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл WMF из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат WMF выполняется нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата WMF. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод WMF.
+Экспорт объекта WORKBOOK в файл WMF из электронной таблицы — сложная задача. Экспорт переходов формата WORKBOOK в WMF выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата WMF. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта WORKBOOK в формат WMF из электронной таблицы" gistPath="" %}}
@@ -56,9 +56,9 @@ url: /ru/swift/export/workbook-to-wmf/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для экспорта WORKBOOK в WMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод postExport, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

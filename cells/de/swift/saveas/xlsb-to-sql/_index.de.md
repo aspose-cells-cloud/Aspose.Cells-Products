@@ -13,7 +13,7 @@ url: /de/swift/saveas/xlsb-to-sql/
 Das Speichern von Dateiformaten aus XLSB als SQL ist eine komplexe Aufgabe. Alle XLSB-zu-SQL-Formatübergänge werden von unserem Swift SDK durchgeführt, während der wichtigste strukturelle und logische Inhalt der XLSB-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLSB als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLSB im SQL-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLSB als SQL-Format" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

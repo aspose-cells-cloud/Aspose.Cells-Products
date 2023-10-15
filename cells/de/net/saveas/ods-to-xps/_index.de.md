@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie ODS als XPS API für C#
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im ODS-Format als Datei im Format XPS zu speichern.
-url: /de/net/saveas/ods-to-xps/
+title:  Speichern Sie ODS unter XPS unter Verwendung von C#
+description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Speichern der ODS-Formatdatei als XPS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um ODS als XPS zu speichern" h2="C#-Bibliothek zum Speichern von ODS unter XPS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um ODS als XPS und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/ods-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie ODS unter XPS" h2="C#-Bibliothek zum Speichern von ODS unter XPS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um ODS als XPS und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/ods-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine ODS-Datei unter XPS in C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/ods-to-xps/
 Das Speichern von Dateiformaten aus ODS als XPS ist eine komplexe Aufgabe. Alle ODS-Formatübergänge in das XPS-Format werden von unserem C#-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um ODS als XPS-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und eine perfekte XPS Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von ODS im XPS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von ODS als XPS mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten aus ODS als XPS ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um ODS als XPS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in anderen ODS-Formaten als XPS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

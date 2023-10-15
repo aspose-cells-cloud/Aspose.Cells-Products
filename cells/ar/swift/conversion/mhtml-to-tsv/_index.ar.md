@@ -1,19 +1,19 @@
 ﻿---
-title:  تحويل MHTML إلى TSV API لـ Swift
+title: تحويل MHTML إلى TSV API لـ Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق MHTML إلى ملف تنسيق TSV.
 url: /ar/swift/conversion/mhtml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل MHTML إلى TSV" h2="مكتبة سريعة لتحويل MHTML إلى TSV" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل MHTML إلى TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/mhtml-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل MHTML إلى TSV" h2="مكتبة سويفت لتحويل MHTML إلى TSV" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل MHTML إلى TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/mhtml-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف MHTML إلى TSV في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف MHTML إلى TSV في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من MHTML إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى TSV بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى TSV عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج TSV مثالي.
+يعد تحويل تنسيقات الملفات من MHTML إلى TSV مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق MHTML إلى TSV بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات TSV عبر الإنترنت. يمنح Cloud SDK لمطوري Swift وظائف قوية ومخرجات TSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل MHTML إلى تنسيق TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل MHTML إلى تنسيق TSV" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/mhtml-to-tsv/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل MHTML إلى TSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

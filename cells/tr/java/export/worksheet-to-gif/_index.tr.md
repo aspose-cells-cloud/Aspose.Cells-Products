@@ -1,19 +1,18 @@
 ﻿---
-title: Java API kullanarak ÇALIŞMA TABLOSUNU e-tablodan GIF'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/java/export/worksheet-to-gif/
+title:  Cells Cloud SDK for Java'i kullanarak WORKSHEET'i Excel'den GIF'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API ÇALIŞMA TABLOSUNU GIF dosyasına aktarmak için" h2="Java kitaplığı, ÇALIŞMA TABLOSUNU GIF dosyasına dışa aktarmak için" p="Java\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Java\'i kullanarak ÇALIŞMA TABLOSUNU çevrimiçi elektronik tablodan GIF formatındaki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA SAYFASI\'nı Excel\'den GIF\'e aktar" h2="Java WORKSHEET\'i GIF dosyasına aktarmak için kütüphane" p="Java\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Java\'i kullanarak çevrimiçi tablodan ÇALIŞMA SAYFASI\'nı GIF formatındaki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKSHEET nesnesini Java\'de GIF formatındaki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Java\'i kullanarak WORKSHEET nesnesini GIF formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-WORKSHEET nesnesini e-tablodan GIF dosyasına aktarma karmaşık bir iştir. WORKSHEET'i GIF formatına aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak GIF formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel GIF çıktısı sağlar.
+WORKSHEET nesnesini Excel dosyasından GIF dosyasına aktarmak karmaşık bir iştir. WORKSHEET'i GIF formatına aktarma geçişleri Java SDK'mız tarafından gerçekleştirilir ve kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak GIF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Java geliştiriciye güçlü işlevsellik ve mükemmel GIF çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i e-tablodan GIF biçimine dışa aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i e-tablodan GIF formatına aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,10 +50,10 @@ WORKSHEET nesnesini e-tablodan GIF dosyasına aktarma karmaşık bir iştir. WOR
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="WORKSHEET\'i GIF\'e dışa aktarmak için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel WORKSHEET\'ten GIF\'e aktarmak için Cells Cloud SDK for Java nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

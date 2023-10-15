@@ -1,5 +1,5 @@
 ﻿---
-title: Entschlüsseln Sie lokale Tabellenkalkulationen mit einem Passwort in der Cloud
+title:  Entschlüsseln Sie lokale Tabellenkalkulationen mit einem Passwort in der Cloud
 description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc freischalten. Tabellenkalkulationen werden mit der Cells-Cloud API entschlüsselt. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/protect/decrypt-with-password/
 ---

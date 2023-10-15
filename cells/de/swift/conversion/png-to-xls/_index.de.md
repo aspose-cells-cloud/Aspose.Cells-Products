@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG in XLS Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine XLS-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine XLS-Formatdatei.
 url: /de/swift/conversion/png-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

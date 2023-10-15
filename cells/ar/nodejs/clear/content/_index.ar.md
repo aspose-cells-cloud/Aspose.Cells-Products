@@ -1,32 +1,31 @@
 ﻿---
-title:  امسح المحتوى في المصنف المحلي في Cloud
-description:  Cloud APIs & SDKs لمسح المحتوى على Microsoft Excel & OpenOffice Calc. مسح المحتوى على جداول البيانات المحلية بواسطة Cells Cloud API. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
-url: /ar/nodejs/clear/content/
+title:  مسح المحتوى الموجود في المصنف المحلي في السحابة
+description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح المحتوى على Microsoft Excel وOpenOffice Calc. مسح المحتوى على جداول البيانات المحلية بواسطة سحابة Cells API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="NodeJS مسح لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في NodeJS. يقوم هذا الحل الاحترافي بمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام NodeJS." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة المحتوى على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="مسح NodeJS لمسح المحتوى على Microsoft المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المحتوى على Microsoft المحلي Excel وسير عمل جداول بيانات OpenOffice Calc في NodeJS. يقوم هذا الحل الاحترافي بمسح المحتوى على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - NodeJS REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المحتوى على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc - NodeJS REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc مهمة معقدة. يتم إجراء عمليات نقل جداول البيانات على Microsoft Excel و OpenOffice Calc المحلي بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لمسح الصيغ على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية و API مثالي.
+يعد مسح المحتوى على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc مهمة معقدة. يتم مسح المحتوى على Microsoft المحلي Excel وانتقالات جدول بيانات OpenOffice Calc بواسطة NodeJS SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري NodeJS وظائف قوية وAPI مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="كود NodeJS لمسح المحتوى في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-Clear-Content.js" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="رمز NodeJS لمسح المحتوى في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-Clear-Content.js" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام العقدة API لمسح المحتوى" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postClearObjects للحصول على التدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لمسح المحتوى" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة postClearObjects للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>العقدة v6.17.1 أو أحدث</li>
+<li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

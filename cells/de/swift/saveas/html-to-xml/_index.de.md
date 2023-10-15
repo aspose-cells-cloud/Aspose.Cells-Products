@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als XML API für Swift
-description:  Verwenden des Aspose.Cells Cloud SDK für Swift zum Speichern der Datei im HTML-Format als XML-Formatdatei.
+description: Verwenden des Aspose.Cells Cloud SDK für Swift zum Speichern der Datei im HTML-Format als XML-Formatdatei.
 url: /de/swift/saveas/html-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

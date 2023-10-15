@@ -5,21 +5,21 @@ weight: 40
 url: /ar/curl
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="معالجة أوراق Excel في السحابة via cURL" h2="استخدم أوامر cURL لإنشاء تطبيقات منشئ ومحول جداول البيانات التي تصل إلى Microsoft Excel وملفات OpenOffice من التخزين السحابي للمعالجة." logoImageSrc="/headers/aspose_cells-for-curl.svg" pfName="Aspose.Cells" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="معالجة Excel الأوراق في السحابة via cURL" h2="استخدم أوامر cURL لإنشاء تطبيقات منشئ جداول البيانات والمحولات التي تصل إلى Microsoft Excel وملفات OpenOffice من التخزين السحابي للمعالجة." logoImageSrc="/headers/aspose_cells-for-curl.svg" pfName="Aspose.Cells" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud for cURL" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-curl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>تم إنشاء Aspose.Cells Cloud لـ cURL على رأس Aspose.Cells Cloud REST APIs التي تساعد مطوري cURL على إنشاء تطبيقات قائمة على السحابة لعرض وتعديل وتحويل جدول بيانات Microsoft Excel & OpenOffice في السحابة ، دون أي تثبيت. يتم توزيع Aspose.Cells Cloud لـ cURL بموجب ترخيص MIT.</p>
-<p>Aspose.Cells Cloud لـ cURL ، يعمل على تحسين البرامج المستندة إلى مجموعة النظراء الخاصة بك للعمل مع أوراق العمل ، والمصنفات ، وجداول البيانات ، والصفوف ، والخلايا ، والمخططات ، والصور ، و ListObjects ، والجداول المحورية ، والمهام.</p>
+<p>تم إنشاء Aspose.Cells Cloud لـ cURL على أعلى Aspose.Cells Cloud REST APIs التي تساعد مطوري cURL على إنشاء تطبيقات مستندة إلى السحابة لعرض وتعديل وتحويل Microsoft Excel وجداول بيانات OpenOffice في السحابة، دون أي تثبيت. يتم توزيع Aspose.Cells Cloud لـ cURL بموجب ترخيص MIT.</p>
+<p>Aspose.Cells Cloud لـ cURL، يعمل على تحسين برامجك المستندة إلى السحابة للعمل مع أوراق العمل والمصنفات وجداول البيانات والصفوف والخلايا والمخططات والصور وكائنات القائمة والجداول المحورية والمهام.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="Aspose.Cells تستطيع السحابة تنفيذ كل مهام معالجة جدول البيانات." >}}
+{{< blocks/products/pf/carousel-item h3="في لمحة" description="Aspose.Cells يمكن للسحابة تنفيذ جميع مهام معالجة جداول البيانات." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
@@ -39,18 +39,18 @@ url: /ar/curl
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells تنسيقات الملفات المدعومة من السحابة." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells تنسيقات الملفات المدعومة السحابية." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> الإدخال / الإخراج</header><ul><li><b>Microsoft Excel:</b> XLS و XLSX و XLSB و XLSM و XLT و XLTX و XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> الإدخال/الإخراج</header><ul><li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
 <li><b>مكتب مفتوح:</b> المواد المستنفدة للأوزون</li>
-<li><b>SpreadsheetML:</b> XML</li>
+<li><b>جدول البياناتML:</b> XML</li>
 <li><b>نص:</b> CSV، TSV، TXT (محدد بعلامات جدولة)</li>
-<li><b>الويب:</b> HTML، MHTML</li>
+<li><b>الويب:</b> HTML، أتش تي أم أل</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>SXC ، FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> الإخراج فقط</header><ul><li>DIF، PDF، XPS، TIFF، SVG، MD (Markdown)</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>إس إكس سي، فودس</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> الإخراج فقط</header><ul><li>دي آي إف، PDF، XPS، TIFF، SVG، ماريلاند (تخفيض السعر)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -60,7 +60,7 @@ url: /ar/curl
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells Cloud يدعم جميع المنصات ولغات البرمجة الرئيسية." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="Aspose.Cells تدعم السحابة جميع المنصات ولغات البرمجة الرئيسية." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -74,7 +74,7 @@ url: /ar/curl
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- الميزات المتقدمة لمعالجة جدول البيانات Excel
+ الميزات المتقدمة لمعالجة جداول البيانات Excel
    </h2>
    <p>
    </p>
@@ -82,21 +82,21 @@ url: /ar/curl
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- أضف عوامل تصفية بمعايير مخصصة للقوائم
+ إضافة عوامل تصفية بمعايير مخصصة للقوائم
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- دعم لأنواع متعددة من مرشحات القائمة
+ دعم أنواع متعددة من مرشحات القائمة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على معلومات بخصوص حدود منطقة المخطط أو تنسيق التعبئة
+ احصل على معلومات بخصوص حدود منطقة المخطط أو تنسيق التعبئة
     </p>
    </div>
    <div class="col-lg-4">
@@ -110,42 +110,42 @@ url: /ar/curl
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على أو تحديث أو إظهار أو إخفاء وسيلة إيضاح الرسم البياني
+ الحصول على وسيلة إيضاح الرسم البياني أو تحديثها أو إظهارها أو إخفائها
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على عنوان المخطط وتحديثه وتعيين رؤيته
+ الحصول على عنوان المخطط وتحديثه وضبط رؤيته
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قم بإضافة منطقة خلية أو إزالتها من أجل التنسيق الشرطي
+ إضافة منطقة خلية أو إزالتها للتنسيق الشرطي
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إضافة وتحديث وحذف الارتباطات التشعبية ورقة العمل
+ إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قم باضافة ListObject في المكان المحدد في الملف Excel
+ أضف كائن قائمة في المكان المحدد في الملف Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- حذف ListObjects معينة أو كلها في ورقة العمل
+ حذف كائنات معينة أو جميع كائنات القائمة في ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -159,7 +159,7 @@ url: /ar/curl
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-تلخيص بيانات ListObject كبيرة أو جدول مع Pivot Table
+ تلخيص بيانات ListObject أو الجدول الكبير باستخدام Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ url: /ar/curl
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- حذف OleObjects معينة أو كلها من ورقة العمل
+احذف OleObjects معينة أو كلها من ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -187,7 +187,7 @@ url: /ar/curl
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- معالجة إعداد الصفحة ، رأس & أمبير ؛ تذييل
+ التعامل مع إعداد الصفحة والرأس &amp; تذييل
     </p>
    </div>
    <div class="col-lg-4">
@@ -230,19 +230,19 @@ url: /ar/curl
  ابدأ مع Excel معالجة جداول البيانات REST API
     </h2>
     <p>
- لكي تبدأ مع Aspose.Cells Cloud لـ cURL ، لا تحتاج إلى تثبيت أي شيء. كل ما عليك فعله هو إنشاء حساب على
+ لكي تبدأ مع Aspose.Cells Cloud لـ cURL، لا تحتاج إلى تثبيت أي شيء. كل ما عليك فعله هو إنشاء حساب على
      <a href="https://dashboard.aspose.cloud/#/apps">
- Aspose للسحابة
+ Aspose للسحاب
      </a>
-واحصل على معلومات التطبيق الخاص بك. بمجرد حصولك على التطبيق SID & amp؛ المفتاح ، فأنت جاهز لاستخدام Aspose.Cells Cloud لـ cURL على أي نظام أساسي يدعم واجهات برمجة تطبيقات REST. توفر لك Aspose.Cells Cloud لـ cURL كل الميزات لإنشاء جداول البيانات وتحريرها وتحويلها. كما يسمح لك باستخراج البيانات من جداول البيانات لمزيد من المعالجة أو التخزين.
+والحصول على معلومات التطبيق الخاص بك. بمجرد حصولك على التطبيق SID &amp; المفتاح، أنت جاهز لاستخدام Aspose.Cells Cloud لـ cURL على أي نظام أساسي يدعم REST APIs. توفر لك Aspose.Cells Cloud لـ cURL جميع الميزات لإنشاء جداول البيانات وتحريرها وتحويلها. كما يسمح لك باستخراج البيانات من جداول البيانات لمزيد من المعالجة أو التخزين.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- معالجة مصنفات via Cloud REST API
+ تجهيز المصنفات via Cloud REST API
     </h2>
     <p>
- يسمح لك Aspose.Cells Cloud لـ cURL بإنشاء وتقسيم ودمج والبحث واستبدال النص وحماية كلمة المرور والتصدير إلى تنسيق ملف مدعوم وقراءة العناصر النصية في المصنف وصفوف المصنف تلقائيًا مع تجاهل العناصر المخفية وتشفير كلمة مرور المصنف وتوفير طول مفتاح التشفير ، استيراد البيانات إلى المصنف ، حساب جميع الصيغ في المصنف ، تعيين إعدادات حساب الصيغة من خلال توفير إستراتيجية دقيقة وما إلى ذلك ، استخدم العلامة الذكية ، وتحويل المصنف من محتوى الطلب إلى تنسيق آخر ، وتطبيق كلمة المرور للسماح بتعديل المحتوى.
+ يتيح لك Aspose.Cells Cloud لـ cURL إنشاء نص وتقسيمه ودمجه والبحث فيه واستبداله وحماية كلمة المرور والتصدير إلى تنسيق ملف مدعوم وقراءة العناصر النصية للمصنف وملاءمة صفوف المصنف تلقائيًا مع تجاهل العناصر المخفية وتشفير كلمة مرور المصنف وتوفير طول مفتاح التشفير ، استيراد البيانات إلى المصنف، وحساب جميع الصيغ في المصنف، وتعيين إعدادات حساب الصيغة من خلال توفير استراتيجية دقيقة وما إلى ذلك، واستخدام العلامة الذكية، وتحويل المصنف من محتوى الطلب إلى تنسيق آخر، وتطبيق كلمة المرور للسماح بتعديل المحتوى.
     </p>
    </div>
    <div class="col-lg-12">
@@ -250,18 +250,18 @@ url: /ar/curl
 سحابة API لمعالجة أوراق العمل
     </h2>
     <p>
- باستخدام Aspose.Cells Cloud لـ cURL ، يمكنك حذف صف معين أو جميع الصفوف في ورقة العمل ، أو جلب بيانات خلية ورقة العمل أو نمط الخلية حسب اسم الخلية ، أو قراءة بيانات صف ورقة العمل أو العمود بواسطة فهرسها ، وحساب صيغة الخلية ، ومسح محتويات الخلية ، ونسخ خلية إلى أخرى الخلية ، ونسخ أعمدة وصفوف ورقة العمل ، وتجميع صفوف وأعمدة ورقة العمل ، وإخفاء صفوف وأعمدة ورقة العمل ، وتعيين أنماط أعمدة وصفوف ورقة العمل ، وتعيين قيمة HTMLSTRING في الخلية ، وتعيين قيمة نطاق الخلية وتعديل الكثير من إعدادات ورقة العمل الأخرى.
+ باستخدام Aspose.Cells Cloud لـ cURL، يمكنك حذف صف معين أو جميع الصفوف في ورقة العمل، وجلب بيانات خلية ورقة العمل أو نمط الخلية حسب اسم الخلية، وقراءة بيانات صف أو عمود ورقة العمل حسب فهرسها، وحساب صيغة الخلية، ومسح محتويات الخلية، ونسخ الخلية إلى أخرى الخلية، ونسخ أعمدة وصفوف ورقة العمل، وتجميع صفوف وأعمدة ورقة العمل، وإخفاء صفوف وأعمدة ورقة العمل، وتعيين عمود ورقة العمل وأنماط الصفوف، وتعيين قيمة HTMLSTRING في الخلية، وتعيين قيمة نطاق الخلية، وتعديل الكثير من إعدادات ورقة العمل الأخرى.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- الاستفادة من قوة الجداول المحورية & amp؛ نطاقات
+ الاستفادة من قوة الجداول المحورية &amp; نطاقات
     </h2>
     <p>
- يسمح لك Aspose.Cells Cloud لـ cURL بإضافة جدول محوري إلى ورقة العمل ، وإضافة أو حذف الحقول المحورية في الجدول المحوري ، وإضافة أو إزالة عامل التصفية المحوري لفهرس الجدول المحوري ، وتحديث نمط الخلية للجدول المحوري ، وحساب بيانات الجدول المحوري إلى الخلايا.
+ Aspose.Cells السحابة لـ cURL تسمح لك بإضافة جدول محوري إلى ورقة العمل، وإضافة أو حذف الحقول المحورية في الجدول المحوري، وإضافة أو إزالة عامل التصفية المحوري لفهرس الجدول المحوري، وتحديث نمط الخلية للجدول المحوري، وحساب بيانات الجدول المحوري إلى الخلايا.
     </p>
     <p>
-يمكن أيضًا استخدام Aspose.Cells Cloud لـ cURL للحصول على قائمة الخلايا في نطاق حسب اسم النطاق أو فهارس أعمدة الصف ، وتعيين عرض النطاق للعمود ، ودمج نطاق من الخلايا في خلية واحدة ، ونقل النطاق الحالي إلى نطاق الوجهة ، وتحديد الخطوط العريضة حد حول نطاق من الخلايا. ، قم بتعيين ارتفاع الصف من النطاق ، وتعيين نمط النطاق ، وإلغاء دمج الخلايا المدمجة في هذا النطاق ، ووضع قيمة في النطاق وتحويل نوع بياناته ، ونسخ النطاق في ورقة العمل.
+يمكن أيضًا استخدام Aspose.Cells Cloud لـ cURL للحصول على قائمة الخلايا في نطاق حسب اسم النطاق أو فهارس أعمدة الصف، وتعيين عرض العمود للنطاق، ودمج نطاق من الخلايا في خلية واحدة، ونقل النطاق الحالي إلى النطاق الوجهة، وتعيين المخطط التفصيلي حدود حول نطاق من الخلايا. وتعيين ارتفاع صف النطاق وتعيين نمط النطاق وإلغاء دمج الخلايا المدمجة في هذا النطاق ووضع قيمة في النطاق وتحويل نوع البيانات الخاص به ونسخ النطاق في ورقة العمل.
     </p>
    </div>
   </div>
@@ -276,16 +276,16 @@ url: /ar/curl
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells-cloud/" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.cloud" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells Cloud لـ cURL؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells سحابة لcURL؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="حماية" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

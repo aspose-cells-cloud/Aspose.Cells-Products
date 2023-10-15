@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохраните XLTM как TXT API для Swift.
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLTM в виде файла формата TXT.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLTM как файла формата TXT.
 url: /ru/swift/saveas/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTM как TXT" h2="Библиотека Swift для сохранения XLTM как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLTM как TXT и других форматов документов онлайн с помощью Swift." urlsection="saveas/xltm-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTM как TXT" h2="Библиотека Swift для сохранения XLTM как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XLTM в формате TXT и других форматов документов онлайн с помощью Swift." urlsection="saveas/xltm-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как TXT в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде TXT — сложная задача. Все переходы между форматами XLTM и TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLTM в формате TXT онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
+Сохранение форматов файлов из XLTM в формате TXT — сложная задача. Все переходы формата XLTM в TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Swift — это профессиональное решение для сохранения XLTM в виде файлов TXT онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLTM в формате TXT" gistPath="" %}}
@@ -55,9 +55,9 @@ url: /ru/swift/saveas/xltm-to-txt/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLTM как TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

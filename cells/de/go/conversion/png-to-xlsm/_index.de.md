@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG in XLSM Konvertieren Sie API für Go
-description: Verwenden Sie Aspose.Cells Cloud SDK für Go, um eine Datei im PNG-Format in eine XLSM-Formatdatei zu konvertieren.
-url: /de/go/conversion/png-to-xlsm/
+title:  Konvertieren Sie PNG mit Go in XLSM
+description:  Verwendung des Aspose.Cells Cloud SDK für Go zum Konvertieren einer Datei im PNG-Format in eine Datei im XLSM-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um PNG in XLSM zu konvertieren" h2="Gehen Sie zur Bibliothek, um PNG in XLSM zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in XLSM und andere Dokumentformate mit Go." urlsection="conversion/png-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie PNG in XLSM" h2="Go-Bibliothek zum Konvertieren von PNG in XLSM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in XLSM und andere Dokumentformate mit Go." urlsection="conversion/png-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in Go in XLSM" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie PNG in XLSM mit Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in XLSM ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum XLSM-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von PNG- in XLSM-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte XLSM-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in XLSM kann eine komplexe Aufgabe sein. Unser Go SDK verarbeitet alle Konvertierungen des Formats PNG in das XLSM-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Go-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG-Dateien in XLSM-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSM-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von PNG in das XLSM-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel für die Konvertierung von PNG in XLSM mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Das Konvertieren von Dateiformaten von PNG in XLSM ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um PNG in XLSM zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go zum Konvertieren von Excel-Dateien in andere Formate PNG in XLSM" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

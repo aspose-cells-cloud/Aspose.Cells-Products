@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ ODS كـ MHTML API لـ Python
+title:  احفظ ODS كـ MHTML باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق ODS كملف بتنسيق MHTML.
-url: /ar/python/saveas/ods-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ ODS كـ MHTML" h2="مكتبة Python لحفظ ODS كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Python. هذا حل احترافي لحفظ ODS كـ MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/ods-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ المواد المستنفدة للأوزون كـ MHTML" h2="Python مكتبة لحفظ المواد المستنفدة للأوزون بصيغة MHTML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق MHTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/ods-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كملف MHTML في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بتنسيق MHTML في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من ODS كـ MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى MHTML بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. مكتبتنا Python هي حل احترافي لحفظ ODS كملفات MHTML عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج MHTML مثالي.
+يعد حفظ تنسيقات الملفات من ODS بتنسيق MHTML مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق ODS إلى MHTML بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ المواد المستنفدة للأوزون كملفات MHTML عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Python وظائف قوية ومخرجات MHTML مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ ODS بتنسيق MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ المواد المستنفدة للأوزون كـ MHTML باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/ods-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ ODS كـ MHTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى ODS مثل MHTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

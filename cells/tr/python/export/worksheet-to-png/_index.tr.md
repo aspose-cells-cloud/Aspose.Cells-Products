@@ -1,19 +1,18 @@
 ﻿---
-title:  Python API'i kullanarak WORKSHEET'i e-tablodan PNG'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/python/export/worksheet-to-png/
+title:  Python için Cells Cloud SDK'yı kullanarak ÇALIŞMA SAYFASINI Excel'den PNG'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, WORKSHEET\'i PNG dosyasına aktarmak için" h2="WORKSHEET\'i PNG dosyasına dışa aktarmak için Python kitaplığı" p="Python\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, WORKSHEET\'i Python kullanarak elektronik tablodan PNG biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA SAYFASINI Excel\'den PNG\'e aktar" h2="WORKSHEET\'i PNG dosyasına aktarmak için Python kitaplığı" p="Python\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Python\'i kullanarak çevrimiçi elektronik tablodan ÇALIŞMA SAYFASINI PNG biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKSHEET nesnesini Python\'deki PNG biçim dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Python için Cells Cloud SDK\'yı kullanarak ÇALIŞMA SAYFASI nesnesini PNG biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-WORKSHEET nesnesini elektronik tablodan PNG dosyasına dışa aktarma karmaşık bir görevdir. WORKSHEET'i PNG biçimine dışa aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriğini korurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak PNG biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel PNG çıkışı sağlar.
+ÇALIŞMA SAYFASI nesnesini Excel dosyasından PNG dosyasına aktarmak karmaşık bir iştir. WORKSHEET'i PNG'e aktar format geçişleri Python SDK'mız tarafından gerçekleştirilir ve kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, ÇALIŞMA SAYFASI nesnelerini çevrimiçi olarak PNG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Python geliştiriciye güçlü işlevsellik ve mükemmel PNG çıktı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i elektronik tablodan PNG biçimine dışa aktarmak için REST API kullanan Python\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i e-tablodan PNG formatına aktarmak için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,9 +36,9 @@ WORKSHEET nesnesini elektronik tablodan PNG dosyasına dışa aktarma karmaşık
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="WORKSHEET\'i PNG\'e dışa aktarmak için Python API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel ÇALIŞMA SAYFASI\'ndan PNG\'e dışa aktarmak için Python için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için post_export yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

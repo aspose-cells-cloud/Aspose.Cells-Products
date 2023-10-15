@@ -1,16 +1,15 @@
 ﻿---
-title:  Экспортируйте ДИАГРАММУ в SVG из электронной таблицы, используя Java API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/java/export/chart-to-svg/
+title:  Экспортируйте CHART в SVG из Excel с помощью Cloud SDK Cells for Java.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для экспорта ДИАГРАММЫ в файл SVG" h2="Java библиотека для экспорта CHART в файл SVG" p="Используйте Cells Экспорт REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Java. Это профессиональное решение для экспорта файла формата CHART в файл формата SVG из электронной таблицы онлайн с использованием Java." urlsection="export/chart-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать CHART в SVG из Excel" h2="Java библиотека для экспорта CHART в файл SVG" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Java. Это профессиональное решение для экспорта CHART в файл формата SVG из электронной таблицы онлайн с использованием Java." urlsection="export/chart-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта CHART в файл формата SVG в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект CHART в файл формата SVG с помощью Cloud SDK Cells for Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта CHART в файл SVG из электронной таблицы является сложной задачей. Экспорт CHART в переходы формата SVG выполняется нашим SDK Java, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы CHART. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата SVG. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат SVG.
+Экспорт объекта CHART в файл SVG из файла Excel — сложная задача. Экспорт переходов формата CHART в формат SVG выполняется нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы CHART. Наша библиотека Java представляет собой профессиональное решение для онлайн-экспорта объектов CHART в файлы формата SVG. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный результат SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для экспорта CHART в формат SVG из электронной таблицы" gistPath="" %}}
@@ -51,10 +50,10 @@ url: /ru/java/export/chart-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для экспорта ДИАГРАММЫ в SVG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для экспорта объектов из Excel CHART в SVG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

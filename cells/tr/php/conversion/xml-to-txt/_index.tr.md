@@ -1,19 +1,18 @@
 ﻿---
-title: XML'den TXT'ye Dönüştürme API için PHP
-description:  XML biçim dosyasını TXT biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
-url: /tr/php/conversion/xml-to-txt/
+title:  PHP'i kullanarak XML'i TXT'ye dönüştürün
+description: XML biçimindeki bir dosyayı TXT biçimindeki dosyaya dönüştürmek için PHP için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API XML\'i TXT\'ye dönüştürmek için" h2="XML\'i TXT\'ye dönüştürmek için PHP kitaplığı" p="PHP\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, PHP\'i kullanarak XML\'i TXT\'ye ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xml-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i TXT\'ye dönüştür" h2="XML\'i TXT\'ye dönüştürmek için PHP kitaplığı" p="PHP projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, PHP\'i kullanarak XML\'i TXT\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xml-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını PHP\'de TXT\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PHP için Cells Cloud SDK\'yı kullanarak XML\'i TXT\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini XML'den TXT'ye dönüştürmek karmaşık bir iştir. Tüm XML'den TXT biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken PHP SDK'mız tarafından gerçekleştirilir. PHP kitaplığımız, XML'i çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıkışı sağlar.
+Dosya formatlarını XML'den TXT'ye dönüştürmek karmaşık bir iş olabilir. PHP SDK'mız, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XML'den TXT'ye format dönüştürme işlemlerini gerçekleştirir. PHP kitaplığımız, XML'i çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, PHP geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli TXT çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XML\'i TXT formatına dönüştürmek için REST API kullanan PHP\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Cells Bulut SDK\'yı kullanarak XML\'i TXT\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Dosya biçimlerini XML'den TXT'ye dönüştürmek karmaşık bir iştir. Tüm XM
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XML\'i TXT\'ye dönüştürmek için PHP API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkBook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını XML\'den TXT\'ye diğer formatlara dönüştürmek için PHP için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

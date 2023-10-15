@@ -1,19 +1,18 @@
 ﻿---
-title:  GIF in XML konvertieren API für Android
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Android, um eine Datei im GIF-Format in eine Datei im XML-Format zu konvertieren.
-url: /de/android/conversion/gif-to-xml/
+title:  Konvertieren Sie GIF mit Android in XML
+description: Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer GIF-Formatdatei in eine XML-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von GIF in XML" h2="Android-Bibliothek zum Konvertieren von GIF in XML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von GIF in XML und andere Dokumentformate mit Android." urlsection="conversion/gif-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie GIF in XML" h2="Android-Bibliothek zum Konvertieren von GIF in XML" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von GIF in XML und andere Dokumentformate mit Android." urlsection="conversion/gif-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine GIF-Datei in XML in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie GIF mit dem Cloud SDK Cells für Android in XML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von GIF in XML ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XML-Format werden von unserem Android SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-GIF-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von GIF- in XML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
+Das Konvertieren von Dateiformaten von GIF in XML kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von GIF- in XML-Formaten und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-GIF-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von GIF- in XML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Konvertieren von GIF in das XML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel für die Konvertierung von GIF in XML mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von GIF in XML ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API zum Konvertieren von GIF in XML" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in andere Formate, GIF in XML, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

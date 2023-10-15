@@ -1,19 +1,19 @@
 ﻿---
-title:  XLSM إلى TXT - تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق XLSM إلى ملف بتنسيق TXT.
+title:  XLSM إلى TXT تحويل API لـ Swift
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق XLSM إلى ملف تنسيق TXT.
 url: /ar/swift/conversion/xlsm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل XLSM إلى TXT" h2="مكتبة Swift لتحويل XLSM إلى TXT" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل XLSM إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/xlsm-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل XLSM إلى TXT" h2="مكتبة سويفت لتحويل XLSM إلى TXT" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل XLSM إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/xlsm-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى TXT في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف XLSM إلى TXT في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى TXT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى TXT بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لتحويل ملفات XLSM إلى TXT عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج TXT مثالي.
+يعد تحويل تنسيقات الملفات من XLSM إلى TXT مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLSM إلى TXT بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSM إلى TXT عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات TXT مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل XLSM إلى تنسيق TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل تنسيق XLSM إلى تنسيق TXT" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/xlsm-to-txt/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل XLSM إلى TXT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

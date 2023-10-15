@@ -1,19 +1,18 @@
 ﻿---
-title:  SXC в TIFF Преобразование API в Python
-description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата SXC в файл формата TIFF.
-url: /ru/python/conversion/sxc-to-tiff/
+title:  Преобразуйте SXC в TIFF, используя Python.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата SXC в файл формата TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования SXC в TIFF" h2="Библиотека Python для преобразования SXC в TIFF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для преобразования SXC в TIFF и другие форматы документов онлайн с использованием Python." urlsection="conversion/sxc-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать SXC в TIFF" h2="Python библиотека для конвертации SXC в TIFF" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертирования SXC в TIFF и другие форматы документов с использованием Python." urlsection="conversion/sxc-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в TIFF в Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте SXC в TIFF с помощью Cloud SDK Cells для Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в TIFF — сложная задача. Все переходы формата SXC в формат TIFF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов SXC в файлы TIFF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат TIFF.
+Преобразование форматов файлов из SXC в TIFF может оказаться сложной задачей. Наш SDK Python обрабатывает все преобразования формата SXC в TIFF, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Python предоставляет профессиональное решение для онлайн-конвертации файлов SXC в TIFF. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и обеспечивает высококачественный результат TIFF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования SXC в формат TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для преобразования SXC в TIFF с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ru/python/conversion/sxc-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для преобразования SXC в TIFF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python для преобразования файлов Excel в другие форматы SXC в TIFF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

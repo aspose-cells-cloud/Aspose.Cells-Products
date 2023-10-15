@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить HTML как PPTX API для PHP
-description: Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата HTML в виде файла формата PPTX.
-url: /ru/php/saveas/html-to-pptx/
+title:  Сохраните HTML как PPTX, используя PHP.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата HTML как файла формата PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить HTML как PPTX" h2="PHP библиотека для сохранения HTML как PPTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения HTML в формате PPTX и других форматах документов в Интернете с использованием PHP." urlsection="saveas/html-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как PPTX" h2="PHP библиотека для сохранения HTML как PPTX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения HTML в формате PPTX и других форматов документов онлайн с помощью PHP." urlsection="saveas/html-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как PPTX в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как PPTX — сложная задача. Все переходы формата HTML в формат PPTX выполняются с помощью нашего SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека PHP — это профессиональное решение для сохранения HTML в виде файлов PPTX в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод PPTX.
+Сохранение файлов формата HTML в формате PPTX — сложная задача. Все переходы формата HTML в формат PPTX выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека PHP — это профессиональное решение для сохранения HTML в формате PPTX в Интернете. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения HTML в формате PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения HTML как PPTX с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/html-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения HTML как PPTX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для сохранения файлов Excel в других форматах HTML как PPTX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

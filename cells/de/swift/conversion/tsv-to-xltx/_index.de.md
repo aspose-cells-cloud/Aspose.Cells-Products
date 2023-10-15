@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV zu XLTX Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im TSV-Format in eine Datei im XLTX-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im TSV-Format in eine Datei im XLTX-Format.
 url: /de/swift/conversion/tsv-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

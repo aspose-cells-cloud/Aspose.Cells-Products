@@ -1,16 +1,16 @@
 ﻿---
 title:  XLSX en PNG Convertir API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format XLSX en fichier au format PNG.
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format XLSX en fichier au format PNG.
 url: /fr/swift/conversion/xlsx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir XLSX en PNG" h2="Bibliothèque Swift pour convertir XLSX en PNG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir XLSX en PNG et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/xlsx-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir XLSX en PNG" h2="Bibliothèque Swift pour convertir XLSX en PNG" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir XLSX en PNG et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/xlsx-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSX en PNG dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLSX en PNG est une tâche complexe. Toutes les transitions de format XLSX vers PNG sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers XLSX en PNG. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PNG parfaite.
+La conversion des formats de fichiers de XLSX en PNG est une tâche complexe. Toutes les transitions du format XLSX vers PNG sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne XLSX en fichiers PNG. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PNG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir XLSX au format PNG" gistPath="" %}}
@@ -67,8 +67,8 @@ La conversion des formats de fichiers XLSX en PNG est une tâche complexe. Toute
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir XLSX en PNG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

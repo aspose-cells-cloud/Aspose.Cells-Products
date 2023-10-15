@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie JPG unter XPS API for Java
-description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im JPG-Format als Datei im Format XPS zu speichern.
-url: /de/java/saveas/jpg-to-xps/
+title:  Speichern Sie JPG unter XPS mit Java
+description:  Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern von JPG-Formatdateien als XPS-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um JPG als XPS zu speichern" h2="Java-Bibliothek, um JPG als XPS zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um JPG als XPS und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/jpg-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie JPG unter XPS" h2="Java-Bibliothek zum Speichern von JPG unter XPS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um JPG als XPS und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/jpg-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei unter XPS in Java" >}}
@@ -13,7 +12,7 @@ url: /de/java/saveas/jpg-to-xps/
 Das Speichern von Dateiformaten aus JPG als XPS ist eine komplexe Aufgabe. Alle JPG-Formatübergänge in das XPS-Format werden von unserem Java-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um JPG-Dateien im Format XPS online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte XPS Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von JPG im XPS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel zum Speichern von JPG als XPS mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus JPG als XPS ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um JPG als XPS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Excel-Dateien in anderen JPG-Formaten als XPS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,14 +1,13 @@
 ﻿---
-title:  Schützen Sie mit Go
-description:  Aspose.Cells Cloud REST API unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen für digitale Signaturen mit Go. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/go/protect/
+title:  Schützen Sie Excel-Dateien mit Go
+description: Aspose.Cells Cloud REST API unterstützt das Verschlüsseln, Entschlüsseln und Hinzufügen digitaler Signaturen zu Arbeitsmappen mit Go und bietet SDKs für verschiedene Programmiersprachen.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Schützen Sie mit Go" h2="Aspose.Cells Cloud SDK unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur." p="Aspose.Cells Cloud REST API unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen für digitale Signaturen mit Go. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Schützen Sie Excel-Dateien mit Go" h2="Aspose.Cells Cloud SDK unterstützt das Entschlüsseln, Verschlüsseln und digitale Signieren von Arbeitsmappen." p="Aspose.Cells Cloud REST API unterstützt das Verschlüsseln, Entschlüsseln und Hinzufügen digitaler Signaturen zu Arbeitsmappen mit Go und bietet SDKs für verschiedene Programmiersprachen." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Schützen Sie mit Go Extension-Links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Schützen Sie Excel-Dateien mit Go-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

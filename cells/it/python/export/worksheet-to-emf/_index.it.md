@@ -1,19 +1,18 @@
 ﻿---
-title:  Esporta FOGLIO DI LAVORO in EMF dal foglio di calcolo utilizzando Python API
+title:  Esporta FOGLIO DI LAVORO a EMF da Excel utilizzando Cells Cloud SDK per Python
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/python/export/worksheet-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per esportare WORKSHEET nel file EMF" h2="Python libreria per esportare WORKSHEET nel file EMF" p="Utilizzare Cells Export REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Python. Questa è una soluzione professionale per esportare il FOGLIO DI LAVORO nel file in formato EMF dal foglio di calcolo online utilizzando Python." urlsection="export/worksheet-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta FOGLIO DI LAVORO a EMF da Excel" h2="Libreria Python per esportare FOGLIO DI LAVORO nel file EMF" p="Utilizza Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Python. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO nel file in formato EMF dal foglio di calcolo online utilizzando Python." urlsection="export/worksheet-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta oggetto WORKSHEET nel file in formato EMF in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato EMF utilizzando Cells Cloud SDK per Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto WORKSHEET nel file EMF dal foglio di calcolo è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni di formato EMF viene eseguita dal nostro SDK Python mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Python è una soluzione professionale per esportare oggetti WORKSHEET in file in formato EMF online. Questo Cloud SDK offre agli sviluppatori Python potenti funzionalità e un output EMF perfetto.
+Esportare l'oggetto FOGLIO DI LAVORO nel file EMF dal file Excel è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni del formato EMF viene eseguita dal nostro SDK Python mantenendo il contenuto strutturale e logico principale del foglio di lavoro del FOGLIO DI LAVORO di origine. La nostra libreria Python è una soluzione professionale per esportare oggetti FOGLIO DI LAVORO in file in formato EMF online. Questo Cloud SDK offre agli sviluppatori Python funzionalità potenti e un output EMF perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Python utilizzando REST API per esportare WORKSHEET nel formato EMF dal foglio di calcolo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Python utilizzando REST API per esportare FOGLIO DI LAVORO nel formato EMF dal foglio di calcolo" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,16 +36,16 @@ Esportare l'oggetto WORKSHEET nel file EMF dal foglio di calcolo è un'attività
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Python API per esportare WORKSHEET in EMF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Python per esportare oggetti da Excel WORKSHEET a EMF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
 <li>Chiama il metodo post_export per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Python 2.7 o più recente</li>
-<li>Python 3.10 o più recente</li>
+<li>Python 2.7 o successiva</li>
+<li>Python 3.10 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF в XLSB Конвертировать API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата EMF в файл формата XLSB.
-url: /ru/ruby/conversion/emf-to-xlsb/
+title:  Преобразование EMF в XLSB с помощью Ruby
+description:  Использование Cloud SDK Aspose.Cells для Ruby для преобразования файла формата EMF в файл формата XLSB.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования EMF в XLSB" h2="Библиотека Ruby для преобразования EMF в XLSB" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для преобразования EMF в XLSB и другие форматы документов онлайн с использованием Ruby." urlsection="conversion/emf-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать EMF в XLSB" h2="Библиотека Ruby для преобразования EMF в XLSB" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Ruby. Это профессиональное решение для онлайн-конвертирования EMF в XLSB и другие форматы документов с помощью Ruby." urlsection="conversion/emf-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в XLSB в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте EMF в XLSB с помощью Cloud SDK Cells для Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в XLSB — сложная задача. Все переходы формата EMF в формат XLSB выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов EMF в XLSB. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате XLSB.
+Преобразование форматов файлов из EMF в XLSB может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования формата EMF в XLSB, сохраняя при этом основное структурное и логическое содержимое исходной таблицы EMF. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертации файлов EMF в XLSB. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод XLSB.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования EMF в формат XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для преобразования EMF в XLSB с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ru/ruby/conversion/emf-to-xlsb/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для преобразования EMF в XLSB" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для преобразования файлов Excel в другие форматы EMF в XLSB" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

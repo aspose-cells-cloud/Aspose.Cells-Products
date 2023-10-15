@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera LISTOBJECT till SVG från kalkylblad med C# API
+title:  Exportera LISTOBJECT till SVG från Excel med Cells Cloud SDK för C#
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/net/export/listobject-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att exportera LISTOBJECT till SVG fil" h2="C# bibliotek för att exportera LISTOBJECT till SVG fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i Net. Detta är en professionell lösning för att exportera LISTOBJECT till SVG filformat från kalkylblad online med C#." urlsection="export/listobject-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera LISTOBJECT till SVG från Excel" h2="C# bibliotek för export av LISTOBJECT till SVG fil" p="Använd Export API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Net. Detta är en professionell lösning för att exportera LISTOBJECT till SVG filformat från kalkylblad online med C#." urlsection="export/listobject-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till SVG filformat i C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till SVG-formatfil med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera LISTOBJECT-objekt till SVG-fil från kalkylblad är en komplex uppgift. Export av LISTOBJECT till SVG formatövergångar utförs av vår C# SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till filer i SVG-format online. Denna Cloud SDK ger C#-utvecklare kraftfull funktionalitet och perfekt SVG-utdata.
+Exportera LISTOBJECT-objekt till filen SVG från filen Excel är en komplex uppgift. Export av LISTOBJECT till SVG formatövergångar utförs av vår C# SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till filer i SVG-format online. Denna Cloud SDK ger C#-utvecklare kraftfull funktionalitet och perfekt SVG-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att exportera LISTOBJECT till SVG-format från kalkylblad" gistPath="" %}}
@@ -44,10 +43,10 @@ Exportera LISTOBJECT-objekt till SVG-fil från kalkylblad är en komplex uppgift
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att exportera LISTOBJECT till SVG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring PostExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att exportera objekt från Excel LISTOBJECT till SVG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

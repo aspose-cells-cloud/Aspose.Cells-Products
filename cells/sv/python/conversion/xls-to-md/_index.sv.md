@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS till MD Konvertera API för Python
-description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera fil i XLS-format till fil i MD-format.
-url: /sv/python/conversion/xls-to-md/
+title:  Konvertera XLS till MD med Python
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera en fil i XLS-format till en fil i MD-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att konvertera XLS till MD" h2="Python bibliotek för att konvertera XLS till MD" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att konvertera XLS till MD och andra dokumentformat online med Python." urlsection="conversion/xls-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLS till MD" h2="Python bibliotek för att konvertera XLS till MD" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python projekt. Detta är en professionell lösning för att konvertera XLS till MD och andra dokumentformat online med Python." urlsection="conversion/xls-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLS-fil till MD i Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLS till MD med Cells Cloud SDK för Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLS till MD är en komplex uppgift. Alla XLS till MD-formatövergångar utförs av vår Python SDK samtidigt som käll XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att konvertera XLS till MD-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt MD-utgång.
+Att konvertera filformat från XLS till MD kan vara en komplex uppgift. Vår Python SDK hanterar alla XLS- till MD-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-XLS-kalkylarket bevaras. Vårt Python-bibliotek tillhandahåller en professionell lösning för att konvertera XLS till MD-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och säkerställer högkvalitativa MD-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att konvertera XLS till MD-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kodexempel för att konvertera XLS till MD med Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Att konvertera filformat från XLS till MD är en komplex uppgift. Alla XLS till
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att konvertera XLS till MD" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att konvertera Excel filer till andra format XLS till MD" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

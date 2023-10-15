@@ -1,19 +1,19 @@
 ﻿---
-title:  احفظ GIF باسم XPS API لـ Swift
+title:  احفظ GIF كـ XPS API لـ Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق GIF كملف بتنسيق XPS.
 url: /ar/swift/saveas/gif-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ GIF كـ XPS" h2="مكتبة سريعة لحفظ GIF باسم XPS" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ GIF كـ XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/gif-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ GIF كـ XPS" h2="مكتبة سويفت لحفظ GIF كـ XPS" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ ملف GIF بتنسيق XPS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/gif-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF بالشكل XPS في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF باسم XPS في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من GIF كـ XPS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى XPS بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ GIF كملفات XPS عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XPS مثالي.
+يعد حفظ تنسيقات الملفات من GIF بالرقم XPS مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق GIF إلى XPS بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ ملفات GIF كملفات XPS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج XPS مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ GIF بتنسيق XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ GIF بتنسيق XPS" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,15 +54,15 @@ url: /ar/swift/saveas/gif-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ GIF باسم XPS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ GIF كـ XPS" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

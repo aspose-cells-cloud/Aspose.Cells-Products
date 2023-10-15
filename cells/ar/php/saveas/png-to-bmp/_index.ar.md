@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ PNG كـ BMP API مقابل PHP
-description: استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق PNG كملف بتنسيق BMP.
-url: /ar/php/saveas/png-to-bmp/
+title:  احفظ PNG كـ BMP باستخدام PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق PNG كملف بتنسيق BMP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ PNG كـ BMP" h2="مكتبة PHP لحفظ PNG كـ BMP" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ PNG كـ BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/png-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ PNG كـ BMP" h2="مكتبة PHP لحفظ PNG باسم BMP" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في PHP. يعد هذا حلاً احترافيًا لحفظ PNG كـ BMP وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/png-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف PNG كـ BMP في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من PNG كـ BMP مهمة معقدة. يتم إجراء جميع انتقالات تنسيق PNG إلى BMP بواسطة SDK PHP مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات PNG المصدر. مكتبتنا PHP هي حل احترافي لحفظ PNG كملفات BMP عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج BMP مثالي.
+يعد حفظ تنسيقات الملفات من PNG إلى BMP مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من PNG إلى BMP بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG. تعد مكتبتنا PHP حلاً احترافيًا لحفظ PNG كملفات BMP عبر الإنترنت. يمنح Cloud SDK هذا مطوري PHP وظائف قوية وإخراج BMP مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ PNG بتنسيق BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على حفظ PNG كـ BMP باستخدام REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ar/php/saveas/png-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لحفظ PNG كـ BMP" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لحفظ ملفات Excel بتنسيقات أخرى PNG كـ BMP" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

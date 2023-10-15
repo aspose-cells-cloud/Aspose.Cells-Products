@@ -1,27 +1,26 @@
 ﻿---
-title:  Slå samman flera Excel-filer till en fil med Ruby.
-description: " Cloud API:er och SDK:er för att slå samman flera Excel-filer med Ruby"
-url: /sv/ruby/merge/multi-files/
+title:  Slå samman flera Excel-filer till en enda fil med Ruby.
+description: " Cloud API:er och SDK:er för att slå samman flera Excel-filer med Ruby."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att slå samman flera Excel-filer till en fil." h2="Ruby-bibliotek för att slå samman flera Excel-filer till en fil." p="Använd Cells Merge REST API för att slå samman flera Excel-filer till en fil i Ruby. Denna professionella lösning slår samman flera Excel-filer till ett Microsoft Excel eller OpenOffice Calc-kalkylblad med Ruby." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK för Ruby för att slå samman flera Excel-filer till en enda fil." h2="Ruby-bibliotek för att slå samman flera Excel-filer till en enda fil." p="Använd Cells Cloud SDK för att slå samman flera Excel-filer till en enda fil i Ruby. Denna professionella lösning låter dig kombinera flera Excel-filer till ett Microsoft Excel eller OpenOffice Calc-kalkylblad med Ruby." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Slå samman flera Excel-filer till en fil - Ruby REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Slå ihop flera Excel-filer till en enda fil med Cells Cloud SDK för Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" %}}
 <br/>
-Att slå samman flera Excel-filer till en fil är en komplex uppgift. Sammanfogning av flera Excel-filer till en filövergångar utförs av vår Ruby SDK samtidigt som källarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att slå samman flera Excel-filer till en fil online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt API.
+Att slå samman flera Excel-filer till en enda fil kan vara en komplicerad uppgift. Vårt Ruby SDK hanterar denna process och säkerställer att det huvudsakliga strukturella och logiska innehållet i källkalkylarken bevaras. Vårt Ruby-bibliotek är en professionell lösning för att slå samman flera Excel-filer till en online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och en robust API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby som använder REST API för att slå samman flera Excel-filer till en fil" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-PostMerge.rb" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att slå samman flera Excel-filer till en enda fil." gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-PostMerge.rb" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att slå samman" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop post_merge-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python API för sammanslagning" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_merge` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

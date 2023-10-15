@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XLT باسم WMF API من أجل NodeJS
-description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLT كملف بتنسيق WMF.
-url: /ar/nodejs/saveas/xlt-to-wmf/
+title:  احفظ XLT كـ WMF باستخدام NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLT كملف بتنسيق WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لحفظ XLT كـ WMF" h2="مكتبة NodeJS لحفظ XLT كـ WMF" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في NodeJS. هذا حل احترافي لحفظ XLT بتنسيق WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/xlt-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLT كـ WMF" h2="مكتبة NodeJS لحفظ XLT بصيغة WMF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في NodeJS. يعد هذا حلاً احترافيًا لحفظ XLT بتنسيق WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/xlt-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLT كملف WMF في NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLT بتنسيق WMF في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLT مثل WMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى WMF بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLT المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ XLT كملفات WMF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج WMF مثالي.
+يعد حفظ تنسيقات الملفات من XLT بتنسيق WMF مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLT إلى WMF بواسطة NodeJS SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لحفظ XLT كملفات WMF عبر الإنترنت. يوفر Cloud SDK لمطوري NodeJS وظائف قوية ومخرجات WMF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ XLT بتنسيق WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز NodeJS لحفظ XLT كـ WMF باستخدام REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ url: /ar/nodejs/saveas/xlt-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Node API لحفظ XLT كـ WMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لحفظ ملفات Excel بتنسيقات أخرى XLT مثل WMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>العقدة v6.17.1 أو أحدث</li>
+<li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

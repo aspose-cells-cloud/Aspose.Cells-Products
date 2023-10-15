@@ -1,16 +1,16 @@
 ﻿---
-title:  Enregistrer XLS sous ODS API pour Swift
+title:  Enregistrer XLS sous le nom ODS API pour Swift
 description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format XLS en tant que fichier au format ODS.
 url: /fr/swift/saveas/xls-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLS en tant qu\'ODS" h2="Bibliothèque Swift pour enregistrer XLS en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLS en tant qu\'ODS et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xls-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLS en tant qu\'ODS" h2="Bibliothèque Swift pour enregistrer XLS en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLS au format ODS et autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xls-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLS en tant qu\'ODS dans Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLS au format ODS dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers XLS en tant qu'ODS est une tâche complexe. Toutes les transitions de format XLS vers ODS sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des fichiers XLS en tant que fichiers ODS en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie ODS parfaite.
+L'enregistrement des formats de fichiers XLS au format ODS est une tâche complexe. Toutes les transitions du format XLS vers ODS sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer XLS sous forme de fichiers ODS en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie ODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer XLS au format ODS" gistPath="" %}}
@@ -56,8 +56,8 @@ L'enregistrement de formats de fichiers XLS en tant qu'ODS est une tâche comple
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer XLS en tant qu\'ODS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

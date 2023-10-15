@@ -1,19 +1,19 @@
 ﻿---
-title:  HTML'i Swift için SQL API olarak kaydedin
-description:  HTML biçim dosyasını SQL biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
+title:  Swift için HTML'i SQL API olarak kaydedin
+description: HTML formatındaki dosyayı SQL formatındaki dosya olarak kaydetmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/saveas/html-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i SQL olarak kaydetmek için Swift API" h2="HTML\'i SQL olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift kullanarak çevrimiçi olarak HTML\'i SQL ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/html-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i SQL olarak kaydetmek için Swift API" h2="HTML\'i SQL olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift kullanarak HTML\'i SQL ve diğer belge formatları olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/html-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir HTML dosyasını Swift\'de SQL olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de HTML dosyasını SQL olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-HTML'den dosya biçimlerini SQL olarak kaydetmek karmaşık bir görevdir. HTML'den SQL biçimine geçişlerin tümü, kaynak HTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, HTML'i çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
+HTML'den dosya formatlarını SQL olarak kaydetmek karmaşık bir iştir. HTML'den SQL formatına tüm geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak HTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, HTML'i çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="HTML\'i SQL formatı olarak kaydetmek için REST API kullanan Swift kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="HTML\'i SQL formatı olarak kaydetmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,15 +55,15 @@ HTML'den dosya biçimlerini SQL olarak kaydetmek karmaşık bir görevdir. HTML'
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="HTML\'i SQL olarak kaydetmek için Swift API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
+<li>Ortaya çıkan akışı almak için CellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>macOS Monterey 12.4</li>
-<li>hızlı 4.2</li>
+<li>Hızlı 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

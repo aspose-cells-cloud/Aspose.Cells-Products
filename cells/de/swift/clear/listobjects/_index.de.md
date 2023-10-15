@@ -1,6 +1,6 @@
 ﻿---
 title:  Listenobjekte in der lokalen Arbeitsmappe in der Cloud löschen
-description: Cloud-APIs und SDKs zum Löschen von Listenobjekten unter Microsoft Excel und OpenOffice Calc. Listen Sie Objekte in lokalen Tabellenkalkulationen durch die Cells Cloud API auf. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description: Cloud-APIs und SDKs zum Löschen von Listenobjekten unter Microsoft Excel und OpenOffice Calc. Löschen Sie Objekte in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -18,7 +18,7 @@ Das Löschen von Listenobjekten in der lokalen Microsoft Excel- und OpenOffice C
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Löschen von Listenobjekten" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Swift API zum Löschen von Listenobjekten" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postClearObjects auf, um den resultierenden Stream abzurufen</li>

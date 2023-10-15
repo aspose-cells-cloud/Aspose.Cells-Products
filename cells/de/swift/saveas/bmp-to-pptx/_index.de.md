@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie BMP als PPTX API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im BMP-Format als Datei im PPTX-Format zu speichern.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im BMP-Format als Datei im PPTX-Format zu speichern.
 url: /de/swift/saveas/bmp-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

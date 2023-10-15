@@ -1,10 +1,9 @@
 ﻿---
 title:  Entschlüsseln Sie Cloud-Tabellen mit einem Passwort in der Cloud
 description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc entschlüsseln Cloud-Dateien mit Passwort. Entschlüsseln Sie Cloud-Tabellen mit der Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/php/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Entschlüsseln der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" h2="PHP-Bibliothek zum Entschlüsseln von Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Decrypt Rest API, um Cloud Microsoft Excel und Openoffice Calc -Tabelle mit Kennwort -Workflows in 0761434881 zu entschlüsseln. Diese professionelle Lösung entschlüsselt mit Passwörtern Microsoft 07613481 und OpenOffice mit Passwörtern mit Passwörtern." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Entschlüsseln der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" h2="PHP-Bibliothek zum Entschlüsseln von Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Decrypt Rest API, um die Cloud Microsoft Excel und Openoffice Calc -Tabelle mit Kennwort -Workflows in PHP. Diese professionelle Lösung zu decrypts collow Microsoft 07613481 und OpenOffice -Spreadsheet Online mit Passwörtern zu entschlüsseln." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort entschlüsseln – PHP REST API" >}}
@@ -18,7 +17,7 @@ Das Entschlüsseln einer Cloud-Tabelle mit einem Passwort ist eine komplexe Aufg
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie PHP API zum Entschlüsseln" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cloud SDK Cells für PHP, um die Datei Excel zu entschlüsseln" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode „cellsWorkbookDeleteDecryptDocument“ auf, um den resultierenden Stream abzurufen</li>

@@ -1,19 +1,18 @@
 ﻿---
-title: XLSB إلى JSON تحويل API إلى Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLSB إلى ملف بتنسيق JSON.
-url: /ar/perl/conversion/xlsb-to-json/
+title:  تحويل XLSB إلى JSON باستخدام Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق XLSB إلى ملف بتنسيق JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLSB إلى JSON" h2="Perl مكتبة لتحويل XLSB إلى JSON" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Perl. هذا حل احترافي لتحويل XLSB إلى JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsb-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSB إلى JSON" h2="مكتبة Perl لتحويل XLSB إلى JSON" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل XLSB إلى JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsb-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSB إلى JSON في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSB إلى JSON باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSB إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى JSON بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XLSB إلى JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج JSON مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSB إلى JSON مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق XLSB إلى JSON مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XLSB إلى ملفات JSON عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن إخراج JSON عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل XLSB إلى تنسيق JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل XLSB إلى JSON باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/xlsb-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل XLSB إلى JSON" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل XLSB إلى JSON" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

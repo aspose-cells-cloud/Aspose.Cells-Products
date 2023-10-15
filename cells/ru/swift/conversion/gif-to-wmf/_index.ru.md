@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование GIF в WMF API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата WMF.
+title:  Конвертировать GIF в WMF API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата WMF.
 url: /ru/swift/conversion/gif-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования GIF в WMF" h2="Библиотека Swift для преобразования GIF в WMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования GIF в WMF и другие форматы документов онлайн с помощью Swift." urlsection="conversion/gif-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации GIF в WMF" h2="Библиотека Swift для преобразования GIF в WMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для конвертации GIF в WMF и другие форматы документов онлайн с помощью Swift." urlsection="conversion/gif-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в WMF в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл GIF в WMF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в WMF — сложная задача. Все переходы формата GIF в WMF выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов GIF в WMF. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод WMF.
+Преобразование форматов файлов из GIF в WMF — сложная задача. Все переходы форматов GIF в WMF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы GIF. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации GIF в файлы WMF. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования GIF в формат WMF" gistPath="" %}}
@@ -65,10 +65,10 @@ url: /ru/swift/conversion/gif-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования GIF в WMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для конвертации GIF в WMF" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

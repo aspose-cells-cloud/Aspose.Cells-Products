@@ -1,5 +1,5 @@
 ﻿---
-title:  HTML till ODS Konvertera API för Swift
+title: HTML till ODS Konvertera API för Swift
 description:  Använda Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till ODS format fil.
 url: /sv/swift/conversion/html-to-ods/
 ---

@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF in PNG Konvertieren Sie API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer Datei im Format EMF in eine Datei im Format PNG.
-url: /de/ruby/conversion/emf-to-png/
+title:  Konvertieren Sie EMF mit Ruby in PNG
+description:  Verwendung des Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer Datei im Format EMF in eine Datei im Format PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Konvertieren von EMF in PNG" h2="Ruby-Bibliothek zum Konvertieren von EMF in PNG" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um EMF in PNG und andere Dokumentformate online mit Ruby zu konvertieren." urlsection="conversion/emf-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie EMF in PNG" h2="Ruby-Bibliothek zum Konvertieren von EMF in PNG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby-Projekten zu erstellen. Dies ist eine professionelle Lösung, um EMF in PNG und andere Dokumentformate online mit Ruby zu konvertieren." urlsection="conversion/emf-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine EMF-Datei in PNG in Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie EMF in PNG mit dem Cloud SDK Cells für Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von EMF in PNG ist eine komplexe Aufgabe. Alle Formatübergänge von EMF zu PNG werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von EMF- in PNG-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und eine perfekte PNG-Ausgabe.
+Das Konvertieren von Dateiformaten von EMF in PNG kann eine komplexe Aufgabe sein. Unser Ruby SDK verarbeitet alle Formatkonvertierungen von EMF in PNG und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle EMF bei. Unsere Ruby-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von EMF- in PNG-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PNG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Konvertieren des Formats EMF in das Format PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel für die Konvertierung von EMF in PNG mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ Das Konvertieren von Dateiformaten von EMF in PNG ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um EMF in PNG zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in andere Formate von EMF bis PNG zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

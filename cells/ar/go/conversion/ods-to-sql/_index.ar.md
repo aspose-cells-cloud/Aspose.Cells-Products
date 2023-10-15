@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS إلى SQL - تحويل API إلى Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق ODS إلى ملف بتنسيق SQL.
-url: /ar/go/conversion/ods-to-sql/
+title:  تحويل المواد المستنفدة للأوزون إلى SQL باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق ODS إلى ملف تنسيق SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لتحويل ODS إلى SQL" h2="اذهب إلى المكتبة لتحويل ODS إلى SQL" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل ODS إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/ods-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل المواد المستنفدة للأوزون إلى SQL" h2="اذهب إلى المكتبة لتحويل ODS إلى SQL" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل ODS إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/ods-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف ODS إلى SQL في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ODS إلى SQL باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى SQL بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى ملفات SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Go وظائف قوية وإخراج SQL مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من ODS إلى SQL مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات تنسيق ODS إلى SQL مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى ملفات SQL عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من الحصول على وظائف قوية ويضمن إخراج SQL عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتحويل ODS إلى تنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لتحويل ODS إلى SQL باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ url: /ar/go/conversion/ods-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل ODS إلى SQL" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتحويل ملفات Excel إلى تنسيقات أخرى ODS إلى SQL" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  NUMBERS till PPTX Konvertera API för Swift
+title: NUMBERS till PPTX Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera NUMBERS-formatfil till PPTX-formatfil.
 url: /sv/swift/conversion/numbers-to-pptx/
 ---

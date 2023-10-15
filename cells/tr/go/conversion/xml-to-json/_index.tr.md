@@ -1,19 +1,18 @@
 ﻿---
-title:  Go için XML'den JSON'a Dönüştürme API
-description:  XML biçim dosyasını JSON biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
-url: /tr/go/conversion/xml-to-json/
+title:  Go'yu kullanarak XML'i JSON'a dönüştürün
+description:  XML biçimindeki bir dosyayı JSON biçimindeki dosyaya dönüştürmek için Go için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i JSON\'a dönüştürmek için API\'e gidin" h2="XML\'i JSON\'a dönüştürmek için kitaplığa gidin" p="Go\'da özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Go\'yu kullanarak XML\'i JSON\'a ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xml-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i JSON\'a dönüştür" h2="XML\'i JSON\'a dönüştürmek için kütüphaneye gidin" p="Go projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Go\'yu kullanarak XML\'i JSON\'a ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xml-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Go\'da bir XML dosyasını JSON\'a dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Go için Cells Cloud SDK\'yı kullanarak XML\'i JSON\'a dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini XML'den JSON'a dönüştürmek karmaşık bir iştir. Tüm XML'den JSON biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XML'i çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
+Dosya formatlarını XML'den JSON'a dönüştürmek karmaşık bir iş olabilir. Go SDK'mız, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm XML'den JSON formatına dönüşümleri gerçekleştirir. Go kitaplığımız, XML'i çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli JSON çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XML\'i JSON biçimine dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak XML\'i JSON\'a dönüştürmek için Kod Örneğine gidin" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ Dosya biçimlerini XML'den JSON'a dönüştürmek karmaşık bir iştir. Tüm XM
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XML\'i JSON\'a dönüştürmek için Go API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için CellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara XML\'den JSON\'a dönüştürmek için Cells Cloud SDK for Go nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
-<li>sürüm go1.13.0 veya daha yenisine gidin</li>
+<li>go sürümü go1.13.0 veya daha yeni</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

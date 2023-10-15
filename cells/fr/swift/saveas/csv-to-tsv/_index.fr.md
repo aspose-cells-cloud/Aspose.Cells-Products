@@ -1,16 +1,16 @@
 ﻿---
-title:  Enregistrer CSV sous TSV API pour Swift
-description:  Utilisation de Aspose.Cells Cloud SDK for Swift pour enregistrer le fichier au format CSV en tant que fichier au format TSV.
+title:  Enregistrer le CSV sous le nom TSV API pour Swift
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format TSV.
 url: /fr/swift/saveas/csv-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer CSV en tant que TSV" h2="Bibliothèque Swift pour enregistrer CSV en tant que TSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format TSV et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/csv-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer le CSV au format TSV" h2="Bibliothèque Swift pour enregistrer CSV au format TSV" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format TSV et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/csv-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV en tant que TSV dans Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format TSV dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de CSV en tant que TSV est une tâche complexe. Toutes les transitions de format CSV vers TSV sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des fichiers CSV en tant que fichiers TSV en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie TSV parfaite.
+Enregistrer les formats de fichiers CSV au format TSV est une tâche complexe. Toutes les transitions du format CSV vers TSV sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des fichiers CSV sous forme de fichiers TSV en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie TSV parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer CSV au format TSV" gistPath="" %}}
@@ -54,10 +54,10 @@ L'enregistrement de formats de fichiers à partir de CSV en tant que TSV est une
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer CSV en tant que TSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer CSV au format TSV" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

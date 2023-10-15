@@ -1,16 +1,15 @@
 ﻿---
-title: Déchiffrer les feuilles de calcul locales avec un mot de passe dans le Cloud
-description:  API Cloud et SDK pour Microsoft Excel et déverrouillage OpenOffice Calc. Les feuilles de calcul sont décryptées par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
-url: /fr/ruby/protect/decrypt-with-password/
+title:  Décrypter les feuilles de calcul locales avec mot de passe dans le Cloud
+description:  API et SDK Cloud pour le déverrouillage Microsoft Excel et OpenOffice Calc. Les feuilles de calcul sont décryptées par le Cloud Cells. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque Ruby pour décrypter le tableur local Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Déchiffrer REST API pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec les workflows de mot de passe dans Ruby. Cette solution professionnelle décrypte les feuilles de calcul locales Microsoft Excel et OpenOffice Calc en ligne avec des mots de passe à l\'aide de Ruby." urlsection="protect/Decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour décrypter la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque Ruby pour décrypter la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Decrypt REST API pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec les flux de travail de mot de passe dans Ruby. Cette solution professionnelle décrypte les feuilles de calcul locales Microsoft Excel et OpenOffice Calc en ligne avec des mots de passe à l\'aide de Ruby." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe - Ruby REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Décrypter la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe - Ruby REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/unlock" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostUnlock" apimethod="POST" %}}
 <br/>
-Déchiffrer une feuille de calcul locale avec un mot de passe est une tâche complexe. Le décryptage d'une feuille de calcul locale avec des transitions de mot de passe est effectué par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque Ruby est une solution professionnelle pour déchiffrer des feuilles de calcul locales avec un mot de passe en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et un API parfait.
+Décrypter une feuille de calcul locale avec un mot de passe est une tâche complexe. Le déchiffrement d'une feuille de calcul locale avec des transitions de mot de passe est effectué par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque Ruby est une solution professionnelle pour décrypter des feuilles de calcul locales avec un mot de passe en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et un API parfait.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code Ruby pour décrypter les feuilles de calcul locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Unlock.rb" %}}
@@ -18,15 +17,15 @@ Déchiffrer une feuille de calcul locale avec un mot de passe est une tâche com
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Comment utiliser Ruby API pour décrypter" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour déverrouiller le fichier Excel" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
 <li>Appelez la méthode post_unlock pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

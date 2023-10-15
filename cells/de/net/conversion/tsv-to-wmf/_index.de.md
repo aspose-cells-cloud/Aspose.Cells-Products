@@ -1,19 +1,18 @@
 ﻿---
-title: TSV in WMF umwandeln API in C#
-description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im TSV-Format in eine Datei im WMF-Format.
-url: /de/net/conversion/tsv-to-wmf/
+title:  Konvertieren Sie TSV mit C# in WMF
+description: Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im TSV-Format in eine Datei im WMF-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zur Umstellung von TSV auf WMF" h2="C#-Bibliothek zum Konvertieren von TSV in WMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TSV in WMF und andere Dokumentformate unter C#." urlsection="conversion/tsv-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie TSV in WMF" h2="C# Bibliothek zum Konvertieren von TSV in WMF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TSV in WMF und andere Dokumentformate unter C#." urlsection="conversion/tsv-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TSV-Datei in WMF in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie TSV in WMF mit dem Cloud SDK Cells für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TSV in WMF ist eine komplexe Aufgabe. Alle Formatübergänge von TSV in das WMF-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TSV- in WMF-Dateien. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Konvertieren von Dateiformaten von TSV in WMF kann eine komplexe Aufgabe sein. Unser C# SDK übernimmt alle TSV-in-WMF-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-TSV-Tabelle bei. Unsere C#-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von TSV- in WMF-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige WMF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von TSV in das WMF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel für die Konvertierung von TSV in WMF mit Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ Das Konvertieren von Dateiformaten von TSV in WMF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um TSV in WMF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Net, um Excel-Dateien in andere Formate, TSV in WMF, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  XLTM в PDF Преобразование API в C#
-description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLTM в файл формата PDF.
-url: /ru/net/conversion/xltm-to-pdf/
+title:  Преобразуйте XLTM в PDF, используя C#.
+description:  Использование Cloud SDK Aspose.Cells для C# для преобразования файла формата XLTM в файл формата PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования XLTM в PDF" h2="Библиотека C# для преобразования XLTM в PDF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования XLTM в PDF и другие форматы документов онлайн с помощью C#." urlsection="conversion/xltm-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать XLTM в PDF" h2="C# библиотека для конвертации XLTM в PDF" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Net. Это профессиональное решение для конвертации XLTM в PDF и другие форматы документов онлайн с использованием C#." urlsection="conversion/xltm-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в PDF в C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XLTM в PDF с помощью Cloud SDK Cells для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в PDF — сложная задача. Все переходы между форматами XLTM и PDF выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLTM в PDF. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PDF.
+Преобразование форматов файлов из XLTM в PDF может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования формата XLTM в PDF, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертирования файлов XLTM в PDF. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный результат PDF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования XLTM в формат PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для преобразования XLTM в PDF с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ru/net/conversion/xltm-to-pdf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для преобразования XLTM в PDF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для преобразования файлов Excel в другие форматы XLTM в PDF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

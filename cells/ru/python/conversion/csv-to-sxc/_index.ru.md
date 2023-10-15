@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование CSV в SXC API для Python
-description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата CSV в файл формата SXC.
-url: /ru/python/conversion/csv-to-sxc/
+title:  Конвертируйте CSV в SXC, используя Python.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата CSV в файл формата SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования CSV в SXC" h2="Python библиотека для преобразования CSV в SXC" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации CSV в SXC и других форматов документов с использованием Python." urlsection="conversion/csv-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать CSV в SXC" h2="Python библиотека для конвертации CSV в SXC" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертирования CSV в SXC и другие форматы документов с использованием номера Python." urlsection="conversion/csv-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в SXC по номеру Python." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте CSV в SXC с помощью Cloud SDK Cells для Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в SXC — сложная задача. Все переходы между форматами CSV и SXC выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов CSV в SXC. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из CSV в SXC может оказаться сложной задачей. Наш SDK Python обрабатывает все преобразования формата CSV в SXC, сохраняя при этом основное структурное и логическое содержимое исходной таблицы CSV. Наша библиотека Python предоставляет профессиональное решение для онлайн-конвертирования файлов CSV в SXC. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и обеспечивает высококачественный вывод SXC.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования CSV в формат SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для преобразования CSV в SXC с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ru/python/conversion/csv-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для преобразования CSV в SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python для преобразования файлов Excel в другие форматы CSV в SXC" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,19 @@
 ﻿---
 title:  احفظ HTML كـ PPTX API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق HTML كملف بتنسيق PPTX.
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق HTML كملف تنسيق PPTX.
 url: /ar/swift/saveas/html-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ HTML كـ PPTX" h2="مكتبة سريعة لحفظ HTML كـ PPTX" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ HTML بتنسيق PPTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/html-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ HTML كـ PPTX" h2="مكتبة سويفت لحفظ HTML كـ PPTX" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ HTML بتنسيق PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/html-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML كـ PPTX في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML بتنسيق PPTX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من HTML كـ PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ HTML كملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
+يعد حفظ تنسيقات الملفات من HTML بتنسيق PPTX مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق HTML إلى PPTX بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ HTML كملفات PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات PPTX مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ HTML بتنسيق PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Swift باستخدام REST API لحفظ HTML بتنسيق PPTX" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,14 +55,14 @@ url: /ar/swift/saveas/html-to-pptx/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ HTML كـ PPTX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

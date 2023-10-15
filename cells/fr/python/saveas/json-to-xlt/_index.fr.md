@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez JSON sous XLT API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format JSON en tant que fichier au format XLT.
-url: /fr/python/saveas/json-to-xlt/
+title:  Enregistrez JSON au format XLT en utilisant Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format JSON au format XLT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer JSON en XLT" h2="Python bibliothèque pour enregistrer JSON en XLT" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer JSON au format XLT et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/json-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer JSON au format XLT" h2="Bibliothèque Python pour enregistrer JSON au format XLT" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer JSON au format XLT et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/json-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JSON au format XLT en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier JSON au format XLT dans Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de JSON en tant que XLT est une tâche complexe. Toutes les transitions de format JSON vers XLT sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque Python est une solution professionnelle pour enregistrer en ligne des fichiers JSON au format XLT. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie XLT parfaite.
+Enregistrer les formats de fichiers JSON au format XLT est une tâche complexe. Toutes les transitions du format JSON vers XLT sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque Python est une solution professionnelle pour enregistrer JSON sous forme de fichiers XLT en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie XLT parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour enregistrer JSON au format XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Exemple de code pour enregistrer JSON au format XLT à l\'aide de REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ L'enregistrement de formats de fichiers à partir de JSON en tant que XLT est un
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour enregistrer JSON en XLT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python pour enregistrer les fichiers Excel sous d\'autres formats JSON comme XLT" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_workbook_save_as` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till SQL Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till SQL-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till SQL-formatfil.
 url: /sv/swift/conversion/ods-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

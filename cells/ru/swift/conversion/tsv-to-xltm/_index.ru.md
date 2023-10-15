@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование TSV в XLTM API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата TSV в файл формата XLTM.
+title:  Конвертировать TSV в XLTM API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата TSV в файл формата XLTM.
 url: /ru/swift/conversion/tsv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования TSV в XLTM" h2="Библиотека Swift для преобразования TSV в XLTM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации TSV в XLTM и других форматов документов с помощью Swift." urlsection="conversion/tsv-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации TSV в XLTM" h2="Библиотека Swift для преобразования TSV в XLTM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации TSV в XLTM и другие форматы документов с помощью Swift." urlsection="conversion/tsv-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в XLTM в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл TSV в XLTM в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в XLTM — сложная задача. Все переходы форматов TSV в XLTM выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TSV в XLTM. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод XLTM.
+Преобразование форматов файлов из TSV в XLTM — сложная задача. Все переходы формата TSV в XLTM выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы TSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TSV в XLTM. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный результат XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования TSV в формат XLTM" gistPath="" %}}
@@ -65,10 +65,10 @@ url: /ru/swift/conversion/tsv-to-xltm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования TSV в XLTM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для конвертации TSV в XLTM" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

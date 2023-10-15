@@ -1,16 +1,16 @@
 ﻿---
 title:  HTML en XLS Convertir API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format HTML en fichier au format XLS.
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format HTML en fichier au format XLS.
 url: /fr/swift/conversion/html-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir HTML en XLS" h2="Bibliothèque Swift pour convertir HTML en XLS" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir HTML en XLS et autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/html-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir HTML en XLS" h2="Bibliothèque Swift pour convertir HTML en XLS" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir HTML en XLS et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/html-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier HTML en XLS dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de HTML en XLS est une tâche complexe. Toutes les transitions du format HTML au format XLS sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul source HTML. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers HTML en fichiers XLS. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLS parfaite.
+La conversion des formats de fichiers de HTML en XLS est une tâche complexe. Toutes les transitions du format HTML vers XLS sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul source HTML. Notre bibliothèque Swift est une solution professionnelle pour convertir HTML en fichiers XLS en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir HTML au format XLS" gistPath="" %}}
@@ -67,8 +67,8 @@ La conversion des formats de fichiers de HTML en XLS est une tâche complexe. To
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir HTML en XLS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

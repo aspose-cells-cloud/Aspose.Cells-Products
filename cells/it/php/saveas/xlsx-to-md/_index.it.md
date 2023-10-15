@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva XLSX come MD API per PHP
-description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato XLSX come file in formato MD.
-url: /it/php/saveas/xlsx-to-md/
+title: Salva XLSX come MD utilizzando PHP
+description:  Utilizzando Aspose.Cells Cloud SDK per PHP per salvare il file in formato XLSX come file in formato MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API per salvare XLSX come MD" h2="PHP libreria per salvare XLSX come MD" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in PHP. Questa è una soluzione professionale per salvare XLSX come MD e altri formati di documenti online utilizzando PHP." urlsection="saveas/xlsx-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLSX come MD" h2="PHP libreria per il salvataggio di XLSX come MD" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in PHP. Si tratta di una soluzione professionale per salvare XLSX come MD e altri formati di documenti online utilizzando PHP." urlsection="saveas/xlsx-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLSX come MD in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLSX come MD è un compito complesso. Tutte le transizioni dal formato XLSX a MD vengono eseguite dal nostro SDK PHP mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria PHP è una soluzione professionale per salvare XLSX come file MD online. Questo Cloud SDK offre agli sviluppatori PHP potenti funzionalità e un output MD perfetto.
+Salvare i formati di file da XLSX come MD è un compito complesso. Tutte le transizioni dal formato XLSX al formato MD vengono eseguite dal nostro SDK PHP mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria PHP è una soluzione professionale per salvare XLSX come file MD online. Questo Cloud SDK offre agli sviluppatori PHP funzionalità potenti e un output MD perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in PHP utilizzando REST API per salvare XLSX come formato MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codice Esempio per salvare XLSX come MD utilizzando REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,15 +30,15 @@ Salvare i formati di file da XLSX come MD è un compito complesso. Tutte le tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare PHP API per salvare XLSX come MD" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per PHP per salvare i file Excel in altri formati XLSX come MD" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PostWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>PHP 7.4 o più recente</li>
+<li>PHP 7.4 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

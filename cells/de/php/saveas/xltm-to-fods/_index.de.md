@@ -1,10 +1,9 @@
 ﻿---
-title: Speichern Sie XLTM als FODS API für PHP
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die XLTM-Formatdatei als FODS-Formatdatei zu speichern.
-url: /de/php/saveas/xltm-to-fods/
+title: Speichern Sie XLTM als FODS mit PHP
+description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern der XLTM-Formatdatei als FODS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um XLTM als FODS zu speichern" h2="PHP-Bibliothek zum Speichern von XLTM als FODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um XLTM als FODS und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/xltm-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLTM als FODS" h2="PHP Bibliothek zum Speichern von XLTM als FODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um XLTM als FODS und andere Dokumentformate online unter PHP zu speichern." urlsection="saveas/xltm-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTM-Datei als FODS unter PHP" >}}
@@ -13,7 +12,7 @@ url: /de/php/saveas/xltm-to-fods/
 Das Speichern von Dateiformaten aus XLTM als FODS ist eine komplexe Aufgabe. Alle XLTM-zu-FODS-Formatübergänge werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um XLTM als FODS-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Speichern von XLTM im FODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel zum Speichern von XLTM als FODS mit REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten aus XLTM als FODS ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um XLTM als FODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Excel-Dateien in anderen XLTM-Formaten als FODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

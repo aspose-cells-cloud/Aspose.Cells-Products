@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ MHTML كـ MD API لـ Perl
-description: استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق MHTML كملف بتنسيق MD.
-url: /ar/perl/saveas/mhtml-to-md/
+title:  احفظ MHTML كـ MD باستخدام Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق MHTML كملف بتنسيق MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ MHTML كـ MD" h2="مكتبة Perl لحفظ MHTML كـ MD" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ MHTML كـ MD وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/mhtml-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ MHTML كـ MD" h2="Perl مكتبة لحفظ لغة MHTML بصيغة MD" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ MHTML كـ MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/mhtml-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم MD في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML كـ MD في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من MHTML كـ MD مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى MD بواسطة Perl SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبتنا Perl هي حل احترافي لحفظ MHTML كملفات MD عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج MD مثالي.
+يعد حفظ تنسيقات الملفات من MHTML كـ MD مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق MHTML إلى MD بواسطة Perl SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبتنا Perl حلاً احترافيًا لحفظ MHTML كملفات MD عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Perl وظائف قوية ومخرجات MD مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لحفظ MHTML بتنسيق MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لحفظ MHTML كـ MD باستخدام REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ar/perl/saveas/mhtml-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لحفظ MHTML كـ MD" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لحفظ ملفات Excel بتنسيقات أخرى MHTML مثل MD" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>اتصل بالبريد_دفتر العمل_طريقة save_as للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

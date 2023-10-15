@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XML sous JSON API pour Ruby
-description:  Utilisation de Aspose.Cells Cloud SDK for Ruby pour enregistrer le fichier au format XML en tant que fichier au format JSON.
-url: /fr/ruby/saveas/xml-to-json/
+title:  Enregistrer XML au format JSON à l'aide de Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format XML au format JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour enregistrer XML au format JSON" h2="Bibliothèque Ruby pour enregistrer XML en JSON" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer XML au format JSON et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/xml-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XML au format JSON" h2="Bibliothèque Ruby pour enregistrer XML au format JSON" p="Utilisez SaveAs API sur Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer du XML au format JSON et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/xml-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XML au format JSON dans Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XML en tant que JSON est une tâche complexe. Toutes les transitions de format XML vers JSON sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer en ligne des fichiers XML sous forme de fichiers JSON. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie JSON parfaite.
+Enregistrer les formats de fichiers XML au format JSON est une tâche complexe. Toutes les transitions du format XML vers JSON sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer du XML sous forme de fichiers JSON en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie JSON parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour enregistrer XML au format JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Ruby pour enregistrer XML au format JSON à l\'aide de REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,15 +32,15 @@ L'enregistrement de formats de fichiers à partir de XML en tant que JSON est un
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Ruby API pour enregistrer XML au format JSON" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour enregistrer les fichiers Excel sous d\'autres formats XML au format JSON" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_workbook_save_as` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

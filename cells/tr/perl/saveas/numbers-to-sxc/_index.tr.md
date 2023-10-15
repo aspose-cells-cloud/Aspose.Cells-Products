@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMARALARI Perl için SXC API olarak kaydedin
-description:  NUMBERS biçim dosyasını SXC biçim dosyası olarak kaydetmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/perl/saveas/numbers-to-sxc/
+title: NUMBERS'ı Perl'i kullanarak SXC olarak kaydedin
+description:  NUMBERS biçimindeki dosyayı SXC biçimindeki dosya olarak kaydetmek için Perl için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMARALARI SXC olarak kaydetmek için Perl API" h2="NUMARALARI SXC olarak kaydetmek için Perl kitaplığı" p="Perl\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Perl\'i kullanarak SXC ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/numbers-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı SXC olarak kaydet" h2="NUMBERS\'ı SXC olarak kaydetmek için Perl kitaplık" p="Perl\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs Cells Cloud\'un API\'ini kullanın. Bu, Perl\'i kullanarak NUMBERS\'ı SXC ve diğer belge formatları olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/numbers-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Perl\'de SXC olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="NUMBERS dosyasını Perl\'e SXC olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-NUMBERS dosya biçimlerini SXC olarak kaydetmek karmaşık bir iştir. Tüm NUMBERS'tan SXC'ye format geçişleri, NUMBERS elektronik tablonun ana yapısal ve mantıksal içeriği korunurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, NUMBERS'i çevrimiçi SXC dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıkışı sağlar.
+NUMBERS dosyasındaki dosya formatlarını SXC olarak kaydetmek karmaşık bir iştir. NUMBERS'tan SXC'ye tüm format geçişleri, Perl SDK'mız tarafından gerçekleştirilir ve kaynak NUMBERS e-tablosunun ana yapısal ve mantıksal içeriği korunur. Perl kitaplığımız, NUMARALARI çevrimiçi olarak SXC dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Perl geliştiriciye güçlü işlevsellik ve mükemmel SXC çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="SAYILARI SXC formatı olarak kaydetmek için REST API kullanan Perl\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl REST API\'i kullanarak NUMBERS\'ı SXC olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ NUMBERS dosya biçimlerini SXC olarak kaydetmek karmaşık bir iştir. Tüm NUMB
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="SAYILARI SXC olarak kaydetmek için Perl API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Çağrı hücreleri_kaydetmek_gibi_postalamak_belge_kaydetmek_sonuçtaki akışı alma yöntemi olarak</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda NUMBERS olarak SXC olarak kaydetmek için Perl için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Çağrı postası_çalışma kitabı_Ortaya çıkan akışı almak için save_as yöntemi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

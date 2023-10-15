@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG till SQL Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera JPG-formatfil till SQL-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera JPG-formatfil till SQL-formatfil.
 url: /sv/swift/conversion/jpg-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF in XML Konvertieren Sie API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer Datei im EMF-Format in eine XML-Formatdatei.
-url: /de/ruby/conversion/emf-to-xml/
+title:  Konvertieren Sie EMF mit Ruby in XML
+description: Verwendung des Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer Datei im EMF-Format in eine XML-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Konvertieren von EMF in XML" h2="Ruby-Bibliothek zum Konvertieren von EMF in XML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von EMF in XML und andere Dokumentformate mit Ruby." urlsection="conversion/emf-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie EMF in XML" h2="Ruby-Bibliothek zum Konvertieren von EMF in XML" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von EMF in XML und andere Dokumentformate mit Ruby." urlsection="conversion/emf-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine EMF-Datei in Ruby in XML" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie EMF in XML mit dem Cloud SDK Cells für Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von EMF in XML ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum XML-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von EMF in XML-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
+Das Konvertieren von Dateiformaten von EMF in XML kann eine komplexe Aufgabe sein. Unser Ruby SDK übernimmt alle Konvertierungen von EMF in das XML-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle EMF bei. Unsere Ruby-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von EMF in XML-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und gewährleistet eine qualitativ hochwertige XML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Konvertieren von EMF in das XML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel für die Konvertierung von EMF in XML mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ Das Konvertieren von Dateiformaten von EMF in XML ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um EMF in XML zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby zum Konvertieren von Excel-Dateien in andere Formate EMF in XML" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

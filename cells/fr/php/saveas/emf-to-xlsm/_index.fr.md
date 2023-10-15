@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez EMF comme XLSM API pour PHP
-description: Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format EMF en tant que fichier au format XLSM.
-url: /fr/php/saveas/emf-to-xlsm/
+title:  Enregistrez EMF au format XLSM en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format EMF au format XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer EMF en XLSM" h2="Bibliothèque PHP pour enregistrer EMF au format XLSM" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer EMF au format XLSM et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/emf-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer EMF en tant que XLSM" h2="Bibliothèque PHP pour enregistrer EMF au format XLSM" p="Utilisez SaveAs API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer EMF au format XLSM et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/emf-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier EMF au format XLSM dans PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier EMF au format XLSM dans PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de EMF en tant que XLSM est une tâche complexe. Toutes les transitions de format EMF vers XLSM sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul source EMF. Notre bibliothèque PHP est une solution professionnelle pour enregistrer en ligne EMF sous forme de fichiers XLSM. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie XLSM parfaite.
+Enregistrer les formats de fichiers à partir de EMF au format XLSM est une tâche complexe. Toutes les transitions du format EMF vers XLSM sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul source EMF. Notre bibliothèque PHP est une solution professionnelle pour enregistrer EMF sous forme de fichiers XLSM en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie XLSM parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour enregistrer EMF au format XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour enregistrer EMF au format XLSM à l\'aide de REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ L'enregistrement des formats de fichiers à partir de EMF en tant que XLSM est u
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour enregistrer EMF en XLSM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP afin d\'enregistrer les fichiers Excel sous d\'autres formats EMF au format XLSM" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

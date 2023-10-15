@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva NUMBERS come CSV API per Python
-description:  Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato NUMBERS come file in formato CSV.
-url: /it/python/saveas/numbers-to-csv/
+title:  Salva i NUMERI come CSV utilizzando Python
+description:  Utilizzando Aspose.Cells Cloud SDK per Python per salvare il file in formato NUMERI come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per salvare i NUMERI come CSV" h2="Python libreria per salvare NUMBERS come CSV" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Python. Questa è una soluzione professionale per salvare NUMBERS come CSV e altri formati di documenti online utilizzando Python." urlsection="saveas/numbers-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva NUMERI come CSV" h2="Libreria Python per salvare NUMERI come CSV" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Python. Si tratta di una soluzione professionale per salvare NUMERI come CSV e altri formati di documenti online utilizzando Python." urlsection="saveas/numbers-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file NUMBERS come CSV in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da NUMBERS come CSV è un'attività complessa. Tutte le transizioni dal formato NUMBERS al formato CSV vengono eseguite dal nostro SDK Python mantenendo il contenuto strutturale e logico principale del foglio di calcolo NUMBERS sorgente. La nostra libreria Python è una soluzione professionale per salvare i NUMERI come file CSV online. Questo Cloud SDK offre agli sviluppatori Python potenti funzionalità e un perfetto output CSV.
+Salvare i formati di file da NUMBERS come CSV è un compito complesso. Tutte le transizioni dal formato NUMBERS al formato CSV vengono eseguite dal nostro SDK Python mantenendo il contenuto strutturale e logico principale del foglio di calcolo NUMBERS di origine. La nostra libreria Python è una soluzione professionale per salvare NUMERI come file CSV online. Questo Cloud SDK offre agli sviluppatori Python funzionalità potenti e un output CSV perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Python utilizzando REST API per salvare NUMBERS come formato CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codice Esempio per salvare NUMERI come CSV utilizzando REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,16 +29,16 @@ Il salvataggio dei formati di file da NUMBERS come CSV è un'attività complessa
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Python API per salvare i NUMERI come CSV" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama celle_salva_COME_inviare_documento_salva_come metodo per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Python per salvare i file Excel in altri formati NUMERI come CSV" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `post_workbook_save_as` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Python 2.7 o più recente</li>
-<li>Python 3.10 o più recente</li>
+<li>Python 2.7 o successiva</li>
+<li>Python 3.10 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

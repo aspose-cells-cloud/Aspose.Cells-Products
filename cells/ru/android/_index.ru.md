@@ -1,21 +1,21 @@
 ﻿---
 title:  REST API для создания Excel приложений для Android
-description:  Android REST SDK для создания облачных электронных таблиц Excel и OpenOffice, объединения, разделения, просмотра, шифрования и преобразования рабочих листов
+description:  Android REST SDK для создания облачных таблиц Excel и OpenOffice, а также объединения, разделения, просмотра, шифрования и преобразования листов.
 weight: 20
 url: /ru/android
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Сборка электронных таблиц Обработка приложений Android via REST API" h2="Android REST SDK для создания облачных таблиц Excel и OpenOffice, объединения, разделения, просмотра, шифрования и преобразования приложений." logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Приложения Android для обработки электронных таблиц via REST API" h2="Android REST SDK для создания облачных таблиц Excel и OpenOffice, а также объединения, разделения, просмотра, шифрования и преобразования приложений." logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="SDK for Android" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK для Android поможет вам в разработке Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) и приложений для обработки электронных таблиц OpenOffice (ODS) для устройств Android. Aspose.Cells Cloud SDK для Android предлагается по лицензии MIT и основан на Aspose.Cells REST API.</p>
-<p>Aspose.Cells Cloud SDK для Android позволяет коду Android получать доступ к облачным электронным таблицам и управлять книгами, листами, отдельными ячейками, строками и столбцами. Ваша программа для Android сможет извлекать штрих-коды из изображений рабочего листа, применять автоматические фильтры (фильтр даты, фильтр значков, динамический фильтр), получать доступ к диаграммам, применять условное форматирование и программно настраивать параметры страницы электронной таблицы.</p>
-<p>Aspose.Cells Cloud SDK для Android позволяет работать с OleObjects, ListObjects, сводными таблицами, диапазонами, фигурами и задачами в Excel и таблицах ODS без установки какого-либо стороннего программного обеспечения.</p>
-<p>Aspose.Cells Cloud SDK для Android также может помочь вам в создании приложений для преобразования электронных таблиц для мобильных устройств на базе Android, поскольку он позволяет конвертировать Microsoft Excel, OpenOffice, SpreadsheetML, CSV, TSV, TXT (TabDelimited), HTML, MHTML, SXC, FODS в другие поддерживаемые форматы, такие как PDF, XPS, TIFF, SVG, DIF и MD (Markdown).</p>
+<p>Aspose.Cells Cloud SDK для Android поможет вам разработать Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) и приложения обработки электронных таблиц OpenOffice (ODS) для устройств Android. Aspose.Cells Cloud SDK для Android предлагается по лицензии MIT и основан на Aspose.Cells REST API.</p>
+<p>Aspose.Cells Cloud SDK для Android позволяет вашему коду Android получать доступ к документам облачных электронных таблиц и манипулировать книгами, листами, отдельными ячейками, строками и столбцами. Ваша программа Android сможет извлекать штрих-коды из изображений рабочих листов, применять автофильтры (фильтр даты, фильтр значков, динамический фильтр), получать доступ к диаграммам, применять условное форматирование и программно настраивать настройку страницы электронной таблицы.</p>
+<p>Aspose.Cells Cloud SDK для Android позволяет работать с OleObjects, ListObjects, сводными таблицами, диапазонами, фигурами и задачами в таблицах Excel и ODS без установки какого-либо стороннего программного обеспечения.</p>
+<p>Aspose.Cells Cloud SDK для Android также может помочь вам в создании приложений-конвертеров электронных таблиц для мобильных устройств на базе Android, поскольку он позволяет конвертировать Microsoft Excel, OpenOffice, SpreadsheetML, CSV, TSV, TXT (TabDelimited), HTML, MHTML, SXC, FODS в другие поддерживаемые форматы, такие как PDF, XPS, TIFF, SVG, DIF и MD (Markdown).</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -31,7 +31,7 @@ url: /ru/android
 <li>Работа с диаграммами</li>
 <li>Работа с гиперссылками</li>
 <li>Работа со сводными таблицами</li>
-<li>Работа с изображениями и фигурами</li>
+<li>Работа с картинками и фигурами</li>
 <li>Работа с валидациями</li>
 </ul></div>
 <!--/right--></div>
@@ -46,9 +46,9 @@ url: /ru/android
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>ОпенОфис:</b> ОРВ</li>
-<li><b>Электронная таблицаML:</b> XML</li>
+<li><b>ТаблицаML:</b> XML</li>
 <li><b>Текст:</b> CSV, TSV, TXT (с разделителями табуляции)</li>
-<li><b>Интернет:</b> HTML, МХТМЛ</li>
+<li><b>Интернет:</b> HTML, МНТМЛ</li>
 </ul></div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Только ввод</header><ul><li>SXC, ФОДС</li>
@@ -62,7 +62,7 @@ url: /ru/android
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Cells Cloud поддерживает все основные платформы и языки программирования." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость платформы" description="Aspose.Cells Облако поддерживает все основные платформы и языки программирования." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -76,7 +76,7 @@ url: /ru/android
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Расширенные возможности работы с электронными таблицами
+ Расширенные возможности манипулирования электронными таблицами
    </h2>
    <p>
    </p>
@@ -84,21 +84,21 @@ url: /ru/android
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Добавляйте фильтры с пользовательскими критериями для списков
+ Добавляйте фильтры с настраиваемыми критериями для списков
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Поддержка нескольких типов фильтров списка
+ Поддержка нескольких типов фильтров списков.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Получить информацию о границе области диаграммы или формате заполнения
+ Получите информацию о границе области диаграммы или формате заполнения.
     </p>
    </div>
    <div class="col-lg-4">
@@ -119,7 +119,7 @@ url: /ru/android
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Получить, обновить, заголовок диаграммы и установить его видимость
+ Получите, обновите заголовок диаграммы и настройте ее видимость.
     </p>
    </div>
    <div class="col-lg-4">
@@ -133,14 +133,14 @@ url: /ru/android
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Добавление, обновление и удаление гиперссылок рабочего листа
+ Добавление, обновление и удаление гиперссылок на листе
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Добавить ListObject в указанное место в файле Excel
+ Добавьте ListObject в указанное место в файле Excel.
     </p>
    </div>
    <div class="col-lg-4">
@@ -161,70 +161,70 @@ url: /ru/android
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
+ Обобщение данных большого объекта ListObject или таблицы с помощью сводной таблицы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Добавить OleObjects на рабочий лист Excel
+ Добавьте OleObjects на лист Excel.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Удалить определенные или все OleObjects из рабочего листа
+Удалить определенные или все объекты OleObjects с рабочего листа
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Вставка или удаление, горизонтальные или вертикальные разрывы страниц
+ Вставка или удаление горизонтальных или вертикальных разрывов страниц.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Управление настройкой страницы, заголовком и усилителем; нижний колонтитул
+ Управляйте настройкой страницы, заголовком и amp; нижний колонтитул
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Добавляйте, обновляйте, извлекайте или удаляйте изображения рабочего листа
+ Добавляйте, обновляйте, извлекайте или удаляйте изображения рабочих листов.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Создание, обновление, выборка или удаление свойств документа
+ Создание, обновление, получение или удаление свойств документа
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-copy ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Получить необходимую форму из рабочего листа
+ Получить нужную форму с рабочего листа
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Добавление, обновление или удаление фигур на листе
+ Добавление, обновление или удаление фигур с листа
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Добавляйте, обновляйте или удаляйте проверки для рабочих листов
+ Добавление, обновление или удаление проверок для листов
     </p>
    </div>
    <div class="col-lg-12">
@@ -232,11 +232,11 @@ url: /ru/android
  Начните работу с Excel SDK для обработки электронных таблиц
     </h2>
     <p>
- Чтобы начать работу с Aspose.Cells Cloud SDK для Android, вам не нужно ничего устанавливать. Все, что вам нужно сделать, это создать учетную запись на
+ Чтобы начать работу с Cloud SDK Aspose.Cells для Android, вам не нужно ничего устанавливать. Все, что вам нужно сделать, это создать учетную запись на
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose для облака
      </a>
-и получите информацию о приложении. Получив SID приложения &amp; key, вы готовы использовать Aspose.Cells Cloud SDK для Android на любой платформе, поддерживающей REST API. Aspose.Cells Cloud SDK для Android предоставляет все возможности для создания, редактирования и преобразования электронных таблиц. Он также позволяет извлекать данные из электронных таблиц для дальнейшей обработки или хранения.
+и получите информацию о вашем приложении. Получив идентификатор приложения SID &amp; ключ, вы готовы использовать Aspose.Cells Cloud SDK для Android на любой платформе, поддерживающей REST API. Aspose.Cells Cloud SDK для Android предоставляет вам все функции для создания, редактирования и преобразования электронных таблиц. Он также позволяет извлекать данные из электронных таблиц для дальнейшей обработки или хранения.
     </p>
    </div>
    <div class="col-lg-12">
@@ -244,7 +244,7 @@ url: /ru/android
  Обработка книг via Cloud SDK
     </h2>
     <p>
- Aspose.Cells Cloud SDK для Android позволяет создавать, разделять, объединять, искать и заменять текст, защищать паролем, экспортировать в поддерживаемый формат файла, читать текстовые элементы книги, автоматически подбирать строки книги, игнорируя скрытые элементы, шифровать пароль книги и предоставлять ключ шифрования длину, импортировать данные в рабочую книгу, вычислять все формулы в рабочей книге, устанавливать параметры расчета формулы, предоставляя стратегию точности и т. д., использовать интеллектуальный маркер, преобразовывать рабочую книгу из содержимого запроса в другой формат, применять пароль, чтобы разрешить изменение содержимого.
+ Aspose.Cells Cloud SDK для Android позволяет создавать, разделять, объединять, искать и заменять текст, защищать паролем, экспортировать в поддерживаемый формат файла, читать текстовые элементы книги, автоматически подгонять строки книги, игнорируя скрытые элементы, шифровать пароль книги и предоставлять ключ шифрования. длину, импортировать данные в рабочую книгу, рассчитать все формулы в рабочей книге, установить параметры расчета формул, предоставив стратегию точности и т. д., использовать интеллектуальный маркер, преобразовать рабочую книгу из содержимого запроса в другой формат, применить пароль, чтобы разрешить изменение содержимого.
     </p>
    </div>
    <div class="col-lg-12">
@@ -252,18 +252,18 @@ url: /ru/android
 Cloud SDK для обработки листов
     </h2>
     <p>
- Используя Aspose.Cells Cloud SDK для Android, вы можете удалить определенную строку или все строки на листе, получить данные ячейки рабочего листа или стиль ячейки по имени ячейки, прочитать данные строки или столбца рабочего листа по его индексу, вычислить формулу ячейки, очистить содержимое ячейки, скопировать ячейку в другую ячейку, скопировать столбцы и строки рабочего листа, сгруппировать строки и столбцы рабочего листа, скрыть строки и столбцы рабочего листа, установить стили столбцов и строк рабочего листа, установить значение HTMLSTRING в ячейку, установить значение диапазона ячеек и изменить множество других параметров рабочего листа.
+ Используя Aspose.Cells Cloud SDK для Android, вы можете удалить определенную строку или все строки на листе, получить данные ячейки листа или стиль ячейки по имени ячейки, прочитать данные строки или столбца листа по ее индексу, вычислить формулу ячейки, очистить содержимое ячейки, скопировать ячейку в другую ячейку, копировать столбцы и строки рабочего листа, группировать строки и столбцы рабочего листа, скрывать строки и столбцы рабочего листа, устанавливать стили столбца и строки рабочего листа, устанавливать значение HTMLSTRING в ячейку, устанавливать значение диапазона ячеек и изменять множество других настроек рабочего листа.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Используйте возможности сводных таблиц &amp;amp;amp;amp;amp;amp; Диапазоны
+ Используйте возможности сводных таблиц и amp; Диапазоны
     </h2>
     <p>
- Aspose.Cells Cloud SDK для Android позволяет добавлять сводную таблицу на лист, добавлять или удалять поля сводной таблицы в сводной таблице, добавлять или удалять фильтр сводной таблицы для индекса сводной таблицы, обновлять стиль ячеек для сводной таблицы и вычислять данные сводной таблицы по ячейкам.
+ Aspose.Cells Cloud SDK для Android позволяет добавлять сводную таблицу на лист, добавлять или удалять поля сводной таблицы в сводной таблице, добавлять или удалять сводный фильтр для индекса сводной таблицы, обновлять стиль ячеек для сводной таблицы и вычислять данные сводной таблицы в ячейках.
     </p>
     <p>
-Aspose.Cells Cloud SDK для Android также можно использовать для получения списка ячеек в диапазоне по имени диапазона или индексам столбцов строк, установке ширины столбца диапазона, объединении диапазона ячеек в одну ячейку, перемещении текущего диапазона в целевой диапазон, наборов обведите границу диапазона ячеек, установите высоту строки диапазона, установите стиль диапазона, разъедините объединенные ячейки этого диапазона, поместите значение в диапазон и преобразуйте его тип данных, а также скопируйте диапазон на рабочий лист.
+Aspose.Cells Cloud SDK для Android также можно использовать для получения списка ячеек в диапазоне по имени диапазона или индексам столбцов строк, установке ширины столбца диапазона, объединению диапазона ячеек в одну ячейку, перемещению текущего диапазона в целевой диапазон, установке очертить границу вокруг диапазона ячеек., установить высоту строки диапазона, установить стиль диапазона, разделить объединенные ячейки этого диапазона, поместить значение в диапазон и преобразовать его тип данных, а также скопировать диапазон на лист.
     </p>
    </div>
   </div>
@@ -277,8 +277,8 @@ Aspose.Cells Cloud SDK для Android также можно использова
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" >}}
-{{< blocks/products/pf/slr-element name="API Ссылки" href="https://apireference.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Рекомендации" href="https://apireference.aspose.cloud/cells" >}}
+{{< blocks/products/pf/slr-element name="Обучающие видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}

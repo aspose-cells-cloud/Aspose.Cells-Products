@@ -1,10 +1,9 @@
 ﻿---
-title: 将 XLSB 保存为 BMP API 为 C#
-description: 使用Aspose.Cells Cloud SDK for C#将XLSB格式文件保存为BMP格式文件。
-url: /zh/net/saveas/xlsb-to-bmp/
+title: 使用 C# 将 XLSB 保存为 BMP
+description: 利用Aspose.Cells Cloud SDK for C#将XLSB格式文件保存为BMP格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 XLSB 保存为 BMP" h2="C# 库将 XLSB 保存为 BMP" p="使用 Cells SaveAs REST API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将XLSB保存为BMP和其他文档格式的专业解决方案。" urlsection="saveas/xlsb-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将XLSB另存为BMP" h2="C# 用于将 XLSB 保存为 BMP 的库" p="使用 Cells Cloud 的 SaveAs API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将XLSB保存为BMP和其他文档格式的专业解决方案。" urlsection="saveas/xlsb-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 XLSB 文件另存为 C# 中的 BMP" >}}
@@ -13,7 +12,7 @@ url: /zh/net/saveas/xlsb-to-bmp/
 将 XLSB 中的文件格式保存为 BMP 是一项复杂的任务。所有 XLSB 到 BMP 格式的转换均由我们的 C# SDK 执行，同时保留源 XLSB 电子表格的主要结构和逻辑内容。我们的 C# 库是在线将 XLSB 保存为 BMP 文件的专业解决方案。此Cloud SDK为C#开发者提供了强大的功能和完美的BMP输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# 中的代码示例使用 REST API 将 XLSB 保存为 BMP 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# 使用 REST 将 XLSB 保存为 BMP 的代码示例 API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ url: /zh/net/saveas/xlsb-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用C# API将XLSB另存为BMP" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 CellsSaveAsPostDocumentSaveAs 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Net将Excel文件保存为其他格式XLSB为BMP" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

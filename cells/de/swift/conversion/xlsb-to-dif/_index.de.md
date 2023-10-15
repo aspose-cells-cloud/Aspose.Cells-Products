@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSB in DIF Konvertieren API für Swift
+title: XLSB in DIF Konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine DIF-Formatdatei.
 url: /de/swift/conversion/xlsb-to-dif/
 ---

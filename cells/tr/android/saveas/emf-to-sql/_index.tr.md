@@ -1,19 +1,18 @@
 ﻿---
-title:  Android için EMF'i SQL API olarak kaydedin
-description:  EMF biçim dosyasını SQL biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
-url: /tr/android/saveas/emf-to-sql/
+title:  Android kullanarak EMF'i SQL olarak kaydedin
+description:  EMF formatındaki dosyayı SQL formatındaki dosya olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i SQL olarak kaydetmek için Android API" h2="EMF\'i SQL olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Android kullanarak çevrimiçi olarak EMF\'i SQL ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i SQL olarak kaydet" h2="EMF\'i SQL olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Android kullanarak çevrimiçi olarak EMF\'i SQL ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="EMF dosyasını Android\'de SQL olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de EMF dosyasını SQL olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-EMF'den dosya biçimlerini SQL olarak kaydetmek karmaşık bir görevdir. EMF'den SQL biçimine geçişlerin tümü, kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, EMF'i çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
+EMF'den dosya formatlarını SQL olarak kaydetmek karmaşık bir iştir. EMF'den SQL formatına tüm geçişler, kaynak EMF elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, EMF'i çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="EMF\'i SQL formatı olarak kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="REST API\'i kullanarak EMF\'i SQL olarak kaydetmek için Android Kod Örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ EMF'den dosya biçimlerini SQL olarak kaydetmek karmaşık bir görevdir. EMF'de
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="EMF\'i SQL olarak kaydetmek için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda EMF SQL olarak kaydetmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

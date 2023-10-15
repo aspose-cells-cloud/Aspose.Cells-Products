@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS till SXC Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLS-formatfil till SXC-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLS-formatfil till SXC-formatfil.
 url: /sv/swift/conversion/xls-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

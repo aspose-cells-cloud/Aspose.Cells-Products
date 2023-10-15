@@ -1,5 +1,5 @@
 ﻿---
-title: NUMBERS in FODS Konvertieren Sie API für Swift
+title:  NUMBERS in FODS Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im FODS-Format.
 url: /de/swift/conversion/numbers-to-fods/
 ---

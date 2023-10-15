@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP till TSV Konvertera API för PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i BMP-format till fil i TSV-format.
-url: /sv/php/conversion/bmp-to-tsv/
+title:  Konvertera BMP till TSV med PHP
+description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i BMP-format till en fil i TSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att konvertera BMP till TSV" h2="PHP bibliotek för att konvertera BMP till TSV" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att konvertera BMP till TSV och andra dokumentformat online med PHP." urlsection="conversion/bmp-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera BMP till TSV" h2="PHP bibliotek för att konvertera BMP till TSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera BMP till TSV och andra dokumentformat online med PHP." urlsection="conversion/bmp-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en BMP-fil till TSV i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera BMP till TSV med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från BMP till TSV är en komplex uppgift. Alla övergångar från BMP till TSV-format utförs av vår PHP SDK samtidigt som källbladets BMP kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att konvertera BMP till TSV-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt TSV-utdata.
+Att konvertera filformat från BMP till TSV kan vara en komplicerad uppgift. Vår PHP SDK hanterar alla konverteringar från BMP till TSV-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket BMP bevaras. Vårt PHP-bibliotek erbjuder en professionell lösning för att konvertera BMP till TSV-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TSV-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att konvertera BMP till TSV-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kod Exempel för att konvertera BMP till TSV med Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Att konvertera filformat från BMP till TSV är en komplex uppgift. Alla överg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att konvertera BMP till TSV" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring cellsWorkbookPutConvertWorkBook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att konvertera Excel filer till andra format BMP till TSV" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

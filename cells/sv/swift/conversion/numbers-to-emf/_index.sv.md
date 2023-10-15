@@ -1,5 +1,5 @@
 ﻿---
-title:  NUMBERS till EMF Konvertera API för Swift
+title: NUMBERS till EMF Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i NUMBERS-format till fil i EMF-format.
 url: /sv/swift/conversion/numbers-to-emf/
 ---

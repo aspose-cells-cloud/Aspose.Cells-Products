@@ -1,6 +1,6 @@
 ﻿---
-title:  قم بتحويل FODS إلى TIFF في السحابة via PHP
-description: إنشاء ملفات Excel أو تحريرها أو تحويلها باستخدام REST API & Open Source PHP SDK
+title:  تحويل FODS الى TIFF في السحابة via PHP
+description: إنشاء أو تحرير أو تحويل ملفات Excel باستخدام REST API ومفتوح المصدر PHP SDK
 url: /ar/php/conversion/fods-to-tiff/
 family: cells
 platformtag: php
@@ -11,24 +11,24 @@ platform: PHP
 otherformats: CSV FODS TSV PDF TXT MHTML XLS DIF XLSX SVG XLSM XLTM XLTX XLSB XPS TIFF 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى TIFF مع PHP" h2="أتمتة Excel وتحويل ملف OpenOffice باستخدام Cloud SDK مفتوح المصدر لـ PHP" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى TIFF مع PHP" h2="أتمتة Excel وتحويل ملفات OpenOffice باستخدام Cloud SDK مفتوح المصدر لـ PHP" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="بسرعة تحويل FODS إلى TIFF via PHP" %}}
-1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية
-1. قم بتهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
-1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي باستخدام طريقة ```CellsApi.uploadFile```
+{{% blocks/products/pf/agp/feature-section-col title="تحويل FODS بسرعة إلى TIFF via PHP" %}}
+1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا
+1. تهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
+1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي بطريقة ```CellsApi.uploadFile```
 1. اتصل على ```CellsApi.cellsSaveAsPostDocumentSaveAs``` للحصول على الملف الناتج TIFF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ابدأ باستخدام Excel API و PHP SDK" %}}
- احصل على Excel Cloud SDK للحصول على كود المصدر PHP من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات تنزيل بديلة.
+{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel API و PHP SDK" %}}
+ احصل على Excel Cloud SDK لرمز المصدر PHP من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
 
- ألقِ نظرة أيضًا على Swagger المستندة إلى[API المرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel راحة API](https://products.aspose.cloud/cells/curl/).
+ قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="PHP كود التحويل FODS إلى TIFF" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="PHP كود تحويل FODS إلى TIFF" gistPath="" %}}
 ```php
 
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php

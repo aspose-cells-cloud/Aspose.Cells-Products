@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить ODS как WMF API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата ODS в виде файла формата WMF.
-url: /ru/java/saveas/ods-to-wmf/
+title:  Сохраните ODS как WMF, используя Java.
+description: Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата ODS как файла формата WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения ODS как WMF" h2="Java библиотека для сохранения ODS в формате WMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения ODS в виде WMF и других форматов документов в Интернете с использованием Java." urlsection="saveas/ods-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ODS как WMF" h2="Java библиотека для сохранения ODS в формате WMF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения ODS в формате WMF и других форматов документов в Интернете с помощью Java." urlsection="saveas/ods-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как WMF в Java." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как WMF по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде WMF — сложная задача. Все переходы формата ODS в формат WMF выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Java — это профессиональное решение для сохранения ODS в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов из ODS в формате WMF — сложная задача. Все переходы формата ODS в WMF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Java — это профессиональное решение для сохранения ODS в виде файлов WMF онлайн. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения ODS в формате WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения ODS в формате WMF с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/ods-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения ODS как WMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах ODS, как WMF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохраните XLT как WMF API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLT в виде файла формата WMF.
+title:  Сохранить XLT как WMF API для Swift.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLT как файла формата WMF.
 url: /ru/swift/saveas/xlt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения XLT как WMF" h2="Библиотека Swift для сохранения XLT как WMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLT как WMF и других форматов документов онлайн с помощью Swift." urlsection="saveas/xlt-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLT как WMF" h2="Библиотека Swift для сохранения XLT как WMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XLT в формате WMF и других форматов документов онлайн с помощью Swift." urlsection="saveas/xlt-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как WMF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде WMF — сложная задача. Все переходы между форматами XLT и WMF выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLT в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод WMF.
+Сохранение форматов файлов из XLT в формате WMF — сложная задача. Все переходы формата XLT в WMF выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для сохранения XLT в виде файлов WMF онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLT в формате WMF" gistPath="" %}}
@@ -54,10 +54,10 @@ url: /ru/swift/saveas/xlt-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLT как WMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLT в формате WMF" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

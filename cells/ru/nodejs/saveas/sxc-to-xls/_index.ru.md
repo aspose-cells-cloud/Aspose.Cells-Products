@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните SXC как XLS API для NodeJS.
-description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата SXC в виде файла формата XLS.
-url: /ru/nodejs/saveas/sxc-to-xls/
+title:  Сохраните SXC как XLS, используя NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата SXC как файла формата XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения SXC как XLS" h2="Библиотека NodeJS для сохранения SXC как XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения SXC в виде XLS и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/sxc-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить SXC как XLS" h2="Библиотека NodeJS для сохранения SXC в формате XLS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения SXC в формате XLS и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/sxc-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как XLS в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в виде XLS — сложная задача. Все переходы формата SXC в формат XLS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека NodeJS — это профессиональное решение для сохранения SXC в виде файлов XLS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLS.
+Сохранение форматов файлов из SXC в формате XLS — сложная задача. Все переходы формата SXC в XLS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека NodeJS — это профессиональное решение для сохранения SXC в виде файлов XLS онлайн. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод в формате XLS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения SXC в формате XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения SXC как XLS с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/sxc-to-xls/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения SXC как XLS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах SXC как XLS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

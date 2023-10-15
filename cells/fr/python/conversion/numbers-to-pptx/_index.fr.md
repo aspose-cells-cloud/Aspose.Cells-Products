@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS en PPTX Convertir API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format NUMBERS en fichier au format PPTX.
-url: /fr/python/conversion/numbers-to-pptx/
+title:  Convertissez NUMBERS en PPTX en utilisant Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir un fichier au format NUMBERS en un fichier au format PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir les nombres en PPTX" h2="Python bibliothèque pour convertir les NUMBERS en PPTX" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en PPTX et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/numbers-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir des NUMBERS en PPTX" h2="Bibliothèque Python pour convertir NUMBERS en PPTX" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Python. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en PPTX et d\'autres formats de documents en ligne en utilisant le Python." urlsection="conversion/numbers-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier NUMBERS en PPTX en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez NUMBERS en PPTX à l\'aide du SDK Cloud Cells pour Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de NUMBERS en PPTX est une tâche complexe. Toutes les transitions de format NUMBERS vers PPTX sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Python est une solution professionnelle pour convertir des NUMBERS en fichiers PPTX en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie PPTX parfaite.
+La conversion des formats de fichiers de NUMBERS en PPTX peut être une tâche complexe. Notre SDK Python gère toutes les conversions du format NUMBERS au format PPTX tout en préservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Python fournit une solution professionnelle pour convertir en ligne NUMBERS en fichiers PPTX. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et garantit une sortie PPTX de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour convertir NUMBERS au format PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Exemple de code pour convertir NUMBERS en PPTX à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ La conversion des formats de fichiers de NUMBERS en PPTX est une tâche complexe
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour convertir des NUMBERS en PPTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python afin de convertir des fichiers Excel vers d\'autres formats NUMBERS en PPTX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

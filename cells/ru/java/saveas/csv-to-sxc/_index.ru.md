@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить CSV как SXC API for Java
+title:  Сохраните CSV как SXC, используя Java.
 description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата CSV как файла формата SXC.
-url: /ru/java/saveas/csv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить CSV как SXC" h2="Java библиотека для сохранения CSV как SXC" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения CSV как SXC и других форматов документов в Интернете с использованием Java." urlsection="saveas/csv-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить CSV как SXC" h2="Java библиотека для сохранения CSV как SXC" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения CSV в формате SXC и других форматов документов в Интернете с помощью Java." urlsection="saveas/csv-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как SXC по адресу Java." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как SXC по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде SXC — сложная задача. Все переходы между форматами CSV и SXC выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Java — это профессиональное решение для сохранения CSV в виде файлов SXC в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат SXC.
+Сохранение форматов файлов из CSV в формате SXC — сложная задача. Все переходы формата CSV в SXC выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека Java — это профессиональное решение для сохранения файлов CSV в формате SXC онлайн. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения CSV в формате SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения CSV как SXC с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/csv-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения CSV как SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах CSV как SXC" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

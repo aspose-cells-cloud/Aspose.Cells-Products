@@ -1,19 +1,18 @@
 ﻿---
-title:  Convertir JPG en XLTX API pour Go
-description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format JPG en fichier au format XLTX.
-url: /fr/go/conversion/jpg-to-xltx/
+title:  Convertir JPG en XLTX à l'aide de Go
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format JPG en fichier au format XLTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir JPG en XLTX" h2="Accédez à la bibliothèque pour convertir JPG en XLTX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir JPG en XLTX et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/jpg-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir JPG en XLTX" h2="Accédez à la bibliothèque pour convertir JPG en XLTX" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Go. Il s\'agit d\'une solution professionnelle pour convertir JPG en XLTX et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/jpg-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier JPG en XLTX dans Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez JPG en XLTX à l\'aide du SDK Cloud Cells pour Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de JPG en XLTX est une tâche complexe. Toutes les transitions de format JPG vers XLTX sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers JPG en XLTX en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTX parfaite.
+La conversion des formats de fichiers JPG en XLTX peut être une tâche complexe. Notre SDK Go gère toutes les conversions du format JPG au format XLTX tout en préservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Go fournit une solution professionnelle pour convertir des fichiers JPG en XLTX en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et garantit une sortie XLTX de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir JPG au format XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Exemple de code pour convertir JPG en XLTX à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ La conversion des formats de fichiers de JPG en XLTX est une tâche complexe. To
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Go API pour convertir JPG en XLTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Go pour convertir des fichiers Excel vers d\'autres formats JPG en XLTX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PutConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>go version go1.13.0 ou plus récente</li>
+<li>aller à la version go1.13.0 ou plus récente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

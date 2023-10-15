@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML in WMF Konvertieren Sie API in PHP
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um eine Datei im HTML-Format in eine WMF-Formatdatei zu konvertieren.
-url: /de/php/conversion/html-to-wmf/
+title:  Konvertieren Sie HTML mit PHP in WMF
+description: Verwendung des Aspose.Cells Cloud SDK für PHP zum Konvertieren einer Datei im HTML-Format in eine WMF-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Konvertieren von HTML in WMF" h2="PHP-Bibliothek zum Konvertieren von HTML in WMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um HTML online mit PHP in WMF und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie HTML in WMF" h2="PHP-Bibliothek zum Konvertieren von HTML in WMF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP-Projekten zu erstellen. Dies ist eine professionelle Lösung, um HTML online mit PHP in WMF und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine HTML-Datei in WMF in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie HTML in WMF mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von HTML in WMF ist eine komplexe Aufgabe. Alle Übergänge vom Format HTML zum WMF-Format werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um HTML online in WMF-Dateien zu konvertieren. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Konvertieren von Dateiformaten von HTML in WMF kann eine komplexe Aufgabe sein. Unser PHP SDK übernimmt alle Konvertierungen von HTML in das WMF-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle HTML bei. Unsere PHP-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von HTML in WMF-Dateien. Dieses Cloud SDK bietet PHP-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige WMF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Konvertieren von HTML in das WMF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel für die Konvertierung von HTML in WMF mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Das Konvertieren von Dateiformaten von HTML in WMF ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um HTML in WMF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkBook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP zum Konvertieren von Excel-Dateien in andere Formate HTML in WMF" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

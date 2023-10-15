@@ -4,13 +4,13 @@ description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichi
 url: /fr/swift/export/listobject-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour exporter LISTOBJECT vers un fichier MD" h2="Bibliothèque Swift pour exporter LISTOBJECT vers un fichier MD" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Swift. Il s\'agit d\'une solution professionnelle pour exporter un fichier au format LISTOBJECT vers MD à partir d\'une feuille de calcul en ligne à l\'aide de Swift." urlsection="export/listobject-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour exporter LISTOBJECT vers un fichier MD" h2="Bibliothèque Swift pour exporter LISTOBJECT vers un fichier MD" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes d\'une feuille de calcul dans Swift. Il s\'agit d\'une solution professionnelle pour exporter LISTOBJECT vers un fichier au format MD à partir d\'une feuille de calcul en ligne à l\'aide de Swift." urlsection="export/listobject-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet LISTOBJECT vers un fichier au format MD dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exporter un objet LISTOBJECT vers un fichier MD à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format LISTOBJECT vers MD est effectuée par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul LISTOBJECT source. Notre bibliothèque Swift est une solution professionnelle pour exporter en ligne des objets LISTOBJECT vers des fichiers au format MD. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie MD parfaite.
+Exporter l'objet LISTOBJECT vers un fichier MD à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions au format LISTOBJECT vers MD est effectuée par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul LISTOBJECT source. Notre bibliothèque Swift est une solution professionnelle pour exporter des objets LISTOBJECT vers des fichiers au format MD en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie MD parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour exporter LISTOBJECT au format MD à partir d\'une feuille de calcul" gistPath="" %}}
@@ -57,7 +57,7 @@ Exporter un objet LISTOBJECT vers un fichier MD à partir d'une feuille de calcu
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour exporter LISTOBJECT vers MD" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
 <li>Appelez la méthode postExport pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

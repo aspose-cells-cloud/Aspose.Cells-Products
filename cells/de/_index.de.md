@@ -46,7 +46,7 @@ Erstellen Sie ganz einfach C++-Anwendungen zum Erstellen, Analysieren, Anzeigen 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Keine Code-Apps enthalten" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells " title="Wandlung" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/cells/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells " title="Konvertierung" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/cells/conversion" >}}
 Kostenlose Online-App zum Konvertieren Ihrer Tabellenkalkulationen in HTML, PDF, CSV und andere Formate unterwegs.
 {{< /blocks/products/pf/product >}}
 

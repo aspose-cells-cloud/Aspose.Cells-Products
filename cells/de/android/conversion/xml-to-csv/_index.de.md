@@ -1,19 +1,18 @@
 ﻿---
-title:  XML in CSV konvertieren API für Android
-description:  Verwenden von Aspose.Cells Cloud SDK für Android zum Konvertieren von XML-Formatdateien in CSV-Formatdateien.
-url: /de/android/conversion/xml-to-csv/
+title:  Konvertieren Sie XML mit Android in CSV
+description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer XML-Formatdatei in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von XML in CSV" h2="Android-Bibliothek zum Konvertieren von XML in CSV" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in CSV und andere Dokumentformate mit Android." urlsection="conversion/xml-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XML in CSV" h2="Android-Bibliothek zum Konvertieren von XML in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in CSV und andere Dokumentformate mit Android." urlsection="conversion/xml-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XML-Datei in CSV in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XML mit dem Cloud SDK Cells für Android in CSV" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XML in CSV ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum CSV-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XML-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML- in CSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte CSV-Ausgabe.
+Das Konvertieren von Dateiformaten von XML in CSV kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von XML in das CSV-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-XML-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XML- in CSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige CSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Konvertieren von XML in das CSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel für die Konvertierung von XML in CSV mit dem Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von XML in CSV ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API zum Konvertieren von XML in CSV" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in andere Formate, XML in CSV, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,5 +1,5 @@
 ﻿---
-title:  Objekte mit Swift löschen
+title: Objekte mit Swift löschen
 description:  Aspose.Cells Cloud REST API unterstützt klare innere Objekte in einer Excel-Datei mit Swift. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/clear/
 ---

@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLSB als XLS API für NodeJS
-description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die XLSB-Formatdatei als XLS-Formatdatei zu speichern.
-url: /de/nodejs/saveas/xlsb-to-xls/
+title:  Speichern Sie XLSB als XLS mit NodeJS
+description:  Verwendung von Aspose.Cells Cloud SDK für NodeJS zum Speichern von XLSB-Formatdateien als XLS-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, um XLSB als XLS zu speichern" h2="NodeJS-Bibliothek zum Speichern von XLSB als XLS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um XLSB als XLS und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/xlsb-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSB als XLS speichern" h2="NodeJS-Bibliothek zum Speichern von XLSB als XLS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um XLSB als XLS und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/xlsb-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSB-Datei als XLS in NodeJS" >}}
@@ -13,7 +12,7 @@ url: /de/nodejs/saveas/xlsb-to-xls/
 Das Speichern von Dateiformaten von XLSB als XLS ist eine komplexe Aufgabe. Alle XLSB-zu-XLS-Formatübergänge werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSB-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um XLSB als XLS-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von XLSB im XLS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel zum Speichern von XLSB als XLS mit REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten von XLSB als XLS ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um XLSB als XLS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in anderen Formaten, XLSB, als XLS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

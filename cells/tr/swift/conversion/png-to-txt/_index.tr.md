@@ -1,19 +1,19 @@
 ﻿---
-title:  PNG'den TXT'ye Swift için API'i Dönüştür
-description:  PNG biçim dosyasını TXT biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
+title:  Swift için PNG'i TXT'ye dönüştürün
+description:  PNG formatındaki dosyayı TXT formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/conversion/png-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i TXT\'ye dönüştürmek için Swift API" h2="PNG\'i TXT\'ye dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak çevrimiçi olarak PNG\'i TXT\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i TXT\'ye dönüştürmek için Swift API" h2="PNG\'i TXT\'ye dönüştürmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Dönüşüm REST API\'i kullanın. Bu, Swift kullanarak PNG\'i TXT\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir PNG dosyasını Swift\'de TXT\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de PNG dosyasını TXT\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını PNG'den TXT'ye dönüştürmek karmaşık bir iştir. PNG'den TXT biçimine tüm geçişler, kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, PNG'i çevrimiçi TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
+Dosya formatlarını PNG'den TXT'ye dönüştürmek karmaşık bir iştir. PNG'den TXT formatına tüm geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak PNG elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, PNG'i çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PNG\'i TXT formatına dönüştürmek için REST API kullanan Swift\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PNG\'i TXT formatına dönüştürmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,15 +66,15 @@ Dosya formatlarını PNG'den TXT'ye dönüştürmek karmaşık bir iştir. PNG'd
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="PNG\'i TXT\'ye dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+<li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>macOS Monterey 12.4</li>
-<li>hızlı 4.2</li>
+<li>Hızlı 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

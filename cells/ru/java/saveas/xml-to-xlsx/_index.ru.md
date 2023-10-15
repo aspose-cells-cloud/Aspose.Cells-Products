@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XML как XLSX API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XML как файла формата XLSX.
-url: /ru/java/saveas/xml-to-xlsx/
+title:  Сохраните XML как XLSX, используя Java.
+description: Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XML в формате XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить XML как XLSX" h2="Java библиотека для сохранения XML в формате XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения XML в формате XLSX и других форматах документов в Интернете с использованием Java." urlsection="saveas/xml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XML как XLSX" h2="Java библиотека для сохранения XML в формате XLSX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения XML в формате XLSX и других форматов документов в Интернете с помощью Java." urlsection="saveas/xml-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как XLSX в Java." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл в формате XLSX по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде XLSX — сложная задача. Все переходы между форматами XML и XLSX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Java — это профессиональное решение для сохранения XML в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XLSX.
+Сохранение форматов файлов из XML в формате XLSX — сложная задача. Все переходы формата XML в XLSX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной XML-таблицы. Наша библиотека Java — это профессиональное решение для сохранения XML в формате XLSX в Интернете. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения XML в формате XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения XML в формате XLSX с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/xml-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения XML в формате XLSX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах XML как XLSX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

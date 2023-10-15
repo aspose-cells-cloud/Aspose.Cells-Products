@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez TSV sous HTML API pour Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format TSV en tant que fichier au format HTML.
-url: /fr/android/saveas/tsv-to-html/
+title:  Enregistrer TSV sous HTML en utilisant Android
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format TSV au format HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer TSV sous HTML" h2="Bibliothèque Android pour enregistrer TSV sous HTML" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer TSV sous HTML et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/tsv-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer TSV sous le numéro HTML" h2="Bibliothèque Android pour enregistrer le TSV sous le nom HTML" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer le TSV sous le numéro HTML et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/tsv-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier TSV sous HTML dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de TSV sous le nom HTML est une tâche complexe. Toutes les transitions de format TSV vers HTML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer les fichiers TSV sous le nom HTML en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie HTML parfaite.
+L'enregistrement des formats de fichiers du TSV sous le nom HTML est une tâche complexe. Toutes les transitions du format TSV vers HTML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer TSV sous forme de fichiers HTML en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie HTML parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer TSV au format HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour enregistrer TSV sous HTML à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ L'enregistrement des formats de fichiers à partir de TSV sous le nom HTML est u
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer TSV sous HTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour enregistrer les fichiers Excel sous d\'autres formats TSV sous le nom HTML" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

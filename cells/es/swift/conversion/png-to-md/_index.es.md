@@ -1,19 +1,19 @@
 ﻿---
 title:  PNG a MD Convertir API para Swift
-description:  Usando Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato PNG a un archivo de formato MD.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato PNG a un archivo de formato MD.
 url: /es/swift/conversion/png-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para convertir PNG a MD" h2="Biblioteca Swift para convertir PNG a MD" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para convertir PNG a MD y otros formatos de documentos en línea usando Swift." urlsection="conversion/png-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para convertir PNG a MD" h2="Biblioteca Swift para convertir PNG a MD" p="Utilice Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para convertir PNG a MD y otros formatos de documentos en línea usando Swift." urlsection="conversion/png-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo PNG a MD en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de PNG a MD es una tarea compleja. Todas las transiciones de formato PNG a MD se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente PNG. Nuestra biblioteca Swift es una solución profesional para convertir PNG a archivos MD en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida MD perfecta.
+Convertir formatos de archivo de PNG a MD es una tarea compleja. Todas las transiciones de formato PNG a MD las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen PNG. Nuestra biblioteca Swift es una solución profesional para convertir PNG a archivos MD en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida MD perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir PNG a formato MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir PNG al formato MD" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -65,15 +65,15 @@ Convertir formatos de archivo de PNG a MD es una tarea compleja. Todas las trans
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Swift API para convertir PNG a MD" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Swift API para convertir PNG a MD" >}}
+<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+<li>Llame al método cellWorkbookPutConvertWorkbook para obtener la secuencia resultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>macOS Monterrey 12.4</li>
+<li>macOS Monterey 12.4</li>
 <li>Rápido 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

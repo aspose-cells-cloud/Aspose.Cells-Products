@@ -1,19 +1,18 @@
 ﻿---
-title:  SXC till XLTM Konvertera API för C#
-description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i SXC-format till fil i XLTM-format.
-url: /sv/net/conversion/sxc-to-xltm/
+title:  Konvertera SXC till XLTM med C#
+description: Använda Aspose.Cells Cloud SDK för C# för att konvertera en fil i SXC-format till en fil i XLTM-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att konvertera SXC till XLTM" h2="C# bibliotek för att konvertera SXC till XLTM" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Net. Detta är en professionell lösning för att konvertera SXC till XLTM och andra dokumentformat online med C#." urlsection="conversion/sxc-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera SXC till XLTM" h2="C# bibliotek för konvertering av SXC till XLTM" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera SXC till XLTM och andra dokumentformat online med C#." urlsection="conversion/sxc-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en SXC-fil till XLTM i C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera SXC till XLTM med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från SXC till XLTM är en komplex uppgift. Alla SXC- till XLTM-formatövergångar utförs av vår C# SDK med bibehållen käll-SXC-kalkylblads huvudsakliga strukturella och logiska innehåll. Vårt C#-bibliotek är en professionell lösning för att konvertera SXC till XLTM-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt XLTM-utgång.
+Att konvertera filformat från SXC till XLTM kan vara en komplex uppgift. Vår C# SDK hanterar alla SXC- till XLTM-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för SXC bevaras. Vårt C#-bibliotek tillhandahåller en professionell lösning för att konvertera SXC- till XLTM-filer online. Denna Cloud SDK ger C#-utvecklare kraftfull funktionalitet och säkerställer XLTM-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att konvertera SXC till XLTM-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kodexempel för att konvertera SXC till XLTM med Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ Att konvertera filformat från SXC till XLTM är en komplex uppgift. Alla SXC- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att konvertera SXC till XLTM" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att konvertera Excel-filer till andra format SXC till XLTM" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

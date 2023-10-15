@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS إلى XLSB - تحويل API لـ Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق ODS إلى ملف بتنسيق XLSB.
-url: /ar/perl/conversion/ods-to-xlsb/
+title:  تحويل المواد المستنفدة للأوزون إلى XLSB باستخدام Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق ODS إلى ملف بتنسيق XLSB.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل ODS إلى XLSB" h2="مكتبة Perl لتحويل ODS إلى XLSB" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Perl. هذا حل احترافي لتحويل ODS إلى XLSB وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/ods-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل المواد المستنفدة للأوزون إلى XLSB" h2="Perl مكتبة لتحويل المواد المستنفدة للأوزون إلى XLSB" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل ODS إلى XLSB وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/ods-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف ODS إلى XLSB في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ODS إلى XLSB باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى XLSB مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى XLSB بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل ملفات ODS إلى ملفات XLSB عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XLSB مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من ODS إلى XLSB مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق ODS إلى XLSB مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات ODS إلى ملفات XLSB عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن إخراج XLSB عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل ODS إلى تنسيق XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل ODS إلى XLSB باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/ods-to-xlsb/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل ODS إلى XLSB" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل المواد المستنفدة للأوزون إلى XLSB" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

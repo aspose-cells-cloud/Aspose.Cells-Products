@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLSB als XLTX API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern einer XLSB-Formatdatei als XLTX-Formatdatei.
-url: /de/ruby/saveas/xlsb-to-xltx/
+title:  Speichern Sie XLSB als XLTX mit Ruby
+description:  Verwendung von Aspose.Cells Cloud SDK für Ruby zum Speichern von XLSB-Formatdateien als XLTX-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um XLSB als XLTX zu speichern" h2="Ruby-Bibliothek zum Speichern von XLSB als XLTX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSB als XLTX und anderen Dokumentformaten mit Ruby." urlsection="saveas/xlsb-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLSB als XLTX" h2="Ruby-Bibliothek zum Speichern von XLSB als XLTX" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSB als XLTX und anderen Dokumentformaten mit Ruby." urlsection="saveas/xlsb-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSB-Datei als XLTX in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/xlsb-to-xltx/
 Das Speichern von Dateiformaten von XLSB als XLTX ist eine komplexe Aufgabe. Alle XLSB-zu-XLTX-Formatübergänge werden von unserem Ruby SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLSB-Tabelle erhalten bleiben. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um XLSB als XLTX-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XLTX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von XLSB im XLTX-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von XLSB als XLTX mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten von XLSB als XLTX ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um XLSB als XLTX zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in den anderen Formaten XLSB und XLTX zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSX إلى EMF تحويل API لـ Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLSX إلى ملف بتنسيق EMF.
-url: /ar/python/conversion/xlsx-to-emf/
+title:  تحويل XLSX إلى EMF باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق XLSX إلى ملف بتنسيق EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل XLSX إلى EMF" h2="مكتبة Python لتحويل XLSX إلى EMF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل XLSX إلى EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xlsx-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSX إلى EMF" h2="مكتبة Python لتحويل XLSX إلى EMF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل XLSX إلى EMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xlsx-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSX إلى EMF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSX إلى EMF باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSX إلى EMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى EMF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل ملفات XLSX إلى EMF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج EMF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSX إلى EMF مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق XLSX إلى EMF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل ملفات XLSX إلى EMF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python بوظائف قوية ويضمن إخراج EMF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل XLSX إلى تنسيق EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل XLSX إلى EMF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/xlsx-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل XLSX إلى EMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى XLSX إلى EMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

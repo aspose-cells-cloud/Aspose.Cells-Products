@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT till TSV Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i TXT-format till fil i TSV-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i TXT-format till fil i TSV-format.
 url: /sv/swift/conversion/txt-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

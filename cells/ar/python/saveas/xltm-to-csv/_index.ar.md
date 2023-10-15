@@ -1,19 +1,18 @@
 ﻿---
-title: احفظ XLTM كـ CSV API لـ Python
+title: احفظ XLTM كملف CSV باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLTM كملف بتنسيق CSV.
-url: /ar/python/saveas/xltm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLTM كملف CSV" h2="مكتبة Python لحفظ XLTM كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLTM كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xltm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLTM كملف CSV" h2="مكتبة Python لحفظ XLTM بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ XLTM كملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xltm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM كملف CSV في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM بتنسيق CSV في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLTM كملف CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTM إلى CSV بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لحفظ XLTM كملفات CSV عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج CSV مثالي.
+يعد حفظ تنسيقات الملفات من XLTM كملف CSV مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLTM إلى CSV بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ XLTM كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Python وظائف قوية ومخرجات CSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ XLTM بتنسيق CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ XLTM كملف CSV باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/xltm-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ XLTM كملف CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى XLTM مثل CSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

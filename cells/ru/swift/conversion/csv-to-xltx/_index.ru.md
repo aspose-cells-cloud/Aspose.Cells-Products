@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование CSV в XLTX API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата XLTX.
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата XLTX.
 url: /ru/swift/conversion/csv-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования CSV в XLTX" h2="Библиотека Swift для преобразования CSV в XLTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации CSV в XLTX и других форматов документов с помощью Swift." urlsection="conversion/csv-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования CSV в XLTX" h2="Библиотека Swift для преобразования CSV в XLTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования CSV в XLTX и другие форматы документов с помощью Swift." urlsection="conversion/csv-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в XLTX в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте CSV-файл в XLTX в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в XLTX — сложная задача. Все переходы между форматами CSV и XLTX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов CSV в XLTX. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод XLTX.
+Преобразование форматов файлов из CSV в XLTX — сложная задача. Все переходы формата CSV в XLTX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов CSV в XLTX. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования CSV в формат XLTX" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/csv-to-xltx/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования CSV в XLTX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

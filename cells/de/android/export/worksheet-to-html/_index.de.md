@@ -1,16 +1,15 @@
 ﻿---
-title: Exportieren Sie ARBEITSBLATT aus der Tabelle mit Android API nach HTML
+title: Exportieren Sie ARBEITSBLATT von Excel nach HTML mit dem Cloud SDK für Android Cells
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/android/export/worksheet-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Exportieren des Arbeitsblatts in die Datei HTML" h2="Android-Bibliothek zum Exportieren von WORKSHEET in die Datei HTML" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Android zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine Datei im HTML-Format aus einer Tabellenkalkulation online mit Android." urlsection="export/worksheet-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie das Arbeitsblatt von Excel nach HTML" h2="Android-Bibliothek zum Exportieren von WORKSHEET in die Datei HTML" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Android zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine Datei im HTML-Format aus einer Tabellenkalkulation online mit Android." urlsection="export/worksheet-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im Format HTML in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt mit dem Cloud SDK für Android Cells in eine Datei im Format HTML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in die Datei HTML ist eine komplexe Aufgabe. Der Export von WORKSHEET in das HTML-Format wird von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im Format HTML. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte HTML-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in die Datei HTML ist eine komplexe Aufgabe. Der Export von WORKSHEET in das HTML-Format wird von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im Format HTML. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte HTML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKSHEET in das HTML-Format aus der Tabellenkalkulation" gistPath="" %}}
@@ -51,10 +50,10 @@ Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in die Dat
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um ARBEITSBLATT nach HTML zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android, um Objekte von Excel WORKSHEET nach HTML zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,15 @@
 ﻿---
-title:  Unisci più file Excel in un file con NodeJS.
-description:  API cloud e SDK per l'unione di più file Excel con NodeJS
-url: /it/nodejs/merge/multi-files/
+title:  Unisci più file Excel in un singolo file utilizzando NodeJS.
+description:  API cloud e SDK per unire più file Excel utilizzando NodeJS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per unire più file Excel in un file." h2="Libreria NodeJS per unire più file Excel in un file." p="Utilizzare Cells Merge REST API per unire più file Excel in un file in NodeJS. Questa soluzione professionale unisce più file Excel in un foglio di calcolo Microsoft Excel o OpenOffice Calc utilizzando NodeJS." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK per NodeJS per unire più file Excel in un unico file." h2="Libreria NodeJS per unire più file Excel in un unico file." p="Utilizza Cells Cloud SDK per unire più file Excel in un singolo file in NodeJS. Questa soluzione professionale ti consente di combinare più file Excel in un foglio di calcolo Microsoft Excel o OpenOffice Calc utilizzando NodeJS." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Unisci più file Excel in un file - NodeJS REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Unisci più file Excel in un unico file utilizzando Cells Cloud SDK per NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" %}}
 <br/>
-L'unione di più file Excel in un file è un'attività complessa. L'unione di più file Excel in transizioni di file viene eseguita dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo di origine. La nostra libreria NodeJS è una soluzione professionale per unire più file Excel in un file online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un perfetto API.
+Unire più file Excel in un unico file può essere un compito complesso. Il nostro SDK NodeJS gestisce questo processo, garantendo che il contenuto strutturale e logico principale dei fogli di calcolo di origine venga preservato. La nostra libreria NodeJS è una soluzione professionale per unire più file Excel in uno solo online. Questo Cloud SDK offre agli sviluppatori NodeJS funzionalità potenti e un robusto API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice nel nodo che utilizza REST API per unire più file Excel in un file" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-PostMerge.js" %}}
@@ -18,10 +17,10 @@ L'unione di più file Excel in un file è un'attività complessa. L'unione di pi
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Come utilizzare il nodo API per unire" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo postMerge per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per il nodo API per l\'unione" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postMerge` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

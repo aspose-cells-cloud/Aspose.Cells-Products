@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC zu WMF Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im SXC-Format in eine Datei im WMF-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im SXC-Format in eine Datei im WMF-Format.
 url: /de/swift/conversion/sxc-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

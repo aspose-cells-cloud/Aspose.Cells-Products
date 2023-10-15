@@ -1,14 +1,13 @@
 ﻿---
-title:  Objekte mit Python löschen
+title:  Löschen Sie interne Objekte der Datei Excel mit Python
 description:  Aspose.Cells Cloud REST API unterstützt klare innere Objekte in einer Excel-Datei unter Verwendung von Python. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/python/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Objekte mit Python löschen" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt klare innere Objekte in einer Excel-Datei unter Verwendung von Python. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Löschen Sie interne Objekte der Datei Excel mit Python" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt klare innere Objekte in einer Excel-Datei unter Verwendung von Python. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie Objekte mithilfe der Erweiterungslinks Python" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie interne Objekte der Datei Excel mithilfe von Python-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

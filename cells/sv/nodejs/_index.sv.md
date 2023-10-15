@@ -159,7 +159,7 @@ url: /sv/nodejs
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Sammanfatta data för stora ListObject eller tabell med pivottabell
+ Sammanfatta data för stora ListObject eller tabell med pivottabell
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ Sammanfatta data för stora ListObject eller tabell med pivottabell
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ta bort specifika eller alla OleObjects från kalkylbladet
+Ta bort specifika eller alla OleObjects från kalkylbladet
     </p>
    </div>
    <div class="col-lg-4">
@@ -230,11 +230,11 @@ Sammanfatta data för stora ListObject eller tabell med pivottabell
  Kom igång med Excel Spreadsheet Processing SDK
     </h2>
     <p>
-För att komma igång med Aspose.Cells Cloud SDK för Node.js behöver du inte installera någonting. Allt du behöver göra är att skapa ett konto på
+ För att komma igång med Aspose.Cells Cloud SDK för Node.js behöver du inte installera någonting. Allt du behöver göra är att skapa ett konto på
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose för Cloud
      </a>
- och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Node.js på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Node.js ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
+och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Node.js på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Node.js ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
     </p>
    </div>
    <div class="col-lg-12">
@@ -242,7 +242,7 @@ För att komma igång med Aspose.Cells Cloud SDK för Node.js behöver du inte i
  Bearbetar arbetsböcker via Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK för Node.js låter dig skapa, dela, slå samman, söka och ersätta text, lösenordsskydd, exportera till filformat som stöds, läsa arbetsbokens textobjekt, automatiskt anpassa arbetsboksrader samtidigt som du ignorerar dolda element, kryptera arbetsbokens lösenord och tillhandahålla krypteringsnyckellängd, importera data till arbetsboken, beräkna alla formler i arbetsboken, ange inställningar för formelberäkning genom att tillhandahålla precisionsstrategi etc., använd smart markör, konvertera arbetsboken från begäran om innehåll till ett annat format, använd lösenord för att tillåta innehållsändring.
+ Aspose.Cells Cloud SDK för Node.js låter dig skapa, dela, slå samman, söka och ersätta text, lösenordsskydd, exportera till filformat som stöds, läsa arbetsbokens textobjekt, automatiskt anpassa arbetsboksrader samtidigt som du ignorerar dolda element, kryptera arbetsbokens lösenord och tillhandahålla krypteringsnyckellängd, importera data till arbetsboken, beräkna alla formler i arbetsboken, ange inställningar för formelberäkning genom att tillhandahålla precisionsstrategi etc., använd smart markör, konvertera arbetsboken från begäran om innehåll till ett annat format, använd lösenord för att tillåta innehållsändring.
     </p>
    </div>
    <div class="col-lg-12">

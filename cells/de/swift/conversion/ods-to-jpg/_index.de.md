@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS in JPG Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im ODS-Format in eine Datei im JPG-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im ODS-Format in eine Datei im JPG-Format.
 url: /de/swift/conversion/ods-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

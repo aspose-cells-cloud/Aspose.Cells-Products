@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ JSON كـ XLT API مقابل Perl
+title:  احفظ JSON بتنسيق XLT باستخدام Perl
 description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق JSON كملف بتنسيق XLT.
-url: /ar/perl/saveas/json-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ JSON كـ XLT" h2="مكتبة Perl لحفظ JSON كـ XLT" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ JSON كـ XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/json-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ JSON بتنسيق XLT" h2="مكتبة Perl لحفظ JSON بصيغة XLT" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ JSON بتنسيق XLT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/json-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON باسم XLT في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON بتنسيق XLT في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JSON كـ XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى XLT بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JSON المصدر. مكتبتنا Perl هي حل احترافي لحفظ JSON كملفات XLT عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XLT مثالي.
+يعد حفظ تنسيقات الملفات من JSON بتنسيق XLT مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق JSON إلى XLT بواسطة Perl SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبتنا Perl حلاً احترافيًا لحفظ JSON كملفات XLT عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Perl وظائف قوية ومخرجات XLT مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لحفظ JSON بتنسيق XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لحفظ JSON كـ XLT باستخدام REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ar/perl/saveas/json-to-xlt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لحفظ JSON كـ XLT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لحفظ ملفات Excel بتنسيقات أخرى JSON مثل XLT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>اتصل بالبريد_دفتر العمل_طريقة save_as للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

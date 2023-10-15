@@ -1,7 +1,6 @@
 ﻿---
 title:  Lägg till vattenstämpel för lokal arbetsbok med PHP i molnet
 description: " Cloud API:er och SDK:er för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc med PHP. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API SDK för PHP."
-url: /sv/php/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att lägga till vattenstämpel för lokal Microsoft Excel och OpenOffice Calc-kalkylblad" h2="PHP-bibliotek för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Watermark REST API för att lägga till vattenstämpel för lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i PHP. Denna professionella lösning lägger till vattenstämpel för Microsoft 3 076166 online med OpenOffice 3 07616Office 3 07616 och OpenOffice kalkylblad 3 07616 online. 1." urlsection="background/Add-watermark/" >}}
@@ -18,7 +17,7 @@ Att lägga till vattenstämpel för ett lokalt kalkylblad med PHP är en komplex
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att lägga till vattenstämpel" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för PHP för att lägga till en vattenstämpel till en Excel-fil." >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Ring postWatermark-metoden för att få den resulterande strömmen</li>

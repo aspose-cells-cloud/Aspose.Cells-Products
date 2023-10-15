@@ -1,19 +1,18 @@
 ﻿---
-title:  SXC a MHTML Convertir API for Java
-description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato SXC a un archivo de formato MHTML.
-url: /es/java/conversion/sxc-to-mhtml/
+title:  Convierta SXC a MHTML usando Java
+description:  Utilizando el Aspose.Cells Cloud SDK for Java para convertir un archivo de formato SXC a un archivo de formato MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir SXC a MHTML" h2="Java biblioteca para convertir SXC a MHTML" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir SXC a MHTML y otros formatos de documentos en línea usando Java." urlsection="conversion/sxc-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir SXC a MHTML" h2="Biblioteca Java para convertir SXC a MHTML" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Java proyectos. Esta es una solución profesional para convertir SXC a MHTML y otros formatos de documentos en línea usando Java." urlsection="conversion/sxc-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo SXC a MHTML en Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta SXC a MHTML usando Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de SXC a MHTML es una tarea compleja. Todas las transiciones de formato SXC a MHTML se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Java es una solución profesional para convertir archivos SXC a MHTML en línea. Este SDK de Cloud brinda a los desarrolladores de Java una funcionalidad poderosa y una salida MHTML perfecta.
+Convertir formatos de archivo de SXC a MHTML puede ser una tarea compleja. Nuestro SDK Java maneja todas las conversiones de formato SXC a MHTML al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Java proporciona una solución profesional para convertir archivos SXC a MHTML en línea. Este SDK de nube brinda a los desarrolladores Java una potente funcionalidad y garantiza una salida MHTML de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para convertir SXC a formato MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Ejemplo de código para convertir SXC a MHTML usando Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,16 +46,16 @@ Convertir formatos de archivo de SXC a MHTML es una tarea compleja. Todas las tr
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Java API para convertir SXC a MHTML" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Java para convertir archivos Excel a otros formatos SXC a MHTML" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `putConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Maven 2.2.0 o más reciente</li>
-<li>Java(TM) SE Entorno de tiempo de ejecución</li>
+<li>Java(TM) SE entorno de ejecución</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

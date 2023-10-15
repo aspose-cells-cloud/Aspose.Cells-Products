@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLTM unter TIFF API für Go
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die Datei im XLTM-Format als Datei im Format TIFF zu speichern.
-url: /de/go/saveas/xltm-to-tiff/
+title:  Speichern Sie XLTM unter TIFF mit Go
+description:  Verwendung des Cloud SDK Aspose.Cells für Go zum Speichern der Datei im XLTM-Format als Datei im Format TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XLTM als TIFF zu speichern" h2="Gehen Sie zur Bibliothek, um XLTM unter TIFF zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um XLTM als TIFF und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/xltm-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLTM unter TIFF" h2="Gehen Sie zur Bibliothek, um XLTM unter TIFF zu speichern" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um XLTM als TIFF und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/xltm-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTM-Datei unter dem Namen TIFF in Go" >}}
@@ -13,7 +12,7 @@ url: /de/go/saveas/xltm-to-tiff/
 Das Speichern von Dateiformaten aus XLTM als TIFF ist eine komplexe Aufgabe. Alle XLTM-Formatübergänge in das TIFF-Format werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLTM-Dateien im Format TIFF. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von XLTM im TIFF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel zum Speichern von XLTM als TIFF mit REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten aus XLTM als TIFF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um XLTM als TIFF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in anderen XLTM-Formaten als TIFF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

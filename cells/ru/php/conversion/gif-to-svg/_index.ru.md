@@ -1,19 +1,18 @@
 ﻿---
-title: GIF в SVG Преобразовать API в PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата GIF в файл формата SVG.
-url: /ru/php/conversion/gif-to-svg/
+title:  Конвертируйте GIF в SVG, используя PHP.
+description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата GIF в файл формата SVG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования GIF в SVG" h2="PHP библиотека для преобразования GIF в SVG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для преобразования GIF в SVG и другие форматы документов онлайн с использованием PHP." urlsection="conversion/gif-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать GIF в SVG" h2="PHP библиотека для конвертации GIF в SVG" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для конвертации GIF в SVG и другие форматы документов онлайн с помощью PHP." urlsection="conversion/gif-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в SVG в PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте GIF в SVG с помощью Cloud SDK Cells для PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в SVG — сложная задача. Все переходы формата GIF в формат SVG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека PHP — это профессиональное решение для преобразования GIF в файлы SVG онлайн. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат SVG.
+Преобразование форматов файлов из GIF в SVG может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования форматов GIF в SVG, сохраняя при этом основное структурное и логическое содержимое исходной таблицы GIF. Наша библиотека PHP предоставляет профессиональное решение для онлайн-конвертации GIF в файлы SVG. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный результат SVG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования GIF в формат SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для преобразования GIF в SVG с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ru/php/conversion/gif-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования GIF в SVG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для преобразования файлов Excel в другие форматы GIF в SVG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

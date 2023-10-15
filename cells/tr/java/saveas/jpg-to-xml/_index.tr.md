@@ -1,19 +1,18 @@
 ﻿---
-title:  JPG'yi XML olarak kaydet API for Java
-description:  JPG biçim dosyasını XML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
-url: /tr/java/saveas/jpg-to-xml/
+title:  Java'i kullanarak JPG'yi XML olarak kaydedin
+description:  JPG formatındaki dosyayı XML formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi XML olarak kaydetmek için Java API" h2="JPG\'yi XML olarak kaydetmek için Java kitaplığı" p="Java\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Java\'i kullanarak JPG\'yi XML ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/jpg-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi XML olarak kaydet" h2="JPG\'yi XML olarak kaydetmek için Java kitaplığı" p="Java\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Java\'i kullanarak JPG\'yi XML ve diğer belge formatlarında çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/jpg-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JPG dosyasını Java\'de XML olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="JPG dosyasını Java\'e XML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-JPG'den dosya biçimlerini XML olarak kaydetmek karmaşık bir iştir. Tüm JPG'den XML biçimine geçişler, kaynak JPG e-tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, JPG'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+Dosya formatlarını JPG'den XML olarak kaydetmek karmaşık bir iştir. Tüm JPG'den XML formatına geçişler, kaynak JPG elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, JPG'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Java geliştiriciye güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="JPG\'yi XML formatı olarak kaydetmek için REST API kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java JPG\'yi REST kullanarak XML olarak kaydetmek için Kod Örneği API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ JPG'den dosya biçimlerini XML olarak kaydetmek karmaşık bir iştir. Tüm JPG'
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="JPG\'yi XML olarak kaydetmek için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud SDK for Java dosyasını diğer formatlarda JPG olarak XML olarak kaydetmek için Cells nasıl kullanılır" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

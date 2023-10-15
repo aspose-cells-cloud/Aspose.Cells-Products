@@ -1,19 +1,18 @@
 ﻿---
-title:  GIF 到 SQL 将 API 转换为 Python
-description: 使用Aspose.Cells Cloud SDK for Python将GIF格式文件转换为SQL格式文件。
-url: /zh/python/conversion/gif-to-sql/
+title: 使用 Python 将 GIF 转换为 SQL
+description: 利用Aspose.Cells Cloud SDK for Python将GIF格式文件转换为SQL格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 将 GIF 转换为 SQL" h2="Python 将 GIF 转换为 SQL 的库" p="使用Cells转换REST API在Python中创建自定义电子表格工作流程。这是使用Python在线将GIF转换为SQL和其他文档格式的专业解决方案。" urlsection="conversion/gif-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 GIF 转换为 SQL" h2="Python 用于将 GIF 转换为 SQL 的库" p="使用 Cells 云的转换 API 在 Python 项目中创建自定义电子表格工作流程。这是使用Python在线将GIF转换为SQL和其他文档格式的专业解决方案。" urlsection="conversion/gif-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 GIF 文件转换为 Python 中的 SQL" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Python 将 GIF 转换为 SQL" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 GIF 转换为 SQL 是一项复杂的任务。所有 GIF 到 SQL 格式的转换均由我们的 Python SDK 执行，同时保留源 GIF 电子表格的主要结构和逻辑内容。我们的 Python 库是在线将 GIF 转换为 SQL 文件的专业解决方案。此Cloud SDK为Python开发者提供了强大的功能和完美的SQL输出。
+将文件格式从 GIF 转换为 SQL 可能是一项复杂的任务。我们的 Python SDK 处理所有 GIF 到 SQL 格式的转换，同时保留源 GIF 电子表格的主要结构和逻辑内容。我们的 Python 库提供了在线将 GIF 转换为 SQL 文件的专业解决方案。该Cloud SDK为Python开发者提供强大的功能，并保证高质量的SQL输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python 中的代码示例使用 REST API 将 GIF 转换为 SQL 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python 使用 Cells Cloud SDK 将 GIF 转换为 SQL 的代码示例" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /zh/python/conversion/gif-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Python API 将 GIF 转换为 SQL" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>呼叫细胞_作业簿_放_转变_获取结果流的工作簿方法</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Python将Excel文件转换为其他格式GIF转SQL" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `put_convert_workbook` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

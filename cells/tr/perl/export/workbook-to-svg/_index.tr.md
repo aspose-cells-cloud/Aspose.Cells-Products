@@ -1,19 +1,18 @@
 ﻿---
-title:  Perl API kullanarak WORKBOOK'u elektronik tablodan SVG'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/perl/export/workbook-to-svg/
+title:  Perl için Cells Cloud SDK'yı kullanarak ÇALIŞMA KİTABI'nı Excel'den SVG'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABI\'nı SVG dosyasına aktarmak için Perl API" h2="ÇALIŞMA KİTABI\'nı SVG dosyasına aktarmak için Perl kitaplığı" p="Perl\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, WORKBOOK\'u Perl kullanarak çevrimiçi elektronik tablodan SVG biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABINI Excel\'den SVG\'e aktar" h2="ÇALIŞMA KİTABI\'nı SVG dosyasına aktarmak için Perl kitaplığı" p="Perl\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Perl\'i kullanarak çevrimiçi elektronik tablodan ÇALIŞMA KİTABI\'nı SVG biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="ÇALIŞMA KİTABI nesnesini Perl\'deki SVG biçim dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Perl için Cells Cloud SDK\'yı kullanarak ÇALIŞMA KİTABI nesnesini SVG biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-ÇALIŞMA KİTABI nesnesini elektronik tablodan SVG dosyasına dışa aktarma karmaşık bir görevdir. WORKBOOK'u SVG biçimine dışa aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak SVG biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
+ÇALIŞMA KİTABI nesnesini Excel dosyasından SVG dosyasına aktarmak karmaşık bir iştir. ÇALIŞMA KİTABI'nı SVG'e aktar format geçişleri Perl SDK'mız tarafından gerçekleştirilir ve kaynak ÇALIŞMA KİTABI e-tablosunun ana yapısal ve mantıksal içeriği korunur. Perl kitaplığımız, ÇALIŞMA KİTABI nesnelerini çevrimiçi olarak SVG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Perl geliştiriciye güçlü işlevsellik ve mükemmel SVG çıktı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan SVG biçimine dışa aktarmak için REST API kullanan Perl\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan SVG biçimine aktarmak için REST API\'i kullanan Perl\'deki kod örneği" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,9 +36,9 @@ url: /tr/perl/export/workbook-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="WORKBOOK\'u SVG\'e dışa aktarmak için Perl API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel ÇALIŞMA KİTABI\'ndan SVG\'e aktarmak için Perl için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için post_export yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

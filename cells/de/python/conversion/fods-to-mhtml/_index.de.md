@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertieren von Excel FODS in MHTML via Python
+title:  Konvertieren von Excel FODS in MHTML via Python
 description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API und Open Source Python SDK
 url: /de/python/conversion/fods-to-mhtml/
 family: cells

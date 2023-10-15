@@ -1,16 +1,16 @@
 ﻿---
-title:  XLS в TIFF Преобразование API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLS в файл формата TIFF.
+title:  XLS в TIFF Преобразовать API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLS в файл формата TIFF.
 url: /ru/swift/conversion/xls-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в TIFF" h2="Библиотека Swift для преобразования XLS в TIFF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLS в TIFF и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xls-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в TIFF" h2="Библиотека Swift для преобразования XLS в TIFF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации XLS в TIFF и другие форматы документов с помощью Swift." urlsection="conversion/xls-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в TIFF в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLS в TIFF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в TIFF — сложная задача. Все переходы между форматами XLS и TIFF выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLS в TIFF. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TIFF.
+Преобразование форматов файлов из XLS в TIFF — сложная задача. Все переходы формата XLS в TIFF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLS в файлы TIFF. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLS в формат TIFF" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/xls-to-tiff/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования XLS в TIFF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

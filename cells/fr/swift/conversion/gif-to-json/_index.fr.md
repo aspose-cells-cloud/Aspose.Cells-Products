@@ -1,19 +1,19 @@
 ﻿---
-title:  Convertir GIF en JSON API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format GIF en fichier au format JSON.
+title:  Conversion GIF en JSON API pour Swift
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format GIF en fichier au format JSON.
 url: /fr/swift/conversion/gif-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir GIF en JSON" h2="Bibliothèque Swift pour convertir GIF en JSON" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir des GIF en JSON et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/gif-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir GIF en JSON" h2="Bibliothèque Swift pour convertir GIF en JSON" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir GIF en JSON et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/gif-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en JSON dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers GIF en JSON est une tâche complexe. Toutes les transitions de format GIF à JSON sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers GIF en JSON en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie JSON parfaite.
+La conversion des formats de fichiers GIF en JSON est une tâche complexe. Toutes les transitions du format GIF vers JSON sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers GIF en JSON en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie JSON parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir le format GIF au format JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir GIF au format JSON" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -67,8 +67,8 @@ La conversion des formats de fichiers GIF en JSON est une tâche complexe. Toute
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir GIF en JSON" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

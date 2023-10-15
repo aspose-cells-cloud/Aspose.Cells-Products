@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera LISTOBJECT till PPTX från kalkylblad med Ruby API
+title:  Exportera LISTOBJECT till PPTX från Excel med Cells Cloud SDK för Ruby
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/ruby/export/listobject-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att exportera LISTOBJECT till PPTX-fil" h2="Ruby-bibliotek för att exportera LISTOBJECT till PPTX-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylark i Ruby. Detta är en professionell lösning för att exportera LISTOBJECT till PPTX-formatfil från kalkylblad online med Ruby." urlsection="export/listobject-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera LISTOBJECT till PPTX från Excel" h2="Ruby-bibliotek för export av LISTOBJECT till PPTX-fil" p="Använd Exportera API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Ruby. Detta är en professionell lösning för att exportera LISTOBJECT till PPTX-formatfil från kalkylblad online med Ruby." urlsection="export/listobject-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till PPTX-formatfil i Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till PPTX-formatfil med Cells Cloud SDK för Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera LISTOBJECT-objekt till PPTX-fil från kalkylblad är en komplex uppgift. Export av LISTOBJECT till PPTX-formatövergångar utförs av vår Ruby SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till PPTX-formatfiler online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt PPTX-utgång.
+Exportera LISTOBJECT-objekt till PPTX-fil från Excel-filen är en komplex uppgift. Export av LISTOBJECT till PPTX-formatövergångar utförs av vår Ruby SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till PPTX-formatfiler online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt PPTX-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby som använder REST API för att exportera LISTOBJECT till PPTX-format från kalkylblad" gistPath="" %}}
@@ -35,9 +34,9 @@ Exportera LISTOBJECT-objekt till PPTX-fil från kalkylblad är en komplex uppgif
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att exportera LISTOBJECT till PPTX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att exportera objekt från Excel LISTOBJECT till PPTX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop post_export-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

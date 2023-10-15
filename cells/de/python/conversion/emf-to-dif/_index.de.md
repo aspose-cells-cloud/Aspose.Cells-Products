@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF in DIF Konvertieren Sie API in Python
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im EMF-Format in eine DIF-Formatdatei.
-url: /de/python/conversion/emf-to-dif/
+title:  Konvertieren Sie EMF mit Python in DIF
+description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im EMF-Format in eine DIF-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um EMF in DIF umzuwandeln" h2="Python-Bibliothek zum Konvertieren von EMF in DIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um EMF online mit Python in DIF und andere Dokumentformate zu konvertieren." urlsection="conversion/emf-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie EMF in DIF" h2="Python-Bibliothek zum Konvertieren von EMF in DIF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung, um EMF online mit Python in DIF und andere Dokumentformate zu konvertieren." urlsection="conversion/emf-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine EMF-Datei in DIF in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie EMF in DIF mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von EMF in DIF ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum DIF-Format werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um EMF online in DIF-Dateien zu konvertieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte DIF-Ausgabe.
+Das Konvertieren von Dateiformaten von EMF in DIF kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle Konvertierungen von EMF in das DIF-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle EMF bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von EMF- in DIF-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige DIF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von EMF in das DIF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel für die Konvertierung von EMF in DIF mit Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Das Konvertieren von Dateiformaten von EMF in DIF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um EMF in DIF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Excel-Dateien in andere Formate zu konvertieren, EMF in DIF" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

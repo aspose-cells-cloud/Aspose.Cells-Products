@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ EMF كـ TIFF API مقابل Python
-description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق EMF كملف بتنسيق TIFF.
-url: /ar/python/saveas/emf-to-tiff/
+title:  احفظ EMF كـ TIFF باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق EMF كملف بتنسيق TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ EMF كـ TIFF" h2="مكتبة Python لحفظ EMF كـ TIFF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ EMF كـ TIFF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/emf-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ EMF كـ TIFF" h2="مكتبة Python لحفظ EMF باسم TIFF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ EMF كـ TIFF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/emf-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف EMF كـ TIFF في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من EMF كـ TIFF مهمة معقدة. يتم إجراء جميع انتقالات تنسيق EMF إلى TIFF بواسطة SDK Python مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات EMF المصدر. مكتبتنا Python هي حل احترافي لحفظ EMF كملفات TIFF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج TIFF مثالي.
+يعد حفظ تنسيقات الملفات من EMF إلى TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من EMF إلى TIFF بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF. تعد مكتبتنا Python حلاً احترافيًا لحفظ EMF كملفات TIFF عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج TIFF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ EMF بتنسيق TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على حفظ EMF كـ TIFF باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/emf-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ EMF كـ TIFF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى EMF كـ TIFF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

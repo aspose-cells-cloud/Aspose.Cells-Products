@@ -1,16 +1,15 @@
 ﻿---
-title: Exporter WORKSHEET vers GIF à partir d'une feuille de calcul en utilisant PHP API
+title:  Exportez la FEUILLE DE TRAVAIL au format GIF à partir de Excel à l'aide du SDK Cloud Cells pour PHP.
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
-url: /fr/php/export/worksheet-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour exporter la FEUILLE DE TRAVAIL vers un fichier GIF" h2="PHP bibliothèque pour exporter WORKSHEET vers un fichier GIF" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de la feuille de calcul dans PHP. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format GIF à partir d\'une feuille de calcul en ligne à l\'aide de PHP." urlsection="export/worksheet-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter la FEUILLE DE TRAVAIL au format GIF à partir du Excel" h2="Bibliothèque PHP pour exporter WORKSHEET vers un fichier GIF" p="Utilisez Export API de Cells Cloud pour exporter les flux de travail d\'objets internes du fichier Excel dans PHP. Il s\'agit d\'une solution professionnelle pour exporter une FEUILLE DE TRAVAIL au format GIF à partir d\'une feuille de calcul en ligne à l\'aide de PHP." urlsection="export/worksheet-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKSHEET vers un fichier au format GIF dans PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportez l\'objet WORKSHEET vers un fichier au format GIF à l\'aide du SDK Cloud Cells pour PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'exportation d'un objet WORKSHEET vers un fichier GIF à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format WORKSHEET vers GIF est effectuée par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul source WORKSHEET. Notre bibliothèque PHP est une solution professionnelle pour exporter en ligne des objets WORKSHEET vers des fichiers au format GIF. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie GIF parfaite.
+Exporter un objet WORKSHEET vers un fichier GIF à partir du fichier Excel est une tâche complexe. Les transitions d’exportation de WORKSHEET au format GIF sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKSHEET source. Notre bibliothèque PHP est une solution professionnelle pour exporter en ligne des objets WORKSHEET vers des fichiers au format GIF. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie GIF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour exporter WORKSHEET au format GIF à partir d\'une feuille de calcul" gistPath="" %}}
@@ -36,10 +35,10 @@ L'exportation d'un objet WORKSHEET vers un fichier GIF à partir d'une feuille d
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour exporter WORKSHEET au format GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP pour exporter des objets de Excel WORKSHEET vers GIF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode postExport pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postExport` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,14 +1,13 @@
 ﻿---
-title:  Définir l'arrière-plan à l'aide de Python
-description:  Aspose.Cells Cloud REST API prend en charge l'arrière-plan défini pour le fichier Excel à l'aide de Python. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
-url: /fr/python/background/
+title:  Définir un arrière-plan pour les fichiers Excel à l'aide de Python
+description:  Aspose.Cells Cloud REST API prend en charge la définition de l'arrière-plan des fichiers Excel à l'aide de Python et propose des SDK pour divers langages de programmation.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Définir l\'arrière-plan à l\'aide de Python" h2="Aspose.Cells Le SDK Cloud prend en charge le contenu clair, le style, le graphique, le tableau, l\'arrière-plan, etc. dans les fichiers Excel." p="Aspose.Cells Cloud REST API prend en charge l\'arrière-plan défini pour le fichier Excel à l\'aide de Python. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Définir un arrière-plan pour les fichiers Excel à l\'aide de Python" h2="Aspose.Cells Cloud SDK prend en charge la définition d\'arrière-plans dans les fichiers Excel." p="Aspose.Cells Cloud REST API prend en charge la définition de l\'arrière-plan des fichiers Excel à l\'aide de Python et propose des SDK pour divers langages de programmation." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Définir l\'arrière-plan à l\'aide des liens d\'extension Python" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Définir un arrière-plan pour les fichiers Excel à l\'aide des liens d\'extension Python" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
@@ -20,7 +19,7 @@ url: /fr/python/background/
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
 {{< blocks/products/pf/slr-element name="API Références" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vidéos tutorielles" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Support produit" tabId="support" >}}
@@ -29,7 +28,7 @@ url: /fr/python/background/
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.Cells Cloud SDK for .NET ?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.Cells SDK Cloud for .NET ?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Liste des clients" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Sécurité" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

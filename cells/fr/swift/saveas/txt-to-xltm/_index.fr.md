@@ -1,16 +1,16 @@
 ﻿---
-title:  Enregistrez TXT sous XLTM API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format TXT en tant que fichier au format XLTM.
+title:  Enregistrer TXT sous XLTM API pour Swift
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format TXT au format XLTM.
 url: /fr/swift/saveas/txt-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer TXT en XLTM" h2="Bibliothèque Swift pour enregistrer TXT en XLTM" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer TXT au format XLTM et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/txt-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer TXT au format XLTM" h2="Bibliothèque Swift pour enregistrer TXT au format XLTM" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer TXT au format XLTM et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/txt-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TXT au format XLTM dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de TXT en XLTM est une tâche complexe. Toutes les transitions de format TXT vers XLTM sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers TXT au format XLTM. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLTM parfaite.
+Enregistrer les formats de fichiers de TXT au format XLTM est une tâche complexe. Toutes les transitions du format TXT vers XLTM sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer TXT sous forme de fichiers XLTM en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLTM parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer TXT au format XLTM" gistPath="" %}}
@@ -54,10 +54,10 @@ L'enregistrement des formats de fichiers de TXT en XLTM est une tâche complexe.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer TXT en XLTM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer TXT au format XLTM" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

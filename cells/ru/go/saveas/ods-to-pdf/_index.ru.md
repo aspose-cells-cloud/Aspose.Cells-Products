@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните ODS как PDF API для Go
+title:  Сохраните ODS как PDF с помощью Go.
 description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата ODS как файла формата PDF.
-url: /ru/go/saveas/ods-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить ODS как PDF." h2="Перейти в библиотеку, чтобы сохранить ODS как PDF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения ODS как PDF и других форматов документов в Интернете с помощью Go." urlsection="saveas/ods-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ODS как PDF." h2="Библиотека Go для сохранения ODS под номером PDF." p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения ODS как PDF и других форматов документов в Интернете с помощью Go." urlsection="saveas/ods-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как PDF в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS как PDF — сложная задача. Все переходы формата ODS в формат PDF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для сохранения файлов ODS в формате PDF онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PDF.
+Сохранение формата файла из ODS как PDF — сложная задача. Все переходы формата ODS в формат PDF выполняются нашим Go SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для сохранения файлов ODS в формате PDF онлайн. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PDF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения ODS в формате PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения ODS как PDF с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /ru/go/saveas/ods-to-pdf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для сохранения ODS как PDF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах ODS как PDF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

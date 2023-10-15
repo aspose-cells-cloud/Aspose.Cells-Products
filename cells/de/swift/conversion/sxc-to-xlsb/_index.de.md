@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC zu XLSB Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von SXC-Formatdateien in XLSB-Formatdateien.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von SXC-Formatdateien in XLSB-Formatdateien.
 url: /de/swift/conversion/sxc-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

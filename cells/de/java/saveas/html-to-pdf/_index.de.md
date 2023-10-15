@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie HTML als PDF API for Java
-description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um die Datei im Format HTML als Datei im Format PDF zu speichern.
-url: /de/java/saveas/html-to-pdf/
+title:  Speichern Sie HTML als PDF mit Java
+description:  Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern der Datei im Format HTML als Datei im Format PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um HTML als PDF zu speichern" h2="Java-Bibliothek, um HTML als PDF zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um HTML als PDF und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/html-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie HTML als PDF" h2="Java-Bibliothek zum Speichern von HTML als PDF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um HTML als PDF und andere Dokumentformate online unter Java zu speichern." urlsection="saveas/html-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine HTML-Datei als PDF in Java" >}}
@@ -13,7 +12,7 @@ url: /de/java/saveas/html-to-pdf/
 Das Speichern von Dateiformaten von HTML als PDF ist eine komplexe Aufgabe. Alle Formatübergänge von HTML zu PDF werden von unserem Java SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um HTML als PDF-Dateien online zu speichern. Dieses Cloud SDK bietet Entwicklern leistungsstarke Funktionalität und eine perfekte PDF Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von HTML im PDF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel zum Speichern von HTML als PDF mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten von HTML als PDF ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um HTML als PDF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Speichern von Excel-Dateien in anderen Formaten HTML als PDF" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

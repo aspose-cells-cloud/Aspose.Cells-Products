@@ -1,19 +1,18 @@
 ﻿---
-title: Сохранить XML как XLSM API для Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XML как файла формата XLSM.
-url: /ru/perl/saveas/xml-to-xlsm/
+title:  Сохраните XML как XLSM, используя Perl.
+description:  Использование Cloud SDK Aspose.Cells для Perl для сохранения файла формата XML как файла формата XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить XML как XLSM" h2="Perl библиотека для сохранения XML как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения XML в виде XLSM и других форматов документов в Интернете с использованием Perl." urlsection="saveas/xml-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XML как XLSM" h2="Perl библиотека для сохранения XML в формате XLSM" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения XML в формате XLSM и других форматов документов в Интернете с помощью Perl." urlsection="saveas/xml-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как XLSM в Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл как XLSM по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде XLSM — сложная задача. Все переходы между форматами XML и XLSM выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Perl — это профессиональное решение для сохранения XML в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат XLSM.
+Сохранение форматов файлов из XML в формате XLSM — сложная задача. Все переходы формата XML в XLSM выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной XML-таблицы. Наша библиотека Perl — это профессиональное решение для сохранения XML в виде файлов XLSM в Интернете. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XML в формате XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения XML в формате XLSM с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/xml-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для сохранения XML как XLSM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl для сохранения файлов Excel в других форматах XML как XLSM" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

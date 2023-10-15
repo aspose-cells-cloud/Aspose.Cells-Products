@@ -1,19 +1,18 @@
 ﻿---
-title:  XML в BMP Преобразование API в PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата XML в файл формата BMP.
-url: /ru/php/conversion/xml-to-bmp/
+title:  Преобразуйте XML в BMP, используя PHP.
+description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата XML в файл формата BMP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования XML в BMP" h2="библиотека PHP для преобразования XML в BMP" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для преобразования XML в BMP и другие форматы документов онлайн с использованием PHP." urlsection="conversion/xml-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать XML в BMP" h2="PHP библиотека для преобразования XML в BMP" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертирования XML в BMP и другие форматы документов с использованием PHP." urlsection="conversion/xml-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XML в BMP в PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XML в BMP с помощью Cloud SDK Cells для PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в BMP — сложная задача. Все переходы между форматами XML и BMP выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации XML в файлы BMP. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат BMP.
+Преобразование форматов файлов из XML в BMP может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования форматов XML в BMP, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XML. Наша библиотека PHP предоставляет профессиональное решение для онлайн-преобразования XML в файлы BMP. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный результат BMP.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования XML в формат BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для преобразования XML в BMP с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ru/php/conversion/xml-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования XML в BMP" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для преобразования файлов Excel в другие форматы XML в BMP" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

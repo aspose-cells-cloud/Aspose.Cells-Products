@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie CSV als SVG API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im CSV-Format als Datei im Format SVG zu speichern.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im CSV-Format als Datei im Format SVG zu speichern.
 url: /de/swift/saveas/csv-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

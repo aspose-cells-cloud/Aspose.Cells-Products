@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som SXC API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att spara EMF filformat som SXC format fil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att spara EMF filformat som SXC format fil.
 url: /sv/swift/saveas/emf-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

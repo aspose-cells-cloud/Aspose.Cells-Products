@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XLS كـ PNG API لـ Python
+title:  احفظ XLS كـ PNG باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLS كملف بتنسيق PNG.
-url: /ar/python/saveas/xls-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLS كـ PNG" h2="مكتبة Python لحفظ XLS كـ PNG" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLS كـ PNG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xls-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLS كـ PNG" h2="مكتبة Python لحفظ XLS برقم PNG" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ XLS كـ PNG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xls-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLS بالشكل PNG في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLS باسم PNG في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLS كـ PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى PNG بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLS المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لحفظ ملفات XLS على شكل PNG عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج PNG مثالي.
+يعد حفظ تنسيقات الملفات من XLS كـ PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى PNG بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLS المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ XLS كملفات PNG عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج PNG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ XLS بتنسيق PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ XLS كـ PNG باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/xls-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ XLS كـ PNG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى XLS مثل PNG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

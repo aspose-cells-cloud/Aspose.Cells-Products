@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ GIF بصيغة CSV API لـ NodeJS
-description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق GIF كملف بتنسيق CSV.
-url: /ar/nodejs/saveas/gif-to-csv/
+title:  احفظ ملف GIF بتنسيق CSV باستخدام NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق GIF كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لحفظ GIF كملف CSV" h2="مكتبة NodeJS لحفظ GIF كملف CSV" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في NodeJS. هذا حل احترافي لحفظ GIF كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/gif-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ GIF كملف CSV" h2="مكتبة NodeJS لحفظ ملف GIF بتنسيق CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في NodeJS. يعد هذا حلاً احترافيًا لحفظ ملف GIF كملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/gif-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF كملف CSV في NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF بتنسيق CSV في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من GIF كملف CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى CSV بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ GIF كملفات CSV عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج CSV مثالي.
+يعد حفظ تنسيقات الملفات من GIF بتنسيق CSV مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق GIF إلى CSV بواسطة NodeJS SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لحفظ ملفات GIF كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري NodeJS وظائف قوية ومخرجات CSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ GIF بتنسيق CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود NodeJS لحفظ GIF كملف CSV باستخدام REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ url: /ar/nodejs/saveas/gif-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Node API لحفظ GIF كملف CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لحفظ ملفات Excel بتنسيقات أخرى GIF كملف CSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>العقدة v6.17.1 أو أحدث</li>
+<li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

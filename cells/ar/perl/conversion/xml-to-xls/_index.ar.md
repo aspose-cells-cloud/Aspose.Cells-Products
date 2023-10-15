@@ -1,19 +1,18 @@
 ﻿---
-title:  XML إلى XLS - تحويل API لـ Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XML إلى ملف بتنسيق XLS.
-url: /ar/perl/conversion/xml-to-xls/
+title:  تحويل XML إلى XLS باستخدام Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق XML إلى ملف بتنسيق XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XML إلى XLS" h2="Perl مكتبة لتحويل XML إلى XLS" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل XML إلى XLS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xml-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XML إلى XLS" h2="مكتبة Perl لتحويل XML إلى XLS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل XML إلى XLS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xml-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XML إلى XLS في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XML إلى XLS باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XML إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى XLS بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XML إلى ملفات XLS عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XLS مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XML إلى XLS مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق XML إلى XLS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XML المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XML إلى XLS عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن إخراج XLS عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل XML إلى تنسيق XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل XML إلى XLS باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/xml-to-xls/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل XML إلى XLS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل XML إلى XLS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

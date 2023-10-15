@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera ARBETSBOK till HTML från kalkylblad med Ruby API
+title:  Exportera ARBETSBOK till HTML från Excel med Cells Cloud SDK för Ruby
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/ruby/export/workbook-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att exportera ARBETSBOK till HTML fil" h2="Ruby-bibliotek för att exportera ARBETSBOK till HTML-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylark i Ruby. Detta är en professionell lösning för att exportera ARBETSBOK till HTML filformat från kalkylblad online med Ruby." urlsection="export/workbook-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBOK till HTML från Excel" h2="Ruby-bibliotek för att exportera ARBETSBOK till HTML-fil" p="Använd Exportera API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Ruby. Detta är en professionell lösning för att exportera ARBETSBOK till fil i formatet HTML från kalkylblad online med Ruby." urlsection="export/workbook-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till HTML-formatfil i Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till filformatet HTML med Cells Cloud SDK för Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKBOOK-objekt till HTML-fil från kalkylblad är en komplex uppgift. Exportera WORKBOOK till HTML formatövergångar utförs av vår Ruby SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till filer i HTML-format online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt HTML-utgång.
+Exportera WORKBOOK-objekt till filen HTML från filen Excel är en komplex uppgift. Exportera WORKBOOK till HTML formatövergångar utförs av vår Ruby SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till HTML-formatfiler online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt HTML-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att exportera ARBETSBOK till HTML-format från kalkylblad" gistPath="" %}}
@@ -35,9 +34,9 @@ Exportera WORKBOOK-objekt till HTML-fil från kalkylblad är en komplex uppgift.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att exportera ARBETSBOK till HTML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att exportera objekt från Excel WORKBOOK till HTML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop post_export-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

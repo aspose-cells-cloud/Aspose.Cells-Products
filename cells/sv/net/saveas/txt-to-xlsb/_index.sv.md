@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara TXT som XLSB API för C#
-description:  Använder Aspose.Cells Cloud SDK för C# för att spara TXT-formatfilen som XLSB-formatfil.
-url: /sv/net/saveas/txt-to-xlsb/
+title:  Spara TXT som XLSB med C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara TXT-formatfil som XLSB-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att spara TXT som XLSB" h2="C#-biblioteket för att spara TXT som XLSB" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara TXT som XLSB och andra dokumentformat online med C#." urlsection="saveas/txt-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara TXT som XLSB" h2="C# bibliotek för att spara TXT som XLSB" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara TXT som XLSB och andra dokumentformat online med C#." urlsection="saveas/txt-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en TXT-fil som XLSB i C#" >}}
@@ -13,7 +12,7 @@ url: /sv/net/saveas/txt-to-xlsb/
 Att spara filformat från TXT som XLSB är en komplex uppgift. Alla TXT- till XLSB-formatövergångar utförs av vår C# SDK samtidigt som källkodens TXT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att spara TXT som XLSB-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att spara TXT som XLSB-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kod Exempel för att spara TXT som XLSB med REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Att spara filformat från TXT som XLSB är en komplex uppgift. Alla TXT- till XL
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att spara TXT som XLSB" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att spara Excel filer som andra format TXT som XLSB" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS إلى TSV - تحويل API لروبي
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق ODS إلى ملف بتنسيق TSV.
-url: /ar/ruby/conversion/ods-to-tsv/
+title:  تحويل المواد المستنفدة للأوزون إلى TSV باستخدام روبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف بتنسيق ODS إلى ملف بتنسيق TSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لتحويل المواد المستنفدة للأوزون إلى TSV" h2="مكتبة روبي لتحويل المواد المستنفدة للأوزون إلى TSV" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لتحويل ODS إلى TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/ods-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل المواد المستنفدة للأوزون إلى TSV" h2="مكتبة روبي لتحويل المواد المستنفدة للأوزون إلى TSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Ruby. يعد هذا حلاً احترافيًا لتحويل ODS إلى TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/ods-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف ODS إلى TSV في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ODS إلى TSV باستخدام Cells Cloud SDK لـ Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى TSV بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات ODS إلى TSV عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج TSV مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من ODS إلى TSV مهمة معقدة. يتعامل Ruby SDK الخاص بنا مع جميع تحويلات تنسيق ODS إلى TSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. توفر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى ملفات TSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Ruby من خلال وظائف قوية ويضمن إخراج TSV عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل ODS إلى تنسيق TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لتحويل المواد المستنفدة للأوزون إلى TSV باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ar/ruby/conversion/ods-to-tsv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتحويل ODS إلى TSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتحويل ملفات Excel إلى تنسيقات أخرى ODS إلى TSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS till XLSX Konvertera API för PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera ODS-formatfil till XLSX-formatfil.
-url: /sv/php/conversion/ods-to-xlsx/
+title:  Konvertera ODS till XLSX med PHP
+description: Använda Aspose.Cells Cloud SDK för PHP för att konvertera en ODS-formatfil till en XLSX-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att konvertera ODS till XLSX" h2="PHP bibliotek för att konvertera ODS till XLSX" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att konvertera ODS till XLSX och andra dokumentformat online med PHP." urlsection="conversion/ods-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera ODS till XLSX" h2="PHP bibliotek för att konvertera ODS till XLSX" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera ODS till XLSX och andra dokumentformat online med PHP." urlsection="conversion/ods-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en ODS-fil till XLSX i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera ODS till XLSX med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från ODS till XLSX är en komplex uppgift. Alla ODS- till XLSX-formatövergångar utförs av vår PHP SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att konvertera ODS till XLSX-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt XLSX-utgång.
+Att konvertera filformat från ODS till XLSX kan vara en komplex uppgift. Vår PHP SDK hanterar alla ODS till XLSX-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för ODS bevaras. Vårt PHP-bibliotek tillhandahåller en professionell lösning för att konvertera ODS till XLSX-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer högkvalitativ XLSX-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att konvertera ODS till XLSX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kodexempel för att konvertera ODS till XLSX med Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Att konvertera filformat från ODS till XLSX är en komplex uppgift. Alla ODS- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att konvertera ODS till XLSX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring cellsWorkbookPutConvertWorkBook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att konvertera Excel filer till andra format ODS till XLSX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

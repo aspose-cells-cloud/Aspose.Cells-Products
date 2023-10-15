@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS till TSV Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLS-formatfil till TSV-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLS-formatfil till TSV-formatfil.
 url: /sv/swift/conversion/xls-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

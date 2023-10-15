@@ -1,5 +1,5 @@
 ﻿---
-title:  ODS till CSV Konvertera API för Swift
+title: ODS till CSV Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till CSV-formatfil.
 url: /sv/swift/conversion/ods-to-csv/
 ---

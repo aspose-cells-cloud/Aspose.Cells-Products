@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير LISTOBJECT إلى CSV من جدول البيانات باستخدام Perl API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/perl/export/listobject-to-csv/
+title:  تصدير LISTOBJECT إلى CSV من Excel باستخدام Cells Cloud SDK لـ Perl
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتصدير LISTOBJECT إلى ملف CSV" h2="مكتبة Perl لتصدير LISTOBJECT إلى ملف CSV" p="استخدم Cells Export REST API لتصدير مسارات عمل الكائن الداخلي لجدول البيانات في Perl. هذا حل احترافي لتصدير LISTOBJECT إلى ملف بتنسيق CSV من جدول بيانات عبر الإنترنت باستخدام Perl." urlsection="export/listobject-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير LISTOBJECT إلى CSV من Excel" h2="مكتبة Perl لتصدير LISTOBJECT إلى ملف CSV" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Perl. يعد هذا حلاً احترافيًا لتصدير LISTOBJECT إلى ملف بتنسيق CSV من جدول البيانات عبر الإنترنت باستخدام Perl." urlsection="export/listobject-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن LISTOBJECT إلى ملف بتنسيق CSV في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن LISTOBJECT إلى ملف بتنسيق CSV باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن LISTOBJECT إلى ملف CSV من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير LISTOBJECT إلى تنسيق CSV بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق CSV عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج CSV مثالي.
+يعد تصدير كائن LISTOBJECT إلى ملف CSV من ملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير LISTOBJECT إلى تنسيق CSV بواسطة Perl SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق CSV عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Perl وظائف قوية ومخرجات CSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتصدير LISTOBJECT إلى تنسيق CSV من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Perl باستخدام REST API لتصدير LISTOBJECT إلى تنسيق CSV من جدول البيانات" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,10 +36,10 @@ url: /ar/perl/export/listobject-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتصدير LISTOBJECT إلى CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لتصدير الكائنات من Excel LISTOBJECT إلى CSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

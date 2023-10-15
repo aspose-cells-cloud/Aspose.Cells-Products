@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XLSX как TXT API для C#
-description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSX в виде файла формата TXT.
-url: /ru/net/saveas/xlsx-to-txt/
+title:  Сохраните XLSX как TXT, используя C#.
+description:  Использование Cloud SDK Aspose.Cells для C# для сохранения файла формата XLSX как файла формата TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить XLSX как TXT" h2="C# библиотека для сохранения XLSX как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLSX как TXT и других форматов документов в Интернете с использованием C#." urlsection="saveas/xlsx-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSX как TXT" h2="C# библиотека для сохранения XLSX как TXT" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Net. Это профессиональное решение для сохранения XLSX в формате TXT и других форматов документов онлайн с использованием номера C#." urlsection="saveas/xlsx-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как TXT по адресу C#." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как TXT по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде TXT — сложная задача. Все переходы между форматами XLSX и TXT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека C# — это профессиональное решение для сохранения файлов XLSX в формате TXT онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TXT.
+Сохранение форматов файлов из XLSX в формат TXT — сложная задача. Все переходы формата XLSX в TXT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека C# — это профессиональное решение для сохранения файлов XLSX в формате TXT онлайн. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLSX в формате TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для сохранения XLSX как TXT с использованием REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ url: /ru/net/saveas/xlsx-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API, чтобы сохранить XLSX как TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Net для сохранения файлов Excel в других форматах XLSX как TXT." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

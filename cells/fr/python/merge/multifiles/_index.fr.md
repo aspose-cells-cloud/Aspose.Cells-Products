@@ -1,27 +1,26 @@
 ﻿---
-title:  Fusionnez plusieurs fichiers Excel dans un fichier avec Python.
-description:  API Cloud et SDK pour fusionner plusieurs fichiers Excel avec Python
-url: /fr/python/merge/multi-files/
+title:  Fusionnez plusieurs fichiers Excel en un seul fichier à l'aide de Python.
+description:  API et SDK Cloud pour fusionner plusieurs fichiers Excel à l'aide de Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour fusionner plusieurs fichiers Excel dans un fichier." h2="Python bibliothèque pour fusionner plusieurs fichiers Excel dans un fichier." p="Utilisez Cells Merge REST API pour fusionner plusieurs fichiers Excel dans un fichier dans Python. Cette solution professionnelle fusionne plusieurs fichiers Excel dans une feuille de calcul Microsoft Excel ou OpenOffice Calc à l\'aide de Python." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells SDK Cloud pour Python pour fusionner plusieurs fichiers Excel en un seul fichier." h2="Bibliothèque Python pour fusionner plusieurs fichiers Excel en un seul fichier." p="Utilisez le SDK Cloud Cells pour fusionner plusieurs fichiers Excel en un seul fichier dans Python. Cette solution professionnelle vous permet de combiner plusieurs fichiers Excel dans une feuille de calcul Microsoft Excel ou OpenOffice Calc à l\'aide de Python." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Fusionner plusieurs fichiers Excel dans un fichier - Python REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Fusionnez plusieurs fichiers Excel en un seul fichier à l\'aide du SDK Cloud Cells pour Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" %}}
 <br/>
-La fusion de plusieurs fichiers Excel dans un fichier est une tâche complexe. La fusion de plusieurs fichiers Excel dans une transition de fichier est effectuée par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque Python est une solution professionnelle pour fusionner plusieurs fichiers Excel dans un fichier en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et un API parfait.
+La fusion de plusieurs fichiers Excel en un seul fichier peut être une tâche complexe. Notre SDK Python gère ce processus, garantissant que le contenu structurel et logique principal des feuilles de calcul sources est préservé. Notre bibliothèque Python est une solution professionnelle permettant de fusionner plusieurs fichiers Excel en un seul en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et un API robuste.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour fusionner plusieurs fichiers Excel dans un fichier" gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=Example-PostMerge.py" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour fusionner plusieurs fichiers Excel en un seul fichier." gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=Example-PostMerge.py" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour fusionner" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python API pour la fusion" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode post_merge pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_merge` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

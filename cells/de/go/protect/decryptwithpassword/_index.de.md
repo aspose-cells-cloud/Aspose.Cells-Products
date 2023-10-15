@@ -1,7 +1,6 @@
 ﻿---
-title: Entschlüsseln Sie lokale Tabellenkalkulationen mit einem Passwort in der Cloud
+title:  Entschlüsseln Sie lokale Tabellenkalkulationen mit einem Passwort in der Cloud
 description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc freischalten. Tabellenkalkulationen werden mit der Cells-Cloud API entschlüsselt. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/go/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um die lokale Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort zu entschlüsseln" h2="Gehen Sie zur Bibliothek, um die lokale Microsoft Excel- und OpenOffice Calc-Tabelle mit Passwort zu entschlüsseln" p="Verwenden Sie Cells Decrypt REST API, um lokale Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort-Workflows in Go zu entschlüsseln. Diese professionelle Lösung entschlüsselt lokale Microsoft Excel und OpenOffice Calc-Tabellen online mit Passwörtern mit Go." urlsection="protect/Decrypt-with-password/" >}}
@@ -18,7 +17,7 @@ Das Entschlüsseln einer lokalen Tabelle mit einem Passwort ist eine komplexe Au
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Go API zum Entschlüsseln" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um die Datei Excel zu entsperren" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostUnlock-Methode auf, um den resultierenden Stream abzurufen</li>

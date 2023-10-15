@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP in MHTML Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im BMP-Format in eine MHTML-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im BMP-Format in eine MHTML-Formatdatei.
 url: /de/swift/conversion/bmp-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

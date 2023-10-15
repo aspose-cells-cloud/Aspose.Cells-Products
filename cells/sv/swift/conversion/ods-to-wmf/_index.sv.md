@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till WMF Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till WMF-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till WMF-formatfil.
 url: /sv/swift/conversion/ods-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Esporta FOGLIO DI LAVORO in CSV dal foglio di calcolo utilizzando Swift API
+title:  Esporta FOGLIO DI LAVORO in CSV dal foglio di calcolo utilizzando Swift API
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
 url: /it/swift/export/worksheet-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per esportare il FOGLIO DI LAVORO in un file CSV" h2="Libreria Swift per esportare WORKSHEET in file CSV" p="Usa Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Swift. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato CSV dal foglio di calcolo online utilizzando Swift." urlsection="export/worksheet-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per esportare FOGLIO DI LAVORO in file CSV" h2="Libreria Swift per esportare FOGLIO DI LAVORO in file CSV" p="Utilizzare Cells Esporta REST API per esportare flussi di lavoro di oggetti interni del foglio di calcolo in Swift. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato CSV da un foglio di calcolo online utilizzando Swift." urlsection="export/worksheet-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET in un file in formato CSV in Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto FOGLIO DI LAVORO in un file in formato CSV in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto WORKSHEET in un file CSV dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni del FOGLIO DI LAVORO nel formato CSV viene eseguita dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Swift è una soluzione professionale per esportare oggetti WORKSHEET in file in formato CSV online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un perfetto output CSV.
+Esportare un oggetto FOGLIO DI LAVORO in un file CSV dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni del FOGLIO DI LAVORO nel formato CSV viene eseguita dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Swift è una soluzione professionale per esportare oggetti FOGLIO DI LAVORO in file in formato CSV online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output CSV perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per esportare WORKSHEET in formato CSV dal foglio di calcolo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per esportare FOGLIO DI LAVORO in formato CSV dal foglio di calcolo" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,8 +55,8 @@ Esportare l'oggetto WORKSHEET in un file CSV dal foglio di calcolo è un'attivit
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Swift API per esportare WORKSHEET in CSV" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Swift API per esportare FOGLIO DI LAVORO in CSV" >}}
+<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiama il metodo postExport per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

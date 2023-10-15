@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP till HTML Konvertera API till Python
-description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera BMP filformat till HTML filformat.
-url: /sv/python/conversion/bmp-to-html/
+title:  Konvertera BMP till HTML med Python
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera en fil i BMP-format till en fil i HTML-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att konvertera BMP till HTML" h2="Python bibliotek för att konvertera BMP till HTML" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att konvertera BMP till HTML och andra dokumentformat online med Python." urlsection="conversion/bmp-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera BMP till HTML" h2="Python bibliotek för att konvertera BMP till HTML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python projekt. Detta är en professionell lösning för att konvertera BMP till HTML och andra dokumentformat online med Python." urlsection="conversion/bmp-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en BMP-fil till HTML i Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera BMP till HTML med Cells Cloud SDK för Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från BMP till HTML är en komplex uppgift. Alla formatövergångar från BMP till HTML utförs av vår Python SDK samtidigt som källbladets BMP kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python bibliotek är en professionell lösning för att konvertera BMP till HTML filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt HTML utdata.
+Att konvertera filformat från BMP till HTML kan vara en komplicerad uppgift. Vår Python SDK hanterar alla formatkonverteringar från BMP till HTML samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket BMP bevaras. Vårt Python bibliotek erbjuder en professionell lösning för att konvertera BMP till HTML filer online. Denna Cloud SDK ger Python-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa HTML-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att konvertera formatet BMP till HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att konvertera BMP till HTML med Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Att konvertera filformat från BMP till HTML är en komplex uppgift. Alla format
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att konvertera BMP till HTML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att konvertera Excel filer till andra format BMP till HTML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

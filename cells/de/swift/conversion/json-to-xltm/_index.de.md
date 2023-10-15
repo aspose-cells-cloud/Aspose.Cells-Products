@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON zu XLTM Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im JSON-Format in eine Datei im XLTM-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im JSON-Format in eine Datei im XLTM-Format.
 url: /de/swift/conversion/json-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

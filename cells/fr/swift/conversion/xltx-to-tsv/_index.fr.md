@@ -1,16 +1,16 @@
 ﻿---
-title:  Convertir XLTX en TSV API pour Swift
+title:  Conversion XLTX en TSV API pour Swift
 description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format XLTX en fichier au format TSV.
 url: /fr/swift/conversion/xltx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir XLTX en TSV" h2="Bibliothèque Swift pour convertir XLTX en TSV" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir XLTX en TSV et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/xltx-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir XLTX en TSV" h2="Bibliothèque Swift pour convertir XLTX en TSV" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir XLTX en TSV et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/xltx-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTX en TSV dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de XLTX en TSV est une tâche complexe. Toutes les transitions de format XLTX vers TSV sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers XLTX en fichiers TSV. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie TSV parfaite.
+La conversion des formats de fichiers de XLTX en TSV est une tâche complexe. Toutes les transitions du format XLTX vers TSV sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers XLTX en fichiers TSV en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie TSV parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir XLTX au format TSV" gistPath="" %}}
@@ -67,8 +67,8 @@ La conversion des formats de fichiers de XLTX en TSV est une tâche complexe. To
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir XLTX en TSV" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

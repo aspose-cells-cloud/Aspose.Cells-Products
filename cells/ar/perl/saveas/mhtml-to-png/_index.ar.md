@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ MHTML كـ PNG API لـ Perl
+title:  احفظ MHTML كـ PNG باستخدام Perl
 description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق MHTML كملف بتنسيق PNG.
-url: /ar/perl/saveas/mhtml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ MHTML كـ PNG" h2="مكتبة Perl لحفظ MHTML كـ PNG" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ MHTML كـ PNG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/mhtml-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ MHTML كـ PNG" h2="مكتبة Perl لحفظ لغة MHTML برقم PNG" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ MHTML كـ PNG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/mhtml-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم PNG في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML كـ PNG في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من MHTML لأن PNG مهمة معقدة. يتم إجراء جميع انتقالات تنسيق MHTML إلى PNG بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبتنا Perl هي حل احترافي لحفظ MHTML كملفات PNG عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج PNG مثالي.
+يعد حفظ تنسيقات الملفات من MHTML كـ PNG مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من MHTML إلى PNG بواسطة Perl SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبتنا Perl حلاً احترافيًا لحفظ MHTML كملفات PNG عبر الإنترنت. يمنح Cloud SDK هذا مطوري Perl وظائف قوية وإخراج PNG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لحفظ MHTML بتنسيق PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لحفظ MHTML كـ PNG باستخدام REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ar/perl/saveas/mhtml-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لحفظ MHTML كـ PNG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لحفظ ملفات Excel بتنسيقات أخرى MHTML كـ PNG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>اتصل بالبريد_دفتر العمل_طريقة save_as للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

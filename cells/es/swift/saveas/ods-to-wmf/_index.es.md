@@ -1,19 +1,19 @@
 ﻿---
-title:  Guardar ODS como WMF API para Swift
-description:  Usando Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato ODS como archivo de formato WMF.
+title:  Guarde ODS como WMF API para Swift
+description:  Uso de Aspose.Cells Cloud SDK para Swift para guardar el archivo en formato ODS como archivo en formato WMF.
 url: /es/swift/saveas/ods-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para guardar ODS como WMF" h2="Biblioteca Swift para guardar ODS como WMF" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para guardar ODS como WMF y otros formatos de documentos en línea usando Swift." urlsection="saveas/ods-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para guardar ODS como WMF" h2="Biblioteca Swift para guardar ODS como WMF" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para guardar ODS como WMF y otros formatos de documentos en línea usando Swift." urlsection="saveas/ods-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo ODS como WMF en Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo ODS como WMF en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de ODS como WMF es una tarea compleja. Todas las transiciones de formato ODS a WMF se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo ODS de origen. Nuestra biblioteca Swift es una solución profesional para guardar ODS como archivos WMF en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida WMF perfecta.
+Guardar formatos de archivo de ODS como WMF es una tarea compleja. Todas las transiciones de formato ODS a WMF las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo ODS de origen. Nuestra biblioteca Swift es una solución profesional para guardar ODS como archivos WMF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida WMF perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar ODS como formato WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar ODS en formato WMF" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,15 +54,15 @@ Guardar formatos de archivo de ODS como WMF es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Swift API para guardar ODS como WMF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Swift API para guardar ODS como WMF" >}}
+<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener la secuencia resultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>macOS Monterrey 12.4</li>
+<li>macOS Monterey 12.4</li>
 <li>Rápido 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

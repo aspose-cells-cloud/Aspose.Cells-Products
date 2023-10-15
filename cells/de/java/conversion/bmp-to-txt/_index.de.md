@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP in TXT konvertieren API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im BMP-Format in eine TXT-Formatdatei.
-url: /de/java/conversion/bmp-to-txt/
+title:  Konvertieren Sie BMP mit Java in TXT
+description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im BMP-Format in eine TXT-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von BMP in TXT" h2="Java-Bibliothek zum Konvertieren von BMP in TXT" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um BMP online mit Java in TXT und andere Dokumentformate zu konvertieren." urlsection="conversion/bmp-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie BMP in TXT" h2="Java-Bibliothek zum Konvertieren von BMP in TXT" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung, um BMP online mit Java in TXT und andere Dokumentformate zu konvertieren." urlsection="conversion/bmp-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in TXT in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie BMP in TXT mit Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von BMP in TXT ist eine komplexe Aufgabe. Alle Übergänge vom BMP- zum TXT-Format werden von unserem Java-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um BMP online in TXT-Dateien zu konvertieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
+Das Konvertieren von Dateiformaten von BMP in TXT kann eine komplexe Aufgabe sein. Unser Java SDK übernimmt alle Konvertierungen von BMP in das TXT-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle BMP bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von BMP in TXT-Dateien. Dieses Cloud SDK bietet Java-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TXT-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren von BMP in das TXT-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel für die Konvertierung von BMP in TXT mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von BMP in TXT ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um BMP in TXT zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Konvertieren von Excel-Dateien in andere Formate BMP in TXT" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

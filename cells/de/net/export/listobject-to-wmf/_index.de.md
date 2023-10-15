@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT aus der Tabelle mit C# API nach WMF
+title:  Exportieren Sie LISTOBJECT von Excel nach WMF mit dem Cloud SDK Cells für C#
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/net/export/listobject-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren von LISTOBJECT in eine WMF-Datei" h2="C#-Bibliothek zum Exportieren von LISTOBJECT in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von LISTOBJECT in eine WMF-Formatdatei aus einer Tabellenkalkulation unter C#." urlsection="export/listobject-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie LISTOBJECT von Excel nach WMF" h2="C# Bibliothek zum Exportieren von LISTOBJECT in eine WMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine Datei im WMF-Format aus einer Online-Tabelle unter Verwendung von C#." urlsection="export/listobject-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in die WMF-Formatdatei in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine Datei im WMF-Format mit dem Cloud SDK Cells für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine WMF-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das WMF-Format wird von unserem SDK C# durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Bibliothek C# ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Exportieren eines LISTOBJECT-Objekts aus der Datei Excel in eine WMF-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Übergängen in das WMF-Format wird von unserem SDK C# durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Bibliothek C# ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von LISTOBJECT in das WMF-Format aus einer Tabellenkalkulation" gistPath="" %}}
@@ -44,10 +43,10 @@ Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine W
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API zum Exportieren von LISTOBJECT nach WMF" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net zum Exportieren von Objekten aus Excel LISTOBJECT nach WMF" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

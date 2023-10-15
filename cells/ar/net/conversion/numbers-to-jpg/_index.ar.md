@@ -1,19 +1,18 @@
 ﻿---
-title:  الأرقام إلى JPG - تحويل API إلى C#
-description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق JPG.
-url: /ar/net/conversion/numbers-to-jpg/
+title:  تحويل الأرقام إلى JPG باستخدام C#
+description: استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لتحويل الأرقام إلى JPG" h2="C# مكتبة لتحويل الأرقام إلى JPG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لتحويل الأرقام إلى JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/numbers-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى JPG" h2="مكتبة C# لتحويل الارقام الى JPG" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Net. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/numbers-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى JPG في C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل NUMBERS إلى JPG باستخدام Cells Cloud SDK لـ C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق الأرقام إلى JPG بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبتنا C# حلاً احترافيًا لتحويل الأرقام إلى ملفات JPG عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج JPG مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من NUMBERS إلى JPG مهمة معقدة. يتعامل SDK C# الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى JPG مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبتنا C# حلاً احترافيًا لتحويل NUMBERS إلى ملفات JPG عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري C# من الحصول على وظائف قوية ويضمن إخراج JPG عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتحويل الأرقام إلى تنسيق JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# مثال على الكود لتحويل NUMBERS إلى JPG باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ar/net/conversion/numbers-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام C# API لتحويل الأرقام إلى JPG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لتحويل ملفات Excel إلى تنسيقات أخرى من NUMBERS إلى JPG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
-<li>Net Standard 2.0 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

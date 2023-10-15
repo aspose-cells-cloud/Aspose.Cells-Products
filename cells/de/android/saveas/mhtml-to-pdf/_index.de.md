@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie MHTML unter PDF API für Android
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Android, um die Datei im MHTML-Format als Datei im Format PDF zu speichern.
-url: /de/android/saveas/mhtml-to-pdf/
+title:  Speichern Sie MHTML unter Android unter PDF
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern der Datei im MHTML-Format als Datei im Format PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, um MHTML als PDF zu speichern" h2="Android-Bibliothek zum Speichern von MHTML als PDF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um MHTML als PDF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/mhtml-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie MHTML unter PDF" h2="Android-Bibliothek zum Speichern von MHTML als PDF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um MHTML als PDF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/mhtml-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine MHTML-Datei unter Android als PDF" >}}
@@ -13,7 +12,7 @@ url: /de/android/saveas/mhtml-to-pdf/
 Das Speichern von Dateiformaten aus MHTML als PDF ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML in das Format PDF werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um MHTML als PDF-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte PDF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von MHTML im Format PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von MHTML als PDF unter Verwendung von REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus MHTML als PDF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um MHTML als PDF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android, um Excel-Dateien in anderen MHTML-Formaten als PDF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

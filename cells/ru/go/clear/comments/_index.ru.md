@@ -1,27 +1,26 @@
 ﻿---
-title:  Удаление комментариев к локальной книге в облаке
-description:  Облачные API и SDK для очистки комментариев к Microsoft Excel и OpenOffice Calc. Четкие комментарии к локальным таблицам по Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
-url: /ru/go/clear/comments/
+title:  Удаление комментариев в локальной книге в облаке
+description:  Облачные API и SDK для очистки комментариев к номерам Microsoft, Excel и OpenOffice Calc. Очистите комментарии к локальным таблицам с помощью облака Cells API. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы очистить комментарии к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." h2="Перейти Очистить, чтобы очистить комментарии к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API, чтобы очистить комментарии к Microsoft Excel и рабочим процессам электронных таблиц OpenOffice Calc в Go. Это профессиональное решение четко комментирует локальные Microsoft Excel и электронные таблицы OpenOffice Calc с использованием Go." urlsection="clear/Comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление комментариев к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." h2="Нажмите «Очистить», чтобы удалить комментарии к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы удалить комментарии к локальным Microsoft Excel и рабочим процессам работы с электронными таблицами OpenOffice Calc в Go. Это профессиональное решение позволяет удалять комментарии к локальным номерам Microsoft Excel и электронным таблицам OpenOffice Calc с помощью Go." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить комментарии к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc — Go REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Очистка комментариев к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc является сложной задачей. Очистка комментариев к локальным переходам электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Go — это профессиональное решение для очистки комментариев к локальным Microsoft Excel и онлайн-таблицам OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный API.
+Удаление комментариев к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc — сложная задача. Удаление комментариев к локальным переходам электронных таблиц Microsoft Excel и OpenOffice Calc выполняется нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы. Наша библиотека Go — это профессиональное решение для очистки комментариев к локальным номерам Microsoft Excel и онлайн-таблицам OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный код API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Код Go для очистки комментариев к локальным таблицам" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-Comment.go" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Код Go для очистки комментариев в локальных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-Comment.go" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Как использовать Go API для очистки комментариев" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод PostClearObjects, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для очистки комментариев" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод PostClearObjects, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

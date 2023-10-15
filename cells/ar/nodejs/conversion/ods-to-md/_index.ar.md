@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS to MD - تحويل API لـ NodeJS
-description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق ODS إلى ملف بتنسيق MD.
-url: /ar/nodejs/conversion/ods-to-md/
+title:  تحويل المواد المستنفدة للأوزون إلى MD باستخدام NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف بتنسيق ODS إلى ملف بتنسيق MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لتحويل المواد المستنفدة للأوزون إلى MD" h2="مكتبة NodeJS لتحويل ODS إلى MD" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول البيانات المخصصة في NodeJS. هذا حل احترافي لتحويل ODS إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="conversion/ods-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل المواد المستنفدة للأوزون إلى MD" h2="مكتبة NodeJS لتحويل المواد المستنفدة للأوزون إلى MD" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع NodeJS. يعد هذا حلاً احترافيًا لتحويل ODS إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="conversion/ods-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف ODS إلى MD في NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ODS إلى MD باستخدام Cells Cloud SDK لـ NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى MD مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى MD بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات ODS إلى MD عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج MD مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من ODS إلى MD مهمة معقدة. يتعامل NodeJS SDK الخاص بنا مع جميع تحويلات تنسيق ODS إلى MD مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. توفر مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى MD عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري NodeJS بوظائف قوية ويضمن إخراج MD عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل ODS إلى تنسيق MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود NodeJS لتحويل ODS إلى MD باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,15 +34,15 @@ url: /ar/nodejs/conversion/ods-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Node API لتحويل ODS إلى MD" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لتحويل ملفات Excel إلى تنسيقات أخرى ODS إلى MD" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>العقدة v6.17.1 أو أحدث</li>
+<li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir FODS en XPS sur Android
-description: Automatisez les opérations de manipulation de fichiers Excel telles que la création, l'édition et la conversion avec le Cloud API et le SDK Android Open Source
+description: Automatisez les opérations de manipulation de fichiers Excel telles que la création, l'édition et la conversion avec Cloud API et le SDK Android Open Source
 url: /fr/android/conversion/fods-to-xps/
 family: cells
 platformtag: android
@@ -11,24 +11,24 @@ platform: Android
 otherformats: MD CSV TSV FODS PDF XLS XLSB XLSX SVG TXT DIF MHTML XPS XLTM XML XLTX 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir FODS en XPS dans le Cloud" h2="Convertir les feuilles de calcul Excel et OpenOffice avec le SDK Cloud open source pour Android" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir FODS en XPS dans le Cloud" h2="Convertissez les feuilles de calcul Excel et OpenOffice avec le SDK Cloud open source pour Android" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversion FODS en XPS dans les applications Android" %}}
 1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
 1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
-1. Importer le fichier FODS dans Cloud Storage par défaut avec la méthode ```CellsApiUtil.Upload```
+1. Téléchargez le fichier FODS sur Cloud Storage par défaut avec la méthode ```CellsApiUtil.Upload```
 1. Appelez le ```CellsApi.cellsWorkbookGetWorkbook``` pour obtenir le fichier XPS résultant
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Démarrer avec Excel REST API" %}}
- Obtenez le code source du SDK Cloud Excel pour ANDROID à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) pour compiler le SDK vous-même ou dirigez-vous vers le[Communiqués](https://releases.aspose.cloud/) pour les options de téléchargement alternatives.
+{{% blocks/products/pf/agp/feature-section-col title="Commencez avec Excel REST API" %}}
+ Obtenez le SDK Cloud Excel pour le code source ANDROID à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) pour compiler le SDK vous-même ou rendez-vous sur[Sorties](https://releases.aspose.cloud/) pour des options de téléchargement alternatives.
 
- Jetez également un œil à Swagger[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur la[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
+ Jetez également un œil à Swagger-based[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur le[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Androïde : conversion de FODS en XPS" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Android : conversion FODS en XPS" gistPath="" %}}
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
 try {

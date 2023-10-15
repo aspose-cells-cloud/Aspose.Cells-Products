@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохранить TSV как XML API для Swift
+title:  Сохранить TSV как XML API для Swift.
 description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата TSV в виде файла формата XML.
 url: /ru/swift/saveas/tsv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения TSV в виде XML" h2="Библиотека Swift для сохранения TSV в виде XML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения TSV в виде XML и других форматов документов в Интернете с использованием Swift." urlsection="saveas/tsv-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить TSV как XML" h2="Библиотека Swift для сохранения TSV в формате XML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения TSV в формате XML и других форматов документов онлайн с помощью Swift." urlsection="saveas/tsv-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как XML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде XML — сложная задача. Все переходы форматов TSV в XML выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Swift — это профессиональное решение для сохранения TSV в виде XML-файлов онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из TSV в формате XML — сложная задача. Все переходы формата TSV в XML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы TSV. Наша библиотека Swift — это профессиональное решение для сохранения TSV в формате XML в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения TSV в формате XML" gistPath="" %}}
@@ -55,9 +55,9 @@ url: /ru/swift/saveas/tsv-to-xml/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения TSV в формате XML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

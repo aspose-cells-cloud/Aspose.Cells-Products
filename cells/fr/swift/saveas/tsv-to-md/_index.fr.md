@@ -1,16 +1,16 @@
 ﻿---
-title:  Enregistrer TSV sous MD API pour Swift
+title:  Enregistrer TSV sous le nom MD API pour Swift
 description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format TSV en tant que fichier au format MD.
 url: /fr/swift/saveas/tsv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer TSV en tant que MD" h2="Bibliothèque Swift pour enregistrer TSV en tant que MD" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer TSV en tant que MD et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/tsv-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer TSV en tant que MD" h2="Bibliothèque Swift pour enregistrer TSV en tant que MD" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer TSV au format MD et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/tsv-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TSV en tant que MD dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de TSV en tant que MD est une tâche complexe. Toutes les transitions de format TSV vers MD sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des fichiers TSV en tant que MD en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie MD parfaite.
+Enregistrer les formats de fichiers de TSV en tant que MD est une tâche complexe. Toutes les transitions du format TSV vers MD sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer TSV sous forme de fichiers MD en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie MD parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer TSV au format MD" gistPath="" %}}
@@ -56,8 +56,8 @@ L'enregistrement de formats de fichiers à partir de TSV en tant que MD est une 
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer TSV en tant que MD" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

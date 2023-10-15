@@ -1,6 +1,6 @@
 ﻿---
-title:  Conversione da Excel FODS a TXT via Python
-description: Crea, modifica o converti file Excel con REST API e Open Source Python SDK
+title:  Convertire da Excel FODS a TXT via Python
+description: Crea, modifica o converti file Excel con REST API e SDK Open Source Python
 url: /it/python/conversion/fods-to-txt/
 family: cells
 platformtag: python
@@ -16,19 +16,19 @@ otherformats: XLTM MD XPS FODS MHTML CSV SVG DIF TIFF TXT XLSM PDF XLSX XLTX TSV
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversione da FODS a TXT con Python" %}}
-1.  Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione
+1.  Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione
 1. Inizializza ```CellsApi``` con ID client, segreto client, URL di base e versione API
-1. Carica il file FODS nel Cloud Storage predefinito con il metodo ```CellsApi.upload_file```
+1. Carica il file FODS sul Cloud Storage predefinito con il metodo ```CellsApi.upload_file```
 1. Chiama il metodo ```CellsApi.cells_save_as_post_document_save_as``` per ottenere il file TXT risultante
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Inizia con Excel API e Python SDK" %}}
- Ottieni Excel Cloud SDK per il codice sorgente Python da[Git Hub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) per compilare tu stesso l'SDK o vai al file[Rilasci](https://releases.aspose.cloud/) per opzioni di download alternative.
+ Ottieni Excel Cloud SDK per il codice sorgente Python da[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) per compilare tu stesso l'SDK o vai al file[Rilasci](https://releases.aspose.cloud/) per opzioni di download alternative.
 
- Dai anche un'occhiata a Swagger-based[API Riferimento](https://apireference.aspose.cloud/cells/) per saperne di più sul[Excel RIPOSO API](https://products.aspose.cloud/cells/curl/).
+ Dai un'occhiata anche a Swagger-based[API Riferimento](https://apireference.aspose.cloud/cells/) per saperne di più su[Excel RESTO API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Python Codice per la conversione da FODS a TXT" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Python Codice per conversione da FODS a TXT" gistPath="" %}}
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
 import os

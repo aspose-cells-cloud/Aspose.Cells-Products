@@ -1,33 +1,32 @@
 ﻿---
-title:  Effacer l'arrière-plan du classeur local dans le cloud
-description: API Cloud et SDK pour effacer l'arrière-plan sur Microsoft Excel et OpenOffice Calc. Arrière-plan clair sur les feuilles de calcul locales par le Cells Cloud API. SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
-url: /fr/net/clear/background/
+title:  Effacer l’arrière-plan du classeur local dans Cloud
+description: API et SDK Cloud pour effacer l'arrière-plan sur Microsoft Excel et OpenOffice Calc. Contexte clair sur les feuilles de calcul locales par le Cloud Cells API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="C# Arrière-plan clair à clair sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer l\'arrière-plan sur les workflows locaux Microsoft Excel et OpenOffice Calc dans C#. Cette solution professionnelle efface l\'arrière-plan sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de C#." urlsection="clear/Background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Suppression de l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="C# Effacer pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer l\'arrière-plan sur les workflows locaux Microsoft Excel et la feuille de calcul OpenOffice Calc dans C#. Cette solution professionnelle efface l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc à l\'aide de C#." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Arrière-plan clair sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - C# REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - C# REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Effacer l'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc est une tâche complexe. L'effacement de l'arrière-plan sur les transitions de feuille de calcul locales Microsoft Excel et OpenOffice Calc est effectué par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque C# est une solution professionnelle pour effacer l'arrière-plan sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et un API parfait.
+Effacer l’arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc est une tâche complexe. La suppression de l'arrière-plan des transitions de la feuille de calcul locale Microsoft Excel et OpenOffice Calc est effectuée par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque C# est une solution professionnelle pour effacer l'arrière-plan des feuilles de calcul locales Microsoft Excel et OpenOffice Calc en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et un API parfait.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code réseau pour effacer l\'arrière-plan sur les feuilles de calcul locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Background.cs" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Code Net pour effacer l\'arrière-plan des feuilles de calcul locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Background.cs" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Comment utiliser C# API pour effacer l\'arrière-plan" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Net pour effacer l\'arrière-plan" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
 <li>Appelez la méthode PostClearObjects pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>NET Framework 4.5.2 ou plus récent</li>
-<li>Net Standard 2.0 ou plus récent</li>
+<li>NET Framework 4.5.2 ou version ultérieure</li>
+<li>Net Standard 2.0 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

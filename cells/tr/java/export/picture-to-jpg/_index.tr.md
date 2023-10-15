@@ -1,19 +1,18 @@
 ﻿---
-title:  Java API kullanarak PICTURE'ı e-tablodan JPG'ye aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/java/export/picture-to-jpg/
+title:  Cells Cloud SDK for Java'i kullanarak RESMİ Excel'den JPG'ye aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="RESİM\'i JPG dosyasına aktarmak için Java API" h2="RESİM\'i JPG dosyasına dışa aktarmak için Java kitaplığı" p="Java\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Java kullanarak çevrimiçi elektronik tablodan PICTURE\'ı JPG formatındaki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="RESMİ Excel\'den JPG\'ye aktar" h2="Java RESİM\'i JPG dosyasına aktarmak için kütüphane" p="Java\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Java\'i kullanarak çevrimiçi tablodan RESİM\'i JPG formatındaki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PICTURE nesnesini Java\'de JPG formatındaki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Java\'i kullanarak PICTURE nesnesini JPG formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-PICTURE nesnesini e-tablodan JPG dosyasına dışa aktarma karmaşık bir iştir. PICTURE'ı JPG formatına aktarma geçişleri, kaynak PICTURE e-tablosunun ana yapısal ve mantıksal içeriğini korurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, PICTURE nesnelerini çevrimiçi olarak JPG formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
+PICTURE nesnesini Excel dosyasından JPG dosyasına aktarmak karmaşık bir iştir. PICTURE'ı JPG'ye aktarma formatı geçişleri Java SDK'mız tarafından gerçekleştirilir ve kaynak PICTURE elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, PICTURE nesnelerini çevrimiçi olarak JPG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Java geliştiriciye güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PICTURE\'ı e-tablodan JPG formatına dışa aktarmak için REST API kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="RESİM\'i elektronik tablodan JPG formatına aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,10 +50,10 @@ PICTURE nesnesini e-tablodan JPG dosyasına dışa aktarma karmaşık bir iştir
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="RESİM\'i JPG\'ye dışa aktarmak için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel PICTURE\'dan JPG\'ye aktarmak için Cells Cloud SDK for Java nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,7 +1,6 @@
 ﻿---
 title:  Fügen Sie mit Ruby in Cloud ein Wasserzeichen für eine lokale Arbeitsmappe hinzu
 description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit Ruby. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für Ruby.
-url: /de/ruby/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Hinzufügen von Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellen" h2="Ruby-Bibliothek zum Hinzufügen von Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellen" p="Verwenden Sie Cells Watermark REST API, um Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Ruby hinzuzufügen. Diese professionelle Lösung fügt Wasserzeichen für Microsoft Excel und OpenOffice Calc-Tabellen online mit Ruby hinzu." urlsection="background/Add-watermark/" >}}
@@ -18,7 +17,7 @@ Das Hinzufügen von Wasserzeichen für eine lokale Tabelle mit Ruby ist eine kom
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API zum Hinzufügen von Wasserzeichen" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um einer Excel-Datei ein Wasserzeichen hinzuzufügen." >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode post_watermark auf, um den resultierenden Stream zu erhalten</li>

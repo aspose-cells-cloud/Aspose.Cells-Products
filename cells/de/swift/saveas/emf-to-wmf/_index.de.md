@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie EMF als WMF API für Swift
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im EMF-Format als WMF-Formatdatei zu speichern.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im EMF-Format als WMF-Formatdatei zu speichern.
 url: /de/swift/saveas/emf-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

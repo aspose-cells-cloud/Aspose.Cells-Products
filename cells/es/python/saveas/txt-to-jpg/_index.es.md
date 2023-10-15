@@ -1,19 +1,18 @@
 ﻿---
-title:  Guardar TXT como JPG API para Python
-description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato TXT como archivo de formato JPG.
-url: /es/python/saveas/txt-to-jpg/
+title:  Guarde TXT como JPG usando Python
+description:  Utilizando Aspose.Cells Cloud SDK para Python para guardar el archivo en formato TXT como archivo en formato JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para guardar TXT como JPG" h2="Python biblioteca para guardar TXT como JPG" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para guardar TXT como JPG y otros formatos de documentos en línea usando Python." urlsection="saveas/txt-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar TXT como JPG" h2="Biblioteca Python para guardar TXT como JPG" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para guardar TXT como JPG y otros formatos de documentos en línea usando Python." urlsection="saveas/txt-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo TXT como JPG en Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de TXT como JPG es una tarea compleja. Todas las transiciones de formato TXT a JPG se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca Python es una solución profesional para guardar archivos TXT como JPG en línea. Este SDK de Cloud ofrece a los desarrolladores de Python una potente funcionalidad y una salida JPG perfecta.
+Guardar formatos de archivo de TXT como JPG es una tarea compleja. Todas las transiciones de formato TXT a JPG se realizan mediante nuestro SDK Python manteniendo el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca Python es una solución profesional para guardar TXT como archivos JPG en línea. Este SDK de nube ofrece a los desarrolladores de Python una potente funcionalidad y una salida JPG perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para guardar TXT como formato JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Ejemplo de código para guardar TXT como JPG usando REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Guardar formatos de archivo de TXT como JPG es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Python API para guardar TXT como JPG" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_ahorrar_como_correo_documento_ahorrar_como método para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Python para guardar archivos Excel en otros formatos TXT como JPG" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `post_workbook_save_as` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

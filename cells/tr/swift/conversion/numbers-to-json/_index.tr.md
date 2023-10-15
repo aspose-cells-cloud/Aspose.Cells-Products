@@ -1,19 +1,19 @@
 ﻿---
-title:  NUMBERS'den JSON'a Swift için API'i Dönüştür
-description:  NUMBERS biçim dosyasını JSON biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
+title:  Swift için NUMBERS'ı JSON'a dönüştürün API
+description:  NUMBERS biçimindeki dosyayı JSON biçimindeki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/conversion/numbers-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SAYILARI JSON\'a dönüştürmek için Swift API" h2="NUMBERS\'i JSON\'a dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak çevrimiçi olarak NUMBERS\'i JSON\'a ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı JSON\'a dönüştürmek için Swift API" h2="NUMBERS\'ı JSON\'a dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Dönüşüm REST API\'i kullanın. Bu, Swift kullanarak NUMBERS\'ı JSON\'a ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Swift\'de JSON\'a dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de NUMBERS dosyasını JSON\'a dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini NUMBERS'den JSON'a dönüştürmek karmaşık bir iştir. Tüm NUMBERS'tan JSON formatına geçişler, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, NUMBERS'i çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
+Dosya formatlarını NUMBERS'tan JSON'a dönüştürmek karmaşık bir iştir. Tüm NUMBERS'tan JSON formatına geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak NUMBERS e-tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, NUMBERS'ı çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="SAYILARI JSON formatına dönüştürmek için REST API kullanan Swift kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NUMBERS\'ı JSON biçimine dönüştürmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -65,16 +65,16 @@ Dosya biçimlerini NUMBERS'den JSON'a dönüştürmek karmaşık bir iştir. Tü
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="SAYILARI JSON\'a dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="NUMBERS\'ı JSON\'a dönüştürmek için Swift API nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+<li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>macOS Monterey 12.4</li>
-<li>hızlı 4.2</li>
+<li>Hızlı 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

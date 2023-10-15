@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX in CSV konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSX-Formatdatei in eine CSV-Formatdatei.
+title: XLSX in CSV konvertieren API für Swift
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSX-Formatdatei in eine CSV-Formatdatei.
 url: /de/swift/conversion/xlsx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

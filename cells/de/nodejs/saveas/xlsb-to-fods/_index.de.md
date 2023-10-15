@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLSB als FODS API für NodeJS
-description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die XLSB-Formatdatei als FODS-Formatdatei zu speichern.
-url: /de/nodejs/saveas/xlsb-to-fods/
+title:  Speichern Sie XLSB als FODS mit NodeJS
+description:  Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Speichern der XLSB-Formatdatei als FODS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von XLSB als FODS" h2="NodeJS-Bibliothek zum Speichern von XLSB als FODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSB als FODS und anderen Dokumentformaten mit NodeJS." urlsection="saveas/xlsb-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSB als FODS speichern" h2="NodeJS-Bibliothek zum Speichern von XLSB als FODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSB als FODS und anderen Dokumentformaten mit NodeJS." urlsection="saveas/xlsb-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSB-Datei als FODS in NodeJS" >}}
@@ -13,7 +12,7 @@ url: /de/nodejs/saveas/xlsb-to-fods/
 Das Speichern von Dateiformaten aus XLSB als FODS ist eine komplexe Aufgabe. Alle XLSB-zu-FODS-Formatübergänge werden von unserem NodeJS SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLSB-Tabelle erhalten bleiben. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um XLSB als FODS-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von XLSB im FODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel zum Speichern von XLSB als FODS mit REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten aus XLSB als FODS ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um XLSB als FODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in anderen Formaten, XLSB und FODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

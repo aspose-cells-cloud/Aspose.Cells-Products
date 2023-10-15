@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспорт LISTOBJECT в HTML из электронной таблицы с использованием Ruby API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/ruby/export/listobject-to-html/
+title:  Экспортируйте LISTOBJECT в HTML из Excel с помощью Cells Cloud SDK для Ruby.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для экспорта LISTOBJECT в файл HTML" h2="Библиотека Ruby для экспорта LISTOBJECT в файл HTML" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Ruby. Это профессиональное решение для экспорта LISTOBJECT в файл формата HTML из электронной таблицы онлайн с использованием Ruby." urlsection="export/listobject-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать LISTOBJECT в HTML из Excel" h2="Библиотека Ruby для экспорта LISTOBJECT в файл HTML." p="Используйте команду «Экспорт API из облака Cells» для экспорта рабочих процессов внутренних объектов файлов Excel в Ruby. Это профессиональное решение для экспорта LISTOBJECT в файл формата HTML из электронной таблицы онлайн с помощью Ruby." urlsection="export/listobject-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата HTML в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект LISTOBJECT в файл формата HTML с помощью Cloud SDK Cells для Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл HTML из электронной таблицы является сложной задачей. Экспорт переходов формата LISTOBJECT в формат HTML выполняется нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы LISTOBJECT. Наша библиотека Ruby — это профессиональное решение для экспорта объектов LISTOBJECT в файлы формата HTML онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод HTML.
+Экспорт объекта LISTOBJECT в файл HTML из файла Excel — сложная задача. Экспорт LISTOBJECT в переходы формата HTML выполняется нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Ruby — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата HTML. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный результат HTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для экспорта LISTOBJECT в формат HTML из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для экспорта LISTOBJECT в формат HTML из электронной таблицы" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +34,10 @@ url: /ru/ruby/export/listobject-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для экспорта LISTOBJECT в HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод post_export, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для экспорта объектов из Excel LISTOBJECT в HTML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод post_export, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

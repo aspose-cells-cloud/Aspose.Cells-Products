@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP in PNG Konvertieren Sie API in for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im Format BMP in eine Datei im Format PNG.
-url: /de/java/conversion/bmp-to-png/
+title:  Konvertieren Sie BMP mit Java in PNG
+description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im Format BMP in eine Datei im Format PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um BMP in PNG umzuwandeln" h2="Java-Bibliothek zum Konvertieren von BMP in PNG" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um BMP in PNG und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/bmp-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie BMP in PNG" h2="Java-Bibliothek zum Konvertieren von BMP in PNG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung, um BMP in PNG und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/bmp-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in PNG in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie BMP in PNG mit Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von BMP in PNG ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu PNG werden von unserem Java SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um BMP-Dateien online in PNG-Dateien zu konvertieren. Dieses Cloud SDK bietet Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
+Das Konvertieren von Dateiformaten von BMP in PNG kann eine komplexe Aufgabe sein. Unser Java SDK verarbeitet alle Formatkonvertierungen von BMP in PNG und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle BMP bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von BMP- in PNG-Dateien. Dieses Cloud SDK stellt Java-Entwicklern leistungsstarke Funktionen zur Verfügung und gewährleistet eine qualitativ hochwertige PNG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren des Formats BMP in das Format PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel für die Konvertierung von BMP in PNG mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von BMP in PNG ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um BMP in PNG umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Konvertieren von Excel-Dateien in andere Formate BMP bis PNG" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

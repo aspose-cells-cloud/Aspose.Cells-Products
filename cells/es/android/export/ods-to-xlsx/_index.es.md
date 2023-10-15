@@ -1,26 +1,26 @@
 ﻿---
-title: Exportar Ods al archivo XLSX via Android
+title: Exportar cuotas a un archivo XLSX via Android
 description: Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/android/export/ods-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Exportar ODS a archivo XLSX en la nube" h2="Excel y exportación de hojas de cálculo de OpenOffice con código abierto Cloud SDK para Android" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Exportar archivos ODS a XLSX en la nube" h2="Excel y exportación de hojas de cálculo de OpenOffice con Cloud SDK de código abierto para Android" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=" Exoptar ODS a archivo XLSX en Cloud SDK para Android" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, Secreto de cliente, URL base y versión API
+{{% blocks/products/pf/agp/feature-section-col title=" Exportar archivos ODS a XLSX en Cloud SDK para Android" %}}
+1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
+1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
 1. Llame al método ```cellsWorkbookPutConvertWorkbook``` para obtener la transmisión XLSX resultante
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Comience con Excel DESCANSO API" %}}
- Obtenga el código fuente Excel Cloud SDK for .NET de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) para compilar el SDK usted mismo o diríjase a la[Lanzamientos](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/releases) para opciones de descarga alternativas.
+ Obtenga el código fuente Excel Cloud SDK for .NET de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/releases) para opciones de descarga alternativas.
 
- También eche un vistazo a Swagger-based[API Referencia]() para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
+ También eche un vistazo a Basado en Swagger[API Referencia]() para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Código de Android para la conversión de ODS a XLSX" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Código de Android para conversión de ODS a XLSX" gistPath="" %}}
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
     import java.io.File;

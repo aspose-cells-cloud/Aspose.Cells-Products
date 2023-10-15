@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP till MD Convert API för Android
-description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i BMP-format till fil i MD-format.
-url: /sv/android/conversion/bmp-to-md/
+title:  Konvertera BMP till MD med Android
+description: Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i BMP-format till en fil i MD-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att konvertera BMP till MD" h2="Android-bibliotek för att konvertera BMP till MD" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att konvertera BMP till MD och andra dokumentformat online med Android." urlsection="conversion/bmp-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera BMP till MD" h2="Android-bibliotek för att konvertera BMP till MD" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android-projekt. Detta är en professionell lösning för att konvertera BMP till MD och andra dokumentformat online med Android." urlsection="conversion/bmp-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en BMP-fil till MD i Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera BMP till MD med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från BMP till MD är en komplex uppgift. Alla formatövergångar från BMP till MD utförs av vår Android SDK samtidigt som källbladets BMP kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera BMP till MD-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt MD-utgång.
+Att konvertera filformat från BMP till MD kan vara en komplicerad uppgift. Vår Android SDK hanterar alla konverteringar från BMP till MD-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket BMP bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera BMP till MD-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa MD-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera BMP till MD-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att konvertera BMP till MD med Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Att konvertera filformat från BMP till MD är en komplex uppgift. Alla formatö
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera BMP till MD" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel-filer till andra format BMP till MD" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

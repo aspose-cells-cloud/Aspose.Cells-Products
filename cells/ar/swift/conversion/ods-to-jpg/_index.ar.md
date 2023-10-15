@@ -1,19 +1,19 @@
 ﻿---
-title:  ODS إلى JPG - تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق ODS إلى ملف بتنسيق JPG.
+title:  ODS إلى JPG تحويل API لـ Swift
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق ODS إلى ملف بتنسيق JPG.
 url: /ar/swift/conversion/ods-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل ODS إلى JPG" h2="مكتبة سريعة لتحويل ODS إلى JPG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل ODS إلى JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/ods-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل المواد المستنفدة للأوزون إلى JPG" h2="مكتبة سويفت لتحويل ODS إلى JPG" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل ODS إلى JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/ods-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف ODS إلى JPG في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف ODS إلى JPG في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى JPG بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى ملفات JPG عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج JPG مثالي.
+يعد تحويل تنسيقات الملفات من ODS إلى JPG مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق ODS إلى JPG بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى JPG عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات JPG مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل ODS إلى تنسيق JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل تنسيق ODS إلى تنسيق JPG" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/ods-to-jpg/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل ODS إلى JPG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

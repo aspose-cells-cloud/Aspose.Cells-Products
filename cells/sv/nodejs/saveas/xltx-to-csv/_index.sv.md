@@ -1,10 +1,9 @@
 ﻿---
-title: Spara XLTX som CSV API för NodeJS
+title:  Spara XLTX som CSV med NodeJS
 description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLTX-formatfil som CSV-formatfil.
-url: /sv/nodejs/saveas/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att spara XLTX som CSV" h2="NodeJS-bibliotek för att spara XLTX som CSV" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara XLTX som CSV och andra dokumentformat online med NodeJS." urlsection="saveas/xltx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLTX som CSV" h2="NodeJS-bibliotek för att spara XLTX som CSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara XLTX som CSV och andra dokumentformat online med NodeJS." urlsection="saveas/xltx-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLTX-fil som CSV i NodeJS" >}}
@@ -13,7 +12,7 @@ url: /sv/nodejs/saveas/xltx-to-csv/
 Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX- till CSV-formatövergångar utförs av vår NodeJS SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att spara XLTX som CSV-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att spara XLTX som CSV-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att spara XLTX som CSV med REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX- till C
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att spara XLTX som CSV" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att spara Excel filer som andra format XLTX som CSV" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

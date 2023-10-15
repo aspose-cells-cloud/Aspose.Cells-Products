@@ -1,16 +1,16 @@
 ﻿---
-title: Преобразование XLTX в DOCX API для Swift
+title: Конвертировать XLTX в DOCX API для Swift
 description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLTX в файл формата DOCX.
 url: /ru/swift/conversion/xltx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLTX в DOCX" h2="Библиотека Swift для преобразования XLTX в DOCX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации XLTX в DOCX и других форматов документов с помощью Swift." urlsection="conversion/xltx-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации XLTX в DOCX" h2="Библиотека Swift для преобразования XLTX в DOCX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для конвертации XLTX в DOCX и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xltx-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в DOCX в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLTX в DOCX в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в DOCX — сложная задача. Все переходы формата XLTX в формат DOCX выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLTX в DOCX. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из XLTX в DOCX — сложная задача. Все переходы формата XLTX в DOCX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов XLTX в DOCX. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLTX в формат DOCX" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/xltx-to-docx/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования XLTX в DOCX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

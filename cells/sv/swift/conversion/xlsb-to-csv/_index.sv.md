@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSB till CSV Konvertera API för Swift
+title: XLSB till CSV Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLSB-format till fil i CSV-format.
 url: /sv/swift/conversion/xlsb-to-csv/
 ---

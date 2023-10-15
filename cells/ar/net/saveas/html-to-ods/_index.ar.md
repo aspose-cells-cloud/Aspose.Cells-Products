@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ HTML كـ ODS API مقابل C#
+title:  احفظ HTML كمواد مستنفدة للأوزون باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق HTML كملف بتنسيق ODS.
-url: /ar/net/saveas/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لحفظ HTML كـ ODS" h2="مكتبة C# لحفظ HTML كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لحفظ HTML كمستند ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام C#." urlsection="saveas/html-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ HTML كمواد مستنفدة للأوزون" h2="مكتبة C# لحفظ HTML كمواد مستنفدة للأوزون" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Net. يعد هذا حلاً احترافيًا لحفظ HTML كملف ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="saveas/html-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML كملف ODS في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من HTML مثل ODS مهمة معقدة. يتم تنفيذ جميع التحولات HTML إلى تنسيق ODS بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. مكتبتنا C# هي حل احترافي لحفظ HTML كملفات ODS عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج ODS مثالي.
+يعد حفظ تنسيقات الملفات من HTML كملف ODS مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق HTML إلى ODS بواسطة C# SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML. تعد مكتبتنا C# حلاً احترافيًا لحفظ HTML كملفات ODS عبر الإنترنت. يوفر Cloud SDK هذا لمطوري C# وظائف قوية ومخرجات ODS مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لحفظ HTML كتنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# مثال على حفظ HTML كمواد مستنفدة للأوزون باستخدام REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ url: /ar/net/saveas/html-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام C# API لحفظ HTML كـ ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لحفظ Excel ملف بتنسيقات أخرى HTML كـ ODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
-<li>Net Standard 2.0 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,29 +1,29 @@
 ﻿---
-title: Cloud Elektronik Tablo Oluşturucu ve Dönüştürücü SDK'ları ve REST API'leri
-description:  Popüler diller için SDK'lar, bulutta barındırılan Excel ve OpenOffice elektronik tablolarını okumak, değiştirmek ve dönüştürmek için uygulamalarınıza sorunsuz entegrasyon sağlar
+title:  Bulut Elektronik Tablo Oluşturucu ve Dönüştürücü SDK'ları ve REST API'leri
+description:  Popüler dillere yönelik SDK'lar, bulutta barındırılan Excel ve OpenOffice e-tablolarını okumak, değiştirmek ve dönüştürmek için uygulamalarınıza kusursuz entegrasyon sağlar
 weight: 10
 url: /tr/family
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excel Sayfayı İşleyecek Bulut SDK\'ları ve REST API\'leri" h2="Popüler diller için SDK\'lar, bulutta barındırılan Excel ve OpenOffice elektronik tablolarını okumak, değiştirmek ve dönüştürmek için uygulamalarınıza sorunsuz entegrasyon sağlar." logoImageSrc="/headers/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel Sayfalarını İşleyecek Cloud SDK\'lar ve REST API\'leri" h2="Popüler dillere yönelik SDK\'lar, bulutta barındırılan Excel ve OpenOffice elektronik tablolarını okumak, değiştirmek ve dönüştürmek için uygulamalarınıza kusursuz entegrasyon sağlar." logoImageSrc="/headers/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Cells Düşük Kodlu API\'ler Dahildir" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells Düşük Kodlu API\'ler Dahil" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="cURL için bulut" imgSrc="/sdk/aspose_cells-for-curl.svg" productLink="/cells/curl/" >}}
-cURL via REST API kullanarak işleme ve dönüştürme için bulutta barındırılan Excel ve OpenOffice elektronik tablolarına erişin.
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="cURL için Bulut" imgSrc="/sdk/aspose_cells-for-curl.svg" productLink="/cells/curl/" >}}
+cURL via REST API'i kullanarak işleme ve dönüştürme için bulutta barındırılan Excel ve OpenOffice elektronik tablolarına erişin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Bulut SDK\'sı for .NET" imgSrc="/sdk/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
-C#, ASP.NET veya .NET ile ilgili başka bir dil için Cloud SDK kullanarak bulut tabanlı elektronik tablo oluşturucu ve dönüştürücü uygulamaları oluşturun.
+C#, ASP.NET veya .NET ile ilgili diğer diller için Cloud SDK'yı kullanarak bulut tabanlı e-tablo oluşturucu ve dönüştürücü uygulamalar oluşturun.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Bulut SDK\'sı for Java" imgSrc="/sdk/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-Java bulut uygulamalarınızın bulutta barındırılan Excel çalışma sayfalarına erişmesini, okumasını, yazmasını ve işlemesini sağlayın.
+Java bulut uygulamalarınızın, bulutta barındırılan Excel çalışma sayfalarına erişmesini, okumasını, yazmasını ve işlemesini sağlayın.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="PHP için Bulut SDK\'sı" imgSrc="/sdk/aspose_cells-for-php.svg" productLink="/cells/php/" >}}
-Bulutta XLSX ve ODS elektronik tabloları oluşturun, görüntüleyin, birleştirin, bölün ve dönüştürün via PHP REST SDK.
+XLSX ve ODS elektronik tablolarını bulutta oluşturun, görüntüleyin, birleştirin, bölün ve dönüştürün via PHP REST SDK.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Android için Bulut SDK\'sı" imgSrc="/sdk/aspose_cells-for-android.svg" productLink="/cells/android/" >}}
@@ -31,19 +31,19 @@ REST API'i kullanarak Android cihazlar için Excel ve OpenOffice elektronik tabl
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Python için Bulut SDK\'sı" imgSrc="/sdk/aspose_cells-for-python.svg" productLink="/cells/python/" >}}
-Python REST SDK, Python uygulamalarınızda okumak, düzenlemek ve dönüştürmek için bulut Excel sayfalarına ve ODS dosyalarına erişmek için.
+Python REST SDK, Python uygulamalarınızda okuma, düzenleme ve dönüştürme amacıyla bulut Excel sayfalarına ve ODS dosyalarına erişim sağlar.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Ruby için Bulut SDK\'sı" imgSrc="/sdk/aspose_cells-for-ruby.svg" productLink="/cells/ruby/" >}}
-Bulutta barındırılan Excel e-tabloları görüntülemek, şifrelemek, değiştirmek, dönüştürmek ve dışa aktarmak için Ruby bulut uygulamalarınızı etkinleştirin.
+Ruby bulut uygulamalarınızın, bulutta barındırılan Excel e-tablolarını görüntülemesini, şifrelemesini, değiştirmesini, dönüştürmesini ve dışa aktarmasını sağlayın.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Node.js için Bulut SDK\'sı" imgSrc="/sdk/aspose_cells-for-node.svg" productLink="/cells/nodejs/" >}}
-Microsoft Excel ve OpenOffice elektronik tablo işleme işlevini Node.js bulut uygulamalarınıza via REST API kolayca entegre edin.
+Microsoft Excel ve OpenOffice elektronik tablo işleme işlevselliğini Node.js bulut uygulamalarınıza kolayca entegre edin via REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Perl için Bulut SDK\'sı" imgSrc="/sdk/aspose_cells-for-perl.svg" productLink="/cells/perl/" >}}
-Bulut tabanlı Perl uygulamalarınızın, herhangi bir 3. taraf yazılımı olmadan buluttaki XLSX ve ODS sayfalarına erişmesine ve bunları işlemesine yardımcı olur.
+Bulut tabanlı Perl uygulamalarınızın herhangi bir üçüncü taraf yazılımı olmadan buluttaki XLSX ve ODS sayfalarına erişmesine ve bunları yönetmesine yardımcı olur.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Swift için Bulut SDK\'sı" imgSrc="/sdk/aspose_cells-for-swift.svg" productLink="/cells/swift/" >}}
@@ -51,11 +51,11 @@ Swift programlama dilinde kendi bulut tabanlı Excel ve OpenOffice dosya oluştu
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Go için Bulut SDK\'sı" imgSrc="/sdk/aspose_cells-for-go.svg" productLink="/cells/go/" >}}
-Herhangi bir platformda Dil Oluşturma, Değiştirme, İşleme veya Dönüştürme Microsoft Excel ve OpenOffice elektronik tablosu via Go dilini elde edin.
+Microsoft Excel ve OpenOffice elektronik tablosu via Go dilini herhangi bir platformda Oluşturma, Değiştirme, İşleme veya Dönüştürme gücüne sahip olun.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="CPP için Bulut SDK\'sı" imgSrc="/sdk/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
-Herhangi bir platformda Dil Oluşturma, Değiştirme, İşleme veya Dönüştürme Microsoft Excel ve OpenOffice elektronik tablosu via Go dilini elde edin.
+Microsoft Excel ve OpenOffice elektronik tablosu via Go dilini herhangi bir platformda Oluşturma, Değiştirme, İşleme veya Dönüştürme gücüne sahip olun.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
@@ -63,10 +63,10 @@ Herhangi bir platformda Dil Oluşturma, Değiştirme, İşleme veya Dönüştür
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/cells" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells-cloud" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

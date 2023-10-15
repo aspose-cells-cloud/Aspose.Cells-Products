@@ -1,19 +1,18 @@
 ﻿---
-title:  تحويل MHTML إلى ODS API لـ PHP
+title:  تحويل MHTML إلى ODS باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق MHTML إلى ملف تنسيق ODS.
-url: /ar/php/conversion/mhtml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل MHTML إلى ODS" h2="PHP مكتبة لتحويل MHTML إلى ODS" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في PHP. هذا حل احترافي لتحويل MHTML إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/mhtml-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل MHTML إلى ODS" h2="PHP مكتبة لتحويل MHTML إلى ODS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل MHTML إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/mhtml-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف MHTML إلى ODS في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل MHTML إلى ODS باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من MHTML إلى ODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى ODS بواسطة PHP SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج ODS مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من MHTML إلى ODS مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق MHTML إلى ODS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات ODS عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن مخرجات ODS عالية الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل MHTML إلى تنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل MHTML إلى ODS باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/mhtml-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل MHTML إلى ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى MHTML إلى ODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

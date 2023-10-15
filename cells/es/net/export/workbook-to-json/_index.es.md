@@ -1,16 +1,15 @@
 ﻿---
-title:  Exporte WORKBOOK a JSON desde una hoja de cálculo usando C# API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/net/export/workbook-to-json/
+title:  Exporte WORKBOOK a JSON desde Excel usando Cells Cloud SDK para C#
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API para exportar el LIBRO DE TRABAJO a un archivo JSON" h2="C# biblioteca para exportar LIBRO DE TRABAJO a archivo JSON" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en Net. Esta es una solución profesional para exportar el LIBRO DE TRABAJO a un archivo de formato JSON desde una hoja de cálculo en línea usando C#." urlsection="export/workbook-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar LIBRO DE TRABAJO a JSON desde Excel" h2="C# biblioteca para exportar WORKBOOK a un archivo JSON" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en Net. Esta es una solución profesional para exportar WORKBOOK a un archivo en formato JSON desde una hoja de cálculo en línea usando C#." urlsection="export/workbook-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKBOOK a un archivo de formato JSON en C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKBOOK a un archivo en formato JSON usando Cells Cloud SDK para C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto WORKBOOK a un archivo JSON desde una hoja de cálculo es una tarea compleja. Exportar WORKBOOK a transiciones de formato JSON se realiza mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo WORKBOOK de origen. Nuestra biblioteca C# es una solución profesional para exportar objetos WORKBOOK a archivos de formato JSON en línea. Este SDK de Cloud ofrece a los desarrolladores de C# una potente funcionalidad y una salida JSON perfecta.
+Exportar el objeto WORKBOOK a un archivo JSON desde el archivo Excel es una tarea compleja. Nuestro SDK C# realiza la exportación de transiciones de WORKBOOK a formato JSON mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de WORKBOOK de origen. Nuestra biblioteca C# es una solución profesional para exportar objetos WORKBOOK a archivos en formato JSON en línea. Este SDK de nube ofrece a los desarrolladores de C# una funcionalidad potente y una salida JSON perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en C# usando REST API para exportar WORKBOOK a formato JSON desde una hoja de cálculo" gistPath="" %}}
@@ -44,16 +43,16 @@ Exportar un objeto WORKBOOK a un archivo JSON desde una hoja de cálculo es una 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar C# API para exportar WORKBOOK a JSON" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método PostExport para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Net para exportar objetos de Excel WORKBOOK a JSON" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postExport` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>NET Framework 4.5.2 o más reciente</li>
-<li>Net Standard 2.0 o más reciente</li>
+<li>Net Standard 2.0 o posterior</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera CHART till EMF från kalkylblad med Python API
+title:  Exportera CHART till EMF från Excel med Cells Cloud SDK för Python
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/python/export/chart-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att exportera CHART till EMF fil" h2="Python bibliotek för att exportera CHART till EMF fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i Python. Detta är en professionell lösning för att exportera CHART till filformatet EMF från kalkylark online med Python." urlsection="export/chart-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera CHART till EMF från Excel" h2="Python bibliotek för att exportera CHART till EMF fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i Python. Detta är en professionell lösning för att exportera CHART till EMF filformat från kalkylblad online med Python." urlsection="export/chart-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera CHART-objekt till EMF filformat i Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera CHART-objekt till EMF filformat med Cells Cloud SDK för Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera CHART-objekt till EMF-fil från kalkylblad är en komplex uppgift. Exportera CHART till EMF formatövergångar utförs av vår Python SDK samtidigt som källdiagrammets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att exportera CHART-objekt till filer i EMF-format online. Denna Cloud SDK ger Python-utvecklare kraftfull funktionalitet och perfekt EMF-utdata.
+Exportera CHART-objekt till filen EMF från filen Excel är en komplex uppgift. Exportera CHART till EMF formatövergångar utförs av vår Python SDK samtidigt som källdiagrammets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att exportera CHART-objekt till filer i EMF-format online. Denna Cloud SDK ger Python-utvecklare kraftfull funktionalitet och perfekt EMF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att exportera CHART till formatet EMF från kalkylark" gistPath="" %}}
@@ -37,9 +36,9 @@ Exportera CHART-objekt till EMF-fil från kalkylblad är en komplex uppgift. Exp
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att exportera CHART till EMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att exportera objekt från Excel CHART till EMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop post_export-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

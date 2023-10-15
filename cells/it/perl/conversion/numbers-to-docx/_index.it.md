@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS in DOCX Converti API in Perl
-description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato NUMBERS in un file in formato DOCX.
-url: /it/perl/conversion/numbers-to-docx/
+title:  Converti NUMERI in DOCX utilizzando Perl
+description:  Utilizzando Aspose.Cells Cloud SDK per Perl per convertire un file in formato NUMERI in un file in formato DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per convertire NUMBERS in DOCX" h2="Perl libreria per convertire NUMBERS in DOCX" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Perl. Questa è una soluzione professionale per convertire NUMBERS in DOCX e altri formati di documenti online utilizzando Perl." urlsection="conversion/numbers-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti NUMERI in DOCX" h2="Libreria Perl per convertire NUMERI in DOCX" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Perl. Questa è una soluzione professionale per convertire NUMERI in DOCX e altri formati di documenti online utilizzando Perl." urlsection="conversion/numbers-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file NUMBERS in DOCX in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti NUMERI in DOCX utilizzando Cells Cloud SDK per Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da NUMBERS a DOCX è un'attività complessa. Tutte le transizioni dal formato NUMBERS al formato DOCX vengono eseguite dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo NUMBERS sorgente. La nostra libreria Perl è una soluzione professionale per convertire NUMBERS in file DOCX online. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e un perfetto output DOCX.
+La conversione dei formati di file da NUMBERS a DOCX può essere un compito complesso. Il nostro SDK Perl gestisce tutte le conversioni dal formato NUMBERS al formato DOCX preservando il contenuto strutturale e logico principale del foglio di calcolo NUMBERS di origine. La nostra libreria Perl fornisce una soluzione professionale per convertire online NUMBERS in file DOCX. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e garantisce output DOCX di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Perl utilizzando REST API per convertire NUMBERS in formato DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Esempio di codice per convertire NUMERI in DOCX utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ La conversione dei formati di file da NUMBERS a DOCX è un'attività complessa. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Perl API per convertire i NUMERI in DOCX" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama celle_cartella di lavoro_Mettere_convertire_metodo della cartella di lavoro per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare l\'SDK Perl per convertire i NUMERI in DOCX" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `put_convert_workbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

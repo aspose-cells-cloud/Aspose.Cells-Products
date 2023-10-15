@@ -1,10 +1,9 @@
 ﻿---
 title:  Löschen Sie Formen in der lokalen Arbeitsmappe in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Formen unter Microsoft Excel und OpenOffice Calc. Klare Formen in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/perl/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Löschen von Formen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Perl Klar, um Formen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in Perl zu löschen. Diese professionelle Lösung löscht Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows mit Perl." urlsection="clear/Shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen von Formen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle" h2="Perl Löschen, um Formen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in Perl zu löschen. Diese professionelle Lösung löscht Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows mit Perl." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klare Formen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Perl REST API" >}}
@@ -19,8 +18,8 @@ Das Löschen von Formen in der lokalen Microsoft Excel und OpenOffice Calc-Tabel
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Perl API zum Löschen von Formen" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Beitrag anrufen_klar_Objekte-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

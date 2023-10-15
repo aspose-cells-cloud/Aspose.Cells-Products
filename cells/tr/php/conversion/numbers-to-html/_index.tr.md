@@ -1,19 +1,18 @@
 ﻿---
-title: SAYILARI HTML'e PHP için API'e dönüştür
-description:  NUMBERS biçim dosyasını HTML biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/php/conversion/numbers-to-html/
+title:  PHP'i kullanarak NUMBERS'ı HTML'e dönüştürün
+description:  NUMBERS biçimindeki bir dosyayı HTML biçimindeki bir dosyaya dönüştürmek için PHP için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SAYILARI HTML\'e dönüştürmek için PHP API" h2="SAYILARI HTML\'e dönüştürmek için PHP kitaplığı" p="PHP\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, PHP kullanarak NUMBERS\'ı HTML\'e ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı HTML\'e dönüştür" h2="NUMBERS\'ı HTML\'e dönüştürmek için PHP kitaplığı" p="PHP projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, NUMBERS\'ı HTML\'e ve PHP\'i kullanarak çevrimiçi olarak diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını PHP\'de HTML\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PHP için Cells Cloud SDK\'yı kullanarak NUMBERS\'ı HTML\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-NUMBERS olan dosya formatlarını HTML'e dönüştürmek karmaşık bir iştir. HTML biçimine tüm NUMBERS geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken PHP SDK'mız tarafından gerçekleştirilir. PHP kitaplığımız, NUMBERS dosyasını çevrimiçi olarak HTML dosyasına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel HTML çıkışı sağlar.
+Dosya formatlarını NUMBERS'tan HTML'e dönüştürmek karmaşık bir iş olabilir. PHP SDK'mız, kaynak NUMBERS e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm NUMBERS'dan HTML'e format dönüşümlerini gerçekleştirir. PHP kitaplığımız, NUMBERS'ı çevrimiçi olarak HTML dosyalara dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, PHP geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli HTML çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="SAYILARI HTML formatına dönüştürmek için REST API kullanan PHP\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP NUMBERS\'ı Cells Cloud SDK kullanarak HTML\'e dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ NUMBERS olan dosya formatlarını HTML'e dönüştürmek karmaşık bir iştir. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="SAYILARI HTML\'e dönüştürmek için PHP API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkBook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını NUMBERS ile HTML arasındaki diğer formatlara dönüştürmek için PHP için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

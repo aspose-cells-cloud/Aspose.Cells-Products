@@ -1,10 +1,9 @@
 ﻿---
-title: 使用 Android 进行转换
-description: Aspose.Cells Cloud REST API 支持使用Android将excel文件转换为不同类型的格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/android/conversion/
+title: 使用Android转换Excel文件格式
+description: Aspose.Cells Cloud REST API 支持使用 Android 进行 Excel 文件格式转换，并提供多种编程语言的 SDK。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Android 进行转换" h2="Aspose.Cells Cloud SDK支持文件格式转换。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用Android将excel文件转换为不同类型的格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用Android转换Excel文件格式" h2="Aspose.Cells Cloud SDK支持30多种文件格式之间的转换。" p="Aspose.Cells Cloud REST API 支持使用 Android 进行 Excel 文件格式转换，并提供多种编程语言的 SDK。" urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +33,7 @@ url: /zh/android/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="使用 Android 扩展链接进行转换" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Android 扩展链接转换 Excel 文件格式" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

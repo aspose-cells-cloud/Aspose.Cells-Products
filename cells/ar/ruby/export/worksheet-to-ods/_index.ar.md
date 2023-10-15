@@ -1,19 +1,18 @@
 ﻿---
-title:  تصدير ورقة العمل إلى ODS من جدول البيانات باستخدام Ruby API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/ruby/export/worksheet-to-ods/
+title:  تصدير ورقة عمل إلى ODS من Excel باستخدام Cells Cloud SDK لـ Ruby
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لتصدير ورقة العمل إلى ملف ODS" h2="مكتبة روبي لتصدير ورقة العمل إلى ملف ODS" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Ruby. هذا حل احترافي لتصدير ورقة العمل إلى ملف بتنسيق ODS من جدول بيانات عبر الإنترنت باستخدام Ruby." urlsection="export/worksheet-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير ورقة عمل إلى ODS من Excel" h2="مكتبة روبي لتصدير ورقة العمل إلى ملف ODS" p="استخدم تصدير API من Cells Cloud لتصدير Excel سير عمل الكائن الداخلي في Ruby. يعد هذا حلاً احترافيًا لتصدير ورقة العمل إلى ملف بتنسيق ODS من جدول البيانات عبر الإنترنت باستخدام Ruby." urlsection="export/worksheet-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق ODS في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن ورقة العمل إلى ملف تنسيق ODS باستخدام Cells Cloud SDK لـ Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف ODS من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير ورقة العمل إلى تنسيق ODS بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج ODS مثالي.
+يعد تصدير كائن ورقة العمل إلى ملف ODS من الملف Excel مهمة معقدة. يتم تنفيذ انتقالات تصدير ورقة العمل إلى تنسيق ODS بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات ورقة العمل إلى ملفات بتنسيق ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية ومخرجات ODS مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتصدير WORKSHEET إلى تنسيق ODS من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في روبي باستخدام REST API لتصدير ورقة عمل إلى تنسيق ODS من جدول البيانات" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +34,10 @@ url: /ar/ruby/export/worksheet-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتصدير ورقة العمل إلى ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتصدير الكائنات من ورقة عمل Excel إلى ODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

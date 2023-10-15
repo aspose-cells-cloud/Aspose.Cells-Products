@@ -1,5 +1,5 @@
 ﻿---
-title:  NUMBERS till PDF Konvertera API för Swift
+title: NUMBERS till PDF Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i NUMBERS-format till fil i PDF-format.
 url: /sv/swift/conversion/numbers-to-pdf/
 ---

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить GIF как SQL API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата GIF в формате файла SQL.
-url: /ru/java/saveas/gif-to-sql/
+title:  Сохраните GIF как SQL, используя Java.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата GIF как файла формата SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить GIF как SQL" h2="Java библиотека для сохранения GIF как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения GIF в виде SQL и других форматов документов в Интернете с использованием Java." urlsection="saveas/gif-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить GIF как SQL" h2="Java библиотека для сохранения GIF как SQL" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения GIF в формате SQL и других форматов документов в Интернете с помощью Java." urlsection="saveas/gif-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как SQL в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде SQL — сложная задача. Все переходы формата GIF в формат SQL выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Java — это профессиональное решение для сохранения GIF в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из GIF в формате SQL — сложная задача. Все переходы формата GIF в SQL выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной таблицы GIF. Наша библиотека Java — это профессиональное решение для сохранения GIF в формате SQL в Интернете. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения GIF в формате SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения GIF как SQL с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/gif-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения GIF как SQL" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах GIF как SQL" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

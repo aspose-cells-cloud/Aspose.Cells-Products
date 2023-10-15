@@ -1,6 +1,6 @@
 ﻿---
 title:  Android'de FODS'yi MD'ye dönüştürün
-description: Bulut API ve Açık Kaynak Android SDK ile Oluşturma, Düzenleme ve Dönüştürme gibi Excel Dosya Manipülasyon İşlemlerini Otomatikleştirin
+description: Bulut API ve Açık Kaynak Android SDK ile Oluşturma, Düzenleme ve Dönüştürme gibi Excel Dosya İşleme İşlemlerini otomatikleştirin
 url: /tr/android/conversion/fods-to-md/
 family: cells
 platformtag: android
@@ -11,24 +11,24 @@ platform: Android
 otherformats: ODS TIFF TSV PDF XLT XLSX TXT XLTM HTML MHTML XLTX XML XLSM DIF CSV FODS 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Bulutta FODS\'yi MD\'ye Dönüştürün" h2="Android için açık kaynaklı Cloud SDK ile Excel ve OpenOffice elektronik tablolarını dönüştürün" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Bulutta FODS\'yi MD\'ye dönüştürün" h2="Android için açık kaynaklı Cloud SDK ile Excel ve OpenOffice e-tablolarını dönüştürün" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Android Uygulamalarında FODS\'den MD\'ye Dönüştürme" %}}
-1.  adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları
-1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlat
-1. ```CellsApiUtil.Upload``` yöntemiyle FODS dosyasını varsayılan Bulut Depolamaya yükleyin
+{{% blocks/products/pf/agp/feature-section-col title="Android Uygulamalarında FODS\'den MD\'ye Dönüşüm" %}}
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
+1. FODS dosyasını ```CellsApiUtil.Upload``` yöntemiyle varsayılan Cloud Storage'a yükleyin
 1. Ortaya çıkan MD dosyasını almak için ```CellsApi.cellsWorkbookGetWorkbook```'i arayın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Başlayın Excel REST API" %}}
- Excel Cloud SDK for ANDROID kaynak kodunu şu adresten edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) alternatif indirme seçenekleri için.
+{{% blocks/products/pf/agp/feature-section-col title="Excel REST API ile Başlayın" %}}
+ ANDROID kaynak kodu için Excel Cloud SDK'yı şu adresten edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) Alternatif indirme seçenekleri için.
 
- Ayrıca Swagger tabanlı bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
+ Ayrıca Swagger tabanlıya da bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Android: FODS\'den MD\'ye Dönüştürme" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Android: FODS\'den MD\'ye Dönüşüm" gistPath="" %}}
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
 try {

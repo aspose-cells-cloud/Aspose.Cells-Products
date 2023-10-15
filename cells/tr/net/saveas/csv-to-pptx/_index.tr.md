@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV'yi C# için PPTX API olarak kaydedin
-description:  CSV biçimli dosyayı PPTX biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
-url: /tr/net/saveas/csv-to-pptx/
+title:  C#'i kullanarak CSV'yi PPTX olarak kaydedin
+description:  CSV formatındaki dosyayı PPTX formatındaki dosya olarak kaydetmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="CSV\'yi PPTX olarak kaydetmek için C# API" h2="CSV\'yi PPTX olarak kaydetmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, CSV\'yi C# kullanarak çevrimiçi olarak PPTX ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/csv-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="CSV\'yi PPTX olarak kaydet" h2="CSV\'yi PPTX olarak kaydetmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, CSV\'yi C#\'i kullanarak çevrimiçi olarak PPTX ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/csv-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir CSV dosyasını C#\'de PPTX olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="CSV dosyasını C#\'e PPTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini CSV'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm CSV'den PPTX formatına geçişler, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, CSV'yi çevrimiçi olarak PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıkışı sağlar.
+Dosya formatlarını CSV'den PPTX olarak kaydetmek karmaşık bir iştir. CSV'den PPTX'e tüm format geçişleri C# SDK'mız tarafından gerçekleştirilir ve kaynak CSV elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız CSV'yi çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, C# geliştiriciye güçlü işlevsellik ve mükemmel PPTX çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="CSV\'yi PPTX formatı olarak kaydetmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# REST API kullanarak CSV\'yi PPTX olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ Dosya biçimlerini CSV'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm CSV
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="CSV\'yi PPTX olarak kaydetmek için C# API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için CellsSaveAsPostDocumentSaveAs yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer CSV formatlarını PPTX olarak kaydetmek için Cells Cloud SDK for Net nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `PostWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>NET Framework 4.5.2 veya daha yenisi</li>
-<li>Net Standard 2.0 veya daha yenisi</li>
+<li>Net Standardı 2.0 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

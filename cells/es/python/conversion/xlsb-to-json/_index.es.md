@@ -1,19 +1,18 @@
 ﻿---
-title: XLSB a JSON Convertir API para Python
-description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato XLSB a un archivo de formato JSON.
-url: /es/python/conversion/xlsb-to-json/
+title:  Convierta XLSB a JSON usando Python
+description: Utilizar el SDK de la nube Aspose.Cells para Python para convertir un archivo de formato XLSB a un archivo de formato JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir XLSB a JSON" h2="Python biblioteca para convertir XLSB a JSON" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir XLSB a JSON y otros formatos de documentos en línea usando Python." urlsection="conversion/xlsb-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSB a JSON" h2="Biblioteca Python para convertir XLSB a JSON" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Python proyectos. Esta es una solución profesional para convertir XLSB a JSON y otros formatos de documentos en línea usando Python." urlsection="conversion/xlsb-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSB a JSON en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLSB a JSON usando Cells Cloud SDK para Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLSB a JSON es una tarea compleja. Todas las transiciones de formato XLSB a JSON se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSB de origen. Nuestra biblioteca Python es una solución profesional para convertir archivos XLSB a JSON en línea. Este SDK de Cloud ofrece a los desarrolladores de Python una potente funcionalidad y una salida JSON perfecta.
+Convertir formatos de archivo de XLSB a JSON puede ser una tarea compleja. Nuestro SDK Python maneja todas las conversiones de formato XLSB a JSON y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo XLSB de origen. Nuestra biblioteca Python proporciona una solución profesional para convertir archivos XLSB a JSON en línea. Este SDK de nube brinda a los desarrolladores Python una potente funcionalidad y garantiza una salida JSON de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para convertir XLSB a formato JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Ejemplo de código para convertir XLSB a JSON usando Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Convertir formatos de archivo de XLSB a JSON es una tarea compleja. Todas las tr
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Python API para convertir XLSB a JSON" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_libro de trabajo_poner_convertir_método del libro de trabajo para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Python para convertir archivos Excel a otros formatos XLSB a JSON" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

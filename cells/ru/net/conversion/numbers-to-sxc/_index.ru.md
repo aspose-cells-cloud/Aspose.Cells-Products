@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS в SXC Преобразовать API в C#
-description: Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата NUMBERS в файл формата SXC.
-url: /ru/net/conversion/numbers-to-sxc/
+title:  Преобразуйте ЧИСЛА в SXC, используя C#.
+description:  Использование Cloud SDK Aspose.Cells для C# для преобразования файла формата NUMBERS в файл формата SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для конвертации NUMBERS в SXC" h2="C# библиотека для преобразования NUMBERS в SXC" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации NUMBERS в SXC и другие форматы документов по телефону C#." urlsection="conversion/numbers-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать ЧИСЛА в SXC" h2="C# библиотека для преобразования ЧИСЕЛ в SXC" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Net. Это профессиональное решение для онлайн-конвертации ЧИСЕЛ в SXC и другие форматы документов с помощью C#." urlsection="conversion/numbers-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в SXC в C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте ЧИСЛА в SXC с помощью Cells Cloud SDK для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в SXC — сложная задача. Все преобразования формата NUMBERS в формат SXC выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в SXC. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из NUMBERS в SXC может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования формата NUMBERS в формат SXC, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертации ЧИСЕЛ в файлы SXC. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод SXC.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования NUMBERS в формат SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для преобразования ЧИСЕЛ в SXC с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ru/net/conversion/numbers-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для конвертации NUMBERS в SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для преобразования файлов Excel в другие форматы NUMBERS в SXC." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

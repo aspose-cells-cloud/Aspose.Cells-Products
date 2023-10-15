@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير كتاب العمل إلى PNG من جدول البيانات باستخدام Go API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/go/export/workbook-to-png/
+title:  تصدير المصنف إلى PNG من Excel باستخدام Cells Cloud SDK for Go
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لتصدير كتاب العمل إلى ملف PNG" h2="انتقل إلى المكتبة لتصدير كتاب العمل إلى ملف PNG" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Go. هذا حل احترافي لتصدير كتاب العمل إلى ملف بتنسيق PNG من جدول بيانات عبر الإنترنت باستخدام Go." urlsection="export/workbook-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير المصنف إلى PNG من Excel" h2="انتقل إلى المكتبة لتصدير المصنف إلى ملف PNG" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Go. يعد هذا حلاً احترافيًا لتصدير WORKBOOK إلى ملف بتنسيق PNG من جدول البيانات عبر الإنترنت باستخدام Go." urlsection="export/workbook-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKBOOK إلى ملف بتنسيق PNG في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن المصنف إلى ملف بتنسيق PNG باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKBOOK إلى ملف PNG من جدول البيانات مهمة معقدة. تصدير كتاب العمل إلى PNG يتم تنفيذ انتقالات تنسيق Go SDK الخاصة بنا مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق PNG عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج PNG مثالي.
+يعد تصدير كائن WORKBOOK إلى ملف PNG من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير WORKBOOK إلى PNG بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق PNG عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية وإخراجًا مثاليًا PNG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتصدير WORKBOOK إلى تنسيق PNG من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال للتعليمات البرمجية في Go باستخدام REST API لتصدير المصنف إلى تنسيق PNG من جدول البيانات" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -56,15 +55,15 @@ url: /ar/go/export/workbook-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتصدير WORKBOOK إلى PNG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة PostExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتصدير الكائنات من المصنف Excel إلى PNG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

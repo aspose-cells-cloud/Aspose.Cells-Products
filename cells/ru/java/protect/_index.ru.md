@@ -1,14 +1,13 @@
 ﻿---
-title:  Защитите с помощью Java
-description:  Aspose.Cells Cloud REST API поддерживает книги для расшифровки, шифрования и цифровой подписи с использованием Java. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
-url: /ru/java/protect/
+title:  Защитите файлы Excel с помощью Java.
+description:  Aspose.Cells Cloud REST API поддерживает шифрование, расшифровку и добавление цифровых подписей в книги с помощью Java, а также предлагает пакеты SDK для различных языков программирования.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Защитите с помощью Java" h2="Aspose.Cells Cloud SDK поддерживает книги для расшифровки, шифрования и цифровой подписи." p="Aspose.Cells Cloud REST API поддерживает книги для расшифровки, шифрования и цифровой подписи с использованием Java. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Защитите файлы Excel с помощью Java." h2="Aspose.Cells Cloud SDK поддерживает расшифровку, шифрование и цифровую подпись книг." p="Aspose.Cells Cloud REST API поддерживает шифрование, расшифровку и добавление цифровых подписей в книги с помощью Java, а также предлагает пакеты SDK для различных языков программирования." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Защита с помощью ссылок расширения Java" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Защитите файлы Excel с помощью ссылок расширения Java." >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
@@ -19,8 +18,8 @@ url: /ru/java/protect/
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
-{{< blocks/products/pf/slr-element name="API Ссылки" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Рекомендации" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="Обучающие видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}

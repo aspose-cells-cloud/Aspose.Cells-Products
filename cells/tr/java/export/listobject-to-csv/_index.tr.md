@@ -1,19 +1,18 @@
 ﻿---
-title:  Java API kullanarak LISTOBJECT'i e-tablodan CSV'ye aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/java/export/listobject-to-csv/
+title:  Cells Cloud SDK for Java'i kullanarak LISTOBJECT'i Excel'den CSV'ye aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i CSV dosyasına aktarmak için Java API" h2="LISTOBJECT\'i CSV dosyasına dışa aktarmak için Java kitaplığı" p="Java\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Java kullanarak çevrimiçi elektronik tablodan LISTOBJECT dosyasını CSV biçiminde dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i Excel\'den CSV\'ye aktar" h2="LISTOBJECT\'i CSV dosyasına aktarmak için Java kitaplığı" p="Java\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Java\'i kullanarak çevrimiçi tablodan LISTOBJECT\'i CSV formatındaki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Java\'de CSV formatındaki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Cells Cloud SDK for Java kullanarak CSV formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini e-tablodan CSV dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i CSV formatına aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak CSV biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
+LISTOBJECT nesnesini Excel dosyasından CSV dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i CSV formatına aktarma geçişleri Java SDK'mız tarafından gerçekleştirilir ve kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak CSV formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK'sı, Java geliştiriciye güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan CSV formatına dışa aktarmak için REST API kullanan Java\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan CSV formatına aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,10 +50,10 @@ LISTOBJECT nesnesini e-tablodan CSV dosyasına dışa aktarma karmaşık bir gö
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="LISTOBJECT\'i CSV\'ye dışa aktarmak için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel LISTOBJECT\'ten CSV\'ye aktarmak için Cells Cloud SDK for Java nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

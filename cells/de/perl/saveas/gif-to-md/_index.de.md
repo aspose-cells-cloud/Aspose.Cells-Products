@@ -1,10 +1,9 @@
 ﻿---
-title:  GIF als MD API für Perl speichern
-description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Speichern von GIF-Formatdateien als MD-Formatdateien.
-url: /de/perl/saveas/gif-to-md/
+title:  Speichern Sie GIF als MD mit Perl
+description:  Verwendung von Aspose.Cells Cloud SDK für Perl zum Speichern von GIF-Formatdateien als MD-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um GIF als MD zu speichern" h2="Perl-Bibliothek zum Speichern von GIF als MD" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um GIF als MD und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/gif-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF als MD speichern" h2="Perl Bibliothek zum Speichern von GIF als MD" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um GIF als MD und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/gif-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als MD unter Perl" >}}
@@ -13,7 +12,7 @@ url: /de/perl/saveas/gif-to-md/
 Das Speichern von GIF-Dateiformaten als MD ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum MD-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um GIF als MD-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von GIF im MD-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel zum Speichern von GIF als MD mit REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Das Speichern von GIF-Dateiformaten als MD ist eine komplexe Aufgabe. Alle Über
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um GIF als MD zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Perl, um Excel-Dateien in anderen Formaten wie GIF oder MD zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Beitrag anrufen_Arbeitsmappe_save_as-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

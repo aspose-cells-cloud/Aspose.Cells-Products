@@ -1,19 +1,19 @@
 ﻿---
-title: HTML إلى SXC - تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق HTML إلى ملف بتنسيق SXC.
+title:  HTML إلى SXC تحويل API لـ Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق HTML إلى ملف تنسيق SXC.
 url: /ar/swift/conversion/html-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل HTML إلى SXC" h2="مكتبة سويفت لتحويل HTML إلى SXC" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل HTML إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/html-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل HTML إلى SXC" h2="مكتبة سويفت لتحويل HTML إلى SXC" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل HTML إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/html-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف HTML إلى SXC في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف HTML إلى SXC في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى SXC بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل HTML إلى ملفات SXC عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج SXC مثالي.
+يعد تحويل تنسيقات الملفات من HTML إلى SXC مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق HTML إلى SXC بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل HTML إلى ملفات SXC عبر الإنترنت. يمنح Cloud SDK لمطوري Swift وظائف قوية ومخرجات SXC مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل HTML إلى تنسيق SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لتحويل HTML إلى تنسيق SXC" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/html-to-sxc/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل HTML إلى SXC" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez les NUMÉROS sous PNG API pour NodeJS
-description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format NUMBERS en tant que fichier au format PNG.
-url: /fr/nodejs/saveas/numbers-to-png/
+title:  Enregistrez NUMBERS sous PNG en utilisant NodeJS
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format NUMBERS au format PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer les NUMBERS sous PNG" h2="Bibliothèque NodeJS pour enregistrer NUMBERS sous PNG" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS sous le nom PNG et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/numbers-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer les NUMÉROS sous le nom PNG" h2="Bibliothèque NodeJS pour enregistrer les NUMBERS sous le nom PNG" p="Utilisez SaveAs API sur Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS sous le nom PNG et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/numbers-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier NUMBERS sous le nom PNG dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de NUMBERS sous la forme PNG est une tâche complexe. Toutes les transitions de format NUMBERS vers PNG sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer des fichiers NUMBERS en tant que PNG en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie PNG parfaite.
+Enregistrer les formats de fichiers de NUMBERS sous le nom PNG est une tâche complexe. Toutes les transitions du format NUMBERS vers PNG sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer des NUMBERS sous forme de fichiers PNG en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie PNG parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour enregistrer NUMBERS au format PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code NodeJS pour enregistrer NUMBERS sous PNG à l\'aide de REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ L'enregistrement des formats de fichiers à partir de NUMBERS sous la forme PNG 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le nœud API pour enregistrer des NUMÉROS sous PNG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Node pour enregistrer les fichiers Excel sous d\'autres formats NUMBERS comme PNG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>nœud v6.17.1 ou plus récent</li>
+<li>nœud v6.17.1 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

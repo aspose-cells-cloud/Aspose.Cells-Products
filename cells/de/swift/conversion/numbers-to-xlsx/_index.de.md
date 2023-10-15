@@ -1,5 +1,5 @@
 ﻿---
-title: NUMBERS in XLSX Konvertieren Sie API für Swift
+title:  NUMBERS in XLSX Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im XLSX-Format.
 url: /de/swift/conversion/numbers-to-xlsx/
 ---

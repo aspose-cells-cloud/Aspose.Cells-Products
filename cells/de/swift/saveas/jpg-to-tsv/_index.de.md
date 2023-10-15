@@ -10,7 +10,7 @@ url: /de/swift/saveas/jpg-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei als TSV in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von JPG als TSV ist eine komplexe Aufgabe. Alle Übergänge von JPG ins TSV-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um JPG als TSV-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
+Das Speichern von Dateiformaten von JPG als TSV ist eine komplexe Aufgabe. Alle Übergänge vom JPG- zum TSV-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um JPG als TSV-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von JPG im TSV-Format" gistPath="" %}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  C# API kullanarak LISTOBJECT'i e-tablodan EMF'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/net/export/listobject-to-emf/
+title:  C# için Cells Cloud SDK'yı kullanarak LISTOBJECT'i Excel'den EMF'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, LISTOBJECT\'i EMF dosyasına aktarmak için" h2="LISTOBJECT\'i EMF dosyasına dışa aktarmak için C# kitaplığı" p="Net\'te elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, LISTOBJECT\'i C# kullanarak elektronik tablodan EMF biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i Excel\'den EMF\'e aktar" h2="LISTOBJECT\'i EMF dosyasına aktarmak için C# kitaplığı" p="Net\'te Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, C#\'i kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i EMF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini C#\'deki EMF biçim dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="C# için Cells Cloud SDK\'yı kullanarak LISTOBJECT nesnesini EMF biçimli dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini e-tablodan EMF dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i EMF biçimine dışa aktarma geçişleri, C# SDK'mız tarafından gerçekleştirilir ve kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak EMF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel EMF çıkışı sağlar.
+LISTOBJECT nesnesini Excel dosyasından EMF dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i EMF'e aktarma format geçişleri C# SDK'mız tarafından gerçekleştirilir ve kaynak LISTOBJECT elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak EMF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, C# geliştiriciye güçlü işlevsellik ve mükemmel EMF çıktı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan EMF biçimine dışa aktarmak için REST API kullanan C#\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan EMF biçimine aktarmak için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,16 +43,16 @@ LISTOBJECT nesnesini e-tablodan EMF dosyasına dışa aktarma karmaşık bir gö
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="LISTOBJECT\'i EMF\'e dışa aktarmak için C# API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için PostExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel LISTOBJECT\'ten EMF\'e aktarmak için Cells Cloud SDK for Net nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>NET Framework 4.5.2 veya daha yenisi</li>
-<li>Net Standard 2.0 veya daha yenisi</li>
+<li>Net Standardı 2.0 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

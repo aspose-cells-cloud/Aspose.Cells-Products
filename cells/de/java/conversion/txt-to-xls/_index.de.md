@@ -1,19 +1,18 @@
 ﻿---
-title:  TXT in XLS konvertieren API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im TXT-Format in eine Datei im XLS-Format.
-url: /de/java/conversion/txt-to-xls/
+title:  Konvertieren Sie TXT mit Java in XLS
+description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer TXT-Formatdatei in eine XLS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von TXT in XLS" h2="Java-Bibliothek zum Konvertieren von TXT in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um TXT in XLS und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/txt-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie TXT in XLS" h2="Java Bibliothek zum Konvertieren von TXT in XLS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TXT in XLS und andere Dokumentformate unter Java." urlsection="conversion/txt-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TXT-Datei in XLS in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie TXT mit Cells Cloud SDK for Java in XLS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TXT in XLS ist eine komplexe Aufgabe. Alle Übergänge vom TXT- zum XLS-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TXT- in XLS-Dateien. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
+Das Konvertieren von Dateiformaten von TXT in XLS kann eine komplexe Aufgabe sein. Unser Java SDK übernimmt alle Konvertierungen des TXT- ins XLS-Formats und behält dabei den wichtigsten strukturellen und logischen Inhalt der TXT-Quelltabelle bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von TXT- in XLS-Dateien. Dieses Cloud SDK bietet Java-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren von TXT in das XLS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel für die Konvertierung von TXT in XLS mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von TXT in XLS ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um TXT in XLS zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Excel-Dateien in andere Formate von TXT in XLS zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

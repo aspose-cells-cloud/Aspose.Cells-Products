@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS zu EMF Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLS-Formatdatei in eine Datei im EMF-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLS-Formatdatei in eine Datei im EMF-Format.
 url: /de/swift/conversion/xls-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

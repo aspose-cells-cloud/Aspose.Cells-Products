@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie JPG als SVG API für NodeJS
-description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei im JPG-Format als Datei im Format SVG zu speichern.
-url: /de/nodejs/saveas/jpg-to-svg/
+title:  Speichern Sie JPG als SVG mit NodeJS
+description:  Verwendung von Aspose.Cells Cloud SDK für NodeJS zum Speichern von JPG-Formatdateien als SVG-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, um JPG als SVG zu speichern" h2="NodeJS-Bibliothek zum Speichern von JPG als SVG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um JPG als SVG und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/jpg-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie JPG unter SVG" h2="NodeJS-Bibliothek zum Speichern von JPG als SVG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um JPG als SVG und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/jpg-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei als SVG in NodeJS" >}}
@@ -13,7 +12,7 @@ url: /de/nodejs/saveas/jpg-to-svg/
 Das Speichern von Dateiformaten aus JPG als SVG ist eine komplexe Aufgabe. Alle JPG-Formatübergänge in das SVG-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um JPG-Dateien im Format SVG online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte SVG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von JPG im Format SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel zum Speichern von JPG als SVG mit REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten aus JPG als SVG ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um JPG als SVG zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in anderen JPG-Formaten als SVG zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

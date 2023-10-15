@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML till XLS Konvertera API för Swift
+title: MHTML till XLS Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera MHTML-formatfil till XLS-formatfil.
 url: /sv/swift/conversion/mhtml-to-xls/
 ---

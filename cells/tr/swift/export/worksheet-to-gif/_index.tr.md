@@ -1,19 +1,19 @@
 ﻿---
-title:  Swift API kullanarak ÇALIŞMA TABLOSUNU e-tablodan GIF'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
+title:  Swift API'i kullanarak WORKSHEET'i e-tablodan GIF'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 url: /tr/swift/export/worksheet-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA TABLOSUNU GIF dosyasına dışa aktarmak için Swift API" h2="ÇALIŞMA TABLOSUNU GIF dosyasına dışa aktarmak için Swift kitaplığı" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Swift kullanarak ÇALIŞMA TABLOSUNU elektronik tablodan GIF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA SAYFASINI GIF dosyasına aktarmak için Swift API" h2="WORKSHEET\'i GIF dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells REST\'i Dışa Aktar API\'i kullanın. Bu, Swift kullanarak çevrimiçi elektronik tablodan WORKSHEET\'i GIF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKSHEET nesnesini Swift\'de GIF formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-WORKSHEET nesnesini e-tablodan GIF dosyasına aktarma karmaşık bir iştir. WORKSHEET'i GIF formatına aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak GIF formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel GIF çıktısı sağlar.
+WORKSHEET nesnesini e-tablodan GIF dosyasına aktarmak karmaşık bir iştir. WORKSHEET'i GIF formatına aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak GIF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel GIF çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i e-tablodan GIF formatına dışa aktarmak için REST API kullanan Swift kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i e-tablodan GIF formatına aktarmak için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,8 +55,8 @@ WORKSHEET nesnesini e-tablodan GIF dosyasına aktarma karmaşık bir iştir. WOR
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="WORKSHEET\'i GIF\'e dışa aktarmak için Swift API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="WORKSHEET\'i GIF\'e aktarmak için Swift API nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

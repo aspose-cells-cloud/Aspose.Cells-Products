@@ -1,19 +1,18 @@
 ﻿---
-title:  ZAHLEN in PDF Konvertieren Sie API in for Java
-description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im NUMBERS-Format in eine Datei im PDF-Format zu konvertieren.
-url: /de/java/conversion/numbers-to-pdf/
+title:  Konvertieren Sie NUMBERS mit Java in PDF
+description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im PDF-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um ZAHLEN in PDF umzuwandeln" h2="Java-Bibliothek zum Konvertieren von NUMBERS in PDF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS online mit Java in PDF und andere Dokumentformate zu konvertieren." urlsection="conversion/numbers-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie NUMBERS in PDF" h2="Java-Bibliothek zum Konvertieren von NUMBERS in PDF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von NUMBERS in PDF und andere Dokumentformate unter Verwendung von Java." urlsection="conversion/numbers-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine NUMBERS-Datei in PDF in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie NUMBERS mit Cells Cloud SDK for Java in PDF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von NUMBERS in PDF ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu PDF werden von unserem Java SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um NUMBERS online in PDF-Dateien zu konvertieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte PDF Ausgabe.
+Das Konvertieren von Dateiformaten von NUMBERS in PDF kann eine komplexe Aufgabe sein. Unser Java SDK verarbeitet alle NUMBERS-Formatkonvertierungen in das PDF-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-NUMBERS-Tabelle bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von NUMBERS-Dateien in PDF-Dateien. Dieses Cloud SDK bietet Java-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PDF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren von NUMBERS in das Format PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel für die Konvertierung von NUMBERS in PDF mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von NUMBERS in PDF ist eine komplexe Aufgabe.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um ZAHLEN in PDF umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Konvertieren von Excel-Dateien in andere Formate. NUMBERS zu PDF" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

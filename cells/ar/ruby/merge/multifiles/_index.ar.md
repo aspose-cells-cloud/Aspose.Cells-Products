@@ -1,27 +1,26 @@
 ﻿---
-title:  دمج Excel عدة ملفات في ملف باستخدام Ruby.
-description:  Cloud APIs & SDKs لدمج ملفات Excel متعددة مع Ruby
-url: /ar/ruby/merge/multi-files/
+title:  دمج ملفات Excel متعددة في ملف واحد باستخدام روبي.
+description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لدمج ملفات Excel المتعددة باستخدام Ruby.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لدمج Excel ملفات متعددة في ملف." h2="مكتبة روبي لدمج Excel ملفات متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في Ruby. يدمج هذا الحل الاحترافي عدة ملفات Excel في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK لروبي لدمج ملفات Excel متعددة في ملف واحد." h2="مكتبة روبي لدمج ملفات Excel متعددة في ملف واحد." p="استخدم Cells Cloud SDK لدمج ملفات Excel المتعددة في ملف واحد في Ruby. يتيح لك هذا الحل الاحترافي دمج عدة ملفات Excel في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="دمج ملفات Excel متعددة في ملف - Ruby REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="دمج ملفات Excel متعددة في ملف واحد باستخدام Cells Cloud SDK لـ Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" %}}
 <br/>
-يعد دمج ملفات Excel متعددة في ملف مهمة معقدة. يتم تنفيذ دمج ملفات Excel المتعددة في انتقالات ملف بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لدمج ملفات Excel متعددة في ملف عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية و API مثاليًا.
+يمكن أن يكون دمج ملفات Excel المتعددة في ملف واحد مهمة معقدة. يتعامل Ruby SDK الخاص بنا مع هذه العملية، مما يضمن الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجداول البيانات المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لدمج ملفات Excel المتعددة في ملف واحد عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Ruby من خلال وظائف قوية وAPI قوي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لدمج عدة ملفات Excel في ملف" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-PostMerge.rb" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في روبي باستخدام REST API لدمج ملفات Excel متعددة في ملف واحد." gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-PostMerge.rb" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API للدمج" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_merge للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية الاستفادة من Cells Cloud SDK لـ Python API للدمج" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_merge` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

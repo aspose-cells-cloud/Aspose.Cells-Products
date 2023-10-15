@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS till PDF Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLS-format till fil i PDF-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLS-format till fil i PDF-format.
 url: /sv/swift/conversion/xls-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

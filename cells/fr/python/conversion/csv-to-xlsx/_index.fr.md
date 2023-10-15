@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV en XLSX Convertir API pour Python
-description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format CSV en fichier au format XLSX.
-url: /fr/python/conversion/csv-to-xlsx/
+title:  Convertissez CSV en XLSX en utilisant Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir un fichier au format CSV en fichier au format XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir CSV en XLSX" h2="bibliothèque Python pour convertir CSV en XLSX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir CSV en XLSX et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/csv-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir CSV en XLSX" h2="Bibliothèque Python pour convertir CSV en XLSX" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Python. Il s\'agit d\'une solution professionnelle pour convertir CSV en XLSX et d\'autres formats de documents en ligne en utilisant le Python." urlsection="conversion/csv-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier CSV en XLSX en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez CSV en XLSX à l\'aide du SDK Cloud Cells pour Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de CSV en XLSX est une tâche complexe. Toutes les transitions de format CSV vers XLSX sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Python est une solution professionnelle pour convertir des fichiers CSV en XLSX en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie XLSX parfaite.
+La conversion des formats de fichiers CSV en XLSX peut être une tâche complexe. Notre SDK Python gère toutes les conversions du format CSV vers XLSX tout en préservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Python fournit une solution professionnelle pour convertir des fichiers CSV en XLSX en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et garantit une sortie XLSX de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour convertir CSV au format XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Exemple de code pour convertir CSV en XLSX à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ La conversion des formats de fichiers de CSV en XLSX est une tâche complexe. To
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour convertir CSV en XLSX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python pour convertir les fichiers Excel vers d\'autres formats CSV en XLSX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

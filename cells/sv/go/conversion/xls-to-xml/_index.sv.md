@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS till XML Konvertera API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera XLS-formatfil till XML-formatfil.
-url: /sv/go/conversion/xls-to-xml/
+title:  Konvertera XLS till XML med Go
+description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en XLS-formatfil till en XML-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att konvertera XLS till XML" h2="Gå till biblioteket för att konvertera XLS till XML" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att konvertera XLS till XML och andra dokumentformat online med Go." urlsection="conversion/xls-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLS till XML" h2="Gå bibliotek för att konvertera XLS till XML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera XLS till XML och andra dokumentformat online med Go." urlsection="conversion/xls-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLS-fil till XML i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLS till XML med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLS till XML är en komplex uppgift. Alla XLS- till XML-formatövergångar utförs av vår Go SDK samtidigt som käll XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att konvertera XLS till XML-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt XML-utdata.
+Att konvertera filformat från XLS till XML kan vara en komplex uppgift. Vår Go SDK hanterar alla konverteringar av XLS till XML-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLS-kalkylblad bevaras. Vårt Go-bibliotek tillhandahåller en professionell lösning för att konvertera XLS till XML-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer XML-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att konvertera XLS till XML-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera XLS till XML med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Att konvertera filformat från XLS till XML är en komplex uppgift. Alla XLS- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att konvertera XLS till XML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Go för att konvertera Excel-filer till andra format XLS till XML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

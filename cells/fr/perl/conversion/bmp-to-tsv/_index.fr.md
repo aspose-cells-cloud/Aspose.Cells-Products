@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP en TSV Convertir API pour Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format BMP en fichier au format TSV.
-url: /fr/perl/conversion/bmp-to-tsv/
+title:  Convertissez BMP en TSV en utilisant Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir un fichier au format BMP en fichier au format TSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir BMP en TSV" h2="bibliothèque Perl pour convertir BMP en TSV" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir BMP en TSV et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/bmp-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir BMP en TSV" h2="Bibliothèque Perl pour convertir BMP en TSV" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Perl. Il s\'agit d\'une solution professionnelle pour convertir BMP en TSV et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/bmp-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier BMP en TSV en Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez BMP en TSV à l\'aide du SDK Cloud Cells pour Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de BMP en TSV est une tâche complexe. Toutes les transitions du format BMP vers le format TSV sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Perl est une solution professionnelle pour convertir en ligne des fichiers BMP en fichiers TSV. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie TSV parfaite.
+La conversion des formats de fichiers de BMP en TSV peut être une tâche complexe. Notre SDK Perl gère toutes les conversions du format BMP au format TSV tout en préservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Perl fournit une solution professionnelle pour convertir en ligne BMP en fichiers TSV. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et garantit une sortie TSV de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour convertir BMP au format TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour convertir BMP en TSV à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ La conversion des formats de fichiers de BMP en TSV est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Perl API pour convertir BMP en TSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Perl pour convertir BMP en TSV" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

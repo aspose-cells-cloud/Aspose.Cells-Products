@@ -1,19 +1,18 @@
 ﻿---
-title:  XLT a JSON Convertir API para Ruby
-description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato XLT a un archivo de formato JSON.
-url: /es/ruby/conversion/xlt-to-json/
+title: Convertir XLT a JSON usando Ruby
+description:  Utilizar el SDK de Cloud Aspose.Cells para Ruby para convertir un archivo de formato XLT a un archivo de formato JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para convertir XLT a JSON" h2="Biblioteca Ruby para convertir XLT a JSON" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para convertir XLT a JSON y otros formatos de documentos en línea usando Ruby." urlsection="conversion/xlt-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLT a JSON" h2="Biblioteca Ruby para convertir XLT a JSON" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Ruby. Esta es una solución profesional para convertir XLT a JSON y otros formatos de documentos en línea usando Ruby." urlsection="conversion/xlt-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLT a JSON en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLT a JSON usando Cells Cloud SDK para Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLT a JSON es una tarea compleja. Todas las transiciones de formato XLT a JSON se realizan mediante nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos XLT a JSON en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida JSON perfecta.
+Convertir formatos de archivo de XLT a JSON puede ser una tarea compleja. Nuestro Ruby SDK maneja todas las conversiones de formato XLT a JSON mientras preserva el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca Ruby proporciona una solución profesional para convertir archivos XLT a JSON en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una potente funcionalidad y garantiza una salida JSON de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir XLT a formato JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Ruby para convertir XLT a JSON usando Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ Convertir formatos de archivo de XLT a JSON es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Ruby API para convertir XLT a JSON" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_libro de trabajo_poner_convertir_método del libro de trabajo para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Ruby para convertir archivos Excel a otros formatos XLT a JSON" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

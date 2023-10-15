@@ -1,19 +1,18 @@
 ﻿---
-title:  تصدير PICTURE إلى TIFF من جدول البيانات باستخدام Python API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/python/export/picture-to-tiff/
+title:  تصدير الصورة إلى TIFF من Excel باستخدام Cells Cloud SDK لـ Python
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتصدير PICTURE إلى ملف TIFF" h2="مكتبة Python لتصدير PICTURE إلى ملف TIFF" p="استخدم Cells Export REST API لتصدير مهام سير عمل العناصر الداخلية لجدول البيانات في Python. هذا حل احترافي لتصدير PICTURE إلى ملف بتنسيق TIFF من جدول بيانات عبر الإنترنت باستخدام Python." urlsection="export/picture-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير الصورة إلى TIFF من Excel" h2="مكتبة Python لتصدير الصور إلى ملف TIFF" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Python. هذا حل احترافي لتصدير PICTURE إلى ملف بتنسيق TIFF من جدول البيانات عبر الإنترنت باستخدام Python." urlsection="export/picture-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف بتنسيق TIFF بتنسيق Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف بتنسيق TIFF باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير عنصر الصورة إلى ملف TIFF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير PICTURE إلى تنسيق TIFF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات PICTURE المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق TIFF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج TIFF مثالي.
+يعد تصدير كائن PICTURE إلى ملف TIFF من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير PICTURE إلى تنسيق TIFF بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE المصدر. تعد مكتبتنا Python حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق TIFF عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج TIFF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتصدير PICTURE إلى تنسيق TIFF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Python باستخدام REST API لتصدير الصورة إلى تنسيق TIFF من جدول البيانات" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,10 +36,10 @@ url: /ar/python/export/picture-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتصدير PICTURE إلى TIFF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتصدير الكائنات من Excel PICTURE إلى TIFF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير SHAPE إلى WMF من جدول البيانات باستخدام Python API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/python/export/shape-to-wmf/
+title:  تصدير SHAPE إلى WMF من Excel باستخدام Cells Cloud SDK لـ Python
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتصدير SHAPE إلى ملف WMF" h2="مكتبة Python لتصدير SHAPE إلى ملف WMF" p="استخدم Cells Export REST API لتصدير مهام سير عمل الكائنات الداخلية لجدول البيانات في Python. هذا حل احترافي لتصدير SHAPE إلى ملف بتنسيق WMF من جدول بيانات عبر الإنترنت باستخدام Python." urlsection="export/shape-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير SHAPE إلى WMF من Excel" h2="مكتبة Python لتصدير SHAPE إلى ملف WMF" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Python. يعد هذا حلاً احترافيًا لتصدير ملف بتنسيق SHAPE إلى WMF من جدول البيانات عبر الإنترنت باستخدام Python." urlsection="export/shape-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف تنسيق WMF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف بتنسيق WMF باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن SHAPE إلى ملف WMF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير SHAPE إلى تنسيق WMF بواسطة Python SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات SHAPE المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق WMF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج WMF مثالي.
+يعد تصدير كائن SHAPE إلى ملف WMF من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى WMF بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SHAPE المصدر. تعد مكتبتنا Python حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Python وظائف قوية ومخرجات WMF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتصدير SHAPE إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Python باستخدام REST API لتصدير SHAPE إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,10 +36,10 @@ url: /ar/python/export/shape-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتصدير SHAPE إلى WMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتصدير الكائنات من Excel SHAPE إلى WMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

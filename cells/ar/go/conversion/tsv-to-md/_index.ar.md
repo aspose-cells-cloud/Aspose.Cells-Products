@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV إلى MD - تحويل API إلى Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق TSV إلى ملف بتنسيق MD.
-url: /ar/go/conversion/tsv-to-md/
+title:  تحويل TSV إلى MD باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق TSV إلى ملف بتنسيق MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل TSV إلى MD" h2="اذهب إلى المكتبة لتحويل TSV إلى MD" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل TSV إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/tsv-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل TSV إلى MD" h2="انتقل إلى المكتبة لتحويل TSV إلى MD" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل TSV إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/tsv-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى MD في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل TSV إلى MD باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TSV إلى MD مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى MD بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى MD عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج MD مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من TSV إلى MD مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات تنسيق TSV إلى MD مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى MD عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من الحصول على وظائف قوية ويضمن مخرجات MD عالية الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل تنسيق TSV إلى MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لتحويل TSV إلى MD باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ url: /ar/go/conversion/tsv-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل TSV إلى MD" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتحويل ملفات Excel إلى تنسيقات أخرى من TSV إلى MD" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

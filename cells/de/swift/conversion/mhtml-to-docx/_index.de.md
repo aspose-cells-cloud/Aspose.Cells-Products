@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML zu DOCX Konvertieren API für Swift
+title: MHTML zu DOCX Konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im MHTML-Format in eine Datei im DOCX-Format.
 url: /de/swift/conversion/mhtml-to-docx/
 ---
@@ -65,7 +65,7 @@ Das Konvertieren von Dateiformaten von MHTML in DOCX ist eine komplexe Aufgabe. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um MHTML in DOCX zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Konvertieren von MHTML in DOCX" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>

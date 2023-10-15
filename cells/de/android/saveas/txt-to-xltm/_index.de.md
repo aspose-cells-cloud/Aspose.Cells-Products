@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie TXT als XLTM API für Android
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Android, um Dateien im TXT-Format als Dateien im XLTM-Format zu speichern.
-url: /de/android/saveas/txt-to-xltm/
+title:  Speichern Sie TXT als XLTM mit Android
+description: Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von TXT-Formatdateien als XLTM-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, um TXT als XLTM zu speichern" h2="Android-Bibliothek zum Speichern von TXT als XLTM" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um TXT als XLTM und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/txt-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TXT als XLTM speichern" h2="Android-Bibliothek zum Speichern von TXT als XLTM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um TXT als XLTM und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/txt-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TXT-Datei als XLTM in Android" >}}
@@ -13,7 +12,7 @@ url: /de/android/saveas/txt-to-xltm/
 Das Speichern von Dateiformaten von TXT als XLTM ist eine komplexe Aufgabe. Alle Übergänge vom TXT- zum XLTM-Format werden von unserem Android SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-TXT-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um TXT als XLTM-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XLTM-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von TXT im XLTM-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von TXT als XLTM mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten von TXT als XLTM ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um TXT als XLTM zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in den anderen Formaten TXT und XLTM zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

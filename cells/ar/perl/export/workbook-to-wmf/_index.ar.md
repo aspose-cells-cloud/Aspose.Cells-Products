@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير كتاب العمل إلى WMF من جدول البيانات باستخدام Perl API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/perl/export/workbook-to-wmf/
+title:  تصدير المصنف إلى WMF من Excel باستخدام Cells Cloud SDK لـ Perl
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتصدير كتاب العمل إلى ملف WMF" h2="مكتبة Perl لتصدير كتاب العمل إلى ملف WMF" p="استخدم Cells Export REST API لتصدير مهام سير عمل الكائنات الداخلية لجدول البيانات في Perl. هذا حل احترافي لتصدير WORKBOOK إلى ملف بتنسيق WMF من جدول بيانات عبر الإنترنت باستخدام Perl." urlsection="export/workbook-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير المصنف إلى WMF من Excel" h2="مكتبة Perl لتصدير المصنف إلى ملف WMF" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Perl. يعد هذا حلاً احترافيًا لتصدير WORKBOOK إلى ملف بتنسيق WMF من جدول البيانات عبر الإنترنت باستخدام Perl." urlsection="export/workbook-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKBOOK إلى ملف بتنسيق WMF في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن المصنف إلى ملف بتنسيق WMF باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKBOOK إلى ملف WMF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKBOOK إلى تنسيق WMF بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لتصدير كائنات كتاب العمل إلى ملفات بتنسيق WMF عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج WMF مثالي.
+يعد تصدير كائن WORKBOOK إلى ملف WMF من ملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير WORKBOOK إلى تنسيق WMF بواسطة Perl SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Perl وظائف قوية ومخرجات WMF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتصدير كتاب العمل إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال للتعليمات البرمجية في Perl باستخدام REST API لتصدير المصنف إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,10 +36,10 @@ url: /ar/perl/export/workbook-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتصدير كتاب العمل إلى WMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لتصدير الكائنات من كتاب العمل Excel إلى WMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

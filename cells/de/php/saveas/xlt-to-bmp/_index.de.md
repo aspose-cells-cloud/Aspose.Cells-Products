@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLT als BMP API für PHP
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im XLT-Format als Datei im Format BMP zu speichern.
-url: /de/php/saveas/xlt-to-bmp/
+title:  Speichern Sie XLT unter BMP mit PHP
+description:  Verwendung des Aspose.Cells Cloud SDK für PHP zum Speichern der XLT-Formatdatei als BMP-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um XLT als BMP zu speichern" h2="PHP-Bibliothek, um XLT als BMP zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um XLT als BMP und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/xlt-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLT unter BMP" h2="PHP-Bibliothek zum Speichern von XLT als BMP" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um XLT als BMP und andere Dokumentformate online unter PHP zu speichern." urlsection="saveas/xlt-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei unter BMP in PHP" >}}
@@ -13,7 +12,7 @@ url: /de/php/saveas/xlt-to-bmp/
 Das Speichern von Dateiformaten aus XLT als BMP ist eine komplexe Aufgabe. Alle XLT-Formatübergänge in das BMP-Format werden von unserem PHP-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um XLT als BMP-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte BMP Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Speichern von XLT im BMP-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel zum Speichern von XLT als BMP mit REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten aus XLT als BMP ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um XLT als BMP zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Excel-Dateien in anderen XLT-Formaten als BMP zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

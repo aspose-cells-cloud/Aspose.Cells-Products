@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSM till PDF Konvertera API for Java
-description:  Använder Aspose.Cells Cloud SDK for Java för att konvertera fil i XLSM-format till fil i PDF-format.
-url: /sv/java/conversion/xlsm-to-pdf/
+title:  Konvertera XLSM till PDF med Java
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera en fil i XLSM-format till en fil i PDF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att konvertera XLSM till PDF" h2="Java bibliotek för att konvertera XLSM till PDF" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Java. Detta är en professionell lösning för att konvertera XLSM till PDF och andra dokumentformat online med Java." urlsection="conversion/xlsm-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLSM till PDF" h2="Java bibliotek för att konvertera XLSM till PDF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java projekt. Detta är en professionell lösning för att konvertera XLSM till PDF och andra dokumentformat online med Java." urlsection="conversion/xlsm-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLSM-fil till PDF i Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLSM till PDF med Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSM till PDF är en komplex uppgift. Alla formatövergångar från XLSM till PDF utförs av vår Java SDK samtidigt som källbladets XLSM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att konvertera XLSM till PDF-filer online. Denna Cloud SDK ger Java-utvecklare kraftfull funktionalitet och perfekt PDF-utdata.
+Att konvertera filformat från XLSM till PDF kan vara en komplicerad uppgift. Vår Java SDK hanterar alla XLSM- till PDF-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLSM-kalkylblad bevaras. Vårt Java-bibliotek tillhandahåller en professionell lösning för att konvertera XLSM-filer till PDF-filer online. Denna Cloud SDK ger Java-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa PDF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att konvertera XLSM till PDF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Kodexempel för att konvertera XLSM till PDF med Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Att konvertera filformat från XLSM till PDF är en komplex uppgift. Alla format
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera XLSM till PDF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att konvertera Excel filer till andra format XLSM till PDF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera ARBETSBOK till SQL från kalkylblad med Python API
+title:  Exportera ARBETSBOK till SQL från Excel med Cells Cloud SDK för Python
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/python/export/workbook-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att exportera ARBETSBOK till SQL-fil" h2="Python bibliotek för att exportera ARBETSBOK till SQL-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i Python. Detta är en professionell lösning för att exportera ARBETSBOK till SQL-formatfil från kalkylblad online med Python." urlsection="export/workbook-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBOK till SQL från Excel" h2="Python-bibliotek för att exportera ARBETSBOK till SQL-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i Python. Detta är en professionell lösning för att exportera ARBETSBOK till SQL-format fil från kalkylblad online med Python." urlsection="export/workbook-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till SQL-formatfil i Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till SQL-formatfil med Cells Cloud SDK för Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKBOOK-objekt till SQL-fil från kalkylblad är en komplex uppgift. Export av WORKBOOK till SQL-formatövergångar utförs av vår Python SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till SQL-formatfiler online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt SQL-utdata.
+Exportera WORKBOOK-objekt till SQL-fil från Excel-filen är en komplex uppgift. Export av WORKBOOK till SQL-formatövergångar utförs av vår Python SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att exportera ARBETSBOK-objekt till SQL-formatfiler online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt SQL-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att exportera ARBETSBOK till SQL-format från kalkylblad" gistPath="" %}}
@@ -37,9 +36,9 @@ Exportera WORKBOOK-objekt till SQL-fil från kalkylblad är en komplex uppgift. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att exportera ARBETSBOK till SQL" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att exportera objekt från Excel WORKBOOK till SQL" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop post_export-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

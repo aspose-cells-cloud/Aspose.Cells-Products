@@ -1,5 +1,5 @@
 ﻿---
-title: Exportieren Sie WORKBOOK aus der Tabelle mit Swift API in TXT
+title:  Exportieren Sie WORKBOOK aus der Tabelle mit Swift API in TXT
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/workbook-to-txt/
 ---

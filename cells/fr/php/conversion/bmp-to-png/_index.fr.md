@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP à PNG Convertir API pour PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format BMP en fichier au format PNG.
-url: /fr/php/conversion/bmp-to-png/
+title:  Convertissez BMP en PNG en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir un fichier au format BMP en fichier au format PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir BMP en PNG" h2="Bibliothèque PHP pour convertir BMP en PNG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir BMP en PNG et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/bmp-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir BMP en PNG" h2="Bibliothèque PHP pour convertir BMP en PNG" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets PHP. Il s\'agit d\'une solution professionnelle pour convertir BMP en PNG et d\'autres formats de documents en ligne en utilisant PHP." urlsection="conversion/bmp-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier BMP en PNG en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez BMP en PNG à l\'aide du SDK Cloud Cells pour PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de BMP à PNG est une tâche complexe. Toutes les transitions de format BMP à PNG sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque PHP est une solution professionnelle pour convertir les fichiers BMP en PNG en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie PNG parfaite.
+La conversion des formats de fichiers de BMP à PNG peut être une tâche complexe. Notre SDK PHP gère toutes les conversions du format BMP vers PNG tout en préservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque PHP fournit une solution professionnelle pour convertir les fichiers BMP en PNG en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et garantit une sortie PNG de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour convertir BMP au format PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour convertir BMP en PNG à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ La conversion des formats de fichiers de BMP à PNG est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour convertir BMP en PNG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP afin de convertir les fichiers Excel vers d\'autres formats BMP en PNG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkBook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

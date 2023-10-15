@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLSM в MD API для Python
-description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLSM в файл формата MD.
-url: /ru/python/conversion/xlsm-to-md/
+title:  Преобразуйте XLSM в MD, используя Python.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата XLSM в файл формата MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLSM в MD" h2="Python библиотека для преобразования XLSM в MD" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLSM в MD и другие форматы документов с использованием Python." urlsection="conversion/xlsm-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLSM в MD" h2="Python библиотека для конвертации XLSM в MD" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертирования XLSM в MD и другие форматы документов с помощью номера Python." urlsection="conversion/xlsm-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в MD в Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XLSM в MD с помощью Cloud SDK Cells для Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в MD — сложная задача. Все переходы от формата XLSM к формату MD выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSM в MD. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод MD.
+Преобразование форматов файлов из XLSM в MD может оказаться сложной задачей. Наш SDK Python обрабатывает все преобразования формата XLSM в MD, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Python предоставляет профессиональное решение для онлайн-конвертирования файлов XLSM в файлы MD. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и обеспечивает высококачественный вывод MD.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLSM в формат MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для преобразования XLSM в MD с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ru/python/conversion/xlsm-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для преобразования XLSM в MD" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python для преобразования файлов Excel в другие форматы XLSM в MD" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

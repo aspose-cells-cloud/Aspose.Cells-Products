@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ JSON باسم TXT API من أجل Ruby
+title:  احفظ JSON بتنسيق TXT باستخدام Ruby
 description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق JSON كملف بتنسيق TXT.
-url: /ar/ruby/saveas/json-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لحفظ JSON كـ TXT" h2="مكتبة Ruby لحفظ JSON كـ TXT" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لحفظ JSON بتنسيق TXT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/json-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ JSON بصيغة TXT" h2="مكتبة روبي لحفظ JSON بصيغة TXT" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Ruby. يعد هذا حلاً احترافيًا لحفظ JSON بتنسيق TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/json-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON بتنسيق TXT في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JSON مثل TXT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى TXT بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ JSON كملفات TXT عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج TXT مثالي.
+يعد حفظ تنسيقات الملفات من JSON بتنسيق TXT مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق JSON إلى TXT بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ JSON كملفات TXT عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج TXT مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ JSON بتنسيق TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لحفظ JSON كـ TXT باستخدام REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /ar/ruby/saveas/json-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لحفظ JSON بتنسيق TXT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لحفظ ملفات Excel بتنسيقات أخرى JSON مثل TXT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

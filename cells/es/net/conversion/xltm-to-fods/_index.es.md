@@ -1,19 +1,18 @@
 ﻿---
-title:  XLTM a FODS Convertir API para C#
-description: Usando Aspose.Cells Cloud SDK para C# para convertir un archivo de formato XLTM a un archivo de formato FODS.
-url: /es/net/conversion/xltm-to-fods/
+title:  Convierta XLTM a FODS usando C#
+description:  Utilizar el SDK de la nube Aspose.Cells para C# para convertir un archivo de formato XLTM a un archivo de formato FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API para convertir XLTM a FODS" h2="C# biblioteca para convertir XLTM a FODS" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Net. Esta es una solución profesional para convertir XLTM a FODS y otros formatos de documentos en línea usando C#." urlsection="conversion/xltm-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLTM a FODS" h2="Biblioteca C# para convertir XLTM a FODS" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Net. Esta es una solución profesional para convertir XLTM a FODS y otros formatos de documentos en línea usando C#." urlsection="conversion/xltm-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLTM a FODS en C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLTM a FODS usando Cells Cloud SDK para C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLTM a FODS es una tarea compleja. Todas las transiciones de formato XLTM a FODS se realizan mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTM de origen. Nuestra biblioteca C# es una solución profesional para convertir archivos XLTM a FODS en línea. Este SDK de la nube brinda a los desarrolladores de C# una funcionalidad poderosa y una salida FODS perfecta.
+Convertir formatos de archivo de XLTM a FODS puede ser una tarea compleja. Nuestro SDK C# maneja todas las conversiones de formato XLTM a FODS al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo XLTM de origen. Nuestra biblioteca C# proporciona una solución profesional para convertir archivos XLTM a FODS en línea. Este SDK de nube brinda a los desarrolladores C# una potente funcionalidad y garantiza resultados FODS de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en C# usando REST API para convertir XLTM a formato FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Ejemplo de código para convertir XLTM a FODS usando Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ Convertir formatos de archivo de XLTM a FODS es una tarea compleja. Todas las tr
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar C# API para convertir XLTM a FODS" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Net para convertir archivos Excel a otros formatos XLTM a FODS" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>NET Framework 4.5.2 o más reciente</li>
-<li>Net Standard 2.0 o más reciente</li>
+<li>Net Standard 2.0 o posterior</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

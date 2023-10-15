@@ -1,19 +1,19 @@
 ﻿---
 title:  احفظ SXC كـ SQL API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق SXC كملف بتنسيق SQL.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق SXC كملف تنسيق SQL.
 url: /ar/swift/saveas/sxc-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ SXC كـ SQL" h2="مكتبة سريعة لحفظ SXC كـ SQL" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ SXC كـ SQL وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/sxc-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ SXC كـ SQL" h2="مكتبة سويفت لحفظ SXC كـ SQL" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ SXC بتنسيق SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/sxc-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC كملف SQL في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC بتنسيق SQL في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من SXC مثل SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى SQL بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ SXC كملفات SQL عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج SQL مثالي.
+يعد حفظ تنسيقات الملفات من SXC بتنسيق SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى SQL بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ SXC كملفات SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات SQL مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ SXC كتنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لحفظ SXC بتنسيق SQL" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,15 +54,15 @@ url: /ar/swift/saveas/sxc-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ SXC كـ SQL" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ SXC بتنسيق SQL" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

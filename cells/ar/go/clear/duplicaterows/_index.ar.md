@@ -1,32 +1,31 @@
 ﻿---
-title: امسح الصفوف المكررة في المصنف المحلي باستخدام Go in Cloud
-description:  Cloud APIs & SDKs لمسح الصفوف المكررة على Microsoft Excel & OpenOffice Calc with Go. امسح الصفوف المكررة في جداول البيانات المحلية بواسطة Cells Cloud API SDK for Go
-url: /ar/go/clear/duplicate-rows/
+title:  قم بإزالة الصفوف المكررة من المصنف المحلي باستخدام Go ضمن بيئة السحابة Aspose Cells.
+description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الصفوف المكررة في Microsoft Excel وOpenOffice Calc باستخدام Go. امسح الصفوف المكررة في جداول البيانات المحلية باستخدام Cells Cloud SDK for Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل API لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="انتقل مسح لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصفوف المكررة على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Go. يقوم هذا الحل الاحترافي بمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/Duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الصفوف المكررة في جداول بيانات Microsoft Excel المحلية وOpenOffice Calc." h2="انتقل إلى المكتبة لإزالة الصفوف المكررة من Microsoft Excel وجداول بيانات OpenOffice Calc المحلية." p="استخدم Cells Clear REST API لإزالة الصفوف المكررة من Microsoft المحلية وجداول بيانات OpenOffice Calc ضمن سير عمل Go. يقوم هذا الحل الاحترافي بمسح الصفوف المكررة بكفاءة من Microsoft Excel وجداول بيانات OpenOffice Calc المحلية باستخدام Go." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Go REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الصفوف المكررة في Microsoft Excel وجداول بيانات OpenOffice Calc المحلية باستخدام Cells Cloud SDK for Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. مسح الصفوف المكررة في Microsoft Excel المحلي و OpenOffice Calc يتم تنفيذ انتقالات جداول البيانات بواسطة Go SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لمسح الصفوف المكررة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية و API مثالي.
+يعد مسح الصفوف المكررة من Microsoft Excel وجداول بيانات OpenOffice Calc المحلية أمرًا معقدًا، ويتعامل Cells Cloud SDK for Go مع هذا الانتقال مع الحفاظ على المحتوى الهيكلي والمنطقي لجدول البيانات المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لمسح الصفوف المكررة بكفاءة عبر الإنترنت في Microsoft Excel وجداول بيانات OpenOffice Calc المحلية. يعمل Cloud SDK على تمكين مطوري Go من خلال وظائف قوية وAPI قوي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="انتقل إلى رمز لمسح الصفوف المكررة في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-DuplicateRows.go" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى الكود لمسح الصفوف المكررة في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-DuplicateRows.go" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام Go API لمسح الصفوف المكررة" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة PostClearObjects للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لمسح الصفوف المكررة" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostClearObjects` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

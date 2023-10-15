@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ SXC كـ XML API لـ Python
+title:  احفظ SXC بتنسيق XML باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق SXC كملف بتنسيق XML.
-url: /ar/python/saveas/sxc-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ SXC على هيئة XML" h2="مكتبة Python لحفظ SXC كـ XML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ SXC على هيئة XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/sxc-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ SXC بتنسيق XML" h2="مكتبة Python لحفظ SXC بصيغة XML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ SXC بتنسيق XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/sxc-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC بتنسيق XML في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من SXC كـ XML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى XML بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لحفظ SXC كملفات XML عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XML مثالي.
+يعد حفظ تنسيقات الملفات من SXC بتنسيق XML مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق SXC إلى XML بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ SXC كملفات XML عبر الإنترنت. يوفر Cloud SDK لمطوري Python وظائف قوية ومخرجات XML مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ SXC كتنسيق XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ SXC كـ XML باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/sxc-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ SXC على هيئة XML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى SXC كـ XML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

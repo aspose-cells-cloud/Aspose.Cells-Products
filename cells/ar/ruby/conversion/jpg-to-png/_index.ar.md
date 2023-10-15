@@ -1,19 +1,18 @@
 ﻿---
-title:  JPG إلى PNG تحويل API لروبي
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق JPG إلى ملف بتنسيق PNG.
-url: /ar/ruby/conversion/jpg-to-png/
+title:  تحويل JPG إلى PNG باستخدام روبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف بتنسيق JPG إلى ملف بتنسيق PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لتحويل JPG إلى PNG" h2="مكتبة روبي لتحويل JPG إلى PNG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لتحويل JPG إلى PNG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/jpg-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل JPG إلى PNG" h2="مكتبة روبي لتحويل JPG إلى PNG" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Ruby. يعد هذا حلاً احترافيًا لتحويل JPG إلى PNG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/jpg-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JPG إلى PNG في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل JPG إلى PNG باستخدام Cells Cloud SDK لروبي" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JPG إلى PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى PNG بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات JPG إلى PNG عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج PNG مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من JPG إلى PNG مهمة معقدة. يتعامل Ruby SDK الخاص بنا مع جميع تحويلات تنسيق JPG إلى PNG مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JPG المصدر. توفر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات JPG إلى ملفات PNG عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Ruby من خلال وظائف قوية ويضمن إخراج PNG عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل JPG إلى تنسيق PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز روبي لتحويل JPG إلى PNG باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ar/ruby/conversion/jpg-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتحويل JPG إلى PNG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتحويل ملفات Excel إلى تنسيقات أخرى JPG إلى PNG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

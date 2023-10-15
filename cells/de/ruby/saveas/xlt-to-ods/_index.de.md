@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLT als ODS API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern von XLT-Formatdateien als ODS-Formatdateien.
-url: /de/ruby/saveas/xlt-to-ods/
+title:  Speichern Sie XLT als ODS mit Ruby
+description:  Verwendung von Aspose.Cells Cloud SDK für Ruby zum Speichern von XLT-Formatdateien als ODS-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Speichern von XLT als ODS" h2="Ruby-Bibliothek zum Speichern von XLT als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLT als ODS und anderen Dokumentformaten mit Ruby." urlsection="saveas/xlt-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLT als ODS speichern" h2="Ruby-Bibliothek zum Speichern von XLT als ODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLT als ODS und anderen Dokumentformaten mit Ruby." urlsection="saveas/xlt-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als ODS in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/xlt-to-ods/
 Das Speichern von Dateiformaten von XLT als ODS ist eine komplexe Aufgabe. Alle XLT-zu-ODS-Formatübergänge werden von unserem Ruby SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLT-Quelltabelle erhalten bleiben. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um XLT als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von XLT als ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von XLT als ODS mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten von XLT als ODS ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um XLT als ODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in anderen Formaten, XLT und ODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title: XLSX till XML Konvertera API för C#
-description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera XLSX-formatfil till XML-formatfil.
-url: /sv/net/conversion/xlsx-to-xml/
+title:  Konvertera XLSX till XML med C#
+description: Använda Aspose.Cells Cloud SDK för C# för att konvertera en fil i XLSX-format till en fil i XML-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att konvertera XLSX till XML" h2="C# bibliotek för att konvertera XLSX till XML" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Net. Detta är en professionell lösning för att konvertera XLSX till XML och andra dokumentformat online med C#." urlsection="conversion/xlsx-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLSX till XML" h2="C# bibliotek för att konvertera XLSX till XML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera XLSX till XML och andra dokumentformat online med C#." urlsection="conversion/xlsx-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLSX-fil till XML i C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLSX till XML med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSX till XML är en komplex uppgift. Alla XLSX- till XML-formatövergångar utförs av vår C# SDK samtidigt som källbladets XLSX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att konvertera XLSX till XML-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt XML-utdata.
+Att konvertera filformat från XLSX till XML kan vara en komplex uppgift. Vår C# SDK hanterar alla konverteringar av XLSX till XML-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLSX-kalkylblad bevaras. Vårt C#-bibliotek tillhandahåller en professionell lösning för att konvertera XLSX till XML-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och säkerställer XML-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att konvertera XLSX till XML-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kodexempel för att konvertera XLSX till XML med Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ Att konvertera filformat från XLSX till XML är en komplex uppgift. Alla XLSX- 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att konvertera XLSX till XML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att konvertera Excel-filer till andra format XLSX till XML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

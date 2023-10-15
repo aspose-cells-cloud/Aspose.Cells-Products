@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспортируйте SHAPE в JPG из электронной таблицы, используя PHP API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/php/export/shape-to-jpg/
+title:  Экспортируйте SHAPE в JPG из Excel с помощью Cloud SDK Cells для PHP.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для экспорта SHAPE в файл JPG" h2="PHP библиотека для экспорта SHAPE в файл JPG" p="Используйте Cells Экспорт REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в PHP. Это профессиональное решение для экспорта файла формата SHAPE в файл формата JPG из электронной таблицы онлайн с использованием PHP." urlsection="export/shape-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт SHAPE в JPG из Excel" h2="PHP библиотека для экспорта SHAPE в файл JPG" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в PHP. Это профессиональное решение для экспорта файла формата SHAPE в JPG из электронной таблицы онлайн с использованием PHP." urlsection="export/shape-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта SHAPE в файл формата JPG в PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект SHAPE в файл формата JPG с помощью Cells Cloud SDK для PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта SHAPE в файл JPG из электронной таблицы является сложной задачей. Экспорт переходов SHAPE в формат JPG выполняется нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы SHAPE. Наша библиотека PHP — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата JPG. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Экспорт объекта SHAPE в файл JPG из файла Excel — сложная задача. Экспорт переходов формата SHAPE в JPG выполняется с помощью нашего SDK PHP с сохранением основного структурного и логического содержимого исходной таблицы SHAPE. Наша библиотека PHP — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата JPG. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для экспорта SHAPE в формат JPG из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода PHP с использованием REST API для экспорта SHAPE в формат JPG из электронной таблицы." gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ru/php/export/shape-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для экспорта SHAPE в JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для экспорта объектов из Excel SHAPE в JPG." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

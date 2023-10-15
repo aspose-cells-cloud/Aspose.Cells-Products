@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP in JPG Konvertieren Sie API für Android
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im BMP-Format in eine JPG-Formatdatei zu konvertieren.
-url: /de/android/conversion/bmp-to-jpg/
+title:  Konvertieren Sie BMP mit Android in JPG
+description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im Format BMP in eine Datei im JPG-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von BMP in JPG" h2="Android-Bibliothek zum Konvertieren von BMP in JPG" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von BMP in JPG und andere Dokumentformate mit Android." urlsection="conversion/bmp-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie BMP in JPG" h2="Android-Bibliothek zum Konvertieren von BMP in JPG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von BMP in JPG und andere Dokumentformate mit Android." urlsection="conversion/bmp-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in JPG in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie BMP mit dem Cells Cloud SDK für Android in JPG" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von BMP in JPG ist eine komplexe Aufgabe. Alle Übergänge vom BMP- zum JPG-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um BMP online in JPG-Dateien zu konvertieren. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte JPG-Ausgabe.
+Das Konvertieren von Dateiformaten von BMP in JPG kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle Konvertierungen von BMP in das JPG-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle BMP bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von BMP in JPG-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige JPG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Konvertieren von BMP in das JPG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel für die Konvertierung von BMP in JPG mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von BMP in JPG ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um BMP in JPG zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android zum Konvertieren von Excel-Dateien in andere Formate BMP in JPG" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

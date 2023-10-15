@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS in PNG Konvertieren Sie API in Perl
-description:  Verwenden des Cloud SDK Aspose.Cells für Perl zum Konvertieren der ODS-Formatdatei in die Formatdatei PNG.
-url: /de/perl/conversion/ods-to-png/
+title:  Konvertieren Sie ODS mit Perl in PNG
+description:  Verwendung des Aspose.Cells Cloud SDK für Perl zum Konvertieren einer Datei im ODS-Format in eine Datei im PNG-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um ODS in PNG umzuwandeln" h2="Perl-Bibliothek zum Konvertieren von ODS in PNG" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um ODS in PNG und andere Dokumentformate online mit Perl zu konvertieren." urlsection="conversion/ods-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie ODS in PNG" h2="Perl-Bibliothek zur Konvertierung von ODS in PNG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in PNG und andere Dokumentformate unter Verwendung von Perl." urlsection="conversion/ods-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine ODS-Datei in PNG in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie ODS in PNG mit dem Cloud SDK Cells für Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS in PNG ist eine komplexe Aufgabe. Alle ODS-Formatübergänge in das PNG-Format werden von unserem Perl-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von ODS- in PNG-Dateien. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in PNG kann eine komplexe Aufgabe sein. Unser Perl SDK übernimmt alle Konvertierungen von ODS in das PNG-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-ODS-Tabelle bei. Unsere Perl-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS- in PNG-Dateien. Dieses Cloud SDK bietet Perl-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PNG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von ODS in das PNG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel für die Konvertierung von ODS in PNG mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Das Konvertieren von Dateiformaten von ODS in PNG ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um ODS in PNG zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Perl SDK, um ODS in PNG zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

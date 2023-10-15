@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva XLTX come HTML API per Go
-description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato XLTX come file in formato HTML.
-url: /it/go/saveas/xltx-to-html/
+title:  Salva XLTX come HTML utilizzando Go
+description:  Utilizzando Aspose.Cells Cloud SDK per Go per salvare il file in formato XLTX come file in formato HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per salvare XLTX come HTML" h2="Vai alla libreria per salvare XLTX come HTML" p="Utilizza Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per salvare XLTX come HTML e altri formati di documenti online utilizzando Go." urlsection="saveas/xltx-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLTX come HTML" h2="Vai alla libreria per salvare XLTX come HTML" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Go. Questa è una soluzione professionale per salvare XLTX come HTML e altri formati di documenti online utilizzando Go." urlsection="saveas/xltx-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLTX come HTML in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLTX come HTML è un compito complesso. Tutte le transizioni di formato da XLTX a HTML vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTX di origine. La nostra libreria Go è una soluzione professionale per salvare XLTX come file HTML online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output HTML perfetto.
+Salvare i formati di file da XLTX come HTML è un compito complesso. Tutte le transizioni dal formato XLTX al formato HTML vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTX di origine. La nostra libreria Go è una soluzione professionale per salvare online XLTX come file HTML. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e un output HTML perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per salvare XLTX come formato HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Esempio per salvare XLTX come HTML utilizzando REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Salvare i formati di file da XLTX come HTML è un compito complesso. Tutte le tr
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per salvare XLTX come HTML" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiamare il metodo CellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per salvare i file Excel in altri formati XLTX come HTML" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PostWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

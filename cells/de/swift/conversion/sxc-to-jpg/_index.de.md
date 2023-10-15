@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC in JPG Konvertieren Sie API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im SXC-Format in eine JPG-Formatdatei zu konvertieren.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im SXC-Format in eine JPG-Formatdatei zu konvertieren.
 url: /de/swift/conversion/sxc-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

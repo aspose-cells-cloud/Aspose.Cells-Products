@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB zu XML Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine XML-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine XML-Formatdatei.
 url: /de/swift/conversion/xlsb-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

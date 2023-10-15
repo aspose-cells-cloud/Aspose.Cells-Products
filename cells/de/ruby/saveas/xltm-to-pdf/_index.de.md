@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLTM unter PDF API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern der XLTM-Formatdatei als PDF-Formatdatei.
-url: /de/ruby/saveas/xltm-to-pdf/
+title:  Speichern Sie XLTM unter PDF mit Ruby
+description:  Verwendung des Cloud SDK Aspose.Cells für Ruby zum Speichern der Datei im XLTM-Format als Datei im Format PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um XLTM als PDF zu speichern" h2="Ruby-Bibliothek zum Speichern von XLTM als PDF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um XLTM als PDF und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/xltm-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLTM unter PDF" h2="Ruby-Bibliothek zum Speichern von XLTM als PDF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um XLTM als PDF und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/xltm-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTM-Datei unter dem Namen PDF in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/xltm-to-pdf/
 Das Speichern von Dateiformaten aus XLTM als PDF ist eine komplexe Aufgabe. Alle XLTM-Formatübergänge in das PDF-Format werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLTM-Dateien im Format PDF. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und eine perfekte PDF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von XLTM im Format PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von XLTM als PDF unter Verwendung von REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten aus XLTM als PDF ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um XLTM als PDF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in anderen XLTM-Formaten als PDF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

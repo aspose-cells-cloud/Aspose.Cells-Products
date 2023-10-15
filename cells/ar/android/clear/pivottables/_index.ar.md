@@ -1,16 +1,15 @@
 ﻿---
-title:  امسح الجداول المحورية في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح الجداول المحورية على Microsoft Excel & OpenOffice Calc. امسح الجداول المحورية في جداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
-url: /ar/android/clear/pivot-tables/
+title:  مسح الجداول المحورية في المصنف المحلي في السحابة
+description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الجداول المحورية على Microsoft Excel وOpenOffice Calc. مسح الجداول المحورية في جداول البيانات المحلية بواسطة Cells Cloud API. يدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح الجداول المحورية في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. يقوم هذا الحل الاحترافي بمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الجداول المحورية على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الجداول المحورية على Microsoft المحلية وExcel وسير عمل جداول بيانات OpenOffice Calc في Android. يقوم هذا الحل الاحترافي بمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Android REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الجداول المحورية على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc - Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. يتم إجراء عمليات نقل جداول البيانات المحورية على Microsoft Excel المحلي و OpenOffice Calc بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لمسح الجداول المحورية على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية و API مثاليًا.
+يعد مسح الجداول المحورية على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc مهمة معقدة. يتم إجراء مسح الجداول المحورية على Microsoft Excel المحلي وانتقالات جداول بيانات OpenOffice Calc بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وAPI مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="كود Android لمسح الجداول المحورية في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Clear-PivotTable.java" %}}
@@ -18,16 +17,16 @@ url: /ar/android/clear/pivot-tables/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام Java API لمسح الجداول المحورية" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postClearObjects للحصول على التدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لمسح الجداول المحورية" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة postClearObjects للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

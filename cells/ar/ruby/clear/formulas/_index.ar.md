@@ -1,27 +1,26 @@
 ﻿---
-title:  امسح الصيغ في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح الصيغ على Microsoft Excel & OpenOffice Calc. امسح المعادلات على جداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
-url: /ar/ruby/clear/formulas/
+title:  مسح الصيغ في المصنف المحلي في السحابة
+description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الصيغ على Microsoft Excel وOpenOffice Calc. مسح الصيغ على جداول البيانات المحلية بواسطة Cells Cloud API. يدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح الصيغ على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="روبي مسح لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصيغ في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. هذا الحل الاحترافي معادلات واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="قم بإزالة الصيغ على الرقم المحلي Microsoft Excel وجدول بيانات OpenOffice Calc" h2="Ruby Clear لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصيغ في سير عمل Microsoft المحلي Excel وOpenOffice Calc في Ruby. يقوم هذا الحل الاحترافي بمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Ruby REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصيغ على الرقم المحلي Microsoft Excel وجدول بيانات OpenOffice Calc - Ruby REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح المعادلات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. يتم إجراء تحولات جداول البيانات على Microsoft Excel و OpenOffice Calc المحلي بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لمسح الصيغ على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية و API مثاليًا.
+يعد مسح الصيغ على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc مهمة معقدة. يتم إجراء مسح الصيغ على Microsoft Excel المحلي وانتقالات جدول بيانات OpenOffice Calc بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وAPI مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="كود روبي لمسح الصيغ في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Clear-Formula.rb" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="رمز روبي لمسح الصيغ في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Clear-Formula.rb" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام Ruby API لمسح الصيغ" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>آخر اتصال_واضح_طريقة الكائنات للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لروبي لمسح الصيغ" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>اتصل بالبريد_واضح_طريقة الكائنات للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

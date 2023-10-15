@@ -1,19 +1,18 @@
 ﻿---
-title:  الأرقام إلى SQL - تحويل API إلى Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق SQL.
-url: /ar/go/conversion/numbers-to-sql/
+title:  تحويل NUMBERS إلى SQL باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لتحويل الأرقام إلى SQL" h2="انتقل إلى المكتبة لتحويل NUMBERS إلى SQL" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل الأرقام إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى SQL" h2="انتقل إلى المكتبة لتحويل الأرقام إلى SQL" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف NUMBERS إلى SQL في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل NUMBERS إلى SQL باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق الأرقام إلى SQL بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات الأرقام. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل الأرقام إلى ملفات SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Go وظائف قوية وإخراج SQL مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من NUMBERS إلى SQL مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى SQL مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل NUMBERS إلى ملفات SQL عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من الحصول على وظائف قوية ويضمن إخراج SQL عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتحويل الأرقام إلى تنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="انتقل إلى مثال التعليمات البرمجية لتحويل NUMBERS إلى SQL باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ url: /ar/go/conversion/numbers-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل الأرقام إلى SQL" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتحويل ملفات Excel إلى تنسيقات أخرى NUMBERS إلى SQL" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

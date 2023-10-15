@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara CSV som XLSM API för Python
+title:  Spara CSV som XLSM med Python
 description:  Använder Aspose.Cells Cloud SDK för Python för att spara CSV-formatfil som XLSM-formatfil.
-url: /sv/python/saveas/csv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att spara CSV som XLSM" h2="Python bibliotek för att spara CSV som XLSM" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att spara CSV som XLSM och andra dokumentformat online med Python." urlsection="saveas/csv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara CSV som XLSM" h2="Python bibliotek för att spara CSV som XLSM" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python. Detta är en professionell lösning för att spara CSV som XLSM och andra dokumentformat online med Python." urlsection="saveas/csv-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en CSV-fil som XLSM i Python" >}}
@@ -13,7 +12,7 @@ url: /sv/python/saveas/csv-to-xlsm/
 Att spara filformat från CSV som XLSM är en komplex uppgift. Alla CSV- till XLSM-formatövergångar utförs av vår Python SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att spara CSV som XLSM-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt XLSM-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att spara CSV som XLSM-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att spara CSV som XLSM med REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Att spara filformat från CSV som XLSM är en komplex uppgift. Alla CSV- till XL
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att spara CSV som XLSM" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att spara Excel filer som andra format CSV som XLSM" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

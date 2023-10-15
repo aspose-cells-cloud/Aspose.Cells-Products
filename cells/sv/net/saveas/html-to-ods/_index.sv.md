@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara HTML som ODS API för C#
+title:  Spara HTML som ODS med C#
 description:  Använder Aspose.Cells Cloud SDK för C# för att spara HTML filformat som ODS-formatfil.
-url: /sv/net/saveas/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att spara HTML som ODS" h2="C# bibliotek för att spara HTML som ODS" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara HTML som ODS och andra dokumentformat online med C#." urlsection="saveas/html-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara HTML som ODS" h2="C# bibliotek för att spara HTML som ODS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara HTML som ODS och andra dokumentformat online med C#." urlsection="saveas/html-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en HTML-fil som ODS i C#" >}}
@@ -13,7 +12,7 @@ url: /sv/net/saveas/html-to-ods/
 Att spara filformat från HTML som ODS är en komplex uppgift. Alla HTML- till ODS-formatövergångar utförs av vår C# SDK samtidigt som källbladets HTML kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att spara HTML som ODS-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt ODS-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att spara HTML som ODS-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kod Exempel för att spara HTML som ODS med REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Att spara filformat från HTML som ODS är en komplex uppgift. Alla HTML- till O
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att spara HTML som ODS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att spara Excel filer som andra format HTML som ODS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

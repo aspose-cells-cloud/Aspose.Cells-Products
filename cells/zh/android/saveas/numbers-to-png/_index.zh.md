@@ -1,10 +1,9 @@
 ﻿---
-title: 将号码另存为 PNG API（适用于 Android）
-description: 使用Aspose.Cells Cloud SDK for Android将NUMBERS格式文件保存为PNG格式文件。
-url: /zh/android/saveas/numbers-to-png/
+title: 使用 Android 将数字另存为 PNG
+description: 利用Aspose.Cells Cloud SDK for Android将NUMBERS格式文件保存为PNG格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将数字保存为 PNG" h2="Android 库将 NUMBERS 保存为 PNG" p="使用 Cells SaveAs REST API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 NUMBERS 保存为 PNG 和其他文档格式的专业解决方案。" urlsection="saveas/numbers-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将号码另存为 PNG" h2="用于将 NUMBERS 保存为 PNG 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 NUMBERS 保存为 PNG 和其他文档格式的专业解决方案。" urlsection="saveas/numbers-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Android 中将 NUMBERS 文件另存为 PNG" >}}
@@ -13,7 +12,7 @@ url: /zh/android/saveas/numbers-to-png/
 将 NUMBERS 中的文件格式保存为 PNG 是一项复杂的任务。所有 NUMBERS 到 PNG 的格式转换均由我们的 Android SDK 执行，同时保留源 NUMBERS 电子表格的主要结构和逻辑内容。我们的 Android 库是一个专业的解决方案，可以在线将数字保存为 PNG 文件。此Cloud SDK为Android开发者提供了强大的功能和完美的PNG输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Android 中使用 REST API 将 NUMBERS 保存为 PNG 格式的代码示例" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="使用 REST API 将 NUMBERS 保存为 PNG 的 Android 代码示例" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ url: /zh/android/saveas/numbers-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Java API 将数字另存为 PNG" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 cellsSaveAsPostDocumentSaveAs 方法来获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Android将Excel文件保存为其他格式NUMBERS为PNG" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `postWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

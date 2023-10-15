@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ SXC باسم DOCX API لنظام Android
+title:  احفظ SXC كـ DOCX باستخدام Android
 description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق SXC كملف بتنسيق DOCX.
-url: /ar/android/saveas/sxc-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ SXC كـ DOCX" h2="مكتبة Android لحفظ SXC كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ SXC بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/sxc-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ SXC بصيغة DOCX" h2="مكتبة Android لحفظ SXC بصيغة DOCX" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ SXC بتنسيق DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/sxc-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC باسم DOCX في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC بتنسيق DOCX في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من SXC كـ DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى DOCX بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة Android الخاصة بنا هي حل احترافي لحفظ SXC كملفات DOCX عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج DOCX مثالي.
+يعد حفظ تنسيقات الملفات من SXC بصيغة DOCX مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق SXC إلى DOCX بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ SXC كملفات DOCX عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات DOCX مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ SXC بتنسيق DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لحفظ SXC كـ DOCX باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ url: /ar/android/saveas/sxc-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ SXC بتنسيق DOCX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى مثل SXC مثل DOCX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

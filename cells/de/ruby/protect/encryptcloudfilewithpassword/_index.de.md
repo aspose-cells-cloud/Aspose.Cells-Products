@@ -1,7 +1,6 @@
 ﻿---
 title:  Verschlüsseln Sie die Cloud-Tabelle mit einem Passwort in der Cloud
 description: Cloud-APIs und SDKs zum Schutz von Microsoft Excel und OpenOffice Calc. Verschlüsseln Sie die Cloud-Tabelle mit dem Passwort Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/ruby/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Schutz der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" h2="Ruby-Bibliothek zum Schutz der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Protect REST API, um die Cloud Microsoft Excel und die OpenOffice Calc-Tabelle mit Passwort-Workflows in Ruby zu schützen. Diese professionelle Lösung schützt Cloud Microsoft Excel und OpenOffice Calc-Tabellen online mit Passwörtern unter Verwendung von Ruby." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
@@ -18,7 +17,7 @@ Der Schutz einer Cloud-Tabelle mit einem Passwort ist eine komplexe Aufgabe. Der
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Ruby API zum Verschlüsseln" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby zum Verschlüsseln der Excel-Datei" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufzellen_Arbeitsmappe_Post_Verschlüsseln_document-Methode, um den resultierenden Stream zu erhalten</li>

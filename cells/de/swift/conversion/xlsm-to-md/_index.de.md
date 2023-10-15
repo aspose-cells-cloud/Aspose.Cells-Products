@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSM zu MD Konvertieren API für Swift
+title: XLSM zu MD Konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine MD-Formatdatei.
 url: /de/swift/conversion/xlsm-to-md/
 ---

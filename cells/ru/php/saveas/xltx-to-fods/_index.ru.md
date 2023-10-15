@@ -1,19 +1,18 @@
 ﻿---
-title: Сохранить XLTX как FODS API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLTX в качестве файла формата FODS.
-url: /ru/php/saveas/xltx-to-fods/
+title: Сохраните XLTX как FODS, используя PHP.
+description:  Использование Cloud SDK Aspose.Cells для PHP для сохранения файла формата XLTX как файла формата FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить XLTX как FODS" h2="PHP библиотека для сохранения XLTX как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения XLTX в виде FODS и других форматов документов в Интернете с использованием PHP." urlsection="saveas/xltx-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLTX как FODS" h2="PHP библиотека для сохранения XLTX как FODS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения XLTX в формате FODS и других форматов документов в Интернете с помощью PHP." urlsection="saveas/xltx-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как FODS по адресу PHP." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как FODS по номеру PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в виде FODS — сложная задача. Все переходы от формата XLTX к формату FODS выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека PHP — это профессиональное решение для сохранения XLTX в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам PHP мощную функциональность и идеальный результат FODS.
+Сохранение форматов файлов из XLTX как FODS — сложная задача. Все переходы формата XLTX в FODS выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной таблицы XLTX. Наша библиотека PHP — это профессиональное решение для сохранения файлов XLTX в формате FODS онлайн. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и отличный результат FODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения XLTX в формате FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения XLTX как FODS с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/xltx-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API, чтобы сохранить XLTX как FODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP, чтобы сохранять файлы Excel в других форматах XLTX как FODS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

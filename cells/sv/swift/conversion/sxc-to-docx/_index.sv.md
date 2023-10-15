@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC till DOCX Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i SXC-format till fil i DOCX-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i SXC-format till fil i DOCX-format.
 url: /sv/swift/conversion/sxc-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

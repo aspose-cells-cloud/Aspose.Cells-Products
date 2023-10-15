@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara NUMBERS som SXC API för Android
+title:  Spara NUMBERS som SXC med Android
 description:  Använder Aspose.Cells Cloud SDK för Android för att spara NUMBERS-formatfilen som SXC-formatfil.
-url: /sv/android/saveas/numbers-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att spara NUMBERS som SXC" h2="Android-bibliotek för att spara NUMBERS som SXC" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara NUMBERS som SXC och andra dokumentformat online med Android." urlsection="saveas/numbers-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara NUMBERS som SXC" h2="Android-bibliotek för att spara NUMBERS som SXC" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara NUMBERS som SXC och andra dokumentformat online med Android." urlsection="saveas/numbers-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en NUMBERS-fil som SXC i Android" >}}
@@ -13,7 +12,7 @@ url: /sv/android/saveas/numbers-to-sxc/
 Att spara filformat från NUMBERS som SXC är en komplex uppgift. Alla NUMBERS- till SXC-formatövergångar utförs av vår Android-SDK samtidigt som källarket NUMBERS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara NUMBERS som SXC-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt SXC-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att spara NUMBERS som SXC-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att spara NUMBERS som SXC med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Att spara filformat från NUMBERS som SXC är en komplex uppgift. Alla NUMBERS- 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara NUMBERS som SXC" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att spara Excel filer som andra format NUMBERS som SXC" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

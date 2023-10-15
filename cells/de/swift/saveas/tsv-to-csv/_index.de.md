@@ -10,7 +10,7 @@ url: /de/swift/saveas/tsv-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als CSV in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von TSV als CSV ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum CSV-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um TSV als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
+Das Speichern von Dateiformaten von TSV als CSV ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum CSV-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um TSV als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von TSV im CSV-Format" gistPath="" %}}

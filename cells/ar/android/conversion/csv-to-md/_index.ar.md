@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV to MD - تحويل API لنظام Android
-description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق CSV إلى ملف بتنسيق MD.
-url: /ar/android/conversion/csv-to-md/
+title:  تحويل CSV إلى MD باستخدام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف بتنسيق CSV إلى ملف بتنسيق MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="أندرويد API لتحويل CSV إلى MD" h2="مكتبة Android لتحويل CSV إلى MD" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لتحويل CSV إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/csv-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل CSV إلى MD" h2="مكتبة Android لتحويل CSV إلى MD" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Android. يعد هذا حلاً احترافيًا لتحويل CSV إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/csv-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى MD في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل CSV إلى MD باستخدام Cells Cloud SDK لنظام Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من CSV إلى MD مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى MD بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CSV. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل ملفات CSV إلى MD عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج MD مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من CSV إلى MD مهمة معقدة. يتعامل Android SDK الخاص بنا مع جميع تحويلات تنسيق CSV إلى MD مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CSV المصدر. توفر مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل ملفات CSV إلى MD عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Android من الحصول على وظائف قوية ويضمن إخراج MD عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل تنسيق CSV إلى MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لتحويل CSV إلى MD باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ url: /ar/android/conversion/csv-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتحويل CSV إلى MD" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتحويل ملفات Excel إلى تنسيقات أخرى من CSV إلى MD" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

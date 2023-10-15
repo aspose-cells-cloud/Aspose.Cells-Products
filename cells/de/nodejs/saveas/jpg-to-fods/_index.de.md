@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie JPG als FODS API für NodeJS
-description: Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Speichern von JPG-Formatdateien als FODS-Formatdateien.
-url: /de/nodejs/saveas/jpg-to-fods/
+title:  Speichern Sie JPG als FODS mit NodeJS
+description:  Verwendung von Aspose.Cells Cloud SDK für NodeJS zum Speichern von JPG-Formatdateien als FODS-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von JPG als FODS" h2="NodeJS-Bibliothek zum Speichern von JPG als FODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um JPG als FODS und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/jpg-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG als FODS speichern" h2="NodeJS-Bibliothek zum Speichern von JPG als FODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um JPG als FODS und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/jpg-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei als FODS in NodeJS" >}}
@@ -13,7 +12,7 @@ url: /de/nodejs/saveas/jpg-to-fods/
 Das Speichern von JPG-Dateiformaten als FODS ist eine komplexe Aufgabe. Alle Übergänge vom JPG- zum FODS-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um JPG als FODS-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von JPG im FODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel zum Speichern von JPG als FODS mit REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Das Speichern von JPG-Dateiformaten als FODS ist eine komplexe Aufgabe. Alle Üb
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um JPG als FODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in anderen Formaten wie JPG und FODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

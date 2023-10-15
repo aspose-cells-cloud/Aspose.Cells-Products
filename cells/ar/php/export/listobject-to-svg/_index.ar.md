@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير LISTOBJECT إلى SVG من جدول البيانات باستخدام PHP API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/php/export/listobject-to-svg/
+title:  تصدير LISTOBJECT إلى SVG من Excel باستخدام Cells Cloud SDK لـ PHP
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتصدير LISTOBJECT إلى ملف SVG" h2="مكتبة PHP لتصدير LISTOBJECT إلى ملف SVG" p="استخدم Cells Export REST API لتصدير مهام سير عمل العناصر الداخلية لجدول البيانات في PHP. هذا حل احترافي لتصدير LISTOBJECT إلى ملف بتنسيق SVG من جدول بيانات عبر الإنترنت باستخدام PHP." urlsection="export/listobject-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير LISTOBJECT إلى SVG من Excel" h2="مكتبة PHP لتصدير LISTOBJECT إلى ملف SVG" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في PHP. هذا حل احترافي لتصدير LISTOBJECT إلى ملف بتنسيق SVG من جدول البيانات عبر الإنترنت باستخدام PHP." urlsection="export/listobject-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتصدير كائن LISTOBJECT إلى ملف بتنسيق SVG بتنسيق PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن LISTOBJECT إلى ملف بتنسيق SVG باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير عنصر LISTOBJECT إلى ملف SVG من جدول البيانات مهمة معقدة. تصدير LISTOBJECT إلى SVG يتم تنفيذ انتقالات تنسيق بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق SVG عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج SVG مثالي.
+يعد تصدير كائن LISTOBJECT إلى ملف SVG من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير LISTOBJECT إلى تنسيق SVG بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق SVG عبر الإنترنت. يمنح Cloud SDK هذا مطوري PHP وظائف قوية وإخراج SVG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتصدير LISTOBJECT إلى تنسيق SVG من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في PHP باستخدام REST API لتصدير LISTOBJECT إلى تنسيق SVG من جدول البيانات" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/export/listobject-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتصدير LISTOBJECT إلى SVG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتصدير الكائنات من Excel LISTOBJECT إلى SVG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XML в DIF API для NodeJS
-description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XML в файл формата DIF.
-url: /ru/nodejs/conversion/xml-to-dif/
+title:  Преобразование XML в DIF с помощью NodeJS
+description:  Использование Cloud SDK Aspose.Cells для NodeJS для преобразования файла формата XML в файл формата DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XML в DIF" h2="Библиотека NodeJS для преобразования XML в DIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XML в DIF и другие форматы документов с использованием NodeJS." urlsection="conversion/xml-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XML в DIF" h2="Библиотека NodeJS для преобразования XML в DIF" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах NodeJS. Это профессиональное решение для онлайн-конвертации XML в DIF и другие форматы документов с помощью NodeJS." urlsection="conversion/xml-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в DIF в NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML в DIF с помощью Cloud SDK Cells для NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в DIF является сложной задачей. Все переходы формата XML в формат DIF выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XML в DIF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод DIF.
+Преобразование форматов файлов из XML в DIF может оказаться сложной задачей. Наш NodeJS SDK обрабатывает все преобразования форматов XML в DIF, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XML. Наша библиотека NodeJS предоставляет профессиональное решение для онлайн-преобразования XML в файлы DIF. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и обеспечивает высококачественный вывод DIF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XML в формат DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для преобразования XML в DIF с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ url: /ru/nodejs/conversion/xml-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для преобразования XML в DIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для преобразования файлов Excel в другие форматы XML в DIF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

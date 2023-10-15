@@ -1,19 +1,18 @@
 ﻿---
-title:  NodeJS API kullanarak ÇALIŞMA KİTABI'nı e-tablodan WMF'ye aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/nodejs/export/workbook-to-wmf/
+title:  NodeJS için Cells Bulut SDK'sını kullanarak ÇALIŞMA KİTABI'nı Excel'den WMF'ye aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABI\'nı WMF dosyasına dışa aktarmak için NodeJS API" h2="ÇALIŞMA KİTABI\'nı WMF dosyasına aktarmak için NodeJS kitaplığı" p="NodeJS\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, ÇALIŞMA KİTABI\'nı NodeJS kullanarak elektronik tablodan WMF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABI\'nı Excel\'den WMF\'ye aktar" h2="ÇALIŞMA KİTABI\'nı WMF dosyasına aktarmak için NodeJS kitaplığı" p="NodeJS\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, NodeJS kullanarak çevrimiçi elektronik tablodan ÇALIŞMA KİTABI\'nı WMF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini NodeJS\'de WMF formatındaki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS için Cells Cloud SDK\'yı kullanarak ÇALIŞMA KİTABI nesnesini WMF biçimindeki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-ÇALIŞMA KİTABI nesnesini elektronik tablodan WMF dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u WMF biçimine dışa aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak WMF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
+ÇALIŞMA KİTABI nesnesini Excel dosyasından WMF dosyasına aktarmak karmaşık bir iştir. ÇALIŞMA KİTABI'nı WMF'ye aktarma format geçişleri, kaynak WORKBOOK e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak WMF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan WMF formatına dışa aktarmak için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Çalışma kitabını e-tablodan WMF formatına aktarmak için REST API\'i kullanan NodeJS\'deki kod örneği" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -41,10 +40,10 @@ url: /tr/nodejs/export/workbook-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="ÇALIŞMA KİTABI\'nı WMF\'ye dışa aktarmak için Düğüm API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel WORKBOOK\'tan WMF\'ye aktarmak için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

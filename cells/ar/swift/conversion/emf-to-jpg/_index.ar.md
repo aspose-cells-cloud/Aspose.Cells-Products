@@ -1,19 +1,19 @@
 ﻿---
-title:  EMF إلى JPG - تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق EMF إلى ملف بتنسيق JPG.
+title:  EMF إلى JPG تحويل API إلى Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق EMF إلى ملف بتنسيق JPG.
 url: /ar/swift/conversion/emf-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل EMF إلى JPG" h2="مكتبة سريعة لتحويل EMF إلى JPG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل EMF إلى JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/emf-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل EMF إلى JPG" h2="مكتبة سويفت لتحويل EMF إلى JPG" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل EMF إلى JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/emf-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف EMF إلى JPG في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف EMF إلى JPG في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من EMF إلى JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى تنسيق JPG بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل EMF إلى ملفات JPG عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج JPG مثالي.
+يعد تحويل تنسيقات الملفات من EMF إلى JPG مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق EMF إلى JPG بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات EMF إلى ملفات JPG عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات JPG مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل EMF إلى تنسيق JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل EMF إلى تنسيق JPG" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/emf-to-jpg/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل EMF إلى JPG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

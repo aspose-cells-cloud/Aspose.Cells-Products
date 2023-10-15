@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie FODS in XLS in der Cloud via Java
+title: Konvertieren Sie FODS in XLS in der Cloud via Java
 description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API und Open Source Java SDK
 url: /de/java/conversion/fods-to-xls/
 family: cells

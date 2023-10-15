@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLSX в JPG API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLSX в файл формата JPG.
-url: /ru/java/conversion/xlsx-to-jpg/
+title:  Конвертируйте XLSX в JPG, используя Java.
+description: Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата XLSX в файл формата JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLSX в JPG" h2="Java библиотека для преобразования XLSX в JPG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации XLSX в JPG и другие форматы документов с использованием Java." urlsection="conversion/xlsx-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLSX в JPG" h2="Java библиотека для конвертации XLSX в JPG" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертирования XLSX в JPG и другие форматы документов с использованием номера Java." urlsection="conversion/xlsx-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в JPG в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте XLSX в JPG с помощью Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в JPG — сложная задача. Все переходы из формата XLSX в формат JPG выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSX в JPG. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из XLSX в JPG может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования форматов XLSX в JPG, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертирования файлов XLSX в JPG. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLSX в формат JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для преобразования XLSX в JPG с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ url: /ru/java/conversion/xlsx-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования XLSX в JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для преобразования файлов Excel в другие форматы XLSX в JPG." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

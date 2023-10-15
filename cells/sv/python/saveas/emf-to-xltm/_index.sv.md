@@ -1,10 +1,9 @@
 ﻿---
-title: Spara EMF som XLTM API för Python
-description:  Använder Aspose.Cells Cloud SDK för Python för att spara fil i EMF-format som fil i XLTM-format.
-url: /sv/python/saveas/emf-to-xltm/
+title:  Spara EMF som XLTM med Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara EMF filformat som fil i XLTM-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att spara EMF som XLTM" h2="Python bibliotek för att spara EMF som XLTM" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att spara EMF som XLTM och andra dokumentformat online med Python." urlsection="saveas/emf-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara EMF som XLTM" h2="Python bibliotek för att spara EMF som XLTM" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python. Detta är en professionell lösning för att spara EMF som XLTM och andra dokumentformat online med Python." urlsection="saveas/emf-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en EMF-fil som XLTM i Python" >}}
@@ -13,7 +12,7 @@ url: /sv/python/saveas/emf-to-xltm/
 Att spara filformat från EMF som XLTM är en komplex uppgift. Alla formatövergångar från EMF till XLTM utförs av vår Python SDK samtidigt som källbladets EMF kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att spara EMF som XLTM-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt XLTM-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att spara EMF som XLTM-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att spara EMF som XLTM med REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Att spara filformat från EMF som XLTM är en komplex uppgift. Alla formatöverg
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att spara EMF som XLTM" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att spara Excel filer som andra format EMF som XLTM" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,7 +1,6 @@
 ﻿---
 title:  Kryptera molnkalkylblad med lösenord i molnet
 description: "Cloud API:er och SDK:er för att skydda Microsoft Excel & OpenOffice Calc. Kryptera molnkalkylblad med lösenord med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/perl/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Perl bibliotek för att skydda molnet Microsoft Excel och OpenOffice Calc kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Perl. Den här professionella lösningen skyddar molnet Microsoft Microsoft online-kalkylblad Microsoft Microsoft 0761s30Office36 online-lösenord med OpenOffice-kalkylblad 1 076160Off37 och 7C online 481." urlsection="protect/Encrypt-cloud-file-with-password/" >}}

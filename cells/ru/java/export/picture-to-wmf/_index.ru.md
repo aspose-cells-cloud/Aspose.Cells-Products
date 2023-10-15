@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспорт ИЗОБРАЖЕНИЯ в WMF из электронной таблицы с помощью Java API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/java/export/picture-to-wmf/
+title:  Экспортируйте ИЗОБРАЖЕНИЕ в WMF из Excel, используя Cells Cloud SDK for Java.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для экспорта ИЗОБРАЖЕНИЯ в файл WMF" h2="Java библиотека для экспорта ИЗОБРАЖЕНИЯ в файл WMF" p="Используйте Cells Экспорт REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Java. Это профессиональное решение для экспорта ИЗОБРАЖЕНИЯ в файл формата WMF из электронной таблицы онлайн с использованием Java." urlsection="export/picture-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт ИЗОБРАЖЕНИЯ в WMF с номера Excel" h2="Java библиотека для экспорта КАРТИНКИ в файл WMF" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Java. Это профессиональное решение для экспорта ИЗОБРАЖЕНИЯ в файл формата WMF из электронной таблицы онлайн с использованием Java." urlsection="export/picture-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта PICTURE в файл формата WMF в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект PICTURE в файл формата WMF с помощью Cloud SDK Cells for Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта PICTURE в файл WMF из электронной таблицы является сложной задачей. Экспорт переходов формата ИЗОБРАЖЕНИЕ в формат WMF выполняется нашим SDK Java при сохранении основного структурного и логического содержания исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата WMF. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод WMF.
+Экспорт объекта PICTURE в файл WMF из файла Excel — сложная задача. Экспорт переходов формата PICTURE в WMF выполняется нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы PICTURE. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата WMF. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и отличный результат в формате WMF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для экспорта ИЗОБРАЖЕНИЯ в формат WMF из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Java с использованием REST API для экспорта PICTURE в формат WMF из электронной таблицы." gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,10 +50,10 @@ url: /ru/java/export/picture-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для экспорта ИЗОБРАЖЕНИЯ в WMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для экспорта объектов из Excel PICTURE в WMF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

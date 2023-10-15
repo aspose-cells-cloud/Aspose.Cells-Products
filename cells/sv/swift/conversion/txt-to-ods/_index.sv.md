@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT till ODS Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i TXT-format till fil i ODS-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i TXT-format till fil i ODS-format.
 url: /sv/swift/conversion/txt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

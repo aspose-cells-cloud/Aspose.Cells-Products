@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva GIF come XLSB API per NodeJS
-description: Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato GIF come file in formato XLSB.
-url: /it/nodejs/saveas/gif-to-xlsb/
+title:  Salva GIF come XLSB utilizzando NodeJS
+description:  Utilizzando Aspose.Cells Cloud SDK per NodeJS per salvare il file in formato GIF come file in formato XLSB.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per salvare GIF come XLSB" h2="Libreria NodeJS per salvare GIF come XLSB" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in NodeJS. Questa è una soluzione professionale per salvare GIF come XLSB e altri formati di documenti online utilizzando NodeJS." urlsection="saveas/gif-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva GIF come XLSB" h2="Libreria NodeJS per salvare GIF come XLSB" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in NodeJS. Questa è una soluzione professionale per salvare GIF come XLSB e altri formati di documenti online utilizzando NodeJS." urlsection="saveas/gif-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file GIF come XLSB in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da GIF come XLSB è un'attività complessa. Tutte le transizioni dal formato GIF a XLSB vengono eseguite dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo GIF di origine. La nostra libreria NodeJS è una soluzione professionale per salvare GIF come file XLSB online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un perfetto output XLSB.
+Salvare i formati di file da GIF come XLSB è un compito complesso. Tutte le transizioni dal formato GIF al formato XLSB vengono eseguite dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo GIF di origine. La nostra libreria NodeJS è una soluzione professionale per salvare GIF come file XLSB online. Questo Cloud SDK offre agli sviluppatori NodeJS funzionalità potenti e output XLSB perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per salvare GIF come formato XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice NodeJS per salvare GIF come XLSB utilizzando REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Il salvataggio dei formati di file da GIF come XLSB è un'attività complessa. T
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare il nodo API per salvare GIF come XLSB" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Node per salvare i file Excel in altri formati GIF come XLSB" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PostWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

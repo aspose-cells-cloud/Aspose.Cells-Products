@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara SXC som TXT API för Perl
+title:  Spara SXC som TXT med Perl
 description:  Använder Aspose.Cells Cloud SDK för Perl för att spara SXC-formatfil som TXT-formatfil.
-url: /sv/perl/saveas/sxc-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att spara SXC som TXT" h2="Perl-biblioteket för att spara SXC som TXT" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att spara SXC som TXT och andra dokumentformat online med Perl." urlsection="saveas/sxc-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara SXC som TXT" h2="Perl bibliotek för att spara SXC som TXT" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara SXC som TXT och andra dokumentformat online med Perl." urlsection="saveas/sxc-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en SXC-fil som TXT i Perl" >}}
@@ -13,7 +12,7 @@ url: /sv/perl/saveas/sxc-to-txt/
 Att spara filformat från SXC som TXT är en komplex uppgift. Alla SXC- till TXT-formatövergångar utförs av vår Perl SDK samtidigt som käll-SXC-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att spara SXC som TXT-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt TXT-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att spara SXC som TXT-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kod Exempel för att spara SXC som TXT med REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Att spara filformat från SXC som TXT är en komplex uppgift. Alla SXC- till TXT
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att spara SXC som TXT" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att spara Excel filer som andra format SXC som TXT" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Ring post_arbetsbok_save_as-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

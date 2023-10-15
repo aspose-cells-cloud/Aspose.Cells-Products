@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB zu MHTML Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine MHTML-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine MHTML-Formatdatei.
 url: /de/swift/conversion/xlsb-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

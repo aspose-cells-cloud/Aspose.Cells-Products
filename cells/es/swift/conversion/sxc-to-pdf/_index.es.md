@@ -1,16 +1,16 @@
 ﻿---
 title:  SXC a PDF Convertir API para Swift
-description:  Usando Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato SXC a un archivo de formato PDF.
+description: Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato SXC a un archivo de formato PDF.
 url: /es/swift/conversion/sxc-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para convertir SXC a PDF" h2="Biblioteca Swift para convertir SXC a PDF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para convertir SXC a PDF y otros formatos de documentos en línea usando Swift." urlsection="conversion/sxc-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para convertir SXC a PDF" h2="Biblioteca Swift para convertir SXC a PDF" p="Utilice Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para convertir SXC a PDF y otros formatos de documentos en línea usando Swift." urlsection="conversion/sxc-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo SXC a PDF en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de SXC a PDF es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato SXC a PDF mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos SXC a PDF en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y un resultado PDF perfecto.
+Convertir formatos de archivo de SXC a PDF es una tarea compleja. Todas las transiciones de formato SXC a PDF las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos SXC a PDF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado PDF perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir SXC al formato PDF" gistPath="" %}}
@@ -65,15 +65,15 @@ Convertir formatos de archivo de SXC a PDF es una tarea compleja. Nuestro Swift 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Swift API para convertir SXC a PDF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Swift API para convertir SXC a PDF" >}}
+<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+<li>Llame al método cellWorkbookPutConvertWorkbook para obtener la secuencia resultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>macOS Monterrey 12.4</li>
+<li>macOS Monterey 12.4</li>
 <li>Rápido 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

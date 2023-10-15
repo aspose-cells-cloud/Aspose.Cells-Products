@@ -1,19 +1,19 @@
 ﻿---
-title:  احفظ JSON باسم BMP API من أجل Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق JSON كملف تنسيق BMP.
+title:  احفظ JSON كـ BMP API لـ Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق JSON كملف بتنسيق BMP.
 url: /ar/swift/saveas/json-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ JSON كـ BMP" h2="مكتبة سريعة لحفظ JSON كـ BMP" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ JSON كـ BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/json-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ JSON كـ BMP" h2="مكتبة سويفت لحفظ JSON كـ BMP" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ JSON كـ BMP وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/json-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON بالشكل BMP في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON باسم BMP في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JSON كـ BMP مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى BMP بواسطة Swift SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JSON المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ JSON كملفات BMP عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج BMP مثالي.
+يعد حفظ تنسيقات الملفات من JSON كـ BMP مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى BMP بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ JSON كملفات BMP عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج BMP مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ JSON بتنسيق BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لحفظ JSON بتنسيق BMP" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,15 +54,15 @@ url: /ar/swift/saveas/json-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ JSON باسم BMP" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ JSON كـ BMP" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

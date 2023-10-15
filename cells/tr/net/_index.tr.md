@@ -1,36 +1,36 @@
 ﻿---
-title:  Elektronik Tabloları Okuyun, Yazın, Görüntüleyin ve Dönüştürün (via C# REST SDK)
-description:  C#, ASP.NET ve diğer .NET destekli diller için SDK'lar, Excel ve OpenOffice elektronik tablolarını işlemek üzere bulut tabanlı uygulamalar geliştirmek için
+title:  E-tabloları Okuma, Yazma, Görüntüleme ve Dönüştürme (via C# REST SDK)
+description:  C# ve OpenOffice elektronik tablolarını işlemek üzere bulut tabanlı uygulamalar geliştirmek için C#, ASP.NET ve diğer .NET desteklenen dillere yönelik SDK'lar
 weight: 70
 url: /tr/net
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Yapı Excel Görüntüleyici ve Dönüştürücü Uygulamaları via C# REST SDK" h2="C#, ASP.NET ve diğer .NET destekli diller için kolay SDK\'lar, Excel ve OpenOffice elektronik tablolarını işlemek için bulut tabanlı uygulamalar geliştirmeye yönelik." logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Derleme Excel Görüntüleyici ve Dönüştürücü Uygulamalar via C# REST SDK" h2="C#, ASP.NET ve diğer .NET destekli dillere yönelik kolay SDK\'lar, Excel ve OpenOffice elektronik tablolarını işlemeye yönelik bulut tabanlı uygulamalar geliştirir." logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for .NET, bulut tabanlı programlarınızın herhangi bir üçüncü taraf yazılımı yüklemeden çalışma kitaplarına, çalışma sayfalarına, elektronik tablolara, satırlara ve tek tek hücrelere erişmesine ve bunları değiştirmesine izin veren elektronik tablo işleme özelliklerini sorunsuz bir şekilde entegre ederek .NET uygulamalarınızın kapasitesini geliştirir. Aspose.Cells Cloud SDK for .NET, bir MIT lisansı altında dağıtılmaktadır.</p>
-<p>Aspose.Cells Cloud SDK for .NET, temel alınan Aspose.Cells REST API için bir arabirim olarak çalışır. Pivot tablolar, OleObjects, ListObjects, görevler, şekiller, köprüler ve yorumlar söz konusu olduğunda .NET programlama işinizi çok kolaylaştırır.</p>
-<p>Aspose.Cells Cloud SDK for .NET'i kullanarak, C# kodunuzu elektronik tablolara koşullu biçimlendirmenin yanı sıra otomatik filtreleme gerçekleştirmesini sağlayabilirsiniz. Dosya dönüştürme desteği de oldukça kapsamlıdır, çünkü .NET bulut uygulamanızı kullanarak Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) & OpenOffice (ODS) belgelerini PDF, XPS, XPS, SVG, TIFF, İşaretleme ve DIF formatları.</p>
+<p>Aspose.Cells Bulut SDK for .NET, bulut tabanlı programlarınızın herhangi bir üçüncü taraf yazılımı yüklemeden çalışma kitaplarına, çalışma sayfalarına, e-tablolara, satırlara ve tek tek hücrelere erişmesine ve bunları değiştirmesine olanak tanıyan elektronik tablo işleme özelliklerini sorunsuz bir şekilde entegre ederek for .NET uygulamalarınızın kapasitesini artırır. Aspose.Cells Bulut SDK'sı for .NET, MIT lisansı altında dağıtılmaktadır.</p>
+<p>Aspose.Cells Bulut SDK for .NET, temel Aspose.Cells REST API için bir arayüz olarak çalışır. Pivot tablolar, OleObjects, ListObjects, görevler, şekiller, köprüler ve yorumlarla çalışmak söz konusu olduğunda .NET programlama işinizi çok kolaylaştırır.</p>
+<p>Aspose.Cells Cloud SDK for .NET'i kullanarak, C# kodunuzun otomatik filtreleme gerçekleştirmesini ve e-tablolara koşullu biçimlendirme uygulamasını etkinleştirebilirsiniz. Dosya dönüştürme desteği de oldukça kapsamlıdır; .NET bulut uygulamanızı kullanarak Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) ve OpenOffice (ODS) belgelerini PDF, XPS'e dönüştürebilirsiniz. SVG, TIFF, Markdown ve DIF formatları.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells Bulut, tüm elektronik tablo işleme görevlerini gerçekleştirebilir." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells Bulut, tüm elektronik tablo düzenleme görevlerini gerçekleştirebilir." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>genel bakış</header><ul><li>Tablolarla çalışma</li>
+<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>Genel Bakış</header><ul><li>Tablolarla çalışma</li>
 <li>Hücrelerle çalışma</li>
 <li>Grafiklerle çalışma</li>
 <li>Köprülerle çalışma</li>
 <li>Pivot tablolarla çalışma</li>
-<li>Resimler ve şekillerle çalışma</li>
+<li>Resimler ve şekillerle çalışın</li>
 <li>Doğrulamalarla çalışma</li>
 </ul></div>
 <!--/right--></div>
@@ -40,18 +40,18 @@ url: /tr/net
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Cells Bulut tarafından desteklenen dosya biçimleri." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.Cells Bulut destekli dosya formatları." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Giriş çıkış</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Açık ofis:</b> ODS</li>
-<li><b>E-tabloML:</b> xml</li>
-<li><b>Metin:</b> CSV, TSV, TXT (Sekmeyle Sınırlandırılmış)</li>
+<li><b>Elektronik TabloML:</b> XML</li>
+<li><b>Metin:</b> CSV, TSV, TXT (Sekmeyle Ayrılmış)</li>
 <li><b>Ağ:</b> HTML, MHTML</li>
 </ul></div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Yalnızca Giriş</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Yalnızca Çıktı</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> Yalnızca Çıkış</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -61,7 +61,7 @@ url: /tr/net
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells Bulut, tüm büyük platformları ve programlama dillerini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells Bulut, tüm önemli platformları ve programlama dillerini destekler." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -75,7 +75,7 @@ url: /tr/net
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Gelişmiş Aspose.Cells Bulut SDK for .NET Özellikler
+ Gelişmiş Aspose.Cells Bulut SDK for .NET Özellikleri
    </h2>
    <p>
    </p>
@@ -90,21 +90,21 @@ url: /tr/net
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Grafik alanı sınırına veya dolgu biçimine erişin
+ Grafik alanı kenarlığına veya dolgu biçimine erişme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-copy ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Grafikleri ekleyin, güncelleyin veya silin
+ Grafik ekleme, güncelleme veya silme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Grafik efsanesini alın, güncelleyin, gösterin veya gizleyin &amp; başlıklar
+ Grafik açıklamalarını ve göstergelerini alın, güncelleyin, gösterin veya gizleyin. başlıklar
     </p>
    </div>
    <div class="col-lg-4">
@@ -125,49 +125,49 @@ url: /tr/net
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Excel dosyasında belirtilen bir yere bir ListObject ekleyin
+ Excel dosyasında belirtilen yere bir ListObject ekleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Bir çalışma sayfasındaki belirli veya tüm ListObject'leri silin
+ Çalışma sayfasındaki belirli ListObject'leri veya tüm ListObject'leri silin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- ListObject veya tabloyu bir hücre aralığına dönüştürün
+ ListObject'i veya tabloyu bir hücre aralığına dönüştürün
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
+ Büyük ListObject veya Table verilerini Pivot Table ile özetleme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Excel çalışma sayfalarından OleObjects ekleyin veya silin
+ Excel çalışma sayfasına OleObjects ekleme veya silme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ekleme veya silme, yatay veya dikey sayfa sonları
+ Yatay veya dikey sayfa sonları ekleme veya silme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa düzenini, başlığı &amp; alt bilgi
+ Sayfa düzenini, başlığı ve içeriği değiştirin alt bilgi
     </p>
    </div>
    <div class="col-lg-4">
@@ -188,21 +188,21 @@ Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
     <em class="fa fa-copy ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfasından gerekli şekli getir
+ Gerekli şekli çalışma sayfasından getir
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfasından şekil ekleme, güncelleme veya silme
+ Çalışma sayfasına şekil ekleme, güncelleme veya silme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfaları için doğrulama ekleme, güncelleme veya silme
+ Çalışma sayfaları için doğrulamaları ekleme, güncelleme veya silme
     </p>
    </div>
    <div class="col-lg-12">
@@ -210,41 +210,41 @@ Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
  Excel Elektronik Tablo İşleme SDK'sını Kullanmaya Başlayın
     </h2>
     <p>
- Aspose.Cells Cloud SDK for .NET ile başlamak için herhangi bir şey yüklemeniz gerekmez. Tek yapmanız gereken şu adreste bir hesap oluşturmaktır:
+ Aspose.Cells Cloud SDK for .NET'i kullanmaya başlamak için herhangi bir şey yüklemenize gerek yok. Tek yapmanız gereken şu adreste bir hesap oluşturmak:
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
-ve uygulama bilgilerinizi alın. Hepsi bu! Aspose.Cells Bulut SDK for .NET'i kullanmaya hazırsınız.
+ve başvuru bilgilerinizi alın. Hepsi bu! Aspose.Cells Cloud SDK for .NET'i kullanmaya hazırsınız.
     </p>
     <p>
- Aspose.Cells Cloud SDK for .NET, elektronik tabloları oluşturmak, düzenlemek ve diğer popüler dosya biçimlerine dönüştürmek için tüm özellikleri sağlar.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- Yükle &amp; İşlem Excel Elektronik Tablolar via Cloud SDK
-    </h2>
-    <p>
- Aspose.Cells Cloud SDK for .NET, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine dışa aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri yok sayarak çalışma kitabı satırlarını otomatik sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı uzunluğu sağlamanıza olanak tanır , verileri çalışma kitabına aktarın, çalışma kitabındaki tüm formülleri hesaplayın, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapın, akıllı işaretçi kullanın, çalışma kitabını istek içeriğinden başka bir biçime dönüştürün, içerik değişikliğine izin vermek için parola uygulayın.
+ Aspose.Cells Cloud SDK for .NET, elektronik tabloları oluşturmak, düzenlemek ve diğer popüler dosya formatlarına dönüştürmek için gereken tüm özellikleri sağlar.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Okumak için Bulut SDK'sı &amp; İşlem Excel Çalışma Sayfaları
+ Yükle ve yükle Süreç Excel E-tablolar via Bulut SDK'sı
     </h2>
     <p>
-Aspose.Cells Cloud SDK for .NET'i kullanarak çalışma sayfasındaki belirli satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satırını veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir hücreye kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplandırın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
+ Aspose.Cells Bulut SDK for .NET, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri yok sayarak çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı uzunluğu sağlamanıza olanak tanır , verileri çalışma kitabına aktarın, çalışma kitabındaki tüm formülleri hesaplayın, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapın, akıllı işaretleyici kullanın, çalışma kitabını istek içeriğinden başka bir formata dönüştürün, içerik değişikliğine izin vermek için şifre uygulayın.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Pivot Tabloların Gücünden Yararlanın &amp; Aralıklar
+ Okunacak ve Okunacak Bulut SDK'sı Süreç Excel Çalışma Sayfaları
     </h2>
     <p>
- Aspose.Cells Cloud SDK for .NET, çalışma sayfasına bir pivot tablo eklemenize, pivot tabloya pivot alanlar eklemenize veya silmenize, pivot tablo dizini için pivot filtre eklemenize veya kaldırmanıza, pivot tablo için hücre stilini güncellemenize ve pivot tablonun verilerini hücrelere hesaplamanıza olanak tanır.
+Aspose.Cells Cloud SDK for .NET'i kullanarak çalışma sayfasındaki belirli bir satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücrenin adına göre getirebilir, çalışma sayfası satır veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir yere kopyalayabilirsiniz hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplayın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Pivot Tabloların Gücünden Yararlanın ve Aralıklar
+    </h2>
+    <p>
+ Aspose.Cells Bulut SDK for .NET, çalışma sayfasına bir pivot tablo eklemenize, pivot tabloya pivot alanları eklemenize veya silmenize, pivot tablo dizini için pivot filtresi eklemenize veya kaldırmanıza, pivot tablo için hücre stilini güncellemenize ve pivot tablonun hücrelere ait verilerini hesaplamanıza olanak tanır.
     </p>
     <p>
-Aspose.Cells Cloud SDK for .NET, aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücre listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, geçerli aralığı hedef aralığa taşımak, ana hatları ayarlamak için de kullanılabilir bir hücre aralığı etrafında kenarlık, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasında kopyalayın.
+Aspose.Cells Cloud SDK for .NET ayrıca aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücrelerin listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, mevcut aralığı hedef aralığa taşımak, anahatları ayarlamak için de kullanılabilir bir hücre aralığının etrafındaki kenarlığı ayarlayın, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasına kopyalayın.
     </p>
    </div>
   </div>
@@ -256,10 +256,10 @@ Aspose.Cells Cloud SDK for .NET, aralık adına veya satır sütun dizinlerine g
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/cells" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

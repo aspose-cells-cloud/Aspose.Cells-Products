@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XLTM en tant que GIF API pour Android
-description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format XLTM en tant que fichier au format GIF.
-url: /fr/android/saveas/xltm-to-gif/
+title: Enregistrer XLTM au format GIF avec Android
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLTM au format GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XLTM au format GIF" h2="Bibliothèque Android pour enregistrer XLTM au format GIF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format GIF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xltm-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLTM en tant que GIF" h2="Bibliothèque Android pour enregistrer XLTM au format GIF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format GIF et autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xltm-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format GIF sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLTM au format GIF est une tâche complexe. Toutes les transitions de format XLTM vers GIF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLTM sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie GIF parfaite.
+L'enregistrement des formats de fichiers XLTM au format GIF est une tâche complexe. Toutes les transitions du format XLTM vers GIF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTM source. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLTM sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie GIF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLTM au format GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour enregistrer XLTM au format GIF à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ L'enregistrement de formats de fichiers à partir de XLTM au format GIF est une 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer XLTM en tant que GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour enregistrer des fichiers Excel sous d\'autres formats XLTM au format GIF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

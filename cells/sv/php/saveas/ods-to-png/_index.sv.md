@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara ODS som PNG API för PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att spara ODS-formatfil som PNG-fil.
-url: /sv/php/saveas/ods-to-png/
+title:  Spara ODS som PNG med PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara ODS-formatfilen som PNG-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att spara ODS som PNG" h2="PHP bibliotek för att spara ODS som PNG" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i PHP. Detta är en professionell lösning för att spara ODS som PNG och andra dokumentformat online med PHP." urlsection="saveas/ods-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara ODS som PNG" h2="PHP bibliotek för att spara ODS som PNG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att spara ODS som PNG och andra dokumentformat online med PHP." urlsection="saveas/ods-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en ODS-fil som PNG i PHP" >}}
@@ -13,7 +12,7 @@ url: /sv/php/saveas/ods-to-png/
 Att spara filformat från ODS som PNG är en komplex uppgift. Alla ODS till PNG formatövergångar utförs av vår PHP SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att spara ODS som PNG-filer online. Denna Cloud SDK ger PHP-utvecklare kraftfull funktionalitet och perfekt PNG-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att spara ODS som PNG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kod Exempel för att spara ODS som PNG med REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Att spara filformat från ODS som PNG är en komplex uppgift. Alla ODS till PNG 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att spara ODS som PNG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att spara Excel filer som andra format ODS som PNG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

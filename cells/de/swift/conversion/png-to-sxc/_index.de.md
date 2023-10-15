@@ -1,5 +1,5 @@
 ﻿---
-title: PNG in SXC Konvertieren Sie API für Swift
+title:  PNG in SXC Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine SXC-Formatdatei.
 url: /de/swift/conversion/png-to-sxc/
 ---

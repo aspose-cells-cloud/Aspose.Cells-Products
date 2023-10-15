@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS till TXT Konvertera API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera XLS-formatfil till TXT-formatfil.
-url: /sv/go/conversion/xls-to-txt/
+title:  Konvertera XLS till TXT med Go
+description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en XLS-formatfil till en TXT-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att konvertera XLS till TXT" h2="Gå till biblioteket för att konvertera XLS till TXT" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att konvertera XLS till TXT och andra dokumentformat online med Go." urlsection="conversion/xls-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLS till TXT" h2="Gå bibliotek för att konvertera XLS till TXT" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera XLS till TXT och andra dokumentformat online med Go." urlsection="conversion/xls-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLS-fil till TXT i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLS till TXT med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLS till TXT är en komplex uppgift. Alla XLS till TXT-formatövergångar utförs av vår Go SDK samtidigt som käll XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att konvertera XLS till TXT-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt TXT-utdata.
+Att konvertera filformat från XLS till TXT kan vara en komplex uppgift. Vår Go SDK hanterar alla konverteringar av XLS till TXT-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLS-kalkylblad bevaras. Vårt Go-bibliotek tillhandahåller en professionell lösning för att konvertera XLS till TXT-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer högkvalitativ TXT-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att konvertera XLS till TXT-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera XLS till TXT med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Att konvertera filformat från XLS till TXT är en komplex uppgift. Alla XLS til
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att konvertera XLS till TXT" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att konvertera Excel-filer till andra format XLS till TXT" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

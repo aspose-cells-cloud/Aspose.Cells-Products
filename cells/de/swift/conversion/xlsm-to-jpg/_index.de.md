@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSM in JPG Konvertieren API für Swift
+title: XLSM in JPG Konvertieren API für Swift
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im XLSM-Format in eine JPG-Formatdatei zu konvertieren.
 url: /de/swift/conversion/xlsm-to-jpg/
 ---

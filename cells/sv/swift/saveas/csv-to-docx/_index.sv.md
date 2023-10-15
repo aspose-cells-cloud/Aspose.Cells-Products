@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som DOCX API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att spara CSV-formatfil som DOCX-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att spara CSV-formatfil som DOCX-formatfil.
 url: /sv/swift/saveas/csv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

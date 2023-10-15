@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV till PPTX Konvertera API för Ruby
-description:  Använder Aspose.Cells Cloud SDK för Ruby för att konvertera fil i TSV-format till fil i PPTX-format.
-url: /sv/ruby/conversion/tsv-to-pptx/
+title:  Konvertera TSV till PPTX med Ruby
+description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera en fil i TSV-format till en fil i PPTX-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att konvertera TSV till PPTX" h2="Ruby-bibliotek för att konvertera TSV till PPTX" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Ruby. Detta är en professionell lösning för att konvertera TSV till PPTX och andra dokumentformat online med Ruby." urlsection="conversion/tsv-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera TSV till PPTX" h2="Ruby-bibliotek för att konvertera TSV till PPTX" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby-projekt. Detta är en professionell lösning för att konvertera TSV till PPTX och andra dokumentformat online med Ruby." urlsection="conversion/tsv-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en TSV-fil till PPTX i Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera TSV till PPTX med Cells Cloud SDK för Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från TSV till PPTX är en komplex uppgift. Alla TSV till PPTX-formatövergångar utförs av vår Ruby SDK samtidigt som käll-TSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att konvertera TSV till PPTX-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt PPTX-utgång.
+Att konvertera filformat från TSV till PPTX kan vara en komplex uppgift. Vår Ruby SDK hanterar alla TSV till PPTX-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-TSV-kalkylarket bevaras. Vårt Ruby-bibliotek tillhandahåller en professionell lösning för att konvertera TSV till PPTX-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och säkerställer högkvalitativ PPTX-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att konvertera TSV till PPTX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Exempel för att konvertera TSV till PPTX med Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ Att konvertera filformat från TSV till PPTX är en komplex uppgift. Alla TSV ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att konvertera TSV till PPTX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att konvertera Excel-filer till andra format TSV till PPTX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

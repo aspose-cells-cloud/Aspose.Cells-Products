@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV in XLSB konvertieren API for Java
-description: Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im CSV-Format in eine Datei im XLSB-Format.
-url: /de/java/conversion/csv-to-xlsb/
+title:  Konvertieren Sie CSV in XLSB mit Java
+description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im CSV-Format in eine Datei im XLSB-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von CSV in XLSB" h2="Java-Bibliothek zum Konvertieren von CSV in XLSB" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um CSV in XLSB und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/csv-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie CSV in XLSB" h2="Java Bibliothek zum Konvertieren von CSV in XLSB" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von CSV in XLSB und andere Dokumentformate unter Java." urlsection="conversion/csv-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine CSV-Datei in XLSB in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie CSV in XLSB mit Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von CSV in XLSB ist eine komplexe Aufgabe. Alle Übergänge vom CSV- zum XLSB-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der CSV-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von CSV- in XLSB-Dateien. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
+Das Konvertieren von Dateiformaten von CSV in XLSB kann eine komplexe Aufgabe sein. Unser Java SDK übernimmt alle CSV-in-XLSB-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-CSV-Tabelle bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von CSV- in XLSB-Dateien. Dieses Cloud SDK bietet Java-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSB-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren von CSV in das XLSB-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel für die Konvertierung von CSV in XLSB mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von CSV in XLSB ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API zum Konvertieren von CSV in XLSB" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Konvertieren von Excel-Dateien in andere Formate, CSV in XLSB" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

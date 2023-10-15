@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLS в ODS API для Android
-description: Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата XLS в файл формата ODS.
-url: /ru/android/conversion/xls-to-ods/
+title:  Конвертируйте XLS в ODS с помощью Android
+description:  Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата XLS в файл формата ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования XLS в ODS" h2="Библиотека Android для преобразования XLS в ODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования XLS в ODS и другие форматы документов онлайн с помощью Android." urlsection="conversion/xls-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLS в ODS" h2="Библиотека Android для преобразования XLS в ODS" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертации XLS в ODS и другие форматы документов с помощью Android." urlsection="conversion/xls-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в ODS в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XLS в ODS с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в ODS — сложная задача. Все переходы между форматами XLS и ODS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLS в ODS. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод ODS.
+Преобразование форматов файлов из XLS в ODS может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов XLS в ODS, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов XLS в ODS. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод ODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования XLS в формат ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования XLS в ODS с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,15 +46,15 @@ url: /ru/android/conversion/xls-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования XLS в ODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для преобразования файлов Excel в другие форматы XLS в ODS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

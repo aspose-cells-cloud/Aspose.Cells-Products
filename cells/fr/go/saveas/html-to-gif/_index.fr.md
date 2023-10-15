@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez HTML en tant que GIF API pour Go
+title:  Enregistrez HTML au format GIF en utilisant Go
 description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format HTML au format GIF.
-url: /fr/go/saveas/html-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour enregistrer HTML en tant que GIF" h2="Accédez à la bibliothèque pour enregistrer HTML au format GIF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer HTML au format GIF et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/html-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer HTML en tant que GIF" h2="Accédez à la bibliothèque pour enregistrer HTML au format GIF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer HTML au format GIF et autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/html-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier HTML au format GIF dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichier à partir de HTML au format GIF est une tâche complexe. Toutes les transitions du format HTML vers le format GIF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source HTML. Notre bibliothèque Go est une solution professionnelle pour enregistrer HTML sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie GIF parfaite.
+L'enregistrement des formats de fichiers à partir de HTML au format GIF est une tâche complexe. Toutes les transitions du format HTML vers le format GIF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source HTML. Notre bibliothèque Go est une solution professionnelle pour enregistrer HTML sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie GIF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer HTML au format GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Exemple de code pour enregistrer HTML au format GIF en utilisant REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ L'enregistrement des formats de fichier à partir de HTML au format GIF est une 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Go API pour enregistrer HTML au format GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Go pour enregistrer les fichiers Excel sous d\'autres formats HTML au format GIF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>go version go1.13.0 ou plus récente</li>
+<li>aller à la version go1.13.0 ou plus récente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

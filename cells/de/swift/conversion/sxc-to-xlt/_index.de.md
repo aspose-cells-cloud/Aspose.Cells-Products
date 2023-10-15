@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC zu XLT Konvertieren API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im SXC-Format in eine Datei im XLT-Format zu konvertieren.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im SXC-Format in eine Datei im XLT-Format zu konvertieren.
 url: /de/swift/conversion/sxc-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  Esporta FOGLIO DI LAVORO in TIFF dal foglio di calcolo utilizzando Perl API
+title:  Esporta FOGLIO DI LAVORO a TIFF da Excel utilizzando Cells Cloud SDK per Perl
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/perl/export/worksheet-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per esportare WORKSHEET nel file TIFF" h2="Perl libreria per esportare WORKSHEET nel file TIFF" p="Utilizzare Cells Export REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Perl. Questa è una soluzione professionale per esportare il FOGLIO DI LAVORO nel file in formato TIFF dal foglio di calcolo online utilizzando Perl." urlsection="export/worksheet-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta FOGLIO DI LAVORO a TIFF da Excel" h2="Libreria Perl per esportare FOGLIO DI LAVORO nel file TIFF" p="Utilizza Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Perl. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO nel file in formato TIFF dal foglio di calcolo online utilizzando Perl." urlsection="export/worksheet-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta oggetto WORKSHEET nel file in formato TIFF in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato TIFF utilizzando Cells Cloud SDK per Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto WORKSHEET nel file TIFF dal foglio di calcolo è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni di formato TIFF viene eseguita dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Perl è una soluzione professionale per esportare oggetti WORKSHEET in file in formato TIFF online. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e un output TIFF perfetto.
+Esportare l'oggetto FOGLIO DI LAVORO nel file TIFF dal file Excel è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni del formato TIFF viene eseguita dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di lavoro del FOGLIO DI LAVORO di origine. La nostra libreria Perl è una soluzione professionale per esportare oggetti FOGLIO DI LAVORO in file in formato TIFF online. Questo Cloud SDK offre agli sviluppatori Perl funzionalità potenti e un output TIFF perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Perl utilizzando REST API per esportare WORKSHEET nel formato TIFF dal foglio di calcolo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Perl utilizzando REST API per esportare FOGLIO DI LAVORO nel formato TIFF dal foglio di calcolo" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,9 +36,9 @@ Esportare l'oggetto WORKSHEET nel file TIFF dal foglio di calcolo è un'attivit�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Perl API per esportare WORKSHEET in TIFF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Perl per esportare oggetti da Excel WORKSHEET a TIFF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
 <li>Chiama il metodo post_export per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

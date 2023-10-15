@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS a PNG Converti API per Go
-description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLS nel file in formato PNG.
-url: /it/go/conversion/xls-to-png/
+title: Converti XLS in PNG utilizzando Go
+description:  Utilizzando Aspose.Cells Cloud SDK for Go per convertire un file in formato XLS in un file in formato PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per convertire XLS in PNG" h2="Vai alla libreria per convertire XLS in PNG" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per convertire XLS in PNG e altri formati di documenti online utilizzando Go." urlsection="conversion/xls-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti XLS in PNG" h2="Vai alla libreria per convertire XLS in PNG" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Go. Questa è una soluzione professionale per convertire XLS in PNG e altri formati di documenti online utilizzando Go." urlsection="conversion/xls-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XLS in PNG in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti XLS in PNG utilizzando Cells Cloud SDK per Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XLS a PNG è un'operazione complessa. Tutte le transizioni di formato da XLS a PNG vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLS di origine. La nostra libreria Go è una soluzione professionale per convertire i file XLS in PNG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output PNG perfetto.
+La conversione dei formati di file da XLS a PNG può essere un compito complesso. Il nostro Go SDK gestisce tutte le conversioni del formato XLS in PNG preservando il contenuto strutturale e logico principale del foglio di calcolo XLS di origine. La nostra libreria Go fornisce una soluzione professionale per convertire file XLS in PNG online. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e garantisce un output PNG di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per convertire XLS nel formato PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio Go Code per convertire XLS in PNG utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ La conversione dei formati di file da XLS a PNG è un'operazione complessa. Tutt
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per convertire XLS in PNG" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo CellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per convertire i file Excel in altri formati XLS in PNG" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

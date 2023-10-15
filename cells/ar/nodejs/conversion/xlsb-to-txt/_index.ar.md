@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSB إلى TXT تحويل API لـ NodeJS
-description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق XLSB إلى ملف بتنسيق TXT.
-url: /ar/nodejs/conversion/xlsb-to-txt/
+title:  تحويل XLSB إلى TXT باستخدام NodeJS
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف بتنسيق XLSB إلى ملف بتنسيق TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لتحويل XLSB إلى TXT" h2="مكتبة NodeJS لتحويل XLSB إلى TXT" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول البيانات المخصصة في NodeJS. هذا حل احترافي لتحويل XLSB إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="conversion/xlsb-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSB إلى TXT" h2="مكتبة NodeJS لتحويل XLSB إلى TXT" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع NodeJS. يعد هذا حلاً احترافيًا لتحويل XLSB إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="conversion/xlsb-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSB إلى TXT في NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSB إلى TXT باستخدام Cells Cloud SDK لـ NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSB إلى TXT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى TXT بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات XLSB إلى TXT عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج TXT مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSB إلى TXT مهمة معقدة. يتعامل NodeJS SDK الخاص بنا مع جميع تحويلات تنسيق XLSB إلى TXT مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. توفر مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSB إلى TXT عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري NodeJS بوظائف قوية ويضمن إخراج TXT عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل XLSB إلى تنسيق TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز NodeJS لتحويل XLSB إلى TXT باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,15 +34,15 @@ url: /ar/nodejs/conversion/xlsb-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Node API لتحويل XLSB إلى TXT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لتحويل ملفات Excel إلى تنسيقات أخرى من XLSB إلى TXT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>العقدة v6.17.1 أو أحدث</li>
+<li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

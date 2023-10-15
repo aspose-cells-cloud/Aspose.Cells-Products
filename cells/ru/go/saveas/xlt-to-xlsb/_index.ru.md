@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XLT как XLSB API для Go
+title:  Сохраните XLT как XLSB с помощью Go.
 description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLT как файла формата XLSB.
-url: /ru/go/saveas/xlt-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLT как XLSB." h2="Перейти в библиотеку, чтобы сохранить XLT как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLT как XLSB и других форматов документов онлайн с помощью Go." urlsection="saveas/xlt-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLT как XLSB" h2="Библиотека Go для сохранения XLT как XLSB" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения XLT в формате XLSB и других форматов документов онлайн с помощью Go." urlsection="saveas/xlt-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как XLSB в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как XLSB в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде XLSB — сложная задача. Все переходы между форматами XLT и XLSB выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для сохранения файлов XLT в формате XLSB онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSB.
+Сохранение форматов файлов из XLT в XLSB — сложная задача. Все переходы формата XLT в XLSB выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для сохранения файлов XLT в формате XLSB онлайн. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSB.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLT в формате XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения XLT как XLSB с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /ru/go/saveas/xlt-to-xlsb/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для сохранения XLT как XLSB" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах XLT как XLSB" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ TXT كـ JSON API لـ NodeJS
-description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق TXT كملف بتنسيق JSON.
-url: /ar/nodejs/saveas/txt-to-json/
+title:  احفظ TXT بتنسيق JSON باستخدام NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق TXT كملف بتنسيق JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لحفظ TXT كـ JSON" h2="مكتبة NodeJS لحفظ TXT كـ JSON" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في NodeJS. هذا حل احترافي لحفظ TXT بتنسيق JSON وتنسيقات مستندات أخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/txt-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TXT بتنسيق JSON" h2="مكتبة NodeJS لحفظ TXT بصيغة JSON" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في NodeJS. يعد هذا حلاً احترافيًا لحفظ TXT بتنسيق JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/txt-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT بتنسيق JSON في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT كـ JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى JSON بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TXT المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ TXT كملفات JSON عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج JSON مثالي.
+يعد حفظ تنسيقات الملفات من TXT بتنسيق JSON مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق TXT إلى JSON بواسطة NodeJS SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات JSON عبر الإنترنت. يوفر Cloud SDK لمطوري NodeJS وظائف قوية ومخرجات JSON مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ TXT بتنسيق JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود NodeJS لحفظ TXT كـ JSON باستخدام REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ url: /ar/nodejs/saveas/txt-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Node API لحفظ TXT كـ JSON" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لحفظ ملفات Excel بتنسيقات أخرى TXT مثل JSON" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>العقدة v6.17.1 أو أحدث</li>
+<li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ HTML كـ XPS API مقابل Python
-description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق HTML كملف بتنسيق XPS.
-url: /ar/python/saveas/html-to-xps/
+title:  احفظ HTML كـ XPS باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق HTML كملف بتنسيق XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ HTML كـ XPS" h2="مكتبة Python لحفظ HTML كـ XPS" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ HTML كـ XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/html-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ HTML كـ XPS" h2="مكتبة Python لحفظ HTML باسم XPS" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ HTML كـ XPS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/html-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML كـ XPS في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من HTML كـ XPS مهمة معقدة. يتم إجراء جميع انتقالات تنسيق HTML إلى XPS بواسطة SDK Python مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. مكتبتنا Python هي حل احترافي لحفظ HTML كملفات XPS عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XPS مثالي.
+يعد حفظ تنسيقات الملفات من HTML إلى XPS مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من HTML إلى XPS بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML. تعد مكتبتنا Python حلاً احترافيًا لحفظ HTML كملفات XPS عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج XPS مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ HTML بتنسيق XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على حفظ HTML كـ XPS باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/html-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ HTML كـ XPS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى HTML كـ XPS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

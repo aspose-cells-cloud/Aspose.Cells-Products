@@ -1,19 +1,19 @@
 ﻿---
-title: LISTOBJECT'i Swift API kullanarak e-tablodan ODS'ye aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
+title:  Swift API'i kullanarak LISTOBJECT'i e-tablodan ODS'ye aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 url: /tr/swift/export/listobject-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i ODS dosyasına aktarmak için Swift API" h2="LISTOBJECT\'i ODS dosyasına dışa aktarmak için Swift kitaplığı" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, LISTOBJECT\'i Swift kullanarak elektronik tablodan ODS formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i ODS dosyasına aktarmak için Swift API" h2="LISTOBJECT\'i ODS dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells REST\'i Dışa Aktar API\'i kullanın. Bu, Swift kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i ODS formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Swift\'de ODS format dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Swift\'de ODS formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini elektronik tablodan ODS dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i ODS biçimine dışa aktarma geçişleri, Swift SDK'mız tarafından gerçekleştirilir ve kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak ODS formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
+LISTOBJECT nesnesini elektronik tablodan ODS dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i ODS'ye aktarma format geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak ODS formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan ODS formatına dışa aktarmak için REST API kullanan Swift\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan ODS formatına aktarmak için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,8 +55,8 @@ LISTOBJECT nesnesini elektronik tablodan ODS dosyasına dışa aktarma karmaşı
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="LISTOBJECT\'i ODS\'ye dışa aktarmak için Swift API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="LISTOBJECT\'i ODS\'ye aktarmak için Swift API nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

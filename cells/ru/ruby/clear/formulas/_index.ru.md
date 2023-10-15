@@ -1,27 +1,26 @@
 ﻿---
-title:  Очистить формулы в локальной книге в облаке
-description: Облачные API и SDK для очистки формул на Microsoft Excel и OpenOffice Calc. Четкие формулы в локальных электронных таблицах по Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
-url: /ru/ruby/clear/formulas/
+title:  Очистка формул в локальной книге в облаке
+description: Облачные API и SDK для очистки формул по телефону Microsoft Excel и OpenOffice Calc. Четкие формулы в локальных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки формул в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение с четкими формулами на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Ruby." urlsection="clear/Formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление формул из локальной таблицы Microsoft Excel и таблицы OpenOffice Calc." h2="Ruby Clear для очистки формул в локальных Microsoft Excel и электронных таблицах OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить формулы в локальных Microsoft Excel и рабочих процессах электронных таблиц OpenOffice Calc в Ruby. Это профессиональное решение позволяет создавать формулы на локальном языке Microsoft Excel и в электронных таблицах OpenOffice Calc с использованием Ruby." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Четкие формулы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Ruby REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить формулы в локальной таблице Microsoft Excel и в электронной таблице OpenOffice Calc — Ruby REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Очистка формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc является сложной задачей. Очистка формул для локальных переходов электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Ruby — это профессиональное решение для очистки формул в локальной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и совершенный API.
+Очистка формул в локальных Microsoft Excel и электронных таблицах OpenOffice Calc — сложная задача. Очистка формул для локальных переходов электронных таблиц Microsoft Excel и OpenOffice Calc выполняется нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной таблицы. Наша библиотека Ruby — это профессиональное решение для очистки формул в локальных Microsoft Excel и онлайн-таблицах OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный код API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Код Ruby для очистки формул в локальных электронных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Clear-Formula.rb" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Код Ruby для очистки формул в локальных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Clear-Formula.rb" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Как использовать Ruby API для очистки формул" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Пост вызова_прозрачный_метод объектов для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Ruby для очистки формул" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_прозрачный_метод объектов для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

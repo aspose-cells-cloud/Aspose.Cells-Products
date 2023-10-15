@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera BILD till JPG från kalkylblad med PHP API
+title:  Exportera BILD till JPG från Excel med Cells Cloud SDK för PHP
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/php/export/picture-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att exportera BILD till JPG-fil" h2="PHP bibliotek för att exportera BILD till JPG-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i PHP. Detta är en professionell lösning för att exportera BILD till JPG-formatfil från kalkylark online med PHP." urlsection="export/picture-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera BILD till JPG från Excel" h2="PHP bibliotek för att exportera BILD till JPG-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i PHP. Detta är en professionell lösning för att exportera BILD till JPG-format fil från kalkylblad online med PHP." urlsection="export/picture-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera PICTURE-objekt till JPG-formatfil i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera PICTURE-objekt till JPG-formatfil med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera PICTURE-objekt till JPG-fil från kalkylblad är en komplex uppgift. Export av bild till JPG format övergångar utförs av vår PHP SDK samtidigt som källbildens kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att exportera BILDobjekt till JPG-formatfiler online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
+Exportera PICTURE-objekt till JPG-fil från Excel-filen är en komplex uppgift. Export av BILD till JPG-formatövergångar utförs av vår PHP SDK med bibehållen källbilds-kalkylblads huvudsakliga strukturella och logiska innehåll. Vårt PHP-bibliotek är en professionell lösning för att exportera BILDobjekt till JPG-formatfiler online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att exportera BILD till JPG-format från kalkylblad" gistPath="" %}}
@@ -36,10 +35,10 @@ Exportera PICTURE-objekt till JPG-fil från kalkylblad är en komplex uppgift. E
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att exportera BILD till JPG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att exportera objekt från Excel BILD till JPG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

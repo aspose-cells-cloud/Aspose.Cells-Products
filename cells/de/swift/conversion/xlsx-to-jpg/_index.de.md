@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX in JPG Konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSX-Formatdatei in eine JPG-Formatdatei.
+title: XLSX in JPG Konvertieren API für Swift
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSX-Formatdatei in eine JPG-Formatdatei.
 url: /de/swift/conversion/xlsx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

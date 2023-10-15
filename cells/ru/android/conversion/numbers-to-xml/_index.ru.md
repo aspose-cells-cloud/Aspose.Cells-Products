@@ -1,19 +1,18 @@
 ﻿---
-title: NUMBERS to XML Convert API для Android
-description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата NUMBERS в файл формата XML.
-url: /ru/android/conversion/numbers-to-xml/
+title:  Преобразование ЧИСЕЛ в XML с помощью Android
+description:  Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата NUMBERS в файл формата XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования NUMBERS в XML" h2="Библиотека Android для преобразования NUMBERS в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования NUMBERS в XML и другие форматы документов онлайн с помощью Android." urlsection="conversion/numbers-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразование ЧИСЕЛ в XML" h2="Библиотека Android для преобразования ЧИСЕЛ в XML" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертации ЧИСЕЛ в XML и другие форматы документов с помощью Android." urlsection="conversion/numbers-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в XML в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование ЧИСЕЛ в XML с помощью Cells Cloud SDK для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в XML — сложная задача. Все преобразования форматов NUMBERS в XML выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XML. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из ЧИСЛОВ в XML может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата NUMBERS в формат XML, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Android предоставляет профессиональное решение для онлайн-преобразования ЧИСЕЛ в файлы XML. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод XML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования NUMBERS в формат XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования ЧИСЕЛ в XML с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,15 +46,15 @@ url: /ru/android/conversion/numbers-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования NUMBERS в XML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для преобразования файлов Excel в другие форматы NUMBERS в XML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

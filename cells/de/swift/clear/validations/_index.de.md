@@ -1,6 +1,6 @@
 ﻿---
 title:  Löschen Sie Validierungen für die lokale Arbeitsmappe in der Cloud
-description:  Cloud-APIs und SDKs zum Löschen von Validierungen unter Microsoft Excel und OpenOffice Calc. Klare Validierungen für lokale Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description: Cloud-APIs und SDKs zum Löschen von Validierungen unter Microsoft Excel und OpenOffice Calc. Klare Validierungen für lokale Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

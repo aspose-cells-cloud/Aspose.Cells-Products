@@ -1,19 +1,18 @@
 ﻿---
-title:  XML إلى ODS - تحويل API لروبي
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XML إلى ملف بتنسيق ODS.
-url: /ar/ruby/conversion/xml-to-ods/
+title:  تحويل XML إلى ODS باستخدام روبي
+description: استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف بتنسيق XML إلى ملف بتنسيق ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لتحويل XML إلى ODS" h2="مكتبة روبي لتحويل XML إلى ODS" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لتحويل XML إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/xml-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XML إلى المواد المستنفدة للأوزون" h2="مكتبة روبي لتحويل XML إلى ODS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Ruby. يعد هذا حلاً احترافيًا لتحويل XML إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/xml-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف XML إلى ODS في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XML إلى ODS باستخدام Cells Cloud SDK لروبي" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XML إلى ODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى ODS بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل XML إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج ODS مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XML إلى ODS مهمة معقدة. يتعامل Ruby SDK الخاص بنا مع جميع تحويلات تنسيق XML إلى ODS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XML المصدر. توفر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات XML إلى ملفات ODS عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Ruby من خلال وظائف قوية ويضمن مخرجات ODS عالية الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل XML إلى تنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لتحويل XML إلى ODS باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ar/ruby/conversion/xml-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتحويل XML إلى ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتحويل ملفات Excel إلى تنسيقات أخرى من XML إلى ODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera CHART till JPG från kalkylblad med Perl API
+title:  Exportera CHART till JPG från Excel med Cells Cloud SDK för Perl
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/perl/export/chart-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att exportera CHART till JPG-fil" h2="Perl-biblioteket för att exportera CHART till JPG-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylark i Perl. Detta är en professionell lösning för att exportera CHART till JPG-formatfil från kalkylark online med Perl." urlsection="export/chart-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera CHART till JPG från Excel" h2="Perl-bibliotek för att exportera CHART till JPG-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i Perl. Detta är en professionell lösning för att exportera CHART till JPG-format fil från kalkylblad online med Perl." urlsection="export/chart-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera CHART-objekt till JPG-formatfil i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera CHART-objekt till JPG-formatfil med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera CHART-objekt till JPG-fil från kalkylblad är en komplex uppgift. Exportera CHART till JPG-formatövergångar utförs av vår Perl SDK samtidigt som källdiagrammets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att exportera CHART-objekt till JPG-formatfiler online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
+Exportera CHART-objekt till JPG-fil från Excel-filen är en komplex uppgift. Exportera CHART till JPG-formatövergångar utförs av vår Perl SDK samtidigt som källdiagrammets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att exportera CHART-objekt till JPG-formatfiler online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att exportera CHART till JPG-format från kalkylblad" gistPath="" %}}
@@ -37,9 +36,9 @@ Exportera CHART-objekt till JPG-fil från kalkylblad är en komplex uppgift. Exp
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att exportera CHART till JPG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att exportera objekt från Excel CHART till JPG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop post_export-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

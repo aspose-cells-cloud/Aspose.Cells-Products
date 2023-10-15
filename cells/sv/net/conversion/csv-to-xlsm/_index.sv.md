@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV till XLSM Konvertera API för C#
-description: Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i CSV-format till fil i XLSM-format.
-url: /sv/net/conversion/csv-to-xlsm/
+title:  Konvertera CSV till XLSM med C#
+description:  Använda Aspose.Cells Cloud SDK för C# för att konvertera en fil i CSV-format till en fil i XLSM-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att konvertera CSV till XLSM" h2="C# bibliotek för att konvertera CSV till XLSM" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Net. Detta är en professionell lösning för att konvertera CSV till XLSM och andra dokumentformat online med C#." urlsection="conversion/csv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera CSV till XLSM" h2="C# bibliotek för att konvertera CSV till XLSM" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera CSV till XLSM och andra dokumentformat online med C#." urlsection="conversion/csv-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en CSV-fil till XLSM i C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera CSV till XLSM med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från CSV till XLSM är en komplex uppgift. Alla CSV- till XLSM-formatövergångar utförs av vår C# SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att konvertera CSV- till XLSM-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt XLSM-utgång.
+Att konvertera filformat från CSV till XLSM kan vara en komplex uppgift. Vår C# SDK hanterar alla CSV- till XLSM-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-CSV-kalkylarket bevaras. Vårt C#-bibliotek tillhandahåller en professionell lösning för att konvertera CSV- till XLSM-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och säkerställer XLSM-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att konvertera CSV till XLSM-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kodexempel för att konvertera CSV till XLSM med Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ Att konvertera filformat från CSV till XLSM är en komplex uppgift. Alla CSV- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att konvertera CSV till XLSM" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att konvertera Excel-filer till andra format CSV till XLSM" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,10 +1,9 @@
 ﻿---
-title:  CSV als SXC API for Java speichern
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern von CSV-Formatdateien als SXC-Formatdateien.
-url: /de/java/saveas/csv-to-sxc/
+title:  Speichern Sie CSV als SXC mit Java
+description:  Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern von CSV-Formatdateien als SXC-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um CSV als SXC zu speichern" h2="Java-Bibliothek zum Speichern von CSV als SXC" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um CSV als SXC und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/csv-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="CSV als SXC speichern" h2="Java Bibliothek zum Speichern von CSV als SXC" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um CSV als SXC und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/csv-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine CSV-Datei als SXC unter Java" >}}
@@ -13,7 +12,7 @@ url: /de/java/saveas/csv-to-sxc/
 Das Speichern von Dateiformaten von CSV als SXC ist eine komplexe Aufgabe. Alle CSV-zu-SXC-Formatübergänge werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-CSV-Tabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um CSV als SXC-Dateien online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte SXC-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von CSV im SXC-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel zum Speichern von CSV als SXC mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten von CSV als SXC ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um CSV als SXC zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Excel-Dateien in anderen Formaten wie CSV oder SXC zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

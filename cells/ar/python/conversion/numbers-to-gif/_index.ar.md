@@ -1,19 +1,18 @@
 ﻿---
-title:  الأرقام إلى GIF قم بتحويل API إلى Python
-description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق GIF.
-url: /ar/python/conversion/numbers-to-gif/
+title:  تحويل الأرقام إلى GIF باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل الأرقام إلى GIF" h2="Python مكتبة لتحويل الأرقام إلى GIF" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل الأرقام إلى GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/numbers-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى GIF" h2="مكتبة Python لتحويل الأرقام إلى GIF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/numbers-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى GIF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل الأرقام إلى GIF باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى GIF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل الأرقام إلى ملفات GIF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج GIF مثالي.
+قد يكون تحويل تنسيقات الملفات من NUMBERS إلى GIF مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى GIF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل NUMBERS إلى ملفات GIF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python من الحصول على وظائف قوية ويضمن إخراج صور GIF عالية الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل الأرقام إلى تنسيق GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل الأرقام إلى GIF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/numbers-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل الأرقام إلى GIF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى NUMBERS إلى GIF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

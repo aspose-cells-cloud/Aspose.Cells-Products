@@ -1,19 +1,18 @@
 ﻿---
-title:  Exportar HOJA DE TRABAJO a TIFF desde una hoja de cálculo usando Java API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/java/export/worksheet-to-tiff/
+title: Exportar HOJA DE TRABAJO a TIFF desde Excel usando Cells Cloud SDK for Java
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para exportar la HOJA DE TRABAJO al archivo TIFF" h2="Java biblioteca para exportar la HOJA DE TRABAJO al archivo TIFF" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en Java. Esta es una solución profesional para exportar HOJA DE TRABAJO a un archivo de formato TIFF desde una hoja de cálculo en línea usando Java." urlsection="export/worksheet-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar HOJA DE TRABAJO a TIFF desde Excel" h2="Biblioteca Java para exportar HOJA DE TRABAJO al archivo TIFF" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en Java. Esta es una solución profesional para exportar HOJA DE TRABAJO a un archivo de formato TIFF desde una hoja de cálculo en línea usando Java." urlsection="export/worksheet-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto HOJA DE TRABAJO al archivo de formato TIFF en Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKSHEET a un archivo de formato TIFF usando Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto HOJA DE TRABAJO al archivo TIFF desde la hoja de cálculo es una tarea compleja. Exportar HOJA DE TRABAJO a las transiciones de formato TIFF se realiza mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Java es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos de formato TIFF en línea. Este SDK de Cloud ofrece a los desarrolladores de Java una potente funcionalidad y un resultado TIFF perfecto.
+Exportar el objeto WORKSHEET al archivo TIFF desde el archivo Excel es una tarea compleja. Nuestro SDK Java realiza la exportación de transiciones de HOJA DE TRABAJO a formato TIFF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de HOJA DE TRABAJO de origen. Nuestra biblioteca Java es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos con formato TIFF en línea. Este SDK de nube ofrece a los desarrolladores de Java una funcionalidad potente y un resultado de TIFF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para exportar la HOJA DE TRABAJO al formato TIFF desde la hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para exportar HOJA DE TRABAJO al formato TIFF desde una hoja de cálculo" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,16 +50,16 @@ Exportar el objeto HOJA DE TRABAJO al archivo TIFF desde la hoja de cálculo es 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Java API para exportar HOJA DE TRABAJO a TIFF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método postExport para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Java para exportar objetos de Excel WORKSHEET a TIFF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postExport` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Maven 2.2.0 o más reciente</li>
-<li>Java(TM) SE Entorno de tiempo de ejecución</li>
+<li>Java(TM) SE entorno de ejecución</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

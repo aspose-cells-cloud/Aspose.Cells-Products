@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie die Arbeitsmappe mit Java API aus der Tabellenkalkulation nach MD
+title:  Exportieren Sie WORKBOOK nach MD von Excel mit Cells Cloud SDK for Java
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/java/export/workbook-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Exportieren der Arbeitsmappe in eine MD-Datei" h2="Java-Bibliothek zum Exportieren von WORKBOOK in eine MD-Datei" p="Verwenden Sie Cells REST API exportieren, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Java zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine MD-Formatdatei aus einer Tabellenkalkulation online mit Java." urlsection="export/workbook-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie die Arbeitsmappe von Excel nach MD" h2="Java-Bibliothek zum Exportieren von WORKBOOK in eine MD-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um WORKBOOK online aus einer Tabellenkalkulation in eine MD-Formatdatei mit Java zu exportieren." urlsection="export/workbook-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in die MD-Formatdatei Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt mit Cells Cloud SDK for Java in eine MD-Formatdatei" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine MD-Datei ist eine komplexe Aufgabe. Übergänge im Format „Arbeitsmappe exportieren“ in „MD“ werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-Arbeitsmappe beibehalten wird. Unsere Bibliothek Java ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
+Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in eine MD-Datei ist eine komplexe Aufgabe. Übergänge im Format „Arbeitsmappe exportieren“ in „MD“ werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-Arbeitsmappe beibehalten wird. Unsere Bibliothek Java ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Exportieren von WORKBOOK aus der Tabellenkalkulation in das MD-Format" gistPath="" %}}
@@ -51,10 +50,10 @@ Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine MD-
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um WORKBOOK nach MD zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Exportieren von Objekten aus Excel WORKBOOK nach MD" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

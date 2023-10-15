@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP إلى PDF تحويل API لـ Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق BMP إلى ملف بتنسيق PDF.
-url: /ar/python/conversion/bmp-to-pdf/
+title:  تحويل BMP إلى PDF باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق BMP إلى ملف بتنسيق PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل BMP إلى PDF" h2="مكتبة Python لتحويل BMP إلى PDF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل BMP إلى PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/bmp-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل BMP إلى PDF" h2="مكتبة Python لتحويل BMP إلى PDF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل BMP إلى PDF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/bmp-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف BMP إلى PDF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل BMP إلى PDF باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى PDF مهمة معقدة. يتم إجراء جميع انتقالات تنسيق BMP إلى PDF بواسطة SDK Python مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل BMP إلى PDF الملفات عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج PDF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من BMP إلى PDF مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات التنسيق BMP إلى PDF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل BMP إلى PDF ملفًا عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python بوظائف قوية ويضمن إخراج PDF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل BMP إلى تنسيق PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل BMP إلى PDF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/bmp-to-pdf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل BMP إلى PDF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى BMP إلى PDF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

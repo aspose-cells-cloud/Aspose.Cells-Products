@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara BMP som SQL API för NodeJS
+title:  Spara BMP som SQL med NodeJS
 description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara BMP filformat som SQL-formatfil.
-url: /sv/nodejs/saveas/bmp-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att spara BMP som SQL" h2="NodeJS-bibliotek för att spara BMP som SQL" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara BMP som SQL och andra dokumentformat online med NodeJS." urlsection="saveas/bmp-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara BMP som SQL" h2="NodeJS-bibliotek för att spara BMP som SQL" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara BMP som SQL och andra dokumentformat online med NodeJS." urlsection="saveas/bmp-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en BMP-fil som SQL i NodeJS" >}}
@@ -13,7 +12,7 @@ url: /sv/nodejs/saveas/bmp-to-sql/
 Att spara filformat från BMP som SQL är en komplex uppgift. Alla övergångar från BMP till SQL-format utförs av vår NodeJS SDK samtidigt som källbladets BMP kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att spara BMP som SQL-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt SQL-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att spara BMP som SQL-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att spara BMP som SQL med REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Att spara filformat från BMP som SQL är en komplex uppgift. Alla övergångar 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att spara BMP som SQL" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att spara Excel filer som andra format BMP som SQL" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSB zu JSON Konvertieren API für Swift
+title: XLSB zu JSON Konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSB-Format in eine Datei im JSON-Format.
 url: /de/swift/conversion/xlsb-to-json/
 ---

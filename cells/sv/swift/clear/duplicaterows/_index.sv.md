@@ -1,5 +1,5 @@
 ﻿---
-title: Rensa dubbletter av rader i den lokala arbetsboken med Swift in Cloud
+title:  Rensa dubbletter av rader i den lokala arbetsboken med Swift in Cloud
 description: " Cloud API:er och SDK:er för att rensa dubbletter av rader på Microsoft Excel & OpenOffice Calc med Swift. Rensa dubbletter av rader på lokala kalkylark med Cells Cloud API SDK för Swift"
 url: /sv/swift/clear/duplicate-rows/
 ---

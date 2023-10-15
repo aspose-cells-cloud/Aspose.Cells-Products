@@ -1,19 +1,18 @@
 ﻿---
-title:  Converti da GIF a MD API per C#
-description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato GIF in un file in formato MD.
-url: /it/net/conversion/gif-to-md/
+title:  Converti GIF in MD utilizzando C#
+description:  Utilizzando Aspose.Cells Cloud SDK per C# per convertire un file in formato GIF in un file in formato MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per convertire GIF in MD" h2="C# libreria per convertire GIF in MD" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Net. Questa è una soluzione professionale per convertire GIF in MD e altri formati di documenti online utilizzando C#." urlsection="conversion/gif-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti GIF in MD" h2="Libreria C# per convertire GIF in MD" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Net. Questa è una soluzione professionale per convertire GIF in MD e altri formati di documenti online utilizzando C#." urlsection="conversion/gif-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file GIF in MD in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti GIF in MD utilizzando Cells Cloud SDK per C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da GIF a MD è un'attività complessa. Tutte le transizioni dal formato GIF a MD vengono eseguite dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo GIF di origine. La nostra libreria C# è una soluzione professionale per convertire file GIF in MD online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e un output MD perfetto.
+Convertire i formati di file da GIF a MD può essere un compito complesso. Il nostro SDK C# gestisce tutte le conversioni dal formato GIF al formato MD preservando il contenuto strutturale e logico principale del foglio di calcolo GIF di origine. La nostra libreria C# fornisce una soluzione professionale per convertire file GIF in MD online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e garantisce output MD di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in C# utilizzando REST API per convertire GIF in formato MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Esempio di codice per convertire GIF in MD utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,15 +35,15 @@ La conversione dei formati di file da GIF a MD è un'attività complessa. Tutte 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare C# API per convertire GIF in MD" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo CellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Net per convertire i file Excel in altri formati da GIF a MD" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>NET Framework 4.5.2 o più recente</li>
+<li>NET Framework 4.5.2 o successiva</li>
 <li>Net Standard 2.0 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV als GIF API für Swift speichern
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von CSV-Formatdateien als GIF-Formatdateien.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von CSV-Formatdateien als GIF-Formatdateien.
 url: /de/swift/saveas/csv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

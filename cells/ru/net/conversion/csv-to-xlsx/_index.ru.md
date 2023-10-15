@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование CSV в XLSX API для C#
-description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата CSV в файл формата XLSX.
-url: /ru/net/conversion/csv-to-xlsx/
+title:  Конвертируйте CSV в XLSX, используя C#.
+description:  Использование Cloud SDK Aspose.Cells для C# для преобразования файла формата CSV в файл формата XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования CSV в XLSX" h2="C# библиотека для преобразования CSV в XLSX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации CSV в XLSX и другие форматы документов по телефону C#." urlsection="conversion/csv-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать CSV в XLSX" h2="C# библиотека для конвертации CSV в XLSX" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Net. Это профессиональное решение для онлайн-конвертирования CSV в XLSX и другие форматы документов с использованием номера C#." urlsection="conversion/csv-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в XLSX в C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте CSV в XLSX с помощью Cloud SDK Cells для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в XLSX — сложная задача. Все переходы между форматами CSV и XLSX выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов CSV в XLSX. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод XLSX.
+Преобразование форматов файлов из CSV в XLSX может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования формата CSV в XLSX, сохраняя при этом основное структурное и логическое содержимое исходной таблицы CSV. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертации файлов CSV в XLSX. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод в формате XLSX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования CSV в формат XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для преобразования CSV в XLSX с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ru/net/conversion/csv-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для преобразования CSV в XLSX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для преобразования файлов Excel в другие форматы CSV в XLSX." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

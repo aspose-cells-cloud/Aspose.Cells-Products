@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLSM som HTML API för Android
+title:  Spara XLSM som HTML med Android
 description: Använder Aspose.Cells Cloud SDK för Android för att spara fil i XLSM-format som fil i HTML-format.
-url: /sv/android/saveas/xlsm-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att spara XLSM som HTML" h2="Android-bibliotek för att spara XLSM som HTML" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara XLSM som HTML och andra dokumentformat online med Android." urlsection="saveas/xlsm-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSM som HTML" h2="Android-bibliotek för att spara XLSM som HTML" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara XLSM som HTML och andra dokumentformat online med Android." urlsection="saveas/xlsm-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSM-fil som HTML i Android" >}}
@@ -13,7 +12,7 @@ url: /sv/android/saveas/xlsm-to-html/
 Att spara filformat från XLSM som HTML är en komplex uppgift. Alla formatövergångar från XLSM till HTML utförs av vår Android-SDK samtidigt som käll-XLSM-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLSM som HTML-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt HTML-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att spara XLSM som HTML-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att spara XLSM som HTML med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Att spara filformat från XLSM som HTML är en komplex uppgift. Alla formatöver
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara XLSM som HTML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att spara Excel filer som andra format XLSM som HTML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

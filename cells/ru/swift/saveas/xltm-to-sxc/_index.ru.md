@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохранить XLTM как SXC API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLTM в виде файла формата SXC.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLTM как файла формата SXC.
 url: /ru/swift/saveas/xltm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTM как SXC" h2="Библиотека Swift для сохранения XLTM как SXC" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLTM как SXC и других форматов документов онлайн с помощью Swift." urlsection="saveas/xltm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTM как SXC" h2="Библиотека Swift для сохранения XLTM как SXC" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XLTM как SXC и других форматов документов онлайн с помощью Swift." urlsection="saveas/xltm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как SXC в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде SXC — сложная задача. Все переходы формата XLTM в формат SXC выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Swift — это профессиональное решение для сохранения XLTM в виде файлов SXC в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод SXC.
+Сохранение форматов файлов из XLTM как SXC — сложная задача. Все переходы формата XLTM в SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLTM в формате SXC онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLTM в формате SXC" gistPath="" %}}
@@ -55,9 +55,9 @@ url: /ru/swift/saveas/xltm-to-sxc/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLTM как SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  XML إلى XLSX - تحويل API لـ Python
-description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XML إلى ملف بتنسيق XLSX.
-url: /ar/python/conversion/xml-to-xlsx/
+title:  تحويل XML إلى XLSX باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق XML إلى ملف بتنسيق XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل XML إلى XLSX" h2="Python مكتبة لتحويل XML إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Python. هذا حل احترافي لتحويل XML إلى XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XML إلى XLSX" h2="مكتبة Python لتحويل XML إلى XLSX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل XML إلى XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xml-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XML إلى XLSX في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XML إلى XLSX باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XML إلى XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى XLSX بواسطة Python SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لتحويل ملفات XML إلى ملفات XLSX عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLSX مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XML إلى XLSX مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق XML إلى XLSX مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XML المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل ملفات XML إلى ملفات XLSX عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python من الحصول على وظائف قوية ويضمن إخراج XLSX عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل XML إلى تنسيق XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل XML إلى XLSX باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/xml-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل XML إلى XLSX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى من XML إلى XLSX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

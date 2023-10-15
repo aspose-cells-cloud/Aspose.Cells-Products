@@ -1,19 +1,18 @@
 ﻿---
-title:  حفظ ODS كـ XML API لـ Python
+title:  احفظ المواد المستنفدة للأوزون بتنسيق XML باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق ODS كملف بتنسيق XML.
-url: /ar/python/saveas/ods-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ المواد المستنفدة للأوزون بصيغة XML" h2="مكتبة Python لحفظ نظام الوثائق الرسمية بصيغة XML" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ ODS بتنسيق XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/ods-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ المواد المستنفدة للأوزون بصيغة XML" h2="Python مكتبة لحفظ المواد المستنفدة للأوزون بصيغة XML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/ods-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بصيغة XML في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بتنسيق XML في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من نظام الوثائق الرسمية على هيئة XML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى XML بواسطة SDK Python الخاص بنا مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لحفظ ODS كملفات XML عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XML مثالي.
+يعد حفظ تنسيقات الملفات من ODS بتنسيق XML مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق ODS إلى XML بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS. تعد مكتبتنا Python حلاً احترافيًا لحفظ المواد المستنفدة للأوزون كملفات XML عبر الإنترنت. يوفر Cloud SDK لمطوري Python وظائف قوية ومخرجات XML مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ ODS كتنسيق XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ المواد المستنفدة للأوزون بصيغة XML باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/ods-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ ODS بصيغة XML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى ODS مثل XML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

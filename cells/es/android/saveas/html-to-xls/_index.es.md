@@ -1,19 +1,18 @@
 ﻿---
-title:  Guardar HTML como XLS API para Android
-description: Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato HTML como archivo de formato XLS.
-url: /es/android/saveas/html-to-xls/
+title:  Guarde HTML como XLS usando Android
+description: Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato HTML como archivo de formato XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para guardar HTML como XLS" h2="Biblioteca de Android para guardar HTML como XLS" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Android. Esta es una solución profesional para guardar HTML como XLS y otros formatos de documentos en línea usando Android." urlsection="saveas/html-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar HTML como XLS" h2="Biblioteca de Android para guardar HTML como XLS" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Android. Esta es una solución profesional para guardar HTML como XLS y otros formatos de documentos en línea usando Android." urlsection="saveas/html-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como XLS en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde HTML como XLS es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato HTML a XLS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca de Android es una solución profesional para guardar HTML como archivos XLS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLS perfecta.
+Guardar formatos de archivo de HTML como XLS es una tarea compleja. Todas las transiciones de formato HTML a XLS las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca de Android es una solución profesional para guardar HTML como archivos XLS en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida XLS perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para guardar HTML como formato XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código de Android para guardar HTML como XLS usando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ Guardar formatos de archivo desde HTML como XLS es una tarea compleja. Nuestro S
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Java API para guardar HTML como XLS" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Android para guardar archivos Excel en otros formatos HTML como XLS" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Android 7 o más reciente</li>
-<li>Java(TM) SE Entorno de tiempo de ejecución</li>
+<li>Java(TM) SE entorno de ejecución</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

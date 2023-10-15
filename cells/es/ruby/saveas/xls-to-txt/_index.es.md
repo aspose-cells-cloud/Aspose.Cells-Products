@@ -1,19 +1,18 @@
 ﻿---
-title:  Guarde XLS como TXT API para Ruby
-description:  Usando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato XLS como archivo de formato TXT.
-url: /es/ruby/saveas/xls-to-txt/
+title:  Guarde XLS como TXT usando Ruby
+description:  Utilizando Aspose.Cells Cloud SDK para Ruby para guardar el archivo en formato XLS como archivo en formato TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para guardar XLS como TXT" h2="Biblioteca Ruby para guardar XLS como TXT" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para guardar XLS como TXT y otros formatos de documentos en línea usando Ruby." urlsection="saveas/xls-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XLS como TXT" h2="Biblioteca Ruby para guardar XLS como TXT" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para guardar XLS como TXT y otros formatos de documentos en línea usando Ruby." urlsection="saveas/xls-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XLS como TXT en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XLS como TXT en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLS como TXT es una tarea compleja. Todas las transiciones de formato XLS a TXT son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca Ruby es una solución profesional para guardar XLS como archivos TXT en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida TXT perfecta.
+Guardar formatos de archivo de XLS como TXT es una tarea compleja. Todas las transiciones de formato XLS a TXT las realiza nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca Ruby es una solución profesional para guardar XLS como archivos TXT en línea. Este SDK de Cloud ofrece a los desarrolladores de Ruby una funcionalidad potente y una salida TXT perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar XLS como formato TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Ruby para guardar XLS como TXT usando REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Guardar formatos de archivo de XLS como TXT es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Ruby API para guardar XLS como TXT" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_ahorrar_como_correo_documento_ahorrar_como método para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Ruby para guardar archivos Excel en otros formatos XLS como TXT" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `post_workbook_save_as` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

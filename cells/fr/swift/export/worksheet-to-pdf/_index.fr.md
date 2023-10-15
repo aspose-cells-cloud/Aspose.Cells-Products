@@ -4,13 +4,13 @@ description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichi
 url: /fr/swift/export/worksheet-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour exporter WORKSHEET vers le fichier PDF" h2="Bibliothèque Swift pour exporter WORKSHEET vers le fichier PDF" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Swift. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format PDF à partir d\'une feuille de calcul en ligne à l\'aide de Swift." urlsection="export/worksheet-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour exporter la FEUILLE DE TRAVAIL vers le fichier PDF" h2="Bibliothèque Swift pour exporter WORKSHEET vers le fichier PDF" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes d\'une feuille de calcul dans Swift. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET au format PDF à partir d\'une feuille de calcul en ligne à l\'aide de Swift." urlsection="export/worksheet-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKSHEET vers un fichier au format PDF dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exporter l'objet WORKSHEET vers le fichier PDF à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format WORKSHEET vers PDF est effectuée par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKSHEET source. Notre bibliothèque Swift est une solution professionnelle pour exporter en ligne des objets WORKSHEET vers des fichiers au format PDF. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PDF parfaite.
+Exporter l'objet WORKSHEET vers le fichier PDF à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions au format WORKSHEET au format PDF est effectuée par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKSHEET source. Notre bibliothèque Swift est une solution professionnelle pour exporter des objets WORKSHEET au format PDF en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PDF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour exporter WORKSHEET au format PDF à partir d\'une feuille de calcul" gistPath="" %}}
@@ -55,9 +55,9 @@ Exporter l'objet WORKSHEET vers le fichier PDF à partir d'une feuille de calcul
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour exporter WORKSHEET vers PDF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour exporter une FEUILLE DE TRAVAIL vers PDF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
 <li>Appelez la méthode postExport pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

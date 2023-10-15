@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير CHART إلى PNG من جدول البيانات باستخدام Python API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/python/export/chart-to-png/
+title:  تصدير الرسم البياني إلى PNG من Excel باستخدام Cells Cloud SDK لـ Python
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتصدير المخطط البياني إلى ملف PNG" h2="مكتبة Python لتصدير المخطط البياني إلى ملف PNG" p="استخدم Cells Export REST API لتصدير مهام سير عمل الكائنات الداخلية لجدول البيانات في Python. هذا حل احترافي لتصدير CHART إلى ملف بتنسيق PNG من جدول بيانات عبر الإنترنت باستخدام Python." urlsection="export/chart-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير الرسم البياني إلى PNG من Excel" h2="مكتبة Python لتصدير الرسم البياني إلى ملف PNG" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Python. يعد هذا حلاً احترافيًا لتصدير CHART إلى ملف بتنسيق PNG من جدول البيانات عبر الإنترنت باستخدام Python." urlsection="export/chart-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق PNG في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف تنسيق PNG باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن CHART إلى ملف PNG من جدول البيانات مهمة معقدة. تصدير المخطط البياني إلى PNG يتم إجراء انتقالات تنسيق بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات المخطط. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لتصدير كائنات المخطط البياني إلى ملفات بتنسيق PNG عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج PNG مثالي.
+يعد تصدير كائن CHART إلى ملف PNG من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير CHART إلى تنسيق PNG بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CHART المصدر. تعد مكتبتنا Python حلاً احترافيًا لتصدير كائنات CHART إلى ملفات بتنسيق PNG عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج PNG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتصدير المخطط البياني إلى تنسيق PNG من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Python باستخدام REST API لتصدير CHART إلى تنسيق PNG من جدول البيانات" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,10 +36,10 @@ url: /ar/python/export/chart-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتصدير المخطط البياني إلى PNG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتصدير الكائنات من Excel CHART إلى PNG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

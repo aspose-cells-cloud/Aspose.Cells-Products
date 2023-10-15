@@ -1,19 +1,18 @@
 ﻿---
-title:  XML in XLT konvertieren API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer XML-Formatdatei in eine XLT-Formatdatei.
-url: /de/java/conversion/xml-to-xlt/
+title:  Konvertieren Sie XML mit Java in XLT
+description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer XML-Formatdatei in eine XLT-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von XML in XLT" h2="Java-Bibliothek zum Konvertieren von XML in XLT" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in XLT und andere Dokumentformate mit Java." urlsection="conversion/xml-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XML in XLT" h2="Java Bibliothek zum Konvertieren von XML in XLT" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in XLT und andere Dokumentformate unter Java." urlsection="conversion/xml-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XML-Datei in XLT in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XML in XLT mit dem Cloud SDK Cells for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XML nach XLT ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum XLT-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML- in XLT-Dateien. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte XLT-Ausgabe.
+Das Konvertieren von Dateiformaten von XML nach XLT kann eine komplexe Aufgabe sein. Unser Java SDK übernimmt alle Konvertierungen von XML in das XLT-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-XML-Tabelle bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XML- in XLT-Dateien. Dieses Cloud SDK bietet Java-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLT-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren von XML in das XLT-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel für die Konvertierung von XML in XLT mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von XML nach XLT ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API zum Konvertieren von XML in XLT" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Excel-Dateien in andere Formate, XML in XLT, zu konvertieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

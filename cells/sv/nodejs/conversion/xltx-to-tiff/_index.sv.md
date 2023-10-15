@@ -1,19 +1,18 @@
 ﻿---
-title: XLTX till TIFF Konvertera API för NodeJS
-description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i XLTX-format till fil i TIFF-format.
-url: /sv/nodejs/conversion/xltx-to-tiff/
+title:  Konvertera XLTX till TIFF med NodeJS
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera en fil i XLTX-format till en fil i TIFF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att konvertera XLTX till TIFF" h2="NodeJS-bibliotek för att konvertera XLTX till TIFF" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att konvertera XLTX till TIFF och andra dokumentformat online med NodeJS." urlsection="conversion/xltx-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLTX till TIFF" h2="NodeJS-bibliotek för att konvertera XLTX till TIFF" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera XLTX till TIFF och andra dokumentformat online med NodeJS." urlsection="conversion/xltx-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLTX-fil till TIFF i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLTX till TIFF med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTX till TIFF är en komplex uppgift. Alla formatövergångar från XLTX till TIFF utförs av vår NodeJS SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att konvertera XLTX till TIFF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt TIFF-utgång.
+Att konvertera filformat från XLTX till TIFF kan vara en komplicerad uppgift. Vår NodeJS SDK hanterar alla formatkonverteringar från XLTX till TIFF samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket XLTX bevaras. Vårt NodeJS-bibliotek tillhandahåller en professionell lösning för att konvertera XLTX till TIFF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TIFF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att konvertera XLTX till TIFF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att konvertera XLTX till TIFF med Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Att konvertera filformat från XLTX till TIFF är en komplex uppgift. Alla forma
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att konvertera XLTX till TIFF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att konvertera Excel-filer till andra format XLTX till TIFF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

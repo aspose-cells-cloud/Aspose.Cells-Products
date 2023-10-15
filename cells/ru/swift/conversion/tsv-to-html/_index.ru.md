@@ -1,16 +1,16 @@
 ﻿---
 title:  TSV в HTML Конвертировать API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата TSV в файл формата HTML.
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата TSV в файл формата HTML.
 url: /ru/swift/conversion/tsv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования TSV в HTML" h2="Библиотека Swift для преобразования TSV в HTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования TSV в HTML и другие форматы документов онлайн с помощью Swift." urlsection="conversion/tsv-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации TSV в HTML" h2="Библиотека Swift для преобразования TSV в HTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации TSV в HTML и другие форматы документов с помощью Swift." urlsection="conversion/tsv-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в HTML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в HTML — сложная задача. Все переходы формата TSV в формат HTML выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TSV в HTML. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
+Конвертирование форматов файлов из TSV в HTML — сложная задача. Все переходы формата TSV в HTML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы TSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TSV в файлы HTML. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования TSV в формат HTML" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/tsv-to-html/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования TSV в HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

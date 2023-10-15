@@ -1,33 +1,32 @@
 ﻿---
-title: Effacer les lignes en double sur le classeur local avec C# dans le Cloud
-description:  API Cloud et SDK pour effacer les lignes en double sur Microsoft Excel et OpenOffice Calc avec C#. Effacer les lignes en double sur les feuilles de calcul locales par le Cells Cloud API SDK pour C#
-url: /fr/net/clear/duplicate-rows/
+title:  Supprimez les lignes en double du classeur local à l'aide de C# dans l'environnement cloud Aspose Cells.
+description:  API et SDK Cloud pour supprimer les lignes en double dans Microsoft Excel et OpenOffice Calc à l'aide de C#. Supprimez les lignes en double dans les feuilles de calcul locales avec le SDK Cloud Cells pour C#.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="C# Effacer pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Effacer REST API pour effacer les lignes en double sur les flux de travail locaux Microsoft Excel et de tableur OpenOffice Calc dans C#. Cette solution professionnelle efface les lignes en double sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de C#." urlsection="clear/Duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Suppression des lignes en double dans les feuilles de calcul locales Microsoft Excel et OpenOffice Calc." h2="Bibliothèque C# pour supprimer les lignes en double des feuilles de calcul locales Microsoft Excel et OpenOffice Calc." p="Utilisez Cells Clear REST API pour supprimer les lignes en double des feuilles de calcul locales Microsoft Excel et OpenOffice Calc dans les flux de travail C#. Cette solution professionnelle efface efficacement les lignes en double des feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de C#." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - C# REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Supprimez les lignes en double dans les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide du SDK Cloud Cells pour C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Effacer les lignes en double sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc est une tâche complexe. La suppression des lignes en double sur les transitions de feuille de calcul locales Microsoft Excel et OpenOffice Calc est effectuée par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque C# est une solution professionnelle pour effacer les lignes en double sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et un API parfait.
+La suppression des lignes en double des feuilles de calcul locales Microsoft Excel et OpenOffice Calc est complexe, et notre SDK Cloud Cells pour C# gère cette transition tout en préservant le contenu structurel et logique de la feuille de calcul source. Notre bibliothèque C# est une solution professionnelle pour supprimer efficacement les lignes en double en ligne dans les feuilles de calcul locales Microsoft Excel et OpenOffice Calc. Ce SDK Cloud offre aux développeurs C# des fonctionnalités robustes et un puissant API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code réseau pour effacer les lignes en double sur les feuilles de calcul locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-DuplicateRows.cs" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Code net pour effacer les lignes en double sur les feuilles de calcul locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-DuplicateRows.cs" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Comment utiliser C# API pour effacer les lignes en double" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Net API pour supprimer les lignes en double" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode PostClearObjects pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostClearObjects` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>NET Framework 4.5.2 ou plus récent</li>
-<li>Net Standard 2.0 ou plus récent</li>
+<li>NET Framework 4.5.2 ou version ultérieure</li>
+<li>Net Standard 2.0 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

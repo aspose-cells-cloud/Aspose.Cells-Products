@@ -1,19 +1,18 @@
 ﻿---
-title: JSON إلى TIFF حوّل API إلى Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق JSON إلى ملف بتنسيق TIFF.
-url: /ar/python/conversion/json-to-tiff/
+title:  تحويل JSON إلى TIFF باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق JSON إلى ملف بتنسيق TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل JSON إلى TIFF" h2="مكتبة Python لتحويل JSON إلى TIFF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل JSON إلى TIFF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/json-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل JSON إلى TIFF" h2="مكتبة Python لتحويل JSON إلى TIFF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل JSON إلى TIFF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/json-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JSON إلى TIFF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل JSON إلى TIFF باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JSON إلى TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى TIFF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل ملفات JSON إلى TIFF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج TIFF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من JSON إلى TIFF مهمة معقدة. يتعامل Python SDK الخاص بنا مع جميع تحويلات تنسيق JSON إلى TIFF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل ملفات JSON إلى TIFF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python بوظائف قوية ويضمن إخراج TIFF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل JSON إلى تنسيق TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل JSON إلى TIFF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/json-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل JSON إلى TIFF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى JSON إلى TIFF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Convertir GIF en SQL API pour NodeJS
-description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format GIF en fichier au format SQL.
-url: /fr/nodejs/conversion/gif-to-sql/
+title:  Convertir GIF en SQL à l'aide de NodeJS
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir un fichier au format GIF en fichier au format SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour convertir GIF en SQL" h2="Bibliothèque NodeJS pour convertir GIF en SQL" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour convertir des GIF en SQL et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="conversion/gif-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir GIF en SQL" h2="Bibliothèque NodeJS pour convertir GIF en SQL" p="Utilisez la conversion API du Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets NodeJS. Il s\'agit d\'une solution professionnelle pour convertir des GIF en SQL et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="conversion/gif-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en SQL dans NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir GIF en SQL à l\'aide du SDK Cloud Cells pour NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers GIF en SQL est une tâche complexe. Toutes les transitions de format GIF vers SQL sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque NodeJS est une solution professionnelle pour convertir des fichiers GIF en fichiers SQL en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie SQL parfaite.
+La conversion des formats de fichiers GIF en SQL peut être une tâche complexe. Notre SDK NodeJS gère toutes les conversions du format GIF vers SQL tout en préservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque NodeJS fournit une solution professionnelle pour convertir des fichiers GIF en fichiers SQL en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et garantit une sortie SQL de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour convertir le format GIF au format SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code NodeJS pour convertir GIF en SQL à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,15 +34,15 @@ La conversion des formats de fichiers GIF en SQL est une tâche complexe. Toutes
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le nœud API pour convertir GIF en SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Node pour convertir des fichiers Excel vers d\'autres formats GIF en SQL" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>nœud v6.17.1 ou plus récent</li>
+<li>nœud v6.17.1 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

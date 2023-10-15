@@ -1,19 +1,18 @@
 ﻿---
-title: HTML till XLT Konvertera API för NodeJS
-description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera HTML filformat till XLT format fil.
-url: /sv/nodejs/conversion/html-to-xlt/
+title:  Konvertera HTML till XLT med NodeJS
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera en fil i HTML-format till en fil i XLT-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att konvertera HTML till XLT" h2="NodeJS-bibliotek för att konvertera HTML till XLT" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att konvertera HTML till XLT och andra dokumentformat online med NodeJS." urlsection="conversion/html-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera HTML till XLT" h2="NodeJS-bibliotek för att konvertera HTML till XLT" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera HTML till XLT och andra dokumentformat online med NodeJS." urlsection="conversion/html-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en HTML-fil till XLT i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera HTML till XLT med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från HTML till XLT är en komplex uppgift. Alla formatövergångar från HTML till XLT utförs av vår NodeJS SDK samtidigt som källbladets HTML kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att konvertera HTML till XLT-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt XLT-utdata.
+Att konvertera filformat från HTML till XLT kan vara en komplicerad uppgift. Vår NodeJS SDK hanterar alla konverteringar från HTML till XLT-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket HTML bevaras. Vårt NodeJS-bibliotek tillhandahåller en professionell lösning för att konvertera HTML till XLT-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och säkerställer högkvalitativ XLT-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att konvertera HTML till XLT-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att konvertera HTML till XLT med Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Att konvertera filformat från HTML till XLT är en komplex uppgift. Alla format
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att konvertera HTML till XLT" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att konvertera Excel-filer till andra format HTML till XLT" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

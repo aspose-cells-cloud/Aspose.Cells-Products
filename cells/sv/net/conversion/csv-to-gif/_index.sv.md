@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV till GIF Konvertera API för C#
-description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera CSV-formatfil till GIF-formatfil.
-url: /sv/net/conversion/csv-to-gif/
+title:  Konvertera CSV till GIF med C#
+description:  Använda Aspose.Cells Cloud SDK för C# för att konvertera en fil i CSV-format till en fil i GIF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att konvertera CSV till GIF" h2="C# bibliotek för att konvertera CSV till GIF" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Net. Detta är en professionell lösning för att konvertera CSV till GIF och andra dokumentformat online med C#." urlsection="conversion/csv-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera CSV till GIF" h2="C# bibliotek för att konvertera CSV till GIF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera CSV till GIF och andra dokumentformat online med C#." urlsection="conversion/csv-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en CSV-fil till GIF i C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera CSV till GIF med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från CSV till GIF är en komplex uppgift. Alla CSV- till GIF-formatövergångar utförs av vår C# SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att konvertera CSV- till GIF-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
+Att konvertera filformat från CSV till GIF kan vara en komplicerad uppgift. Vår C# SDK hanterar alla konverteringar av CSV till GIF-format samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-CSV-kalkylarket bevaras. Vårt C#-bibliotek erbjuder en professionell lösning för att konvertera CSV- till GIF-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och säkerställer högkvalitativa GIF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att konvertera CSV till GIF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kodexempel för att konvertera CSV till GIF med Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ Att konvertera filformat från CSV till GIF är en komplex uppgift. Alla CSV- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att konvertera CSV till GIF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att konvertera Excel-filer till andra format CSV till GIF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

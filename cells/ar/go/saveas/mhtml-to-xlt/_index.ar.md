@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ MHTML كـ XLT API من أجل Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق MHTML كملف بتنسيق XLT.
-url: /ar/go/saveas/mhtml-to-xlt/
+title:  احفظ MHTML بتنسيق XLT باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق MHTML كملف بتنسيق XLT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لحفظ MHTML كـ XLT" h2="انتقل إلى المكتبة لحفظ MHTML كـ XLT" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Go. هذا حل احترافي لحفظ MHTML بتنسيق XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="saveas/mhtml-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ MHTML بتنسيق XLT" h2="انتقل إلى المكتبة لحفظ MHTML بتنسيق XLT" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ MHTML بتنسيق XLT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/mhtml-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم XLT في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML بتنسيق XLT في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من MHTML كـ XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى XLT بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ MHTML كملفات XLT عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLT مثالي.
+يعد حفظ تنسيقات الملفات من MHTML بتنسيق XLT مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق MHTML إلى XLT بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ MHTML كملفات XLT عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية ومخرجات XLT مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لحفظ MHTML بتنسيق XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لحفظ MHTML كـ XLT باستخدام REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ url: /ar/go/saveas/mhtml-to-xlt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لحفظ MHTML كـ XLT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لحفظ ملفات Excel بتنسيقات أخرى MHTML مثل XLT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

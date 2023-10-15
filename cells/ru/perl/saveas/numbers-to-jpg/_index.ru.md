@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить НОМЕРА как JPG API для Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата NUMBERS в виде файла формата JPG.
-url: /ru/perl/saveas/numbers-to-jpg/
+title:  Сохраните ЧИСЛА в формате JPG, используя Perl.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата NUMBERS в формате JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить ЦИФРЫ в формате JPG" h2="Perl библиотека для сохранения NUMBERS в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения NUMBERS в виде JPG и других форматов документов в Интернете с использованием Perl." urlsection="saveas/numbers-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ЧИСЛА в формате JPG" h2="Perl библиотека для сохранения ЧИСЕЛ в формате JPG" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения ЧИСЕЛ в формате JPG и других форматов документов в Интернете с помощью Perl." urlsection="saveas/numbers-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS в формате JPG по адресу Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS в формате JPG по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде JPG — сложная задача. Все переходы NUMBERS в формат JPG выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для сохранения NUMBERS в виде файлов JPG онлайн. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение файловых форматов NUMBERS в формате JPG — сложная задача. Все переходы формата NUMBERS в JPG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для сохранения ЧИСЕЛ в формате JPG в Интернете. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения NUMBERS в формате JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения ЧИСЕЛ в формате JPG с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/numbers-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API, чтобы сохранить ЧИСЛА в формате JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl, чтобы сохранить файлы Excel в других форматах ЦИФРЫ как JPG." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

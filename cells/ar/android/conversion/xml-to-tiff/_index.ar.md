@@ -1,19 +1,18 @@
 ﻿---
-title:  XML إلى TIFF تحويل API لنظام Android
-description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XML إلى ملف بتنسيق TIFF.
-url: /ar/android/conversion/xml-to-tiff/
+title:  تحويل XML إلى TIFF باستخدام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف بتنسيق XML إلى ملف بتنسيق TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لتحويل XML إلى TIFF" h2="مكتبة Android لتحويل XML إلى TIFF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لتحويل XML إلى TIFF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/xml-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XML إلى TIFF" h2="مكتبة Android لتحويل XML إلى TIFF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Android. يعد هذا حلاً احترافيًا لتحويل XML إلى TIFF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/xml-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XML إلى TIFF في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XML إلى TIFF باستخدام Cells Cloud SDK لنظام Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XML إلى TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى TIFF بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل XML إلى ملفات TIFF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج TIFF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XML إلى TIFF مهمة معقدة. يتعامل Android SDK الخاص بنا مع جميع تحويلات تنسيق XML إلى TIFF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XML المصدر. توفر مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل XML إلى ملفات TIFF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Android من وظائف قوية ويضمن إخراج TIFF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل XML إلى تنسيق TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لتحويل XML إلى TIFF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ url: /ar/android/conversion/xml-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتحويل XML إلى TIFF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتحويل ملفات Excel إلى تنسيقات أخرى XML إلى TIFF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

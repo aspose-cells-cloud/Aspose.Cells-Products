@@ -1,7 +1,6 @@
 ﻿---
 title: 在云中使用密码加密云电子表格
 description: 用于保护的云 API 和 SDK Microsoft Excel 和 OpenOffice Calc。通过Cells云API对云电子表格进行密码加密。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/go/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="前往 API 使用密码保护云 Microsoft Excel 和 OpenOffice Calc 电子表格" h2="Go库保护云Microsoft Excel和带有密码的OpenOffice Calc电子表格" p="使用 Cells Protect REST API 来保护云 Microsoft Excel 和 OpenOffice Calc 电子表格以及 Go 中的密码工作流程。这个专业的解决方案使用 Go 使用密码在线保护云 Microsoft Excel 和 OpenOffice Calc 电子表格。" urlsection="protect/Encrypt-cloud-file-with-password/" >}}
@@ -18,9 +17,9 @@ url: /zh/go/protect/encrypt-cloud-file-with-password/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Go API进行加密" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Go加密Excel文件" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 CellsWorkbookPostEncryptDocument 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

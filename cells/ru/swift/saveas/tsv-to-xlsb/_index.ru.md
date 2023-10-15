@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохраните TSV как XLSB API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата TSV в виде файла формата XLSB.
+title:  Сохранить TSV как XLSB API для Swift.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата TSV как файла формата XLSB.
 url: /ru/swift/saveas/tsv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить TSV как XLSB" h2="Библиотека Swift для сохранения TSV как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения TSV как XLSB и других форматов документов онлайн с помощью Swift." urlsection="saveas/tsv-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить TSV как XLSB" h2="Библиотека Swift для сохранения TSV как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения TSV в формате XLSB и других форматов документов онлайн с помощью Swift." urlsection="saveas/tsv-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как XLSB в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде XLSB — сложная задача. Все переходы между форматами TSV и XLSB выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Swift — это профессиональное решение для сохранения файлов TSV в формате XLSB онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XLSB.
+Сохранение форматов файлов из TSV в формате XLSB — сложная задача. Все переходы формата TSV в XLSB выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы TSV. Наша библиотека Swift — это профессиональное решение для сохранения файлов TSV в формате XLSB онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения TSV в формате XLSB" gistPath="" %}}
@@ -55,9 +55,9 @@ url: /ru/swift/saveas/tsv-to-xlsb/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения TSV как XLSB" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

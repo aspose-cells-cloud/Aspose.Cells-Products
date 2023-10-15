@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva TSV come FODS API per Ruby
-description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per salvare il file in formato TSV come file in formato FODS.
-url: /it/ruby/saveas/tsv-to-fods/
+title:  Salva TSV come FODS utilizzando Ruby
+description:  Utilizzando Aspose.Cells Cloud SDK per Ruby per salvare il file in formato TSV come file in formato FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per salvare TSV come FODS" h2="Libreria Ruby per salvare TSV come FODS" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Ruby. Questa è una soluzione professionale per salvare TSV come FODS e altri formati di documenti online utilizzando Ruby." urlsection="saveas/tsv-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva TSV come FODS" h2="Libreria Ruby per salvare TSV come FODS" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Ruby. Questa è una soluzione professionale per salvare TSV come FODS e altri formati di documenti online utilizzando Ruby." urlsection="saveas/tsv-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file TSV come FODS in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da TSV come FODS è un compito complesso. Tutte le transizioni di formato da TSV a FODS vengono eseguite dal nostro Ruby SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TSV di origine. La nostra libreria Ruby è una soluzione professionale per salvare TSV come file FODS online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output FODS perfetto.
+Salvare i formati di file da TSV come FODS è un compito complesso. Tutte le transizioni dal formato TSV al formato FODS vengono eseguite dal nostro Ruby SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo TSV di origine. La nostra libreria Ruby è una soluzione professionale per salvare TSV come file FODS online. Questo Cloud SDK offre agli sviluppatori Ruby funzionalità potenti e un output FODS perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby utilizzando REST API per salvare TSV come formato FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice Ruby per salvare TSV come FODS utilizzando REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,15 +32,15 @@ Il salvataggio dei formati di file da TSV come FODS è un compito complesso. Tut
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Ruby API per salvare TSV come FODS" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama celle_salva_COME_inviare_documento_salva_come metodo per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Ruby per salvare i file Excel in altri formati TSV come FODS" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `post_workbook_save_as` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>rubino 2.5 o più recente</li>
+<li>rubino 2.5 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

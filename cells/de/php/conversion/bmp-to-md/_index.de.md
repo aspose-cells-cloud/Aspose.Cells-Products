@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP in MD Konvertieren Sie API in PHP
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für PHP, um eine Datei im BMP-Format in eine MD-Formatdatei zu konvertieren.
-url: /de/php/conversion/bmp-to-md/
+title:  Konvertieren Sie BMP mit PHP in MD
+description:  Verwendung des Aspose.Cells Cloud SDK für PHP zum Konvertieren einer Datei im BMP-Format in eine MD-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um BMP in MD umzuwandeln" h2="PHP-Bibliothek zum Konvertieren von BMP in MD" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um BMP online mit PHP in MD und andere Dokumentformate zu konvertieren." urlsection="conversion/bmp-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie BMP in MD" h2="PHP-Bibliothek zum Konvertieren von BMP in MD" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP-Projekten zu erstellen. Dies ist eine professionelle Lösung, um BMP online mit PHP in MD und andere Dokumentformate zu konvertieren." urlsection="conversion/bmp-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in MD in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie BMP in MD mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von BMP in MD ist eine komplexe Aufgabe. Alle Übergänge vom Format BMP zum MD-Format werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um BMP online in MD-Dateien zu konvertieren. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
+Das Konvertieren von Dateiformaten von BMP in MD kann eine komplexe Aufgabe sein. Unser PHP SDK übernimmt alle Konvertierungen von BMP in das MD-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle BMP bei. Unsere PHP-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von BMP in MD-Dateien. Dieses Cloud SDK bietet PHP-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zur Konvertierung von BMP in das MD-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel für die Konvertierung von BMP in MD mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Das Konvertieren von Dateiformaten von BMP in MD ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um BMP in MD zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkBook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Excel-Dateien in andere Formate zu konvertieren, BMP in MD" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

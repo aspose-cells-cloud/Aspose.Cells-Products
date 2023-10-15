@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG - DIF Dönüştürme API için Python
-description:  PNG biçimindeki dosyayı DIF biçimindeki dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/python/conversion/png-to-dif/
+title:  Python'i kullanarak PNG'i DIF'ye dönüştürün
+description:  PNG formatındaki bir dosyayı DIF formatındaki bir dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i DIF\'ye dönüştürmek için Python API" h2="PNG\'i DIF\'ye dönüştürmek için Python kitaplığı" p="Python\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, PNG\'i Python kullanarak çevrimiçi olarak DIF ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i DIF\'ye dönüştür" h2="PNG\'i DIF\'ye dönüştürmek için Python kütüphanesi" p="Python projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, PNG\'i kullanarak PNG\'i DIF\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir PNG dosyasını Python\'de DIF\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Python için Cells Cloud SDK\'yı kullanarak PNG\'i DIF\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını PNG'den DIF'ye dönüştürmek karmaşık bir iştir. PNG'den DIF biçimine tüm geçişler, Python SDK'mız tarafından gerçekleştirilir ve kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, PNG'i çevrimiçi DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
+Dosya formatlarını PNG'den DIF'ye dönüştürmek karmaşık bir iş olabilir. Python SDK'mız, kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriğini korurken, PNG'den DIF formatına tüm dönüşümleri gerçekleştirir. Python kitaplığımız, PNG'i çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Python geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli DIF çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PNG\'i DIF formatına dönüştürmek için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Cells Cloud SDK\'yı kullanarak PNG\'i DIF\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Dosya formatlarını PNG'den DIF'ye dönüştürmek karmaşık bir iştir. PNG'd
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="PNG\'i DIF\'ye dönüştürmek için Python API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Çağrı hücreleri_çalışma kitabı_koymak_dönüştürmek_sonuç akışını almak için çalışma kitabı yöntemi</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara PNG\'i DIF\'ye dönüştürmek için Python için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `put_convert_workbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

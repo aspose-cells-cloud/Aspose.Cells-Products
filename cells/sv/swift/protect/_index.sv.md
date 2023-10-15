@@ -1,6 +1,6 @@
 ﻿---
 title:  Skydda med Swift
-description: Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer med Swift. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description:  Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer med Swift. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

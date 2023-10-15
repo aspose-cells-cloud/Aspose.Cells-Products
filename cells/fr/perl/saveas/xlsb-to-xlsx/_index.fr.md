@@ -1,19 +1,18 @@
 ﻿---
-title: Enregistrez XLSB sous XLSX API pour Perl
-description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format XLSB en tant que fichier au format XLSX.
-url: /fr/perl/saveas/xlsb-to-xlsx/
+title:  Enregistrez XLSB au format XLSX en utilisant Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XLSB en tant que fichier au format XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer XLSB en XLSX" h2="Perl bibliothèque pour enregistrer XLSB en XLSX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB au format XLSX et d\'autres formats de document en ligne à l\'aide de Perl." urlsection="saveas/xlsb-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLSB sous XLSX" h2="Bibliothèque Perl pour enregistrer XLSB au format XLSX" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB au format XLSX et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/xlsb-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB sous XLSX dans Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSB au format XLSX dans Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de XLSB au format XLSX est une tâche complexe. Toutes les transitions de format XLSB vers XLSX sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer en ligne des fichiers XLSB au format XLSX. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie XLSX parfaite.
+Enregistrer les formats de fichiers XLSB au format XLSX est une tâche complexe. Toutes les transitions du format XLSB vers XLSX sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer XLSB sous forme de fichiers XLSX en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie XLSX parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour enregistrer XLSB au format XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour enregistrer XLSB au format XLSX à l\'aide de REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ L'enregistrement des formats de fichiers de XLSB au format XLSX est une tâche c
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Perl API pour enregistrer XLSB en XLSX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Perl pour enregistrer les fichiers Excel sous d\'autres formats XLSB comme XLSX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Poste d'appel_classeur_méthode save_as pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

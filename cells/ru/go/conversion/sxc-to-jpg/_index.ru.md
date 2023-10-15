@@ -1,19 +1,18 @@
 ﻿---
-title:  Конвертировать SXC в JPG API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата SXC в файл формата JPG.
-url: /ru/go/conversion/sxc-to-jpg/
+title:  Конвертируйте SXC в JPG с помощью Go
+description:  Использование Cloud SDK для Go Aspose.Cells для преобразования файла формата SXC в файл формата JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать SXC в JPG." h2="Библиотека Go для преобразования SXC в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации SXC в JPG и другие форматы документов с помощью Go." urlsection="conversion/sxc-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать SXC в JPG" h2="Библиотека Go для конвертации SXC в JPG" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для онлайн-конвертирования SXC в JPG и другие форматы документов с помощью Go." urlsection="conversion/sxc-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в JPG в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте SXC в JPG с помощью Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в JPG — сложная задача. Все переходы формата SXC в формат JPG выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов SXC в JPG. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате JPG.
+Преобразование форматов файлов из SXC в JPG может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования формата SXC в JPG, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования файлов SXC в JPG. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования SXC в формат JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования SXC в JPG с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /ru/go/conversion/sxc-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для преобразования SXC в JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для преобразования файлов Excel в другие форматы SXC в JPG." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

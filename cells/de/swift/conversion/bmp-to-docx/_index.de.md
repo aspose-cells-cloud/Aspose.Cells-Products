@@ -1,5 +1,5 @@
 ﻿---
-title:  BMP in DOCX Konvertieren Sie API für Swift
+title: BMP in DOCX Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im BMP-Format in eine DOCX-Formatdatei.
 url: /de/swift/conversion/bmp-to-docx/
 ---

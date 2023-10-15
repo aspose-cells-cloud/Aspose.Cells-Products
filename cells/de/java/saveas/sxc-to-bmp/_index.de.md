@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie SXC unter BMP API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern der SXC-Formatdatei als BMP-Formatdatei.
-url: /de/java/saveas/sxc-to-bmp/
+title:  Speichern Sie SXC unter BMP mit Java
+description: Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern der SXC-Formatdatei als BMP-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um SXC als BMP zu speichern" h2="Java-Bibliothek, um SXC unter BMP zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um SXC als BMP und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/sxc-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie SXC unter BMP" h2="Java-Bibliothek zum Speichern von SXC als BMP" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um SXC als BMP und andere Dokumentformate online unter Java zu speichern." urlsection="saveas/sxc-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei unter BMP in Java" >}}
@@ -13,7 +12,7 @@ url: /de/java/saveas/sxc-to-bmp/
 Das Speichern von Dateiformaten aus SXC als BMP ist eine komplexe Aufgabe. Alle Formatübergänge von SXC zu BMP werden von unserem Java SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um SXC als BMP-Dateien online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte BMP Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von SXC im BMP-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel zum Speichern von SXC als BMP unter Verwendung von REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus SXC als BMP ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um SXC als BMP zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Excel-Dateien in anderen SXC-Formaten als BMP zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

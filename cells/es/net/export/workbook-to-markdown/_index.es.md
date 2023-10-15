@@ -1,19 +1,18 @@
 ﻿---
-title:  Exportar LIBRO DE TRABAJO a MARKDOWN desde una hoja de cálculo usando C# API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/net/export/workbook-to-markdown/
+title:  Exporte WORKBOOK a MARKDOWN desde Excel usando Cells Cloud SDK para C#
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API para exportar LIBRO DE TRABAJO a archivo MARKDOWN" h2="C# biblioteca para exportar LIBRO DE TRABAJO a archivo MARKDOWN" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en Net. Esta es una solución profesional para exportar el LIBRO DE TRABAJO a un archivo de formato MARKDOWN desde una hoja de cálculo en línea usando C#." urlsection="export/workbook-to-markdown/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar LIBRO DE TRABAJO a MARKDOWN desde Excel" h2="C# biblioteca para exportar WORKBOOK a archivo MARKDOWN" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en Net. Esta es una solución profesional para exportar WORKBOOK a un archivo en formato MARKDOWN desde una hoja de cálculo en línea usando C#." urlsection="export/workbook-to-markdown/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKBOOK al archivo de formato MARKDOWN en C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKBOOK a un archivo con formato MARKDOWN usando Cells Cloud SDK para C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto WORKBOOK a un archivo MARKDOWN desde una hoja de cálculo es una tarea compleja. Exportar WORKBOOK a las transiciones de formato MARKDOWN se realiza mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo WORKBOOK de origen. Nuestra biblioteca C# es una solución profesional para exportar objetos de WORKBOOK a archivos de formato MARKDOWN en línea. Este SDK de Cloud brinda a los desarrolladores de C# una funcionalidad poderosa y una salida MARKDOWN perfecta.
+Exportar el objeto WORKBOOK a un archivo MARKDOWN desde el archivo Excel es una tarea compleja. Nuestro SDK C# realiza la exportación de transiciones de WORKBOOK a formato MARKDOWN manteniendo el contenido estructural y lógico principal de la hoja de cálculo de WORKBOOK de origen. Nuestra biblioteca C# es una solución profesional para exportar objetos WORKBOOK a archivos en formato MARKDOWN en línea. Este SDK de nube ofrece a los desarrolladores de C# una potente funcionalidad y un resultado MARKDOWN perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en C# usando REST API para exportar el LIBRO DE TRABAJO al formato MARKDOWN desde la hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en C# usando REST API para exportar WORKBOOK al formato MARKDOWN desde una hoja de cálculo" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,16 +43,16 @@ Exportar un objeto WORKBOOK a un archivo MARKDOWN desde una hoja de cálculo es 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar C# API para exportar WORKBOOK a MARKDOWN" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método PostExport para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Net para exportar objetos de Excel WORKBOOK a MARKDOWN" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postExport` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>NET Framework 4.5.2 o más reciente</li>
-<li>Net Standard 2.0 o más reciente</li>
+<li>Net Standard 2.0 o posterior</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLT als MD API für Python
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Speichern von XLT-Formatdateien als MD-Formatdateien.
-url: /de/python/saveas/xlt-to-md/
+title:  Speichern Sie XLT als MD mit Python
+description:  Verwendung von Aspose.Cells Cloud SDK für Python zum Speichern von XLT-Formatdateien als MD-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um XLT als MD zu speichern" h2="Python-Bibliothek zum Speichern von XLT als MD" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um XLT als MD und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/xlt-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLT als MD speichern" h2="Python Bibliothek zum Speichern von XLT als MD" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um XLT als MD und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/xlt-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als MD unter Python" >}}
@@ -13,7 +12,7 @@ url: /de/python/saveas/xlt-to-md/
 Das Speichern von Dateiformaten von XLT als MD ist eine komplexe Aufgabe. Alle XLT-zu-MD-Formatübergänge werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um XLT als MD-Dateien online zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Speichern von XLT im MD-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel zum Speichern von XLT als MD mit REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Das Speichern von Dateiformaten von XLT als MD ist eine komplexe Aufgabe. Alle X
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um XLT als MD zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Excel-Dateien in anderen Formaten, XLT als MD, zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

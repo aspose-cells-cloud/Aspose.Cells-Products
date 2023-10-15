@@ -1,16 +1,15 @@
 ﻿---
-title:  Exporte CHART a WMF desde una hoja de cálculo usando Android API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/android/export/chart-to-wmf/
+title: Exporte CHART a WMF desde Excel usando Cells Cloud SDK para Android
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para exportar CHART a archivo WMF" h2="Biblioteca de Android para exportar CHART a archivo WMF" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hojas de cálculo en Android. Esta es una solución profesional para exportar CHART a un archivo de formato WMF desde una hoja de cálculo en línea usando Android." urlsection="export/chart-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar TABLA a WMF desde Excel" h2="Biblioteca de Android para exportar CHART a un archivo WMF" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en Android. Esta es una solución profesional para exportar archivos en formato CHART a WMF desde una hoja de cálculo en línea usando Android." urlsection="export/chart-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto CHART a archivo de formato WMF en Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto CHART a un archivo en formato WMF usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto CHART a un archivo WMF desde una hoja de cálculo es una tarea compleja. Nuestro SDK de Android realiza la exportación de CHART a transiciones de formato WMF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos CHART a archivos de formato WMF en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida WMF perfecta.
+Exportar el objeto CHART a un archivo WMF desde el archivo Excel es una tarea compleja. Nuestro SDK de Android realiza la exportación de transiciones de formato CHART a WMF manteniendo el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos CHART a archivos en formato WMF en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida WMF perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para exportar CHART a formato WMF desde una hoja de cálculo" gistPath="" %}}
@@ -51,16 +50,16 @@ Exportar un objeto CHART a un archivo WMF desde una hoja de cálculo es una tare
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Java API para exportar CHART a WMF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método postExport para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Android para exportar objetos de Excel CHART a WMF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postExport` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Android 7 o más reciente</li>
-<li>Java(TM) SE Entorno de tiempo de ejecución</li>
+<li>Java(TM) SE entorno de ejecución</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
-title:  ZAHLEN als CSV API for Java speichern
-description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um die Datei im NUMBERS-Format als Datei im CSV-Format zu speichern.
-url: /de/java/saveas/numbers-to-csv/
+title:  Speichern Sie NUMBERS als CSV mit Java
+description:  Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern der Datei im NUMBERS-Format als Datei im CSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um ZAHLEN als CSV zu speichern" h2="Java-Bibliothek zum Speichern von ZAHLEN als CSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als CSV und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/numbers-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ZAHLEN als CSV speichern" h2="Java Bibliothek zum Speichern von ZAHLEN als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als CSV und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/numbers-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als CSV unter Java" >}}
@@ -13,7 +12,7 @@ url: /de/java/saveas/numbers-to-csv/
 Das Speichern von Dateiformaten aus NUMBERS als CSV ist eine komplexe Aufgabe. Alle Übergänge von NUMBERS zum CSV-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um ZAHLEN online als CSV-Dateien zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von ZAHLEN im CSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel zum Speichern von ZAHLEN als CSV mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus NUMBERS als CSV ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um ZAHLEN als CSV zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Excel-Dateien in anderen Formaten als CSV zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

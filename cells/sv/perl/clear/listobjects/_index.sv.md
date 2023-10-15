@@ -1,10 +1,9 @@
 ﻿---
 title:  Rensa listobjekt på den lokala arbetsboken i Cloud
 description: "Cloud API:er och SDK:er för att rensa listobjekt på Microsoft Excel & OpenOffice Calc. Rensa listobjekt på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/perl/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att rensa listobjekt på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Perl Rensa för att rensa listobjekt på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa listobjekt på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Perl. Den här professionella lösningen rensar listobjekt på lokala Microsoft 3Microsoft 3476153481 och 306153481 306153481 306153481 3476 3076 3016 3016 3016 och 30763 81." urlsection="clear/List-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort listobjekt på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Perl Rensa för att rensa listobjekt på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa listobjekt på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Perl. Den här professionella lösningen rensar listobjekt på lokala Microsoft 3Microsoft 3476153481 och 306153481 306153481 306153481 3476 3076 3016 3016 3016 och 30763 81." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa listobjekt på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Perl REST API" >}}
@@ -18,9 +17,9 @@ Rensa listobjekt på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är e
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Perl API för att rensa listobjekt" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att rensa listobjekt" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Ring post_klar_objektsmetod för att få den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

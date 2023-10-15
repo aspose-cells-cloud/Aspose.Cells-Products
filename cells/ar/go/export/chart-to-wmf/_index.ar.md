@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير CHART إلى WMF من جدول البيانات باستخدام Go API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/go/export/chart-to-wmf/
+title:  تصدير CHART إلى WMF من Excel باستخدام Cells Cloud SDK for Go
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لتصدير CHART إلى ملف WMF" h2="انتقل إلى المكتبة لتصدير CHART إلى ملف WMF" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Go. هذا حل احترافي لتصدير CHART إلى ملف بتنسيق WMF من جدول بيانات عبر الإنترنت باستخدام Go." urlsection="export/chart-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير الرسم البياني إلى WMF من Excel" h2="انتقل إلى المكتبة لتصدير CHART إلى ملف WMF" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Go. يعد هذا حلاً احترافيًا لتصدير ملف CHART إلى تنسيق WMF من جدول البيانات عبر الإنترنت باستخدام Go." urlsection="export/chart-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف تنسيق WMF في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتصدير كائن CHART إلى ملف بتنسيق WMF باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن CHART إلى ملف WMF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير المخطط إلى تنسيق WMF بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CHART. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات CHART إلى ملفات بتنسيق WMF عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج WMF مثالي.
+يعد تصدير كائن CHART إلى ملف WMF من ملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير تنسيق CHART إلى WMF بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CHART المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات CHART إلى ملفات بتنسيق WMF عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية ومخرجات WMF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتصدير CHART إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتصدير CHART إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -56,15 +55,15 @@ url: /ar/go/export/chart-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتصدير CHART إلى WMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة PostExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتصدير الكائنات من Excel CHART إلى WMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

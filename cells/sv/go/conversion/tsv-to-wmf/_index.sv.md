@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV till WMF Konvertera API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera fil i TSV-format till fil i WMF-format.
-url: /sv/go/conversion/tsv-to-wmf/
+title:  Konvertera TSV till WMF med Go
+description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en fil i TSV-format till en fil i WMF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå API för att konvertera TSV till WMF" h2="Gå till biblioteket för att konvertera TSV till WMF" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att konvertera TSV till WMF och andra dokumentformat online med Go." urlsection="conversion/tsv-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera TSV till WMF" h2="Gå till biblioteket för att konvertera TSV till WMF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera TSV till WMF och andra dokumentformat online med Go." urlsection="conversion/tsv-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en TSV-fil till WMF i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera TSV till WMF med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från TSV till WMF är en komplex uppgift. Alla TSV- till WMF-formatövergångar utförs av vår Go SDK samtidigt som käll-TSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att konvertera TSV till WMF-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt WMF-utdata.
+Att konvertera filformat från TSV till WMF kan vara en komplex uppgift. Vår Go SDK hanterar alla konverteringar av TSV till WMF-format samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-TSV-kalkylarket bevaras. Vårt Go-bibliotek tillhandahåller en professionell lösning för att konvertera TSV till WMF-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer WMF-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att konvertera TSV till WMF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera TSV till WMF med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Att konvertera filformat från TSV till WMF är en komplex uppgift. Alla TSV- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att konvertera TSV till WMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att konvertera Excel-filer till andra format TSV till WMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование GIF в JSON API для NodeJS
-description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата GIF в файл формата JSON.
-url: /ru/nodejs/conversion/gif-to-json/
+title:  Конвертируйте GIF в JSON с помощью NodeJS
+description:  Использование Cloud SDK Aspose.Cells для NodeJS для преобразования файла формата GIF в файл формата JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования GIF в JSON" h2="Библиотека NodeJS для преобразования GIF в JSON" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации GIF в JSON и другие форматы документов с использованием NodeJS." urlsection="conversion/gif-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать GIF в JSON" h2="Библиотека NodeJS для преобразования GIF в JSON" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах NodeJS. Это профессиональное решение для конвертации GIF в JSON и другие форматы документов онлайн с помощью NodeJS." urlsection="conversion/gif-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в JSON в NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте GIF в JSON с помощью Cloud SDK Cells для NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в JSON — сложная задача. Все переходы формата GIF в формат JSON выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов GIF в JSON. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод JSON.
+Преобразование форматов файлов из GIF в JSON может оказаться сложной задачей. Наш NodeJS SDK обрабатывает все преобразования форматов GIF в JSON, сохраняя при этом основное структурное и логическое содержимое исходной таблицы GIF. Наша библиотека NodeJS предоставляет профессиональное решение для онлайн-конвертации файлов GIF в JSON. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и обеспечивает высококачественный вывод JSON.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования GIF в формат JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для преобразования GIF в JSON с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ url: /ru/nodejs/conversion/gif-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для преобразования GIF в JSON" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для преобразования файлов Excel в другие форматы GIF в JSON" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

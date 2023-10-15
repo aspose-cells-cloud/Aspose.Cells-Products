@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить SXC как JPG API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата SXC в виде файла формата JPG.
-url: /ru/php/saveas/sxc-to-jpg/
+title:  Сохраните SXC в формате JPG, используя PHP.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата SXC в формате JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить SXC в формате JPG" h2="Библиотека PHP для сохранения SXC в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения SXC в виде JPG и других форматов документов в Интернете с использованием PHP." urlsection="saveas/sxc-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить SXC в формате JPG" h2="PHP библиотека для сохранения SXC в формате JPG" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения SXC в формате JPG и других форматов документов в Интернете с помощью PHP." urlsection="saveas/sxc-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC в формате JPG по адресу PHP." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC в формате JPG по номеру PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в виде JPG — сложная задача. Все переходы формата SXC в формат JPG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека PHP — это профессиональное решение для сохранения SXC в виде файлов JPG онлайн. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов SXC в формате JPG — сложная задача. Все переходы формата SXC в JPG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека PHP — это профессиональное решение для сохранения SXC в формате JPG в Интернете. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения SXC в формате JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения SXC в формате JPG с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/sxc-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения SXC в формате JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для сохранения файлов Excel в других форматах SXC как JPG." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

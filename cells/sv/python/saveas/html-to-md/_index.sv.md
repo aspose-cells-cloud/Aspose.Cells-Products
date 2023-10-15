@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara HTML som MD API för Python
+title:  Spara HTML som MD med Python
 description:  Använder Aspose.Cells Cloud SDK för Python för att spara HTML filformat som fil i MD-format.
-url: /sv/python/saveas/html-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att spara HTML som MD" h2="Python bibliotek för att spara HTML som MD" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att spara HTML som MD och andra dokumentformat online med Python." urlsection="saveas/html-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara HTML som MD" h2="Python bibliotek för att spara HTML som MD" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python. Detta är en professionell lösning för att spara HTML som MD och andra dokumentformat online med Python." urlsection="saveas/html-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en HTML-fil som MD i Python" >}}
@@ -13,7 +12,7 @@ url: /sv/python/saveas/html-to-md/
 Att spara filformat från HTML som MD är en komplex uppgift. Alla formatövergångar från HTML till MD utförs av vår Python SDK samtidigt som källbladets HTML kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att spara HTML som MD-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt MD-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att spara HTML som MD-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att spara HTML som MD med REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Att spara filformat från HTML som MD är en komplex uppgift. Alla formatöverg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att spara HTML som MD" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att spara Excel filer som andra format HTML som MD" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

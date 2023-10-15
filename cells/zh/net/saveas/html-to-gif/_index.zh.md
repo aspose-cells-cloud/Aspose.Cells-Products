@@ -1,10 +1,9 @@
 ﻿---
-title: 将 HTML 另存为 C# 的 GIF API
-description: 使用Aspose.Cells Cloud SDK for C#将HTML格式文件保存为GIF格式文件。
-url: /zh/net/saveas/html-to-gif/
+title: 使用 C# 将 HTML 保存为 GIF
+description: 利用Aspose.Cells云SDK for C#将HTML格式文件保存为GIF格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 HTML 保存为 GIF" h2="C#库将HTML保存为GIF" p="使用 Cells SaveAs REST API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将HTML保存为GIF和其他文档格式的专业解决方案。" urlsection="saveas/html-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 HTML 另存为 GIF" h2="C# 库，用于将 HTML 保存为 GIF" p="使用 Cells Cloud 的 SaveAs API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将HTML保存为GIF和其他文档格式的专业解决方案。" urlsection="saveas/html-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 HTML 文件另存为 C# 中的 GIF" >}}
@@ -13,7 +12,7 @@ url: /zh/net/saveas/html-to-gif/
 将 HTML 中的文件格式保存为 GIF 是一项复杂的任务。所有 HTML 到 GIF 格式的转换均由我们的 C# SDK 执行，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的 C# 库是在线将 HTML 保存为 GIF 文件的专业解决方案。该Cloud SDK为C#开发者提供了强大的功能和完美的GIF输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# 中的代码示例使用 REST API 将 HTML 保存为 GIF 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# 使用 REST API 将 HTML 保存为 GIF 的代码示例" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ url: /zh/net/saveas/html-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 C# API 将 HTML 保存为 GIF" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 CellsSaveAsPostDocumentSaveAs 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Net将Excel文件保存为其他格式 HTML为GIF" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

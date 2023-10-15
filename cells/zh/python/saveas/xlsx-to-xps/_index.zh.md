@@ -1,10 +1,9 @@
 ﻿---
-title: 将 XLSX 保存为 XPS API 为 Python
-description: 使用Aspose.Cells Cloud SDK for Python将XLSX格式文件保存为XPS格式文件。
-url: /zh/python/saveas/xlsx-to-xps/
+title: 使用 Python 将 XLSX 保存为 XPS
+description: 利用Aspose.Cells Cloud SDK for Python将XLSX格式文件保存为XPS格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 将XLSX另存为XPS" h2="Python 库将 XLSX 保存为 XPS" p="使用 Cells SaveAs REST API 在 Python 中创建自定义电子表格工作流程。这是使用 Python 在线将 XLSX 保存为 XPS 和其他文档格式的专业解决方案。" urlsection="saveas/xlsx-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将XLSX另存为XPS" h2="Python 用于将 XLSX 保存为 XPS 的库" p="使用Cells云的SaveAs API在Python中创建自定义电子表格工作流程。这是使用Python在线将XLSX另存为XPS和其他文档格式的专业解决方案。" urlsection="saveas/xlsx-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 XLSX 文件另存为 Python 中的 XPS" >}}
@@ -13,7 +12,7 @@ url: /zh/python/saveas/xlsx-to-xps/
 将 XLSX 中的文件格式保存为 XPS 是一项复杂的任务。所有 XLSX 到 XPS 格式的转换均由我们的 Python SDK 执行，同时保留源 XLSX 电子表格的主要结构和逻辑内容。我们的 Python 库是在线将 XLSX 保存为 XPS 文件的专业解决方案。此Cloud SDK为Python开发者提供了强大的功能和完美的XPS输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python 中的代码示例使用 REST API 将 XLSX 保存为 XPS 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python 使用 REST 将 XLSX 保存为 XPS 的代码示例 API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /zh/python/saveas/xlsx-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Python API将XLSX另存为XPS" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>呼叫细胞_节省_作为_邮政_文档_节省_as 获取结果流的方法</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Python将Excel文件保存为其他格式XLSX为XPS" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `post_workbook_save_as` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

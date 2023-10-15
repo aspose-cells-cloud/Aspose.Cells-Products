@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie die Nummern als PDF API für PHP
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im NUMBERS-Format als Datei im Format PDF zu speichern.
-url: /de/php/saveas/numbers-to-pdf/
+title:  Speichern Sie NUMBERS als PDF unter Verwendung von PHP
+description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern der Datei im NUMBERS-Format als Datei im Format PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um NUMMERN als PDF zu speichern" h2="PHP-Bibliothek, um NUMBERS als PDF zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als PDF und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/numbers-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie die Nummern unter PDF" h2="PHP-Bibliothek zum Speichern von ZAHLEN als PDF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als PDF und andere Dokumentformate online unter PHP zu speichern." urlsection="saveas/numbers-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei unter PDF in PHP" >}}
@@ -13,7 +12,7 @@ url: /de/php/saveas/numbers-to-pdf/
 Das Speichern von Dateiformaten von NUMBERS als PDF ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu PDF werden von unserem PHP SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um NUMBERS als PDF-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte PDF Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Speichern von ZAHLEN im PDF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel zum Speichern von ZAHLEN als PDF unter Verwendung von REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten von NUMBERS als PDF ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um ZAHLEN als PDF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Excel-Dateien in anderen Formaten zu speichern. ZAHLEN wie PDF" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

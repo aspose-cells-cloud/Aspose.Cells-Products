@@ -1,10 +1,9 @@
 ﻿---
-title: 将 PNG 另存为 PPTX API for Go
-description: 使用Aspose.Cells Cloud SDK for Go将PNG格式文件保存为PPTX格式文件。
-url: /zh/go/saveas/png-to-pptx/
+title: 使用 Go 将 PNG 保存为 PPTX
+description: 利用Aspose.Cells Cloud SDK for Go将PNG格式文件保存为PPTX格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="转到API将PNG另存为PPTX" h2="去图书馆将PNG另存为PPTX" p="使用 Cells SaveAs REST API 在 Go 中创建自定义电子表格工作流程。这是使用Go在线将PNG保存为PPTX等文档格式的专业解决方案。" urlsection="saveas/png-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 PNG 另存为 PPTX" h2="将 PNG 保存为 PPTX 的 Go 库" p="使用 Cells Cloud 的 SaveAs API 在 Go 中创建自定义电子表格工作流程。这是使用Go在线将PNG保存为PPTX等文档格式的专业解决方案。" urlsection="saveas/png-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 PNG 文件另存为 PPTX" >}}
@@ -13,7 +12,7 @@ url: /zh/go/saveas/png-to-pptx/
 将 PNG 中的文件格式保存为 PPTX 是一项复杂的任务。所有 PNG 到 PPTX 格式的转换均由我们的 Go SDK 执行，同时保留源 PNG 电子表格的主要结构和逻辑内容。我们的Go库是在线将PNG保存为PPTX文件的专业解决方案。该Cloud SDK为Go开发者提供了强大的功能和完美的PPTX输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go 中使用 REST API 将 PNG 保存为 PPTX 格式的代码示例" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="使用 REST API 将 PNG 保存为 PPTX 的 Go 代码示例" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /zh/go/saveas/png-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Go API将PNG保存为PPTX" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 CellsSaveAsPostDocumentSaveAs 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Go将Excel文件保存为其他格式PNG保存为PPTX" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

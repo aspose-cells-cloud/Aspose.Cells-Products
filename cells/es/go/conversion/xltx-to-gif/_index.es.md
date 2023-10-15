@@ -1,19 +1,18 @@
 ﻿---
-title:  Convertir XLTX a GIF API para Go
-description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato XLTX a un archivo de formato GIF.
-url: /es/go/conversion/xltx-to-gif/
+title: Convierta XLTX a GIF usando Go
+description:  Utilizar el SDK de Cloud Aspose.Cells para Go para convertir un archivo de formato XLTX a un archivo de formato GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para convertir XLTX a GIF" h2="Ir a la biblioteca para convertir XLTX a GIF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir XLTX a GIF y otros formatos de documentos en línea usando Go." urlsection="conversion/xltx-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLTX a GIF" h2="Ir a la biblioteca para convertir XLTX a GIF" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos de Go. Esta es una solución profesional para convertir XLTX a GIF y otros formatos de documentos en línea usando Go." urlsection="conversion/xltx-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo XLTX a GIF en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLTX a GIF usando Cells Cloud SDK para Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLTX a GIF es una tarea compleja. Todas las transiciones de formato XLTX a GIF se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos XLTX a GIF en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida GIF perfecta.
+Convertir formatos de archivo de XLTX a GIF puede ser una tarea compleja. Nuestro Go SDK maneja todas las conversiones de formato XLTX a GIF mientras preserva el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Go proporciona una solución profesional para convertir archivos XLTX a GIF en línea. Este SDK de Cloud brinda a los desarrolladores de Go una potente funcionalidad y garantiza una salida GIF de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir XLTX a formato GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Vaya ejemplo de código para convertir XLTX a GIF usando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ Convertir formatos de archivo de XLTX a GIF es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Go API para convertir XLTX a GIF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para convertir archivos Excel a otros formatos XLTX a GIF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>ir a la versión go1.13.0 o más reciente</li>
+<li>vaya a la versión go1.13.0 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

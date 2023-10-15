@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLSX als XLT API für Go
-description:  Verwenden Sie Aspose.Cells Cloud SDK für Go, um XLSX-Formatdateien als XLT-Formatdateien zu speichern.
-url: /de/go/saveas/xlsx-to-xlt/
+title:  Speichern Sie XLSX als XLT mit Go
+description:  Verwendung von Aspose.Cells Cloud SDK für Go zum Speichern von XLSX-Formatdateien als XLT-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XLSX als XLT zu speichern" h2="Gehen Sie zur Bibliothek, um XLSX als XLT zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSX als XLT und anderen Dokumentformaten mit Go." urlsection="saveas/xlsx-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX als XLT speichern" h2="Go-Bibliothek zum Speichern von XLSX als XLT" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSX als XLT und anderen Dokumentformaten mit Go." urlsection="saveas/xlsx-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSX-Datei als XLT in Go" >}}
@@ -13,7 +12,7 @@ url: /de/go/saveas/xlsx-to-xlt/
 Das Speichern von Dateiformaten von XLSX als XLT ist eine komplexe Aufgabe. Alle XLSX-zu-XLT-Formatübergänge werden von unserem Go SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLSX-Tabelle erhalten bleiben. Unsere Go-Bibliothek ist eine professionelle Lösung, um XLSX als XLT-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte XLT-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von XLSX im XLT-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel zum Speichern von XLSX als XLT mit REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten von XLSX als XLT ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um XLSX als XLT zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in den anderen Formaten XLSX und XLT zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

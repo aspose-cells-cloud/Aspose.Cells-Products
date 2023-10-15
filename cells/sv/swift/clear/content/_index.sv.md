@@ -1,6 +1,6 @@
 ﻿---
 title:  Rensa innehåll på den lokala arbetsboken i Cloud
-description: " Cloud API:er och SDK:er för att rensa innehåll på Microsoft Excel & OpenOffice Calc. Rensa innehåll på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
+description: "Cloud API:er och SDK:er för att rensa innehåll på Microsoft Excel & OpenOffice Calc. Rensa innehåll på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 url: /sv/swift/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

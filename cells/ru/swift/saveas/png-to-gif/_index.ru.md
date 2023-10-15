@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохранить PNG как GIF API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата PNG в виде файла формата GIF.
+title:  Сохранить PNG в формате GIF API для Swift
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата PNG в формате GIF.
 url: /ru/swift/saveas/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить PNG в формате GIF" h2="Библиотека Swift для сохранения PNG в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения PNG в формате GIF и других форматов документов в Интернете с помощью Swift." urlsection="saveas/png-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить PNG в формате GIF." h2="Библиотека Swift для сохранения PNG в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения PNG в формате GIF и других форматов документов онлайн с помощью Swift." urlsection="saveas/png-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG в формате GIF в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG в формате GIF — сложная задача. Все переходы PNG в формат GIF выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в формате GIF онлайн. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод GIF.
+Сохранение файлов формата PNG в формате GIF — сложная задача. Все переходы из формата PNG в формат GIF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в формате GIF в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения PNG в формате GIF" gistPath="" %}}
@@ -54,10 +54,10 @@ url: /ru/swift/saveas/png-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения PNG в формате GIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API, чтобы сохранить PNG в формате GIF" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

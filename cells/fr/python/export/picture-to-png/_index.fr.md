@@ -1,16 +1,15 @@
 ﻿---
-title:  Exporter PICTURE vers PNG à partir d'une feuille de calcul en utilisant Python API
+title:  Exportez PICTURE vers PNG à partir de Excel à l'aide du SDK Cloud Cells pour Python
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
-url: /fr/python/export/picture-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour exporter PICTURE vers le fichier PNG" h2="Bibliothèque Python pour exporter PICTURE vers le fichier PNG" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de la feuille de calcul dans Python. Il s\'agit d\'une solution professionnelle pour exporter PICTURE vers un fichier au format PNG à partir d\'une feuille de calcul en ligne à l\'aide de Python." urlsection="export/picture-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter l\'IMAGE vers le PNG à partir du Excel" h2="Bibliothèque Python pour exporter PICTURE vers le fichier PNG" p="Utilisez Export API de Cells Cloud pour exporter les flux de travail d\'objets internes du fichier Excel dans Python. Il s\'agit d\'une solution professionnelle pour exporter une IMAGE au format PNG à partir d\'une feuille de calcul en ligne à l\'aide de Python." urlsection="export/picture-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet PICTURE vers un fichier au format PNG dans Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportez l\'objet PICTURE vers un fichier au format PNG à l\'aide du SDK Cloud Cells pour Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exporter l'objet PICTURE vers le fichier PNG à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format PICTURE vers PNG est effectuée par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul PICTURE source. Notre bibliothèque Python est une solution professionnelle pour exporter en ligne des objets PICTURE vers des fichiers au format PNG. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie PNG parfaite.
+Exporter un objet PICTURE vers le fichier PNG à partir du fichier Excel est une tâche complexe. Les transitions d'exportation du format PICTURE au format PNG sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul PICTURE source. Notre bibliothèque Python est une solution professionnelle pour exporter des objets IMAGE au format PNG en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie PNG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour exporter PICTURE au format PNG à partir d\'une feuille de calcul" gistPath="" %}}
@@ -37,9 +36,9 @@ Exporter l'objet PICTURE vers le fichier PNG à partir d'une feuille de calcul e
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour exporter PICTURE vers PNG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python pour exporter des objets de Excel PICTURE vers PNG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
 <li>Appelez la méthode post_export pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

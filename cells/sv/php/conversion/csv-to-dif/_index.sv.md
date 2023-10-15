@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV till DIF Konvertera API för PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera CSV-formatfil till DIF-formatfil.
-url: /sv/php/conversion/csv-to-dif/
+title:  Konvertera CSV till DIF med PHP
+description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera en CSV-fil till en DIF-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att konvertera CSV till DIF" h2="PHP bibliotek för att konvertera CSV till DIF" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att konvertera CSV till DIF och andra dokumentformat online med PHP." urlsection="conversion/csv-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera CSV till DIF" h2="PHP bibliotek för att konvertera CSV till DIF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera CSV till DIF och andra dokumentformat online med PHP." urlsection="conversion/csv-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en CSV-fil till DIF i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera CSV till DIF med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från CSV till DIF är en komplex uppgift. Alla CSV- till DIF-formatövergångar utförs av vår PHP SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att konvertera CSV- till DIF-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt DIF-utgång.
+Att konvertera filformat från CSV till DIF kan vara en komplex uppgift. Vår PHP SDK hanterar alla konverteringar av CSV till DIF-format samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-CSV-kalkylarket bevaras. Vårt PHP-bibliotek erbjuder en professionell lösning för att konvertera CSV- till DIF-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer DIF-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att konvertera CSV till DIF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kodexempel för att konvertera CSV till DIF med Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Att konvertera filformat från CSV till DIF är en komplex uppgift. Alla CSV- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att konvertera CSV till DIF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring cellsWorkbookPutConvertWorkBook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att konvertera Excel filer till andra format CSV till DIF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

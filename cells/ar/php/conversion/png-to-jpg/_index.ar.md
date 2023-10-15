@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG إلى JPG - تحويل API لـ PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق PNG إلى ملف بتنسيق JPG.
-url: /ar/php/conversion/png-to-jpg/
+title:  تحويل PNG إلى JPG باستخدام PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق PNG إلى ملف بتنسيق JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل PNG إلى JPG" h2="PHP مكتبة لتحويل PNG إلى JPG" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل PNG إلى JPG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/png-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل PNG إلى JPG" h2="مكتبة PHP لتحويل PNG إلى JPG" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل PNG إلى JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/png-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف PNG إلى JPG في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل PNG إلى JPG باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من PNG إلى JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى تنسيق JPG بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل PNG إلى ملفات JPG عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج JPG مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من PNG إلى JPG مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق PNG إلى JPG مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل PNG إلى ملفات JPG عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج JPG عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل PNG إلى تنسيق JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل PNG إلى JPG باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/png-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل PNG إلى JPG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى PNG إلى JPG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

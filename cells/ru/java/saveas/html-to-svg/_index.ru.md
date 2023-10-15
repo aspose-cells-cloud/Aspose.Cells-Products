@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить HTML как SVG API for Java
+title:  Сохраните HTML как SVG, используя Java.
 description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата HTML как файла формата SVG.
-url: /ru/java/saveas/html-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить HTML как SVG" h2="Java библиотека для сохранения HTML как SVG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения HTML как SVG и других форматов документов в Интернете с использованием Java." urlsection="saveas/html-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как SVG" h2="Java библиотека для сохранения HTML как SVG" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения HTML как SVG и других форматов документов в Интернете с помощью Java." urlsection="saveas/html-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как SVG в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как SVG — сложная задача. Все переходы форматов с HTML на SVG выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Java — это профессиональное решение для сохранения файлов HTML как SVG онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат SVG.
+Сохранение форматов файлов с HTML как SVG — сложная задача. Все переходы форматов с HTML на SVG выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Java — это профессиональное решение для сохранения файлов HTML в формате SVG в Интернете. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный результат SVG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения HTML в формате SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения HTML как SVG с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/html-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API, чтобы сохранить HTML как SVG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах HTML как SVG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

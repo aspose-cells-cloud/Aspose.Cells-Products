@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX zu JSON Konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSX-Format in eine Datei im JSON-Format.
+title: XLSX zu JSON Konvertieren API für Swift
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSX-Format in eine Datei im JSON-Format.
 url: /de/swift/conversion/xlsx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

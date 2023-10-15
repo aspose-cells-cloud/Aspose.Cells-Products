@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование XLT в DIF API для Swift
+title:  Конвертировать XLT в DIF API для Swift
 description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLT в файл формата DIF.
 url: /ru/swift/conversion/xlt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLT в DIF" h2="Библиотека Swift для преобразования XLT в DIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLT в DIF и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xlt-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации XLT в DIF" h2="Библиотека Swift для преобразования XLT в DIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования XLT в DIF и другие форматы документов с помощью Swift." urlsection="conversion/xlt-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в DIF в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLT в DIF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в DIF является сложной задачей. Все переходы форматов XLT в DIF выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLT в DIF. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод DIF.
+Преобразование форматов файлов из XLT в DIF — сложная задача. Все переходы формата XLT в DIF выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов XLT в DIF. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLT в формат DIF" gistPath="" %}}
@@ -65,10 +65,10 @@ url: /ru/swift/conversion/xlt-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования XLT в DIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для конвертации XLT в DIF" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

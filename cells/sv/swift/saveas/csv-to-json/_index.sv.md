@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som JSON API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att spara CSV-formatfil som JSON-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att spara CSV-formatfil som JSON-formatfil.
 url: /sv/swift/saveas/csv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

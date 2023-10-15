@@ -1,19 +1,18 @@
 ﻿---
-title:  Esporta CHART in SVG dal foglio di calcolo utilizzando Android API
+title: Esporta CHART a SVG da Excel utilizzando Cells Cloud SDK per Android
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/android/export/chart-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per esportare CHART nel file SVG" h2="Libreria Android per esportare CHART nel file SVG" p="Usa Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Android. Questa è una soluzione professionale per esportare CHART nel file in formato SVG dal foglio di calcolo online utilizzando Android." urlsection="export/chart-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta TABELLA allo SVG da Excel" h2="Libreria Android per esportare CHART nel file SVG" p="Utilizza Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Android. Questa è una soluzione professionale per esportare CHART nel file in formato SVG da un foglio di calcolo online utilizzando Android." urlsection="export/chart-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto CHART nel file in formato SVG in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto CHART nel file in formato SVG utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto CHART nel file SVG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di formato da CHART a SVG viene eseguita dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti CHART in file in formato SVG online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output SVG perfetto.
+Esportare l'oggetto CHART nel file SVG dal file Excel è un'attività complessa. L'esportazione di transizioni di formato CHART nel formato SVG viene eseguita dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti CHART in file in formato SVG online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e un output SVG perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per esportare CHART nel formato SVG dal foglio di calcolo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per esportare CHART nel formato SVG dal foglio di calcolo" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -51,16 +50,16 @@ Esportare l'oggetto CHART nel file SVG dal foglio di calcolo è un'attività com
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Java API per esportare CHART in SVG" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo postExport per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Android per esportare oggetti da Excel CHART a SVG" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Android 7 o più recente</li>
-<li>Java(TM) SE Ambiente di runtime</li>
+<li>Android 7 o successivo</li>
+<li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

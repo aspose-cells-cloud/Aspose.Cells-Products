@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara NUMBERS som SXC API for Java
-description:  Använd Aspose.Cells Cloud SDK for Java för att spara NUMBERS-formatfilen som SXC-formatfil.
-url: /sv/java/saveas/numbers-to-sxc/
+title: Spara NUMBERS som SXC med Java
+description:  Använder Aspose.Cells Cloud SDK for Java för att spara NUMBERS-formatfilen som SXC-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att spara NUMBERS som SXC" h2="Java bibliotek för att spara NUMBERS som SXC" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara NUMBERS som SXC och andra dokumentformat online med Java." urlsection="saveas/numbers-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara NUMBERS som SXC" h2="Java bibliotek för att spara NUMBERS som SXC" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara NUMBERS som SXC och andra dokumentformat online med Java." urlsection="saveas/numbers-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en NUMBERS-fil som SXC i Java" >}}
@@ -13,7 +12,7 @@ url: /sv/java/saveas/numbers-to-sxc/
 Att spara filformat från NUMBERS som SXC är en komplex uppgift. Alla NUMBERS till SXC-formatövergångar utförs av vår Java SDK samtidigt som källnumrets NUMBERS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara NUMBERS som SXC-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt SXC-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att spara NUMBERS som SXC-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att spara NUMBERS som SXC med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Att spara filformat från NUMBERS som SXC är en komplex uppgift. Alla NUMBERS t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara NUMBERS som SXC" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att spara Excel filer som andra format NUMBERS som SXC" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

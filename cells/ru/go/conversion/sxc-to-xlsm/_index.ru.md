@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование SXC в XLSM API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата SXC в файл формата XLSM.
-url: /ru/go/conversion/sxc-to-xlsm/
+title:  Конвертируйте SXC в XLSM с помощью Go
+description:  Использование Cloud SDK Aspose.Cells для Go для преобразования файла формата SXC в файл формата XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать SXC в XLSM." h2="Библиотека Go для преобразования SXC в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для преобразования SXC в XLSM и другие форматы документов онлайн с помощью Go." urlsection="conversion/sxc-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать SXC в XLSM" h2="Библиотека Go для конвертации SXC в XLSM" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для конвертации SXC в XLSM и другие форматы документов онлайн с помощью Go." urlsection="conversion/sxc-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в XLSM в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование SXC в XLSM с помощью Cloud SDK Cells для Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в XLSM — сложная задача. Все переходы формата SXC в формат XLSM выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов SXC в XLSM. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
+Преобразование форматов файлов из SXC в XLSM может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования формата SXC в XLSM, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования файлов SXC в XLSM. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования SXC в формат XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования SXC в XLSM с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /ru/go/conversion/sxc-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для преобразования SXC в XLSM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для преобразования файлов Excel в другие форматы SXC в XLSM" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

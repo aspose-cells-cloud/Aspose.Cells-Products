@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить JPG как FODS API для NodeJS
-description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата JPG в виде файла формата FODS.
-url: /ru/nodejs/saveas/jpg-to-fods/
+title:  Сохраните JPG как FODS, используя NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата JPG как файла формата FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения JPG как FODS" h2="Библиотека NodeJS для сохранения JPG как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения JPG в виде FODS и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/jpg-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить JPG как FODS" h2="Библиотека NodeJS для сохранения JPG в формате FODS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения JPG в формате FODS и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/jpg-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как FODS в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG в виде FODS — сложная задача. Все переходы между форматами JPG и FODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека NodeJS — это профессиональное решение для сохранения JPG в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат FODS.
+Сохранение форматов файлов из JPG в формате FODS — сложная задача. Все переходы формата JPG в FODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов JPG в формате FODS онлайн. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и отличный результат FODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения JPG в формате FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения JPG в формате FODS с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/jpg-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения JPG как FODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах JPG как FODS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

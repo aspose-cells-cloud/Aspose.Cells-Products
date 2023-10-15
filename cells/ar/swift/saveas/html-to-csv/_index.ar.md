@@ -1,19 +1,19 @@
 ﻿---
-title:  احفظ HTML كـ CSV API لـ Swift
+title:  احفظ HTML بتنسيق CSV API لـ Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق HTML كملف بتنسيق CSV.
 url: /ar/swift/saveas/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ HTML كملف CSV" h2="مكتبة سريعة لحفظ HTML كملف CSV" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ HTML كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/html-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ HTML كملف CSV" h2="مكتبة سويفت لحفظ HTML كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ HTML كملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML كملف CSV في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML بتنسيق CSV في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من HTML كملف CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى CSV بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ HTML كملفات CSV عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج CSV مثالي.
+يعد حفظ تنسيقات الملفات من HTML بتنسيق CSV مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق HTML إلى CSV بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ HTML كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات CSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ HTML بتنسيق CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ HTML بتنسيق CSV" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,14 +55,14 @@ url: /ar/swift/saveas/html-to-csv/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ HTML كملف CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование JSON в XLS API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата XLS.
+title:  Конвертировать JSON в XLS API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата XLS.
 url: /ru/swift/conversion/json-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования JSON в XLS" h2="Библиотека Swift для преобразования JSON в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования JSON в XLS и другие форматы документов онлайн с помощью Swift." urlsection="conversion/json-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования JSON в XLS" h2="Библиотека Swift для преобразования JSON в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации JSON в XLS и другие форматы документов с помощью Swift." urlsection="conversion/json-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в XLS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в XLS — сложная задача. Все переходы форматов JSON в XLS выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов JSON в XLS. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод XLS.
+Преобразование форматов файлов из JSON в XLS — сложная задача. Все переходы формата JSON в XLS выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов JSON в XLS. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате XLS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования JSON в формат XLS" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/json-to-xls/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования JSON в XLS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

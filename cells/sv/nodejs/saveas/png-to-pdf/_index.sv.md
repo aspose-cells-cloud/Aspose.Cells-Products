@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara PNG som PDF API för NodeJS
+title:  Spara PNG som PDF med NodeJS
 description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara PNG filformat som PDF filformat.
-url: /sv/nodejs/saveas/png-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att spara PNG som PDF" h2="NodeJS-bibliotek för att spara PNG som PDF" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara PNG som PDF och andra dokumentformat online med NodeJS." urlsection="saveas/png-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara PNG som PDF" h2="NodeJS-bibliotek för att spara PNG som PDF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara PNG som PDF och andra dokumentformat online med NodeJS." urlsection="saveas/png-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en PNG-fil som PDF i NodeJS" >}}
@@ -13,7 +12,7 @@ url: /sv/nodejs/saveas/png-to-pdf/
 Att spara filformat från PNG som PDF är en komplex uppgift. Alla formatövergångar från PNG till PDF utförs av vår NodeJS SDK samtidigt som källbladets PNG kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att spara PNG som PDF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt PDF-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att spara PNG som PDF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att spara PNG som PDF med REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Att spara filformat från PNG som PDF är en komplex uppgift. Alla formatöverg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder nod API för att spara PNG som PDF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att spara Excel filer som andra format PNG som PDF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

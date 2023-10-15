@@ -1,19 +1,18 @@
 ﻿---
-title:  Android için XLTX'i MD API olarak kaydedin
-description: XLTX biçim dosyasını MD biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
-url: /tr/android/saveas/xltx-to-md/
+title: Android kullanarak XLTX'i MD olarak kaydedin
+description:  XLTX formatındaki dosyayı MD formatındaki dosya olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i MD olarak kaydetmek için Android API" h2="XLTX\'i MD olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XLTX\'i Android kullanarak çevrimiçi olarak MD ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltx-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i MD olarak kaydet" h2="XLTX\'i MD olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, XLTX\'i Android kullanarak çevrimiçi olarak MD ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltx-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLTX dosyasını MD olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="XLTX dosyasını Android\'de MD olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLTX'ten MD olarak kaydetmek karmaşık bir iştir. Tüm XLTX'ten MD formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLTX'i çevrimiçi MD dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
+Dosya formatlarını XLTX'ten MD olarak kaydetmek karmaşık bir iştir. XLTX'ten MD formatına tüm geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLTX'i çevrimiçi olarak MD dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MD çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i MD formatı olarak kaydetmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="REST API kullanarak XLTX\'i MD olarak kaydetmek için Android Kod Örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Dosya biçimlerini XLTX'ten MD olarak kaydetmek karmaşık bir iştir. Tüm XLTX
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLTX\'i MD olarak kaydetmek için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için cellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını MD olarak diğer XLTX formatlarında kaydetmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

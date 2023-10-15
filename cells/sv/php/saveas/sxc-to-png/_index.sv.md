@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara SXC som PNG API för PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att spara SXC-formatfilen som PNG-formatfil.
-url: /sv/php/saveas/sxc-to-png/
+title:  Spara SXC som PNG med PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara fil i SXC-format som fil i PNG-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att spara SXC som PNG" h2="PHP bibliotek för att spara SXC som PNG" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att spara SXC som PNG och andra dokumentformat online med PHP." urlsection="saveas/sxc-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara SXC som PNG" h2="PHP bibliotek för att spara SXC som PNG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP. Detta är en professionell lösning för att spara SXC som PNG och andra dokumentformat online med PHP." urlsection="saveas/sxc-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en SXC-fil som PNG i PHP" >}}
@@ -13,7 +12,7 @@ url: /sv/php/saveas/sxc-to-png/
 Att spara filformat från SXC som PNG är en komplex uppgift. Alla SXC- till PNG-formatövergångar utförs av vår PHP SDK samtidigt som käll-SXC-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att spara SXC som PNG-filer online. Denna Cloud SDK ger PHP-utvecklare kraftfull funktionalitet och perfekt PNG-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att spara SXC som PNG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kod Exempel för att spara SXC som PNG med REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Att spara filformat från SXC som PNG är en komplex uppgift. Alla SXC- till PNG
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att spara SXC som PNG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att spara Excel filer som andra format SXC som PNG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,19 @@
 ﻿---
-title:  Swift API kullanarak WORKBOOK'u e-tablodan HTML'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
+title:  Swift API kullanarak çalışma kitabını e-tablodan HTML'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 url: /tr/swift/export/workbook-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="WORKBOOK\'u HTML dosyasına dışa aktarmak için Swift API" h2="ÇALIŞMA KİTABI\'nı HTML dosyasına dışa aktarmak için Swift kitaplığı" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, ÇALIŞMA KİTABI\'nı Swift kullanarak elektronik tablodan HTML biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABINI HTML dosyasına aktarmak için Swift API" h2="ÇALIŞMA KİTABI\'nı HTML dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells REST\'i Dışa Aktar API\'i kullanın. Bu, Swift kullanarak çevrimiçi elektronik tablodan ÇALIŞMA KİTABI\'nı HTML formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini Swift\'de HTML biçim dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="ÇALIŞMA KİTABI nesnesini Swift\'de HTML formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-ÇALIŞMA KİTABI nesnesini elektronik tablodan HTML dosyasına dışa aktarma karmaşık bir görevdir. WORKBOOK'u HTML biçimine dışa aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak HTML biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel HTML çıkışı sağlar.
+ÇALIŞMA KİTABI nesnesini e-tablodan HTML dosyasına aktarmak karmaşık bir iştir. WORKBOOK'u HTML'e aktarın format geçişleri Swift SDK'mız tarafından gerçekleştirilir ve kaynak WORKBOOK e-tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, ÇALIŞMA KİTABI nesnelerini çevrimiçi olarak HTML formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel HTML çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan HTML biçimine dışa aktarmak için REST API kullanan Swift kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan HTML biçimine aktarmak için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,8 +55,8 @@ url: /tr/swift/export/workbook-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="ÇALIŞMA KİTABI\'nı HTML\'e dışa aktarmak için Swift API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="ÇALIŞMA KİTABI\'nı HTML\'e aktarmak için Swift API nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

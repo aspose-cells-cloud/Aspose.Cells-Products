@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML'i Perl için DIF API olarak kaydedin
-description:  HTML biçimli dosyayı DIF biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
-url: /tr/perl/saveas/html-to-dif/
+title:  Perl'i kullanarak HTML'i DIF olarak kaydedin
+description:  HTML formatındaki dosyayı DIF formatındaki dosya olarak kaydetmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i DIF olarak kaydetmek için Perl API" h2="HTML\'i DIF olarak kaydetmek için Perl kitaplığı" p="Perl\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, HTML\'i DIF ve Perl kullanarak çevrimiçi diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/html-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i DIF olarak kaydet" h2="HTML\'i DIF olarak kaydetmek için Perl kütüphanesi" p="Perl\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API of Cells Cloud\'u kullanın. Bu, Perl\'i kullanarak HTML\'i DIF ve diğer belge formatları olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/html-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="HTML dosyasını Perl\'de DIF olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-HTML'den dosya formatlarını DIF olarak kaydetmek karmaşık bir iştir. HTML'den DIF biçimine tüm geçişler, Perl SDK'mız tarafından gerçekleştirilir ve kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriği korunur. Perl kitaplığımız, HTML'i çevrimiçi DIF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
+HTML'den dosya formatlarını DIF olarak kaydetmek karmaşık bir iştir. HTML'den DIF formatına tüm geçişler, Perl SDK'mız tarafından gerçekleştirilir ve kaynak HTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Perl kitaplığımız, HTML'i çevrimiçi DIF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Perl geliştiriciye güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="HTML\'i DIF formatı olarak kaydetmek için REST API\'i kullanan Perl\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl REST API kullanarak HTML\'i DIF olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ HTML'den dosya formatlarını DIF olarak kaydetmek karmaşık bir iştir. HTML'd
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="HTML\'i DIF olarak kaydetmek için Perl API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Çağrı hücreleri_kaydetmek_gibi_postalamak_belge_kaydetmek_sonuçtaki akışı alma yöntemi olarak</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda HTML\'i DIF olarak kaydetmek için Perl için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Çağrı postası_çalışma kitabı_Ortaya çıkan akışı almak için save_as yöntemi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XML как PDF API для PHP
+title:  Сохраните XML как PDF, используя PHP.
 description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XML как файла формата PDF.
-url: /ru/php/saveas/xml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить XML как PDF" h2="PHP библиотека для сохранения XML как PDF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения XML как PDF и других форматов документов в Интернете с использованием PHP." urlsection="saveas/xml-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XML как PDF." h2="PHP библиотека для сохранения XML как PDF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения XML как PDF и других форматов документов онлайн с использованием PHP." urlsection="saveas/xml-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как PDF в PHP." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл как PDF в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML как PDF — сложная задача. Все переходы между форматами XML и PDF выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека PHP — это профессиональное решение для сохранения XML в виде файлов PDF в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат PDF.
+Сохранение формата файлов из XML как PDF — сложная задача. Все переходы формата XML в формат PDF выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной XML-таблицы. Наша библиотека PHP — это профессиональное решение для сохранения XML в виде файлов PDF онлайн. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный результат PDF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения XML в формате PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения XML как PDF с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/xml-to-pdf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения XML как PDF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP, чтобы сохранить файлы Excel в формате XML других форматов, например PDF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

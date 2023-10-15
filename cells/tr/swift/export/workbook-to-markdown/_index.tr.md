@@ -1,19 +1,19 @@
 ﻿---
-title:  Swift API kullanarak ÇALIŞMA KİTABI'nı e-tablodan MARKDOWN'a aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
+title: Swift API kullanarak çalışma kitabını e-tablodan MARKDOWN'a aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 url: /tr/swift/export/workbook-to-markdown/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="WORKBOOK\'u MARKDOWN dosyasına aktarmak için Swift API" h2="WORKBOOK\'u MARKDOWN dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, WORKBOOK\'u Swift kullanarak elektronik tablodan MARKDOWN formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-markdown/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABI\'nı MARKDOWN dosyasına aktarmak için Swift API" h2="WORKBOOK\'u MARKDOWN dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells REST\'i Dışa Aktar API\'i kullanın. Bu, Swift kullanarak çevrimiçi elektronik tablodan ÇALIŞMA KİTABI\'nı MARKDOWN formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-markdown/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini Swift\'de MARKDOWN format dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini Swift\'de MARKDOWN formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-WORKBOOK nesnesini elektronik tablodan MARKDOWN dosyasına dışa aktarma karmaşık bir iştir. WORKBOOK'u MARKDOWN biçimine aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak MARKDOWN formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel MARKDOWN çıkışı sağlar.
+WORKBOOK nesnesini elektronik tablodan MARKDOWN dosyasına aktarmak karmaşık bir iştir. WORKBOOK'u MARKDOWN'a aktarma format geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak MARKDOWN formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel MARKDOWN çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan MARKDOWN formatına dışa aktarmak için REST API kullanan Swift kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan MARKDOWN formatına aktarmak için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,8 +55,8 @@ WORKBOOK nesnesini elektronik tablodan MARKDOWN dosyasına dışa aktarma karma�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="WORKBOOK\'u MARKDOWN\'a dışa aktarmak için Swift API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="ÇALIŞMA KİTABINI MARKDOWN\'a aktarmak için Swift API nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

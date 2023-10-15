@@ -1,19 +1,18 @@
 ﻿---
-title: MHTML till EMF Konvertera API för NodeJS
-description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i MHTML-format till fil i EMF-format.
-url: /sv/nodejs/conversion/mhtml-to-emf/
+title:  Konvertera MHTML till EMF med NodeJS
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera en fil i MHTML-format till en fil i EMF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att konvertera MHTML till EMF" h2="NodeJS-bibliotek för att konvertera MHTML till EMF" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att konvertera MHTML till EMF och andra dokumentformat online med NodeJS." urlsection="conversion/mhtml-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera MHTML till EMF" h2="NodeJS-bibliotek för att konvertera MHTML till EMF" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera MHTML till EMF och andra dokumentformat online med NodeJS." urlsection="conversion/mhtml-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en MHTML-fil till EMF i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera MHTML till EMF med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från MHTML till EMF är en komplex uppgift. Alla MHTML till EMF formatövergångar utförs av vår NodeJS SDK samtidigt som käll-MHTML-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att konvertera MHTML till EMF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt EMF-utgång.
+Att konvertera filformat från MHTML till EMF kan vara en komplex uppgift. Vår NodeJS SDK hanterar alla MHTML- till EMF-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-MHTML-kalkylarket bevaras. Vårt NodeJS-bibliotek tillhandahåller en professionell lösning för att konvertera MHTML till EMF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa EMF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att konvertera MHTML till EMF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att konvertera MHTML till EMF med Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Att konvertera filformat från MHTML till EMF är en komplex uppgift. Alla MHTML
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att konvertera MHTML till EMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att konvertera Excel-filer till andra format MHTML till EMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

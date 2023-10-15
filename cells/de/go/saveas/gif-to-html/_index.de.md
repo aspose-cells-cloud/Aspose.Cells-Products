@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie das GIF unter HTML API für Go
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die Datei im GIF-Format als Datei im Format HTML zu speichern.
-url: /de/go/saveas/gif-to-html/
+title:  Speichern Sie GIF als HTML mit Go
+description:  Verwendung des Aspose.Cells Cloud SDK für Go zum Speichern der GIF-Formatdatei als HTML-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um das GIF unter HTML zu speichern" h2="Gehen Sie in die Bibliothek, um das GIF unter HTML zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um GIF als HTML und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/gif-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF unter HTML speichern" h2="Gehen Sie zur Bibliothek, um GIF unter dem Namen HTML zu speichern" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um GIF als HTML und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/gif-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei unter dem Namen HTML in Go" >}}
@@ -13,7 +12,7 @@ url: /de/go/saveas/gif-to-html/
 Das Speichern von GIF-Dateiformaten als HTML ist eine komplexe Aufgabe. Alle GIF-Formatübergänge in das HTML-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Speichern von GIF-Dateien im Format HTML. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte HTML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von GIF im HTML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel zum Speichern von GIF als HTML mit REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Das Speichern von GIF-Dateiformaten als HTML ist eine komplexe Aufgabe. Alle GIF
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um GIF als HTML zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in anderen GIF-Formaten als HTML zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

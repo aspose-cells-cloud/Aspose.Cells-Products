@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование JPG в XLTX API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата JPG в файл формата XLTX.
-url: /ru/ruby/conversion/jpg-to-xltx/
+title:  Конвертируйте JPG в XLTX с помощью Ruby
+description:  Использование Cloud SDK Aspose.Cells для Ruby для преобразования файла формата JPG в файл формата XLTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования JPG в XLTX" h2="Библиотека Ruby для преобразования JPG в XLTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для онлайн-конвертации JPG в XLTX и другие форматы документов с использованием Ruby." urlsection="conversion/jpg-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать JPG в XLTX" h2="Библиотека Ruby для конвертации JPG в XLTX" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Ruby. Это профессиональное решение для онлайн-конвертирования JPG в XLTX и другие форматы документов с помощью Ruby." urlsection="conversion/jpg-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в XLTX в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте JPG в XLTX с помощью Cloud SDK Cells для Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в XLTX — сложная задача. Все переходы формата JPG в формат XLTX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов JPG в XLTX. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLTX.
+Преобразование форматов файлов из JPG в XLTX может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования форматов JPG в XLTX, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертирования файлов JPG в XLTX. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод XLTX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования JPG в формат XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для преобразования JPG в XLTX с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ru/ruby/conversion/jpg-to-xltx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для преобразования JPG в XLTX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Ruby для преобразования файлов Excel в другие форматы JPG в XLTX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

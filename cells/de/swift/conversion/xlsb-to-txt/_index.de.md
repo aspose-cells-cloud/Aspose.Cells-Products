@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB in TXT Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSB-Format in eine Datei im TXT-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSB-Format in eine Datei im TXT-Format.
 url: /de/swift/conversion/xlsb-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

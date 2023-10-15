@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som ODS API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att spara EMF filformat som ODS-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att spara EMF filformat som ODS-formatfil.
 url: /sv/swift/saveas/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,13 +4,13 @@ description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in for
 url: /it/swift/export/listobject-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per esportare LISTOBJECT in un file TXT" h2="Libreria Swift per esportare LISTOBJECT in file TXT" p="Usa Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Swift. Questa è una soluzione professionale per esportare LISTOBJECT in file in formato TXT dal foglio di calcolo online utilizzando Swift." urlsection="export/listobject-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per esportare LISTOBJECT in file TXT" h2="Libreria Swift per esportare LISTOBJECT in file TXT" p="Utilizzare Cells Esporta REST API per esportare flussi di lavoro di oggetti interni del foglio di calcolo in Swift. Questa è una soluzione professionale per esportare LISTOBJECT in file in formato TXT da un foglio di calcolo online utilizzando Swift." urlsection="export/listobject-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto LISTOBJECT in un file in formato TXT in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto LISTOBJECT in un file TXT da un foglio di calcolo è un'attività complessa. L'esportazione delle transizioni in formato LISTOBJECT in formato TXT viene eseguita dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo LISTOBJECT di origine. La nostra libreria Swift è una soluzione professionale per esportare oggetti LISTOBJECT in file in formato TXT online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un output TXT perfetto.
+Esportare un oggetto LISTOBJECT in un file TXT da un foglio di calcolo è un'attività complessa. L'esportazione di transizioni da LISTOBJECT al formato TXT viene eseguita dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo LISTOBJECT di origine. La nostra libreria Swift è una soluzione professionale per esportare oggetti LISTOBJECT in file in formato TXT online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output TXT perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per esportare LISTOBJECT in formato TXT dal foglio di calcolo" gistPath="" %}}
@@ -56,7 +56,7 @@ Esportare l'oggetto LISTOBJECT in un file TXT da un foglio di calcolo è un'atti
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Swift API per esportare LISTOBJECT in TXT" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
+<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiama il metodo postExport per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

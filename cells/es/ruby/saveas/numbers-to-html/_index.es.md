@@ -1,19 +1,18 @@
 ﻿---
-title:  Guarde NÚMEROS como HTML API para Ruby
-description:  Usando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato NUMBERS como archivo de formato HTML.
-url: /es/ruby/saveas/numbers-to-html/
+title:  Guarde NÚMEROS como HTML usando Ruby
+description:  Utilizando Aspose.Cells Cloud SDK para Ruby para guardar el archivo en formato NÚMEROS como archivo en formato HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para guardar NÚMEROS como HTML" h2="Biblioteca Ruby para guardar NÚMEROS como HTML" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para guardar NÚMEROS como HTML y otros formatos de documentos en línea usando Ruby." urlsection="saveas/numbers-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar NÚMEROS como HTML" h2="Biblioteca Ruby para guardar NÚMEROS como HTML" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para guardar NÚMEROS como HTML y otros formatos de documentos en línea usando Ruby." urlsection="saveas/numbers-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo NUMBERS como HTML en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo de NÚMEROS como HTML en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de NUMBERS como HTML es una tarea compleja. Todas las transiciones de formato de NUMBERS a HTML las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Ruby es una solución profesional para guardar NÚMEROS como archivos HTML en línea. Este SDK de Cloud ofrece a los desarrolladores de Ruby una potente funcionalidad y un resultado HTML perfecto.
+Guardar formatos de archivo de NÚMEROS como HTML es una tarea compleja. Nuestro SDK de Ruby realiza todas las transiciones de formato de NUMBERS a HTML mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Ruby es una solución profesional para guardar NÚMEROS como archivos HTML en línea. Este SDK de Cloud ofrece a los desarrolladores de Ruby una funcionalidad potente y un resultado HTML perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar NÚMEROS como formato HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Ruby para guardar NÚMEROS como HTML usando REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Guardar formatos de archivo de NUMBERS como HTML es una tarea compleja. Todas la
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Ruby API para guardar NÚMEROS como HTML" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_ahorrar_como_correo_documento_ahorrar_como método para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Cells Cloud SDK para Ruby para guardar archivos Excel en otros formatos NÚMEROS como HTML" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `post_workbook_save_as` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

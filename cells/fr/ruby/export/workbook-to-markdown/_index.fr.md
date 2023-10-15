@@ -1,16 +1,15 @@
 ﻿---
-title:  Exporter WORKBOOK vers MARKDOWN à partir d'une feuille de calcul à l'aide de Ruby API
+title:  Exporter WORKBOOK vers MARKDOWN à partir de Excel à l'aide du SDK Cloud Cells pour Ruby
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
-url: /fr/ruby/export/workbook-to-markdown/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour exporter WORKBOOK vers le fichier MARKDOWN" h2="Bibliothèque Ruby pour exporter WORKBOOK vers le fichier MARKDOWN" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Ruby. Il s\'agit d\'une solution professionnelle pour exporter un fichier au format WORKBOOK vers MARKDOWN à partir d\'une feuille de calcul en ligne à l\'aide de Ruby." urlsection="export/workbook-to-markdown/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter WORKBOOK vers MARKDOWN à partir de Excel" h2="Bibliothèque Ruby pour exporter WORKBOOK vers un fichier MARKDOWN" p="Utilisez Export API de Cells Cloud pour exporter les workflows d\'objets internes du fichier Excel dans Ruby. Il s\'agit d\'une solution professionnelle pour exporter un fichier au format WORKBOOK au format MARKDOWN à partir d\'une feuille de calcul en ligne à l\'aide de Ruby." urlsection="export/workbook-to-markdown/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKBOOK vers un fichier au format MARKDOWN dans Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKBOOK vers un fichier au format MARKDOWN à l\'aide du SDK Cloud Cells pour Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'exportation d'un objet WORKBOOK vers un fichier MARKDOWN à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format WORKBOOK vers MARKDOWN est effectuée par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKBOOK source. Notre bibliothèque Ruby est une solution professionnelle pour exporter en ligne des objets WORKBOOK vers des fichiers au format MARKDOWN. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie MARKDOWN parfaite.
+Exporter l'objet WORKBOOK vers le fichier MARKDOWN à partir du fichier Excel est une tâche complexe. L'exportation des transitions au format WORKBOOK vers MARKDOWN est effectuée par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKBOOK source. Notre bibliothèque Ruby est une solution professionnelle pour exporter des objets WORKBOOK vers des fichiers au format MARKDOWN en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie MARKDOWN parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour exporter WORKBOOK au format MARKDOWN à partir d\'une feuille de calcul" gistPath="" %}}
@@ -35,15 +34,15 @@ L'exportation d'un objet WORKBOOK vers un fichier MARKDOWN à partir d'une feuil
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Ruby API pour exporter WORKBOOK vers MARKDOWN" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour exporter des objets de Excel WORKBOOK vers MARKDOWN" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
 <li>Appelez la méthode post_export pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

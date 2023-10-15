@@ -1,19 +1,19 @@
 ﻿---
-title:  احفظ XLSX كـ XML API لـ Swift
+title:  احفظ XLSX بتنسيق XML API لـ Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق XLSX كملف بتنسيق XML.
 url: /ar/swift/saveas/xlsx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ XLSX على هيئة XML" h2="مكتبة سريعة لحفظ XLSX بتنسيق XML" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ XLSX بتنسيق XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xlsx-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API لحفظ XLSX بتنسيق XML" h2="مكتبة سويفت لحفظ XLSX بصيغة XML" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ XLSX بتنسيق XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xlsx-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSX بتنسيق XML في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSX على هيئة XML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى XML بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ XLSX كملفات XML عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XML مثالي.
+يعد حفظ تنسيقات الملفات من XLSX بتنسيق XML مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLSX إلى XML بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSX كملفات XML عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات XML مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ XLSX كتنسيق XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق XML" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,14 +55,14 @@ url: /ar/swift/saveas/xlsx-to-xml/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ XLSX بتنسيق XML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

@@ -1,19 +1,18 @@
 ﻿---
-title:  Convertir XLSB en XLTX API pour Ruby
-description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format XLSB en fichier au format XLTX.
-url: /fr/ruby/conversion/xlsb-to-xltx/
+title:  Convertir XLSB en XLTX en utilisant Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format XLSB en fichier au format XLTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour convertir XLSB en XLTX" h2="bibliothèque Ruby pour convertir XLSB en XLTX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour convertir XLSB en XLTX et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/xlsb-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSB en XLTX" h2="Bibliothèque Ruby pour convertir XLSB en XLTX" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Ruby. Il s\'agit d\'une solution professionnelle pour convertir XLSB en XLTX et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/xlsb-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSB en XLTX en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez XLSB en XLTX à l\'aide du SDK Cloud Cells pour Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLSB en XLTX est une tâche complexe. Toutes les transitions de format XLSB à XLTX sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Ruby est une solution professionnelle pour convertir en ligne des fichiers XLSB en XLTX. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie XLTX parfaite.
+La conversion des formats de fichiers XLSB en XLTX peut être une tâche complexe. Notre SDK Ruby gère toutes les conversions du format XLSB vers XLTX tout en préservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Ruby fournit une solution professionnelle pour convertir des fichiers XLSB en XLTX en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et garantit une sortie XLTX de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir XLSB au format XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Ruby pour convertir XLSB en XLTX à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,15 +29,15 @@ La conversion des formats de fichiers XLSB en XLTX est une tâche complexe. Tout
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Ruby API pour convertir XLSB en XLTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour convertir des fichiers Excel vers d\'autres formats XLSB en XLTX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

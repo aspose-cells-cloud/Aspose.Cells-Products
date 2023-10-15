@@ -1,19 +1,18 @@
 ﻿---
-title:  JPG إلى XLSM - تحويل API إلى PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق JPG إلى ملف بتنسيق XLSM.
-url: /ar/php/conversion/jpg-to-xlsm/
+title:  تحويل JPG إلى XLSM باستخدام PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق JPG إلى ملف بتنسيق XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل JPG إلى XLSM" h2="PHP مكتبة لتحويل JPG إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل JPG إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/jpg-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل JPG إلى XLSM" h2="مكتبة PHP لتحويل JPG إلى XLSM" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل JPG إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/jpg-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JPG إلى XLSM في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل JPG إلى XLSM باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JPG إلى XLSM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLSM بواسطة PHP SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل ملفات JPG إلى XLSM عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج XLSM مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من JPG إلى XLSM مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق JPG إلى XLSM مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JPG المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات JPG إلى XLSM عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج XLSM عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل JPG إلى تنسيق XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل JPG إلى XLSM باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/jpg-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل JPG إلى XLSM" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى من JPG إلى XLSM" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

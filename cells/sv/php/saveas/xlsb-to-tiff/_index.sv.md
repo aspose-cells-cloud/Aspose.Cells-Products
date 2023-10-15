@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLSB som TIFF API för PHP
-description:  Använd Aspose.Cells Cloud SDK för PHP för att spara fil i XLSB-format som fil i TIFF-format.
-url: /sv/php/saveas/xlsb-to-tiff/
+title:  Spara XLSB som TIFF med PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara fil i XLSB-format som fil i TIFF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att spara XLSB som TIFF" h2="PHP bibliotek för att spara XLSB som TIFF" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att spara XLSB som TIFF och andra dokumentformat online med PHP." urlsection="saveas/xlsb-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSB som TIFF" h2="PHP bibliotek för att spara XLSB som TIFF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP. Detta är en professionell lösning för att spara XLSB som TIFF och andra dokumentformat online med PHP." urlsection="saveas/xlsb-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSB-fil som TIFF i PHP" >}}
@@ -13,7 +12,7 @@ url: /sv/php/saveas/xlsb-to-tiff/
 Att spara filformat från XLSB som TIFF är en komplex uppgift. Alla formatövergångar från XLSB till TIFF utförs av vår PHP SDK samtidigt som källbladets XLSB-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att spara XLSB som TIFF-filer online. Denna Cloud SDK ger PHP-utvecklare kraftfull funktionalitet och perfekt TIFF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att spara XLSB som TIFF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kod Exempel för att spara XLSB som TIFF med REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Att spara filformat från XLSB som TIFF är en komplex uppgift. Alla formatöver
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att spara XLSB som TIFF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att spara Excel filer som andra format XLSB som TIFF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

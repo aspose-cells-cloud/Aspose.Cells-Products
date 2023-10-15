@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie CHART aus der Tabellenkalkulation in GIF mit PHP API
+title: Exportieren Sie CHART in GIF von Excel mit Cells Cloud SDK für PHP
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/php/export/chart-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren von CHART in eine GIF-Datei" h2="PHP-Bibliothek zum Exportieren von CHART in eine GIF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung, um CHART in eine GIF-Formatdatei aus einer Tabellenkalkulation online mit PHP zu exportieren." urlsection="export/chart-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie CHART in GIF von Excel" h2="PHP-Bibliothek zum Exportieren von CHART in eine GIF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in PHP zu exportieren. Dies ist eine professionelle Lösung, um CHART online aus einer Tabellenkalkulation in eine GIF-Formatdatei mit PHP zu exportieren." urlsection="export/chart-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in die GIF-Formatdatei PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in eine GIF-Formatdatei mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in eine GIF-Datei ist eine komplexe Aufgabe. Der Export von CHART-in-GIF-Formatübergängen wird von unserem SDK PHP durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Export von CHART-Objekten in GIF-Formatdateien. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte GIF-Ausgabe.
+Das Exportieren eines CHART-Objekts aus der Datei Excel in eine GIF-Datei ist eine komplexe Aufgabe. Der Export von CHART-in-GIF-Formatübergängen wird von unserem SDK PHP durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Export von CHART-Objekten in GIF-Formatdateien. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte GIF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von CHART in das GIF-Format aus der Tabellenkalkulation" gistPath="" %}}
@@ -36,10 +35,10 @@ Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in eine GIF-Da
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um CHART in GIF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für PHP, um Objekte aus Excel CHART in GIF zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

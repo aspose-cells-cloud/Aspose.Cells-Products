@@ -1,19 +1,18 @@
 ﻿---
-title:  MHTML in XLTX Converti API per Perl
-description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato MHTML in un file in formato XLTX.
-url: /it/perl/conversion/mhtml-to-xltx/
+title:  Converti MHTML in XLTX utilizzando Perl
+description:  Utilizzando Aspose.Cells Cloud SDK per Perl per convertire un file in formato MHTML in un file in formato XLTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per convertire MHTML in XLTX" h2="Perl libreria per convertire MHTML in XLTX" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Perl. Questa è una soluzione professionale per convertire MHTML in XLTX e altri formati di documenti online utilizzando Perl." urlsection="conversion/mhtml-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti MHTML in XLTX" h2="Libreria Perl per convertire MHTML in XLTX" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Perl. Questa è una soluzione professionale per convertire MHTML in XLTX e altri formati di documenti online utilizzando Perl." urlsection="conversion/mhtml-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file MHTML in XLTX in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti MHTML in XLTX utilizzando Cells Cloud SDK per Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da MHTML a XLTX è un'attività complessa. Tutte le transizioni di formato da MHTML a XLTX vengono eseguite dal nostro SDK Perl mantenendo il principale contenuto strutturale e logico del foglio di calcolo MHTML di origine. La nostra libreria Perl è una soluzione professionale per convertire file MHTML in XLTX online. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e un perfetto output XLTX.
+La conversione dei formati di file da MHTML a XLTX può essere un compito complesso. Il nostro SDK Perl gestisce tutte le conversioni dal formato MHTML a XLTX preservando il contenuto strutturale e logico principale del foglio di calcolo MHTML di origine. La nostra libreria Perl fornisce una soluzione professionale per convertire file MHTML in XLTX online. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e garantisce output XLTX di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Perl utilizzando REST API per convertire MHTML in formato XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Esempio di codice per convertire MHTML in XLTX utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ La conversione dei formati di file da MHTML a XLTX è un'attività complessa. Tu
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Perl API per convertire MHTML in XLTX" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama celle_cartella di lavoro_Mettere_convertire_metodo della cartella di lavoro per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare l\'SDK Perl per convertire MHTML in XLTX" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `put_convert_workbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

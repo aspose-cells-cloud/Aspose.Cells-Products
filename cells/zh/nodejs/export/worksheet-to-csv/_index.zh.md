@@ -1,16 +1,15 @@
 ﻿---
-title: 使用 NodeJS 将电子表格中的 WORKSHEET 导出为 CSV API
+title: 使用 Cells Cloud SDK for NodeJS 将 WORKSHEET 从 Excel 导出为 CSV
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
-url: /zh/nodejs/export/worksheet-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API 将工作表导出到 CSV 文件" h2="NodeJS 库将 WORKSHEET 导出到 CSV 文件" p="使用 Cells Export REST API 在 NodeJS 中导出电子表格内部对象工作流程。这是使用 NodeJS 将电子表格在线导出 WORKSHEET 到 CSV 格式文件的专业解决方案。" urlsection="export/worksheet-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将工作表从 Excel 导出为 CSV" h2="用于将 WORKSHEET 导出到 CSV 文件的 NodeJS 库" p="使用Cells云的Export API导出NodeJS中的Excel文件内部对象工作流程。这是使用 NodeJS 将电子表格在线导出 WORKSHEET 到 CSV 格式文件的专业解决方案。" urlsection="export/worksheet-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 NodeJS 中将 WORKSHEET 对象导出为 CSV 格式文件" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for NodeJS 将 WORKSHEET 对象导出为 CSV 格式文件" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-将 WORKSHEET 对象从电子表格导出到 CSV 文件是一项复杂的任务。将 WORKSHEET 导出到 CSV 格式的转换由我们的 NodeJS SDK 执行，同时保留源 WORKSHEET 电子表格的主要结构和逻辑内容。我们的 NodeJS 库是在线将 WORKSHEET 对象导出为 CSV 格式文件的专业解决方案。该Cloud SDK为NodeJS开发人员提供了强大的功能和完美的CSV输出。
+将 WORKSHEET 对象从 Excel 文件导出到 CSV 文件是一项复杂的任务。将 WORKSHEET 导出到 CSV 格式的转换由我们的 NodeJS SDK 执行，同时保留源 WORKSHEET 电子表格的主要结构和逻辑内容。我们的 NodeJS 库是在线将 WORKSHEET 对象导出为 CSV 格式文件的专业解决方案。该Cloud SDK为NodeJS开发人员提供了强大的功能和完美的CSV输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NodeJS 中使用 REST API 将电子表格中的 WORKSHEET 导出为 CSV 格式的代码示例" gistPath="" %}}
@@ -41,10 +40,10 @@ url: /zh/nodejs/export/worksheet-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用节点 API 将 WORKSHEET 导出为 CSV" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 postExport 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud SDK for Node 将 Excel WORKSHEET 中的对象导出为 CSV" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `postExport` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

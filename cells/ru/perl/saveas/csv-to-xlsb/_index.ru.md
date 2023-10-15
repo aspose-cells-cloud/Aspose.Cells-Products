@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить CSV как XLSB API для Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата CSV в виде файла формата XLSB.
-url: /ru/perl/saveas/csv-to-xlsb/
+title:  Сохраните CSV как XLSB, используя Perl.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата CSV как файла формата XLSB.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить CSV как XLSB" h2="Perl библиотека для сохранения CSV как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения CSV как XLSB и других форматов документов в Интернете с использованием Perl." urlsection="saveas/csv-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить CSV как XLSB" h2="Perl библиотека для сохранения CSV в формате XLSB" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения CSV в формате XLSB и других форматов документов в Интернете с помощью Perl." urlsection="saveas/csv-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как XLSB в Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как XLSB по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде XLSB — сложная задача. Все переходы между форматами CSV и XLSB выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Perl — это профессиональное решение для онлайн-сохранения CSV-файлов в формате XLSB. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
+Сохранение форматов файлов из CSV в формате XLSB — сложная задача. Все переходы формата CSV в XLSB выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека Perl — это профессиональное решение для сохранения файлов CSV в формате XLSB онлайн. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод XLSB.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения CSV в формате XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения CSV в формате XLSB с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/csv-to-xlsb/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для сохранения CSV как XLSB" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl для сохранения файлов Excel в других форматах CSV как XLSB" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

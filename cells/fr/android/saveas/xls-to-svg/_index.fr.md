@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez XLS sous SVG API pour Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLS en tant que fichier au format SVG.
-url: /fr/android/saveas/xls-to-svg/
+title:  Enregistrer XLS sous SVG en utilisant Android
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLS au format SVG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XLS sous SVG" h2="Bibliothèque Android pour enregistrer XLS sous SVG" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLS sous SVG et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xls-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLS sous le numéro SVG" h2="Bibliothèque Android pour enregistrer XLS sous le numéro SVG" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLS sous le numéro SVG et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xls-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLS sous SVG dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLS sous le nom SVG est une tâche complexe. Toutes les transitions de format XLS vers SVG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers XLS sous SVG en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie SVG parfaite.
+Enregistrer les formats de fichiers depuis XLS sous le nom SVG est une tâche complexe. Toutes les transitions du format XLS vers SVG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLS sous forme de fichiers SVG en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie SVG parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLS au format SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour enregistrer XLS sous SVG à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ L'enregistrement des formats de fichiers à partir de XLS sous le nom SVG est un
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer XLS sous SVG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour enregistrer des fichiers Excel sous d\'autres formats XLS comme SVG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

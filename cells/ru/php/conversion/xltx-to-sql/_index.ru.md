@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLTX в SQL API для PHP
-description: Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата XLTX в файл формата SQL.
-url: /ru/php/conversion/xltx-to-sql/
+title:  Преобразуйте XLTX в SQL, используя PHP.
+description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата XLTX в файл формата SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования XLTX в SQL" h2="PHP библиотека для преобразования XLTX в SQL" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для онлайн-конвертации XLTX в SQL и другие форматы документов с использованием PHP." urlsection="conversion/xltx-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать XLTX в SQL" h2="PHP библиотека для преобразования XLTX в SQL" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертации XLTX в SQL и другие форматы документов с использованием номера PHP." urlsection="conversion/xltx-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в SQL в PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XLTX в SQL с помощью Cloud SDK Cells для PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в SQL — сложная задача. Все переходы из формата XLTX в формат SQL выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов XLTX в SQL. Этот Cloud SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из XLTX в SQL может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования формата XLTX в SQL, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLTX. Наша библиотека PHP предоставляет профессиональное решение для онлайн-конвертирования файлов XLTX в SQL. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный вывод SQL.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования XLTX в формат SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для преобразования XLTX в SQL с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ru/php/conversion/xltx-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования XLTX в SQL" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для преобразования файлов Excel в другие форматы XLTX в SQL." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

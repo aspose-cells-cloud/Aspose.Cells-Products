@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ ملف CSV بالشكل XPS API لـ PHP
+title:  احفظ ملف CSV كـ XPS باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق CSV كملف بتنسيق XPS.
-url: /ar/php/saveas/csv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ CSV بالشكل XPS" h2="مكتبة PHP لحفظ CSV كـ XPS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ CSV كـ XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/csv-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ ملف CSV باسم XPS" h2="مكتبة PHP لحفظ ملف CSV كـ XPS" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في PHP. يعد هذا حلاً احترافيًا لحفظ ملف CSV بتنسيق XPS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/csv-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV بالشكل XPS في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV باسم XPS في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من CSV كـ XPS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى XPS بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لحفظ CSV كملفات XPS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج XPS مثالي.
+يعد حفظ تنسيقات الملفات من CSV بالرقم XPS مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق CSV إلى XPS بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحفظ ملفات CSV كملفات XPS عبر الإنترنت. يمنح Cloud SDK هذا مطوري PHP وظائف قوية وإخراج XPS مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ CSV بتنسيق XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لحفظ ملف CSV كـ XPS باستخدام REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ar/php/saveas/csv-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لحفظ ملف CSV بالشكل XPS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لحفظ ملفات Excel بتنسيقات CSV أخرى مثل XPS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG en GIF Convertir API pour Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format PNG en fichier au format GIF.
-url: /fr/perl/conversion/png-to-gif/
+title:  Convertissez PNG en GIF en utilisant Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir un fichier au format PNG en fichier au format GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir PNG en GIF" h2="Bibliothèque Perl pour convertir PNG en GIF" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir PNG en GIF et autres formats de document en ligne à l\'aide de Perl." urlsection="conversion/png-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir PNG en GIF" h2="Bibliothèque Perl pour convertir PNG en GIF" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Perl. Il s\'agit d\'une solution professionnelle pour convertir PNG en GIF et autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/png-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier PNG en GIF en Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez PNG en GIF à l\'aide du SDK Cloud Cells pour Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de PNG en GIF est une tâche complexe. Toutes les transitions du format PNG vers le format GIF sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque Perl est une solution professionnelle pour convertir PNG en fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie GIF parfaite.
+La conversion des formats de fichiers de PNG en GIF peut être une tâche complexe. Notre SDK Perl gère toutes les conversions du format PNG au format GIF tout en préservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque Perl fournit une solution professionnelle pour convertir en ligne PNG en fichiers GIF. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et garantit une sortie GIF de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour convertir PNG au format GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour convertir PNG en GIF à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ La conversion des formats de fichiers de PNG en GIF est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Perl API pour convertir PNG en GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Perl pour convertir PNG en GIF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

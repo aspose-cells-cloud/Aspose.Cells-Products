@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ PNG كـ PDF API مقابل Python
-description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق PNG كملف بتنسيق PDF.
-url: /ar/python/saveas/png-to-pdf/
+title:  احفظ PNG كـ PDF باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق PNG كملف بتنسيق PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ PNG كـ PDF" h2="مكتبة Python لحفظ PNG كـ PDF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ PNG كـ PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/png-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ PNG كـ PDF" h2="مكتبة Python لحفظ PNG باسم PDF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ PNG كـ PDF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/png-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف PNG كـ PDF في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من PNG كـ PDF مهمة معقدة. يتم إجراء جميع انتقالات تنسيق PNG إلى PDF بواسطة SDK Python مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات PNG المصدر. مكتبتنا Python هي حل احترافي لحفظ PNG كملفات PDF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج PDF مثالي.
+يعد حفظ تنسيقات الملفات من PNG إلى PDF مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من PNG إلى PDF بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG. تعد مكتبتنا Python حلاً احترافيًا لحفظ PNG كملفات PDF عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج PDF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ PNG بتنسيق PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على حفظ PNG كـ PDF باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/png-to-pdf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ PNG كـ PDF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى PNG كـ PDF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

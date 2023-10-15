@@ -1,19 +1,18 @@
 ﻿---
-title:  Guardar JPG como XPS API para Go
-description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato JPG como archivo de formato XPS.
-url: /es/go/saveas/jpg-to-xps/
+title:  Guarde JPG como XPS usando Go
+description:  Utilizando Aspose.Cells Cloud SDK para Go para guardar el archivo en formato JPG como archivo en formato XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para guardar JPG como XPS" h2="Vaya a la biblioteca para guardar JPG como XPS" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar JPG como XPS y otros formatos de documentos en línea usando Go." urlsection="saveas/jpg-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar JPG como XPS" h2="Vaya a la biblioteca para guardar JPG como XPS" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar JPG como XPS y otros formatos de documentos en línea usando Go." urlsection="saveas/jpg-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo JPG como XPS en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de JPG como XPS es una tarea compleja. Todas las transiciones de formato JPG a XPS se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca Go es una solución profesional para guardar archivos JPG como XPS en línea. Este SDK de la nube ofrece a los desarrolladores de Go una potente funcionalidad y un resultado XPS perfecto.
+Guardar formatos de archivo de JPG como XPS es una tarea compleja. Todas las transiciones de formato JPG a XPS las realiza nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca Go es una solución profesional para guardar archivos JPG como XPS en línea. Este SDK de nube ofrece a los desarrolladores de Go una potente funcionalidad y un resultado XPS perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para guardar JPG como formato XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Vaya ejemplo de código para guardar JPG como XPS usando REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ Guardar formatos de archivo de JPG como XPS es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Go API para guardar JPG como XPS" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para guardar archivos Excel en otros formatos JPG como XPS" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>ir a la versión go1.13.0 o más reciente</li>
+<li>vaya a la versión go1.13.0 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

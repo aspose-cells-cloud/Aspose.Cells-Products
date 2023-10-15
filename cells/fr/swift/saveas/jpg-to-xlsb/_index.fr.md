@@ -1,16 +1,16 @@
 ﻿---
 title:  Enregistrer JPG sous XLSB API pour Swift
-description:  Utilisation de Aspose.Cells Cloud SDK for Swift pour enregistrer le fichier au format JPG en tant que fichier au format XLSB.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format JPG au format XLSB.
 url: /fr/swift/saveas/jpg-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer JPG au format XLSB" h2="Bibliothèque Swift pour enregistrer JPG au format XLSB" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer JPG au format XLSB et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/jpg-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer JPG au format XLSB" h2="Bibliothèque Swift pour enregistrer JPG au format XLSB" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer JPG au format XLSB et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/jpg-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JPG au format XLSB dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de JPG au format XLSB est une tâche complexe. Toutes les transitions de format JPG vers XLSB sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers JPG au format XLSB. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLSB parfaite.
+Enregistrer les formats de fichiers JPG au format XLSB est une tâche complexe. Toutes les transitions du format JPG vers XLSB sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des JPG sous forme de fichiers XLSB en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLSB parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer JPG au format XLSB" gistPath="" %}}
@@ -56,8 +56,8 @@ L'enregistrement de formats de fichiers à partir de JPG au format XLSB est une 
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer JPG au format XLSB" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

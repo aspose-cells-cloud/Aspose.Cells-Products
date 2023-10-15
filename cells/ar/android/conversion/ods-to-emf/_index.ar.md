@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS إلى EMF تحويل API لنظام Android
-description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق ODS إلى ملف بتنسيق EMF.
-url: /ar/android/conversion/ods-to-emf/
+title:  تحويل ODS إلى EMF باستخدام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف بتنسيق ODS إلى ملف بتنسيق EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لتحويل ODS إلى EMF" h2="مكتبة Android لتحويل ODS إلى EMF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لتحويل ODS إلى EMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/ods-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل المواد المستنفدة للأوزون إلى EMF" h2="مكتبة Android لتحويل المواد المستنفدة للأوزون إلى EMF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Android. يعد هذا حلاً احترافيًا لتحويل ODS إلى EMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/ods-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف ODS إلى EMF في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ODS إلى EMF باستخدام Cells Cloud SDK لنظام Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى EMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى EMF بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى ملفات EMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج EMF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من ODS إلى EMF مهمة معقدة. يتعامل Android SDK الخاص بنا مع جميع تحويلات تنسيق ODS إلى EMF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. توفر مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى EMF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Android من وظائف قوية ويضمن إخراج EMF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل ODS إلى تنسيق EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لتحويل ODS إلى EMF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ url: /ar/android/conversion/ods-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتحويل ODS إلى EMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتحويل ملفات Excel إلى تنسيقات أخرى ODS إلى EMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

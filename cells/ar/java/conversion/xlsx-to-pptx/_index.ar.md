@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSX إلى PPTX تحويل API for Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLSX إلى ملف بتنسيق PPTX.
-url: /ar/java/conversion/xlsx-to-pptx/
+title:  تحويل XLSX إلى PPTX باستخدام Java
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق XLSX إلى ملف بتنسيق PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLSX إلى PPTX" h2="Java مكتبة لتحويل XLSX إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل XLSX إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlsx-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSX إلى PPTX" h2="مكتبة Java لتحويل XLSX إلى PPTX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل XLSX إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlsx-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSX إلى PPTX في Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSX إلى PPTX باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSX إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى PPTX بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبتنا Java حلاً احترافيًا لتحويل ملفات XLSX إلى PPTX عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج PPTX مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSX إلى PPTX مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق XLSX إلى PPTX مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل ملفات XLSX إلى PPTX عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من الحصول على وظائف قوية ويضمن إخراج PPTX عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل XLSX إلى تنسيق PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لتحويل XLSX إلى PPTX باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,16 +46,16 @@ url: /ar/java/conversion/xlsx-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتحويل XLSX إلى PPTX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لتحويل ملفات Excel إلى تنسيقات أخرى XLSX إلى PPTX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспорт ИЗОБРАЖЕНИЯ в SVG из электронной таблицы с помощью Go API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/go/export/picture-to-svg/
+title:  Экспортируйте PICTURE в SVG из Excel с помощью Cells Cloud SDK для Go.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите API, чтобы экспортировать ИЗОБРАЖЕНИЕ в файл SVG." h2="Библиотека Go для экспорта ИЗОБРАЖЕНИЯ в файл SVG" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Go. Это профессиональное решение для экспорта ИЗОБРАЖЕНИЯ в файл формата SVG из электронной таблицы онлайн с помощью Go." urlsection="export/picture-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать КАРТИНКУ в SVG из Excel" h2="Библиотека Go для экспорта ИЗОБРАЖЕНИЯ в файл SVG." p="Используйте «Экспорт API из Cells Cloud», чтобы экспортировать рабочие процессы внутренних объектов файлов Excel в Go. Это профессиональное решение для экспорта ИЗОБРАЖЕНИЯ в файл формата SVG из электронной таблицы онлайн с помощью Go." urlsection="export/picture-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта PICTURE в файл формата SVG в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект PICTURE в файл формата SVG с помощью Cells Cloud SDK for Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта ИЗОБРАЖЕНИЕ в файл SVG из электронной таблицы является сложной задачей. Экспорт ИЗОБРАЖЕНИЯ в переходы формата SVG выполняется нашим SDK Go при сохранении основного структурного и логического содержания исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека Go — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата SVG. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SVG.
+Экспорт объекта PICTURE в файл SVG из файла Excel — сложная задача. Экспорт PICTURE в переходы формата SVG выполняется нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы PICTURE. Наша библиотека Go — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата SVG. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SVG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для экспорта ИЗОБРАЖЕНИЯ в формат SVG из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Go с использованием REST API для экспорта PICTURE в формат SVG из электронной таблицы" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -56,10 +55,10 @@ url: /ru/go/export/picture-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для экспорта ИЗОБРАЖЕНИЯ в SVG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод PostExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для экспорта объектов из Excel PICTURE в SVG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

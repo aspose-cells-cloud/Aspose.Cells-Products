@@ -1,19 +1,18 @@
 ﻿---
-title: Esporta FOGLIO DI LAVORO in ODS dal foglio di calcolo utilizzando PHP API
+title:  Esporta FOGLIO DI LAVORO in ODS da Excel utilizzando Cells Cloud SDK per PHP
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/php/export/worksheet-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API per esportare WORKSHEET in file ODS" h2="PHP libreria per esportare WORKSHEET in file ODS" p="Utilizzare Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in PHP. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato ODS dal foglio di calcolo online utilizzando PHP." urlsection="export/worksheet-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta FOGLIO DI LAVORO in ODS da Excel" h2="PHP libreria per esportazione FOGLIO DI LAVORO in file ODS" p="Utilizza Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in PHP. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato ODS dal foglio di calcolo online utilizzando PHP." urlsection="export/worksheet-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato ODS in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato ODS utilizzando Cells Cloud SDK per PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'esportazione dell'oggetto WORKSHEET nel file ODS dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni del FOGLIO DI LAVORO nel formato ODS viene eseguita dal nostro SDK PHP mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria PHP è una soluzione professionale per esportare oggetti WORKSHEET in file in formato ODS online. Questo Cloud SDK offre agli sviluppatori PHP potenti funzionalità e un output ODS perfetto.
+Esportare l'oggetto WORKSHEET nel file ODS dal file Excel è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni del formato ODS viene eseguita dal nostro SDK PHP mantenendo il contenuto strutturale e logico principale del foglio di lavoro del FOGLIO DI LAVORO di origine. La nostra libreria PHP è una soluzione professionale per esportare oggetti WORKSHEET in file in formato ODS online. Questo Cloud SDK offre agli sviluppatori PHP funzionalità potenti e un output ODS perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in PHP utilizzando REST API per esportare WORKSHEET in formato ODS dal foglio di calcolo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in PHP utilizzando REST API per esportare FOGLIO DI LAVORO in formato ODS dal foglio di calcolo" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,15 +35,15 @@ L'esportazione dell'oggetto WORKSHEET nel file ODS dal foglio di calcolo è un'a
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare PHP API per esportare WORKSHEET in ODS" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo postExport per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per PHP per esportare oggetti da Excel WORKSHEET a ODS" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>PHP 7.4 o più recente</li>
+<li>PHP 7.4 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

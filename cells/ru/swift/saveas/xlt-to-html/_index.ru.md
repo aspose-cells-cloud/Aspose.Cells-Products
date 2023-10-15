@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохраните XLT как HTML API для Swift
+title:  Сохранить XLT как HTML API для Swift
 description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLT как файла формата HTML.
 url: /ru/swift/saveas/xlt-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLT как HTML" h2="Библиотека Swift для сохранения XLT как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLT как HTML и других форматов документов онлайн с помощью Swift." urlsection="saveas/xlt-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLT как HTML." h2="Библиотека Swift для сохранения XLT как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XLT как HTML и других форматов документов онлайн с помощью Swift." urlsection="saveas/xlt-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как HTML в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT как HTML — сложная задача. Все переходы между форматами XLT и HTML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLT как HTML онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
+Сохранение формата файла из XLT как HTML — сложная задача. Все переходы формата XLT в HTML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLT в формате HTML онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLT в формате HTML" gistPath="" %}}
@@ -55,9 +55,9 @@ url: /ru/swift/saveas/xlt-to-html/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLT как HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

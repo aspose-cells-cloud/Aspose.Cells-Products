@@ -1,36 +1,36 @@
 ﻿---
-title:  Bulutta Excel Elektronik Tablo Oluşturun ve Değiştirin (Java REST SDK)
-description:  İşleme için bulut depolama alanından Microsoft Excel ve OpenOffice dosyalarına erişen Elektronik Tablo oluşturucu ve dönüştürücü uygulamaları oluşturmak için cURL komutlarını kullanın
+title:  Bulutta Excel E-Tabloları Oluşturun ve Değiştirin (Java REST SDK)
+description:  İşleme için bulut depolama alanından Microsoft Excel ve OpenOffice dosyalarına erişen Elektronik Tablo oluşturucu ve dönüştürücü uygulamalar oluşturmak için cURL komutlarını kullanın
 weight: 60
 url: /tr/java
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Oluşturmak ve Değiştirmek için SDK Excel Dosyalar via REST API" h2="Excel ve OpenOffice elektronik tablo işleme özelliklerinin bulut tabanlı Java uygulamalarına sorunsuz entegrasyonunu sağlar." logoImageSrc="/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Oluşturmak ve Değiştirmek için SDK Excel Dosyalar via REST API" h2="Excel ve OpenOffice elektronik tablo işleme özelliklerinin bulut tabanlı Java uygulamalarına kusursuz entegrasyonunu sağlar." logoImageSrc="/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-java.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-java" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Java programınızın bir akıllı işaretleyici şablonundan Excel çalışma kitabı oluşturmasına olanak tanır. Bulutta Excel çalışma kitaplarını birleştirin, bölün, şifreleyin, şifresini çözün ve parola uygulayın. Kolay Java kod via bulut SDK kullanarak bir çalışma kitabındaki tüm formülleri hesaplayın.</p>
-<p>Aspose.Cells Cloud SDK for Java'i kullanarak, basit Java talimatlarını kullanarak çalışma sayfası resminden barkodları çıkarabilir, bir çalışma sayfasında çeşitli türde filtreler (tarih filtresi, simge filtresi dinamik filtre) uygulayabilir, tüm veya tek tek satırlar, sütunlar ve hücrelerle çalışabilirsiniz. bir çalışma sayfası.</p>
-<p>Ayrıca Microsoft Excel çizelgeleri, koşullu biçimlendirme, köprüler, ListObjets, OleObjects, sayfa sonları, sayfa düzeni, resimler, pivot tablolar ve bulut dosya ve klasör yönetimi ile çalışabilirsiniz.</p>
+<p>Java programınızın akıllı işaretleyici şablonundan Excel çalışma kitabı oluşturmasına olanak tanır. Bulutta Excel çalışma kitabını birleştirin, bölün, şifreleyin, şifresini çözün ve parolayı uygulayın. Kolay Java kod via bulut SDK'sını kullanarak çalışma kitabındaki tüm formülleri hesaplayın.</p>
+<p>Aspose.Cells Cloud SDK for Java'i kullanarak, basit Java talimatlarını kullanarak çalışma sayfası resminden barkodları çıkarabilir, bir çalışma sayfasına çeşitli türde filtreler (tarih filtresi, simge filtresi dinamik filtre) uygulayabilir, satırların, sütunların ve hücrelerin tümü veya tek tek ile çalışabilirsiniz. bir çalışma sayfası.</p>
+<p>Ayrıca Microsoft Excel grafikler, koşullu biçimlendirme, köprüler, ListObjets, OleObjects, sayfa sonları, sayfa düzeni, resimler, pivot tablolar ve bulut dosya ve klasör yönetimiyle de çalışabilirsiniz.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells Bulut, tüm elektronik tablo işleme görevlerini gerçekleştirebilir." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells Bulut, tüm elektronik tablo düzenleme görevlerini gerçekleştirebilir." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>genel bakış</header><ul><li>Tablolarla çalışma</li>
+<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>Genel Bakış</header><ul><li>Tablolarla çalışma</li>
 <li>Hücrelerle çalışma</li>
 <li>Grafiklerle çalışma</li>
 <li>Köprülerle çalışma</li>
 <li>Pivot tablolarla çalışma</li>
-<li>Resimler ve şekillerle çalışma</li>
+<li>Resimler ve şekillerle çalışın</li>
 <li>Doğrulamalarla çalışma</li>
 </ul></div>
 <!--/right--></div>
@@ -40,18 +40,18 @@ url: /tr/java
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Cells Bulut tarafından desteklenen dosya biçimleri." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.Cells Bulut destekli dosya formatları." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Giriş çıkış</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Açık ofis:</b> ODS</li>
-<li><b>E-tabloML:</b> xml</li>
-<li><b>Metin:</b> CSV, TSV, TXT (Sekmeyle Sınırlandırılmış)</li>
+<li><b>Elektronik TabloML:</b> XML</li>
+<li><b>Metin:</b> CSV, TSV, TXT (Sekmeyle Ayrılmış)</li>
 <li><b>Ağ:</b> HTML, MHTML</li>
 </ul></div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Yalnızca Giriş</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Yalnızca Çıktı</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> Yalnızca Çıkış</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -61,7 +61,7 @@ url: /tr/java
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells Bulut, tüm büyük platformları ve programlama dillerini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells Bulut, tüm önemli platformları ve programlama dillerini destekler." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -90,14 +90,14 @@ url: /tr/java
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Birden çok liste filtresi türü için destek
+ Birden fazla liste filtresi türü desteği
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Grafik Alanı kenarlığı veya dolgu formatı hakkında bilgi alın
+ Grafik Alanı kenarlığı veya dolgu formatı hakkında bilgi alma
     </p>
    </div>
    <div class="col-lg-4">
@@ -118,7 +118,7 @@ url: /tr/java
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Başlığı alın, güncelleyin, grafik başlığını alın ve görünürlüğünü ayarlayın
+ Grafik başlığını alın, güncelleyin, görünürlüğünü ayarlayın
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,49 +146,49 @@ url: /tr/java
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Bir çalışma sayfasındaki belirli veya tüm ListObject'leri silin
+ Çalışma sayfasındaki belirli ListObject'leri veya tüm ListObject'leri silin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- ListObject veya tabloyu bir hücre aralığına dönüştürün
+ ListObject'i veya tabloyu bir hücre aralığına dönüştürün
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
+ Büyük ListObject veya Table verilerini Pivot Table ile özetleme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Excel çalışma sayfasına OleObjects ekleyin
+ OleObjects'i Excel çalışma sayfasına ekleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfasından belirli veya tüm OleObject'leri silin
+Belirli veya tüm OleObject'leri çalışma sayfasından silin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ekleme veya silme, yatay veya dikey sayfa sonları
+ Yatay veya dikey sayfa sonları ekleme veya silme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa düzenini, başlığı &amp; alt bilgi
+ Sayfa düzenini, başlığı ve içeriği değiştirin alt bilgi
     </p>
    </div>
    <div class="col-lg-4">
@@ -209,21 +209,21 @@ Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
     <em class="fa fa-copy ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfasından gerekli şekli getir
+ Gerekli şekli çalışma sayfasından getir
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfasından şekil ekleme, güncelleme veya silme
+ Çalışma sayfasına şekil ekleme, güncelleme veya silme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfaları için doğrulama ekleme, güncelleme veya silme
+ Çalışma sayfaları için doğrulamaları ekleme, güncelleme veya silme
     </p>
    </div>
    <div class="col-lg-12">
@@ -231,19 +231,19 @@ Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
  Excel Elektronik Tablo İşleme SDK'sını Kullanmaya Başlayın
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Java ile başlamak için herhangi bir şey yüklemeniz gerekmez. Tek yapmanız gereken bir hesap oluşturmak
+ Aspose.Cells Cloud SDK for Java'i kullanmaya başlamak için herhangi bir şey yüklemenize gerek yoktur. Tek yapmanız gereken şu adreste bir hesap oluşturmak:
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
-ve uygulama bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarıyla, REST API'lerini destekleyen herhangi bir platformda Aspose.Cells Cloud SDK for Java'i kullanmaya hazırsınız. Aspose.Cells Cloud SDK for Java size e-tablo oluşturmanız, düzenlemeniz ve dönüştürmeniz için gereken tüm özellikleri sağlar. Ayrıca, daha fazla işleme veya depolama için elektronik tablolardan veri çıkarmanıza olanak tanır.
+ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'leri destekleyen herhangi bir platformda Aspose.Cells Cloud SDK for Java'i kullanmaya hazırsınız. Aspose.Cells Cloud SDK for Java, e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Çalışma Kitaplarını İşleme via Cloud SDK
+ Çalışma Kitaplarını İşleme via Bulut SDK
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Java, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine dışa aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri yok sayarak çalışma kitabı satırlarını otomatik sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı uzunluğu sağlamanıza olanak tanır , verileri çalışma kitabına aktarın, çalışma kitabındaki tüm formülleri hesaplayın, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapın, akıllı işaretçi kullanın, çalışma kitabını istek içeriğinden başka bir biçime dönüştürün, içerik değişikliğine izin vermek için parola uygulayın.
+ Aspose.Cells Bulut SDK for Java, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri yok sayarak çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı uzunluğu sağlamanıza olanak tanır , verileri çalışma kitabına aktarın, çalışma kitabındaki tüm formülleri hesaplayın, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapın, akıllı işaretleyici kullanın, çalışma kitabını istek içeriğinden başka bir formata dönüştürün, içerik değişikliğine izin vermek için şifre uygulayın.
     </p>
    </div>
    <div class="col-lg-12">
@@ -251,18 +251,18 @@ ve uygulama bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anah
 Çalışma Sayfalarını İşlemek için Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK for Java'i kullanarak çalışma sayfasındaki belirli satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satırını veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir hücreye kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplandırın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
+Aspose.Cells Cloud SDK for Java'i kullanarak çalışma sayfasındaki belirli bir satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücrenin adına göre getirebilir, çalışma sayfası satır veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir yere kopyalayabilirsiniz hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplayın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Pivot Tabloların gücünden yararlanın &amp; Aralıklar
+ Pivot Tabloların gücünden yararlanın ve; Aralıklar
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Java, çalışma sayfasına bir pivot tablo eklemenize, pivot tabloya pivot alanlar eklemenize veya silmenize, pivot tablo dizini için pivot filtre eklemenize veya kaldırmanıza, pivot tablo için hücre stilini güncellemenize ve pivot tablonun verilerini hücrelere hesaplamanıza olanak tanır.
+ Aspose.Cells Bulut SDK for Java, çalışma sayfasına bir pivot tablo eklemenize, pivot tabloya pivot alanları eklemenize veya silmenize, pivot tablo dizini için pivot filtresi eklemenize veya kaldırmanıza, pivot tablo için hücre stilini güncellemenize ve pivot tablonun hücrelere ait verilerini hesaplamanıza olanak tanır.
     </p>
     <p>
-Aspose.Cells Cloud SDK for Java, aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücre listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, geçerli aralığı hedef aralığa taşımak, ana hatları ayarlamak için de kullanılabilir bir hücre aralığı etrafında kenarlık, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasında kopyalayın.
+Aspose.Cells Cloud SDK for Java ayrıca aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücrelerin listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, mevcut aralığı hedef aralığa taşımak, anahatları ayarlamak için de kullanılabilir bir hücre aralığının etrafındaki kenarlığı ayarlayın, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasına kopyalayın.
     </p>
    </div>
   </div>
@@ -274,10 +274,10 @@ Aspose.Cells Cloud SDK for Java, aralık adına veya satır sütun dizinlerine g
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/cells" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-java" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSM zu JSON Konvertieren API für Swift
+title: XLSM zu JSON Konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSM-Format in eine Datei im JSON-Format.
 url: /de/swift/conversion/xlsm-to-json/
 ---

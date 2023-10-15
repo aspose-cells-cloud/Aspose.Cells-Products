@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM till TXT Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLSM-format till fil i TXT-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLSM-format till fil i TXT-format.
 url: /sv/swift/conversion/xlsm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

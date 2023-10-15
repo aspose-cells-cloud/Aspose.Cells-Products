@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспорт ИЗОБРАЖЕНИЯ в SVG из электронной таблицы с использованием Ruby API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/ruby/export/picture-to-svg/
+title: Экспортируйте PICTURE в SVG из Excel, используя Cells Cloud SDK для Ruby.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для экспорта ИЗОБРАЖЕНИЯ в файл SVG" h2="Библиотека Ruby для экспорта ИЗОБРАЖЕНИЯ в файл SVG" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Ruby. Это профессиональное решение для экспорта ИЗОБРАЖЕНИЯ в файл формата SVG из электронной таблицы онлайн с использованием Ruby." urlsection="export/picture-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать КАРТИНКУ в SVG из Excel" h2="Библиотека Ruby для экспорта ИЗОБРАЖЕНИЯ в файл SVG." p="Используйте команду «Экспорт API из облака Cells» для экспорта рабочих процессов внутренних объектов файлов Excel в Ruby. Это профессиональное решение для экспорта ИЗОБРАЖЕНИЯ в файл формата SVG из электронной таблицы онлайн с помощью Ruby." urlsection="export/picture-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта PICTURE в файл формата SVG в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект PICTURE в файл формата SVG с помощью Cloud SDK Cells для Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта ИЗОБРАЖЕНИЕ в файл SVG из электронной таблицы является сложной задачей. Экспорт ИЗОБРАЖЕНИЯ в переходы формата SVG выполняется нашим Ruby SDK при сохранении основного структурного и логического содержания исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека Ruby — это профессиональное решение для экспорта объектов PICTURE в файлы формата SVG онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод SVG.
+Экспорт объекта PICTURE в файл SVG из файла Excel — сложная задача. Экспорт PICTURE в переходы формата SVG выполняется нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной таблицы PICTURE. Наша библиотека Ruby — это профессиональное решение для экспорта объектов PICTURE в файлы формата SVG онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный результат SVG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для экспорта ИЗОБРАЖЕНИЯ в формат SVG из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для экспорта PICTURE в формат SVG из электронной таблицы" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +34,10 @@ url: /ru/ruby/export/picture-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для экспорта ИЗОБРАЖЕНИЯ в SVG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод post_export, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для экспорта объектов из Excel PICTURE в SVG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод post_export, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

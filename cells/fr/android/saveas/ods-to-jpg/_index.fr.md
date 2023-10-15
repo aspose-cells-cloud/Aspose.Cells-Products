@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer ODS au format JPG API pour Android
-description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format ODS en tant que fichier au format JPG.
-url: /fr/android/saveas/ods-to-jpg/
+title:  Enregistrer ODS au format JPG avec Android
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format ODS au format JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer ODS au format JPG" h2="Bibliothèque Android pour enregistrer ODS au format JPG" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format JPG et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/ods-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer l\'ODS au format JPG" h2="Bibliothèque Android pour enregistrer l\'ODS au format JPG" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer des ODS au format JPG et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/ods-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS au format JPG dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS au format JPG sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir d'ODS au format JPG est une tâche complexe. Toutes les transitions de format ODS vers JPG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne ODS sous forme de fichiers JPG. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie JPG parfaite.
+Enregistrer les formats de fichiers d'ODS au format JPG est une tâche complexe. Toutes les transitions du format ODS vers JPG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des ODS sous forme de fichiers JPG en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie JPG parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer ODS au format JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour enregistrer ODS au format JPG à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ L'enregistrement de formats de fichiers à partir d'ODS au format JPG est une t�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer ODS au format JPG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour enregistrer les fichiers Excel sous d\'autres formats ODS au format JPG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG in MHTML konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von JPG-Formatdateien in MHTML-Formatdateien.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von JPG-Formatdateien in MHTML-Formatdateien.
 url: /de/swift/conversion/jpg-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

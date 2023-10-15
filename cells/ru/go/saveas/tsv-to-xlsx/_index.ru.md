@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить TSV как XLSX API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата TSV в виде файла формата XLSX.
-url: /ru/go/saveas/tsv-to-xlsx/
+title:  Сохраните TSV как XLSX с помощью Go.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата TSV в формате XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить TSV как XLSX." h2="Перейти в библиотеку, чтобы сохранить TSV как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения TSV как XLSX и других форматов документов в Интернете с помощью Go." urlsection="saveas/tsv-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить TSV как XLSX." h2="Библиотека Go для сохранения TSV в формате XLSX." p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения TSV в формате XLSX и других форматов документов онлайн с помощью Go." urlsection="saveas/tsv-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как XLSX в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как XLSX в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде XLSX — сложная задача. Все переходы форматов TSV в XLSX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для сохранения TSV в виде файлов XLSX онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSX.
+Сохранение форматов файлов из TSV в формате XLSX — сложная задача. Все переходы формата TSV в XLSX выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы TSV. Наша библиотека Go — это профессиональное решение для сохранения файлов TSV в формате XLSX онлайн. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения TSV в формате XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения TSV в формате XLSX с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /ru/go/saveas/tsv-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для сохранения TSV как XLSX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах TSV как XLSX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML a XLS Convertir API para Python
-description: Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato HTML a un archivo de formato XLS.
-url: /es/python/conversion/html-to-xls/
+title:  Convierta HTML a XLS usando Python
+description:  Utilizar el SDK de la nube Aspose.Cells para Python para convertir un archivo de formato HTML a un archivo de formato XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir HTML a XLS" h2="Python biblioteca para convertir HTML a XLS" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir HTML a XLS y otros formatos de documentos en línea usando Python." urlsection="conversion/html-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir HTML a XLS" h2="Biblioteca Python para convertir HTML a XLS" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Python proyectos. Esta es una solución profesional para convertir HTML a XLS y otros formatos de documentos en línea usando Python." urlsection="conversion/html-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo HTML a XLS en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta HTML a XLS usando Cells Cloud SDK para Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de HTML a XLS es una tarea compleja. Todas las transiciones de formato HTML a XLS se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Python es una solución profesional para convertir HTML a archivos XLS en línea. Este SDK de Cloud ofrece a los desarrolladores de Python una potente funcionalidad y una salida XLS perfecta.
+Convertir formatos de archivo de HTML a XLS puede ser una tarea compleja. Nuestro SDK Python maneja todas las conversiones de formato HTML a XLS al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Python proporciona una solución profesional para convertir archivos HTML a XLS en línea. Este SDK de nube brinda a los desarrolladores Python una potente funcionalidad y garantiza una salida XLS de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para convertir HTML a formato XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Ejemplo de código para convertir HTML a XLS usando Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Convertir formatos de archivo de HTML a XLS es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Python API para convertir HTML a XLS" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_libro de trabajo_poner_convertir_método del libro de trabajo para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Python para convertir archivos Excel a otros formatos HTML a XLS" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

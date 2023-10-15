@@ -1,19 +1,18 @@
 ﻿---
-title:  SXC إلى XLT - تحويل API إلى Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق SXC إلى ملف بتنسيق XLT.
-url: /ar/go/conversion/sxc-to-xlt/
+title:  تحويل SXC إلى XLT باستخدام Go
+description: استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق SXC إلى ملف بتنسيق XLT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل SXC إلى XLT" h2="انتقل إلى مكتبة لتحويل SXC إلى XLT" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل SXC إلى XLT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/sxc-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل SXC إلى XLT" h2="انتقل إلى المكتبة لتحويل SXC إلى XLT" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل SXC إلى XLT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/sxc-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى XLT في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل SXC إلى XLT باستخدام Cells Cloud SDK لـ Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من SXC إلى XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى XLT بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات SXC إلى XLT عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLT مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من SXC إلى XLT مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات تنسيق SXC إلى XLT مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات SXC إلى XLT عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من الحصول على وظائف قوية ويضمن إخراج XLT عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل SXC إلى تنسيق XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لتحويل SXC إلى XLT باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ url: /ar/go/conversion/sxc-to-xlt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل SXC إلى XLT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتحويل ملفات Excel إلى تنسيقات أخرى من SXC إلى XLT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

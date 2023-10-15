@@ -13,7 +13,7 @@ url: /de/swift/saveas/xlsm-to-txt/
 Das Speichern von Dateiformaten aus XLSM als TXT ist eine komplexe Aufgabe. Alle XLSM-zu-TXT-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLSM als TXT-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLSM als TXT-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLSM im TXT-Format" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

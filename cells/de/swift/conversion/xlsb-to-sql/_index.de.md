@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB zu SQL Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine SQL-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine SQL-Formatdatei.
 url: /de/swift/conversion/xlsb-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

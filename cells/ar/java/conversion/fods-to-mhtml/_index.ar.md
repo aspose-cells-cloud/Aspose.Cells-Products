@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل FODS إلى MHTML في السحابة via Java
-description: إنشاء ملفات Excel أو تحريرها أو تحويلها باستخدام REST API & Open Source Java SDK
+description: إنشاء أو تحرير أو تحويل ملفات Excel باستخدام REST API ومفتوح المصدر Java SDK
 url: /ar/java/conversion/fods-to-mhtml/
 family: cells
 platformtag: java
@@ -11,24 +11,24 @@ platform: Java
 otherformats: TXT MHTML CSV XPS TIFF XLTX DIF FODS XML XLSB MD XLTM PDF XLSM XLSX SVG 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى MHTML باستخدام Java" h2="أتمتة Excel وتحويل ملف OpenOffice باستخدام Cloud SDK مفتوح المصدر for Java" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى MHTML مع Java" h2="أتمتة Excel وتحويل ملفات OpenOffice باستخدام Cloud SDK مفتوح المصدر for Java" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="بسيط FODS لتحويل MHTML" %}}
-1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية
-1. قم بتهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
-1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي باستخدام طريقة ```CellsApi.Upload```
-1. اتصل على ```CellsApi.cellsWorkbookGetWorkbook``` للحصول على ملف MHTML الناتج
+{{% blocks/products/pf/agp/feature-section-col title="FODS بسيطة لتحويل MHTML" %}}
+1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا
+1. تهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
+1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي بطريقة ```CellsApi.Upload```
+1. اتصل بالرقم ```CellsApi.cellsWorkbookGetWorkbook``` للحصول على ملف MHTML الناتج
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ابدأ باستخدام Excel API و Java SDK" %}}
- احصل على كود المصدر Excel Cloud SDK for Java من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات تنزيل بديلة.
+{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel API و Java SDK" %}}
+ احصل على Excel Cloud SDK for Java كود المصدر من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
 
- ألقِ نظرة أيضًا على Swagger المستندة إلى[API المرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel راحة API](https://products.aspose.cloud/cells/curl/).
+ قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Java كود لتحويل FODS إلى MHTML" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Java كود تحويل FODS إلى MHTML" gistPath="" %}}
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
 try {

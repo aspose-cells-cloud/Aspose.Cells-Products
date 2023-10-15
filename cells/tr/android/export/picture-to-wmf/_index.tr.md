@@ -1,19 +1,18 @@
 ﻿---
-title:  Android API kullanarak PICTURE'ı e-tablodan WMF'ye aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/android/export/picture-to-wmf/
+title:  Android için Cells Cloud SDK'yı kullanarak RESİM'i Excel'den WMF'ye aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="RESİM\'i WMF dosyasına dışa aktarmak için Android API" h2="PICTURE\'ı WMF dosyasına dışa aktarmak için Android kitaplığı" p="Android\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Android kullanarak elektronik tablodan PICTURE dosyasını WMF formatında dışa aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="RESMİ Excel\'den WMF\'ye aktar" h2="RESİM\'i WMF dosyasına aktarmak için Android kitaplığı" p="Android\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Android kullanarak çevrimiçi elektronik tablodan RESİM\'i WMF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PICTURE nesnesini Android\'de WMF format dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android için Cells Cloud SDK\'yı kullanarak PICTURE nesnesini WMF formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-PICTURE nesnesini elektronik tablodan WMF dosyasına dışa aktarma karmaşık bir iştir. PICTURE'ı WMF biçimine dışa aktarma geçişleri, kaynak PICTURE e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, PICTURE nesnelerini çevrimiçi olarak WMF formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
+PICTURE nesnesini Excel dosyasından WMF dosyasına aktarmak karmaşık bir iştir. PICTURE'ı WMF'ye aktarma format geçişleri, kaynak PICTURE elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, RESİM nesnelerini çevrimiçi olarak WMF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PICTURE\'ı e-tablodan WMF formatına dışa aktarmak için REST API kullanan Android\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="RESİM\'i e-tablodan WMF formatına aktarmak için REST API\'i kullanan Android\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -51,10 +50,10 @@ PICTURE nesnesini elektronik tablodan WMF dosyasına dışa aktarma karmaşık b
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="RESİM\'i WMF\'ye dışa aktarmak için Java API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel PICTURE\'dan WMF\'ye aktarmak için Android için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

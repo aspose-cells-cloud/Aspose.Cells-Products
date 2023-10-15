@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT aus der Tabelle mit NodeJS API nach PDF
+title:  Exportieren Sie LISTOBJECT von Excel nach PDF mit Cells Cloud SDK für NodeJS
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/nodejs/export/listobject-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren von LISTOBJECT in die Datei PDF" h2="NodeJS-Bibliothek zum Exportieren von LISTOBJECT in die Datei PDF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine Datei im Format PDF aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/listobject-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie LISTOBJECT von Excel nach PDF" h2="NodeJS-Bibliothek zum Exportieren von LISTOBJECT in die Datei PDF" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine Datei im Format PDF aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/listobject-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in die Formatdatei PDF in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine Datei im Format PDF mit dem Cloud SDK Cells für NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des LISTOBJECT-Objekts aus der Tabellenkalkulation in die Datei PDF ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das PDF-Format wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im Format PDF. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte PDF-Ausgabe.
+Das Exportieren des LISTOBJECT-Objekts aus der Datei Excel in die Datei PDF ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das PDF-Format wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im Format PDF. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte PDF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Exportieren von LISTOBJECT in das PDF-Format aus der Tabellenkalkulation" gistPath="" %}}
@@ -41,10 +40,10 @@ Das Exportieren des LISTOBJECT-Objekts aus der Tabellenkalkulation in die Datei 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API zum Exportieren von LISTOBJECT nach PDF" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Objekte von Excel LISTOBJECT nach PDF zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

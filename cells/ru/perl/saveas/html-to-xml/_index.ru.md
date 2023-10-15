@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить HTML как XML API для Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата HTML в виде файла формата XML.
-url: /ru/perl/saveas/html-to-xml/
+title:  Сохраните HTML как XML, используя Perl.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата HTML как файла формата XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для сохранения HTML в формате XML" h2="Библиотека Perl для сохранения HTML в виде XML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения HTML в формате XML и других форматов документов в Интернете с использованием Perl." urlsection="saveas/html-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как XML" h2="Perl библиотека для сохранения HTML в формате XML" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения HTML в виде XML и других форматов документов онлайн с помощью Perl." urlsection="saveas/html-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как XML в Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML в формате XML в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML в виде XML — сложная задача. Все переходы HTML в формат XML выполняются нашим Perl SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Perl — это профессиональное решение для сохранения HTML в виде файлов XML в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод XML.
+Сохранение файлов формата HTML в формате XML — сложная задача. Все переходы формата HTML в формат XML выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Perl — это профессиональное решение для сохранения HTML в виде XML-файлов в Интернете. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения HTML в формате XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения HTML в формате XML с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/html-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для сохранения HTML в формате XML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Perl для сохранения файлов Excel в других форматах HTML как XML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

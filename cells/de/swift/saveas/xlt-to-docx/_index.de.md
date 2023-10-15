@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLT als DOCX API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLT-Formatdateien als DOCX-Formatdateien.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um Dateien im XLT-Format als Dateien im DOCX-Format zu speichern.
 url: /de/swift/saveas/xlt-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

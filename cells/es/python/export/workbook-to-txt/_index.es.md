@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportar LIBRO DE TRABAJO a TXT desde una hoja de cálculo usando Python API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/python/export/workbook-to-txt/
+title:  Exporte WORKBOOK a TXT desde Excel usando Cells Cloud SDK para Python
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para exportar LIBRO DE TRABAJO a archivo TXT" h2="Python biblioteca para exportar LIBRO DE TRABAJO a archivo TXT" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en Python. Esta es una solución profesional para exportar el LIBRO DE TRABAJO a un archivo de formato TXT desde la hoja de cálculo en línea usando Python." urlsection="export/workbook-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar LIBRO DE TRABAJO a TXT desde Excel" h2="Biblioteca Python para exportar WORKBOOK a archivo TXT" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en Python. Esta es una solución profesional para exportar WORKBOOK a un archivo de formato TXT desde una hoja de cálculo en línea usando Python." urlsection="export/workbook-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKBOOK a un archivo de formato TXT en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKBOOK a un archivo en formato TXT usando Cells Cloud SDK para Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto WORKBOOK a un archivo TXT desde una hoja de cálculo es una tarea compleja. Exportar WORKBOOK a transiciones de formato TXT se realiza mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo WORKBOOK de origen. Nuestra biblioteca Python es una solución profesional para exportar objetos de WORKBOOK a archivos de formato TXT en línea. Este SDK de Cloud ofrece a los desarrolladores de Python una potente funcionalidad y una salida TXT perfecta.
+Exportar el objeto WORKBOOK a un archivo TXT desde el archivo Excel es una tarea compleja. Nuestro SDK Python realiza la exportación de transiciones de WORKBOOK a formato TXT manteniendo el contenido estructural y lógico principal de la hoja de cálculo de WORKBOOK de origen. Nuestra biblioteca Python es una solución profesional para exportar objetos WORKBOOK a archivos en formato TXT en línea. Este SDK de nube ofrece a los desarrolladores de Python una potente funcionalidad y una salida TXT perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para exportar WORKBOOK a formato TXT desde una hoja de cálculo" gistPath="" %}}
@@ -37,9 +36,9 @@ Exportar un objeto WORKBOOK a un archivo TXT desde una hoja de cálculo es una t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Python API para exportar WORKBOOK a TXT" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Python para exportar objetos de Excel WORKBOOK a TXT" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
 <li>Llame al método post_export para obtener el flujo resultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

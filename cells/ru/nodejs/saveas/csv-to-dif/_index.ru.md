@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните CSV как DIF API для NodeJS.
-description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата CSV в виде файла формата DIF.
-url: /ru/nodejs/saveas/csv-to-dif/
+title:  Сохраните CSV как DIF, используя NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата CSV как файла формата DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения CSV как DIF" h2="Библиотека NodeJS для сохранения CSV как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения CSV как DIF и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/csv-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить CSV как DIF" h2="Библиотека NodeJS для сохранения CSV как DIF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения CSV в формате DIF и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/csv-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как DIF в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде DIF — сложная задача. Все переходы формата CSV в формат DIF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-сохранения CSV-файлов в формате DIF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод DIF.
+Сохранение форматов файлов из CSV в формат DIF — сложная задача. Все переходы формата CSV в DIF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов CSV в формате DIF онлайн. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод в формате DIF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения CSV в формате DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения CSV как DIF с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/csv-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения CSV в формате DIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах CSV как DIF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

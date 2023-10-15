@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG إلى BMP تحويل API لـ C#
-description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق PNG إلى ملف بتنسيق BMP.
-url: /ar/net/conversion/png-to-bmp/
+title:  تحويل PNG إلى BMP باستخدام C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف بتنسيق PNG إلى ملف بتنسيق BMP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لتحويل PNG إلى BMP" h2="مكتبة C# لتحويل PNG إلى BMP" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لتحويل PNG إلى BMP وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/png-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل PNG إلى BMP" h2="مكتبة C# لتحويل PNG إلى BMP" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Net. يعد هذا حلاً احترافيًا لتحويل PNG إلى BMP وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/png-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف PNG إلى BMP في C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل PNG إلى BMP باستخدام Cells Cloud SDK لـ C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من PNG إلى BMP مهمة معقدة. يتم إجراء جميع انتقالات تنسيق PNG إلى BMP بواسطة SDK C# مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعد مكتبتنا C# حلاً احترافيًا لتحويل PNG إلى BMP الملفات عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج BMP مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من PNG إلى BMP مهمة معقدة. يتعامل SDK C# الخاص بنا مع جميع تحويلات التنسيق PNG إلى BMP مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. توفر مكتبتنا C# حلاً احترافيًا لتحويل PNG إلى BMP ملفًا عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري C# بوظائف قوية ويضمن إخراج BMP عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتحويل PNG إلى تنسيق BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# مثال على الكود لتحويل PNG إلى BMP باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ar/net/conversion/png-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام C# API لتحويل PNG إلى BMP" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لتحويل ملفات Excel إلى تنسيقات أخرى PNG إلى BMP" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
-<li>Net Standard 2.0 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

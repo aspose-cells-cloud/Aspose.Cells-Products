@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera LISTOBJECT till JPG från kalkylblad med Go API
+title:  Exportera LISTOBJECT till JPG från Excel med Cells Cloud SDK for Go
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/go/export/listobject-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att exportera LISTOBJECT till JPG-fil" h2="Gå till biblioteket för att exportera LISTOBJECT till JPG-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylark i Go. Detta är en professionell lösning för att exportera LISTOBJECT till JPG-formatfil från kalkylblad online med Go." urlsection="export/listobject-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera LISTOBJEKT till JPG från Excel" h2="Gå till biblioteket för att exportera LISTOBJECT till JPG-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i Go. Detta är en professionell lösning för att exportera LISTOBJECT till JPG-formatfil från kalkylblad online med Go." urlsection="export/listobject-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till JPG-formatfil i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till JPG-formatfil med Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera LISTOBJECT-objekt till JPG-fil från kalkylblad är en komplex uppgift. Export av LISTOBJECT till JPG-formatövergångar utförs av vår Go SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till JPG-formatfiler online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
+Exportera LISTOBJECT-objekt till JPG-fil från Excel-filen är en komplex uppgift. Export av LISTOBJECT till JPG-formatövergångar utförs av vår Go SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till JPG-formatfiler online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att exportera LISTOBJECT till JPG-format från kalkylblad" gistPath="" %}}
@@ -56,10 +55,10 @@ Exportera LISTOBJECT-objekt till JPG-fil från kalkylblad är en komplex uppgift
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att exportera LISTOBJECT till JPG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring PostExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Gå till exportobjekt från Excel LISTOBJECT till JPG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

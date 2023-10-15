@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX in DOCX Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSX-Format in eine Datei im DOCX-Format.
+title: XLSX in DOCX Konvertieren Sie API für Swift
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSX-Format in eine Datei im DOCX-Format.
 url: /de/swift/conversion/xlsx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

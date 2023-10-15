@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните JSON как MD API для Perl.
-description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата JSON в виде файла формата MD.
-url: /ru/perl/saveas/json-to-md/
+title:  Сохраните JSON как MD, используя Perl.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата JSON в формате MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить JSON как MD" h2="Perl библиотека для сохранения JSON как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения JSON как MD и других форматов документов в Интернете с использованием Perl." urlsection="saveas/json-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить JSON как MD" h2="Perl библиотека для сохранения JSON как MD" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения JSON в формате MD и других форматов документов в Интернете с помощью Perl." urlsection="saveas/json-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как MD в Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как MD по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде MD — сложная задача. Все переходы формата JSON в формат MD выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Perl — это профессиональное решение для сохранения JSON в виде файлов MD в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод MD.
+Сохранение форматов файлов из JSON в формате MD — сложная задача. Все переходы формата JSON в MD выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Perl — это профессиональное решение для сохранения JSON в виде файлов MD онлайн. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения JSON в формате MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения JSON как MD с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/json-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для сохранения JSON как MD" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl для сохранения файлов Excel в других форматах JSON как MD" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните JSON как ODS API для NodeJS.
-description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата JSON в виде файла формата ODS.
-url: /ru/nodejs/saveas/json-to-ods/
+title:  Сохраните JSON как ODS, используя NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата JSON как файла формата ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения JSON как ODS" h2="Библиотека NodeJS для сохранения JSON как ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения JSON в виде ODS и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/json-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить JSON как ODS" h2="Библиотека NodeJS для сохранения JSON как ODS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения JSON в формате ODS и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/json-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как ODS в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде ODS — сложная задача. Все переходы между форматами JSON и ODS выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека NodeJS — это профессиональное решение для сохранения JSON в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из JSON в формате ODS — сложная задача. Все переходы формата JSON в ODS выполняются нашим NodeJS SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека NodeJS — это профессиональное решение для сохранения JSON в виде файлов ODS онлайн. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный результат ODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения JSON в формате ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения JSON как ODS с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/json-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения JSON как ODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах JSON как ODS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

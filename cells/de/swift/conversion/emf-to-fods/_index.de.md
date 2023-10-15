@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF in FODS Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im EMF-Format in eine FODS-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im EMF-Format in eine FODS-Formatdatei.
 url: /de/swift/conversion/emf-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

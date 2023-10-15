@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XLTM كـ MHTML API for Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLTM كملف بتنسيق MHTML.
-url: /ar/java/saveas/xltm-to-mhtml/
+title:  احفظ XLTM كـ MHTML باستخدام Java
+description: استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLTM كملف بتنسيق MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLTM كـ MHTML" h2="Java مكتبة لحفظ XLTM كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLTM كـ MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xltm-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLTM كـ MHTML" h2="مكتبة Java لحفظ XLTM بصيغة MHTML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ XLTM بتنسيق MHTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xltm-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM بتنسيق MHTML في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLTM كـ MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTM إلى MHTML بواسطة Java SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. مكتبتنا Java هي حل احترافي لحفظ XLTM كملفات MHTML عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج MHTML مثالي.
+يعد حفظ تنسيقات الملفات من XLTM بتنسيق MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTM إلى MHTML بواسطة Java SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبتنا Java حلاً احترافيًا لحفظ XLTM كملفات MHTML عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Java وظائف قوية ومخرجات MHTML مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لحفظ XLTM بتنسيق MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لحفظ XLTM كـ MHTML باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ url: /ar/java/saveas/xltm-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ XLTM كـ MHTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لحفظ Excel ملف بتنسيقات أخرى XLTM مثل MHTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

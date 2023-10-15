@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLSX som TSV API för NodeJS
-description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLSX-formatfil som TSV-formatfil.
-url: /sv/nodejs/saveas/xlsx-to-tsv/
+title:  Spara XLSX som TSV med NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLSX-formatfil som TSV-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att spara XLSX som TSV" h2="NodeJS-bibliotek för att spara XLSX som TSV" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara XLSX som TSV och andra dokumentformat online med NodeJS." urlsection="saveas/xlsx-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSX som TSV" h2="NodeJS-bibliotek för att spara XLSX som TSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara XLSX som TSV och andra dokumentformat online med NodeJS." urlsection="saveas/xlsx-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSX-fil som TSV i NodeJS" >}}
@@ -13,7 +12,7 @@ url: /sv/nodejs/saveas/xlsx-to-tsv/
 Att spara filformat från XLSX som TSV är en komplex uppgift. Alla XLSX- till TSV-formatövergångar utförs av vår NodeJS SDK samtidigt som källbladets XLSX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att spara XLSX som TSV-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt TSV-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att spara XLSX som TSV-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att spara XLSX som TSV med REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Att spara filformat från XLSX som TSV är en komplex uppgift. Alla XLSX- till T
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att spara XLSX som TSV" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att spara Excel filer som andra format XLSX som TSV" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLTX в XLSX API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLTX в файл формата XLSX.
-url: /ru/java/conversion/xltx-to-xlsx/
+title:  Конвертируйте XLTX в XLSX с помощью Java.
+description:  Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата XLTX в файл формата XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLTX в XLSX" h2="Java библиотека для преобразования XLTX в XLSX" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования XLTX в XLSX и другие форматы документов онлайн с использованием Java." urlsection="conversion/xltx-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLTX в XLSX" h2="Java библиотека для конвертации XLTX в XLSX" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертации XLTX в XLSX и другие форматы документов с помощью номера Java." urlsection="conversion/xltx-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в XLSX в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XLTX в XLSX с помощью Cloud SDK Cells for Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в XLSX — сложная задача. Все переходы между форматами XLTX и XLSX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLTX в XLSX. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XLSX.
+Преобразование форматов файлов из XLTX в XLSX может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования форматов XLTX в XLSX, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLTX. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертирования файлов XLTX в XLSX. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод в формате XLSX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLTX в формат XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для преобразования XLTX в XLSX с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ url: /ru/java/conversion/xltx-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования XLTX в XLSX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для преобразования файлов Excel в другие форматы XLTX в XLSX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX in FODS Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSX-Format in eine Datei im FODS-Format.
+title: XLSX in FODS Konvertieren Sie API für Swift
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSX-Format in eine Datei im FODS-Format.
 url: /de/swift/conversion/xlsx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLSB в GIF API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLSB в файл формата GIF.
-url: /ru/java/conversion/xlsb-to-gif/
+title:  Конвертируйте XLSB в GIF с помощью Java
+description:  Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата XLSB в файл формата GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLSB в GIF" h2="Java библиотека для преобразования XLSB в GIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации XLSB в GIF и другие форматы документов с использованием Java." urlsection="conversion/xlsb-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLSB в GIF" h2="Java библиотека для конвертации XLSB в GIF" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертирования XLSB в GIF и другие форматы документов с помощью номера Java." urlsection="conversion/xlsb-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в GIF в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте XLSB в GIF с помощью Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в GIF — сложная задача. Все переходы между форматами XLSB и GIF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSB в GIF. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод GIF.
+Преобразование форматов файлов из XLSB в GIF может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования формата XLSB в GIF, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSB. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертации файлов XLSB в GIF. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод GIF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLSB в формат GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для преобразования XLSB в GIF с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ url: /ru/java/conversion/xlsb-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования XLSB в GIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для преобразования файлов Excel в другие форматы XLSB в GIF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

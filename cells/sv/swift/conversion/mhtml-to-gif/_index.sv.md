@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML till GIF Konvertera API för Swift
+title: MHTML till GIF Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera MHTML-formatfil till GIF-formatfil.
 url: /sv/swift/conversion/mhtml-to-gif/
 ---

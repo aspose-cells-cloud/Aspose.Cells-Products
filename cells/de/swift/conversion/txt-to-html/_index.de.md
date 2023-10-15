@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT in HTML Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer TXT-Formatdatei in eine Datei im HTML-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer TXT-Formatdatei in eine Datei im HTML-Format.
 url: /de/swift/conversion/txt-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

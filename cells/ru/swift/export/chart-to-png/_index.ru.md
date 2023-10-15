@@ -1,16 +1,16 @@
 ﻿---
-title:  Экспортируйте CHART в PNG из электронной таблицы с помощью Swift API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
+title:  Экспортируйте CHART в PNG из электронной таблицы с помощью Swift API.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 url: /ru/swift/export/chart-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для экспорта CHART в файл PNG" h2="Библиотека Swift для экспорта CHART в файл PNG" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Swift. Это профессиональное решение для экспорта файла формата CHART в файл формата PNG из электронной таблицы онлайн с помощью Swift." urlsection="export/chart-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для экспорта CHART в файл PNG" h2="Библиотека Swift для экспорта CHART в файл PNG" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Swift. Это профессиональное решение для экспорта CHART в файл формата PNG из электронной таблицы онлайн с помощью Swift." urlsection="export/chart-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта CHART в файл формата PNG в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта CHART в файл PNG из электронной таблицы является сложной задачей. Экспорт CHART в переходы формата PNG выполняется нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы CHART. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата PNG. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PNG.
+Экспорт объекта CHART в файл PNG из электронной таблицы — сложная задача. Экспорт переходов формата CHART в формат PNG выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы CHART. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата PNG. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта CHART в формат PNG из электронной таблицы" gistPath="" %}}
@@ -56,9 +56,9 @@ url: /ru/swift/export/chart-to-png/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для экспорта CHART в PNG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод postExport, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

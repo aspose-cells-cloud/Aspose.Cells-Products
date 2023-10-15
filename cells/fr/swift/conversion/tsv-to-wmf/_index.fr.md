@@ -1,16 +1,16 @@
 ﻿---
-title:  Convertir TSV en WMF API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format TSV en fichier au format WMF.
+title:  TSV en WMF Convertir API pour Swift
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format TSV en fichier au format WMF.
 url: /fr/swift/conversion/tsv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir TSV en WMF" h2="Bibliothèque Swift pour convertir TSV en WMF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir TSV en WMF et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/tsv-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir TSV en WMF" h2="Bibliothèque Swift pour convertir TSV en WMF" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir TSV en WMF et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/tsv-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier TSV en WMF dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de TSV en WMF est une tâche complexe. Toutes les transitions de format TSV vers WMF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers TSV en WMF en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie WMF parfaite.
+La conversion des formats de fichiers TSV en WMF est une tâche complexe. Toutes les transitions du format TSV vers WMF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers TSV en WMF en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie WMF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir TSV au format WMF" gistPath="" %}}
@@ -67,8 +67,8 @@ La conversion des formats de fichiers de TSV en WMF est une tâche complexe. Tou
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir TSV en WMF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

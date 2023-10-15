@@ -1,19 +1,19 @@
 ﻿---
-title:  Guardar SXC como TIFF API para Swift
-description:  Usando Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato SXC como archivo de formato TIFF.
+title:  Guarde SXC como TIFF API para Swift
+description:  Uso de Aspose.Cells Cloud SDK para Swift para guardar el archivo en formato SXC como archivo en formato TIFF.
 url: /es/swift/saveas/sxc-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para guardar SXC como TIFF" h2="Biblioteca Swift para guardar SXC como TIFF" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para guardar SXC como TIFF y otros formatos de documentos en línea usando Swift." urlsection="saveas/sxc-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para guardar SXC como TIFF" h2="Biblioteca Swift para guardar SXC como TIFF" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para guardar SXC como TIFF y otros formatos de documentos en línea usando Swift." urlsection="saveas/sxc-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo SXC como TIFF en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de SXC como TIFF es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato SXC a TIFF mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Swift es una solución profesional para guardar SXC como archivos TIFF en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y un resultado TIFF perfecto.
+Guardar formatos de archivo de SXC como TIFF es una tarea compleja. Todas las transiciones de formato SXC a TIFF las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Swift es una solución profesional para guardar SXC como archivos TIFF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado TIFF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar SXC como formato TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar SXC en formato TIFF" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,14 +55,14 @@ Guardar formatos de archivo de SXC como TIFF es una tarea compleja. Nuestro Swif
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Swift API para guardar SXC como TIFF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
+<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener la secuencia resultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>macOS Monterrey 12.4</li>
+<li>macOS Monterey 12.4</li>
 <li>Rápido 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

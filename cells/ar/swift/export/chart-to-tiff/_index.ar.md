@@ -1,19 +1,19 @@
 ﻿---
-title:  قم بتصدير CHART إلى TIFF من جدول البيانات باستخدام Swift API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
+title:  تصدير CHART إلى TIFF من جدول البيانات باستخدام Swift API
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 url: /ar/swift/export/chart-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتصدير المخطط البياني إلى ملف TIFF" h2="مكتبة سويفت لتصدير CHART إلى ملف TIFF" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Swift. هذا حل احترافي لتصدير CHART إلى ملف بتنسيق TIFF من جدول بيانات عبر الإنترنت باستخدام Swift." urlsection="export/chart-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتصدير الرسم البياني إلى ملف TIFF" h2="مكتبة سويفت لتصدير الرسم البياني إلى ملف TIFF" p="استخدم Cells تصدير REST API لتصدير سير عمل الكائنات الداخلية لجدول البيانات في Swift. يعد هذا حلاً احترافيًا لتصدير CHART إلى ملف بتنسيق TIFF من جدول البيانات عبر الإنترنت باستخدام Swift." urlsection="export/chart-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف تنسيق TIFF في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق TIFF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن CHART إلى ملف TIFF من جدول البيانات مهمة معقدة. تصدير المخطط إلى TIFF يتم تنفيذ انتقالات تنسيق بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CHART المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات CHART إلى ملفات بتنسيق TIFF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج TIFF مثالي.
+يعد تصدير كائن CHART إلى ملف TIFF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير CHART إلى تنسيق TIFF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CHART المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات CHART إلى ملفات بتنسيق TIFF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج TIFF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لتصدير المخطط البياني إلى تنسيق TIFF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتصدير CHART إلى تنسيق TIFF من جدول البيانات" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,8 +55,8 @@ url: /ar/swift/export/chart-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتصدير المخطط البياني إلى TIFF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتصدير الرسم البياني إلى TIFF" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

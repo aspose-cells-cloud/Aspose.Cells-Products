@@ -1,19 +1,19 @@
 ﻿---
-title:  ODS to MD - تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق ODS إلى ملف بتنسيق MD.
+title:  ODS إلى MD تحويل API لـ Swift
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق ODS إلى ملف تنسيق MD.
 url: /ar/swift/conversion/ods-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل المواد المستنفدة للأوزون إلى MD" h2="مكتبة سريعة لتحويل ODS إلى MD" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل ODS إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/ods-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل المواد المستنفدة للأوزون إلى MD" h2="مكتبة سويفت لتحويل المواد المستنفدة للأوزون إلى MD" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل ODS إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/ods-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف ODS إلى MD في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى MD مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى MD بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى ملفات MD عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج MD مثالي.
+يعد تحويل تنسيقات الملفات من ODS إلى MD مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق ODS إلى MD بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى MD عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات MD مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل ODS إلى تنسيق MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل تنسيق ODS إلى تنسيق MD" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -65,15 +65,15 @@ url: /ar/swift/conversion/ods-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل ODS إلى MD" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل المواد المستنفدة للأوزون إلى MD" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

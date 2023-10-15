@@ -1,19 +1,18 @@
 ﻿---
-title:  JSON إلى TXT - تحويل API عن PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق JSON إلى ملف بتنسيق TXT.
-url: /ar/php/conversion/json-to-txt/
+title:  تحويل JSON إلى TXT باستخدام PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق JSON إلى ملف بتنسيق TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل JSON إلى TXT" h2="PHP مكتبة لتحويل JSON إلى TXT" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل JSON إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/json-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل JSON إلى TXT" h2="مكتبة PHP لتحويل JSON إلى TXT" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل JSON إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/json-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JSON إلى TXT في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل JSON إلى TXT باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JSON إلى TXT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى TXT بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لتحويل ملفات JSON إلى ملفات TXT عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج TXT مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من JSON إلى TXT مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق JSON إلى TXT مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات JSON إلى TXT عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج TXT عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل JSON إلى تنسيق TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل JSON إلى TXT باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/json-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل JSON إلى TXT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى JSON إلى TXT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

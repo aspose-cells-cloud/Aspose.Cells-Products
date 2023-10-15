@@ -1,19 +1,18 @@
 ﻿---
-title:  Guardar JPG como EMF API para PHP
-description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato JPG como archivo de formato EMF.
-url: /es/php/saveas/jpg-to-emf/
+title:  Guarde JPG como EMF usando PHP
+description:  Utilizando Aspose.Cells Cloud SDK para PHP para guardar el archivo en formato JPG como archivo en formato EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para guardar JPG como EMF" h2="PHP biblioteca para guardar JPG como EMF" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar JPG como EMF y otros formatos de documentos en línea usando PHP." urlsection="saveas/jpg-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar JPG como EMF" h2="Biblioteca PHP para guardar JPG como EMF" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar JPG como EMF y otros formatos de documentos en línea usando PHP." urlsection="saveas/jpg-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo JPG como EMF en PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de JPG como EMF es una tarea compleja. Todas las transiciones de formato JPG a EMF se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca PHP es una solución profesional para guardar archivos JPG como EMF en línea. Este SDK de Cloud ofrece a los desarrolladores de PHP una potente funcionalidad y un resultado EMF perfecto.
+Guardar formatos de archivo de JPG como EMF es una tarea compleja. Todas las transiciones de formato JPG a EMF se realizan mediante nuestro SDK PHP manteniendo el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca PHP es una solución profesional para guardar JPG como archivos EMF en línea. Este SDK de nube ofrece a los desarrolladores de PHP una funcionalidad potente y un resultado de EMF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para guardar JPG como formato EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Ejemplo de código para guardar JPG como EMF usando REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Guardar formatos de archivo de JPG como EMF es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar PHP API para guardar JPG como EMF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para guardar archivos Excel en otros formatos JPG como EMF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

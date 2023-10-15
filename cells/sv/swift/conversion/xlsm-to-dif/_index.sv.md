@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSM till DIF Konvertera API för Swift
+title: XLSM till DIF Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLSM-format till fil i DIF-format.
 url: /sv/swift/conversion/xlsm-to-dif/
 ---

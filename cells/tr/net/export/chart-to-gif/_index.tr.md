@@ -1,19 +1,18 @@
 ﻿---
-title:  C# API kullanarak CHART'ı e-tablodan GIF'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/net/export/chart-to-gif/
+title: C# için Cells Cloud SDK'yı kullanarak CHART'ı Excel'den GIF'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="CHART\'ı GIF dosyasına aktarmak için C# API" h2="CHART\'ı GIF dosyasına dışa aktarmak için C# kitaplığı" p="Net\'te elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, CHART\'ı C# kullanarak elektronik tablodan GIF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/chart-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Excel\'den CHART\'ı GIF\'e aktar" h2="CHART\'ı GIF dosyasına aktarmak için C# kitaplığı" p="Net\'te Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, C# numaralı telefonu kullanarak çevrimiçi tablodan CHART\'ı GIF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/chart-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="CHART nesnesini C#\'de GIF formatındaki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="C# için Cells Cloud SDK\'yı kullanarak CHART nesnesini GIF formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-CHART nesnesini e-tablodan GIF dosyasına aktarma karmaşık bir iştir. CHART'ı GIF formatına aktarma geçişleri, kaynak CHART e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, CHART nesnelerini çevrimiçi olarak GIF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel GIF çıktısı sağlar.
+CHART nesnesini Excel dosyasından GIF dosyasına aktarmak karmaşık bir iştir. CHART'ı GIF formatına aktarma geçişleri C# SDK'mız tarafından gerçekleştirilir ve kaynak CHART elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, CHART nesnelerini çevrimiçi olarak GIF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, C# geliştiriciye güçlü işlevsellik ve mükemmel GIF çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="CHART\'ı e-tablodan GIF biçimine dışa aktarmak için REST API kullanan C#\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Elektronik tablodan CHART\'ı GIF formatına aktarmak için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,16 +43,16 @@ CHART nesnesini e-tablodan GIF dosyasına aktarma karmaşık bir iştir. CHART'�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="CHART\'ı GIF\'e dışa aktarmak için C# API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için PostExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel CHART\'tan GIF\'e aktarmak için Cells Cloud SDK for Net nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>NET Framework 4.5.2 veya daha yenisi</li>
-<li>Net Standard 2.0 veya daha yenisi</li>
+<li>Net Standardı 2.0 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

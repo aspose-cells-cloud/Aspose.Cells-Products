@@ -1,19 +1,18 @@
 ﻿---
-title:  XLTX till GIF Convert API för Android
-description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i XLTX-format till fil i GIF-format.
-url: /sv/android/conversion/xltx-to-gif/
+title:  Konvertera XLTX till GIF med Android
+description: Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i XLTX-format till en fil i GIF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att konvertera XLTX till GIF" h2="Android-bibliotek för att konvertera XLTX till GIF" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att konvertera XLTX till GIF och andra dokumentformat online med Android." urlsection="conversion/xltx-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLTX till GIF" h2="Android-bibliotek för att konvertera XLTX till GIF" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android-projekt. Detta är en professionell lösning för att konvertera XLTX till GIF och andra dokumentformat online med Android." urlsection="conversion/xltx-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLTX-fil till GIF i Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLTX till GIF med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTX till GIF är en komplex uppgift. Alla XLTX- till GIF-formatövergångar utförs av vår Android SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera XLTX till GIF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
+Att konvertera filformat från XLTX till GIF kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar av XLTX till GIF-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket XLTX bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera XLTX till GIF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer GIF-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera XLTX till GIF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att konvertera XLTX till GIF med Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Att konvertera filformat från XLTX till GIF är en komplex uppgift. Alla XLTX- 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera XLTX till GIF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel-filer till andra format XLTX till GIF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

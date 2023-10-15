@@ -1,16 +1,15 @@
 ﻿---
-title:  Cloud'da yerel çalışma kitabının arka planını temizle
-description: Microsoft Excel ve OpenOffice Calc üzerinde arka planı temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki arka planı temizleyin. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
-url: /tr/nodejs/clear/background/
+title:  Bulut'taki yerel çalışma kitabının arka planını temizleyin
+description: Microsoft Excel ve OpenOffice Calc'ın arka planını temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tabloların arka planını temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki arka planı temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizler." urlsection="clear/Background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka plan kaldırılıyor" h2="NodeJS Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek için temizleyin" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarının arka planını temizlemek için Cells REST\'i Temizle API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizler." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda arka planı temizle - NodeJS REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunun arka planını temizleyin - NodeJS REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek karmaşık bir iştir. Yerel Microsoft Excel ve OpenOffice Calc elektronik tablo geçişlerindeki arka planı temizleme, kaynak elektronik tablonun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, yerel Microsoft Excel ve çevrimiçi OpenOffice Calc elektronik tablosundaki arka planı temizlemek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunun arka planını temizlemek karmaşık bir iştir. Yerel Microsoft Excel ve OpenOffice Calc elektronik tablo geçişlerine ilişkin arka planın temizlenmesi, kaynak elektronik tablonun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, yerel Microsoft Excel ve çevrimiçi OpenOffice Calc elektronik tablosunun arka planını temizlemek için profesyonel bir çözümdür. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Yerel e-tablolardaki arka planı temizlemek için NodeJS kodu" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-Clear-Background.js" %}}
@@ -18,11 +17,15 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı tem
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Arka planı temizlemek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postClearObjects` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
+<li>düğüm v6.17.1 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

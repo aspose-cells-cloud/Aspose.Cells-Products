@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование FODS в HTML в облаке via PHP
-description: Создавайте, редактируйте или конвертируйте Excel файлы с помощью REST API и Open Source PHP SDK
+description: Создавайте, редактируйте или конвертируйте файлы Excel с помощью REST API и SDK с открытым исходным кодом PHP.
 url: /ru/php/conversion/fods-to-html/
 family: cells
 platformtag: php
@@ -11,24 +11,24 @@ platform: PHP
 otherformats: ODS TXT XLT XLSX XML CSV TSV MHTML FODS DIF XLSB XLTM PDF XLSM MD TIFF 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование FODS в HTML с помощью PHP" h2="Автоматизируйте преобразование файлов Excel и OpenOffice с помощью Cloud SDK с открытым исходным кодом для PHP" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразуйте FODS в HTML с помощью PHP" h2="Автоматизируйте преобразование файлов Excel и OpenOffice с помощью Cloud SDK с открытым исходным кодом для PHP." >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Быстрое преобразование FODS в HTML via PHP" %}}
-1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API
-1. Инициализируйте ```CellsApi``` с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.
+{{% blocks/products/pf/agp/feature-section-col title="Быстро конвертируйте FODS в HTML via PHP" %}}
+1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API
+1. Инициализируйте ```CellsApi```, используя идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.
 1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.uploadFile```.
 1. Позвоните по номеру ```CellsApi.cellsSaveAsPostDocumentSaveAs```, чтобы получить результирующий файл HTML.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Начните работу с Excel, API и PHP SDK" %}}
- Получите Excel Cloud SDK для исходного кода PHP из[Гитхаб](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) скомпилировать SDK самостоятельно или обратиться к[Релизы](https://releases.aspose.cloud/) для альтернативных вариантов загрузки.
+{{% blocks/products/pf/agp/feature-section-col title="Начало работы с Excel, API и PHP SDK" %}}
+ Получите Excel Cloud SDK для исходного кода PHP с сайта[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
 
- Также взгляните на Swagger-based[API Ссылка](https://apireference.aspose.cloud/cells/) узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
+ Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="PHP Код FODS для конвертации HTML" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Код PHP для преобразования FODS в HTML" gistPath="" %}}
 ```php
 
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php

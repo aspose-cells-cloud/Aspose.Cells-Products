@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG till XLSM Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera JPG-formatfil till XLSM-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera JPG-formatfil till XLSM-formatfil.
 url: /sv/swift/conversion/jpg-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить SXC как MHTML API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата SXC как файла формата MHTML.
-url: /ru/java/saveas/sxc-to-mhtml/
+title:  Сохраните SXC как MHTML, используя Java.
+description: Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата SXC как файла формата MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить SXC как MHTML" h2="Java библиотека для сохранения SXC как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения SXC как MHTML и других форматов документов в Интернете с использованием Java." urlsection="saveas/sxc-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить SXC как MHTML" h2="Java библиотека для сохранения SXC в формате MHTML" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения SXC в формате MHTML и других форматов документов в Интернете с помощью Java." urlsection="saveas/sxc-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как MHTML в Java." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как MHTML по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC как MHTML — сложная задача. Все переходы формата SXC в формат MHTML выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Java — это профессиональное решение для сохранения SXC в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов из SXC в формате MHTML — сложная задача. Все переходы формата SXC в MHTML выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Java — это профессиональное решение для сохранения SXC в виде файлов MHTML в Интернете. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения SXC в формате MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения SXC в формате MHTML с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/sxc-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения SXC как MHTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах SXC как MHTML." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

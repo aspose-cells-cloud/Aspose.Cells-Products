@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM zu SXC Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSM-Format in eine Datei im SXC-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSM-Format in eine Datei im SXC-Format.
 url: /de/swift/conversion/xlsm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

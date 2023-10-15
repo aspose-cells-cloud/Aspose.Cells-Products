@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير ورقة العمل إلى WMF من جدول البيانات باستخدام Ruby API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/ruby/export/worksheet-to-wmf/
+title:  تصدير ورقة عمل إلى WMF من Excel باستخدام Cells Cloud SDK لـ Ruby
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لتصدير WORKSHEET إلى ملف WMF" h2="مكتبة Ruby لتصدير WORKSHEET إلى ملف WMF" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Ruby. هذا حل احترافي لتصدير WORKSHEET إلى ملف بتنسيق WMF من جدول بيانات عبر الإنترنت باستخدام Ruby." urlsection="export/worksheet-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير ورقة العمل إلى WMF من Excel" h2="مكتبة روبي لتصدير ورقة العمل إلى ملف WMF" p="استخدم تصدير API من Cells Cloud لتصدير Excel سير عمل الكائن الداخلي في Ruby. يعد هذا حلاً احترافيًا لتصدير ورقة العمل إلى ملف بتنسيق WMF من جدول البيانات عبر الإنترنت باستخدام Ruby." urlsection="export/worksheet-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق WMF في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن ورقة العمل إلى ملف بتنسيق WMF باستخدام Cells Cloud SDK لـ Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف WMF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير ورقة العمل إلى تنسيق WMF بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق WMF عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج WMF مثالي.
+يعد تصدير كائن ورقة العمل إلى ملف WMF من الملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير ورقة العمل إلى تنسيق WMF بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات ورقة العمل إلى ملفات بتنسيق WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية ومخرجات WMF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتصدير WORKSHEET إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في روبي باستخدام REST API لتصدير ورقة عمل إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +34,10 @@ url: /ar/ruby/export/worksheet-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتصدير WORKSHEET إلى WMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتصدير الكائنات من ورقة عمل Excel إلى WMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

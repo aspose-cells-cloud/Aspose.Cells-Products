@@ -1,19 +1,18 @@
 ﻿---
-title:  PHP API kullanarak PICTURE dosyasını e-tablodan PNG'e aktarın
-description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
-url: /tr/php/export/picture-to-png/
+title:  PHP için Cells Bulut SDK'sını kullanarak RESMİ Excel'den PNG'e aktarın
+description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="RESİM\'i PNG dosyasına aktarmak için PHP API" h2="RESİM\'i PNG dosyasına dışa aktarmak için PHP kitaplığı" p="PHP\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, PHP kullanarak elektronik tablodan PICTURE dosyasını PNG biçiminde dışa aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="RESMİ Excel\'den PNG\'e aktar" h2="RESİM\'i PNG dosyasına aktarmak için PHP kitaplığı" p="PHP\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, PHP\'i kullanarak çevrimiçi tablodan RESİM\'i PNG biçimindeki dosyaya dışa aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PICTURE nesnesini PHP\'deki PNG format dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="PHP için Cells Bulut SDK\'sını kullanarak PICTURE nesnesini PNG biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-PICTURE nesnesini elektronik tablodan PNG dosyasına dışa aktarma karmaşık bir iştir. PICTURE'ı PNG biçimine dışa aktarma geçişleri, PHP SDK'mız tarafından gerçekleştirilir ve kaynak PICTURE e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, PICTURE nesnelerini çevrimiçi olarak PNG biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel PNG çıkışı sağlar.
+PICTURE nesnesini Excel dosyasından PNG dosyasına aktarmak karmaşık bir iştir. PICTURE'ı PNG'e aktar format geçişleri PHP SDK'mız tarafından gerçekleştirilir ve kaynak PICTURE elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, RESİM nesnelerini çevrimiçi olarak PNG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, PHP geliştiriciye güçlü işlevsellik ve mükemmel PNG çıktı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="RESİM\'i e-tablodan PNG biçimine dışa aktarmak için REST API kullanan PHP\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="RESİM\'i e-tablodan PNG formatına aktarmak için REST API\'i kullanan PHP\'deki kod örneği" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ PICTURE nesnesini elektronik tablodan PNG dosyasına dışa aktarma karmaşık b
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="RESİM\'i PNG\'e dışa aktarmak için PHP API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel PICTURE\'dan PNG\'e nesneleri dışa aktarmak için PHP için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

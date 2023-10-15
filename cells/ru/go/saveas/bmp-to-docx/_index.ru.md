@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить BMP как DOCX API для Go
-description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата BMP в виде файла формата DOCX.
-url: /ru/go/saveas/bmp-to-docx/
+title:  Сохраните BMP как DOCX с помощью Go.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата BMP как файла формата DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить BMP как DOCX." h2="Перейти в библиотеку, чтобы сохранить BMP как DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения BMP в формате DOCX и других форматах документов в Интернете с помощью Go." urlsection="saveas/bmp-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить BMP как DOCX" h2="Библиотека Go для сохранения BMP в формате DOCX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения BMP в формате DOCX и других форматов документов онлайн с помощью Go." urlsection="saveas/bmp-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как DOCX в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как DOCX в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP как DOCX — сложная задача. Все переходы формата BMP в формат DOCX выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Go — это профессиональное решение для сохранения BMP в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение файлов формата BMP в формате DOCX — сложная задача. Все переходы формата BMP в формат DOCX выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы BMP. Наша библиотека Go — это профессиональное решение для сохранения BMP в формате DOCX в Интернете. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения BMP в формате DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения BMP как DOCX с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /ru/go/saveas/bmp-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для сохранения BMP в формате DOCX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах BMP как DOCX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

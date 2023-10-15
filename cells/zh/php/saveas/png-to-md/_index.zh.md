@@ -1,10 +1,9 @@
 ﻿---
-title: 将 PNG 另存为 PHP 的 MD API
-description: 使用Aspose.Cells Cloud SDK for PHP将PNG格式文件保存为MD格式文件。
-url: /zh/php/saveas/png-to-md/
+title: 使用 PHP 将 PNG 保存为 MD
+description: 利用Aspose.Cells云SDK for PHP将PNG格式文件保存为MD格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将PNG另存为MD" h2="PHP库将PNG保存为MD" p="使用Cells SaveAs REST API在PHP中创建自定义电子表格工作流程。这是使用PHP在线将PNG保存为MD和其他文档格式的专业解决方案。" urlsection="saveas/png-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="另存 PNG 为 MD" h2="PHP库，用于将PNG保存为MD" p="使用Cells云的另存为API在PHP中创建自定义电子表格工作流程。这是使用PHP在线将PNG保存为MD和其他文档格式的专业解决方案。" urlsection="saveas/png-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将PNG文件另存为PHP中的MD" >}}
@@ -13,7 +12,7 @@ url: /zh/php/saveas/png-to-md/
 将 PNG 中的文件格式保存为 MD 是一项复杂的任务。所有 PNG 到 MD 格式的转换均由我们的 PHP SDK 执行，同时保留源 PNG 电子表格的主要结构和逻辑内容。我们的 PHP 库是在线将 PNG 保存为 MD 文件的专业解决方案。该Cloud SDK为PHP开发者提供了强大的功能和完美的MD输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP中的代码示例使用REST API将PNG保存为MD格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP 使用 REST API 将 PNG 保存为 MD 的代码示例" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /zh/php/saveas/png-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用PHP API将PNG另存为MD" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 cellsSaveAsPostDocumentSaveAs 方法来获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用PHP云SDK将Excel文件保存为其他格式PNG保存为MD" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

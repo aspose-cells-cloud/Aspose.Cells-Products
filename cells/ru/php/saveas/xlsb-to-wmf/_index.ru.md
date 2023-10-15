@@ -1,19 +1,18 @@
 ﻿---
-title: Сохраните XLSB как WMF API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLSB в виде файла формата WMF.
-url: /ru/php/saveas/xlsb-to-wmf/
+title:  Сохраните XLSB как WMF, используя PHP.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLSB как файла формата WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить XLSB как WMF" h2="PHP библиотека для сохранения XLSB как WMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения XLSB как WMF и других форматов документов в Интернете с использованием PHP." urlsection="saveas/xlsb-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSB как WMF" h2="PHP библиотека для сохранения XLSB в формате WMF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения XLSB в формате WMF и других форматов документов в Интернете с помощью PHP." urlsection="saveas/xlsb-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как WMF по адресу PHP." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как WMF по номеру PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в виде WMF — сложная задача. Все переходы формата XLSB в формат WMF выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека PHP — это профессиональное решение для сохранения XLSB в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам PHP мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов из XLSB в WMF — сложная задача. Все переходы формата XLSB в WMF выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека PHP — это профессиональное решение для сохранения файлов XLSB в формате WMF онлайн. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и отличный результат в формате WMF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения XLSB в формате WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения XLSB как WMF с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/xlsb-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения XLSB в формате WMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для сохранения файлов Excel в других форматах XLSB как WMF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

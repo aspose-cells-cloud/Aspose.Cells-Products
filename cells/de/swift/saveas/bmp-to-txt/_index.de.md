@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie BMP als TXT API für Swift
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im BMP-Format als TXT-Formatdatei zu speichern.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im BMP-Format als TXT-Formatdatei zu speichern.
 url: /de/swift/saveas/bmp-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

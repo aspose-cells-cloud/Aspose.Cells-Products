@@ -1,19 +1,18 @@
 ﻿---
-title:  Convertir JPG en SQL API pour Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format JPG en fichier au format SQL.
-url: /fr/perl/conversion/jpg-to-sql/
+title:  Convertissez JPG en SQL en utilisant Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir un fichier au format JPG en fichier au format SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir JPG en SQL" h2="Perl bibliothèque pour convertir JPG en SQL" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir JPG en SQL et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/jpg-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir JPG en SQL" h2="Bibliothèque Perl pour convertir JPG en SQL" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Perl. Il s\'agit d\'une solution professionnelle pour convertir des JPG en SQL et d\'autres formats de documents en ligne à l\'aide du Perl." urlsection="conversion/jpg-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier JPG en SQL en Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez JPG en SQL à l\'aide du SDK Cloud Cells pour Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de JPG en SQL est une tâche complexe. Toutes les transitions de format JPG vers SQL sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Perl est une solution professionnelle pour convertir des fichiers JPG en SQL en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie SQL parfaite.
+La conversion des formats de fichiers JPG en SQL peut être une tâche complexe. Notre SDK Perl gère toutes les conversions du format JPG vers SQL tout en préservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Perl fournit une solution professionnelle pour convertir des fichiers JPG en SQL en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et garantit une sortie SQL de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour convertir JPG au format SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour convertir JPG en SQL à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ La conversion des formats de fichiers de JPG en SQL est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Perl API pour convertir JPG en SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Perl pour convertir JPG en SQL" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Exporter WORKSHEET vers MD à partir d'une feuille de calcul à l'aide d'Android API
+title:  Exportez la FEUILLE DE TRAVAIL vers MD à partir de Excel à l'aide du SDK Cloud Cells pour Android
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
-url: /fr/android/export/worksheet-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour exporter WORKSHEET vers un fichier MD" h2="Bibliothèque Android pour exporter WORKSHEET vers un fichier MD" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Android. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format MD à partir d\'une feuille de calcul en ligne à l\'aide d\'Android." urlsection="export/worksheet-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter la FEUILLE DE TRAVAIL vers MD à partir du Excel" h2="Bibliothèque Android pour exporter WORKSHEET vers un fichier MD" p="Utilisez Export API de Cells Cloud pour exporter les workflows d\'objets internes du fichier Excel dans Android. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format MD à partir d\'une feuille de calcul en ligne à l\'aide d\'Android." urlsection="export/worksheet-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKSHEET vers un fichier au format MD dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportez l\'objet WORKSHEET vers un fichier au format MD à l\'aide du SDK Cloud Cells pour Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'exportation d'un objet WORKSHEET vers un fichier MD à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format WORKSHEET vers MD est effectuée par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source WORKSHEET. Notre bibliothèque Android est une solution professionnelle pour exporter en ligne des objets WORKSHEET vers des fichiers au format MD. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie MD parfaite.
+Exporter l'objet WORKSHEET vers le fichier MD à partir du fichier Excel est une tâche complexe. Les transitions d’exportation de WORKSHEET au format MD sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKSHEET source. Notre bibliothèque Android est une solution professionnelle pour exporter des objets WORKSHEET vers des fichiers au format MD en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie MD parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour exporter WORKSHEET au format MD à partir d\'une feuille de calcul" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code sous Android utilisant REST API pour exporter WORKSHEET au format MD à partir d\'une feuille de calcul" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -51,16 +50,16 @@ L'exportation d'un objet WORKSHEET vers un fichier MD à partir d'une feuille de
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour exporter WORKSHEET vers MD" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour exporter des objets de Excel WORKSHEET vers MD" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode postExport pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postExport` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

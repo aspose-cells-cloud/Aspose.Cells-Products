@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez CSV sous SVG API pour PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format CSV en tant que fichier au format SVG.
-url: /fr/php/saveas/csv-to-svg/
+title:  Enregistrez le CSV sous SVG en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format CSV au format SVG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer CSV sous SVG" h2="Bibliothèque PHP pour enregistrer CSV sous SVG" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer CSV sous SVG et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/csv-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer le fichier CSV sous SVG" h2="Bibliothèque PHP pour enregistrer le CSV sous SVG" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer CSV sous SVG et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/csv-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier CSV sous SVG dans PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de CSV sous le nom SVG est une tâche complexe. Toutes les transitions de format CSV vers SVG sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer des fichiers CSV sous SVG en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie SVG parfaite.
+L'enregistrement des formats de fichiers CSV sous le numéro SVG est une tâche complexe. Toutes les transitions du format CSV vers SVG sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer en ligne un fichier CSV sous forme de fichiers SVG. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie SVG parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour enregistrer CSV au format SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour enregistrer un fichier CSV sous SVG à l\'aide de REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ L'enregistrement de formats de fichiers à partir de CSV sous le nom SVG est une
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour enregistrer CSV sous SVG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP pour enregistrer les fichiers Excel sous d\'autres formats CSV sous le nom SVG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

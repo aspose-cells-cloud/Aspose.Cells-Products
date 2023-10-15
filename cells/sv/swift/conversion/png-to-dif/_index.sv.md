@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till DIF Konvertera API för Swift
-description:  Använda Aspose.Cells Cloud SDK för Swift för att konvertera PNG filformat till DIF-format fil.
+description: Använda Aspose.Cells Cloud SDK för Swift för att konvertera PNG filformat till DIF-format fil.
 url: /sv/swift/conversion/png-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

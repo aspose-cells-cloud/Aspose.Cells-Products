@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som XLSX API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att spara BMP filformat som XLSX format fil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att spara BMP filformat som XLSX format fil.
 url: /sv/swift/saveas/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

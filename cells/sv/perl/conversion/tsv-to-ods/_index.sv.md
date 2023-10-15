@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV till ODS Konvertera API för Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera TSV-formatfil till ODS-formatfil.
-url: /sv/perl/conversion/tsv-to-ods/
+title:  Konvertera TSV till ODS med Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera en fil i TSV-format till en fil i ODS-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att konvertera TSV till ODS" h2="Perl bibliotek för att konvertera TSV till ODS" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att konvertera TSV till ODS och andra dokumentformat online med Perl." urlsection="conversion/tsv-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera TSV till ODS" h2="Perl bibliotek för att konvertera TSV till ODS" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl projekt. Detta är en professionell lösning för att konvertera TSV till ODS och andra dokumentformat online med Perl." urlsection="conversion/tsv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en TSV-fil till ODS i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera TSV till ODS med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från TSV till ODS är en komplex uppgift. Alla TSV- till ODS-formatövergångar utförs av vår Perl SDK samtidigt som käll-TSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att konvertera TSV till ODS-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt ODS-utdata.
+Att konvertera filformat från TSV till ODS kan vara en komplex uppgift. Vår Perl SDK hanterar alla TSV- till ODS-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-TSV-kalkylarket bevaras. Vårt Perl-bibliotek erbjuder en professionell lösning för att konvertera TSV till ODS-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och säkerställer högkvalitativa ODS-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att konvertera TSV till ODS-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kodexempel för att konvertera TSV till ODS med Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Att konvertera filformat från TSV till ODS är en komplex uppgift. Alla TSV- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att konvertera TSV till ODS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl SDK för att konvertera TSV till ODS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

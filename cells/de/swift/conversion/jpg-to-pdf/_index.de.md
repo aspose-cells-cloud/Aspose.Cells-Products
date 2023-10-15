@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG in PDF Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer JPG-Formatdatei in eine Datei im PDF-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer JPG-Formatdatei in eine Datei im PDF-Format.
 url: /de/swift/conversion/jpg-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

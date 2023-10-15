@@ -1,19 +1,18 @@
 ﻿---
-title: GIF 到 MHTML 将 API 转换为 C#
-description: 使用Aspose.Cells Cloud SDK for C#将GIF格式文件转换为MHTML格式文件。
-url: /zh/net/conversion/gif-to-mhtml/
+title: 使用 C# 将 GIF 转换为 MHTML
+description: 利用Aspose.Cells Cloud SDK for C#将GIF格式文件转换为MHTML格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 GIF 转换为 MHTML" h2="C# 将 GIF 转换为 MHTML 的库" p="使用 Cells Conversion REST API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将GIF转换为MHTML和其他文档格式的专业解决方案。" urlsection="conversion/gif-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 GIF 转换为 MHTML" h2="C# 用于将 GIF 转换为 MHTML 的库" p="使用 Cells 云的转换 API 在 Net 项目中创建自定义电子表格工作流程。这是使用C#在线将GIF转换为MHTML和其他文档格式的专业解决方案。" urlsection="conversion/gif-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 GIF 文件转换为 MHTML C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for C# 将 GIF 转换为 MHTML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 GIF 转换为 MHTML 是一项复杂的任务。所有 GIF 到 MHTML 格式的转换均由我们的 C# SDK 执行，同时保留源 GIF 电子表格的主要结构和逻辑内容。我们的 C# 库是在线将 GIF 转换为 MHTML 文件的专业解决方案。该Cloud SDK为C#开发人员提供了强大的功能和完美的MHTML输出。
+将文件格式从 GIF 转换为 MHTML 可能是一项复杂的任务。我们的 C# SDK 处理所有 GIF 到 MHTML 格式的转换，同时保留源 GIF 电子表格的主要结构和逻辑内容。我们的 C# 库提供了在线将 GIF 转换为 MHTML 文件的专业解决方案。该Cloud SDK为C#开发者提供了强大的功能，并确保高质量的MHTML输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# 中的代码示例使用 REST API 将 GIF 转换为 MHTML 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# 使用 Cells Cloud SDK 将 GIF 转换为 MHTML 的代码示例" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ url: /zh/net/conversion/gif-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 C# API 将 GIF 转换为 MHTML" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 CellsWorkbookPutConvertWorkbook 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Net将Excel文件转换为其他格式GIF转MHTML" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PutConvertWorkbook` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

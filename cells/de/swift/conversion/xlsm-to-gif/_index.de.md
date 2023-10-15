@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSM zu GIF Konvertieren API für Swift
+title: XLSM zu GIF Konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von XLSM-Formatdateien in GIF-Formatdateien.
 url: /de/swift/conversion/xlsm-to-gif/
 ---

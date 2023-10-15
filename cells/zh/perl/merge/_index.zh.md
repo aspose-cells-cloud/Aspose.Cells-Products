@@ -1,10 +1,9 @@
 ﻿---
-title: 使用 Perl 合并
-description: Aspose.Cells Cloud REST API支持使用Perl将多个Excel文件合并为Excel文件。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/perl/merge/
+title: 使用 Perl 合并 Excel 文件
+description: Aspose.Cells Cloud REST API支持使用Perl将多个Excel文件合并为单个Excel文件，并提供各种编程语言的SDK。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Perl 合并" h2="Aspose.Cells Cloud SDK支持将多个Excel文件合并为一个Excel文件。" p="Aspose.Cells Cloud REST API支持使用Perl将多个Excel文件合并为Excel文件。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Perl 合并 Excel 文件" h2="Aspose.Cells Cloud SDK 支持将多个 Excel 文件合并为单个 Excel 文件。" p="Aspose.Cells Cloud REST API支持使用Perl将多个Excel文件合并为单个Excel文件，并提供各种编程语言的SDK。" urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +33,7 @@ url: /zh/perl/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="使用 Perl 扩展链接合并" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Perl 扩展链接合并 Excel 文件" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

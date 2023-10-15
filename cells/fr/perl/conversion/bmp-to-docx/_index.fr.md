@@ -1,19 +1,18 @@
 ﻿---
-title:  BMP en DOCX Convertir API pour Perl
-description: Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format BMP en fichier au format DOCX.
-url: /fr/perl/conversion/bmp-to-docx/
+title:  Convertissez BMP en DOCX en utilisant Perl
+description: Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir un fichier au format BMP en fichier au format DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir BMP en DOCX" h2="Bibliothèque Perl pour convertir BMP en DOCX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir BMP en DOCX et autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/bmp-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir BMP en DOCX" h2="Bibliothèque Perl pour convertir BMP en DOCX" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Perl. Il s\'agit d\'une solution professionnelle pour convertir BMP en DOCX et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/bmp-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier BMP en DOCX en Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez BMP en DOCX à l\'aide du SDK Cloud Cells pour Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de BMP en DOCX est une tâche complexe. Toutes les transitions du format BMP vers le format DOCX sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Perl est une solution professionnelle pour convertir en ligne des fichiers BMP en DOCX. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie DOCX parfaite.
+La conversion des formats de fichiers de BMP en DOCX peut être une tâche complexe. Notre SDK Perl gère toutes les conversions du format BMP au format DOCX tout en préservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Perl fournit une solution professionnelle pour convertir en ligne BMP en fichiers DOCX. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et garantit une sortie DOCX de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour convertir BMP au format DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour convertir BMP en DOCX à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ La conversion des formats de fichiers de BMP en DOCX est une tâche complexe. To
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Perl API pour convertir BMP en DOCX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Perl pour convertir BMP en DOCX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

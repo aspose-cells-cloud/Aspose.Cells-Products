@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till XLT Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till XLT-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera ODS-formatfil till XLT-formatfil.
 url: /sv/swift/conversion/ods-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

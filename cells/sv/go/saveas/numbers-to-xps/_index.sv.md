@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara NUMBERS som XPS API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att spara NUMBERS-formatfilen som XPS-formatfil.
-url: /sv/go/saveas/numbers-to-xps/
+title:  Spara NUMBERS som XPS med Go
+description:  Använder Aspose.Cells Cloud SDK för Go för att spara NUMBERS-formatfilen som XPS-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att spara NUMBERS som XPS" h2="Gå till biblioteket för att spara NUMBERS som XPS" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att spara NUMBERS som XPS och andra dokumentformat online med Go." urlsection="saveas/numbers-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara NUMBERS som XPS" h2="Gå till biblioteket för att spara NUMBERS som XPS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att spara NUMBERS som XPS och andra dokumentformat online med Go." urlsection="saveas/numbers-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en NUMBERS-fil som XPS i Go" >}}
@@ -13,7 +12,7 @@ url: /sv/go/saveas/numbers-to-xps/
 Att spara filformat från NUMBERS som XPS är en komplex uppgift. Alla NUMBERS till XPS formatövergångar utförs av vår Go SDK samtidigt som källbladet NUMBERS kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att spara NUMBERS som XPS-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt XPS-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att spara NUMBERS i formatet XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att spara NUMBERS som XPS med REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Att spara filformat från NUMBERS som XPS är en komplex uppgift. Alla NUMBERS t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att spara NUMBERS som XPS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att spara Excel filer som andra format NUMBERS som XPS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

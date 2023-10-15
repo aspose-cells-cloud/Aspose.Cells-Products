@@ -1,16 +1,16 @@
 ﻿---
-title:  HTML in DOCX Converti API per Swift
-description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato HTML in un file in formato DOCX.
+title: HTML in DOCX Converti API per Swift
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato HTML in un file in formato DOCX.
 url: /it/swift/conversion/html-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per convertire HTML in DOCX" h2="Libreria Swift per convertire HTML in DOCX" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Swift. Questa è una soluzione professionale per convertire HTML in DOCX e altri formati di documenti online utilizzando Swift." urlsection="conversion/html-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per convertire HTML in DOCX" h2="Libreria Swift per convertire HTML in DOCX" p="Utilizza Cells Conversion REST API per creare flussi di lavoro personalizzati per fogli di calcolo in Swift. Questa è una soluzione professionale per convertire HTML in DOCX e altri formati di documenti online utilizzando Swift." urlsection="conversion/html-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file HTML in DOCX in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da HTML a DOCX è un'operazione complessa. Tutte le transizioni dal formato HTML al formato DOCX vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo HTML. La nostra libreria Swift è una soluzione professionale per convertire HTML in file DOCX online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un perfetto output DOCX.
+La conversione dei formati di file da HTML a DOCX è un compito complesso. Tutte le transizioni dal formato HTML al formato DOCX vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo sorgente HTML. La nostra libreria Swift è una soluzione professionale per convertire HTML in file DOCX online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e un output DOCX perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per convertire HTML in formato DOCX" gistPath="" %}}
@@ -66,9 +66,9 @@ La conversione dei formati di file da HTML a DOCX è un'operazione complessa. Tu
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Swift API per convertire HTML in DOCX" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
+<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+<li>Chiama il metodo celluleWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

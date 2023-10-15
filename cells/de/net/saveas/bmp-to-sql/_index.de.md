@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie BMP als SQL API für C#
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im BMP-Format als SQL-Formatdatei zu speichern.
-url: /de/net/saveas/bmp-to-sql/
+title:  Speichern Sie BMP als SQL mit C#
+description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Speichern der Datei im BMP-Format als SQL-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um BMP als SQL zu speichern" h2="C#-Bibliothek zum Speichern von BMP als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um BMP als SQL und andere Dokumentformate online mit C# zu speichern." urlsection="saveas/bmp-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie BMP als SQL" h2="C#-Bibliothek zum Speichern von BMP als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um BMP als SQL und andere Dokumentformate online mit C# zu speichern." urlsection="saveas/bmp-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine BMP-Datei als SQL in C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/bmp-to-sql/
 Das Speichern von Dateiformaten aus BMP als SQL ist eine komplexe Aufgabe. Alle Übergänge vom BMP zum SQL-Format werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um BMP als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von BMP im SQL-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von BMP als SQL mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten aus BMP als SQL ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um BMP als SQL zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel Dateien in anderen Formaten BMP als SQL zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

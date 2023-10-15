@@ -1,19 +1,19 @@
 ﻿---
-title:  قم بتصدير SHAPE إلى TIFF من جدول البيانات باستخدام Swift API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
+title:  تصدير SHAPE إلى TIFF من جدول البيانات باستخدام Swift API
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 url: /ar/swift/export/shape-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتصدير الشكل إلى ملف TIFF" h2="مكتبة سويفت لتصدير الشكل إلى ملف TIFF" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Swift. هذا حل احترافي لتصدير SHAPE إلى ملف بتنسيق TIFF من جدول بيانات عبر الإنترنت باستخدام Swift." urlsection="export/shape-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتصدير SHAPE إلى ملف TIFF" h2="مكتبة سويفت لتصدير SHAPE إلى ملف TIFF" p="استخدم Cells تصدير REST API لتصدير سير عمل الكائنات الداخلية لجدول البيانات في Swift. يعد هذا حلاً احترافيًا لتصدير ملف بتنسيق SHAPE إلى TIFF من جدول البيانات عبر الإنترنت باستخدام Swift." urlsection="export/shape-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف تنسيق TIFF في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف بتنسيق TIFF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن SHAPE إلى ملف TIFF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى TIFF بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SHAPE. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق TIFF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج TIFF مثالي.
+يعد تصدير كائن SHAPE إلى ملف TIFF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى TIFF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SHAPE المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق TIFF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج TIFF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتصدير SHAPE إلى تنسيق TIFF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لتصدير SHAPE إلى تنسيق TIFF من جدول البيانات" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -56,7 +56,7 @@ url: /ar/swift/export/shape-to-tiff/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتصدير SHAPE إلى TIFF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

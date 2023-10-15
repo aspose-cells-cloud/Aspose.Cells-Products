@@ -1,10 +1,9 @@
 ﻿---
-title: Spara XML som FODS API för PHP
+title:  Spara XML som FODS med PHP
 description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XML-formatfil som FODS-formatfil.
-url: /sv/php/saveas/xml-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att spara XML som FODS" h2="PHP bibliotek för att spara XML som FODS" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att spara XML som FODS och andra dokumentformat online med PHP." urlsection="saveas/xml-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XML som FODS" h2="PHP bibliotek för att spara XML som FODS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP. Detta är en professionell lösning för att spara XML som FODS och andra dokumentformat online med PHP." urlsection="saveas/xml-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XML-fil som FODS i PHP" >}}
@@ -13,7 +12,7 @@ url: /sv/php/saveas/xml-to-fods/
 Att spara filformat från XML som FODS är en komplex uppgift. Alla XML- till FODS-formatövergångar utförs av vår PHP SDK samtidigt som käll-XML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att spara XML som FODS-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt FODS-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att spara XML som FODS-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kod Exempel för att spara XML som FODS med REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Att spara filformat från XML som FODS är en komplex uppgift. Alla XML- till FO
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att spara XML som FODS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att spara Excel filer som andra format XML som FODS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

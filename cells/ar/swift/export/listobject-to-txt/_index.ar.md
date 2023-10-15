@@ -1,19 +1,19 @@
 ﻿---
-title:  قم بتصدير LISTOBJECT إلى TXT من جدول البيانات باستخدام Swift API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
+title:  تصدير LISTOBJECT إلى TXT من جدول البيانات باستخدام Swift API
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 url: /ar/swift/export/listobject-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتصدير LISTOBJECT إلى ملف TXT" h2="مكتبة Swift لتصدير LISTOBJECT إلى ملف TXT" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Swift. هذا حل احترافي لتصدير LISTOBJECT إلى ملف بتنسيق TXT من جدول بيانات عبر الإنترنت باستخدام Swift." urlsection="export/listobject-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتصدير LISTOBJECT إلى ملف TXT" h2="مكتبة سويفت لتصدير LISTOBJECT إلى ملف TXT" p="استخدم Cells تصدير REST API لتصدير سير عمل الكائنات الداخلية لجدول البيانات في Swift. يعد هذا حلاً احترافيًا لتصدير ملف بتنسيق LISTOBJECT إلى TXT من جدول البيانات عبر الإنترنت باستخدام Swift." urlsection="export/listobject-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتصدير كائن LISTOBJECT إلى ملف تنسيق TXT في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن LISTOBJECT إلى ملف بتنسيق TXT في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن LISTOBJECT إلى ملف TXT من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير LISTOBJECT إلى تنسيق TXT بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق TXT عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج TXT مثالي.
+يعد تصدير كائن LISTOBJECT إلى ملف TXT من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير LISTOBJECT إلى تنسيق TXT بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق TXT عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات TXT مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتصدير LISTOBJECT إلى تنسيق TXT من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتصدير LISTOBJECT إلى تنسيق TXT من جدول البيانات" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -56,7 +56,7 @@ url: /ar/swift/export/listobject-to-txt/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتصدير LISTOBJECT إلى TXT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

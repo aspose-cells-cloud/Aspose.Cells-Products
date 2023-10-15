@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните XLS как XPS API для NodeJS.
-description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLS как файла формата XPS.
-url: /ru/nodejs/saveas/xls-to-xps/
+title:  Сохраните XLS как XPS, используя NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLS как файла формата XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения XLS как XPS" h2="Библиотека NodeJS для сохранения XLS как XPS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLS как XPS и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/xls-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLS как XPS." h2="Библиотека NodeJS для сохранения XLS как XPS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения XLS как XPS и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/xls-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как XPS в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS как XPS — сложная задача. Все переходы между форматами XLS и XPS выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLS в формате XPS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат XPS.
+Сохранение формата файла из XLS как XPS — сложная задача. Все переходы формата XLS в XPS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLS в формате XPS онлайн. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод XPS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLS в формате XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения XLS как XPS с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/xls-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения XLS как XPS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах XLS как XPS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

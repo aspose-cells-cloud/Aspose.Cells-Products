@@ -1,7 +1,6 @@
 ﻿---
 title:  Cloud kalkylblad digital signatur i Cloud
 description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc digital signatur. Kalkylarks digitala signatur från Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/nodejs/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="NodeJS-bibliotek till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digitala signaturfilarbetsflöden i NodeJS. Detta professionella digitala signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord och digital signaturfil med hjälp av NodeJS." urlsection="protect/Digital-signature/" >}}
@@ -18,7 +17,7 @@ Att digitala signaturer för ett molnkalkylblad med ett lösenord och en digital
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Node API till digital signatur" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att digitalt signera en Excel-fil." >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Ring cellsWorkbookPostDigitalSignature-metoden för att hämta den resulterande strömmen</li>

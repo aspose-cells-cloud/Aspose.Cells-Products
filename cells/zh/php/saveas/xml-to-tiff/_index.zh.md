@@ -1,10 +1,9 @@
 ﻿---
-title: 将 XML 保存为 TIFF API 为 PHP
-description: 使用Aspose.Cells Cloud SDK for PHP将XML格式文件保存为TIFF格式文件。
-url: /zh/php/saveas/xml-to-tiff/
+title: 使用 PHP 将 XML 保存为 TIFF
+description: 利用Aspose.Cells Cloud SDK for PHP将XML格式文件保存为TIFF格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将 XML 保存为 TIFF" h2="PHP 库将 XML 保存为 TIFF" p="使用 Cells SaveAs REST API 在 PHP 中创建自定义电子表格工作流程。这是使用 PHP 在线将 XML 保存为 TIFF 和其他文档格式的专业解决方案。" urlsection="saveas/xml-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XML 保存为 TIFF" h2="PHP 用于将 XML 保存为 TIFF 的库" p="使用Cells云的SaveAs API在PHP中创建自定义电子表格工作流程。这是使用PHP在线将XML保存为TIFF和其他文档格式的专业解决方案。" urlsection="saveas/xml-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 XML 文件另存为 PHP 中的 TIFF" >}}
@@ -13,7 +12,7 @@ url: /zh/php/saveas/xml-to-tiff/
 将 XML 文件格式保存为 TIFF 是一项复杂的任务。所有 XML 到 TIFF 格式的转换均由我们的 PHP SDK 执行，同时保留源 XML 电子表格的主要结构和逻辑内容。我们的 PHP 库是在线将 XML 保存为 TIFF 文件的专业解决方案。此Cloud SDK为PHP开发者提供了强大的功能和完美的TIFF输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP 中的代码示例使用 REST API 将 XML 保存为 TIFF 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP 使用 REST 将 XML 保存为 TIFF 的代码示例 API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /zh/php/saveas/xml-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 PHP API 将 XML 保存为 TIFF" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 cellsSaveAsPostDocumentSaveAs 方法来获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for PHP将Excel文件保存为其他格式XML为TIFF" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

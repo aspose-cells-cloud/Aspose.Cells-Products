@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSB إلى XLS - تحويل API من أجل Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XLSB إلى ملف بتنسيق XLS.
-url: /ar/go/conversion/xlsb-to-xls/
+title:  تحويل XLSB إلى XLS باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق XLSB إلى ملف بتنسيق XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل XLSB إلى XLS" h2="انتقل إلى مكتبة لتحويل XLSB إلى XLS" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل XLSB إلى XLS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/xlsb-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSB إلى XLS" h2="انتقل إلى المكتبة لتحويل XLSB إلى XLS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل XLSB إلى XLS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/xlsb-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSB إلى XLS في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل XLSB إلى XLS باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSB إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى XLS بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSB إلى XLS عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLS مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSB إلى XLS مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات تنسيق XLSB إلى XLS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSB إلى XLS عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من الحصول على وظائف قوية ويضمن إخراج XLS عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل XLSB إلى تنسيق XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لتحويل XLSB إلى XLS باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ url: /ar/go/conversion/xlsb-to-xls/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل XLSB إلى XLS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Go لتحويل ملفات Excel إلى تنسيقات أخرى من XLSB إلى XLS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

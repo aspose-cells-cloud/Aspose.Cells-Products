@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie BILD aus der Tabellenkalkulation nach SVG mit PHP API
+title:  Exportieren Sie PICTURE von Excel nach SVG mit dem Cloud SDK Cells für PHP
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/php/export/picture-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um BILD in die Datei SVG zu exportieren" h2="PHP-Bibliothek zum Exportieren von BILD in die Datei SVG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online aus einer Tabellenkalkulation in eine Datei im SVG-Format zu exportieren, indem Sie PHP verwenden." urlsection="export/picture-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie BILD von Excel nach SVG" h2="PHP-Bibliothek zum Exportieren von PICTURE in die Datei SVG" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in PHP zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online mit PHP aus einer Tabellenkalkulation in das Format SVG zu exportieren." urlsection="export/picture-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Formatdatei SVG in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Formatdatei SVG mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei SVG ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das SVG-Format wird von unserem PHP-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format SVG zu exportieren. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte SVG Ausgabe.
+Das Exportieren des PICTURE-Objekts aus der Datei Excel in die Datei SVG ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das SVG-Format wird von unserem PHP-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format SVG zu exportieren. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte SVG Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von PICTURE in das Format SVG aus der Tabellenkalkulation" gistPath="" %}}
@@ -36,10 +35,10 @@ Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei SVG
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um PICTURE nach SVG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Objekte von Excel PICTURE nach SVG zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

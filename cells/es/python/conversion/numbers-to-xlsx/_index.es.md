@@ -1,19 +1,18 @@
 ﻿---
-title:  NÚMEROS a XLSX Convertir API para Python
-description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato NUMBERS a un archivo de formato XLSX.
-url: /es/python/conversion/numbers-to-xlsx/
+title:  Convierta NÚMEROS a XLSX usando Python
+description: Utilizar el SDK de la nube Aspose.Cells para Python para convertir un archivo en formato NUMBERS a un archivo en formato XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir NÚMEROS a XLSX" h2="Python biblioteca para convertir NUMBERS a XLSX" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir NÚMEROS a XLSX y otros formatos de documentos en línea usando Python." urlsection="conversion/numbers-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir NÚMEROS a XLSX" h2="Biblioteca Python para convertir NÚMEROS a XLSX" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Python proyectos. Esta es una solución profesional para convertir NÚMEROS a XLSX y otros formatos de documentos en línea usando Python." urlsection="conversion/numbers-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo NUMBERS a XLSX en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta NÚMEROS a XLSX usando Cells Cloud SDK para Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de NUMBERS a XLSX es una tarea compleja. Todas las transiciones de formato NUMBERS a XLSX se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Python es una solución profesional para convertir archivos NUMBERS a XLSX en línea. Este SDK de la nube ofrece a los desarrolladores de Python una potente funcionalidad y una salida XLSX perfecta.
+Convertir formatos de archivo de NUMBERS a XLSX puede ser una tarea compleja. Nuestro SDK Python maneja todas las conversiones de formato NUMBERS a XLSX al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Python proporciona una solución profesional para convertir archivos NÚMEROS a XLSX en línea. Este SDK de nube brinda a los desarrolladores Python una potente funcionalidad y garantiza una salida XLSX de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para convertir NÚMEROS al formato XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Ejemplo de código para convertir NÚMEROS a XLSX usando Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Convertir formatos de archivo de NUMBERS a XLSX es una tarea compleja. Todas las
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Python API para convertir NÚMEROS a XLSX" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_libro de trabajo_poner_convertir_método del libro de trabajo para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Python para convertir archivos Excel a otros formatos NÚMEROS a XLSX" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

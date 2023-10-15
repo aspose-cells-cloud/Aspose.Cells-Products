@@ -1,27 +1,26 @@
 ﻿---
-title: Cancella le righe duplicate nella cartella di lavoro locale con Perl in Cloud
-description:  API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc con Perl. Cancella le righe duplicate sui fogli di calcolo locali tramite l'SDK Cells Cloud API per Perl
-url: /it/perl/clear/duplicate-rows/
+title:  Rimuovere le righe duplicate dalla cartella di lavoro locale utilizzando Perl all'interno dell'ambiente cloud Aspose Cells.
+description:  API e SDK Cloud per eliminare le righe duplicate in Microsoft Excel e OpenOffice Calc utilizzando Perl. Eliminare le righe duplicate nei fogli di calcolo locali con Cells Cloud SDK per Perl.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Perl Cancella per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le righe duplicate sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Perl. Questa soluzione professionale cancella le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Perl." urlsection="clear/Duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Rimozione di righe duplicate nei fogli di calcolo locali Microsoft Excel e OpenOffice Calc." h2="Libreria Perl per rimuovere righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc." p="Utilizzare Cells Cancella REST API per rimuovere le righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc all\'interno dei flussi di lavoro Perl. Questa soluzione professionale elimina in modo efficiente le righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc utilizzando Perl." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Perl REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella le righe duplicate nei fogli di calcolo locali Microsoft Excel e OpenOffice Calc utilizzando Cells Cloud SDK per Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc è un compito complesso. La cancellazione delle righe duplicate sulle transizioni del foglio di calcolo locale Microsoft Excel e OpenOffice Calc viene eseguita dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo di origine. La nostra libreria Perl è una soluzione professionale per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc online. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e un perfetto API.
+Eliminare le righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc è complesso e il nostro Cloud SDK Cells per Perl gestisce questa transizione preservando il contenuto strutturale e logico del foglio di calcolo di origine. La nostra libreria Perl è una soluzione professionale per eliminare in modo efficiente le righe duplicate online nei fogli di calcolo locali Microsoft Excel e OpenOffice Calc. Questo Cloud SDK offre agli sviluppatori Perl funzionalità robuste e un potente API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl codice per eliminare le righe duplicate sui fogli di calcolo locali" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-Clear-DuplicateRows.pl" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codice Perl per eliminare le righe duplicate sui fogli di calcolo locali" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-Clear-DuplicateRows.pl" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Come utilizzare Perl API per cancellare le righe duplicate" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Posta di chiamata_chiaro_objects metodo per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Perl per eliminare le righe duplicate" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `post_clear_objects` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

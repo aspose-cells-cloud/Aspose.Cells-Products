@@ -1,19 +1,18 @@
 ﻿---
-title:  GIF en FODS Convertir API pour PHP
-description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format GIF en fichier au format FODS.
-url: /fr/php/conversion/gif-to-fods/
+title:  Convertissez GIF en FODS en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir un fichier au format GIF en fichier au format FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir GIF en FODS" h2="PHP bibliothèque pour convertir GIF en FODS" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir en ligne GIF en FODS et autres formats de documents à l\'aide de PHP." urlsection="conversion/gif-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir GIF en FODS" h2="Bibliothèque PHP pour convertir GIF en FODS" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets PHP. Il s\'agit d\'une solution professionnelle pour convertir des GIF en FODS et d\'autres formats de documents en ligne à l\'aide du PHP." urlsection="conversion/gif-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en FODS en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez GIF en FODS à l\'aide du SDK Cloud Cells pour PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers GIF en FODS est une tâche complexe. Toutes les transitions de format GIF à FODS sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque PHP est une solution professionnelle pour convertir des fichiers GIF en FODS en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie FODS parfaite.
+La conversion des formats de fichiers GIF en FODS peut être une tâche complexe. Notre SDK PHP gère toutes les conversions du format GIF au format FODS tout en préservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque PHP fournit une solution professionnelle pour convertir des fichiers GIF en FODS en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et garantit une sortie FODS de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour convertir le format GIF au format FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour convertir GIF en FODS à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ La conversion des formats de fichiers GIF en FODS est une tâche complexe. Toute
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour convertir GIF en FODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP pour convertir les fichiers Excel vers d\'autres formats GIF en FODS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkBook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

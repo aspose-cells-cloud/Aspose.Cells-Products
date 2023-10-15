@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie die Arbeitsmappe mit Python API aus der Tabellenkalkulation nach MD
+title:  Exportieren Sie WORKBOOK nach MD von Excel mit Cells Cloud SDK für Python
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/python/export/workbook-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Exportieren der Arbeitsmappe in eine MD-Datei" h2="Python-Bibliothek zum Exportieren von WORKBOOK in eine MD-Datei" p="Verwenden Sie Cells REST API exportieren, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Python zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine MD-Formatdatei aus einer Tabellenkalkulation online mit Python." urlsection="export/workbook-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie die Arbeitsmappe von Excel nach MD" h2="Python-Bibliothek zum Exportieren von WORKBOOK in eine MD-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Python zu exportieren. Dies ist eine professionelle Lösung, um WORKBOOK online aus einer Tabellenkalkulation in eine MD-Formatdatei mit Python zu exportieren." urlsection="export/workbook-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in die MD-Formatdatei Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im MD-Format mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine MD-Datei ist eine komplexe Aufgabe. Übergänge im Format „Arbeitsmappe exportieren“ in „MD“ werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-Arbeitsmappe beibehalten wird. Unsere Bibliothek Python ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
+Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in eine MD-Datei ist eine komplexe Aufgabe. Übergänge im Format „Arbeitsmappe exportieren“ in „MD“ werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-Arbeitsmappe beibehalten wird. Unsere Bibliothek Python ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von WORKBOOK aus der Tabellenkalkulation in das MD-Format" gistPath="" %}}
@@ -37,9 +36,9 @@ Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine MD-
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um WORKBOOK nach MD zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Objekte aus Excel WORKBOOK nach MD zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

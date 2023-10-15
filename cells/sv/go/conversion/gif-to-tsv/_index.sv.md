@@ -1,19 +1,18 @@
 ﻿---
-title:  GIF till TSV Konvertera API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera GIF-formatfil till TSV-formatfil.
-url: /sv/go/conversion/gif-to-tsv/
+title:  Konvertera GIF till TSV med Go
+description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en fil i GIF-format till en fil i TSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå API för att konvertera GIF till TSV" h2="Gå till biblioteket för att konvertera GIF till TSV" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att konvertera GIF till TSV och andra dokumentformat online med Go." urlsection="conversion/gif-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera GIF till TSV" h2="Gå bibliotek för att konvertera GIF till TSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera GIF till TSV och andra dokumentformat online med Go." urlsection="conversion/gif-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en GIF-fil till TSV i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera GIF till TSV med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från GIF till TSV är en komplex uppgift. Alla GIF- till TSV-formatövergångar utförs av vår Go SDK samtidigt som käll-GIF-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att konvertera GIF till TSV-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt TSV-utdata.
+Att konvertera filformat från GIF till TSV kan vara en komplex uppgift. Vår Go SDK hanterar alla konverteringar av GIF till TSV-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för GIF bevaras. Vårt Go-bibliotek erbjuder en professionell lösning för att konvertera GIF till TSV-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer TSV-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att konvertera GIF till TSV-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera GIF till TSV med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Att konvertera filformat från GIF till TSV är en komplex uppgift. Alla GIF- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att konvertera GIF till TSV" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Go för att konvertera Excel-filer till andra format GIF till TSV" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

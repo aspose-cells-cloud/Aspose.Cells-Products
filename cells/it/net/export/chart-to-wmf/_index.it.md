@@ -1,16 +1,15 @@
 ﻿---
-title:  Esporta CHART in WMF dal foglio di calcolo utilizzando C# API
+title:  Esporta CHART in WMF da Excel utilizzando Cells Cloud SDK per C#
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/net/export/chart-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per esportare CHART in file WMF" h2="C# libreria per esportare CHART in file WMF" p="Utilizzare Cells Export REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Net. Questa è una soluzione professionale per esportare CHART in file in formato WMF dal foglio di calcolo online utilizzando C#." urlsection="export/chart-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta GRAFICO in WMF da Excel" h2="C# libreria per l\'esportazione di CHART in file WMF" p="Utilizzare Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Net. Questa è una soluzione professionale per esportare CHART in file in formato WMF da un foglio di calcolo online utilizzando C#." urlsection="export/chart-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto CHART nel file in formato WMF in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto CHART nel file in formato WMF utilizzando Cells Cloud SDK per C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'esportazione dell'oggetto CHART in un file WMF da un foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da CHART a formato WMF viene eseguita dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria C# è una soluzione professionale per esportare oggetti CHART in file in formato WMF online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e un output WMF perfetto.
+Esportare l'oggetto CHART nel file WMF dal file Excel è un'attività complessa. L'esportazione delle transizioni dal formato CHART al formato WMF viene eseguita dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria C# è una soluzione professionale per esportare online oggetti CHART in file in formato WMF. Questo Cloud SDK offre agli sviluppatori C# funzionalità potenti e un output WMF perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in C# utilizzando REST API per esportare CHART in formato WMF dal foglio di calcolo" gistPath="" %}}
@@ -44,15 +43,15 @@ L'esportazione dell'oggetto CHART in un file WMF da un foglio di calcolo è un'a
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare C# API per esportare CHART in WMF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo PostExport per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Net per esportare oggetti da Excel CHART a WMF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>NET Framework 4.5.2 o più recente</li>
+<li>NET Framework 4.5.2 o successiva</li>
 <li>Net Standard 2.0 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

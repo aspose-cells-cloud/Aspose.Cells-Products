@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX till GIF Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLSX-formatfil till GIF-formatfil.
+title: XLSX till GIF Konvertera API för Swift
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLSX-formatfil till GIF-formatfil.
 url: /sv/swift/conversion/xlsx-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

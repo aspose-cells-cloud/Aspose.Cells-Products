@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML till MHTML Konvertera API för PHP
-description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera HTML filformat till MHTML-format fil.
-url: /sv/php/conversion/html-to-mhtml/
+title:  Konvertera HTML till MHTML med PHP
+description: Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i HTML-format till en fil i MHTML-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att konvertera HTML till MHTML" h2="PHP bibliotek för att konvertera HTML till MHTML" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att konvertera HTML till MHTML och andra dokumentformat online med PHP." urlsection="conversion/html-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera HTML till MHTML" h2="PHP bibliotek för att konvertera HTML till MHTML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera HTML till MHTML och andra dokumentformat online med PHP." urlsection="conversion/html-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en HTML-fil till MHTML i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera HTML till MHTML med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från HTML till MHTML är en komplex uppgift. Alla övergångar från HTML till MHTML-format utförs av vår PHP SDK samtidigt som källbladets HTML kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att konvertera HTML till MHTML-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt MHTML-utdata.
+Att konvertera filformat från HTML till MHTML kan vara en komplex uppgift. Vår PHP SDK hanterar alla konverteringar från HTML till MHTML-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket HTML bevaras. Vårt PHP-bibliotek tillhandahåller en professionell lösning för att konvertera HTML till MHTML-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer högkvalitativa MHTML-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att konvertera HTML till MHTML-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kodexempel för att konvertera HTML till MHTML med Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Att konvertera filformat från HTML till MHTML är en komplex uppgift. Alla öve
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att konvertera HTML till MHTML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring cellsWorkbookPutConvertWorkBook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att konvertera Excel filer till andra format HTML till MHTML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

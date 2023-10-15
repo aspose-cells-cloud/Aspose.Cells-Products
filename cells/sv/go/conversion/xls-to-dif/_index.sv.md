@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS till DIF Konvertera API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera XLS-formatfil till DIF-formatfil.
-url: /sv/go/conversion/xls-to-dif/
+title:  Konvertera XLS till DIF med Go
+description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en XLS-formatfil till en DIF-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att konvertera XLS till DIF" h2="Gå till biblioteket för att konvertera XLS till DIF" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att konvertera XLS till DIF och andra dokumentformat online med Go." urlsection="conversion/xls-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLS till DIF" h2="Gå bibliotek för att konvertera XLS till DIF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera XLS till DIF och andra dokumentformat online med Go." urlsection="conversion/xls-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLS-fil till DIF i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLS till DIF med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLS till DIF är en komplex uppgift. Alla XLS till DIF-formatövergångar utförs av vår Go SDK samtidigt som käll XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att konvertera XLS till DIF-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
+Att konvertera filformat från XLS till DIF kan vara en komplex uppgift. Vår Go SDK hanterar alla konverteringar av XLS till DIF-format samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-XLS-kalkylarket bevaras. Vårt Go-bibliotek tillhandahåller en professionell lösning för att konvertera XLS till DIF-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer DIF-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att konvertera XLS till DIF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera XLS till DIF med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Att konvertera filformat från XLS till DIF är en komplex uppgift. Alla XLS til
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att konvertera XLS till DIF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Go för att konvertera Excel-filer till andra format XLS till DIF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

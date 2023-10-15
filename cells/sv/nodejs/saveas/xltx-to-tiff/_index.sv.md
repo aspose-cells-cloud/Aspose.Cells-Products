@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLTX som TIFF API för NodeJS
-description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLTX-formatfil som TIFF-formatfil.
-url: /sv/nodejs/saveas/xltx-to-tiff/
+title:  Spara XLTX som TIFF med NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLTX-formatfil som TIFF-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att spara XLTX som TIFF" h2="NodeJS-bibliotek för att spara XLTX som TIFF" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara XLTX som TIFF och andra dokumentformat online med NodeJS." urlsection="saveas/xltx-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLTX som TIFF" h2="NodeJS-bibliotek för att spara XLTX som TIFF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara XLTX som TIFF och andra dokumentformat online med NodeJS." urlsection="saveas/xltx-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLTX-fil som TIFF i NodeJS" >}}
@@ -13,7 +12,7 @@ url: /sv/nodejs/saveas/xltx-to-tiff/
 Att spara filformat från XLTX som TIFF är en komplex uppgift. Alla formatövergångar från XLTX till TIFF utförs av vår NodeJS SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att spara XLTX som TIFF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt TIFF-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att spara XLTX som TIFF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att spara XLTX som TIFF med REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Att spara filformat från XLTX som TIFF är en komplex uppgift. Alla formatöver
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att spara XLTX som TIFF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att spara Excel-filer som andra format XLTX som TIFF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

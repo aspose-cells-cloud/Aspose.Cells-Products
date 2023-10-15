@@ -1,10 +1,9 @@
 ﻿---
 title:  Leere Zeilen in der lokalen Arbeitsmappe in der Cloud löschen
 description: Cloud-APIs und SDKs zum Löschen leerer Zeilen unter Microsoft Excel und OpenOffice Calc. Löschen Sie leere Zeilen in lokalen Tabellenkalkulationen mit der Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/perl/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Löschen leerer Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Perl Löschen, um leere Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um leere Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in Perl zu löschen. Diese professionelle Lösung löscht leere Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows mit Perl." urlsection="clear/Blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen leerer Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Perl Löschen, um leere Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um leere Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in Perl zu löschen. Diese professionelle Lösung löscht leere Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows mit Perl." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie leere Zeilen in der lokalen Tabelle Microsoft Excel und in der OpenOffice Calc-Tabelle – Perl REST API" >}}
@@ -18,9 +17,9 @@ Das Löschen leerer Zeilen in der lokalen Microsoft Excel- und OpenOffice Calc-T
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Perl API, um leere Zeilen zu löschen" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cloud SDK Cells für Perl, um leere Zeilen zu löschen" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Beitrag anrufen_klar_Objekte-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

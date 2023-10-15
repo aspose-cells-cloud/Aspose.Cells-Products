@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara MHTML som PDF API för Ruby
-description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara fil i MHTML-format som fil i PDF-format.
-url: /sv/ruby/saveas/mhtml-to-pdf/
+title:  Spara MHTML som PDF med Ruby
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara MHTML-formatfil som PDF-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att spara MHTML som PDF" h2="Ruby-bibliotek för att spara MHTML som PDF" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Ruby. Detta är en professionell lösning för att spara MHTML som PDF och andra dokumentformat online med Ruby." urlsection="saveas/mhtml-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara MHTML som PDF" h2="Ruby-bibliotek för att spara MHTML som PDF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby. Detta är en professionell lösning för att spara MHTML som PDF och andra dokumentformat online med Ruby." urlsection="saveas/mhtml-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en MHTML-fil som PDF i Ruby" >}}
@@ -13,7 +12,7 @@ url: /sv/ruby/saveas/mhtml-to-pdf/
 Att spara filformat från MHTML som PDF är en komplex uppgift. Alla MHTML- till PDF-formatövergångar utförs av vår Ruby SDK samtidigt som Käll-MHTML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att spara MHTML som PDF-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt PDF-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att spara MHTML som PDF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Exempel för att spara MHTML som PDF med REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Att spara filformat från MHTML som PDF är en komplex uppgift. Alla MHTML- till
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att spara MHTML som PDF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att spara Excel filer som andra format MHTML som PDF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

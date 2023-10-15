@@ -1,16 +1,16 @@
 ﻿---
 title:  Экспорт LISTOBJECT в SQL из электронной таблицы с помощью Swift API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 url: /ru/swift/export/listobject-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для экспорта LISTOBJECT в файл SQL" h2="Библиотека Swift для экспорта LISTOBJECT в файл SQL" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Swift. Это профессиональное решение для экспорта LISTOBJECT в файл формата SQL из электронной таблицы онлайн с использованием Swift." urlsection="export/listobject-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для экспорта LISTOBJECT в файл SQL" h2="Библиотека Swift для экспорта LISTOBJECT в файл SQL" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Swift. Это профессиональное решение для экспорта LISTOBJECT в файл формата SQL из электронной таблицы онлайн с помощью Swift." urlsection="export/listobject-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата SQL в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл SQL из электронной таблицы является сложной задачей. Экспорт переходов формата LISTOBJECT в SQL выполняется нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы LISTOBJECT. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата SQL. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
+Экспорт объекта LISTOBJECT в файл SQL из электронной таблицы — сложная задача. Экспорт переходов формата LISTOBJECT в SQL выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы LISTOBJECT. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата SQL. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта LISTOBJECT в формат SQL из электронной таблицы" gistPath="" %}}
@@ -56,9 +56,9 @@ url: /ru/swift/export/listobject-to-sql/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для экспорта LISTOBJECT в SQL" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод postExport, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

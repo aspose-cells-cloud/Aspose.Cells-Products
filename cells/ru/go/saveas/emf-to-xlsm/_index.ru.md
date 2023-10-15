@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить EMF как XLSM API для Go
-description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата EMF в виде файла формата XLSM.
-url: /ru/go/saveas/emf-to-xlsm/
+title:  Сохраните EMF как XLSM с помощью Go.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата EMF как файла формата XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить EMF как XLSM." h2="Перейти в библиотеку, чтобы сохранить EMF как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения EMF в формате XLSM и других форматах документов в Интернете с помощью Go." urlsection="saveas/emf-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить EMF как XLSM" h2="Библиотека Go для сохранения EMF как XLSM" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения EMF в формате XLSM и других форматов документов онлайн с помощью Go." urlsection="saveas/emf-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как XLSM в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как XLSM в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как XLSM — сложная задача. Все переходы формата EMF в формат XLSM выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Go — это профессиональное решение для сохранения EMF в виде файлов XLSM онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
+Сохранение файлов формата EMF в формате XLSM — сложная задача. Все переходы формата EMF в XLSM выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы EMF. Наша библиотека Go — это профессиональное решение для сохранения EMF в формате XLSM в Интернете. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения EMF в формате XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения EMF как XLSM с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /ru/go/saveas/emf-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для сохранения EMF как XLSM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах EMF как XLSM" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

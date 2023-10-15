@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF - XPS API'i C# için dönüştürün
-description:  EMF biçim dosyasını XPS biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
-url: /tr/net/conversion/emf-to-xps/
+title:  C#'i kullanarak EMF'i XPS'e dönüştürün
+description:  EMF biçimindeki bir dosyayı XPS biçimindeki bir dosyaya dönüştürmek için C# için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i XPS\'e dönüştürmek için C# API" h2="EMF\'i XPS\'e dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, EMF\'i XPS\'e ve diğer belge biçimlerini C#\'i kullanarak çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/emf-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i XPS\'e dönüştür" h2="EMF\'i XPS\'e dönüştürmek için C# kitaplığı" p="Net projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, EMF\'i XPS\'e ve diğer belge formatlarını C#\'i kullanarak çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/emf-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir EMF dosyasını C#\'de XPS\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="C# için Cells Cloud SDK\'yı kullanarak EMF\'i XPS\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını EMF'den XPS'e dönüştürmek karmaşık bir iştir. EMF'den XPS'e tüm biçim geçişleri, kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, EMF dosyalarını çevrimiçi olarak XPS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XPS çıkışı sağlar.
+Dosya formatlarını EMF'den XPS'e dönüştürmek karmaşık bir iş olabilir. C# SDK'mız, kaynak EMF elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, EMF'den XPS'e tüm format dönüştürmelerini gerçekleştirir. C# kitaplığımız, EMF dosyalarını çevrimiçi olarak XPS'e dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, C# geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli XPS çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="EMF\'i XPS formatına dönüştürmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Cells Cloud SDK\'yı kullanarak EMF\'i XPS\'e dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ Dosya formatlarını EMF'den XPS'e dönüştürmek karmaşık bir iştir. EMF'de
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="EMF\'i XPS\'e dönüştürmek için C# API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
-<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
-<li>Ortaya çıkan akışı almak için CellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını EMF - XPS arasındaki diğer formatlara dönüştürmek için Cells Cloud SDK for Net nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+<li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>NET Framework 4.5.2 veya daha yenisi</li>
-<li>Net Standard 2.0 veya daha yenisi</li>
+<li>Net Standardı 2.0 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

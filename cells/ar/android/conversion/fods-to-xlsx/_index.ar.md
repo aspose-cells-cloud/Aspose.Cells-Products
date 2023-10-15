@@ -1,6 +1,6 @@
 ﻿---
-title:  قم بتحويل FODS إلى XLSX على نظام Android
-description: أتمتة Excel عمليات معالجة الملفات مثل الإنشاء والتحرير والتحويل باستخدام Cloud API و Android SDK مفتوح المصدر
+title:  تحويل FODS إلى XLSX على أندرويد
+description: أتمتة عمليات معالجة الملفات Excel مثل الإنشاء والتحرير والتحويل باستخدام Cloud API وAndroid SDK مفتوح المصدر
 url: /ar/android/conversion/fods-to-xlsx/
 family: cells
 platformtag: android
@@ -16,16 +16,16 @@ otherformats: XML XLSB XLT XPS ODS XLTX TXT PDF TIFF DIF MD XLSM CSV XLSX XLTM S
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="تحويل FODS إلى XLSX في تطبيقات Android" %}}
-1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية
-1. قم بتهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
-1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي باستخدام طريقة ```CellsApiUtil.Upload```
-1. اتصل على ```CellsApi.cellsWorkbookGetWorkbook``` للحصول على ملف XLSX الناتج
+1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا
+1. تهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
+1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي بطريقة ```CellsApiUtil.Upload```
+1. اتصل بالرقم ```CellsApi.cellsWorkbookGetWorkbook``` للحصول على ملف XLSX الناتج
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ابدأ بـ Excel REST API" %}}
- احصل على Excel Cloud SDK لكود مصدر ANDROID من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات تنزيل بديلة.
+{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel ريست API" %}}
+ احصل على Excel Cloud SDK لكود مصدر ANDROID من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
 
- ألقِ نظرة أيضًا على Swagger المستندة إلى[API المرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel راحة API](https://products.aspose.cloud/cells/curl/).
+ قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Android: تحويل FODS إلى XLSX" gistPath="" %}}

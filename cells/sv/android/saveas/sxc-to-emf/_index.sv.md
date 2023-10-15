@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara SXC som EMF API för Android
+title:  Spara SXC som EMF med Android
 description: Använder Aspose.Cells Cloud SDK för Android för att spara fil i SXC-format som fil i EMF-format.
-url: /sv/android/saveas/sxc-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att spara SXC som EMF" h2="Android-bibliotek för att spara SXC som EMF" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara SXC som EMF och andra dokumentformat online med Android." urlsection="saveas/sxc-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara SXC som EMF" h2="Android-bibliotek för att spara SXC som EMF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara SXC som EMF och andra dokumentformat online med Android." urlsection="saveas/sxc-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en SXC-fil som EMF i Android" >}}
@@ -13,7 +12,7 @@ url: /sv/android/saveas/sxc-to-emf/
 Att spara filformat från SXC som EMF är en komplex uppgift. Alla formatövergångar från SXC till EMF utförs av vår Android-SDK samtidigt som käll-SXC-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara SXC som EMF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt EMF-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att spara SXC som EMF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att spara SXC som EMF med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Att spara filformat från SXC som EMF är en komplex uppgift. Alla formatöverg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara SXC som EMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att spara Excel filer som andra format SXC som EMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

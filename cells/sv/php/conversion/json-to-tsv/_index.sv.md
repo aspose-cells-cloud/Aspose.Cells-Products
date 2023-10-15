@@ -1,19 +1,18 @@
 ﻿---
-title:  JSON till TSV Konvertera API för PHP
-description: Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i JSON-format till fil i TSV-format.
-url: /sv/php/conversion/json-to-tsv/
+title:  Konvertera JSON till TSV med PHP
+description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i JSON-format till en fil i TSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att konvertera JSON till TSV" h2="PHP bibliotek för att konvertera JSON till TSV" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att konvertera JSON till TSV och andra dokumentformat online med PHP." urlsection="conversion/json-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera JSON till TSV" h2="PHP bibliotek för att konvertera JSON till TSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera JSON till TSV och andra dokumentformat online med PHP." urlsection="conversion/json-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en JSON-fil till TSV i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera JSON till TSV med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från JSON till TSV är en komplex uppgift. Alla JSON- till TSV-formatövergångar utförs av vår PHP SDK samtidigt som käll-JSON-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att konvertera JSON till TSV-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt TSV-utdata.
+Att konvertera filformat från JSON till TSV kan vara en komplex uppgift. Vår PHP SDK hanterar alla JSON- till TSV-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket JSON bevaras. Vårt PHP-bibliotek tillhandahåller en professionell lösning för att konvertera JSON- till TSV-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TSV-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att konvertera JSON till TSV-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kodexempel för att konvertera JSON till TSV med Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Att konvertera filformat från JSON till TSV är en komplex uppgift. Alla JSON- 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att konvertera JSON till TSV" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring cellsWorkbookPutConvertWorkBook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att konvertera Excel filer till andra format JSON till TSV" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSB إلى PNG تحويل API إلى Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLSB إلى ملف بتنسيق PNG.
-url: /ar/perl/conversion/xlsb-to-png/
+title:  تحويل XLSB إلى PNG باستخدام Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق XLSB إلى ملف بتنسيق PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLSB إلى PNG" h2="مكتبة Perl لتحويل XLSB إلى PNG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل XLSB إلى PNG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsb-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSB إلى PNG" h2="مكتبة Perl لتحويل XLSB إلى PNG" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل XLSB إلى PNG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsb-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSB إلى PNG في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSB إلى PNG باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSB إلى PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى PNG بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XLSB إلى PNG عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج PNG مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSB إلى PNG مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق XLSB إلى PNG مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XLSB إلى PNG عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl بوظائف قوية ويضمن إخراج PNG عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل تنسيق XLSB إلى تنسيق PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل XLSB إلى PNG باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/xlsb-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل XLSB إلى PNG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل XLSB إلى PNG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

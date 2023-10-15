@@ -1,19 +1,18 @@
 ﻿---
-title: NUMBERS till TIFF Konvertera API till Python
-description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera NUMBERS-formatfil till TIFF-fil.
-url: /sv/python/conversion/numbers-to-tiff/
+title:  Konvertera NUMBERS till TIFF med Python
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera en NUMBERS-formatfil till en TIFF-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att konvertera NUMBERS till TIFF" h2="Python bibliotek för att konvertera NUMBERS till TIFF" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att konvertera NUMBERS till TIFF och andra dokumentformat online med Python." urlsection="conversion/numbers-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera NUMBERS till TIFF" h2="Python bibliotek för att konvertera NUMBERS till TIFF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python projekt. Detta är en professionell lösning för att konvertera NUMBERS till TIFF och andra dokumentformat online med Python." urlsection="conversion/numbers-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en NUMBERS-fil till TIFF i Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera NUMBERS till TIFF med Cells Cloud SDK för Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från NUMBERS till TIFF är en komplex uppgift. Alla NUMBERS till TIFF formatövergångar utförs av vår Python SDK samtidigt som källkoden NUMBERS kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att konvertera NUMBERS till TIFF-filer online. Denna Cloud SDK ger Python-utvecklare kraftfull funktionalitet och perfekt TIFF-utdata.
+Att konvertera filformat från NUMBERS till TIFF kan vara en komplicerad uppgift. Vårt Python SDK hanterar alla NUMBERS till TIFF formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket NUMBERS bevaras. Vårt Python-bibliotek tillhandahåller en professionell lösning för att konvertera NUMBERS till TIFF-filer online. Denna Cloud SDK ger Python-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TIFF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att konvertera NUMBERS till TIFF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att konvertera NUMBERS till TIFF med Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Att konvertera filformat från NUMBERS till TIFF är en komplex uppgift. Alla NU
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att konvertera NUMBERS till TIFF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att konvertera Excel filer till andra format NUMBERS till TIFF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

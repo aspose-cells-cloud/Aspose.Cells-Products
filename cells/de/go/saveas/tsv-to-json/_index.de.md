@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie TSV als JSON API für Go
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die TSV-Formatdatei als JSON-Formatdatei zu speichern.
-url: /de/go/saveas/tsv-to-json/
+title:  Speichern Sie TSV als JSON mit Go
+description:  Verwendung von Aspose.Cells Cloud SDK für Go zum Speichern von TSV-Formatdateien als JSON-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um TSV als JSON zu speichern" h2="Gehen Sie zur Bibliothek, um TSV als JSON zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um TSV als JSON und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/tsv-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV als JSON speichern" h2="Go-Bibliothek zum Speichern von TSV als JSON" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um TSV als JSON und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/tsv-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als JSON in Go" >}}
@@ -13,7 +12,7 @@ url: /de/go/saveas/tsv-to-json/
 Das Speichern von Dateiformaten aus TSV als JSON ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum JSON-Format werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der TSV-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung, um TSV als JSON-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von TSV im JSON-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel zum Speichern von TSV als JSON mit REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten aus TSV als JSON ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um TSV als JSON zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in anderen TSV-Formaten als JSON zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

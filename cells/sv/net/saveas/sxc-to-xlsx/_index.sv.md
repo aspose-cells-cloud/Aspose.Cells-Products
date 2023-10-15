@@ -1,10 +1,9 @@
 ﻿---
-title: Spara SXC som XLSX API för C#
+title:  Spara SXC som XLSX med C#
 description:  Använder Aspose.Cells Cloud SDK för C# för att spara SXC-formatfil som XLSX-formatfil.
-url: /sv/net/saveas/sxc-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att spara SXC som XLSX" h2="C#-biblioteket för att spara SXC som XLSX" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara SXC som XLSX och andra dokumentformat online med C#." urlsection="saveas/sxc-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara SXC som XLSX" h2="C# bibliotek för att spara SXC som XLSX" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara SXC som XLSX och andra dokumentformat online med C#." urlsection="saveas/sxc-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en SXC-fil som XLSX i C#" >}}
@@ -13,7 +12,7 @@ url: /sv/net/saveas/sxc-to-xlsx/
 Att spara filformat från SXC som XLSX är en komplex uppgift. Alla SXC- till XLSX-formatövergångar utförs av vår C# SDK samtidigt som käll-SXC-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att spara SXC som XLSX-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt XLSX-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att spara SXC som XLSX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kod Exempel för att spara SXC som XLSX med REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Att spara filformat från SXC som XLSX är en komplex uppgift. Alla SXC- till XL
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att spara SXC som XLSX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att spara Excel filer som andra format SXC som XLSX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

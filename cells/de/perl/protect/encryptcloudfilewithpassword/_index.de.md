@@ -1,7 +1,6 @@
 ﻿---
 title:  Verschlüsseln Sie die Cloud-Tabelle mit einem Passwort in der Cloud
 description: Cloud-APIs und SDKs zum Schutz von Microsoft Excel und OpenOffice Calc. Verschlüsseln Sie die Cloud-Tabelle mit dem Passwort Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/perl/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Schutz der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" h2="Perl Bibliothek zum Schutz der Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Protect REST API, um Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort-Workflows in Perl zu schützen. Diese professionelle Lösung schützt Cloud Microsoft Excel und OpenOffice Calc-Tabelle online mit Passwörtern unter Verwendung von Perl." urlsection="protect/Encrypt-cloud-file-with-password/" >}}

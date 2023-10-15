@@ -1,19 +1,18 @@
 ﻿---
-title: CSV till TSV Konvertera API för Python
-description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera CSV-formatfil till TSV-formatfil.
-url: /sv/python/conversion/csv-to-tsv/
+title:  Konvertera CSV till TSV med Python
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera en fil i CSV-format till en fil i TSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att konvertera CSV till TSV" h2="Python bibliotek för att konvertera CSV till TSV" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att konvertera CSV till TSV och andra dokumentformat online med Python." urlsection="conversion/csv-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera CSV till TSV" h2="Python bibliotek för att konvertera CSV till TSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python projekt. Detta är en professionell lösning för att konvertera CSV till TSV och andra dokumentformat online med Python." urlsection="conversion/csv-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en CSV-fil till TSV i Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera CSV till TSV med Cells Cloud SDK för Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från CSV till TSV är en komplex uppgift. Alla CSV- till TSV-formatövergångar utförs av vår Python SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att konvertera CSV- till TSV-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt TSV-utdata.
+Att konvertera filformat från CSV till TSV kan vara en komplicerad uppgift. Vår Python SDK hanterar alla CSV- till TSV-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-CSV-kalkylarket bevaras. Vårt Python-bibliotek tillhandahåller en professionell lösning för att konvertera CSV- till TSV-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TSV-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att konvertera CSV till TSV-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kodexempel för att konvertera CSV till TSV med Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Att konvertera filformat från CSV till TSV är en komplex uppgift. Alla CSV- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att konvertera CSV till TSV" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att konvertera Excel filer till andra format CSV till TSV" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

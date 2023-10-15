@@ -1,19 +1,18 @@
 ﻿---
-title: Salva PNG come TIFF API per Android
-description:  Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato PNG come file in formato TIFF.
-url: /it/android/saveas/png-to-tiff/
+title: Salva PNG come TIFF utilizzando Android
+description:  Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato PNG come file in formato TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per salvare PNG come TIFF" h2="Libreria Android per salvare PNG come TIFF" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Android. Questa è una soluzione professionale per salvare PNG come TIFF e altri formati di documenti online utilizzando Android." urlsection="saveas/png-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva PNG come TIFF" h2="Libreria Android per salvare PNG come TIFF" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Android. Questa è una soluzione professionale per salvare PNG come TIFF e altri formati di documenti online utilizzando Android." urlsection="saveas/png-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file PNG come TIFF in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da PNG come TIFF è un compito complesso. Tutte le transizioni di formato da PNG a TIFF vengono eseguite dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo PNG. La nostra libreria Android è una soluzione professionale per salvare i file PNG come TIFF online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output TIFF perfetto.
+Salvare i formati di file da PNG come TIFF è un compito complesso. Tutte le transizioni di formato da PNG a TIFF vengono eseguite dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo di origine PNG. La nostra libreria Android è una soluzione professionale per salvare PNG come file TIFF online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e un output TIFF perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per salvare PNG come formato TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice Android per salvare PNG come TIFF utilizzando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ Salvare i formati di file da PNG come TIFF è un compito complesso. Tutte le tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Java API per salvare PNG come TIFF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Android per salvare i file Excel in altri formati PNG come TIFF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Android 7 o più recente</li>
-<li>Java(TM) SE Ambiente di runtime</li>
+<li>Android 7 o successivo</li>
+<li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

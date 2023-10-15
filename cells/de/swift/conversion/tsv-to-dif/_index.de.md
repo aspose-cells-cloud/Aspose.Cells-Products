@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV zu DIF Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer TSV-Formatdatei in eine DIF-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer TSV-Formatdatei in eine DIF-Formatdatei.
 url: /de/swift/conversion/tsv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

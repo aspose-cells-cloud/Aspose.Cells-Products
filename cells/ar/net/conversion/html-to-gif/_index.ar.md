@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML إلى GIF تحويل API عن C#
-description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق HTML إلى ملف بتنسيق GIF.
-url: /ar/net/conversion/html-to-gif/
+title:  تحويل HTML إلى GIF باستخدام C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف بتنسيق HTML إلى ملف بتنسيق GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لتحويل HTML إلى GIF" h2="مكتبة C# لتحويل HTML إلى GIF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لتحويل HTML إلى GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/html-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل HTML إلى GIF" h2="مكتبة C# لتحويل HTML إلى GIF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Net. يعد هذا حلاً احترافيًا لتحويل HTML إلى GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/html-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف HTML إلى GIF في C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل HTML إلى GIF باستخدام Cells Cloud SDK لـ C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى GIF بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبتنا C# حلاً احترافيًا لتحويل HTML إلى ملفات GIF عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج GIF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من HTML إلى GIF مهمة معقدة. يتعامل SDK C# الخاص بنا مع جميع تحويلات تنسيق HTML إلى GIF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. توفر مكتبتنا C# حلاً احترافيًا لتحويل HTML إلى ملفات GIF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري C# من الحصول على وظائف قوية ويضمن إخراج صور GIF عالية الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتحويل HTML إلى تنسيق GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# مثال على الكود لتحويل HTML إلى GIF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ar/net/conversion/html-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام C# API لتحويل HTML إلى GIF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لتحويل ملفات Excel إلى تنسيقات أخرى HTML إلى GIF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
-<li>Net Standard 2.0 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

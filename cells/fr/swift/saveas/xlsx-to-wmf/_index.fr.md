@@ -1,16 +1,16 @@
 ﻿---
 title:  Enregistrer XLSX sous WMF API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format XLSX en tant que fichier au format WMF.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format XLSX au format WMF.
 url: /fr/swift/saveas/xlsx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLSX au format WMF" h2="Bibliothèque Swift pour enregistrer XLSX au format WMF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLSX au format WMF et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlsx-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLSX au format WMF" h2="Bibliothèque Swift pour enregistrer XLSX au format WMF" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLSX au format WMF et autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlsx-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSX au format WMF dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSX en tant que WMF est une tâche complexe. Toutes les transitions de format XLSX vers WMF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers XLSX au format WMF. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie WMF parfaite.
+Enregistrer les formats de fichiers XLSX au format WMF est une tâche complexe. Toutes les transitions du format XLSX vers WMF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer XLSX sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie WMF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer XLSX au format WMF" gistPath="" %}}
@@ -56,8 +56,8 @@ L'enregistrement de formats de fichiers à partir de XLSX en tant que WMF est un
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer XLSX au format WMF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title: 将 XLT 保存为 XLS API 用于 Go
-description: 使用Aspose.Cells Cloud SDK for Go将XLT格式文件保存为XLS格式文件。
-url: /zh/go/saveas/xlt-to-xls/
+title: 使用 Go 将 XLT 保存为 XLS
+description: 利用Aspose.Cells Cloud SDK for Go将XLT格式文件保存为XLS格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="去API将XLT另存为XLS" h2="转到库将 XLT 保存为 XLS" p="使用 Cells SaveAs REST API 在 Go 中创建自定义电子表格工作流程。这是使用Go在线将XLT保存为XLS和其他文档格式的专业解决方案。" urlsection="saveas/xlt-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLT 保存为 XLS" h2="用于将 XLT 保存为 XLS 的 Go 库" p="使用 Cells Cloud 的 SaveAs API 在 Go 中创建自定义电子表格工作流程。这是使用Go在线将XLT保存为XLS和其他文档格式的专业解决方案。" urlsection="saveas/xlt-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 XLT 文件另存为 XLS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 XLT 文件保存为 XLS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 将文件格式从 XLT 保存为 XLS 是一项复杂的任务。所有 XLT 到 XLS 格式的转换均由我们的 Go SDK 执行，同时保留源 XLT 电子表格的主要结构和逻辑内容。我们的 Go 库是在线将 XLT 保存为 XLS 文件的专业解决方案。该Cloud SDK为Go开发人员提供了强大的功能和完美的XLS输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go 中使用 REST API 将 XLT 保存为 XLS 格式的代码示例" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="使用 REST 将 XLT 保存为 XLS 的 Go 代码示例 API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /zh/go/saveas/xlt-to-xls/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Go API 将 XLT 保存为 XLS" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 CellsSaveAsPostDocumentSaveAs 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Go将Excel文件保存为其他格式XLT为XLS" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

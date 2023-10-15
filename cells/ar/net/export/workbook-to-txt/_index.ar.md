@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير كتاب العمل إلى TXT من جدول البيانات باستخدام C# API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/net/export/workbook-to-txt/
+title:  تصدير المصنف إلى TXT من Excel باستخدام Cells Cloud SDK لـ C#
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لتصدير كتاب العمل إلى ملف TXT" h2="مكتبة C# لتصدير كتاب العمل إلى ملف TXT" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Net. هذا حل احترافي لتصدير كتاب العمل إلى ملف بتنسيق TXT من جدول بيانات عبر الإنترنت باستخدام C#." urlsection="export/workbook-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير المصنف إلى TXT من Excel" h2="مكتبة C# لتصدير المصنف إلى ملف TXT" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي لملف Excel في Net. يعد هذا حلاً احترافيًا لتصدير WORKBOOK إلى ملف بتنسيق TXT من جدول البيانات عبر الإنترنت باستخدام C#." urlsection="export/workbook-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKBOOK إلى ملف بتنسيق TXT في C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن كتاب العمل إلى ملف بتنسيق TXT باستخدام Cells Cloud SDK لـ C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن كتاب العمل إلى ملف TXT من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير كتاب العمل إلى تنسيق TXT بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعتبر مكتبة C# الخاصة بنا حلاً احترافيًا لتصدير كائنات كتاب العمل إلى ملفات بتنسيق TXT عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج TXT مثالي.
+يعد تصدير كائن WORKBOOK إلى ملف TXT من ملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير WORKBOOK إلى تنسيق TXT بواسطة C# SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبتنا C# حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق TXT عبر الإنترنت. يوفر Cloud SDK لمطوري C# وظائف قوية وإخراج TXT مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتصدير كتاب العمل إلى تنسيق TXT من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال للتعليمات البرمجية في C# باستخدام REST API لتصدير المصنف إلى تنسيق TXT من جدول البيانات" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,16 +43,16 @@ url: /ar/net/export/workbook-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام C# API لتصدير كتاب العمل إلى TXT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة PostExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لتصدير الكائنات من المصنف Excel إلى TXT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
-<li>Net Standard 2.0 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

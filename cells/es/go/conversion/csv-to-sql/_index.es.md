@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV a SQL Convertir API para Go
-description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato CSV a un archivo de formato SQL.
-url: /es/go/conversion/csv-to-sql/
+title:  Convierta CSV a SQL usando Go
+description:  Utilizar el SDK de Cloud Aspose.Cells para Go para convertir un archivo de formato CSV a un archivo de formato SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para convertir CSV a SQL" h2="Ir a la biblioteca para convertir CSV a SQL" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir CSV a SQL y otros formatos de documentos en línea usando Go." urlsection="conversion/csv-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir CSV a SQL" h2="Ir a la biblioteca para convertir CSV a SQL" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos de Go. Esta es una solución profesional para convertir CSV a SQL y otros formatos de documentos en línea usando Go." urlsection="conversion/csv-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo CSV a SQL en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta CSV a SQL usando Cells Cloud SDK para Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de CSV a SQL es una tarea compleja. Nuestro Go SDK realiza todas las transiciones de formato CSV a SQL mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos CSV a SQL en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida SQL perfecta.
+Convertir formatos de archivo de CSV a SQL puede ser una tarea compleja. Nuestro Go SDK maneja todas las conversiones de formato CSV a SQL mientras preserva el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca Go proporciona una solución profesional para convertir archivos CSV a SQL en línea. Este SDK de Cloud brinda a los desarrolladores de Go una potente funcionalidad y garantiza una salida SQL de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir CSV a formato SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Go para convertir CSV a SQL usando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ Convertir formatos de archivo de CSV a SQL es una tarea compleja. Nuestro Go SDK
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Go API para convertir CSV a SQL" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para convertir archivos Excel a otros formatos CSV a SQL" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>ir a la versión go1.13.0 o más reciente</li>
+<li>vaya a la versión go1.13.0 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

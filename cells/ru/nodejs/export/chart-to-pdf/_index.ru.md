@@ -1,16 +1,15 @@
 ﻿---
-title:  Экспорт CHART в PDF из электронной таблицы с использованием NodeJS API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/nodejs/export/chart-to-pdf/
+title:  Экспортируйте CHART в PDF из Excel с помощью Cells Cloud SDK для NodeJS.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для экспорта CHART в файл PDF" h2="Библиотека NodeJS для экспорта CHART в файл PDF" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в NodeJS. Это профессиональное решение для экспорта файла формата CHART в файл формата PDF из электронной таблицы онлайн с использованием NodeJS." urlsection="export/chart-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать CHART в PDF из Excel" h2="Библиотека NodeJS для экспорта CHART в файл PDF" p="Используйте «Экспорт API» из «Cells Cloud» для экспорта рабочих процессов внутренних объектов файлов Excel в NodeJS. Это профессиональное решение для экспорта CHART в файл формата PDF из электронной таблицы онлайн с помощью NodeJS." urlsection="export/chart-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта CHART в файл формата PDF в NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект CHART в файл формата PDF с помощью Cloud SDK Cells для NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта CHART в файл PDF из электронной таблицы является сложной задачей. Экспорт CHART в переходы формата PDF выполняется нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы CHART. Наша библиотека NodeJS — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата PDF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат PDF.
+Экспорт объекта CHART в файл PDF из файла Excel — сложная задача. Экспорт переходов формата CHART в формат PDF выполняется нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы CHART. Наша библиотека NodeJS — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата PDF. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод PDF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для экспорта CHART в формат PDF из электронной таблицы" gistPath="" %}}
@@ -41,10 +40,10 @@ url: /ru/nodejs/export/chart-to-pdf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для экспорта CHART в PDF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для экспорта объектов из Excel CHART в PDF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

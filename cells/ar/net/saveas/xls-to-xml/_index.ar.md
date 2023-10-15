@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XLS كـ XML API لـ C#
+title:  احفظ XLS كـ XML باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLS كملف بتنسيق XML.
-url: /ar/net/saveas/xls-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لحفظ XLS على هيئة XML" h2="مكتبة C# لحفظ XLS كـ XML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لحفظ XLS بتنسيق XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام C#." urlsection="saveas/xls-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLS بتنسيق XML" h2="مكتبة C# لحفظ XLS بصيغة XML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Net. يعد هذا حلاً احترافيًا لحفظ XLS بتنسيق XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="saveas/xls-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLS بتنسيق XML في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLS على هيئة XML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى XML بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLS المصدر. تعتبر مكتبة C# الخاصة بنا حلاً احترافيًا لحفظ XLS كملفات XML عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج XML مثالي.
+يعد حفظ تنسيقات الملفات من XLS بتنسيق XML مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق XLS إلى XML بواسطة C# SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLS المصدر. تعد مكتبتنا C# حلاً احترافيًا لحفظ XLS كملفات XML عبر الإنترنت. يوفر Cloud SDK لمطوري C# وظائف قوية ومخرجات XML مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لحفظ XLS كتنسيق XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# مثال على الكود لحفظ XLS كـ XML باستخدام REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ url: /ar/net/saveas/xls-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام C# API لحفظ XLS على هيئة XML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لحفظ ملفات Excel بتنسيقات أخرى XLS مثل XML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
-<li>Net Standard 2.0 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

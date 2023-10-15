@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV إلى EMF تحويل API إلى Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق TSV إلى ملف بتنسيق EMF.
-url: /ar/go/conversion/tsv-to-emf/
+title:  قم بتحويل TSV إلى EMF باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق TSV إلى ملف بتنسيق EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل TSV إلى EMF" h2="انتقل إلى المكتبة لتحويل TSV إلى EMF" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل TSV إلى EMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/tsv-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل TSV إلى EMF" h2="انتقل إلى المكتبة لتحويل TSV إلى EMF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل TSV إلى EMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/tsv-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى EMF في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل TSV إلى EMF باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TSV إلى EMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى EMF بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى EMF عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج EMF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من TSV إلى EMF مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات تنسيق TSV إلى EMF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى ملفات EMF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من وظائف قوية ويضمن إخراج EMF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتحويل تنسيق TSV إلى تنسيق EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لتحويل TSV إلى EMF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ url: /ar/go/conversion/tsv-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل TSV إلى EMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتحويل ملفات Excel إلى تنسيقات أخرى TSV إلى EMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

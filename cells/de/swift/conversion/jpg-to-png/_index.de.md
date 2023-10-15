@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG in PNG Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer JPG-Formatdatei in eine Datei im PNG-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer JPG-Formatdatei in eine Datei im PNG-Format.
 url: /de/swift/conversion/jpg-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

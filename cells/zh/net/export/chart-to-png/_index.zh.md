@@ -1,16 +1,15 @@
 ﻿---
-title: 使用 C# API 将电子表格中的图表导出到 PNG
+title: 使用 Cells Cloud SDK for C# 将 CHART 从 Excel 导出到 PNG
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
-url: /zh/net/export/chart-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将CHART导出到PNG文件" h2="C#库导出CHART到PNG文件" p="使用 Cells Export REST API 导出 Net 中的电子表格内部对象工作流程。这是使用 C# 在线电子表格将图表导出为 PNG 格式文件的专业解决方案。" urlsection="export/chart-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将图表从 Excel 导出到 PNG" h2="C# 用于将图表导出到 PNG 文件的库" p="使用Cells云的导出API导出Net中的Excel文件内部对象工作流程。这是使用 C# 在线电子表格将图表导出为 PNG 格式文件的专业解决方案。" urlsection="export/chart-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将CHART对象导出为C#中的PNG格式文件" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用Cells Cloud SDK for C#将CHART对象导出为PNG格式文件" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-将图表对象从电子表格导出到 PNG 文件是一项复杂的任务。将 CHART 导出为 PNG 格式转换由我们的 C# SDK 执行，同时保留源 CHART 电子表格的主要结构和逻辑内容。我们的 C# 库是在线将图表对象导出为 PNG 格式文件的专业解决方案。此Cloud SDK为C#开发者提供了强大的功能和完美的PNG输出。
+将 CHART 对象从 Excel 文件导出到 PNG 文件是一项复杂的任务。将 CHART 导出为 PNG 格式转换由我们的 C# SDK 执行，同时保留源 CHART 电子表格的主要结构和逻辑内容。我们的 C# 库是在线将图表对象导出为 PNG 格式文件的专业解决方案。此Cloud SDK为C#开发者提供了强大的功能和完美的PNG输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# 中的代码示例使用 REST API 将电子表格中的 CHART 导出为 PNG 格式" gistPath="" %}}
@@ -44,10 +43,10 @@ url: /zh/net/export/chart-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用C# API导出CHART到PNG" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 PostExport 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Net将Excel CHART中的对象导出到PNG" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `postExport` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

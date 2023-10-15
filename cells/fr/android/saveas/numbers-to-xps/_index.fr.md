@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer les numéros sous XPS API pour Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format NUMBERS en tant que fichier au format XPS.
-url: /fr/android/saveas/numbers-to-xps/
+title:  Enregistrez les NUMÉROS sous le nom XPS en utilisant Android
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format NUMBERS au format XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer les NUMÉROS sous XPS" h2="Bibliothèque Android pour enregistrer les NUMBERS sous le nom XPS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS sous le XPS et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/numbers-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer les NUMÉROS sous le nom XPS" h2="Bibliothèque Android pour enregistrer les NUMÉROS sous le nom XPS" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format XPS et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/numbers-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier NUMBERS sous le nom XPS dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de NUMBERS sous la forme XPS est une tâche complexe. Toutes les transitions de format NUMBERS vers XPS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers NUMBERS en tant que XPS en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XPS parfaite.
+Enregistrer les formats de fichiers de NUMBERS sous le nom XPS est une tâche complexe. Toutes les transitions du format NUMBERS vers XPS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des NUMÉROS sous forme de fichiers XPS en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XPS parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer NUMBERS au format XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour enregistrer des NUMÉROS sous le nom XPS à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ L'enregistrement des formats de fichiers à partir de NUMBERS sous la forme XPS 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer des NUMÉROS sous XPS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour enregistrer des fichiers Excel sous d\'autres formats NUMÉROS comme XPS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie BMP als ODS API für PHP
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im BMP-Format als ODS-Formatdatei zu speichern.
-url: /de/php/saveas/bmp-to-ods/
+title:  Speichern Sie BMP als ODS unter Verwendung von PHP
+description:  Verwendung des Aspose.Cells Cloud SDK für PHP zum Speichern der Datei im BMP-Format als ODS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um BMP als ODS zu speichern" h2="PHP-Bibliothek zum Speichern von BMP als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um BMP als ODS und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/bmp-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie BMP als ODS" h2="PHP-Bibliothek zum Speichern von BMP als ODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um BMP als ODS und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/bmp-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine BMP-Datei als ODS in PHP" >}}
@@ -13,7 +12,7 @@ url: /de/php/saveas/bmp-to-ods/
 Das Speichern von Dateiformaten ab BMP als ODS ist eine komplexe Aufgabe. Alle Übergänge vom Format BMP zum ODS-Format werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um BMP als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Speichern von BMP im ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel zum Speichern von BMP als ODS mit REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten ab BMP als ODS ist eine komplexe Aufgabe. Alle �
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um BMP als ODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Excel Dateien in anderen Formaten BMP als ODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

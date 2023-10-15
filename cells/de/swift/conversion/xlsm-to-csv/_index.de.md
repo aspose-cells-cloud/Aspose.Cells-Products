@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSM in CSV konvertieren API für Swift
+title: XLSM in CSV konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine CSV-Formatdatei.
 url: /de/swift/conversion/xlsm-to-csv/
 ---

@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON till TSV Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i JSON-format till fil i TSV-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i JSON-format till fil i TSV-format.
 url: /sv/swift/conversion/json-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

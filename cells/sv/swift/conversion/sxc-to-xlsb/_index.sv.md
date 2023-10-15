@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC till XLSB Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i SXC-format till fil i XLSB-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i SXC-format till fil i XLSB-format.
 url: /sv/swift/conversion/sxc-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

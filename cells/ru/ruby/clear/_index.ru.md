@@ -1,14 +1,13 @@
 ﻿---
-title:  Очистить объекты с помощью Ruby
-description:  Aspose.Cells Cloud REST API поддерживает четкие внутренние объекты в файле Excel с использованием Ruby. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
-url: /ru/ruby/clear/
+title:  Очистите внутренние объекты файла Excel с помощью Ruby.
+description:  Aspose.Cells Cloud REST API поддерживает очистку внутренних объектов в файле Excel с использованием Ruby. SDK поддерживает несколько языков разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Очистить объекты с помощью Ruby" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает четкие внутренние объекты в файле Excel с использованием Ruby. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Очистите внутренние объекты файла Excel с помощью Ruby." h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает очистку внутренних объектов в файле Excel с использованием Ruby. SDK поддерживает несколько языков разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Очистить объекты с помощью ссылок Ruby Extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Очистите внутренние объекты файла Excel, используя ссылки расширения Ruby." >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
@@ -19,8 +18,8 @@ url: /ru/ruby/clear/
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
-{{< blocks/products/pf/slr-element name="API Ссылки" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Рекомендации" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="Обучающие видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}

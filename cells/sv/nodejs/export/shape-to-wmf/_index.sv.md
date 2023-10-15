@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera SHAPE till WMF från kalkylblad med NodeJS API
+title: Exportera SHAPE till WMF från Excel med Cells Cloud SDK för NodeJS
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/nodejs/export/shape-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att exportera SHAPE till WMF-fil" h2="NodeJS-bibliotek för att exportera SHAPE till WMF-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylblad i NodeJS. Detta är en professionell lösning för att exportera SHAPE till WMF-formatfil från kalkylblad online med NodeJS." urlsection="export/shape-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera SHAPE till WMF från Excel" h2="NodeJS-bibliotek för att exportera SHAPE till WMF-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i NodeJS. Detta är en professionell lösning för att exportera SHAPE till WMF-formatfil från kalkylblad online med NodeJS." urlsection="export/shape-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera SHAPE-objekt till WMF-formatfil i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera SHAPE-objekt till WMF-formatfil med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera SHAPE-objekt till WMF-fil från kalkylblad är en komplex uppgift. Export av SHAPE till WMF-formatövergångar utförs av vår NodeJS SDK samtidigt som källformatets SHAPE-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att exportera SHAPE-objekt till WMF-formatfiler online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt WMF-utdata.
+Exportera SHAPE-objekt till WMF-fil från Excel-filen är en komplex uppgift. Export av SHAPE till WMF-formatövergångar utförs av vår NodeJS SDK samtidigt som källformatets SHAPE-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att exportera SHAPE-objekt till WMF-formatfiler online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt WMF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att exportera SHAPE till WMF-format från kalkylblad" gistPath="" %}}
@@ -41,10 +40,10 @@ Exportera SHAPE-objekt till WMF-fil från kalkylblad är en komplex uppgift. Exp
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att exportera SHAPE till WMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att exportera objekt från Excel SHAPE till WMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

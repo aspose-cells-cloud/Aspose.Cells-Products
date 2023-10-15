@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML 到 XML 转换 API for Go
-description: 使用Aspose.Cells Cloud SDK for Go将HTML格式文件转换为XML格式文件。
-url: /zh/go/conversion/html-to-xml/
+title: 使用 Go 将 HTML 转换为 XML
+description: 利用Aspose.Cells Cloud SDK for Go将HTML格式文件转换为XML格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="转到 API 将 HTML 转换为 XML" h2="Go库将HTML转换为XML" p="使用 Cells Conversion REST API 在 Go 中创建自定义电子表格工作流程。这是使用Go在线将HTML转换为XML和其他文档格式的专业解决方案。" urlsection="conversion/html-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 HTML 转换为 XML" h2="用于将 HTML 转换为 XML 的 Go 库" p="使用 Cells 云的转换 API 在 Go 项目中创建自定义电子表格工作流程。这是使用Go在线将HTML转换为XML和其他文档格式的专业解决方案。" urlsection="conversion/html-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 HTML 文件转换为 XML" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Go 将 HTML 转换为 XML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 HTML 转换为 XML 是一项复杂的任务。所有 HTML 到 XML 格式的转换均由我们的 Go SDK 执行，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的Go库是在线将HTML转换为XML文件的专业解决方案。这个Cloud SDK为Go开发者提供了强大的功能和完美的XML输出。
+将文件格式从 HTML 转换为 XML 可能是一项复杂的任务。我们的 Go SDK 处理所有 HTML 到 XML 格式的转换，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的Go库提供了在线将HTML转换为XML文件的专业解决方案。该Cloud SDK为Go开发人员提供了强大的功能，并确保高质量的XML输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go 中使用 REST API 将 HTML 转换为 XML 格式的代码示例" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="使用 Cells Cloud SDK 将 HTML 转换为 XML 的 Go 代码示例" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /zh/go/conversion/html-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Go API将HTML转换为XML" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 CellsWorkbookPutConvertWorkbook 方法获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Go将Excel文件转换为其他格式HTML转XML" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `PutConvertWorkbook` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

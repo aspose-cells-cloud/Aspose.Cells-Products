@@ -1,16 +1,15 @@
 ﻿---
-title:  Экспорт WORKBOOK в EMF из электронной таблицы с использованием Perl API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/perl/export/workbook-to-emf/
+title:  Экспортируйте WORKBOOK в EMF из Excel с помощью Cloud SDK Cells для Perl.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для экспорта WORKBOOK в файл EMF" h2="Библиотека Perl для экспорта WORKBOOK в файл EMF" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Perl. Это профессиональное решение для экспорта файла формата WORKBOOK в EMF из электронной таблицы онлайн с использованием Perl." urlsection="export/workbook-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать РАБОЧУЮ КНИГУ на номер EMF из Excel." h2="Библиотека Perl для экспорта WORKBOOK в файл EMF" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Perl. Это профессиональное решение для экспорта WORKBOOK в файл формата EMF из электронной таблицы онлайн с помощью Perl." urlsection="export/workbook-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата EMF в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект WORKBOOK в файл формата EMF с помощью Cloud SDK Cells для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл EMF из электронной таблицы является сложной задачей. Экспорт WORKBOOK в переходы формата EMF выполняется нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата EMF. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат EMF.
+Экспорт объекта WORKBOOK в файл EMF из файла Excel — сложная задача. Экспорт WORKBOOK в формат переходов EMF выполняется нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы WORKBOOK. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата EMF. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный результат EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для экспорта WORKBOOK в формат EMF из электронной таблицы" gistPath="" %}}
@@ -37,10 +36,10 @@ url: /ru/perl/export/workbook-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для экспорта WORKBOOK в EMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод post_export, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Perl для экспорта объектов из Excel WORKBOOK в EMF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод post_export, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

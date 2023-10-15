@@ -1,19 +1,18 @@
 ﻿---
-title: BMP a SXC Convertir API para NodeJS
-description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato BMP a un archivo de formato SXC.
-url: /es/nodejs/conversion/bmp-to-sxc/
+title:  Convierta BMP a SXC usando NodeJS
+description: Utilizar el SDK de nube Aspose.Cells para NodeJS para convertir un archivo de formato BMP a un archivo de formato SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para convertir BMP a SXC" h2="Biblioteca NodeJS para convertir BMP a SXC" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para convertir BMP a SXC y otros formatos de documentos en línea usando NodeJS." urlsection="conversion/bmp-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir BMP a SXC" h2="Biblioteca NodeJS para convertir BMP a SXC" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos NodeJS. Esta es una solución profesional para convertir BMP a SXC y otros formatos de documentos en línea usando NodeJS." urlsection="conversion/bmp-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo BMP a SXC en NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta BMP a SXC usando Cells Cloud SDK para NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de BMP a SXC es una tarea compleja. Todas las transiciones de formato BMP a SXC las realiza nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca NodeJS es una solución profesional para convertir BMP a archivos SXC en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y un resultado SXC perfecto.
+Convertir formatos de archivo de BMP a SXC puede ser una tarea compleja. Nuestro SDK de NodeJS maneja todas las conversiones de formato BMP a SXC mientras conserva el contenido estructural y lógico principal de la hoja de cálculo de origen BMP. Nuestra biblioteca NodeJS proporciona una solución profesional para convertir archivos BMP a SXC en línea. Este Cloud SDK brinda a los desarrolladores de NodeJS una potente funcionalidad y garantiza una salida SXC de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para convertir BMP al formato SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código NodeJS para convertir BMP a SXC usando Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,15 +34,15 @@ Convertir formatos de archivo de BMP a SXC es una tarea compleja. Todas las tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el Nodo API para convertir BMP a SXC" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Node para convertir archivos Excel a otros formatos BMP a SXC" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `putConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>nodo v6.17.1 o posterior</li>
+<li>nodo v6.17.1 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

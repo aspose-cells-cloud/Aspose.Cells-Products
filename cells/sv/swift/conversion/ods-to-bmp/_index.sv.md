@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till BMP Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i ODS-format till fil i BMP-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i ODS-format till fil i BMP-format.
 url: /sv/swift/conversion/ods-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS till XML Konvertera API för NodeJS
-description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera ODS-formatfil till XML-formatfil.
-url: /sv/nodejs/conversion/ods-to-xml/
+title:  Konvertera ODS till XML med NodeJS
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera en ODS-formatfil till en XML-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att konvertera ODS till XML" h2="NodeJS-bibliotek för att konvertera ODS till XML" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att konvertera ODS till XML och andra dokumentformat online med NodeJS." urlsection="conversion/ods-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera ODS till XML" h2="NodeJS-bibliotek för att konvertera ODS till XML" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera ODS till XML och andra dokumentformat online med NodeJS." urlsection="conversion/ods-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en ODS-fil till XML i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera ODS till XML med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från ODS till XML är en komplex uppgift. Alla ODS till XML-formatövergångar utförs av vår NodeJS SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att konvertera ODS till XML-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt XML-utdata.
+Att konvertera filformat från ODS till XML kan vara en komplex uppgift. Vår NodeJS SDK hanterar alla ODS till XML-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för ODS bevaras. Vårt NodeJS-bibliotek tillhandahåller en professionell lösning för att konvertera ODS till XML-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och säkerställer XML-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att konvertera ODS till XML-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att konvertera ODS till XML med Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Att konvertera filformat från ODS till XML är en komplex uppgift. Alla ODS til
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att konvertera ODS till XML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att konvertera Excel-filer till andra format ODS till XML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

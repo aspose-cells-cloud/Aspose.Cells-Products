@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera LISTOBJECT till WMF från kalkylblad med Android API
+title:  Exportera LISTOBJECT till WMF från Excel med Cells Cloud SDK för Android
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/android/export/listobject-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att exportera LISTOBJEKT till WMF-fil" h2="Android-bibliotek för att exportera LISTOBJECT till WMF-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylark i Android. Detta är en professionell lösning för att exportera LISTOBJECT till WMF-formatfil från kalkylblad online med Android." urlsection="export/listobject-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera LISTOBJECT till WMF från Excel" h2="Android-bibliotek för att exportera LISTOBJECT till WMF-fil" p="Använd Export API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Android. Detta är en professionell lösning för att exportera LISTOBJECT till WMF-formatfil från kalkylblad online med Android." urlsection="export/listobject-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till WMF-formatfil i Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till WMF-formatfil med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera LISTOBJECT-objekt till WMF-fil från kalkylblad är en komplex uppgift. Export av LISTOBJECT till WMF-formatövergångar utförs av vår Android SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till WMF-formatfiler online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt WMF-utdata.
+Exportera LISTOBJECT-objekt till WMF-fil från filen Excel är en komplex uppgift. Export av LISTOBJECT till WMF-formatövergångar utförs av vår Android SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till WMF-formatfiler online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt WMF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att exportera LISTOBJECT till WMF-format från kalkylblad" gistPath="" %}}
@@ -51,10 +50,10 @@ Exportera LISTOBJECT-objekt till WMF-fil från kalkylblad är en komplex uppgift
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att exportera LISTOBJECT till WMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att exportera objekt från Excel LISTOBJECT till WMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

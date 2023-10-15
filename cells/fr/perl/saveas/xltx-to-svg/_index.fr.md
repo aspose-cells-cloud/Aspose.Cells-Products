@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez XLTX sous SVG API pour Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XLTX en tant que fichier au format SVG.
-url: /fr/perl/saveas/xltx-to-svg/
+title:  Enregistrez XLTX sous SVG en utilisant Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XLTX au format SVG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer XLTX sous SVG" h2="Bibliothèque Perl pour enregistrer XLTX sous SVG" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX sous SVG et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/xltx-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLTX sous le numéro SVG" h2="Bibliothèque Perl pour enregistrer XLTX sous SVG" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX sous SVG et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/xltx-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLTX sous SVG dans Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLTX sous le nom SVG est une tâche complexe. Toutes les transitions de format XLTX vers SVG sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer des fichiers XLTX sous SVG en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie SVG parfaite.
+Enregistrer les formats de fichiers de XLTX sous le nom SVG est une tâche complexe. Toutes les transitions du format XLTX vers SVG sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer XLTX sous forme de fichiers SVG en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie SVG parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour enregistrer XLTX au format SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour enregistrer XLTX sous SVG à l\'aide de REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ L'enregistrement des formats de fichiers à partir de XLTX sous le nom SVG est u
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Perl API pour enregistrer XLTX sous SVG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Perl pour enregistrer les fichiers Excel sous d\'autres formats XLTX sous le nom SVG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Poste d'appel_classeur_méthode save_as pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

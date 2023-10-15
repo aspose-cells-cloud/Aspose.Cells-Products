@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF إلى WMF تحويل API ل PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق EMF إلى ملف بتنسيق WMF.
-url: /ar/php/conversion/emf-to-wmf/
+title:  تحويل EMF إلى WMF باستخدام PHP
+description: استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق EMF إلى ملف بتنسيق WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل EMF إلى WMF" h2="مكتبة PHP لتحويل EMF إلى WMF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل EMF إلى WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/emf-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل EMF إلى WMF" h2="مكتبة PHP لتحويل EMF إلى WMF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل EMF إلى WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/emf-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف EMF إلى WMF في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل EMF إلى WMF باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من EMF إلى WMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى WMF بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات EMF المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل EMF إلى ملفات WMF عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج WMF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من EMF إلى WMF مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق EMF إلى WMF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل EMF إلى ملفات WMF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من خلال وظائف قوية ويضمن إخراج WMF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل EMF إلى تنسيق WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل EMF إلى WMF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/emf-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل EMF إلى WMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى EMF إلى WMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

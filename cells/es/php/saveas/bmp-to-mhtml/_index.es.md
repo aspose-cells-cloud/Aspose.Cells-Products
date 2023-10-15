@@ -1,19 +1,18 @@
 ﻿---
-title:  Guarde BMP como MHTML API para PHP
-description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato BMP como archivo de formato MHTML.
-url: /es/php/saveas/bmp-to-mhtml/
+title:  Guarde BMP como MHTML usando PHP
+description:  Utilizando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato BMP como archivo de formato MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para guardar BMP como MHTML" h2="PHP biblioteca para guardar BMP como MHTML" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar BMP como MHTML y otros formatos de documentos en línea usando PHP." urlsection="saveas/bmp-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar BMP como MHTML" h2="Biblioteca PHP para guardar BMP como MHTML" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar BMP como MHTML y otros formatos de documentos en línea usando PHP." urlsection="saveas/bmp-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo BMP como MHTML en PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde BMP como MHTML es una tarea compleja. Todas las transiciones de formato BMP a MHTML se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca PHP es una solución profesional para guardar BMP como archivos MHTML en línea. Este SDK de Cloud ofrece a los desarrolladores de PHP una potente funcionalidad y una salida MHTML perfecta.
+Guardar formatos de archivo de BMP como MHTML es una tarea compleja. Todas las transiciones de formato BMP a MHTML las realiza nuestro SDK PHP manteniendo el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca PHP es una solución profesional para guardar BMP como archivos MHTML en línea. Este SDK de nube ofrece a los desarrolladores de PHP una potente funcionalidad y una salida MHTML perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para guardar BMP como formato MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Ejemplo de código para guardar BMP como MHTML usando REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Guardar formatos de archivo desde BMP como MHTML es una tarea compleja. Todas la
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar PHP API para guardar BMP como MHTML" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para guardar archivos Excel en otros formatos BMP como MHTML" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

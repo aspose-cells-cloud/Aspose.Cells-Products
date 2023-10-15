@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera ARBETSBLAD till XPS från kalkylblad med PHP API
+title:  Exportera ARBETSBLAD till XPS från Excel med Cells Cloud SDK för PHP
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/php/export/worksheet-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att exportera ARBETSBLAD till XPS fil" h2="PHP bibliotek för att exportera ARBETSBLAD till XPS fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i PHP. Detta är en professionell lösning för att exportera ARBETSBLAD till XPS-formatfil från kalkylark online med PHP." urlsection="export/worksheet-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBLAD till XPS från Excel" h2="PHP bibliotek för export av ARBETSBLAD till XPS fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i PHP. Detta är en professionell lösning för att exportera ARBETSBLAD till XPS filformat från kalkylblad online med PHP." urlsection="export/worksheet-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till XPS filformat i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till XPS filformat med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKSHEET-objekt till XPS-fil från kalkylblad är en komplex uppgift. Exportera ARBETSBLAD till XPS formatövergångar utförs av vår PHP SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till filer i XPS-format online. Denna Cloud SDK ger PHP-utvecklare kraftfull funktionalitet och perfekt XPS-utdata.
+Exportera WORKSHEET-objekt till filen XPS från filen Excel är en komplex uppgift. Exportera ARBETSBLAD till XPS formatövergångar utförs av vår PHP SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till filer i XPS-format online. Denna Cloud SDK ger PHP-utvecklare kraftfull funktionalitet och perfekt XPS-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att exportera WORKSHEET till XPS-format från kalkylark" gistPath="" %}}
@@ -36,10 +35,10 @@ Exportera WORKSHEET-objekt till XPS-fil från kalkylblad är en komplex uppgift.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att exportera ARBETSBLAD till XPS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att exportera objekt från Excel WORKSHEET till XPS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

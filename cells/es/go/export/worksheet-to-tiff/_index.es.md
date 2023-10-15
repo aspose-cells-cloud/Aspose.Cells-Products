@@ -1,19 +1,18 @@
 ﻿---
-title:  Exporte la HOJA DE TRABAJO a TIFF desde la hoja de cálculo usando Go API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/go/export/worksheet-to-tiff/
+title:  Exporte la HOJA DE TRABAJO a TIFF desde Excel usando Cells Cloud SDK para Go
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para exportar la HOJA DE TRABAJO al archivo TIFF" h2="Vaya a la biblioteca para exportar la HOJA DE TRABAJO al archivo TIFF" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en Go. Esta es una solución profesional para exportar la HOJA DE TRABAJO a un archivo de formato TIFF desde una hoja de cálculo en línea usando Go." urlsection="export/worksheet-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar HOJA DE TRABAJO a TIFF desde Excel" h2="Ir a la biblioteca para exportar HOJA DE TRABAJO al archivo TIFF" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en Go. Esta es una solución profesional para exportar HOJA DE TRABAJO al archivo de formato TIFF desde una hoja de cálculo en línea usando Go." urlsection="export/worksheet-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto HOJA DE TRABAJO al archivo de formato TIFF en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKSHEET a un archivo de formato TIFF usando Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto HOJA DE TRABAJO al archivo TIFF desde la hoja de cálculo es una tarea compleja. Exportar HOJA DE TRABAJO a las transiciones de formato TIFF se realiza mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Go es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos de formato TIFF en línea. Este SDK de la nube ofrece a los desarrolladores de Go una potente funcionalidad y un resultado TIFF perfecto.
+Exportar el objeto WORKSHEET al archivo TIFF desde el archivo Excel es una tarea compleja. Nuestro Go SDK realiza las transiciones de formato WORKSHEET a TIFF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de WORKSHEET de origen. Nuestra biblioteca Go es una solución profesional para exportar objetos WORKSHEET a archivos con formato TIFF en línea. Este SDK de nube ofrece a los desarrolladores de Go una potente funcionalidad y un resultado TIFF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para exportar la HOJA DE TRABAJO al formato TIFF desde la hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para exportar HOJA DE TRABAJO al formato TIFF desde una hoja de cálculo" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -56,15 +55,15 @@ Exportar el objeto HOJA DE TRABAJO al archivo TIFF desde la hoja de cálculo es 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Go API para exportar HOJA DE TRABAJO a TIFF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método PostExport para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Go para exportar objetos de Excel WORKSHEET a TIFF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postExport` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>ir a la versión go1.13.0 o más reciente</li>
+<li>vaya a la versión go1.13.0 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

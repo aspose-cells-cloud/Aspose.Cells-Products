@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF لتحويل ODS API لـ Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق EMF إلى ملف بتنسيق ODS.
-url: /ar/perl/conversion/emf-to-ods/
+title:  تحويل EMF إلى ODS باستخدام Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق EMF إلى ملف بتنسيق ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل EMF إلى ODS" h2="Perl مكتبة لتحويل EMF إلى ODS" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل EMF إلى ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/emf-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل EMF إلى المواد المستنفدة للأوزون" h2="مكتبة Perl لتحويل EMF إلى ODS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل EMF إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/emf-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف EMF إلى ODS في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل EMF إلى ODS باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من EMF إلى ODS مهمة معقدة. يتم تنفيذ جميع التحولات EMF إلى تنسيق ODS بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات EMF المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل EMF إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج ODS مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من EMF إلى ODS مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق EMF إلى ODS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل EMF إلى ملفات ODS عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن مخرجات ODS عالية الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل EMF إلى تنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل EMF إلى ODS باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/emf-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل EMF إلى ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل EMF إلى ODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

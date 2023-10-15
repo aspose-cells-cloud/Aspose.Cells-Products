@@ -1,10 +1,9 @@
 ﻿---
-title: 使用 Go 另存为
-description: Aspose.Cells Cloud REST API 支持使用 Go 将 Excel 文件保存为各种格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/go/saveas/
+title: 使用Go将Excel文件保存为其他格式
+description: Aspose.Cells Cloud REST API支持使用Go以各种格式保存Excel文件，并提供多种编程语言的SDK。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Go 另存为" h2="Aspose.Cells Cloud SDK支持将工作簿保存为其他格式。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用 Go 将 Excel 文件保存为各种格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用Go将Excel文件保存为其他格式" h2="Aspose.Cells Cloud SDK 支持以 30 多种不同的文件格式保存工作簿。" p="Aspose.Cells Cloud REST API支持使用Go以各种格式保存Excel文件，并提供多种编程语言的SDK。" urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +33,7 @@ url: /zh/go/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="使用 Go Extension 链接另存为" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Go Extension 链接将 Excel 文件另存为其他格式" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

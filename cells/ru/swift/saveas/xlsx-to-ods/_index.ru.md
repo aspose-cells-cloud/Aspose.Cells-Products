@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохранить XLSX как ODS API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLSX в виде файла формата ODS.
+title:  Сохранить XLSX как ODS API для Swift.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLSX как файла формата ODS.
 url: /ru/swift/saveas/xlsx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLSX как ODS" h2="Библиотека Swift для сохранения XLSX как ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLSX в виде ODS и других форматов документов в Интернете с помощью Swift." urlsection="saveas/xlsx-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLSX как ODS" h2="Библиотека Swift для сохранения XLSX как ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XLSX в формате ODS и других форматов документов онлайн с помощью Swift." urlsection="saveas/xlsx-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как ODS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде ODS — сложная задача. Все переходы формата XLSX в формат ODS выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Swift — это профессиональное решение для сохранения XLSX в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из XLSX в формате ODS — сложная задача. Все переходы формата XLSX в ODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Swift — это профессиональное решение для сохранения XLSX в виде файлов ODS онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный результат ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLSX в формате ODS" gistPath="" %}}
@@ -54,10 +54,10 @@ url: /ru/swift/saveas/xlsx-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLSX в качестве ODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLSX как ODS" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

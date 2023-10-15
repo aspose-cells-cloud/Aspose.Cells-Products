@@ -1,19 +1,18 @@
 ﻿---
-title:  JSON a FODS Convertir API para Go
-description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato JSON a un archivo de formato FODS.
-url: /es/go/conversion/json-to-fods/
+title: Convierta JSON a FODS usando Go
+description:  Utilizar el SDK de Cloud Aspose.Cells para Go para convertir un archivo de formato JSON a un archivo de formato FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para convertir JSON a FODS" h2="Ir a la biblioteca para convertir JSON a FODS" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir JSON a FODS y otros formatos de documentos en línea usando Go." urlsection="conversion/json-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir JSON a FODS" h2="Ir a la biblioteca para convertir JSON a FODS" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos de Go. Esta es una solución profesional para convertir JSON a FODS y otros formatos de documentos en línea usando Go." urlsection="conversion/json-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo JSON a FODS en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta JSON a FODS usando Cells Cloud SDK para Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de JSON a FODS es una tarea compleja. Todas las transiciones de formato JSON a FODS se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JSON de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos JSON a FODS en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida FODS perfecta.
+Convertir formatos de archivo de JSON a FODS puede ser una tarea compleja. Nuestro Go SDK maneja todas las conversiones de formato JSON a FODS mientras preserva el contenido estructural y lógico principal de la hoja de cálculo JSON de origen. Nuestra biblioteca Go proporciona una solución profesional para convertir archivos JSON a FODS en línea. Este SDK de nube brinda a los desarrolladores de Go una potente funcionalidad y garantiza resultados FODS de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir JSON a formato FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Go para convertir JSON a FODS usando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ Convertir formatos de archivo de JSON a FODS es una tarea compleja. Todas las tr
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Go API para convertir JSON a FODS" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para convertir archivos Excel a otros formatos JSON a FODS" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>ir a la versión go1.13.0 o más reciente</li>
+<li>vaya a la versión go1.13.0 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

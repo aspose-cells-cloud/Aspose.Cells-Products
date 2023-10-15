@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните JPG как SVG API для Perl
+title:  Сохраните JPG как SVG, используя Perl.
 description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата JPG как файла формата SVG.
-url: /ru/perl/saveas/jpg-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить JPG как SVG" h2="Perl библиотека для сохранения JPG как SVG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения JPG как SVG и других форматов документов в Интернете с использованием Perl." urlsection="saveas/jpg-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить JPG как SVG." h2="Perl библиотека для сохранения JPG как SVG" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения JPG как SVG и других форматов документов в Интернете с использованием Perl." urlsection="saveas/jpg-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как SVG в Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG под номером SVG в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG как SVG — сложная задача. Все переходы между форматами JPG и SVG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Perl — это профессиональное решение для сохранения файлов JPG в формате SVG онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат SVG.
+Сохранение формата файлов из JPG как SVG — сложная задача. Все переходы формата JPG в формат SVG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Perl — это профессиональное решение для сохранения файлов JPG в формате SVG онлайн. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный результат SVG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения JPG в формате SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения JPG как SVG с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/jpg-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API, чтобы сохранить JPG как SVG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl, чтобы сохранить файлы Excel в других форматах JPG как SVG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

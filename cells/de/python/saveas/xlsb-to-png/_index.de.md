@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLSB als PNG API für Python
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im XLSB-Format als Datei im Format PNG zu speichern.
-url: /de/python/saveas/xlsb-to-png/
+title:  Speichern Sie XLSB als PNG mit Python
+description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern der Datei im XLSB-Format als Datei im Format PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um XLSB als PNG zu speichern" h2="Python-Bibliothek, um XLSB als PNG zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um XLSB als PNG und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/xlsb-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLSB unter PNG" h2="Python-Bibliothek zum Speichern von XLSB als PNG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um XLSB als PNG und andere Dokumentformate online unter Python zu speichern." urlsection="saveas/xlsb-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSB-Datei als PNG in Python" >}}
@@ -13,7 +12,7 @@ url: /de/python/saveas/xlsb-to-png/
 Das Speichern von Dateiformaten aus XLSB als PNG ist eine komplexe Aufgabe. Alle XLSB-Formatübergänge in das PNG-Format werden von unserem Python-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSB-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um XLSB als PNG-Dateien online zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Speichern von XLSB im PNG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel zum Speichern von XLSB als PNG mit REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Das Speichern von Dateiformaten aus XLSB als PNG ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um XLSB als PNG zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Excel-Dateien in anderen XLSB-Formaten als PNG zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,16 @@
 ﻿---
 title: Convertir XLTM a DIF API para Swift
-description:  Usando Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato XLTM a un archivo de formato DIF.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato XLTM a un archivo de formato DIF.
 url: /es/swift/conversion/xltm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para convertir XLTM a DIF" h2="Biblioteca Swift para convertir XLTM a DIF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para convertir XLTM a DIF y otros formatos de documentos en línea usando Swift." urlsection="conversion/xltm-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para convertir XLTM a DIF" h2="Biblioteca Swift para convertir XLTM a DIF" p="Utilice Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para convertir XLTM a DIF y otros formatos de documentos en línea usando Swift." urlsection="conversion/xltm-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo XLTM a DIF en Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLTM a DIF en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLTM a DIF es una tarea compleja. Todas las transiciones de formato XLTM a DIF las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTM de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XLTM a DIF en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida DIF perfecta.
+Convertir formatos de archivo de XLTM a DIF es una tarea compleja. Todas las transiciones de formato XLTM a DIF las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTM de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XLTM a DIF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida DIF perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir XLTM a formato DIF" gistPath="" %}}
@@ -65,15 +65,15 @@ Convertir formatos de archivo de XLTM a DIF es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Swift API para convertir XLTM a DIF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Swift API para convertir XLTM a DIF" >}}
+<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+<li>Llame al método cellWorkbookPutConvertWorkbook para obtener la secuencia resultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>macOS Monterrey 12.4</li>
+<li>macOS Monterey 12.4</li>
 <li>Rápido 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

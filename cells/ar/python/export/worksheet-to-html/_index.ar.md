@@ -1,19 +1,18 @@
 ﻿---
-title:  تصدير ورقة العمل إلى HTML من جدول البيانات باستخدام Python API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/python/export/worksheet-to-html/
+title:  تصدير ورقة عمل إلى HTML من Excel باستخدام Cells Cloud SDK لـ Python
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتصدير ورقة العمل إلى ملف HTML" h2="مكتبة Python لتصدير ورقة العمل إلى ملف HTML" p="استخدم Cells Export REST API لتصدير مسارات عمل الكائن الداخلي لجدول البيانات في Python. هذا حل احترافي لتصدير WORKSHEET إلى ملف بتنسيق HTML من جدول بيانات عبر الإنترنت باستخدام Python." urlsection="export/worksheet-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير ورقة عمل إلى HTML من Excel" h2="مكتبة Python لتصدير ورقة العمل إلى ملف HTML" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Python. يعد هذا حلاً احترافيًا لتصدير ورقة العمل إلى ملف بتنسيق HTML من جدول البيانات عبر الإنترنت باستخدام Python." urlsection="export/worksheet-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق HTML بتنسيق Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن ورقة العمل إلى ملف بتنسيق HTML باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف HTML من جدول البيانات مهمة معقدة. تصدير ورقة العمل إلى HTML يتم تنفيذ انتقالات تنسيق بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق HTML عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج HTML مثالي.
+يعد تصدير كائن ورقة العمل إلى ملف HTML من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير ورقة العمل إلى HTML بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات المصدر. تعد مكتبتنا Python حلاً احترافيًا لتصدير كائنات ورقة العمل إلى ملفات بتنسيق HTML عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج HTML مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتصدير WORKSHEET إلى تنسيق HTML من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Python باستخدام REST API لتصدير ورقة العمل إلى تنسيق HTML من جدول البيانات" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,10 +36,10 @@ url: /ar/python/export/worksheet-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتصدير ورقة العمل إلى HTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتصدير الكائنات من ورقة عمل Excel إلى HTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

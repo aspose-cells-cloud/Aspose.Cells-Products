@@ -1,19 +1,19 @@
 ﻿---
 title:  احفظ XLTM كـ PDF API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق XLTM كملف تنسيق PDF.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق XLTM كملف بتنسيق PDF.
 url: /ar/swift/saveas/xltm-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ XLTM بالشكل PDF" h2="مكتبة سريعة لحفظ XLTM كـ PDF" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ XLTM كـ PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xltm-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ XLTM كـ PDF" h2="مكتبة سويفت لحفظ XLTM كـ PDF" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ XLTM كـ PDF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xltm-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM بالشكل PDF في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM باسم PDF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLTM كـ PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTM إلى PDF بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLTM كملفات PDF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PDF مثالي.
+يعد حفظ تنسيقات الملفات من XLTM بالرقم PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTM إلى PDF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLTM كملفات PDF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج PDF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ XLTM بتنسيق PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLTM بتنسيق PDF" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,14 +55,14 @@ url: /ar/swift/saveas/xltm-to-pdf/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ XLTM كـ PDF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

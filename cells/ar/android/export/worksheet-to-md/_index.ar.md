@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير ورقة العمل إلى MD من جدول البيانات باستخدام Android API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/android/export/worksheet-to-md/
+title:  تصدير ورقة عمل إلى MD من Excel باستخدام Cells Cloud SDK لنظام Android
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="أندرويد API لتصدير ورقة العمل إلى ملف MD" h2="مكتبة Android لتصدير WORKSHEET إلى ملف MD" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Android. هذا حل احترافي لتصدير WORKSHEET إلى ملف بتنسيق MD من جدول بيانات عبر الإنترنت باستخدام Android." urlsection="export/worksheet-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير ورقة العمل إلى MD من Excel" h2="مكتبة Android لتصدير ورقة العمل إلى ملف MD" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Android. يعد هذا حلاً احترافيًا لتصدير ورقة العمل إلى ملف بتنسيق MD من جدول البيانات عبر الإنترنت باستخدام Android." urlsection="export/worksheet-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق MD في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن ورقة العمل إلى ملف بتنسيق MD باستخدام Cells Cloud SDK لنظام Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف MD من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير ورقة العمل إلى MD بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق MD عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج MD مثالي.
+يعد تصدير كائن ورقة العمل إلى ملف MD من الملف Excel مهمة معقدة. يتم تنفيذ انتقالات تصدير ورقة العمل إلى تنسيق MD بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتصدير كائنات ورقة العمل إلى ملفات بتنسيق MD عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات MD مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتصدير WORKSHEET إلى تنسيق MD من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Android باستخدام REST API لتصدير ورقة عمل إلى تنسيق MD من جدول البيانات" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -51,16 +50,16 @@ url: /ar/android/export/worksheet-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتصدير ورقة العمل إلى MD" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتصدير الكائنات من ورقة عمل Excel إلى MD" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

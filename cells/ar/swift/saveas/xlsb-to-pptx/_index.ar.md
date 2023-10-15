@@ -4,16 +4,16 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف �
 url: /ar/swift/saveas/xlsb-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ XLSB كـ PPTX" h2="مكتبة سريعة لحفظ XLSB كـ PPTX" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ XLSB بتنسيق PPTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xlsb-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ XLSB كـ PPTX" h2="مكتبة سويفت لحفظ XLSB كـ PPTX" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ XLSB بتنسيق PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xlsb-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB بتنسيق PPTX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSB كـ PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSB كملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
+يعد حفظ تنسيقات الملفات من XLSB بتنسيق PPTX مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLSB إلى PPTX بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSB كملفات PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات PPTX مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ XLSB بتنسيق PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSB بتنسيق PPTX" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,14 +55,14 @@ url: /ar/swift/saveas/xlsb-to-pptx/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ XLSB كـ PPTX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

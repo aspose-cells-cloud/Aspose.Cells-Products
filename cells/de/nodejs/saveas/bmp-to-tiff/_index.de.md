@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie BMP als TIFF API für NodeJS
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei im Format BMP als Datei im Format TIFF zu speichern.
-url: /de/nodejs/saveas/bmp-to-tiff/
+title:  Speichern Sie BMP als TIFF mit NodeJS
+description:  Verwendung des Aspose.Cells Cloud SDK für NodeJS zum Speichern der Datei im Format BMP als Datei im Format TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, um BMP als TIFF zu speichern" h2="NodeJS-Bibliothek zum Speichern von BMP als TIFF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um BMP als TIFF und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/bmp-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie BMP als TIFF" h2="NodeJS-Bibliothek zum Speichern von BMP als TIFF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um BMP als TIFF und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/bmp-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine BMP-Datei als TIFF in NodeJS" >}}
@@ -13,7 +12,7 @@ url: /de/nodejs/saveas/bmp-to-tiff/
 Das Speichern von Dateiformaten von BMP als TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu TIFF werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um BMP als TIFF-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von BMP im Format TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel zum Speichern von BMP als TIFF unter Verwendung von REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten von BMP als TIFF ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um BMP als TIFF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in anderen Formaten zu speichern, BMP als TIFF" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

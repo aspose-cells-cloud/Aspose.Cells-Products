@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera SHAPE till TIFF från kalkylark med C# API
+title:  Exportera SHAPE till TIFF från Excel med Cells Cloud SDK för C#
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/net/export/shape-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att exportera SHAPE till TIFF fil" h2="C#-bibliotek för att exportera SHAPE till TIFF-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i Net. Detta är en professionell lösning för att exportera SHAPE till TIFF filformat från kalkylblad online med C#." urlsection="export/shape-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera SHAPE till TIFF från Excel" h2="C# bibliotek för att exportera SHAPE till TIFF fil" p="Använd Export API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Net. Detta är en professionell lösning för att exportera SHAPE till TIFF filformat från kalkylblad online med C#." urlsection="export/shape-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera SHAPE-objekt till TIFF-formatfil i C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera SHAPE-objekt till TIFF filformat med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera SHAPE-objekt till TIFF-fil från kalkylblad är en komplex uppgift. Exportera SHAPE till TIFF formatövergångar utförs av vår C# SDK samtidigt som källarket SHAPEs huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att exportera SHAPE-objekt till filer i TIFF-format online. Denna Cloud SDK ger C#-utvecklare kraftfull funktionalitet och perfekt TIFF-utdata.
+Exportera SHAPE-objekt till filen TIFF från filen Excel är en komplex uppgift. Exportera SHAPE till TIFF formatövergångar utförs av vår C# SDK samtidigt som källformatet SHAPEs huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att exportera SHAPE-objekt till filer i TIFF-format online. Denna Cloud SDK ger C#-utvecklare kraftfull funktionalitet och perfekt TIFF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att exportera SHAPE till TIFF-format från kalkylark" gistPath="" %}}
@@ -44,10 +43,10 @@ Exportera SHAPE-objekt till TIFF-fil från kalkylblad är en komplex uppgift. Ex
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att exportera SHAPE till TIFF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring PostExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att exportera objekt från Excel SHAPE till TIFF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer NUMBERS sous WMF API pour Ruby
-description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format NUMBERS en tant que fichier au format WMF.
-url: /fr/ruby/saveas/numbers-to-wmf/
+title:  Enregistrez NUMBERS au format WMF en utilisant Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format NUMBERS au format WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour enregistrer les NUMÉROS au format WMF" h2="Bibliothèque Ruby pour enregistrer NUMBERS au format WMF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format WMF et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/numbers-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer les NUMÉROS au format WMF" h2="Bibliothèque Ruby pour enregistrer des NUMBERS au format WMF" p="Utilisez SaveAs API sur Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format WMF et autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/numbers-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier NUMBERS au format WMF dans Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de NUMBERS au format WMF est une tâche complexe. Toutes les transitions de format NUMBERS vers WMF sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer des NUMÉROS sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie WMF parfaite.
+Enregistrer les formats de fichiers de NUMBERS au format WMF est une tâche complexe. Toutes les transitions du format NUMBERS vers WMF sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer des NUMBERS sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie WMF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour enregistrer NUMBERS au format WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Ruby pour enregistrer des NUMBERS au format WMF à l\'aide de REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,15 +32,15 @@ L'enregistrement de formats de fichiers à partir de NUMBERS au format WMF est u
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Ruby API pour enregistrer des NUMÉROS au format WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour enregistrer les fichiers Excel sous d\'autres formats NUMBERS comme WMF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_workbook_save_as` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

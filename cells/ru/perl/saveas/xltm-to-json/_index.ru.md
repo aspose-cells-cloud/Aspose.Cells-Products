@@ -1,19 +1,18 @@
 ﻿---
-title: Сохраните XLTM как JSON API для Perl.
-description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLTM в виде файла формата JSON.
-url: /ru/perl/saveas/xltm-to-json/
+title: Сохраните XLTM как JSON, используя Perl.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLTM в формате JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить XLTM как JSON" h2="Perl библиотека для сохранения XLTM как JSON" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения XLTM как JSON и других форматов документов в Интернете с использованием Perl." urlsection="saveas/xltm-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLTM как JSON" h2="Perl библиотека для сохранения XLTM в формате JSON" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения XLTM в формате JSON и других форматов документов в Интернете с помощью Perl." urlsection="saveas/xltm-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как JSON в Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM в формате JSON по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде JSON — сложная задача. Все переходы XLTM в формат JSON выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Perl — это профессиональное решение для сохранения XLTM в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Сохранение форматов файлов из XLTM в формате JSON — сложная задача. Все переходы формата XLTM в JSON выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы XLTM. Наша библиотека Perl — это профессиональное решение для сохранения XLTM в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XLTM в формате JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения XLTM в формате JSON с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/xltm-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для сохранения XLTM в формате JSON" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl, чтобы сохранять файлы Excel в других форматах XLTM как JSON." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

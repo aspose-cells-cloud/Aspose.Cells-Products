@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS till JPG Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLS-formatfil till JPG-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLS-formatfil till JPG-formatfil.
 url: /sv/swift/conversion/xls-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

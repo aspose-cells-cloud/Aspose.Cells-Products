@@ -1,14 +1,13 @@
 ﻿---
-title: 使用 PHP 设置背景
-description: Aspose.Cells Cloud REST API支持使用PHP为Excel文件设置背景。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/php/background/
+title: 使用 PHP 为 Excel 文件设置背景
+description: Aspose.Cells Cloud REST API支持使用PHP为Excel文件设置背景，并提供多种编程语言的SDK。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 PHP 设置背景" h2="Aspose.Cells Cloud SDK支持Excel文件中清晰的内容、样式、图表、表格、背景等。" p="Aspose.Cells Cloud REST API支持使用PHP为Excel文件设置背景。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 PHP 为 Excel 文件设置背景" h2="Aspose.Cells Cloud SDK支持在Excel文件中设置背景。" p="Aspose.Cells Cloud REST API支持使用PHP为Excel文件设置背景，并提供多种编程语言的SDK。" urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="使用 PHP 扩展链接设置背景" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 PHP 扩展链接为 Excel 文件设置背景" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

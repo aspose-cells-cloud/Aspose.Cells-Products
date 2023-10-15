@@ -1,10 +1,10 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT aus der Tabelle mit Swift API in JPG
+title: Exportieren Sie LISTOBJECT aus der Tabelle mit Swift API in JPG
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/listobject-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von LISTOBJECT in eine JPG-Datei" h2="Swift-Bibliothek zum Exportieren von LISTOBJECT in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von LISTOBJECT in eine JPG-Datei aus einer Tabellenkalkulation mit Swift." urlsection="export/listobject-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von LISTOBJECT in eine JPG-Datei" h2="Swift-Bibliothek zum Exportieren von LISTOBJECT in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine JPG-Formatdatei aus einer Tabellenkalkulation online mit Swift." urlsection="export/listobject-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in Swift in eine JPG-Formatdatei" >}}

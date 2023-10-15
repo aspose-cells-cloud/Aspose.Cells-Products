@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLTM в SXC API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата XLTM в файл формата SXC.
-url: /ru/php/conversion/xltm-to-sxc/
+title:  Преобразуйте XLTM в SXC, используя PHP.
+description: Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата XLTM в файл формата SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования XLTM в SXC" h2="PHP библиотека для преобразования XLTM в SXC" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для преобразования XLTM в SXC и другие форматы документов онлайн с использованием PHP." urlsection="conversion/xltm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLTM в SXC" h2="PHP библиотека для конвертации XLTM в SXC" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертирования XLTM в SXC и другие форматы документов с использованием номера PHP." urlsection="conversion/xltm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в SXC по номеру PHP." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XLTM в SXC с помощью Cloud SDK Cells для PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в SXC — сложная задача. Все переходы между форматами XLTM и SXC выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов XLTM в SXC. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из XLTM в SXC может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования формата XLTM в SXC, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека PHP предоставляет профессиональное решение для онлайн-конвертирования файлов XLTM в SXC. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный вывод SXC.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования XLTM в формат SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для преобразования XLTM в SXC с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ru/php/conversion/xltm-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования XLTM в SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для преобразования файлов Excel в другие форматы XLTM в SXC." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

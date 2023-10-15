@@ -1,6 +1,6 @@
 ﻿---
-title:  حوّل من Excel FODS إلى CSV via Ruby
-description: إنشاء ملفات Excel أو تحريرها أو تحويلها باستخدام REST API & Open Source Ruby SDK
+title:  تحويل من Excel FODS إلى CSV via روبي
+description: إنشاء أو تحرير أو تحويل ملفات Excel باستخدام REST API وRuby SDK مفتوح المصدر
 url: /ar/ruby/conversion/fods-to-csv/
 family: cells
 platformtag: ruby
@@ -11,24 +11,24 @@ platform: Ruby
 otherformats: XML XLT XPS XLTM DIF XLSB TSV ODS SVG PDF XLSX MHTML XLSM TIFF MD CSV 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى CSV باستخدام Ruby" h2="قراءة وتحرير وتصدير بيانات Excel إلى تنسيقات أخرى باستخدام Cloud SDK مفتوح المصدر لـ Ruby" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى CSV مع روبي" h2="قراءة وتحرير وتصدير بيانات Excel إلى تنسيقات أخرى باستخدام Cloud SDK مفتوح المصدر لـ Ruby" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="تحويل FODS إلى CSV مع روبي" %}}
-1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية
-1. قم بتهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
-1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي باستخدام طريقة ```CellsApi.upload_file```
-1. اتصل بالطريقة ```CellsApi.cells_save_as_post_document_save_as``` للحصول على ملف CSV الناتج
+{{% blocks/products/pf/agp/feature-section-col title="FODS لتحويل CSV مع روبي" %}}
+1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا
+1. تهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
+1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي بطريقة ```CellsApi.upload_file```
+1. اتصل بطريقة ```CellsApi.cells_save_as_post_document_save_as``` للحصول على ملف CSV الناتج
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel API و Ruby SDK" %}}
- احصل على Excel Cloud SDK للحصول على كود مصدر Ruby من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات تنزيل بديلة.
+{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel API وRuby SDK" %}}
+احصل على Excel Cloud SDK لكود مصدر Ruby من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
 
- ألقِ نظرة أيضًا على Swagger المستندة إلى[API المرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel راحة API](https://products.aspose.cloud/cells/curl/).
+ قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="كود روبي لتحويل FODS إلى CSV" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="رمز روبي لتحويل FODS إلى CSV" gistPath="" %}}
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
 

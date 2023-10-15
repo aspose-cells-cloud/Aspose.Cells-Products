@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLSX som ODS API för Ruby
+title:  Spara XLSX som ODS med Ruby
 description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara XLSX-formatfil som ODS-formatfil.
-url: /sv/ruby/saveas/xlsx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att spara XLSX som ODS" h2="Ruby-bibliotek för att spara XLSX som ODS" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Ruby. Detta är en professionell lösning för att spara XLSX som ODS och andra dokumentformat online med Ruby." urlsection="saveas/xlsx-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSX som ODS" h2="Ruby-bibliotek för att spara XLSX som ODS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby. Detta är en professionell lösning för att spara XLSX som ODS och andra dokumentformat online med Ruby." urlsection="saveas/xlsx-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSX-fil som ODS i Ruby" >}}
@@ -13,7 +12,7 @@ url: /sv/ruby/saveas/xlsx-to-ods/
 Att spara filformat från XLSX som ODS är en komplex uppgift. Alla XLSX till ODS format övergångar utförs av vår Ruby SDK samtidigt som käll XLSX kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att spara XLSX som ODS-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt ODS-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att spara XLSX som ODS-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Exempel för att spara XLSX som ODS med REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Att spara filformat från XLSX som ODS är en komplex uppgift. Alla XLSX till OD
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att spara XLSX som ODS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att spara Excel filer som andra format XLSX som ODS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,27 +1,26 @@
 ﻿---
-title: Borre las filas duplicadas en el libro de trabajo local con PHP en la nube
-description:  API y SDK en la nube para borrar filas duplicadas en Microsoft Excel y OpenOffice Calc con PHP. Borrar filas duplicadas en hojas de cálculo locales con el SDK Cells Cloud API para PHP
-url: /es/php/clear/duplicate-rows/
+title:  Elimine filas duplicadas del libro de trabajo local usando PHP dentro del entorno de nube Aspose Cells.
+description:  API y SDK de nube para borrar filas duplicadas en Microsoft Excel y OpenOffice Calc usando PHP. Borre filas duplicadas en hojas de cálculo locales con el SDK de nube Cells para PHP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="PHP Borrar para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Descanso transparente API para borrar las filas duplicadas en el local Microsoft Excel y OpenOffice Calc CALC Flojos de trabajo de la hoja de cálculo en PHP. Esta solución profesional se despeja de las filas Duplicar en el local Microsoft Excel y el calcicio OpenOffice Calc." urlsection="clear/Duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Eliminación de filas duplicadas en hojas de cálculo locales Microsoft Excel y OpenOffice Calc." h2="Biblioteca PHP para eliminar filas duplicadas de hojas de cálculo locales Microsoft Excel y OpenOffice Calc." p="Utilice Cells Clear REST API para eliminar filas duplicadas de las hojas de cálculo locales Microsoft Excel y OpenOffice Calc dentro de los flujos de trabajo PHP. Esta solución profesional borra de manera eficiente filas duplicadas de hojas de cálculo locales Microsoft Excel y OpenOffice Calc usando PHP." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - PHP REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borre filas duplicadas en hojas de cálculo locales Microsoft Excel y OpenOffice Calc utilizando Cells Cloud SDK para PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc es una tarea compleja. La eliminación de filas duplicadas en las transiciones de hojas de cálculo locales Microsoft Excel y OpenOffice Calc se realiza mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca PHP es una solución profesional para borrar filas duplicadas en Microsoft Excel local y hoja de cálculo OpenOffice Calc en línea. Este SDK de la nube brinda a los desarrolladores PHP una funcionalidad poderosa y un API perfecto.
+Borrar filas duplicadas de las hojas de cálculo locales Microsoft Excel y OpenOffice Calc es complejo, y nuestro Cells Cloud SDK para PHP maneja esta transición preservando el contenido estructural y lógico de la hoja de cálculo de origen. Nuestra biblioteca PHP es una solución profesional para borrar eficientemente filas duplicadas en línea en hojas de cálculo locales Microsoft Excel y OpenOffice Calc. Este SDK de nube brinda a los desarrolladores de PHP una funcionalidad sólida y un potente API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP código para borrar filas duplicadas en hojas de cálculo locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/84283c8ba766ed815f47e6dfb0891152.js?file=Example-Clear-DuplicateRows.php" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Código PHP para borrar filas duplicadas en hojas de cálculo locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/84283c8ba766ed815f47e6dfb0891152.js?file=Example-Clear-DuplicateRows.php" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Cómo usar PHP API para borrar filas duplicadas" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método postClearObjects para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para borrar filas duplicadas" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postClearObjects` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

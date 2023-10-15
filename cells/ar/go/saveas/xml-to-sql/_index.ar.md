@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XML كـ SQL API من أجل Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق XML كملف بتنسيق SQL.
-url: /ar/go/saveas/xml-to-sql/
+title:  احفظ XML بتنسيق SQL باستخدام Go
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق XML كملف تنسيق SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لحفظ XML كـ SQL" h2="انتقل إلى المكتبة لحفظ XML كـ SQL" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Go. هذا حل احترافي لحفظ XML بتنسيق SQL وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="saveas/xml-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XML بتنسيق SQL" h2="انتقل إلى المكتبة لحفظ XML بتنسيق SQL" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ XML بتنسيق SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/xml-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML كملف SQL في Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML بتنسيق SQL في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XML كـ SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى SQL بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ XML كملفات SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Go وظائف قوية وإخراج SQL مثالي.
+يعد حفظ تنسيقات الملفات من XML بتنسيق SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى SQL بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ XML كملفات SQL عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية ومخرجات SQL مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لحفظ XML بتنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="انتقل إلى مثال التعليمات البرمجية لحفظ XML كـ SQL باستخدام REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ url: /ar/go/saveas/xml-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لحفظ XML كـ SQL" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لحفظ ملفات Excel بتنسيقات XML أخرى مثل SQL" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+<li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

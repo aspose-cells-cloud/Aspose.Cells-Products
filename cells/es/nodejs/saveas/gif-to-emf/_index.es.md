@@ -1,19 +1,18 @@
 ﻿---
-title:  Guardar GIF como EMF API para NodeJS
-description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato GIF como archivo de formato EMF.
-url: /es/nodejs/saveas/gif-to-emf/
+title:  Guarde GIF como EMF usando NodeJS
+description:  Utilizando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo en formato GIF como archivo en formato EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para guardar GIF como EMF" h2="Biblioteca NodeJS para guardar GIF como EMF" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para guardar GIF como EMF y otros formatos de documentos en línea usando NodeJS." urlsection="saveas/gif-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar GIF como EMF" h2="Biblioteca NodeJS para guardar GIF como EMF" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para guardar GIF como EMF y otros formatos de documentos en línea usando NodeJS." urlsection="saveas/gif-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo GIF como EMF en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde GIF como EMF es una tarea compleja. Todas las transiciones de formato GIF a EMF se realizan mediante nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar GIF como archivos EMF en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y un resultado EMF perfecto.
+Guardar formatos de archivo GIF como EMF es una tarea compleja. Todas las transiciones de formato GIF a EMF las realiza nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar GIF como archivos EMF en línea. Este SDK de nube ofrece a los desarrolladores de NodeJS una potente funcionalidad y un resultado EMF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para guardar GIF como formato EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código NodeJS para guardar GIF como EMF usando REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ Guardar formatos de archivo desde GIF como EMF es una tarea compleja. Todas las 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el Nodo API para guardar GIF como EMF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Cells Cloud SDK para Node para guardar archivos Excel como otros formatos GIF como EMF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>nodo v6.17.1 o posterior</li>
+<li>nodo v6.17.1 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

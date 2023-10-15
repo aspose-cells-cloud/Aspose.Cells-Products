@@ -1,19 +1,19 @@
 ﻿---
-title:  احفظ ODS باسم JSON API من أجل Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق ODS كملف بتنسيق JSON.
+title:  احفظ ODS كـ JSON API لـ Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق ODS كملف تنسيق JSON.
 url: /ar/swift/saveas/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ ODS كملف JSON" h2="مكتبة سريعة لحفظ ODS كـ JSON" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ ODS بتنسيق JSON وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/ods-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ المواد المستنفدة للأوزون بصيغة JSON" h2="مكتبة سويفت لحفظ المواد المستنفدة للأوزون بصيغة JSON" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/ods-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بتنسيق JSON في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من ODS مثل JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى JSON بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ ODS كملفات JSON عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج JSON مثالي.
+يعد حفظ تنسيقات الملفات من ODS بتنسيق JSON مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق ODS إلى JSON بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون كملفات JSON عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات JSON مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ ODS بتنسيق JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ ODS بتنسيق JSON" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,15 +54,15 @@ url: /ar/swift/saveas/ods-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ ODS كـ JSON" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ المواد المستنفدة للأوزون بتنسيق JSON" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

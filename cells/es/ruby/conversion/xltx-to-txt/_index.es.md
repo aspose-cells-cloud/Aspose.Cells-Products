@@ -1,19 +1,18 @@
 ﻿---
-title:  Convertir XLTX a TXT API para Ruby
-description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato XLTX a un archivo de formato TXT.
-url: /es/ruby/conversion/xltx-to-txt/
+title:  Convertir XLTX a TXT usando Ruby
+description:  Utilizar el SDK de Cloud Aspose.Cells para Ruby para convertir un archivo de formato XLTX a un archivo de formato TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para convertir XLTX a TXT" h2="Biblioteca Ruby para convertir XLTX a TXT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para convertir XLTX a TXT y otros formatos de documentos en línea usando Ruby." urlsection="conversion/xltx-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLTX a TXT" h2="Biblioteca Ruby para convertir XLTX a TXT" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Ruby. Esta es una solución profesional para convertir XLTX a TXT y otros formatos de documentos en línea usando Ruby." urlsection="conversion/xltx-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLTX a TXT en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLTX a TXT usando Cells Cloud SDK para Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLTX a TXT es una tarea compleja. Todas las transiciones de formato XLTX a TXT se realizan mediante nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos XLTX a TXT en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida TXT perfecta.
+Convertir formatos de archivo de XLTX a TXT puede ser una tarea compleja. Nuestro Ruby SDK maneja todas las conversiones de formato XLTX a TXT mientras preserva el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Ruby proporciona una solución profesional para convertir archivos XLTX a TXT en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una potente funcionalidad y garantiza una salida TXT de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir formato XLTX a TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Ruby para convertir XLTX a TXT usando Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ Convertir formatos de archivo de XLTX a TXT es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Ruby API para convertir XLTX a TXT" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_libro de trabajo_poner_convertir_método del libro de trabajo para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Ruby para convertir archivos Excel a otros formatos XLTX a TXT" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

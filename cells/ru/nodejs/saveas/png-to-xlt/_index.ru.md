@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить PNG как XLT API для NodeJS
-description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата PNG в виде файла формата XLT.
-url: /ru/nodejs/saveas/png-to-xlt/
+title: Сохраните PNG как XLT, используя NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата PNG как файла формата XLT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить PNG как XLT" h2="Библиотека NodeJS для сохранения PNG как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения PNG в формате XLT и других форматах документов в Интернете с использованием NodeJS." urlsection="saveas/png-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить PNG как XLT" h2="Библиотека NodeJS для сохранения PNG как XLT" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения PNG в формате XLT и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/png-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как XLT в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG как XLT — сложная задача. Все переходы формата PNG в формат XLT выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека NodeJS — это профессиональное решение для сохранения PNG в виде файлов XLT в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLT.
+Сохранение файлов формата PNG в формате XLT — сложная задача. Все переходы формата PNG в формат XLT выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы PNG. Наша библиотека NodeJS — это профессиональное решение для сохранения PNG в виде файлов XLT в Интернете. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод XLT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения PNG в формате XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения PNG как XLT с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/png-to-xlt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать узел API для сохранения PNG как XLT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах PNG как XLT" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

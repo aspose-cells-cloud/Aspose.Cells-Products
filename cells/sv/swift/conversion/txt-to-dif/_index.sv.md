@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT till DIF Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i TXT-format till fil i DIF-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i TXT-format till fil i DIF-format.
 url: /sv/swift/conversion/txt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

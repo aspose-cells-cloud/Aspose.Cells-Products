@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить EMF как FODS API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата EMF в виде файла формата FODS.
-url: /ru/java/saveas/emf-to-fods/
+title:  Сохраните EMF как FODS, используя Java.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата EMF как файла формата FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить EMF как FODS" h2="Библиотека Java для сохранения EMF как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения EMF в виде FODS и других форматов документов в Интернете с использованием Java." urlsection="saveas/emf-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить EMF как FODS" h2="Java библиотека для сохранения EMF как FODS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения EMF в формате FODS и других форматов документов в Интернете с помощью Java." urlsection="saveas/emf-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как FODS в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как FODS — сложная задача. Все переходы формата EMF в формат FODS выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения EMF в виде файлов FODS онлайн. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и отличные результаты FODS.
+Сохранение файлов формата EMF как FODS — сложная задача. Все переходы формата EMF в формат FODS выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения EMF в виде файлов FODS в Интернете. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и отличный результат FODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения EMF в формате FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения EMF как FODS с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/emf-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API, чтобы сохранить EMF как FODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах EMF как FODS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

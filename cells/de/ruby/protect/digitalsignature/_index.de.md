@@ -1,7 +1,6 @@
 ﻿---
 title:  Digitale Signatur von Cloud-Tabellen in der Cloud
 description:  Cloud-APIs und SDKs für Microsoft Excel und digitale OpenOffice Calc-Signatur. Digitale Signatur von Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/ruby/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zur digitalen Signatur-Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort und digitaler Signaturdatei" h2="Ruby-Bibliothek zur digitalen Signatur-Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort und digitaler Signaturdatei" p="Verwenden Sie Cells Digital Signature REST API für die Digital Signature Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort und Datei-Workflows für digitale Signaturen in Ruby. Diese professionelle Lösung für digitale Signaturen Cloud Microsoft Excel und OpenOffice Calc-Tabelle online mit Passwörtern und digitaler Signaturdatei mit Ruby." urlsection="protect/Digital-signature/" >}}
@@ -18,7 +17,7 @@ Die digitale Signatur einer Cloud-Tabelle mit einem Passwort und einer digitalen
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Ruby API zur digitalen Signatur" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Ruby, um eine Excel-Datei digital zu signieren." >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufzellen_Arbeitsmappe_Post_Digital_Signaturmethode, um den resultierenden Stream zu erhalten</li>

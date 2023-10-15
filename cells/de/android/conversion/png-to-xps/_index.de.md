@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG in XPS Konvertieren Sie API für Android
-description: Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im Format PNG in eine Datei im Format XPS zu konvertieren.
-url: /de/android/conversion/png-to-xps/
+title:  Konvertieren Sie PNG mit Android in XPS
+description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im Format PNG in eine Datei im Format XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von PNG in XPS" h2="Android-Bibliothek zum Konvertieren von PNG in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in XPS und anderen Dokumentformaten mit Android." urlsection="conversion/png-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie PNG in XPS" h2="Android-Bibliothek zum Konvertieren von PNG in XPS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in XPS und anderen Dokumentformaten mit Android." urlsection="conversion/png-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in XPS in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie PNG in XPS mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in XPS ist eine komplexe Aufgabe. Alle Formatübergänge von PNG zu XPS werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von PNG- in XPS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte XPS-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in XPS kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle Formatkonvertierungen von PNG in XPS und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG- in XPS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine qualitativ hochwertige XPS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Konvertieren von PNG in das Format XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel für die Konvertierung von PNG in XPS mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Das Konvertieren von Dateiformaten von PNG in XPS ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um PNG in XPS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android zum Konvertieren von Excel-Dateien in andere Formate PNG bis XPS" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

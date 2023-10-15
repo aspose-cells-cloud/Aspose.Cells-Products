@@ -1,19 +1,18 @@
 ﻿---
-title:  Conversione da CSV a ODS API for Java
-description: Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato CSV in un file in formato ODS.
-url: /it/java/conversion/csv-to-ods/
+title:  Converti CSV in ODS utilizzando Java
+description:  Utilizzando Aspose.Cells Cloud SDK for Java per convertire un file in formato CSV in un file in formato ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per convertire CSV in ODS" h2="Java libreria per convertire CSV in ODS" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Java. Questa è una soluzione professionale per convertire CSV in ODS e altri formati di documenti online utilizzando Java." urlsection="conversion/csv-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti CSV in ODS" h2="Java libreria per convertire CSV in ODS" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Java. Questa è una soluzione professionale per convertire CSV in ODS e altri formati di documenti online utilizzando Java." urlsection="conversion/csv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file CSV in ODS in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti CSV in ODS utilizzando Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da CSV a ODS è un'attività complessa. Tutte le transizioni di formato da CSV a ODS vengono eseguite dal nostro SDK Java mantenendo il principale contenuto strutturale e logico del foglio di calcolo CSV di origine. La nostra libreria Java è una soluzione professionale per convertire file CSV in ODS online. Questo Cloud SDK offre agli sviluppatori Java potenti funzionalità e un output ODS perfetto.
+La conversione dei formati di file da CSV a ODS può essere un compito complesso. Il nostro SDK Java gestisce tutte le conversioni dal formato CSV a ODS preservando il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Java fornisce una soluzione professionale per convertire online file CSV in ODS. Questo Cloud SDK offre agli sviluppatori Java potenti funzionalità e garantisce output ODS di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Java utilizzando REST API per convertire CSV in formato ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Esempio di codice per convertire CSV in ODS utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,16 +46,16 @@ La conversione dei formati di file da CSV a ODS è un'attività complessa. Tutte
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Java API per convertire CSV in ODS" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Java per convertire i file Excel in altri formati CSV in ODS" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `putConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Maven 2.2.0 o più recente</li>
-<li>Java(TM) SE Ambiente di runtime</li>
+<li>Maven 2.2.0 o successiva</li>
+<li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

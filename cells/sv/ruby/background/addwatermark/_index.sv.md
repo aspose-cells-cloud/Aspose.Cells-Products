@@ -1,7 +1,6 @@
 ﻿---
 title:  Lägg till vattenstämpel för lokal arbetsbok med Ruby in Cloud
 description:  Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc med Ruby. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API SDK för Ruby.
-url: /sv/ruby/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby-bibliotek för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Watermark REST API för att lägga till vattenstämpel för lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Ruby. Denna professionella lösning lägger till vattenstämpel för Microsoft Excel och OpenOffice Calc-kalkylblad online med Ruby." urlsection="background/Add-watermark/" >}}
@@ -18,7 +17,7 @@ Att lägga till vattenstämpel för ett lokalt kalkylblad med Ruby är en komple
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att lägga till vattenstämpel" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att lägga till en vattenstämpel till en Excel-fil." >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Anrop post_watermark-metoden för att få den resulterande strömmen</li>

@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV zu XLTM Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von TSV-Formatdateien in XLTM-Formatdateien.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von TSV-Formatdateien in XLTM-Formatdateien.
 url: /de/swift/conversion/tsv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

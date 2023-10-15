@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование JSON в WMF API для Python
-description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата JSON в файл формата WMF.
-url: /ru/python/conversion/json-to-wmf/
+title:  Конвертируйте JSON в WMF, используя Python.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата JSON в файл формата WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования JSON в WMF" h2="Python библиотека для преобразования JSON в WMF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации JSON в WMF и другие форматы документов с использованием Python." urlsection="conversion/json-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать JSON в WMF" h2="Python библиотека для конвертации JSON в WMF" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертирования JSON в WMF и другие форматы документов с использованием номера Python." urlsection="conversion/json-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в WMF в Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование JSON в WMF с помощью Cloud SDK Cells для Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в WMF — сложная задача. Все переходы между форматами JSON и WMF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов JSON в WMF. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из JSON в WMF может оказаться сложной задачей. Наш SDK Python обрабатывает все преобразования форматов JSON в WMF, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Python предоставляет профессиональное решение для онлайн-конвертирования файлов JSON в WMF. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и обеспечивает высококачественный вывод WMF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования JSON в формат WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для преобразования JSON в WMF с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ru/python/conversion/json-to-wmf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для преобразования JSON в WMF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python для преобразования файлов Excel в другие форматы JSON в WMF." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

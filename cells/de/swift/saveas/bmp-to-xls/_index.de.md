@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie BMP als XLS API für Swift
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im BMP-Format als XLS-Formatdatei zu speichern.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im BMP-Format als XLS-Formatdatei zu speichern.
 url: /de/swift/saveas/bmp-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

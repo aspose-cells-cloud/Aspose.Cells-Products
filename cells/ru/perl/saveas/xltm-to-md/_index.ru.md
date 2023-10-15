@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните XLTM как MD API для Perl.
+title: Сохраните XLTM как MD, используя Perl.
 description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLTM как файла формата MD.
-url: /ru/perl/saveas/xltm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для сохранения XLTM как MD" h2="Perl библиотека для сохранения XLTM как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения XLTM как MD и других форматов документов в Интернете с использованием Perl." urlsection="saveas/xltm-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLTM как MD" h2="Perl библиотека для сохранения XLTM как MD" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения XLTM в формате MD и других форматов документов в Интернете с помощью Perl." urlsection="saveas/xltm-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как MD в Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как MD по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде MD — сложная задача. Все переходы от формата XLTM к формату MD выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Perl — это профессиональное решение для сохранения XLTM в виде файлов MD в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод MD.
+Сохранение форматов файлов из XLTM в формате MD — сложная задача. Все переходы формата XLTM в MD выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Perl — это профессиональное решение для сохранения XLTM в виде файлов MD онлайн. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XLTM в формате MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения XLTM как MD с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ru/perl/saveas/xltm-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для сохранения XLTM как MD" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl для сохранения файлов Excel в других форматах XLTM как MD" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

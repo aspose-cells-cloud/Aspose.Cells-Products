@@ -1,16 +1,16 @@
 ﻿---
-title:  Enregistrez XLSM sous XLTM API pour Swift
+title:  Enregistrer XLSM sous XLTM API pour Swift
 description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format XLSM en tant que fichier au format XLTM.
 url: /fr/swift/saveas/xlsm-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLSM en XLTM" h2="Bibliothèque Swift pour enregistrer XLSM en XLTM" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM au format XLTM et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlsm-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLSM en tant que XLTM" h2="Bibliothèque Swift pour enregistrer XLSM en tant que XLTM" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM au format XLTM et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlsm-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSM en tant que XLTM dans Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSM au format XLTM dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de XLSM au format XLTM est une tâche complexe. Toutes les transitions de format XLSM vers XLTM sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers XLSM au format XLTM. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLTM parfaite.
+Enregistrer les formats de fichiers XLSM au format XLTM est une tâche complexe. Toutes les transitions du format XLSM vers XLTM sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer XLSM sous forme de fichiers XLTM en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLTM parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer XLSM au format XLTM" gistPath="" %}}
@@ -54,10 +54,10 @@ L'enregistrement des formats de fichiers de XLSM au format XLTM est une tâche c
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer XLSM en XLTM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer XLSM au format XLTM" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

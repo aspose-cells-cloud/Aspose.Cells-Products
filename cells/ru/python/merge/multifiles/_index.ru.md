@@ -1,27 +1,26 @@
 ﻿---
-title:  Объедините несколько файлов Excel в файл с номером Python.
-description:  Облачные API и SDK для объединения нескольких файлов Excel с Python
-url: /ru/python/merge/multi-files/
+title:  Объедините несколько файлов Excel в один, используя Python.
+description:  Облачные API и SDK для объединения нескольких файлов Excel с использованием Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для объединения нескольких файлов Excel в один файл." h2="Python библиотека для объединения нескольких Excel файлов в файл." p="Используйте Cells Merge REST API для объединения нескольких файлов Excel в файл в Python. Это профессиональное решение объединяет несколько файлов Excel в электронную таблицу Microsoft Excel или OpenOffice Calc с использованием Python." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK для Python для объединения нескольких файлов Excel в один файл." h2="Библиотека Python для объединения нескольких файлов Excel в один файл." p="Используйте Cells Cloud SDK для объединения нескольких файлов Excel в один файл Python. Это профессиональное решение позволяет объединить несколько файлов Excel в электронную таблицу Microsoft Excel или таблицу OpenOffice Calc с использованием Python." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Объединить несколько файлов Excel в файл — Python REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Объедините несколько файлов Excel в один с помощью Cells Cloud SDK для Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" %}}
 <br/>
-Объединение нескольких файлов Excel в один файл — сложная задача. Объединение нескольких файлов Excel в файловые переходы выполняется нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Python — это профессиональное решение для объединения нескольких файлов Excel в файл онлайн. Этот Cloud SDK предоставляет Python разработчикам мощную функциональность и идеальную API.
+Объединение нескольких файлов Excel в один может оказаться сложной задачей. Наш SDK Python обрабатывает этот процесс, обеспечивая сохранение основного структурного и логического содержимого исходных таблиц. Наша библиотека Python — это профессиональное решение для объединения нескольких файлов Excel в один онлайн. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и надежный API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для объединения нескольких файлов Excel в файл" gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=Example-PostMerge.py" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Python с использованием REST API для объединения нескольких файлов Excel в один файл." gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=Example-PostMerge.py" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для слияния" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод post_merge, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python API для слияния" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `post_merge` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

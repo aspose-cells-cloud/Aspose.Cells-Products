@@ -1,7 +1,6 @@
 ﻿---
 title:  Lägg till vattenstämpel för lokal arbetsbok med NodeJS i molnet
 description:  Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc med NodeJS. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API SDK för NodeJS.
-url: /sv/nodejs/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="NodeJS-bibliotek för att lägga till vattenstämpel för lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Watermark REST API för att lägga till vattenstämpel för lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i NodeJS. Denna professionella lösning lägger till vattenstämpel för Microsoft Excel och OpenOffice Calc-kalkylblad online med NodeJS." urlsection="background/Add-watermark/" >}}
@@ -18,7 +17,7 @@ Att lägga till vattenstämpel för ett lokalt kalkylblad med NodeJS är en komp
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att lägga till vattenstämpel" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Node för att lägga till en vattenstämpel till en Excel-fil." >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Ring postWatermark-metoden för att få den resulterande strömmen</li>

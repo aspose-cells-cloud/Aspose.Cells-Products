@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ JPG كـ EMF API لأجهزة الأندرويد
-description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق JPG كملف بتنسيق EMF.
-url: /ar/android/saveas/jpg-to-emf/
+title:  احفظ JPG كـ EMF باستخدام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق JPG كملف بتنسيق EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JPG كـ EMF" h2="مكتبة Android لحفظ JPG كـ EMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ JPG كـ EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/jpg-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ JPG كـ EMF" h2="مكتبة Android لحفظ JPG كـ EMF" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ JPG بتنسيق EMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/jpg-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بالشكل EMF في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG باسم EMF في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JPG كـ EMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى EMF بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات EMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج EMF مثالي.
+يعد حفظ تنسيقات الملفات من JPG بالرقم EMF مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق JPG إلى EMF بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG بتنسيق EMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراجًا مثاليًا EMF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ JPG بتنسيق EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لحفظ JPG كـ EMF باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ url: /ar/android/saveas/jpg-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ JPG كـ EMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى JPG مثل EMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

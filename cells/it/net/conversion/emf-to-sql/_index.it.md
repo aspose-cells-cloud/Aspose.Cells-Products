@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF in SQL Converti API per C#
-description: Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato EMF in un file in formato SQL.
-url: /it/net/conversion/emf-to-sql/
+title:  Converti EMF in SQL utilizzando C#
+description:  Utilizzando Aspose.Cells Cloud SDK per C# per convertire un file in formato EMF in un file in formato SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per convertire EMF in SQL" h2="C# libreria per convertire EMF in SQL" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Net. Questa è una soluzione professionale per convertire EMF in SQL e altri formati di documenti online utilizzando C#." urlsection="conversion/emf-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti EMF in SQL" h2="Libreria C# per convertire EMF in SQL" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Net. Questa è una soluzione professionale per convertire EMF in SQL e altri formati di documenti online utilizzando C#." urlsection="conversion/emf-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file EMF in SQL in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti EMF in SQL utilizzando Cells Cloud SDK per C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da EMF a SQL è un'attività complessa. Tutte le transizioni dal formato EMF al formato SQL vengono eseguite dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo EMF. La nostra libreria C# è una soluzione professionale per convertire online i file EMF in SQL. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e un output SQL perfetto.
+La conversione dei formati di file da EMF a SQL può essere un compito complesso. Il nostro SDK C# gestisce tutte le conversioni dal formato EMF al formato SQL preservando il contenuto strutturale e logico principale del foglio di calcolo sorgente EMF. La nostra libreria C# fornisce una soluzione professionale per convertire EMF in file SQL online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e garantisce output SQL di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in C# utilizzando REST API per convertire EMF in formato SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Esempio di codice per convertire EMF in SQL utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,15 +35,15 @@ La conversione dei formati di file da EMF a SQL è un'attività complessa. Tutte
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare C# API per convertire EMF in SQL" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo CellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Net per convertire i file Excel in altri formati EMF in SQL" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>NET Framework 4.5.2 o più recente</li>
+<li>NET Framework 4.5.2 o successiva</li>
 <li>Net Standard 2.0 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

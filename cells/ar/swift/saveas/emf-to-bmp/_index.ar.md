@@ -1,19 +1,19 @@
 ﻿---
-title:  احفظ EMF كـ BMP API من أجل Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق EMF كملف تنسيق BMP.
+title:  احفظ EMF كـ BMP API للسويفت
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق EMF كملف بتنسيق BMP.
 url: /ar/swift/saveas/emf-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ EMF كـ BMP" h2="مكتبة سريعة لحفظ EMF كـ BMP" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ EMF كـ BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/emf-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ EMF كـ BMP" h2="مكتبة سويفت لحفظ EMF كـ BMP" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ EMF كـ BMP وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/emf-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف EMF بالشكل BMP في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف EMF كـ BMP في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من EMF كـ BMP مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى BMP بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ EMF كملفات BMP عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج BMP مثالي.
+يعد حفظ تنسيقات الملفات من EMF إلى BMP مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من EMF إلى BMP بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ EMF كملفات BMP عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراجًا مثاليًا BMP.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ EMF بتنسيق BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ EMF بتنسيق BMP" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,15 +54,15 @@ url: /ar/swift/saveas/emf-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ EMF كـ BMP" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام سويفت API لحفظ EMF كـ BMP" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

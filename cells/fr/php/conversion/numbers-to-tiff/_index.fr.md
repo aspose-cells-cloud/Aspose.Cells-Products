@@ -1,19 +1,18 @@
 ﻿---
-title: CHIFFRES en TIFF Convertir API en PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format NUMBERS en fichier au format TIFF.
-url: /fr/php/conversion/numbers-to-tiff/
+title:  Convertissez des NOMBRES en TIFF en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir un fichier au format NUMBERS en un fichier au format TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir les CHIFFRES en TIFF" h2="PHP bibliothèque pour convertir les NUMBERS en TIFF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en TIFF et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/numbers-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir des NOMBRES en TIFF" h2="Bibliothèque PHP pour convertir des NOMBRES en TIFF" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets PHP. Il s\'agit d\'une solution professionnelle pour convertir des NUMÉROS en TIFF et d\'autres formats de documents en ligne en utilisant PHP." urlsection="conversion/numbers-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier NUMBERS en TIFF en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez NUMBERS en TIFF à l\'aide du SDK Cloud Cells pour PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de NUMBERS en TIFF est une tâche complexe. Toutes les transitions de format NUMBERS vers TIFF sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque PHP est une solution professionnelle pour convertir des NUMBERS en fichiers TIFF en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie TIFF parfaite.
+La conversion des formats de fichiers de NUMBERS en TIFF peut être une tâche complexe. Notre SDK PHP gère toutes les conversions du format NUMBERS vers TIFF tout en préservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque PHP fournit une solution professionnelle pour convertir en ligne des NUMBERS en fichiers TIFF. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et garantit une sortie TIFF de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour convertir NUMBERS au format TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour convertir NUMBERS en TIFF à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ La conversion des formats de fichiers de NUMBERS en TIFF est une tâche complexe
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour convertir des CHIFFRES en TIFF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP pour convertir les fichiers Excel vers d\'autres formats NUMBERS en TIFF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkBook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

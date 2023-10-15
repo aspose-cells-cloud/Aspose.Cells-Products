@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل FODS إلى MD via .NET
-description: إنشاء ملفات Excel أو تحريرها أو تحويلها باستخدام Cloud API و Open Source .NET SDK
+description: إنشاء أو تحرير أو تحويل ملفات Excel باستخدام Cloud API و Open Source .NET SDK
 url: /ar/net/conversion/fods-to-md/
 family: cells
 platformtag: net
@@ -11,24 +11,24 @@ platform: .NET
 otherformats: CSV ODS XML XLTX TIFF DIF TXT XLSM XLTM MD HTML PDF XPS FODS MHTML SVG 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى MD في السحابة" h2="Excel & تحويل جدول بيانات OpenOffice باستخدام Cloud SDK مفتوح المصدر for .NET" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى MD في السحابة" h2="Excel وتحويل جداول بيانات OpenOffice باستخدام Cloud SDK مفتوح المصدر for .NET" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="تحويل FODS إلى MD في تطبيقات .NET" %}}
-1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية
-1. قم بتهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
-1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي باستخدام طريقة ```CellsApi.Upload```
-1. اتصل بالطريقة ```CellsApi.CellsSaveAsPostDocumentSaveAs``` للحصول على ملف MD الناتج
+1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا
+1. تهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
+1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي بطريقة ```CellsApi.Upload```
+1. اتصل بطريقة ```CellsApi.CellsSaveAsPostDocumentSaveAs``` للحصول على ملف MD الناتج
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ابدأ بـ Excel REST API" %}}
- احصل على كود المصدر Excel Cloud SDK for .NET من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات تنزيل بديلة.
+{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel ريست API" %}}
+ احصل على Excel Cloud SDK for .NET كود المصدر من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
 
- ألقِ نظرة أيضًا على Swagger المستندة إلى[API المرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel راحة API](https://products.aspose.cloud/cells/curl/).
+ قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# .NET كود لتحويل FODS إلى MD" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# .NET كود التحويل من FODS إلى MD" gistPath="" %}}
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
 CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);

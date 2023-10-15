@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie GIF als TIFF API für Python
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im GIF-Format als Datei im Format TIFF zu speichern.
-url: /de/python/saveas/gif-to-tiff/
+title:  Speichern Sie GIF unter TIFF mit Python
+description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Speichern der GIF-Formatdatei als TIFF-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um GIF als TIFF zu speichern" h2="Python-Bibliothek zum Speichern von GIF unter TIFF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um GIF als TIFF und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/gif-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF unter TIFF speichern" h2="Python-Bibliothek zum Speichern von GIF unter TIFF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um GIF als TIFF und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/gif-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei unter TIFF in Python" >}}
@@ -13,7 +12,7 @@ url: /de/python/saveas/gif-to-tiff/
 Das Speichern von GIF-Dateiformaten als TIFF ist eine komplexe Aufgabe. Alle GIF-Formatübergänge in das TIFF-Format werden von unserem Python-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um GIF als TIFF-Dateien online zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Speichern von GIF im TIFF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel zum Speichern von GIF als TIFF mit REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Das Speichern von GIF-Dateiformaten als TIFF ist eine komplexe Aufgabe. Alle GIF
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um GIF als TIFF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Excel-Dateien in anderen GIF-Formaten als TIFF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

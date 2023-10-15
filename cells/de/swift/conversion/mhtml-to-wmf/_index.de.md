@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML zu WMF Konvertieren API für Swift
+title: MHTML zu WMF Konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im MHTML-Format in eine Datei im WMF-Format.
 url: /de/swift/conversion/mhtml-to-wmf/
 ---

@@ -1,16 +1,16 @@
 ﻿---
-title:  SXC в XPS Конвертировать API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата SXC в файл формата XPS.
+title:  SXC в XPS Преобразовать API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата SXC в файл формата XPS.
 url: /ru/swift/conversion/sxc-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования SXC в XPS" h2="Библиотека Swift для преобразования SXC в XPS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования SXC в XPS и другие форматы документов онлайн с помощью Swift." urlsection="conversion/sxc-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования SXC в XPS" h2="Библиотека Swift для преобразования SXC в XPS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования SXC в XPS и другие форматы документов с помощью Swift." urlsection="conversion/sxc-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в XPS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в XPS — сложная задача. Все переходы формата SXC на XPS выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов SXC в XPS. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
+Конвертирование форматов файлов из SXC в XPS — сложная задача. Все переходы формата SXC в XPS выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации SXC в файлы XPS. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования SXC в формат XPS" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/sxc-to-xps/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования SXC в XPS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

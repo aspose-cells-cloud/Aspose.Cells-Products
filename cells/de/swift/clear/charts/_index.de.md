@@ -1,6 +1,6 @@
 ﻿---
 title:  Löschen Sie Diagramme in der lokalen Arbeitsmappe in der Cloud
-description:  Cloud-APIs und SDKs zum Löschen von Diagrammen unter Microsoft Excel und OpenOffice Calc. Klare Diagramme in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description: Cloud-APIs und SDKs zum Löschen von Diagrammen unter Microsoft Excel und OpenOffice Calc. Klare Diagramme in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

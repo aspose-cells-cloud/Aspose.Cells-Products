@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XLSM au format GIF API pour Python
-description:  Utilisation de Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLSM en tant que fichier au format GIF.
-url: /fr/python/saveas/xlsm-to-gif/
+title: Enregistrez XLSM au format GIF en utilisant Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XLSM au format GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer XLSM au format GIF" h2="Python bibliothèque pour enregistrer XLSM au format GIF" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM au format GIF et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/xlsm-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLSM au format GIF" h2="Bibliothèque Python pour enregistrer XLSM au format GIF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM au format GIF et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/xlsm-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSM au format GIF au Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSM au format GIF dans Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSM au format GIF est une tâche complexe. Toutes les transitions de format XLSM vers GIF sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Python est une solution professionnelle pour enregistrer en ligne XLSM sous forme de fichiers GIF. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie GIF parfaite.
+Enregistrer les formats de fichiers XLSM au format GIF est une tâche complexe. Toutes les transitions du format XLSM vers GIF sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Python est une solution professionnelle pour enregistrer XLSM sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie GIF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour enregistrer XLSM au format GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Exemple de code pour enregistrer XLSM au format GIF à l\'aide de REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ L'enregistrement de formats de fichiers à partir de XLSM au format GIF est une 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour enregistrer XLSM au format GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python pour enregistrer les fichiers Excel sous d\'autres formats XLSM au format GIF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_workbook_save_as` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

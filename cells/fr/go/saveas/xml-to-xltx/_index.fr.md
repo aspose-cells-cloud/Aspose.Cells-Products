@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XML sous XLTX API pour Go
-description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format XML en tant que fichier au format XLTX.
-url: /fr/go/saveas/xml-to-xltx/
+title:  Enregistrer XML au format XLTX à l'aide de Go
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format XML au format XLTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour enregistrer XML en XLTX" h2="Accédez à la bibliothèque pour enregistrer XML au format XLTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer du XML au format XLTX et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/xml-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XML au format XLTX" h2="Aller à la bibliothèque pour enregistrer XML au format XLTX" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer du XML au format XLTX et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/xml-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XML au format XLTX dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers XML au format XLTX est une tâche complexe. Toutes les transitions de format XML vers XLTX sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne des fichiers XML sous forme de fichiers XLTX. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTX parfaite.
+Enregistrer les formats de fichiers XML au format XLTX est une tâche complexe. Toutes les transitions du format XML vers XLTX sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Go est une solution professionnelle pour enregistrer du XML sous forme de fichiers XLTX en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTX parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer XML au format XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Exemple de code pour enregistrer XML au format XLTX à l\'aide de REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ L'enregistrement de formats de fichiers XML au format XLTX est une tâche comple
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Go API pour enregistrer XML au format XLTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Go pour enregistrer les fichiers Excel sous d\'autres formats XML au format XLTX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>go version go1.13.0 ou plus récente</li>
+<li>aller à la version go1.13.0 ou plus récente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

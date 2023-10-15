@@ -1,19 +1,18 @@
 ﻿---
-title:  JPG till GIF Konvertera API for Java
-description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera JPG-formatfil till GIF-formatfil.
-url: /sv/java/conversion/jpg-to-gif/
+title:  Konvertera JPG till GIF med Java
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera en fil i JPG-format till en fil i GIF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att konvertera JPG till GIF" h2="Java bibliotek för att konvertera JPG till GIF" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Java. Detta är en professionell lösning för att konvertera JPG till GIF och andra dokumentformat online med Java." urlsection="conversion/jpg-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera JPG till GIF" h2="Java bibliotek för att konvertera JPG till GIF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java projekt. Detta är en professionell lösning för att konvertera JPG till GIF och andra dokumentformat online med Java." urlsection="conversion/jpg-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en JPG-fil till GIF i Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera JPG till GIF med Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från JPG till GIF är en komplex uppgift. Alla JPG- till GIF-formatövergångar utförs av vår Java SDK samtidigt som käll-JPG-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att konvertera JPG- till GIF-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
+Att konvertera filformat från JPG till GIF kan vara en komplicerad uppgift. Vår Java SDK hanterar alla konverteringar från JPG till GIF-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för JPG bevaras. Vårt Java-bibliotek erbjuder en professionell lösning för att konvertera JPG- till GIF-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och säkerställer högkvalitativa GIF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att konvertera JPG till GIF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Kodexempel för att konvertera JPG till GIF med Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Att konvertera filformat från JPG till GIF är en komplex uppgift. Alla JPG- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera JPG till GIF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att konvertera Excel filer till andra format JPG till GIF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG in SQL Konvertieren Sie API für Python
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Python, um eine Datei im PNG-Format in eine SQL-Formatdatei zu konvertieren.
-url: /de/python/conversion/png-to-sql/
+title:  Konvertieren Sie PNG mit Python in SQL
+description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im PNG-Format in eine SQL-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um PNG in SQL zu konvertieren" h2="Python-Bibliothek zum Konvertieren von PNG in SQL" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Python in SQL und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie PNG in SQL" h2="Python-Bibliothek zum Konvertieren von PNG in SQL" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Python in SQL und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in SQL in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie PNG in SQL mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in SQL ist eine komplexe Aufgabe. Alle Übergänge vom PNG zum SQL-Format werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um PNG online in SQL-Dateien zu konvertieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in SQL kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle Konvertierungen von PNG in das SQL-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG in SQL-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige SQL-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von PNG in das SQL-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel für die Konvertierung von PNG in SQL mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Das Konvertieren von Dateiformaten von PNG in SQL ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um PNG in SQL zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python zum Konvertieren von Excel-Dateien in andere Formate PNG in SQL" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

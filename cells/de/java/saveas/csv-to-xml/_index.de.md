@@ -1,10 +1,9 @@
 ﻿---
-title:  CSV als XML speichern API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern von CSV-Formatdateien als XML-Formatdateien.
-url: /de/java/saveas/csv-to-xml/
+title:  Speichern Sie CSV als XML mit Java
+description:  Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern von CSV-Formatdateien als XML-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um CSV als XML zu speichern" h2="Java-Bibliothek zum Speichern von CSV als XML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um CSV als XML und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/csv-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="CSV als XML speichern" h2="Java Bibliothek zum Speichern von CSV als XML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um CSV als XML und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/csv-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine CSV-Datei als XML unter Java" >}}
@@ -13,7 +12,7 @@ url: /de/java/saveas/csv-to-xml/
 Das Speichern von Dateiformaten aus CSV als XML ist eine komplexe Aufgabe. Alle CSV-zu-XML-Formatübergänge werden von unserem SDK Java durchgeführt, während der strukturelle und logische Hauptinhalt der CSV-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um CSV als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von CSV im XML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel zum Speichern von CSV als XML mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus CSV als XML ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um CSV als XML zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Excel-Dateien in anderen Formaten, CSV und XML, zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

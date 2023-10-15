@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLT unter XPS API für Android
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Android, um die Datei im XLT-Format als Datei im Format XPS zu speichern.
-url: /de/android/saveas/xlt-to-xps/
+title:  Speichern Sie XLT unter Android unter XPS
+description: Verwendung des Aspose.Cells Cloud SDK für Android zum Speichern der XLT-Formatdatei als XPS-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, um XLT als XPS zu speichern" h2="Android-Bibliothek zum Speichern von XLT als XPS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLT als XPS und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlt-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLT unter XPS" h2="Android-Bibliothek zum Speichern von XLT als XPS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLT als XPS und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlt-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei unter Android als XPS" >}}
@@ -13,7 +12,7 @@ url: /de/android/saveas/xlt-to-xps/
 Das Speichern von Dateiformaten aus XLT als XPS ist eine komplexe Aufgabe. Alle XLT-Formatübergänge in das XPS-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLT-Dateien im Format XPS. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte XPS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von XLT im Format XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von XLT als XPS unter Verwendung von REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus XLT als XPS ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um XLT als XPS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in anderen XLT-Formaten als XPS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

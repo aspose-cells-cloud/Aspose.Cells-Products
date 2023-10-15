@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير PICTURE إلى JPG من جدول البيانات باستخدام Perl API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/perl/export/picture-to-jpg/
+title:  تصدير الصورة إلى JPG من Excel باستخدام Cells Cloud SDK لـ Perl
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتصدير الصورة إلى ملف JPG" h2="مكتبة Perl لتصدير PICTURE إلى ملف JPG" p="استخدم Cells Export REST API لتصدير مهام سير عمل الكائنات الداخلية لجدول البيانات في Perl. هذا حل احترافي لتصدير PICTURE إلى ملف بتنسيق JPG من جدول بيانات عبر الإنترنت باستخدام Perl." urlsection="export/picture-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير الصورة إلى JPG من Excel" h2="مكتبة Perl لتصدير الصورة إلى ملف JPG" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Perl. يعد هذا حلاً احترافيًا لتصدير ملف بتنسيق PICTURE إلى JPG من جدول البيانات عبر الإنترنت باستخدام Perl." urlsection="export/picture-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف بتنسيق JPG في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف بتنسيق JPG باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن PICTURE إلى ملف JPG من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير PICTURE إلى تنسيق JPG بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات PICTURE. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق JPG عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج JPG مثالي.
+يعد تصدير كائن PICTURE إلى ملف JPG من ملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير PICTURE إلى تنسيق JPG بواسطة Perl SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق JPG عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Perl وظائف قوية ومخرجات JPG مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتصدير PICTURE إلى تنسيق JPG من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Perl باستخدام REST API لتصدير PICTURE إلى تنسيق JPG من جدول البيانات" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,10 +36,10 @@ url: /ar/perl/export/picture-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتصدير الصورة إلى JPG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لتصدير الكائنات من Excel PICTURE إلى JPG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

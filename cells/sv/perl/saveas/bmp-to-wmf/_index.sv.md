@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara BMP som WMF API för Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att spara BMP filformat som WMF format fil.
-url: /sv/perl/saveas/bmp-to-wmf/
+title:  Spara BMP som WMF med Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara filen BMP som WMF-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att spara BMP som WMF" h2="Perl bibliotek för att spara BMP som WMF" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att spara BMP som WMF och andra dokumentformat online med Perl." urlsection="saveas/bmp-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara BMP som WMF" h2="Perl bibliotek för att spara BMP som WMF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara BMP som WMF och andra dokumentformat online med Perl." urlsection="saveas/bmp-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en BMP-fil som WMF i Perl" >}}
@@ -13,7 +12,7 @@ url: /sv/perl/saveas/bmp-to-wmf/
 Att spara filformat från BMP som WMF är en komplex uppgift. Alla formatövergångar från BMP till WMF utförs av vår Perl SDK samtidigt som källbladets BMP kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att spara BMP som WMF-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt WMF-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att spara BMP som WMF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kod Exempel för att spara BMP som WMF med REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Att spara filformat från BMP som WMF är en komplex uppgift. Alla formatöverg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att spara BMP som WMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att spara Excel filer som andra format BMP som WMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Ring post_arbetsbok_save_as-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

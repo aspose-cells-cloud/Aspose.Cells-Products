@@ -1,5 +1,5 @@
 ﻿---
-title: Exportera BILD till SVG från kalkylblad med Swift API
+title:  Exportera BILD till SVG från kalkylblad med Swift API
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
 url: /sv/swift/export/picture-to-svg/
 ---

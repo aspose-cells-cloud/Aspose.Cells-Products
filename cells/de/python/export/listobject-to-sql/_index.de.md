@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT aus der Tabelle mit Python API nach SQL
+title:  Exportieren Sie LISTOBJECT nach SQL von Excel mit Cells Cloud SDK für Python
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/python/export/listobject-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Exportieren von LISTOBJECT in eine SQL-Datei" h2="Python-Bibliothek zum Exportieren von LISTOBJECT in eine SQL-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Python zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine SQL-Formatdatei aus einer Tabellenkalkulation online mit Python." urlsection="export/listobject-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie LISTOBJECT nach SQL von Excel" h2="Python Bibliothek zum Exportieren von LISTOBJECT in eine SQL-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel dateiinterne Objektworkflows in Python zu exportieren. Dies ist eine professionelle Lösung, um LISTOBJECT online aus einer Tabellenkalkulation in eine SQL-Formatdatei mit Python zu exportieren." urlsection="export/listobject-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in die SQL-Formatdatei Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine SQL-Formatdatei mit Cells Cloud SDK für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine SQL-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-zu-SQL-Formatübergängen wird von unserem SDK Python durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in SQL-Formatdateien. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
+Das Exportieren eines LISTOBJECT-Objekts aus der Datei Excel in eine SQL-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-zu-SQL-Formatübergängen wird von unserem SDK Python durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in SQL-Formatdateien. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von LISTOBJECT in das SQL-Format aus einer Tabellenkalkulation" gistPath="" %}}
@@ -37,9 +36,9 @@ Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine S
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API zum Exportieren von LISTOBJECT nach SQL" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Objekte aus Excel LISTOBJECT nach SQL zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

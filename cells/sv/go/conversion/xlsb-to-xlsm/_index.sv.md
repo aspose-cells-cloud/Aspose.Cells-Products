@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSB till XLSM Konvertera API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera fil i XLSB-format till fil i XLSM-format.
-url: /sv/go/conversion/xlsb-to-xlsm/
+title:  Konvertera XLSB till XLSM med Go
+description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en fil i XLSB-format till en fil i XLSM-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå API för att konvertera XLSB till XLSM" h2="Gå till biblioteket för att konvertera XLSB till XLSM" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att konvertera XLSB till XLSM och andra dokumentformat online med Go." urlsection="conversion/xlsb-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLSB till XLSM" h2="Go-bibliotek för att konvertera XLSB till XLSM" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera XLSB till XLSM och andra dokumentformat online med Go." urlsection="conversion/xlsb-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLSB-fil till XLSM i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLSB till XLSM med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSB till XLSM är en komplex uppgift. Alla XLSB- till XLSM-formatövergångar utförs av vår Go SDK samtidigt som käll-XLSB-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att konvertera XLSB till XLSM-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt XLSM-utgång.
+Att konvertera filformat från XLSB till XLSM kan vara en komplex uppgift. Vår Go SDK hanterar alla XLSB- till XLSM-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLSB-kalkylblad bevaras. Vårt Go-bibliotek tillhandahåller en professionell lösning för att konvertera XLSB till XLSM-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer XLSM-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att konvertera XLSB till XLSM-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera XLSB till XLSM med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Att konvertera filformat från XLSB till XLSM är en komplex uppgift. Alla XLSB-
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att konvertera XLSB till XLSM" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Go för att konvertera Excel-filer till andra format XLSB till XLSM" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

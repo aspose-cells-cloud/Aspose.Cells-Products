@@ -1,19 +1,18 @@
 ﻿---
-title:  تصدير PICTURE إلى EMF من جدول البيانات باستخدام Perl API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/perl/export/picture-to-emf/
+title:  تصدير الصورة إلى EMF من Excel باستخدام Cells Cloud SDK لـ Perl
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتصدير PICTURE إلى ملف EMF" h2="مكتبة Perl لتصدير PICTURE إلى ملف EMF" p="استخدم Cells Export REST API لتصدير مهام سير عمل العناصر الداخلية لجدول البيانات في Perl. هذا حل احترافي لتصدير PICTURE إلى ملف بتنسيق EMF من جدول بيانات عبر الإنترنت باستخدام Perl." urlsection="export/picture-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير الصورة إلى EMF من Excel" h2="مكتبة Perl لتصدير الصور إلى ملف EMF" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Perl. هذا حل احترافي لتصدير PICTURE إلى ملف بتنسيق EMF من جدول البيانات عبر الإنترنت باستخدام Perl." urlsection="export/picture-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف بتنسيق EMF بتنسيق Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف بتنسيق EMF باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير عنصر الصورة إلى ملف EMF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير PICTURE إلى تنسيق EMF بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات PICTURE المصدر. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق EMF عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج EMF مثالي.
+يعد تصدير كائن PICTURE إلى ملف EMF من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير PICTURE إلى تنسيق EMF بواسطة Perl SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق EMF عبر الإنترنت. يمنح Cloud SDK هذا مطوري Perl وظائف قوية وإخراج EMF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتصدير PICTURE إلى تنسيق EMF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Perl باستخدام REST API لتصدير الصورة إلى تنسيق EMF من جدول البيانات" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,10 +36,10 @@ url: /ar/perl/export/picture-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتصدير PICTURE إلى EMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لتصدير الكائنات من Excel PICTURE إلى EMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie PNG als XLTM API für Swift
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im PNG-Format als XLTM-Formatdatei zu speichern.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im PNG-Format als XLTM-Formatdatei zu speichern.
 url: /de/swift/saveas/png-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

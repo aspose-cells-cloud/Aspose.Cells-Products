@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV zu XLSM Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von TSV-Formatdateien in XLSM-Formatdateien.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von TSV-Formatdateien in XLSM-Formatdateien.
 url: /de/swift/conversion/tsv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

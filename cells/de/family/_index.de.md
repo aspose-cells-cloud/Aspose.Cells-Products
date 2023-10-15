@@ -1,5 +1,5 @@
 ﻿---
-title: Cloud-Spreadsheet-Generator und -Konverter, SDKs und REST-APIs
+title:  Cloud-Spreadsheet-Generator und -Konverter, SDKs und REST-APIs
 description:  SDKs für gängige Sprachen ermöglichen eine nahtlose Integration in Ihre Apps zum Lesen, Ändern und Konvertieren von in der Cloud gehosteten Excel- und OpenOffice-Tabellen
 weight: 10
 url: /de/family

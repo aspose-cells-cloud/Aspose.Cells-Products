@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохранить XLTX как TXT API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLTX в виде файла формата TXT.
+title:  Сохраните XLTX как TXT API для Swift.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLTX как файла формата TXT.
 url: /ru/swift/saveas/xltx-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTX как TXT" h2="Библиотека Swift для сохранения XLTX как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLTX как TXT и других форматов документов онлайн с помощью Swift." urlsection="saveas/xltx-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTX как TXT" h2="Библиотека Swift для сохранения XLTX как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XLTX в формате TXT и других форматов документов онлайн с помощью Swift." urlsection="saveas/xltx-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как TXT в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в TXT — сложная задача. Все переходы форматов XLTX в TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLTX в формате TXT онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
+Сохранение форматов файлов из XLTX в TXT — сложная задача. Все переходы формата XLTX в TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLTX в формате TXT онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLTX в формате TXT" gistPath="" %}}
@@ -55,9 +55,9 @@ url: /ru/swift/saveas/xltx-to-txt/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLTX как TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML till TXT Konvertera API för Swift
+title: MHTML till TXT Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera MHTML-formatfil till TXT-formatfil.
 url: /sv/swift/conversion/mhtml-to-txt/
 ---

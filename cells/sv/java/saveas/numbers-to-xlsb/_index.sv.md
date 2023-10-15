@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara NUMBERS som XLSB API for Java
-description:  Använd Aspose.Cells Cloud SDK for Java för att spara NUMBERS-formatfilen som XLSB-formatfil.
-url: /sv/java/saveas/numbers-to-xlsb/
+title: Spara NUMBERS som XLSB med Java
+description:  Använder Aspose.Cells Cloud SDK for Java för att spara NUMBERS-formatfilen som XLSB-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att spara NUMBERS som XLSB" h2="Java bibliotek för att spara NUMMER som XLSB" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Java. Detta är en professionell lösning för att spara NUMBERS som XLSB och andra dokumentformat online med Java." urlsection="saveas/numbers-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara NUMBERS som XLSB" h2="Java bibliotek för att spara NUMBERS som XLSB" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara NUMBERS som XLSB och andra dokumentformat online med Java." urlsection="saveas/numbers-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en NUMBERS-fil som XLSB i Java" >}}
@@ -13,7 +12,7 @@ url: /sv/java/saveas/numbers-to-xlsb/
 Att spara filformat från NUMBERS som XLSB är en komplex uppgift. Alla NUMBERS- till XLSB-formatövergångar utförs av vår Java SDK samtidigt som källarket NUMBERS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara NUMBERS som XLSB-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att spara NUMBERS som XLSB-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att spara NUMBERS som XLSB med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Att spara filformat från NUMBERS som XLSB är en komplex uppgift. Alla NUMBERS-
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara NUMMER som XLSB" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att spara Excel filer som andra format NUMBERS som XLSB" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

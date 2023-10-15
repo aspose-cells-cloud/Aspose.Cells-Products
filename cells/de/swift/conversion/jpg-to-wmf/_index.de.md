@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG in WMF konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer JPG-Formatdatei in eine WMF-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer JPG-Formatdatei in eine WMF-Formatdatei.
 url: /de/swift/conversion/jpg-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

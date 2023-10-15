@@ -1,10 +1,9 @@
 ﻿---
-title:  Combinar usando Java
-description: Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un archivo Excel mediante Java. SDK admite varios lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
-url: /es/java/merge/
+title:  Fusionar archivos Excel usando Java
+description:  Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un único archivo Excel utilizando Java y ofrece SDK para varios lenguajes de programación.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Combinar usando Java" h2="Aspose.Cells Cloud SDK admite la combinación de varios archivos Excel en un archivo Excel." p="Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un archivo Excel mediante Java. SDK admite varios lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionar archivos Excel usando Java" h2="Aspose.Cells Cloud SDK admite la combinación de varios archivos Excel en un solo archivo Excel." p="Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un único archivo Excel utilizando Java y ofrece SDK para varios lenguajes de programación." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -14,27 +13,27 @@ url: /es/java/merge/
 	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Formato de entrada</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
-	<li><b>XML:</b>Hoja de cálculoML, Xml</li>
-	<li><b>Texto:</b> CSV, Tsv, Txt (delimitado por tabuladores)</li>
-	<li><b>Web:</b> Html, Mhtml</li>
-	<li><b>Imágenes:</b> PNG, Jpg, Gif, Emf</li>
+	<li><b>XML:</b>Hoja de cálculoML, XML</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Web:</b> HTML, HTML</li>
+	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Otro:</b> Pdf, Json, rebajas</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Formato de salida</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Formato de salida</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Palabra/PowerPoint:</b> docx, pptx</li>
+	<li><b>Microsoft Palabra/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
-	<li><b>XML:</b>Hoja de cálculoML, Xml</li>
-	<li><b>Texto:</b> CSV, Tsv, Txt (delimitado por tabuladores)</li>
-	<li><b>Web:</b> Html, Mhtml</li>
+	<li><b>XML:</b>Hoja de cálculoML, XML</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
-	<li><b>Otro:</b> Pdf, XPS, Dif, Json, Rebajas, Sql</li>
+	<li><b>Otro:</b> Pdf, Xps, Dif, Json, Rebaja, Sql</li>
 	</ul></div>
 	</div>
-	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK de la nube</footer></div>
+	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK en la nube</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Combinar usando Java Enlaces de extensión" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Fusionar archivos Excel usando enlaces de extensión Java" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
@@ -55,7 +54,7 @@ url: /es/java/merge/
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells SDK de la nube for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells SDK de nube for .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Seguridad" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

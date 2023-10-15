@@ -1,10 +1,9 @@
 ﻿---
 title:  Klare Kommentare zur lokalen Arbeitsmappe in der Cloud
 description:  Cloud-APIs und SDKs zum Löschen von Kommentaren zu Microsoft Excel und OpenOffice Calc. Klare Kommentare zu lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/net/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Löschen von Kommentaren in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="C# Klar zum Löschen von Kommentaren auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Kommentare zu lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in C# zu löschen. Diese professionelle Lösung löscht Kommentare zu lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows mit C#." urlsection="clear/Comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Kommentare zu lokalen Microsoft Excel und OpenOffice Calc-Tabellen werden entfernt" h2="C# Klar zum Löschen von Kommentaren auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Kommentare zu lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in C# zu löschen. Diese professionelle Lösung löscht Kommentare zu lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows mit C#." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klare Kommentare zur lokalen Microsoft Excel und OpenOffice Calc-Tabelle – C# REST API" >}}
@@ -18,9 +17,9 @@ Das Löschen von Kommentaren in der lokalen Microsoft Excel- und OpenOffice Calc
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie C# API zum Löschen von Kommentaren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net zum Löschen von Kommentaren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die PostClearObjects-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

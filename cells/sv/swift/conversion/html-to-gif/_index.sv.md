@@ -1,5 +1,5 @@
 ﻿---
-title: HTML till GIF Konvertera API för Swift
+title:  HTML till GIF Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till GIF-format fil.
 url: /sv/swift/conversion/html-to-gif/
 ---

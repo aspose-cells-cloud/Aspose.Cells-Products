@@ -1,19 +1,18 @@
 ﻿---
-title: PNG till WMF Konvertera API för Android
-description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera PNG filformat till WMF format fil.
-url: /sv/android/conversion/png-to-wmf/
+title:  Konvertera PNG till WMF med Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i PNG-format till en fil i WMF-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att konvertera PNG till WMF" h2="Android-bibliotek för att konvertera PNG till WMF" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att konvertera PNG till WMF och andra dokumentformat online med Android." urlsection="conversion/png-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera PNG till WMF" h2="Android-bibliotek för att konvertera PNG till WMF" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android-projekt. Detta är en professionell lösning för att konvertera PNG till WMF och andra dokumentformat online med Android." urlsection="conversion/png-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en PNG-fil till WMF i Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera PNG till WMF med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från PNG till WMF är en komplex uppgift. Alla formatövergångar från PNG till WMF utförs av vår Android SDK samtidigt som källbladets PNG kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera PNG till WMF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt WMF-utdata.
+Att konvertera filformat från PNG till WMF kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar från PNG till WMF-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket PNG bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera PNG till WMF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer WMF-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera PNG till WMF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att konvertera PNG till WMF med Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Att konvertera filformat från PNG till WMF är en komplex uppgift. Alla format�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera PNG till WMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel filer till andra format PNG till WMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

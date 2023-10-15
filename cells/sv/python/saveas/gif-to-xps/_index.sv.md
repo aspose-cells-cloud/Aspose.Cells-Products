@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara GIF som XPS API för Python
-description:  Använder Aspose.Cells Cloud SDK för Python för att spara GIF-formatfil som XPS-fil.
-url: /sv/python/saveas/gif-to-xps/
+title:  Spara GIF som XPS med Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara fil i GIF-format som fil i XPS-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att spara GIF som XPS" h2="Python bibliotek för att spara GIF som XPS" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att spara GIF som XPS och andra dokumentformat online med Python." urlsection="saveas/gif-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara GIF som XPS" h2="Python bibliotek för att spara GIF som XPS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python. Detta är en professionell lösning för att spara GIF som XPS och andra dokumentformat online med Python." urlsection="saveas/gif-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en GIF-fil som XPS i Python" >}}
@@ -13,7 +12,7 @@ url: /sv/python/saveas/gif-to-xps/
 Att spara filformat från GIF som XPS är en komplex uppgift. Alla GIF- till XPS-formatövergångar utförs av vår Python SDK samtidigt som käll-GIF-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att spara GIF som XPS-filer online. Denna Cloud SDK ger Python-utvecklare kraftfull funktionalitet och perfekt XPS-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att spara GIF som XPS-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att spara GIF som XPS med REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Att spara filformat från GIF som XPS är en komplex uppgift. Alla GIF- till XPS
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att spara GIF som XPS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att spara Excel filer som andra format GIF som XPS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  JPG till XLSX Konvertera API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera JPG-formatfil till XLSX-formatfil.
-url: /sv/go/conversion/jpg-to-xlsx/
+title: Konvertera JPG till XLSX med Go
+description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en fil i JPG-format till en fil i XLSX-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå API för att konvertera JPG till XLSX" h2="Gå till biblioteket för att konvertera JPG till XLSX" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att konvertera JPG till XLSX och andra dokumentformat online med Go." urlsection="conversion/jpg-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera JPG till XLSX" h2="Gå bibliotek för att konvertera JPG till XLSX" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera JPG till XLSX och andra dokumentformat online med Go." urlsection="conversion/jpg-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en JPG-fil till XLSX i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera JPG till XLSX med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från JPG till XLSX är en komplex uppgift. Alla JPG- till XLSX-formatövergångar utförs av vår Go SDK samtidigt som käll-JPG-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att konvertera JPG till XLSX-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt XLSX-utgång.
+Att konvertera filformat från JPG till XLSX kan vara en komplicerad uppgift. Vår Go SDK hanterar alla JPG- till XLSX-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-JPG-kalkylarket bevaras. Vårt Go-bibliotek erbjuder en professionell lösning för att konvertera JPG till XLSX-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer XLSX-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att konvertera JPG till XLSX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera JPG till XLSX med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Att konvertera filformat från JPG till XLSX är en komplex uppgift. Alla JPG- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att konvertera JPG till XLSX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att konvertera Excel-filer till andra format JPG till XLSX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

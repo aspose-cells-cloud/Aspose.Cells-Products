@@ -1,19 +1,18 @@
 ﻿---
-title: Enregistrez XLTX sous WMF API pour Python
-description:  Utilisation de Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLTX en tant que fichier au format WMF.
-url: /fr/python/saveas/xltx-to-wmf/
+title:  Enregistrez XLTX au format WMF en utilisant Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XLTX au format WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer XLTX au format WMF" h2="bibliothèque Python pour enregistrer XLTX au format WMF" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX au format WMF et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/xltx-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLTX en tant que WMF" h2="Bibliothèque Python pour enregistrer XLTX au format WMF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX au format WMF et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/xltx-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTX au format WMF en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLTX au format WMF dans Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de XLTX au format WMF est une tâche complexe. Toutes les transitions de format XLTX vers WMF sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Python est une solution professionnelle pour enregistrer en ligne des fichiers XLTX au format WMF. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie WMF parfaite.
+Enregistrer les formats de fichiers XLTX au format WMF est une tâche complexe. Toutes les transitions du format XLTX vers WMF sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Python est une solution professionnelle pour enregistrer XLTX sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie WMF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour enregistrer XLTX au format WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Exemple de code pour enregistrer XLTX au format WMF à l\'aide de REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ L'enregistrement des formats de fichiers de XLTX au format WMF est une tâche co
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour enregistrer XLTX au format WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python pour enregistrer les fichiers Excel sous d\'autres formats XLTX comme WMF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_workbook_save_as` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

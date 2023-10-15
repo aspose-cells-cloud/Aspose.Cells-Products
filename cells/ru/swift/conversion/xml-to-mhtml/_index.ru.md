@@ -4,13 +4,13 @@ description: Использование Aspose.Cells Cloud SDK для Swift дл
 url: /ru/swift/conversion/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XML в MHTML" h2="Библиотека Swift для преобразования XML в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации XML в MHTML и другие форматы документов с использованием Swift." urlsection="conversion/xml-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XML в MHTML" h2="Библиотека Swift для преобразования XML в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации XML в MHTML и другие форматы документов с помощью Swift." urlsection="conversion/xml-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в MHTML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в MHTML — сложная задача. Все переходы между форматами XML и MHTML выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XML в MHTML. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из XML в MHTML — сложная задача. Все переходы формата XML в MHTML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной XML-таблицы. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования XML в файлы MHTML. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XML в формат MHTML" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/xml-to-mhtml/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования XML в MHTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

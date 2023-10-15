@@ -1,10 +1,9 @@
 ﻿---
 title:  Rensa pivottabeller på den lokala arbetsboken i Cloud
 description: Cloud API och SDK för att rensa pivottabeller på Microsoft Excel & OpenOffice Calc. Rensa pivottabeller på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
-url: /sv/go/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå till Rensa för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa pivottabeller i lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Go. Denna professionella lösning rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/Pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort pivottabeller på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå till Rensa för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa pivottabeller i lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Go. Denna professionella lösning rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad - Gå REST API" >}}
@@ -18,9 +17,9 @@ Att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylbla
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Go API för att rensa pivottabeller" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att rensa pivottabeller" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop PostClearObjects-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

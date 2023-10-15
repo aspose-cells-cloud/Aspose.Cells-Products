@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie BILD aus der Tabellenkalkulation nach TIFF mit Python API
+title:  Exportieren Sie PICTURE von Excel nach TIFF mit dem Cloud SDK Cells für Python
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/python/export/picture-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um BILD in die Datei TIFF zu exportieren" h2="Python-Bibliothek zum Exportieren von BILD in die Datei TIFF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Python zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online aus einer Tabellenkalkulation in eine Datei im TIFF-Format zu exportieren, indem Sie Python verwenden." urlsection="export/picture-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie BILD von Excel nach TIFF" h2="Python-Bibliothek zum Exportieren von PICTURE in die Datei TIFF" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Python zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online mit Python aus einer Tabellenkalkulation in das Format TIFF zu exportieren." urlsection="export/picture-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Formatdatei TIFF in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Formatdatei TIFF mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei TIFF ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das TIFF-Format wird von unserem Python-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format TIFF zu exportieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF Ausgabe.
+Das Exportieren des PICTURE-Objekts aus der Datei Excel in die Datei TIFF ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das TIFF-Format wird von unserem Python-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format TIFF zu exportieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von PICTURE in das Format TIFF aus der Tabellenkalkulation" gistPath="" %}}
@@ -37,9 +36,9 @@ Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei TIF
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um PICTURE nach TIFF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Objekte von Excel PICTURE nach TIFF zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

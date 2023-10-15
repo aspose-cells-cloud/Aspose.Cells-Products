@@ -1,16 +1,15 @@
 ﻿---
-title:  Exporter WORKSHEET vers SQL à partir d'une feuille de calcul à l'aide de Go API
+title: Exporter une FEUILLE DE TRAVAIL vers SQL à partir de Excel à l'aide du SDK Cloud Cells pour Go
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
-url: /fr/go/export/worksheet-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour exporter WORKSHEET vers un fichier SQL" h2="Aller à la bibliothèque pour exporter WORKSHEET vers un fichier SQL" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Go. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format SQL à partir d\'une feuille de calcul en ligne à l\'aide de Go." urlsection="export/worksheet-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter la FEUILLE DE TRAVAIL vers SQL à partir du Excel" h2="Accédez à la bibliothèque pour exporter WORKSHEET vers un fichier SQL" p="Utilisez Export API de Cells Cloud pour exporter les workflows d\'objets internes du fichier Excel dans Go. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format SQL à partir d\'une feuille de calcul en ligne à l\'aide de Go." urlsection="export/worksheet-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKSHEET vers un fichier au format SQL dans Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKSHEET vers un fichier au format SQL à l\'aide du SDK Cloud Cells pour Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exporter l'objet WORKSHEET vers un fichier SQL à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format WORKSHEET vers SQL est effectuée par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source WORKSHEET. Notre bibliothèque Go est une solution professionnelle pour exporter en ligne des objets WORKSHEET vers des fichiers au format SQL. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie SQL parfaite.
+Exporter un objet WORKSHEET vers un fichier SQL à partir du fichier Excel est une tâche complexe. Les transitions d’exportation de WORKSHEET au format SQL sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKSHEET source. Notre bibliothèque Go est une solution professionnelle pour exporter des objets WORKSHEET vers des fichiers au format SQL en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie SQL parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour exporter WORKSHEET au format SQL à partir d\'une feuille de calcul" gistPath="" %}}
@@ -56,15 +55,15 @@ Exporter l'objet WORKSHEET vers un fichier SQL à partir d'une feuille de calcul
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Go API pour exporter WORKSHEET vers SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Go pour exporter des objets de Excel WORKSHEET vers SQL" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode PostExport pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postExport` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>go version go1.13.0 ou plus récente</li>
+<li>aller à la version go1.13.0 ou plus récente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить PNG как HTML API для NodeJS
+title:  Сохраните PNG как HTML с помощью NodeJS.
 description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата PNG как файла формата HTML.
-url: /ru/nodejs/saveas/png-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить PNG как HTML" h2="Библиотека NodeJS для сохранения PNG как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения PNG как HTML и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/png-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить PNG как HTML" h2="Библиотека NodeJS для сохранения PNG как HTML" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения PNG как HTML и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/png-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как HTML в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG как HTML — сложная задача. Все переходы форматов с PNG на HTML выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов PNG как HTML в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат HTML.
+Сохранение форматов файлов с PNG как HTML — сложная задача. Все переходы форматов с PNG на HTML выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы PNG. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов PNG как HTML в Интернете. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный результат HTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения PNG в формате HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения PNG как HTML с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/png-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать узел API, чтобы сохранить PNG как HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах PNG как HTML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

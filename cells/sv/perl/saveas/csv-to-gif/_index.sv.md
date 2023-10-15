@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara CSV som GIF API för Perl
+title:  Spara CSV som GIF med Perl
 description:  Använder Aspose.Cells Cloud SDK för Perl för att spara CSV-formatfil som GIF-formatfil.
-url: /sv/perl/saveas/csv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att spara CSV som GIF" h2="Perl bibliotek för att spara CSV som GIF" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara CSV som GIF och andra dokumentformat online med Perl." urlsection="saveas/csv-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara CSV som GIF" h2="Perl bibliotek för att spara CSV som GIF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl. Detta är en professionell lösning för att spara CSV som GIF och andra dokumentformat online med Perl." urlsection="saveas/csv-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en CSV-fil som GIF i Perl" >}}
@@ -13,7 +12,7 @@ url: /sv/perl/saveas/csv-to-gif/
 Att spara filformat från CSV som GIF är en komplex uppgift. Alla CSV- till GIF-formatövergångar utförs av vår Perl SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att spara CSV som GIF-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att spara CSV som GIF-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kod Exempel för att spara CSV som GIF med REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Att spara filformat från CSV som GIF är en komplex uppgift. Alla CSV- till GIF
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att spara CSV som GIF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att spara Excel filer som andra format CSV som GIF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Ring post_arbetsbok_save_as-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

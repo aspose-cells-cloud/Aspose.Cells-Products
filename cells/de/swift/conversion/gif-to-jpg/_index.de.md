@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF in JPG konvertieren API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im GIF-Format in eine Datei im JPG-Format zu konvertieren.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im GIF-Format in eine Datei im JPG-Format zu konvertieren.
 url: /de/swift/conversion/gif-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

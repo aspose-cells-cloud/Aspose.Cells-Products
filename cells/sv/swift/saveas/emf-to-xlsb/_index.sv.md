@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som XLSB API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att spara fil i EMF-format som fil i XLSB-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att spara fil i EMF-format som fil i XLSB-format.
 url: /sv/swift/saveas/emf-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

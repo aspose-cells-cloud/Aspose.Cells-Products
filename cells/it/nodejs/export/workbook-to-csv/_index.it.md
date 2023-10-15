@@ -1,16 +1,15 @@
 ﻿---
-title:  Esporta WORKBOOK in CSV dal foglio di calcolo utilizzando NodeJS API
+title:  Esporta WORKBOOK in CSV da Excel utilizzando Cells Cloud SDK per NodeJS
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/nodejs/export/workbook-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per esportare WORKBOOK in un file CSV" h2="Libreria NodeJS per esportare WORKBOOK in file CSV" p="Utilizzare Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in NodeJS. Questa è una soluzione professionale per esportare WORKBOOK in file in formato CSV dal foglio di calcolo online utilizzando NodeJS." urlsection="export/workbook-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta cartella di lavoro in CSV da Excel" h2="Libreria NodeJS per esportare WORKBOOK in file CSV" p="Utilizza Export API of Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in NodeJS. Questa è una soluzione professionale per esportare WORKBOOK in file in formato CSV da un foglio di calcolo online utilizzando NodeJS." urlsection="export/workbook-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKBOOK in un file in formato CSV in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKBOOK in un file in formato CSV utilizzando Cells Cloud SDK per NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto WORKBOOK in un file CSV dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da WORKBOOK a formato CSV viene eseguita dal nostro NodeJS SDK mantenendo il contenuto strutturale e logico principale del foglio di lavoro WORKBOOK di origine. La nostra libreria NodeJS è una soluzione professionale per esportare oggetti WORKBOOK in file in formato CSV online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un perfetto output CSV.
+Esportare l'oggetto WORKBOOK nel file CSV dal file Excel è un'attività complessa. L'esportazione delle transizioni del formato WORKBOOK in formato CSV viene eseguita dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo WORKBOOK di origine. La nostra libreria NodeJS è una soluzione professionale per esportare oggetti WORKBOOK in file in formato CSV online. Questo Cloud SDK offre agli sviluppatori NodeJS funzionalità potenti e output CSV perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per esportare WORKBOOK in formato CSV dal foglio di calcolo" gistPath="" %}}
@@ -41,10 +40,10 @@ Esportare l'oggetto WORKBOOK in un file CSV dal foglio di calcolo è un'attivit�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare il nodo API per esportare WORKBOOK in CSV" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo postExport per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Node per esportare oggetti da Excel WORKBOOK in CSV" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

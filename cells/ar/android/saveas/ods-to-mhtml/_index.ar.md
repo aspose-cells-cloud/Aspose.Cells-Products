@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ ODS كـ MHTML API لنظام Android
-description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف تنسيق ODS كملف بتنسيق MHTML.
-url: /ar/android/saveas/ods-to-mhtml/
+title:  حفظ المواد المستنفدة للأوزون بتنسيق MHTML باستخدام Android
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق ODS كملف بتنسيق MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ ODS كـ MHTML" h2="مكتبة Android لحفظ ODS كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ ODS بتنسيق MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/ods-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ المواد المستنفدة للأوزون كـ MHTML" h2="مكتبة Android لحفظ المواد المستنفدة للأوزون بتنسيق MHTML" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق MHTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/ods-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بصيغة MHTML في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بتنسيق MHTML في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من ODS كـ MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى MHTML بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ ODS كملفات MHTML عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج MHTML مثالي.
+يعد حفظ تنسيقات الملفات من ODS بتنسيق MHTML مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق ODS إلى MHTML بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون كملفات MHTML عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات MHTML مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ ODS بتنسيق MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لحفظ المواد المستنفدة للأوزون كـ MHTML باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ url: /ar/android/saveas/ods-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ ODS كـ MHTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى ODS مثل MHTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

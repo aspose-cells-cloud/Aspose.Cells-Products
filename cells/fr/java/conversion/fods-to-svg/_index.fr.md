@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir FODS en SVG dans le Cloud via Java
-description: Créer, modifier ou convertir des fichiers Excel avec REST API et Open Source Java SDK
+description: Créez, modifiez ou convertissez des fichiers Excel avec le SDK REST API et Open Source Java
 url: /fr/java/conversion/fods-to-svg/
 family: cells
 platformtag: java
@@ -11,21 +11,21 @@ platform: Java
 otherformats: XLTX TSV XLSX MD FODS PDF TXT DIF XLTM HTML TIFF SVG XPS XML MHTML CSV 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir FODS en SVG avec Java" h2="Automatisez la conversion de fichiers Excel et OpenOffice avec le SDK Cloud open source for Java" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertissez FODS en SVG avec Java" h2="Automatisez la conversion de fichiers Excel et OpenOffice avec le SDK Cloud open source for Java" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion simple FODS en SVG" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion simple de FODS en SVG" %}}
 1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
 1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
-1. Importer le fichier FODS dans Cloud Storage par défaut avec la méthode ```CellsApi.Upload```
+1. Téléchargez le fichier FODS sur Cloud Storage par défaut avec la méthode ```CellsApi.Upload```
 1. Appelez le ```CellsApi.cellsWorkbookGetWorkbook``` pour obtenir le fichier SVG résultant
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Démarrer avec Excel API & Java SDK" %}}
- Obtenez le code source Excel du SDK Cloud for Java à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) pour compiler le SDK vous-même ou dirigez-vous vers le[Communiqués](https://releases.aspose.cloud/) pour les options de téléchargement alternatives.
+{{% blocks/products/pf/agp/feature-section-col title="Premiers pas avec les SDK Excel, API et Java" %}}
+ Obtenez le code source du SDK Cloud Excel for Java à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) pour compiler le SDK vous-même ou rendez-vous sur[Sorties](https://releases.aspose.cloud/) pour des options de téléchargement alternatives.
 
- Jetez également un œil à Swagger[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur la[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
+ Jetez également un œil à Swagger-based[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur le[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code pour convertir FODS en SVG" gistPath="" %}}

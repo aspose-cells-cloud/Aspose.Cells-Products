@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV إلى DIF تحويل API لـ Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق TSV إلى ملف تنسيق DIF.
-url: /ar/perl/conversion/tsv-to-dif/
+title:  تحويل TSV إلى DIF باستخدام Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق TSV إلى ملف بتنسيق DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل TSV إلى DIF" h2="Perl مكتبة لتحويل TSV إلى DIF" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل TSV إلى DIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/tsv-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل TSV إلى DIF" h2="مكتبة Perl لتحويل TSV إلى DIF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل TSV إلى DIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/tsv-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى DIF في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل TSV إلى DIF باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TSV إلى DIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى DIF بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TSV. تعد مكتبتنا Perl حلاً احترافيًا لتحويل ملفات TSV إلى DIF عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج DIF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من TSV إلى DIF مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق TSV إلى DIF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات TSV إلى DIF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن مخرجات DIF عالية الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل TSV إلى تنسيق DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل TSV إلى DIF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/tsv-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل TSV إلى DIF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل TSV إلى DIF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF till XML Konvertera API för Ruby
-description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera EMF filformat till XML-format fil.
-url: /sv/ruby/conversion/emf-to-xml/
+title:  Konvertera EMF till XML med Ruby
+description: Använda Aspose.Cells Cloud SDK för Ruby för att konvertera en fil i EMF-format till en XML-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att konvertera EMF till XML" h2="Ruby-bibliotek för att konvertera EMF till XML" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Ruby. Detta är en professionell lösning för att konvertera EMF till XML och andra dokumentformat online med Ruby." urlsection="conversion/emf-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera EMF till XML" h2="Ruby-bibliotek för att konvertera EMF till XML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby-projekt. Detta är en professionell lösning för att konvertera EMF till XML och andra dokumentformat online med Ruby." urlsection="conversion/emf-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en EMF-fil till XML i Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera EMF till XML med Cells Cloud SDK för Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från EMF till XML är en komplex uppgift. Alla övergångar från EMF till XML-format utförs av vår Ruby SDK samtidigt som källbladets EMF kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att konvertera EMF till XML-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt XML-utdata.
+Att konvertera filformat från EMF till XML kan vara en komplicerad uppgift. Vår Ruby SDK hanterar alla konverteringar från EMF till XML-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket EMF bevaras. Vårt Ruby-bibliotek tillhandahåller en professionell lösning för att konvertera EMF till XML-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och säkerställer XML-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby som använder REST API för att konvertera EMF till XML-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Exempel för att konvertera EMF till XML med Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ Att konvertera filformat från EMF till XML är en komplex uppgift. Alla överg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att konvertera EMF till XML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att konvertera Excel-filer till andra format EMF till XML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

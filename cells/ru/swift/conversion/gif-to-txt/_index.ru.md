@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование GIF в TXT API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата TXT.
+title:  Конвертировать GIF в TXT API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата TXT.
 url: /ru/swift/conversion/gif-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования GIF в TXT" h2="Библиотека Swift для преобразования GIF в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования GIF в TXT и другие форматы документов онлайн с помощью Swift." urlsection="conversion/gif-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации GIF в TXT" h2="Библиотека Swift для преобразования GIF в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации GIF в TXT и другие форматы документов с помощью Swift." urlsection="conversion/gif-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в TXT в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл GIF в TXT в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в TXT — сложная задача. Все переходы формата GIF в TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов GIF в TXT. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из GIF в TXT — сложная задача. Все переходы формата GIF в TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов GIF в TXT. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования GIF в формат TXT" gistPath="" %}}
@@ -65,10 +65,10 @@ url: /ru/swift/conversion/gif-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования GIF в TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для конвертации GIF в TXT" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

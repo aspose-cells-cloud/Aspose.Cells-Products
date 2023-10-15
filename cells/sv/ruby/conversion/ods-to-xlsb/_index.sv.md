@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS till XLSB Konvertera API för Ruby
-description:  Använder Aspose.Cells Cloud SDK för Ruby för att konvertera ODS-formatfil till XLSB-formatfil.
-url: /sv/ruby/conversion/ods-to-xlsb/
+title:  Konvertera ODS till XLSB med Ruby
+description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera en ODS-formatfil till en XLSB-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att konvertera ODS till XLSB" h2="Ruby-bibliotek för att konvertera ODS till XLSB" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Ruby. Detta är en professionell lösning för att konvertera ODS till XLSB och andra dokumentformat online med Ruby." urlsection="conversion/ods-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera ODS till XLSB" h2="Ruby-bibliotek för att konvertera ODS till XLSB" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby-projekt. Detta är en professionell lösning för att konvertera ODS till XLSB och andra dokumentformat online med Ruby." urlsection="conversion/ods-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en ODS-fil till XLSB i Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera ODS till XLSB med Cells Cloud SDK för Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från ODS till XLSB är en komplex uppgift. Alla ODS- till XLSB-formatövergångar utförs av vår Ruby SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att konvertera ODS till XLSB-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
+Att konvertera filformat från ODS till XLSB kan vara en komplex uppgift. Vår Ruby SDK hanterar alla ODS- till XLSB-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-ODS-kalkylarket bevaras. Vårt Ruby-bibliotek tillhandahåller en professionell lösning för att konvertera ODS till XLSB-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och säkerställer XLSB-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att konvertera ODS till XLSB-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Exempel för att konvertera ODS till XLSB med Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ Att konvertera filformat från ODS till XLSB är en komplex uppgift. Alla ODS- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att konvertera ODS till XLSB" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att konvertera Excel-filer till andra format ODS till XLSB" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

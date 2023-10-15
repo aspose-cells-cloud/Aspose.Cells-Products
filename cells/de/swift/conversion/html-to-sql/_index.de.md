@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML in SQL Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im HTML-Format in eine SQL-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im HTML-Format in eine SQL-Formatdatei.
 url: /de/swift/conversion/html-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

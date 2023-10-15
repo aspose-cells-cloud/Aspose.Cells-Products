@@ -1,20 +1,20 @@
 ﻿---
-title:  Lettura, scrittura, visualizzazione e conversione di fogli di calcolo (via C# REST SDK)
-description:  SDK per C#, ASP.NET e altre lingue supportate da .NET per sviluppare app basate su cloud per l'elaborazione di fogli di calcolo Excel e OpenOffice
+title:  Leggere, scrivere, visualizzare e convertire fogli di calcolo (via C# REST SDK)
+description:  SDK per C#, ASP.NET e altri linguaggi supportati da .NET per sviluppare app basate su cloud per l'elaborazione di fogli di calcolo Excel e OpenOffice
 weight: 70
 url: /it/net
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Crea Excel Visualizzatore e convertitore di app via C# REST SDK" h2="Easy SDK per C#, ASP.NET e altre lingue supportate da .NET per sviluppare app basate su cloud per l\'elaborazione di fogli di calcolo Excel e OpenOffice." logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Crea Excel App visualizzatore e convertitore via C# REST SDK" h2="SDK semplici per C#, ASP.NET e altri linguaggi supportati da .NET per sviluppare app basate su cloud per l\'elaborazione di fogli di calcolo Excel e OpenOffice." logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for .NET migliora la capacità delle tue applicazioni .NET integrando perfettamente le funzionalità di elaborazione dei fogli di calcolo che consentono ai tuoi programmi basati su cloud di accedere e modificare cartelle di lavoro, fogli di lavoro, fogli di calcolo, righe e singole celle, senza installare alcun software di terze parti. Aspose.Cells Cloud SDK for .NET è distribuito con licenza MIT.</p>
-<p>Aspose.Cells Cloud SDK for .NET funziona come interfaccia per il sottostante Aspose.Cells REST API. Rende il lavoro di programmazione .NET molto semplice quando si tratta di lavorare con tabelle pivot, OleObjects, ListObjects, attività, forme, collegamenti ipertestuali e commenti.</p>
-<p>Utilizzando Aspose.Cells Cloud SDK for .NET, puoi abilitare il tuo codice C# per eseguire il filtraggio automatico e applicare la formattazione condizionale ai fogli di lavoro. Anche il supporto per la conversione dei file è abbastanza completo, poiché utilizzando l'applicazione cloud .NET sarai in grado di convertire i documenti Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) e OpenOffice (ODS) in PDF, XPS, SVG, TIFF, formati Markdown e DIF.</p>
+<p>Aspose.Cells Cloud SDK for .NET migliora la capacità delle tue applicazioni .NET integrando perfettamente funzionalità di elaborazione dei fogli di calcolo che consentono ai tuoi programmi basati su cloud di accedere e modificare cartelle di lavoro, fogli di lavoro, fogli di calcolo, righe e singole celle, senza installare software di terze parti. Aspose.Cells Cloud SDK for .NET è distribuito con licenza MIT.</p>
+<p>Aspose.Cells Cloud SDK for .NET funziona come interfaccia per il sottostante Aspose.Cells REST API. Rende il tuo lavoro di programmazione .NET molto semplice quando si tratta di lavorare con tabelle pivot, OleObject, ListObject, attività, forme, collegamenti ipertestuali e commenti.</p>
+<p>Utilizzando Aspose.Cells Cloud SDK for .NET, puoi abilitare il codice C# per eseguire il filtraggio automatico e applicare la formattazione condizionale ai fogli di calcolo. Anche il supporto per la conversione dei file è abbastanza completo, poiché utilizzando l'applicazione cloud .NET sarai in grado di convertire i documenti Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) e i documenti OpenOffice (ODS) in PDF, XPS, SVG, TIFF, formati Markdown e DIF.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -29,7 +29,7 @@ url: /it/net
 <li>Lavora con le cellule</li>
 <li>Lavora con i grafici</li>
 <li>Lavora con i collegamenti ipertestuali</li>
-<li>Lavora con le tabelle pivot</li>
+<li>Utilizzare le tabelle pivot</li>
 <li>Lavora con immagini e forme</li>
 <li>Lavora con le convalide</li>
 </ul></div>
@@ -40,7 +40,7 @@ url: /it/net
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Cells Formati di file supportati dal cloud." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Cells Formati file supportati dal cloud." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input Output</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
@@ -75,7 +75,7 @@ url: /it/net
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Funzioni avanzate Aspose.Cells Cloud SDK for .NET
+ Funzionalità avanzate Aspose.Cells Cloud SDK for .NET
    </h2>
    <p>
    </p>
@@ -83,7 +83,7 @@ url: /it/net
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Aggiungi più tipi di filtri di elenco con criteri personalizzati
+ Aggiungi più tipi di filtri elenco con criteri personalizzati
     </p>
    </div>
    <div class="col-lg-4">
@@ -118,7 +118,7 @@ url: /it/net
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Aggiungere, aggiornare ed eliminare i collegamenti ipertestuali del foglio di lavoro
+ Aggiungi, aggiorna ed elimina i collegamenti ipertestuali del foglio di lavoro
     </p>
    </div>
    <div class="col-lg-4">
@@ -132,7 +132,7 @@ url: /it/net
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Elimina specifici o tutti i ListObject in un foglio di lavoro
+ Elimina specifici o tutti i ListObjects in un foglio di lavoro
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,7 +146,7 @@ url: /it/net
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
+ Riepiloga i dati di un ListObject o di una tabella di grandi dimensioni con una tabella pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -167,14 +167,14 @@ Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipola l'impostazione della pagina, l'intestazione e piè di pagina
+ Manipola l'impostazione della pagina, l'intestazione e il; piè di pagina
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Aggiungi, aggiorna, recupera o elimina le immagini del foglio di lavoro
+ Aggiungi, aggiorna, recupera o elimina le immagini dei fogli di lavoro
     </p>
    </div>
    <div class="col-lg-4">
@@ -202,19 +202,19 @@ Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Aggiungi, aggiorna o elimina le convalide per i fogli di lavoro
+ Aggiungi, aggiorna o elimina convalide per i fogli di lavoro
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Inizia con Excel Spreadsheet Processing SDK
+ Inizia con l'SDK per l'elaborazione dei fogli di calcolo Excel
     </h2>
     <p>
  Non è necessario installare nulla per iniziare con Aspose.Cells Cloud SDK for .NET. Tutto quello che devi fare è creare un account su
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose per Nuvola
      </a>
- ottenere le informazioni sull'applicazione. Questo è tutto! Sei pronto per utilizzare Aspose.Cells Cloud SDK for .NET.
+ ottieni le informazioni sulla tua richiesta. Questo è tutto! Sei pronto per utilizzare Aspose.Cells Cloud SDK for .NET.
     </p>
     <p>
  Aspose.Cells Cloud SDK for .NET fornisce tutte le funzionalità per creare, modificare e convertire fogli di calcolo in altri formati di file popolari.
@@ -222,29 +222,29 @@ Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Carica & amp; Processo Excel Fogli di calcolo via Cloud SDK
+ Carica e Processo Excel Fogli di calcolo via Cloud SDK
     </h2>
     <p>
- Aspose.Cells Cloud SDK for .NET consente di creare, dividere, unire, cercare e sostituire testo, protezione tramite password, esportazione nel formato di file supportato, leggere gli elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire la lunghezza della chiave di crittografia , importare i dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare l'indicatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
+ Aspose.Cells Cloud SDK for .NET consente di creare, dividere, unire, cercare e sostituire testo, protezione tramite password, esportare in formati di file supportati, leggere elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire la lunghezza della chiave di crittografia , importare dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare un marcatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Cloud SDK per leggere &amp; Processo Excel Fogli di lavoro
+ Cloud SDK per leggere e amp; Processo Excel Fogli di lavoro
     </h2>
     <p>
-Utilizzando Aspose.Cells Cloud SDK for .NET è possibile eliminare una riga specifica o tutte le righe nel foglio di lavoro, recuperare i dati della cella del foglio di lavoro o lo stile della cella in base al nome della cella, leggere i dati della riga o della colonna del foglio di lavoro in base al relativo indice, calcolare la formula della cella, cancellare il contenuto della cella, copiare la cella in un'altra cella, copiare colonne e righe del foglio di lavoro, raggruppare righe e colonne del foglio di lavoro, nascondere righe e colonne del foglio di lavoro, impostare stili di colonne e righe del foglio di lavoro, impostare il valore HTMLSTRING nella cella, impostare il valore dell'intervallo di celle e modificare molte altre impostazioni del foglio di lavoro.
+Utilizzando Aspose.Cells Cloud SDK for .NET è possibile eliminare una riga specifica o tutte le righe nel foglio di lavoro, recuperare i dati della cella del foglio di lavoro o lo stile della cella in base al nome della cella, leggere i dati della riga o della colonna del foglio di lavoro in base al relativo indice, calcolare la formula della cella, cancellare il contenuto della cella, copiare la cella in un'altra cella, copiare colonne e righe del foglio di lavoro, raggruppare righe e colonne del foglio di lavoro, nascondere righe e colonne del foglio di lavoro, impostare colonne e stili di riga del foglio di lavoro, impostare il valore HTMLSTRING nella cella, impostare il valore dell'intervallo di celle e modificare molte altre impostazioni del foglio di lavoro.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Sfrutta la potenza delle tabelle pivot &amp; Intervalli
+ Sfrutta la potenza delle tabelle pivot e delle tabelle pivot. Gamme
     </h2>
     <p>
  Aspose.Cells Cloud SDK for .NET consente di aggiungere una tabella pivot nel foglio di lavoro, aggiungere o eliminare campi pivot nella tabella pivot, aggiungere o rimuovere il filtro pivot per l'indice della tabella pivot, aggiornare lo stile della cella per la tabella pivot e calcolare i dati della tabella pivot nelle celle.
     </p>
     <p>
-Aspose.Cells Cloud SDK for .NET può anche essere utilizzato per ottenere l'elenco di celle in un intervallo per nome dell'intervallo o indici di colonna di riga, impostare la larghezza della colonna dell'intervallo, combinare un intervallo di celle in una singola cella, spostare l'intervallo corrente nell'intervallo di destinazione, impostare il contorno bordo attorno a un intervallo di celle., imposta l'altezza della riga dell'intervallo, imposta lo stile dell'intervallo, separa le celle unite di questo intervallo, inserisci un valore nell'intervallo e converti il suo tipo di dati e copia l'intervallo nel foglio di lavoro.
+Aspose.Cells Cloud SDK for .NET può essere utilizzato anche per ottenere l'elenco di celle in un intervallo in base al nome dell'intervallo o agli indici delle colonne di riga, impostare la larghezza della colonna dell'intervallo, combinare un intervallo di celle in una singola cella, spostare l'intervallo corrente nell'intervallo di destinazione, impostare il contorno bordo attorno a un intervallo di celle., imposta l'altezza della riga dell'intervallo, imposta lo stile dell'intervallo, separa le celle unite di questo intervallo, inserisci un valore nell'intervallo e converti il suo tipo di dati e copia l'intervallo nel foglio di lavoro.
     </p>
    </div>
   </div>
@@ -258,18 +258,18 @@ Aspose.Cells Cloud SDK for .NET può anche essere utilizzato per ottenere l'elen
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
-{{< blocks/products/pf/slr-element name="API Referenze" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Riferimenti" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Supporto del prodotto" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.cloud/c/cells" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.Cells Cloud SDK for .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Elenco Clienti" href="https://company.aspose.cloud/customers" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Sicurezza" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

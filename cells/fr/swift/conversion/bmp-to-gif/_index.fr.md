@@ -1,10 +1,10 @@
 ﻿---
-title: BMP en GIF Convertir API pour Swift
+title:  BMP en GIF Convertir API pour Swift
 description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format BMP en fichier au format GIF.
 url: /fr/swift/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir BMP en GIF" h2="Bibliothèque Swift pour convertir BMP en GIF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir BMP en GIF et autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/bmp-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir BMP en GIF" h2="Bibliothèque Swift pour convertir BMP en GIF" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir BMP en GIF et autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/bmp-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier BMP en GIF dans Swift" >}}
@@ -67,8 +67,8 @@ La conversion des formats de fichiers de BMP en GIF est une tâche complexe. Tou
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir BMP en GIF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

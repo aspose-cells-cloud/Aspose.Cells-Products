@@ -1,5 +1,5 @@
 ﻿---
-title: "CPP Cloud SDK för att generera, redigera och konvertera Excel filer via REST API:er"
+title: " CPP Cloud SDK för att generera, redigera och konvertera Excel filer via REST API:er"
 description:  Använd cURL-kommandon för att skapa kalkylarks- och omvandlarappar som får åtkomst till Microsoft Excel- och OpenOffice-filer från molnlagring för bearbetning
 weight: 50
 url: /sv/cpp
@@ -75,7 +75,7 @@ url: /sv/cpp
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Excel Funktioner för bearbetning av kalkylblad
+ Excel Funktioner för bearbetning av kalkylblad
    </h2>
    <p>
    </p>
@@ -88,7 +88,7 @@ Excel Funktioner för bearbetning av kalkylblad
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose för Cloud
      </a>
- och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för CPP på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Ruby ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
+och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för CPP på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Ruby ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
     </p>
    </div>
    <div class="col-lg-12">
@@ -96,12 +96,12 @@ Excel Funktioner för bearbetning av kalkylblad
  Konvertera Microsoft Excel eller OpenOffice Calc-kalkylblad till olika formatfiler.
     </h2>
     <p>
-Aspose.Cells Cloud SDK för CPP har inkluderat funktionalitet för att programmatiskt konvertera Excel arbetsbok till olika formatfiler med CPP-språket. Microsoft Excel eller OpenOffice Calc kalkylarkskonvertering är en komplex process. Många faktorer bidrar till komplexiteten och bör därför beaktas under omvandlingsprocessen. Möjligheten att konvertera Excel-filer från ett format till ett annat med exakt professionell kvalitet är en toppfunktion i Aspose.Cells Cloud.
+ Aspose.Cells Cloud SDK för CPP har inkluderat funktionalitet för att programmatiskt konvertera Excel arbetsbok till olika formatfiler med CPP-språket. Microsoft Excel eller OpenOffice Calc kalkylarkskonvertering är en komplex process. Många faktorer bidrar till komplexiteten och bör därför beaktas under omvandlingsprocessen. Möjligheten att konvertera Excel-filer från ett format till ett annat med exakt professionell kvalitet är en toppfunktion i Aspose.Cells Cloud.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Skydda Microsoft Excel via CPP API:er
+Skydda Microsoft Excel via CPP API:er
     </h2>
     <p>
  Aspose.Cells Cloud SDK för CPP har inkluderat funktionalitet för att programiskt skydda Excel-arbetsboken med CPP-språket. Till exempel skydda och avskydda arbetsboken med lösenord, lägg till digital signatur för arbetsboken.
@@ -112,13 +112,13 @@ Aspose.Cells Cloud SDK för CPP har inkluderat funktionalitet för att programma
  Slå samman flera Microsoft Excel- eller OpenOffice Calc-kalkylblad till en fil.
     </h2>
     <p>
-Aspose.Cells Cloud SDK för CPP har inkluderat funktionalitet för att programmatiskt sammanfoga flera Microsoft Excel- eller OpenOffice Calc-kalkylblad till en fil med CPP-språket. Stöd för flera typer av formatfilinmatning. Och stöder olika formatutdata.
+ Aspose.Cells Cloud SDK för CPP har inkluderat funktionalitet för att programmatiskt sammanfoga flera Microsoft Excel- eller OpenOffice Calc-kalkylblad till en fil med CPP-språket. Stöd för flera typer av formatfilinmatning. Och stöder olika formatutdata.
     </p>
     <h2 class="h2title">
  Hitta och ersätt textarbetsböcker
     </h2>
     <p>
- Aspose.Cells Cloud SDK för CPP har gett stöd för att arbeta med text i en arbetsbok med CPP-språkkommandon. SDK har tillhandahållit mycket användbara funktioner relaterade till textsökning och uppdatering av dem, som att söka och ersätta text i en arbetsbok eller i ett kalkylblad, hämta textobjekt från kalkylblad och många fler. Dessutom kan du extrahera text, bilder eller former från ett kalkylblad med enkla CPP-kommandon.
+Aspose.Cells Cloud SDK för CPP har gett stöd för att arbeta med text i en arbetsbok med CPP-språkkommandon. SDK har tillhandahållit mycket användbara funktioner relaterade till textsökning och uppdatering av dem, som att söka och ersätta text i en arbetsbok eller i ett kalkylblad, hämta textobjekt från kalkylblad och många fler. Dessutom kan du extrahera text, bilder eller former från ett kalkylblad med enkla CPP-kommandon.
     </p>
     <p>
     </p>

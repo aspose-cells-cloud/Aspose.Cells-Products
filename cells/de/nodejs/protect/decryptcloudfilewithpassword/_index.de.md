@@ -1,7 +1,6 @@
 ﻿---
 title:  Entschlüsseln Sie Cloud-Tabellen mit einem Passwort in der Cloud
 description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc entschlüsseln Cloud-Dateien mit Passwort. Entschlüsseln Sie Cloud-Tabellen mit der Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/nodejs/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Entschlüsseln von Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" h2="NodeJS-Bibliothek zum Entschlüsseln von Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Decrypt REST API, um Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort-Workflows in NodeJS zu entschlüsseln. Diese professionelle Lösung entschlüsselt Cloud Microsoft Excel und OpenOffice Calc-Tabellen online mit Passwörtern unter Verwendung von NodeJS." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
@@ -18,7 +17,7 @@ Das Entschlüsseln einer Cloud-Tabelle mit einem Passwort ist eine komplexe Aufg
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie den Knoten API zum Entschlüsseln" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um die Datei Excel zu entschlüsseln" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode „cellsWorkbookDeleteDecryptDocument“ auf, um den resultierenden Stream abzurufen</li>

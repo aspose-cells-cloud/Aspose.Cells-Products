@@ -1,19 +1,18 @@
 ﻿---
-title:  تحويل الأرقام إلى SXC API عن Perl
-description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق SXC.
-url: /ar/perl/conversion/numbers-to-sxc/
+title:  تحويل الأرقام إلى SXC باستخدام Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل الأرقام إلى SXC" h2="Perl مكتبة لتحويل الأرقام إلى SXC" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل NUMBERS إلى SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/numbers-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى SXC" h2="مكتبة Perl لتحويل الأرقام إلى SXC" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/numbers-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى SXC في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل NUMBERS إلى SXC باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى SXC بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل NUMBERS إلى ملفات SXC عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج SXC مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من NUMBERS إلى SXC مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى SXC مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل NUMBERS إلى ملفات SXC عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن إخراج SXC عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل الأرقام إلى تنسيق SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل NUMBERS إلى SXC باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/numbers-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل الأرقام إلى SXC" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل الأرقام إلى SXC" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

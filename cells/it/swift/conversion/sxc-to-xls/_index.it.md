@@ -1,19 +1,19 @@
 ﻿---
-title:  Conversione da SXC a XLS API per Swift
-description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato SXC in un file in formato XLS.
+title:  Converti SXC in XLS API per Swift
+description: Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato SXC in un file in formato XLS.
 url: /it/swift/conversion/sxc-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per convertire SXC in XLS" h2="Libreria Swift per convertire SXC in XLS" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Swift. Questa è una soluzione professionale per convertire SXC in XLS e altri formati di documenti online utilizzando Swift." urlsection="conversion/sxc-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per convertire SXC in XLS" h2="Libreria Swift per convertire SXC in XLS" p="Utilizza Cells Conversion REST API per creare flussi di lavoro personalizzati per fogli di calcolo in Swift. Questa è una soluzione professionale per convertire SXC in XLS e altri formati di documenti online utilizzando Swift." urlsection="conversion/sxc-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file SXC in XLS in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da SXC a XLS è un'attività complessa. Tutte le transizioni del formato da SXC a XLS vengono eseguite dal nostro Swift SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria Swift è una soluzione professionale per convertire file SXC in XLS online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un perfetto output XLS.
+La conversione dei formati di file da SXC a XLS è un compito complesso. Tutte le transizioni dal formato SXC al formato XLS vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria Swift è una soluzione professionale per convertire file SXC in XLS online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output XLS perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per convertire SXC in formato XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per convertire il formato SXC in XLS" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,9 +66,9 @@ La conversione dei formati di file da SXC a XLS è un'attività complessa. Tutte
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Swift API per convertire SXC in XLS" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
+<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+<li>Chiama il metodo celluleWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

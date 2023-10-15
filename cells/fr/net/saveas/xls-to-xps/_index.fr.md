@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez XLS sous XPS API pour C#
-description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XLS en tant que fichier au format XPS.
-url: /fr/net/saveas/xls-to-xps/
+title:  Enregistrez XLS sous XPS en utilisant C#
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XLS au format XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer XLS sous XPS" h2="Bibliothèque C# pour enregistrer XLS sous XPS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLS sous XPS et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/xls-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLS sous le numéro XPS" h2="Bibliothèque C# pour enregistrer XLS sous XPS" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLS sous le numéro XPS et d\'autres formats de documents en ligne sous le numéro C#." urlsection="saveas/xls-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLS sous XPS dans C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLS sous le nom XPS est une tâche complexe. Toutes les transitions de format XLS vers XPS sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque C# est une solution professionnelle pour enregistrer des fichiers XLS sous XPS en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie XPS parfaite.
+Enregistrer les formats de fichiers depuis XLS sous le nom XPS est une tâche complexe. Toutes les transitions du format XLS vers XPS sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque C# est une solution professionnelle pour enregistrer XLS en tant que fichiers XPS en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie XPS parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans C# utilisant REST API pour enregistrer XLS au format XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Exemple de code pour enregistrer XLS sous XPS à l\'aide de REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ L'enregistrement des formats de fichiers à partir de XLS sous le nom XPS est un
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser C# API pour enregistrer XLS sous XPS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Net pour enregistrer les fichiers Excel sous d\'autres formats XLS comme XPS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>NET Framework 4.5.2 ou plus récent</li>
-<li>Net Standard 2.0 ou plus récent</li>
+<li>NET Framework 4.5.2 ou version ultérieure</li>
+<li>Net Standard 2.0 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

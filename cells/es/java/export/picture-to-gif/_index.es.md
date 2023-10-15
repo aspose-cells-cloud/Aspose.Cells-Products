@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportar IMAGEN a GIF desde una hoja de cálculo usando Java API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/java/export/picture-to-gif/
+title:  Exporte IMAGEN a GIF desde Excel usando Cells Cloud SDK for Java
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para exportar IMAGEN a archivo GIF" h2="Java biblioteca para exportar IMAGEN a archivo GIF" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en Java. Esta es una solución profesional para exportar IMAGEN a archivo de formato GIF desde hoja de cálculo en línea usando Java." urlsection="export/picture-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar IMAGEN a GIF desde Excel" h2="Biblioteca Java para exportar IMAGEN a archivo GIF" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en Java. Esta es una solución profesional para exportar archivos en formato IMAGEN a GIF desde una hoja de cálculo en línea usando Java." urlsection="export/picture-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto IMAGEN a archivo de formato GIF en Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto IMAGEN a un archivo en formato GIF usando Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto IMAGEN a un archivo GIF desde una hoja de cálculo es una tarea compleja. Nuestro SDK Java realiza las transiciones de formato de exportación de IMAGEN a GIF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de IMAGEN de origen. Nuestra biblioteca Java es una solución profesional para exportar objetos de IMAGEN a archivos de formato GIF en línea. Este SDK de Cloud brinda a los desarrolladores de Java una funcionalidad poderosa y una salida GIF perfecta.
+Exportar un objeto IMAGEN a un archivo GIF desde el archivo Excel es una tarea compleja. La exportación de transiciones de IMAGEN a formato GIF se realiza mediante nuestro SDK Java manteniendo el contenido estructural y lógico principal de la hoja de cálculo de IMAGEN de origen. Nuestra biblioteca Java es una solución profesional para exportar objetos de IMAGEN a archivos en formato GIF en línea. Este SDK de nube ofrece a los desarrolladores de Java una potente funcionalidad y una salida GIF perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para exportar IMAGEN a formato GIF desde una hoja de cálculo" gistPath="" %}}
@@ -51,16 +50,16 @@ Exportar un objeto IMAGEN a un archivo GIF desde una hoja de cálculo es una tar
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Java API para exportar IMAGEN a GIF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método postExport para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Java para exportar objetos de Excel IMAGEN a GIF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postExport` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Maven 2.2.0 o más reciente</li>
-<li>Java(TM) SE Entorno de tiempo de ejecución</li>
+<li>Java(TM) SE entorno de ejecución</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

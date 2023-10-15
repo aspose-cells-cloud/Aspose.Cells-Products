@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie JPG als MHTML API für Android
-description: Verwenden von Aspose.Cells Cloud SDK für Android zum Speichern von JPG-Formatdateien als MHTML-Formatdateien.
-url: /de/android/saveas/jpg-to-mhtml/
+title:  Speichern Sie JPG als MHTML mit Android
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von JPG-Formatdateien als MHTML-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, um JPG als MHTML zu speichern" h2="Android-Bibliothek zum Speichern von JPG als MHTML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um JPG als MHTML und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/jpg-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG als MHTML speichern" h2="Android-Bibliothek zum Speichern von JPG als MHTML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um JPG als MHTML und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/jpg-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei als MHTML in Android" >}}
@@ -13,7 +12,7 @@ url: /de/android/saveas/jpg-to-mhtml/
 Das Speichern von Dateiformaten von JPG als MHTML ist eine komplexe Aufgabe. Alle Übergänge von JPG ins MHTML-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um JPG als MHTML-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von JPG im MHTML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von JPG als MHTML mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten von JPG als MHTML ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um JPG als MHTML zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in anderen Formaten wie JPG und MHTML zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

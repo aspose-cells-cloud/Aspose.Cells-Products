@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie SHAPE aus der Tabelle mit Java API nach TIFF
+title:  Exportieren Sie SHAPE von Excel nach TIFF mit Cells Cloud SDK for Java
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/java/export/shape-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um SHAPE in die Datei TIFF zu exportieren" h2="Java-Bibliothek zum Exportieren von SHAPE in die TIFF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Java zu exportieren. Dies ist eine professionelle Lösung, um SHAPE online mit Java aus einer Tabellenkalkulation in eine Datei im TIFF-Format zu exportieren." urlsection="export/shape-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie SHAPE von Excel nach TIFF" h2="Java-Bibliothek zum Exportieren von SHAPE in die TIFF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel-Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um SHAPE online mit Java aus einer Tabellenkalkulation in eine Datei im TIFF-Format zu exportieren." urlsection="export/shape-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in die Formatdatei TIFF in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt mit dem Cells Cloud SDK for Java in eine Datei im Format TIFF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in die Datei TIFF ist eine komplexe Aufgabe. Der Export von SHAPE-Formatübergängen in das TIFF-Format wird von unserem Java-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um SHAPE-Objekte online in Dateien im TIFF-Format zu exportieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF Ausgabe.
+Das Exportieren eines SHAPE-Objekts aus der Datei Excel in die Datei TIFF ist eine komplexe Aufgabe. Der Export von SHAPE-Formatübergängen in das TIFF-Format wird von unserem Java-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SHAPE-Tabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um SHAPE-Objekte online in Dateien im TIFF-Format zu exportieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Exportieren von SHAPE in das TIFF-Format aus der Tabellenkalkulation" gistPath="" %}}
@@ -51,10 +50,10 @@ Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in die Datei T
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um SHAPE nach TIFF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Objekte von Excel SHAPE nach TIFF zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara CSV som SVG API för Ruby
-description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara en fil i CSV-format som en fil i SVG-format.
-url: /sv/ruby/saveas/csv-to-svg/
+title:  Spara CSV som SVG med Ruby
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara CSV-formatfilen som SVG-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att spara CSV som SVG" h2="Ruby-bibliotek för att spara CSV som SVG" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Ruby. Detta är en professionell lösning för att spara CSV som SVG och andra dokumentformat online med Ruby." urlsection="saveas/csv-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara CSV som SVG" h2="Ruby-bibliotek för att spara CSV som SVG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby. Detta är en professionell lösning för att spara CSV som SVG och andra dokumentformat online med Ruby." urlsection="saveas/csv-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en CSV-fil som SVG i Ruby" >}}
@@ -13,7 +12,7 @@ url: /sv/ruby/saveas/csv-to-svg/
 Att spara filformat från CSV som SVG är en komplex uppgift. Alla formatövergångar från CSV till SVG utförs av vår Ruby SDK samtidigt som käll-CSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att spara CSV som SVG-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt SVG-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att spara CSV som SVG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Exempel för att spara CSV som SVG med REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Att spara filformat från CSV som SVG är en komplex uppgift. Alla formatöverg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att spara CSV som SVG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att spara Excel filer som andra format CSV som SVG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

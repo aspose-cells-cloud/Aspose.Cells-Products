@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование SXC в TXT API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата SXC в файл формата TXT.
-url: /ru/ruby/conversion/sxc-to-txt/
+title:  Конвертируйте SXC в TXT с помощью Ruby
+description:  Использование Cloud SDK Aspose.Cells для Ruby для преобразования файла формата SXC в файл формата TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования SXC в TXT" h2="Библиотека Ruby для преобразования SXC в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для онлайн-конвертации SXC в TXT и другие форматы документов с использованием Ruby." urlsection="conversion/sxc-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать SXC в TXT" h2="Библиотека Ruby для преобразования SXC в TXT" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Ruby. Это профессиональное решение для онлайн-конвертирования SXC в TXT и другие форматы документов с помощью Ruby." urlsection="conversion/sxc-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в TXT в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование SXC в TXT с помощью Cloud SDK Cells для Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в TXT — сложная задача. Все переходы формата SXC в формат TXT выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов SXC в TXT. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из SXC в TXT может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования форматов SXC в TXT, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертации файлов SXC в TXT. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод TXT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования SXC в формат TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для преобразования SXC в TXT с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ru/ruby/conversion/sxc-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для преобразования SXC в TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для преобразования файлов Excel в другие форматы SXC в TXT." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

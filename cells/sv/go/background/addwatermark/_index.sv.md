@@ -1,7 +1,6 @@
 ﻿---
 title:  Lägg till vattenstämpel för lokal arbetsbok med Go in Cloud
-description:  Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel och OpenOffice Calc med Go. Lägger till vattenstämpel för lokala kalkylblad med Cells Cloud API SDK för Go.
-url: /sv/go/background/add-watermark/
+description: Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel och OpenOffice Calc med Go. Lägger till vattenstämpel för lokala kalkylblad med Cells Cloud API SDK för Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Gå till biblioteket för att lägga till vattenstämpel för lokal Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Watermark REST API för att lägga till vattenstämpel för lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Go. Denna professionella lösning lägger till vattenstämpel för Microsoft Excel och OpenOffice Calc-kalkylblad online med Go." urlsection="background/Add-watermark/" >}}

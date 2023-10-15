@@ -1,10 +1,9 @@
 ﻿---
-title: 另存为
-description: Aspose.Cells Cloud REST API 支持将excel文件保存为多种格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/saveas/
+title: 将Excel文件另存为其他格式文件
+description: Aspose.Cells Cloud REST API支持以多种格式保存Excel文件，并提供多种编程语言的SDK，包括Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby和Swift。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="另存为" h2="Aspose.Cells Cloud SDK支持将工作簿保存为其他格式。支持的文件格式有30多种文件格式。" logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将Excel文件另存为其他格式文件" h2="Aspose.Cells Cloud SDK 支持以 30 多种不同的文件格式保存工作簿。" p="Aspose.Cells Cloud REST API支持以多种格式保存Excel文件，并提供多种编程语言的SDK，包括Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby和Swift。" urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -38,39 +37,39 @@ url: /zh/saveas/
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
 {{< blocks/products/pf/product-card-row title="热门经营" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="支持的开发语言" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="安卓 SDK" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="安卓 SDK" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="适用于 Go 的 SDK" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="适用于 Go 的 SDK" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="软件开发工具包 for Java" imgSrc="/cells/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="软件开发工具包 for Java" imgSrc="/cells/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="网络SDK" imgSrc="/cells/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="网络SDK" imgSrc="/cells/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="节点SDK" imgSrc="/cells/sdk/aspose_cells-for-node.png" productLink="/cells/node/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="节点SDK" imgSrc="/cells/sdk/aspose_cells-for-node.png" productLink="/cells/node/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="SDK Perl" imgSrc="/cells/sdk/aspose_cells-for-perl.png" productLink="/cells/perl/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK Perl" imgSrc="/cells/sdk/aspose_cells-for-perl.png" productLink="/cells/perl/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="SDK PHP" imgSrc="/cells/sdk/aspose_cells-for-php.png" productLink="/cells/php/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK PHP" imgSrc="/cells/sdk/aspose_cells-for-php.png" productLink="/cells/php/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="SDK Python" imgSrc="/cells/sdk/aspose_cells-for-python.png" productLink="/cells/python/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK Python" imgSrc="/cells/sdk/aspose_cells-for-python.png" productLink="/cells/python/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="红宝石 SDK" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="红宝石 SDK" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="斯威夫特 SDK" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="斯威夫特 SDK" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 

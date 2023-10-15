@@ -1,25 +1,24 @@
 ﻿---
-title:  Bulutta C# ile yerel e-tabloyu şifreyle şifreleyin
-description:  Microsoft Excel ve C# ile OpenOffice Calc Koruması için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, C# için Cells Cloud API SDK ile şifreyle şifreleyin.
-url: /tr/net/protect/encrypt-with-password/
+title: Bulutta C# ile yerel e-tabloyu parolayla şifreleyin
+description:  Microsoft Excel'i Korumak için Bulut API'leri ve SDK'lar ve C# ile OpenOffice Calc. C# için Cells Bulut API SDK'sı ile yerel e-tabloları şifreyle şifreleyin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API yerel koruma için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="C# yerel Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosunu korumak için kitaplık" p="Yerel Microsoft Excel\'i ve OpenOffice Calc hesap tablosunu C#\'deki parola iş akışlarıyla korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Excel\'i ve çevrimiçi OpenOffice Calc elektronik tablosunu C# kullanan parolalarla korur." urlsection="protect/Encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablolarını parolayla korumak için C# için Cells Cloud SDK\'yı kullanın." h2="C# yerel parola korumalı kitaplık Microsoft Excel ve OpenOffice Calc elektronik tabloları" p="Cells Koruma REST API\'i kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablolarını C# iş akışlarında parolalarla koruyun. Bu profesyonel çözüm, Microsoft Excel ve C# numaralı telefonu kullanarak çevrimiçi OpenOffice Calc elektronik tabloları için parola koruması sağlar." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile koruyun - C# REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablolarını, Python için Cells Cloud SDK\'yı kullanarak bir parola ile koruyun." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
 <br/>
-Yerel bir e-tabloyu parolayla korumak karmaşık bir iştir. Yerel elektronik tabloyu parola geçişleriyle koruma, kaynak elektronik tablonun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, yerel elektronik tabloları çevrimiçi bir parolayla korumak için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Yerel bir e-tablo için parola koruması karmaşık bir görev olabilir. C# SDK'mız, kaynak e-tablonun ana yapısal ve mantıksal içeriğini koruyarak süreci yönetir. C# kitaplığımız, yerel elektronik tabloların çevrimiçi parola koruması için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, C# geliştiricilerine sağlam işlevsellik ve kusursuz API olanağı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Yerel elektronik tabloları şifrelemek için REST API kullanan C#\'deki kod örneği" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Export.cs" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Yerel e-tabloları şifrelemek için REST API\'i kullanan C#\'deki kod örneği" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Export.cs" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Şifrelemek için C# API nasıl kullanılır?" >}}
-<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyasını korumak için Cells Net için Bulut SDK\'sı nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için PostProtect yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
@@ -27,7 +26,7 @@ Yerel bir e-tabloyu parolayla korumak karmaşık bir iştir. Yerel elektronik ta
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>NET Framework 4.5.2 veya daha yenisi</li>
-<li>Net Standard 2.0 veya daha yenisi</li>
+<li>Net Standardı 2.0 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

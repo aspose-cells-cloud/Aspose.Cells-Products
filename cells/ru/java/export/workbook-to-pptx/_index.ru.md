@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспорт WORKBOOK в PPTX из электронной таблицы с использованием Java API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/java/export/workbook-to-pptx/
+title:  Экспортируйте WORKBOOK в PPTX с номера Excel с помощью Cloud SDK Cells for Java.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для экспорта WORKBOOK в файл PPTX" h2="Java библиотека для экспорта WORKBOOK в файл PPTX" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Java. Это профессиональное решение для экспорта файла формата WORKBOOK в PPTX из электронной таблицы онлайн с использованием Java." urlsection="export/workbook-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт WORKBOOK в PPTX с номера Excel." h2="Java библиотека для экспорта WORKBOOK в файл PPTX" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Java. Это профессиональное решение для экспорта WORKBOOK в файл формата PPTX из электронной таблицы онлайн с помощью Java." urlsection="export/workbook-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата PPTX в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект WORKBOOK в файл формата PPTX с помощью Cloud SDK Cells for Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл PPTX из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат PPTX выполняется нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата PPTX. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод PPTX.
+Экспорт объекта WORKBOOK в файл PPTX из файла Excel — сложная задача. Экспорт переходов формата WORKBOOK в PPTX выполняется с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной таблицы WORKBOOK. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата PPTX. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для экспорта WORKBOOK в формат PPTX из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Java с использованием REST API для экспорта WORKBOOK в формат PPTX из электронной таблицы." gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,10 +50,10 @@ url: /ru/java/export/workbook-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для экспорта WORKBOOK в PPTX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postExport, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для экспорта объектов из Excel WORKBOOK в PPTX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postExport` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,16 @@
 ﻿---
-title:  Convertir TXT en XLSM API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format TXT en fichier au format XLSM.
+title:  TXT en XLSM Convertir API pour Swift
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format TXT en fichier au format XLSM.
 url: /fr/swift/conversion/txt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir TXT en XLSM" h2="Bibliothèque Swift pour convertir TXT en XLSM" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir TXT en XLSM et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/txt-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir TXT en XLSM" h2="Bibliothèque Swift pour convertir TXT en XLSM" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir TXT en XLSM et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/txt-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier TXT en XLSM dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de TXT en XLSM est une tâche complexe. Toutes les transitions de format TXT vers XLSM sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers TXT en XLSM. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLSM parfaite.
+La conversion des formats de fichiers de TXT en XLSM est une tâche complexe. Toutes les transitions du format TXT vers XLSM sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers TXT en XLSM en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLSM parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir TXT au format XLSM" gistPath="" %}}
@@ -67,8 +67,8 @@ La conversion des formats de fichiers de TXT en XLSM est une tâche complexe. To
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir TXT en XLSM" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

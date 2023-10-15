@@ -1,19 +1,18 @@
 ﻿---
-title:  Convertir MHTML en JPG API pour Go
-description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir un fichier au format MHTML en fichier au format JPG.
-url: /fr/go/conversion/mhtml-to-jpg/
+title:  Convertir MHTML en JPG à l'aide de Go
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format MHTML en fichier au format JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir MHTML en JPG" h2="Accédez à la bibliothèque pour convertir MHTML en JPG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir MHTML en JPG et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/mhtml-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir MHTML en JPG" h2="Aller à la bibliothèque pour convertir MHTML en JPG" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Go. Il s\'agit d\'une solution professionnelle pour convertir MHTML en JPG et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/mhtml-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier MHTML en JPG dans Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez MHTML en JPG à l\'aide du SDK Cloud Cells pour Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de MHTML en JPG est une tâche complexe. Toutes les transitions de format MHTML vers JPG sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers MHTML en JPG. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie JPG parfaite.
+La conversion des formats de fichiers MHTML en JPG peut être une tâche complexe. Notre SDK Go gère toutes les conversions du format MHTML vers JPG tout en préservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque Go fournit une solution professionnelle pour convertir des fichiers MHTML en JPG en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et garantit une sortie JPG de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir MHTML au format JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Exemple de code pour convertir MHTML en JPG à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ La conversion des formats de fichiers de MHTML en JPG est une tâche complexe. T
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Go API pour convertir MHTML en JPG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Go pour convertir des fichiers Excel vers d\'autres formats MHTML en JPG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PutConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>go version go1.13.0 ou plus récente</li>
+<li>aller à la version go1.13.0 ou plus récente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير كتاب العمل إلى MARKDOWN من جدول البيانات باستخدام PHP API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/php/export/workbook-to-markdown/
+title:  تصدير المصنف إلى MARKDOWN من Excel باستخدام Cells Cloud SDK لـ PHP
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتصدير WORKBOOK إلى ملف MARKDOWN" h2="مكتبة PHP لتصدير كتاب العمل إلى ملف MARKDOWN" p="استخدم Cells Export REST API لتصدير مهام سير عمل العناصر الداخلية لجدول البيانات في PHP. هذا حل احترافي لتصدير WORKBOOK إلى ملف بتنسيق MARKDOWN من جدول بيانات عبر الإنترنت باستخدام PHP." urlsection="export/workbook-to-markdown/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير المصنف إلى MARKDOWN من Excel" h2="مكتبة PHP لتصدير المصنف إلى ملف MARKDOWN" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في PHP. يعد هذا حلاً احترافيًا لتصدير WORKBOOK إلى ملف بتنسيق MARKDOWN من جدول البيانات عبر الإنترنت باستخدام PHP." urlsection="export/workbook-to-markdown/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKBOOK إلى ملف بتنسيق MARKDOWN في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن كتاب العمل إلى ملف تنسيق MARKDOWN باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن كتاب العمل إلى ملف MARKDOWN من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKBOOK إلى تنسيق MARKDOWN بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق MARKDOWN عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج MARKDOWN مثالي.
+يعد تصدير كائن WORKBOOK إلى ملف MARKDOWN من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق WORKBOOK إلى MARKDOWN بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق MARKDOWN عبر الإنترنت. يوفر Cloud SDK هذا لمطوري PHP وظائف قوية ومخرجات MARKDOWN مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في PHP باستخدام REST API لتصدير WORKBOOK إلى تنسيق MARKDOWN من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال للتعليمات البرمجية في PHP باستخدام REST API لتصدير المصنف إلى تنسيق MARKDOWN من جدول البيانات" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/export/workbook-to-markdown/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتصدير كتاب العمل إلى MARKDOWN" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتصدير الكائنات من كتاب العمل Excel إلى MARKDOWN" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

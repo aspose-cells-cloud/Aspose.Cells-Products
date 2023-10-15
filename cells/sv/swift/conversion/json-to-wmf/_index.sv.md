@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON till WMF Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i JSON-format till fil i WMF-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i JSON-format till fil i WMF-format.
 url: /sv/swift/conversion/json-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

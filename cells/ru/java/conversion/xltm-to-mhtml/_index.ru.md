@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLTM в MHTML API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLTM в файл формата MHTML.
-url: /ru/java/conversion/xltm-to-mhtml/
+title:  Преобразуйте XLTM в MHTML, используя Java.
+description:  Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата XLTM в файл формата MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLTM в MHTML" h2="Java библиотека для преобразования XLTM в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации XLTM в MHTML и другие форматы документов с использованием Java." urlsection="conversion/xltm-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLTM в MHTML" h2="Java библиотека для конвертации XLTM в MHTML" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертирования XLTM в MHTML и другие форматы документов с использованием номера Java." urlsection="conversion/xltm-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в MHTML в Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XLTM в MHTML с помощью Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в MHTML — сложная задача. Все переходы формата XLTM в формат MHTML выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLTM в MHTML. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из XLTM в MHTML может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования формата XLTM в MHTML, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертирования файлов XLTM в MHTML. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод MHTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLTM в формат MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для преобразования XLTM в MHTML с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ url: /ru/java/conversion/xltm-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования XLTM в MHTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для преобразования файлов Excel в другие форматы XLTM в MHTML." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

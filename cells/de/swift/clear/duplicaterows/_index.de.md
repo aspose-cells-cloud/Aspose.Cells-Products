@@ -1,5 +1,5 @@
 ﻿---
-title: Löschen Sie doppelte Zeilen in der lokalen Arbeitsmappe mit Swift in Cloud
+title:  Löschen Sie doppelte Zeilen in der lokalen Arbeitsmappe mit Swift in Cloud
 description:  Cloud-APIs und SDKs zum Löschen doppelter Zeilen auf Microsoft Excel und OpenOffice Calc mit Swift. Löschen Sie doppelte Zeilen in lokalen Tabellenkalkulationen mit dem Cells Cloud API SDK für Swift
 url: /de/swift/clear/duplicate-rows/
 ---

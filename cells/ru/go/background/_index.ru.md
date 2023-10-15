@@ -1,14 +1,13 @@
 ﻿---
-title:  Установить фон с помощью Go
-description: Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с помощью Go. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
-url: /ru/go/background/
+title:  Установите фон для файлов Excel с помощью Go
+description:  Aspose.Cells Cloud REST API поддерживает настройку фона для файлов Excel с помощью Go и предлагает SDK для различных языков программирования.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Установить фон с помощью Go" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с помощью Go. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Установите фон для файлов Excel с помощью Go" h2="Aspose.Cells Cloud SDK поддерживает настройку фона в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает настройку фона для файлов Excel с помощью Go и предлагает SDK для различных языков программирования." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Установите фон, используя ссылки Go Extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Установите фон для файлов Excel, используя ссылки расширения Go." >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
@@ -19,8 +18,8 @@ url: /ru/go/background/
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
-{{< blocks/products/pf/slr-element name="API Ссылки" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Рекомендации" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="Обучающие видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}

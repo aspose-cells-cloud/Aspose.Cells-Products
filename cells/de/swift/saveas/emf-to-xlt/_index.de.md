@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie EMF als XLT API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im EMF-Format als XLT-Formatdatei zu speichern.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im EMF-Format als XLT-Formatdatei zu speichern.
 url: /de/swift/saveas/emf-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

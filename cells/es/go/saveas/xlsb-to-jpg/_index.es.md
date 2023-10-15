@@ -1,19 +1,18 @@
 ﻿---
-title:  Guardar XLSB como JPG API para Go
-description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato XLSB como archivo de formato JPG.
-url: /es/go/saveas/xlsb-to-jpg/
+title:  Guarde XLSB como JPG usando Go
+description:  Utilizando Aspose.Cells Cloud SDK para Go para guardar el archivo en formato XLSB como archivo en formato JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para guardar XLSB como JPG" h2="Ir a la biblioteca para guardar XLSB como JPG" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar XLSB como JPG y otros formatos de documentos en línea usando Go." urlsection="saveas/xlsb-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XLSB como JPG" h2="Ir a la biblioteca para guardar XLSB como JPG" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar XLSB como JPG y otros formatos de documentos en línea usando Go." urlsection="saveas/xlsb-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XLSB como JPG en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XLSB como JPG en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLSB como JPG es una tarea compleja. Todas las transiciones de formato XLSB a JPG se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSB de origen. Nuestra biblioteca Go es una solución profesional para guardar XLSB como archivos JPG en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida JPG perfecta.
+Guardar formatos de archivo de XLSB como JPG es una tarea compleja. Todas las transiciones de formato XLSB a JPG las realiza nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSB de origen. Nuestra biblioteca Go es una solución profesional para guardar XLSB como archivos JPG en línea. Este Cloud SDK ofrece a los desarrolladores de Go una funcionalidad potente y una salida JPG perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para guardar XLSB como formato JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Vaya ejemplo de código para guardar XLSB como JPG usando REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +30,15 @@ Guardar formatos de archivo de XLSB como JPG es una tarea compleja. Todas las tr
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Go API para guardar XLSB como JPG" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para guardar archivos Excel en otros formatos XLSB como JPG" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>ir a la versión go1.13.0 o más reciente</li>
+<li>vaya a la versión go1.13.0 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

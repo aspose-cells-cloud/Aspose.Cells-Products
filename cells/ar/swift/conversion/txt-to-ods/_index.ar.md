@@ -1,19 +1,19 @@
 ﻿---
-title:  TXT إلى ODS - تحويل API إلى Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق TXT إلى ملف بتنسيق ODS.
+title:  تحويل TXT إلى ODS API لـ Swift
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق TXT إلى ملف تنسيق ODS.
 url: /ar/swift/conversion/txt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل TXT إلى ODS" h2="مكتبة سريعة لتحويل TXT إلى ODS" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل TXT إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/txt-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل TXT إلى المواد المستنفدة للأوزون" h2="مكتبة سويفت لتحويل TXT إلى ODS" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل TXT إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/txt-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TXT إلى ODS في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف TXT إلى ODS في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TXT إلى ODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى ODS بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات TXT إلى ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج ODS مثالي.
+يعد تحويل تنسيقات الملفات من TXT إلى ODS مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق TXT إلى ODS بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات TXT إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات ODS مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل TXT إلى تنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل TXT إلى تنسيق ODS" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/txt-to-ods/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل TXT إلى ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

@@ -1,16 +1,16 @@
 ﻿---
 title:  Enregistrer XLT sous SQL API pour Swift
-description:  Utilisation de Aspose.Cells Cloud SDK for Swift pour enregistrer le fichier au format XLT en tant que fichier au format SQL.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format XLT en tant que fichier au format SQL.
 url: /fr/swift/saveas/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLT en SQL" h2="Bibliothèque Swift pour enregistrer XLT en SQL" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLT au format SQL et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlt-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLT au format SQL" h2="Bibliothèque Swift pour enregistrer XLT au format SQL" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLT au format SQL et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlt-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLT en SQL dans Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLT au format SQL dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLT en tant que SQL est une tâche complexe. Toutes les transitions de format XLT vers SQL sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer XLT en tant que fichiers SQL en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie SQL parfaite.
+L'enregistrement des formats de fichiers XLT au format SQL est une tâche complexe. Toutes les transitions du format XLT vers SQL sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer XLT sous forme de fichiers SQL en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie SQL parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer XLT au format SQL" gistPath="" %}}
@@ -54,10 +54,10 @@ L'enregistrement de formats de fichiers à partir de XLT en tant que SQL est une
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer XLT en SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer XLT au format SQL" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

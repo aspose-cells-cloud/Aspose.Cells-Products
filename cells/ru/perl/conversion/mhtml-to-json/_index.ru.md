@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование MHTML в JSON API для Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата MHTML в файл формата JSON.
-url: /ru/perl/conversion/mhtml-to-json/
+title:  Преобразуйте MHTML в JSON, используя Perl.
+description:  Использование Cloud SDK Aspose.Cells для Perl для преобразования файла формата MHTML в файл формата JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования MHTML в JSON" h2="Perl библиотека для преобразования MHTML в JSON" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации MHTML в JSON и другие форматы документов с использованием Perl." urlsection="conversion/mhtml-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразование MHTML в JSON" h2="Perl библиотека для преобразования MHTML в JSON" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Perl. Это профессиональное решение для онлайн-конвертирования MHTML в JSON и другие форматы документов с использованием номера Perl." urlsection="conversion/mhtml-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в JSON в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование MHTML в JSON с помощью Cloud SDK Cells для Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в JSON — сложная задача. Все переходы формата MHTML в формат JSON выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов MHTML в JSON. Этот Cloud SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Преобразование форматов файлов из MHTML в JSON может оказаться сложной задачей. Наш SDK Perl обрабатывает все преобразования форматов MHTML в JSON, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Perl предоставляет профессиональное решение для онлайн-конвертирования файлов MHTML в JSON. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и обеспечивает высококачественный вывод JSON.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования MHTML в формат JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для преобразования MHTML в JSON с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ru/perl/conversion/mhtml-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для преобразования MHTML в JSON" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать SDK Perl для преобразования MHTML в JSON" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните MHTML как DOCX API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата MHTML в виде файла формата DOCX.
-url: /ru/ruby/saveas/mhtml-to-docx/
+title:  Сохраните MHTML как DOCX, используя Ruby.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата MHTML как файла формата DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения MHTML как DOCX" h2="Библиотека Ruby для сохранения MHTML как DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения MHTML как DOCX и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/mhtml-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить MHTML как DOCX" h2="Библиотека Ruby для сохранения MHTML как DOCX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Ruby. Это профессиональное решение для сохранения MHTML в формате DOCX и других форматов документов онлайн с использованием Ruby." urlsection="saveas/mhtml-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как DOCX в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как DOCX в Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде DOCX — сложная задача. Все переходы формата MHTML в формат DOCX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Ruby — это профессиональное решение для сохранения файлов MHTML в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из MHTML в формате DOCX — сложная задача. Все переходы формата MHTML в DOCX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Ruby — это профессиональное решение для сохранения файлов MHTML в формате DOCX онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения MHTML в формате DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для сохранения MHTML как DOCX с использованием REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /ru/ruby/saveas/mhtml-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для сохранения MHTML как DOCX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для сохранения файлов Excel в других форматах MHTML как DOCX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

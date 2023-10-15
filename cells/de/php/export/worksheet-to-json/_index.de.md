@@ -1,16 +1,15 @@
 ﻿---
-title: Exportieren Sie ARBEITSBLATT aus der Tabellenkalkulation in JSON mit PHP API
+title:  Exportieren Sie ARBEITSBLATT von Excel nach JSON mit dem Cloud SDK Cells für PHP
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/php/export/worksheet-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren von ARBEITSBLATT in eine JSON-Datei" h2="PHP-Bibliothek zum Exportieren von WORKSHEET in eine JSON-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTEN in eine JSON-Formatdatei aus einer Tabellenkalkulation online mit PHP." urlsection="export/worksheet-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie ARBEITSBLATT von Excel nach JSON" h2="PHP-Bibliothek zum Exportieren von WORKSHEET in eine JSON-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in PHP zu exportieren. Dies ist eine professionelle Lösung, um ARBEITSBLATT online aus einer Tabellenkalkulation in eine JSON-Formatdatei mit PHP zu exportieren." urlsection="export/worksheet-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in die JSON-Formatdatei in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im JSON-Format mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine JSON-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das JSON-Format werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im JSON-Format. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in eine JSON-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das JSON-Format werden von unserem SDK PHP durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im JSON-Format. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von ARBEITSBLATT aus der Tabellenkalkulation in das JSON-Format" gistPath="" %}}
@@ -36,10 +35,10 @@ Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine JS
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um WORKSHEET in JSON zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Objekte aus Excel WORKSHEET nach JSON zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

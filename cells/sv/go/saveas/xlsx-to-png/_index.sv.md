@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLSX som PNG API för Go
-description:  Använd Aspose.Cells Cloud SDK för Go för att spara XLSX-formatfil som PNG-formatfil.
-url: /sv/go/saveas/xlsx-to-png/
+title:  Spara XLSX som PNG med Go
+description:  Använder Aspose.Cells Cloud SDK för Go för att spara XLSX-formatfil som PNG-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå API för att spara XLSX som PNG" h2="Gå till biblioteket för att spara XLSX som PNG" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att spara XLSX som PNG och andra dokumentformat online med Go." urlsection="saveas/xlsx-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSX som PNG" h2="Gå till biblioteket för att spara XLSX som PNG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att spara XLSX som PNG och andra dokumentformat online med Go." urlsection="saveas/xlsx-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSX-fil som PNG i Go" >}}
@@ -13,7 +12,7 @@ url: /sv/go/saveas/xlsx-to-png/
 Att spara filformat från XLSX som PNG är en komplex uppgift. Alla formatövergångar från XLSX till PNG utförs av vår Go SDK samtidigt som källbladets XLSX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att spara XLSX som PNG-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt PNG-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att spara XLSX som PNG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att spara XLSX som PNG med REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Att spara filformat från XLSX som PNG är en komplex uppgift. Alla formatöverg
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att spara XLSX som PNG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att spara Excel filer som andra format XLSX som PNG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

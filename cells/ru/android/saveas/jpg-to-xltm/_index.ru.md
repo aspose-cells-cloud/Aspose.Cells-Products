@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить JPG как XLTM API для Android
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата JPG в виде файла формата XLTM.
-url: /ru/android/saveas/jpg-to-xltm/
+title:  Сохраните JPG как XLTM с помощью Android
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата JPG в формате XLTM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения JPG в формате XLTM" h2="Библиотека Android для сохранения JPG в формате XLTM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения JPG как XLTM и других форматов документов онлайн с помощью Android." urlsection="saveas/jpg-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить JPG как XLTM" h2="Библиотека Android для сохранения JPG в формате XLTM" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения JPG в формате XLTM и других форматов документов онлайн с помощью Android." urlsection="saveas/jpg-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как XLTM в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как XLTM на Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG в виде XLTM — сложная задача. Все переходы между форматами JPG и XLTM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Android — это профессиональное решение для сохранения файлов JPG в формате XLTM онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLTM.
+Сохранение форматов файлов из JPG в формате XLTM — сложная задача. Все переходы формата JPG в XLTM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Android — это профессиональное решение для сохранения файлов JPG в формате XLTM онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный результат XLTM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения JPG в формате XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для сохранения JPG в формате XLTM с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,15 +34,15 @@ url: /ru/android/saveas/jpg-to-xltm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения JPG в формате XLTM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для сохранения файлов Excel в других форматах JPG как XLTM" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

@@ -1,19 +1,18 @@
 ﻿---
-title:  Guarde HTML como GIF API para Ruby
-description:  Usando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato HTML como archivo de formato GIF.
-url: /es/ruby/saveas/html-to-gif/
+title:  Guarde HTML como GIF usando Ruby
+description:  Utilizando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato HTML como archivo de formato GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para guardar HTML como GIF" h2="Biblioteca Ruby para guardar HTML como GIF" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para guardar HTML como GIF y otros formatos de documentos en línea usando Ruby." urlsection="saveas/html-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar HTML como GIF" h2="Biblioteca Ruby para guardar HTML como GIF" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para guardar HTML como GIF y otros formatos de documentos en línea usando Ruby." urlsection="saveas/html-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como GIF en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde HTML como GIF es una tarea compleja. Todas las transiciones de formato HTML a GIF las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo HTML de origen. Nuestra biblioteca Ruby es una solución profesional para guardar HTML como archivos GIF en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida GIF perfecta.
+Guardar formatos de archivo de HTML como GIF es una tarea compleja. Nuestro SDK de Ruby realiza todas las transiciones de formato HTML a GIF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Ruby es una solución profesional para guardar HTML como archivos GIF en línea. Este SDK de Cloud ofrece a los desarrolladores de Ruby una potente funcionalidad y una salida GIF perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar HTML como formato GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Ruby para guardar HTML como GIF usando REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Guardar formatos de archivo desde HTML como GIF es una tarea compleja. Todas las
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Ruby API para guardar HTML como GIF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llamar a celdas_ahorrar_como_correo_documento_ahorrar_como método para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Ruby para guardar archivos Excel en otros formatos HTML como GIF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `post_workbook_save_as` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

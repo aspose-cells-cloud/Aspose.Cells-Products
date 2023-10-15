@@ -1,7 +1,6 @@
 ﻿---
 title:  Cloud kalkylblad digital signatur i Cloud
 description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc digital signatur. Kalkylarks digitala signatur från Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/perl/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="Perl bibliotek till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digitala signaturfilarbetsflöden i Perl. Denna professionella lösning digitalsignaturmoln 07615346 online-kalkylblad 0715346 och online-lösenord CalcOffice 481566 och online och digital signaturfil med Perl." urlsection="protect/Digital-signature/" >}}
@@ -18,7 +17,7 @@ Att digitala signaturer för ett molnkalkylblad med ett lösenord och en digital
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Perl API till digital signatur" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att digitalt signera en Excel-fil." >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Ring celler_arbetsbok_posta_digital_signaturmetod för att få den resulterande strömmen</li>

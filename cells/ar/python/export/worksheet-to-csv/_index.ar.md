@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير ورقة العمل إلى ملف CSV من جدول البيانات باستخدام Python API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/python/export/worksheet-to-csv/
+title:  تصدير ورقة عمل إلى CSV من Excel باستخدام Cells Cloud SDK لـ Python
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتصدير WORKSHEET إلى ملف CSV" h2="مكتبة Python لتصدير WORKSHEET إلى ملف CSV" p="استخدم Cells Export REST API لتصدير مسارات عمل الكائن الداخلي لجدول البيانات في Python. هذا حل احترافي لتصدير WORKSHEET إلى ملف بتنسيق CSV من جدول بيانات عبر الإنترنت باستخدام Python." urlsection="export/worksheet-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير ورقة العمل إلى CSV من Excel" h2="مكتبة Python لتصدير ورقة العمل إلى ملف CSV" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Python. يعد هذا حلاً احترافيًا لتصدير ورقة العمل إلى ملف بتنسيق CSV من جدول البيانات عبر الإنترنت باستخدام Python." urlsection="export/worksheet-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق CSV في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن ورقة العمل إلى ملف بتنسيق CSV باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف CSV من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير WORKSHEET إلى تنسيق CSV بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق CSV عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج CSV مثالي.
+يعد تصدير كائن ورقة العمل إلى ملف CSV من الملف Excel مهمة معقدة. يتم تنفيذ انتقالات تصدير ورقة العمل إلى تنسيق CSV بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات المصدر. تعد مكتبتنا Python حلاً احترافيًا لتصدير كائنات ورقة العمل إلى ملفات بتنسيق CSV عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Python وظائف قوية ومخرجات CSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتصدير WORKSHEET إلى تنسيق CSV من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Python باستخدام REST API لتصدير ورقة العمل إلى تنسيق CSV من جدول البيانات" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,10 +36,10 @@ url: /ar/python/export/worksheet-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتصدير ورقة العمل إلى CSV" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>اتصل بطريقة post_export للحصول على التدفق الناتج </li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتصدير الكائنات من ورقة عمل Excel إلى CSV" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم باستدعاء طريقة post_export للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

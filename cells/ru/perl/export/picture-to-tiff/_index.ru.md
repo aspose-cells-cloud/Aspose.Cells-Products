@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспортировать ИЗОБРАЖЕНИЕ в TIFF из электронной таблицы, используя Perl API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/perl/export/picture-to-tiff/
+title:  Экспортируйте PICTURE в TIFF из Excel с помощью Cloud SDK Cells для Perl.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для экспорта ИЗОБРАЖЕНИЯ в файл TIFF" h2="Perl библиотека для экспорта ИЗОБРАЖЕНИЯ в файл TIFF" p="Используйте Cells Экспорт REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Perl. Это профессиональное решение для экспорта файла формата ИЗОБРАЖЕНИЕ в файл формата TIFF из электронной таблицы онлайн с использованием Perl." urlsection="export/picture-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать КАРТИНКУ в TIFF из Excel" h2="Perl библиотека для экспорта КАРТИНКИ в файл TIFF" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Perl. Это профессиональное решение для экспорта ИЗОБРАЖЕНИЯ в файл формата TIFF из электронной таблицы онлайн с использованием Perl." urlsection="export/picture-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта PICTURE в файл формата TIFF в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект PICTURE в файл формата TIFF с помощью Cloud SDK Cells для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта ИЗОБРАЖЕНИЕ в файл TIFF из электронной таблицы является сложной задачей. Экспорт ИЗОБРАЖЕНИЯ в переходы формата TIFF выполняется нашим SDK Perl при сохранении основного структурного и логического содержания исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата TIFF. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат TIFF.
+Экспорт объекта PICTURE в файл TIFF из файла Excel — сложная задача. Экспорт PICTURE в переходы формата TIFF выполняется нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы PICTURE. Наша библиотека Perl представляет собой профессиональное решение для экспорта объектов PICTURE в файлы формата TIFF онлайн. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный результат TIFF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для экспорта ИЗОБРАЖЕНИЯ в формат TIFF из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Perl с использованием REST API для экспорта ИЗОБРАЖЕНИЯ в формат TIFF из электронной таблицы." gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,10 +36,10 @@ url: /ru/perl/export/picture-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для экспорта ИЗОБРАЖЕНИЯ в TIFF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод post_export, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Perl для экспорта объектов из Excel PICTURE в TIFF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод post_export, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

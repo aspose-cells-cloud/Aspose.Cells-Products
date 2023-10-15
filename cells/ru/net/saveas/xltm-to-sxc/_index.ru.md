@@ -1,19 +1,18 @@
 ﻿---
-title: Сохранить XLTM как SXC API для C#
+title:  Сохраните XLTM как SXC, используя C#.
 description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLTM как файла формата SXC.
-url: /ru/net/saveas/xltm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить XLTM как SXC" h2="C# библиотека для сохранения XLTM как SXC" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLTM как SXC и других форматов документов в Интернете с использованием C#." urlsection="saveas/xltm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLTM как SXC" h2="C# библиотека для сохранения XLTM как SXC" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Net. Это профессиональное решение для сохранения XLTM как SXC и других форматов документов онлайн с использованием номера C#." urlsection="saveas/xltm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как SXC по адресу C#." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как SXC по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде SXC — сложная задача. Все переходы между форматами XLTM и SXC выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека C# — это профессиональное решение для сохранения XLTM в виде файлов SXC в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат SXC.
+Сохранение форматов файлов из XLTM как SXC — сложная задача. Все переходы формата XLTM в SXC выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека C# — это профессиональное решение для сохранения файлов XLTM в формате SXC онлайн. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLTM в формате SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для сохранения XLTM как SXC с использованием REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ url: /ru/net/saveas/xltm-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API, чтобы сохранить XLTM как SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для сохранения файлов Excel в других форматах XLTM как SXC" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

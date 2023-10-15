@@ -1,19 +1,19 @@
 ﻿---
-title:  EMF إلى SQL - تحويل API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق EMF إلى ملف بتنسيق SQL.
+title:  EMF إلى SQL تحويل API لـ Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق EMF إلى ملف تنسيق SQL.
 url: /ar/swift/conversion/emf-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل EMF إلى SQL" h2="مكتبة سريعة لتحويل EMF إلى SQL" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل EMF إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/emf-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل EMF إلى SQL" h2="مكتبة سويفت لتحويل EMF إلى SQL" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل EMF إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/emf-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف EMF إلى SQL في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من EMF إلى SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى SQL بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل EMF إلى ملفات SQL عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج SQL مثالي.
+يعد تحويل تنسيقات الملفات من EMF إلى SQL مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق EMF إلى SQL بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل EMF إلى ملفات SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات SQL مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل EMF إلى تنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لتحويل EMF إلى تنسيق SQL" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/emf-to-sql/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل EMF إلى SQL" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

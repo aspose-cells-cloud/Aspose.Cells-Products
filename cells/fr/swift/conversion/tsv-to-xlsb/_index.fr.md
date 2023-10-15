@@ -1,19 +1,19 @@
 ﻿---
-title:  Convertir TSV en XLSB API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format TSV en fichier au format XLSB.
+title:  TSV en XLSB Convertir API pour Swift
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format TSV en fichier au format XLSB.
 url: /fr/swift/conversion/tsv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir TSV en XLSB" h2="Bibliothèque Swift pour convertir TSV en XLSB" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir TSV en XLSB et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/tsv-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir TSV en XLSB" h2="Bibliothèque Swift pour convertir TSV en XLSB" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir TSV en XLSB et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/tsv-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier TSV en XLSB dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de TSV en XLSB est une tâche complexe. Toutes les transitions de format TSV vers XLSB sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers TSV en XLSB. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLSB parfaite.
+La conversion des formats de fichiers TSV en XLSB est une tâche complexe. Toutes les transitions du format TSV vers XLSB sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers TSV en XLSB en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLSB parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir TSV au format XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir le format TSV au format XLSB" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -67,8 +67,8 @@ La conversion des formats de fichiers de TSV en XLSB est une tâche complexe. To
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir TSV en XLSB" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование JSON в ODS API для Go
-description:  Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата JSON в файл формата ODS.
-url: /ru/go/conversion/json-to-ods/
+title:  Преобразование JSON в ODS с помощью Go
+description:  Использование Cloud SDK Aspose.Cells для Go для преобразования файла формата JSON в файл формата ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать JSON в ODS." h2="Библиотека Go для преобразования JSON в ODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации JSON в ODS и другие форматы документов с помощью Go." urlsection="conversion/json-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать JSON в ODS" h2="Библиотека Go для преобразования JSON в ODS" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для онлайн-конвертирования JSON в ODS и другие форматы документов с помощью Go." urlsection="conversion/json-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в ODS в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование JSON в ODS с помощью Cloud SDK Cells для Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в ODS — сложная задача. Все переходы формата JSON в формат ODS выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов JSON в ODS. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод ODS.
+Преобразование форматов файлов из JSON в ODS может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования форматов JSON в ODS, сохраняя при этом основное структурное и логическое содержимое исходной таблицы JSON. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертации файлов JSON в ODS. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод ODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования JSON в формат ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования JSON в ODS с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /ru/go/conversion/json-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для преобразования JSON в ODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для преобразования файлов Excel в другие форматы JSON в ODS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

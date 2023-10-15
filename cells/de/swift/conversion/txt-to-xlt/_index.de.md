@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT zu XLT Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im TXT-Format in eine Datei im XLT-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im TXT-Format in eine Datei im XLT-Format.
 url: /de/swift/conversion/txt-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить НОМЕРА как HTML API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата NUMBERS как файла формата HTML.
-url: /ru/java/saveas/numbers-to-html/
+title:  Сохраните ЧИСЛА как HTML, используя Java.
+description: Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата NUMBERS как файла формата HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить НОМЕРА как HTML" h2="Библиотека Java для сохранения NUMBERS как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения NUMBERS как HTML и других форматов документов в Интернете с использованием Java." urlsection="saveas/numbers-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ЦИФРЫ как HTML" h2="Java библиотека для сохранения ЧИСЕЛ как HTML" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения ЧИСЕЛ как HTML и других форматов документов в Интернете с использованием Java." urlsection="saveas/numbers-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как HTML в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как HTML — сложная задача. Все преобразования форматов NUMBERS в HTML выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для сохранения NUMBERS в виде файлов HTML онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат HTML.
+Сохранение формата файлов из NUMBERS как HTML — сложная задача. Все переходы формата NUMBERS в HTML выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов HTML в Интернете. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный результат HTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения NUMBERS в формате HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения ЧИСЕЛ как HTML с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/numbers-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API, чтобы сохранить НОМЕРА как HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах ЦИФРЫ, таких как HTML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

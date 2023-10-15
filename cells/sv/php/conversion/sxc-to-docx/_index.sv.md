@@ -1,19 +1,18 @@
 ﻿---
-title:  SXC till DOCX Konvertera API för PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i SXC-format till fil i DOCX-format.
-url: /sv/php/conversion/sxc-to-docx/
+title:  Konvertera SXC till DOCX med PHP
+description: Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i SXC-format till en fil i DOCX-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att konvertera SXC till DOCX" h2="PHP bibliotek för att konvertera SXC till DOCX" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att konvertera SXC till DOCX och andra dokumentformat online med PHP." urlsection="conversion/sxc-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera SXC till DOCX" h2="PHP bibliotek för att konvertera SXC till DOCX" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera SXC till DOCX och andra dokumentformat online med PHP." urlsection="conversion/sxc-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en SXC-fil till DOCX i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera SXC till DOCX med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från SXC till DOCX är en komplex uppgift. Alla SXC- till DOCX-formatövergångar utförs av vår PHP SDK samtidigt som käll-SXC-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att konvertera SXC till DOCX-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
+Att konvertera filformat från SXC till DOCX kan vara en komplex uppgift. Vår PHP SDK hanterar alla SXC- till DOCX-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för SXC bevaras. Vårt PHP-bibliotek tillhandahåller en professionell lösning för att konvertera SXC till DOCX-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer DOCX-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att konvertera SXC till DOCX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kodexempel för att konvertera SXC till DOCX med Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Att konvertera filformat från SXC till DOCX är en komplex uppgift. Alla SXC- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att konvertera SXC till DOCX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring cellsWorkbookPutConvertWorkBook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att konvertera Excel filer till andra format SXC till DOCX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

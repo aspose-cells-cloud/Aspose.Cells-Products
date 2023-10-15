@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSB a XLTX Convertir API para Go
-description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato XLSB a un archivo de formato XLTX.
-url: /es/go/conversion/xlsb-to-xltx/
+title:  Convierta XLSB a XLTX usando Go
+description:  Utilizar el SDK de Cloud Aspose.Cells para Go para convertir un archivo de formato XLSB a un archivo de formato XLTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para convertir XLSB a XLTX" h2="Ir a la biblioteca para convertir XLSB a XLTX" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir XLSB a XLTX y otros formatos de documentos en línea usando Go." urlsection="conversion/xlsb-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSB a XLTX" h2="Ir a la biblioteca para convertir XLSB a XLTX" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos de Go. Esta es una solución profesional para convertir XLSB a XLTX y otros formatos de documentos en línea usando Go." urlsection="conversion/xlsb-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSB a XLTX en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLSB a XLTX usando Cells Cloud SDK para Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLSB a XLTX es una tarea compleja. Todas las transiciones de formato XLSB a XLTX se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSB de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos XLSB a XLTX en línea. Este SDK de la nube ofrece a los desarrolladores de Go una potente funcionalidad y una salida XLTX perfecta.
+Convertir formatos de archivo de XLSB a XLTX puede ser una tarea compleja. Nuestro Go SDK maneja todas las conversiones de formato XLSB a XLTX mientras preserva el contenido estructural y lógico principal de la hoja de cálculo XLSB de origen. Nuestra biblioteca Go proporciona una solución profesional para convertir archivos XLSB a XLTX en línea. Este Cloud SDK brinda a los desarrolladores de Go una potente funcionalidad y garantiza una salida XLTX de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir formato XLSB a XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Vaya ejemplo de código para convertir XLSB a XLTX usando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ Convertir formatos de archivo de XLSB a XLTX es una tarea compleja. Todas las tr
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Go API para convertir XLSB a XLTX" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para convertir archivos Excel a otros formatos XLSB a XLTX" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>ir a la versión go1.13.0 o más reciente</li>
+<li>vaya a la versión go1.13.0 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

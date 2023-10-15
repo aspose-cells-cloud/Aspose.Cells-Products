@@ -1,19 +1,18 @@
 ﻿---
-title:  Exportar HOJA DE TRABAJO a TIFF desde una hoja de cálculo usando PHP API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/php/export/worksheet-to-tiff/
+title:  Exporte la HOJA DE TRABAJO a TIFF desde Excel usando Cells Cloud SDK para PHP
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para exportar la HOJA DE TRABAJO al archivo TIFF" h2="PHP biblioteca para exportar la HOJA DE TRABAJO al archivo TIFF" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en PHP. Esta es una solución profesional para exportar HOJA DE TRABAJO a un archivo de formato TIFF desde una hoja de cálculo en línea usando PHP." urlsection="export/worksheet-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar HOJA DE TRABAJO a TIFF desde Excel" h2="Biblioteca PHP para exportar HOJA DE TRABAJO al archivo TIFF" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en PHP. Esta es una solución profesional para exportar HOJA DE TRABAJO a un archivo de formato TIFF desde una hoja de cálculo en línea usando PHP." urlsection="export/worksheet-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto HOJA DE TRABAJO al archivo de formato TIFF en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKSHEET a un archivo de formato TIFF usando Cells Cloud SDK para PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto HOJA DE TRABAJO al archivo TIFF desde la hoja de cálculo es una tarea compleja. Exportar HOJA DE TRABAJO a las transiciones de formato TIFF se realiza mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca PHP es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos de formato TIFF en línea. Este SDK de Cloud ofrece a los desarrolladores de PHP una potente funcionalidad y un resultado TIFF perfecto.
+Exportar el objeto WORKSHEET al archivo TIFF desde el archivo Excel es una tarea compleja. Nuestro SDK PHP realiza la exportación de transiciones de HOJA DE TRABAJO a formato TIFF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de HOJA DE TRABAJO de origen. Nuestra biblioteca PHP es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos con formato TIFF en línea. Este SDK de nube ofrece a los desarrolladores de PHP una funcionalidad potente y un resultado de TIFF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para exportar la HOJA DE TRABAJO al formato TIFF desde la hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para exportar HOJA DE TRABAJO al formato TIFF desde una hoja de cálculo" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Exportar el objeto HOJA DE TRABAJO al archivo TIFF desde la hoja de cálculo es 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar PHP API para exportar HOJA DE TRABAJO a TIFF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método postExport para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para exportar objetos de Excel WORKSHEET a TIFF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postExport` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

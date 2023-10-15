@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie SXC als XLSB API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern von SXC-Formatdateien als XLSB-Formatdateien.
-url: /de/ruby/saveas/sxc-to-xlsb/
+title:  Speichern Sie SXC als XLSB mit Ruby
+description:  Verwendung von Aspose.Cells Cloud SDK für Ruby zum Speichern von SXC-Formatdateien als XLSB-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um SXC als XLSB zu speichern" h2="Ruby-Bibliothek zum Speichern von SXC als XLSB" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als XLSB und anderen Dokumentformaten mit Ruby." urlsection="saveas/sxc-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie SXC als XLSB" h2="Ruby-Bibliothek zum Speichern von SXC als XLSB" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als XLSB und anderen Dokumentformaten mit Ruby." urlsection="saveas/sxc-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als XLSB in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/sxc-to-xlsb/
 Das Speichern von Dateiformaten von SXC als XLSB ist eine komplexe Aufgabe. Alle SXC-zu-XLSB-Formatübergänge werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um SXC als XLSB-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von SXC im XLSB-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von SXC als XLSB mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten von SXC als XLSB ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um SXC als XLSB zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in den anderen Formaten SXC und XLSB zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

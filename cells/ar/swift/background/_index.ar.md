@@ -1,10 +1,10 @@
 ﻿---
 title:  تعيين الخلفية باستخدام Swift
-description:  Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام Swift. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام Swift. يدعم SDK لغات التطوير المتعددة. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 url: /ar/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تعيين الخلفية باستخدام Swift" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام Swift. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تعيين الخلفية باستخدام Swift" h2="يدعم Aspose.Cells Cloud SDK المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام Swift. يدعم SDK لغات التطوير المتعددة. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -20,12 +20,12 @@ url: /ar/swift/background/
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.cloud" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

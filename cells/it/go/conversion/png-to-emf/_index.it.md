@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG a EMF Converti API per Go
-description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato PNG nel file in formato EMF.
-url: /it/go/conversion/png-to-emf/
+title:  Converti PNG in EMF utilizzando Go
+description: Utilizzando Aspose.Cells Cloud SDK for Go per convertire un file in formato PNG in un file in formato EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per convertire PNG in EMF" h2="Vai alla libreria per convertire PNG in EMF" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per convertire PNG in EMF e altri formati di documenti online utilizzando Go." urlsection="conversion/png-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertire PNG in EMF" h2="Vai alla libreria per convertire PNG in EMF" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Go. Questa è una soluzione professionale per convertire PNG in EMF e altri formati di documenti online utilizzando Go." urlsection="conversion/png-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file PNG in EMF in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti PNG in EMF utilizzando Cells Cloud SDK per Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da PNG a EMF è un'attività complessa. Tutte le transizioni di formato da PNG a EMF vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo PNG. La nostra libreria Go è una soluzione professionale per convertire i file PNG in EMF online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output EMF perfetto.
+La conversione dei formati di file da PNG a EMF può essere un compito complesso. Il nostro Go SDK gestisce tutte le conversioni del formato da PNG a EMF preservando il contenuto strutturale e logico principale del foglio di calcolo di origine PNG. La nostra libreria Go fornisce una soluzione professionale per convertire i file PNG in EMF online. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e garantisce un output EMF di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per convertire il formato PNG nel formato EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio Go Code per convertire PNG in EMF utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ La conversione dei formati di file da PNG a EMF è un'attività complessa. Tutte
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come usare Go API per convertire PNG in EMF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo CellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per convertire i file Excel in altri formati da PNG a EMF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

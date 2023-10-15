@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie EMF als XLSX API für Swift
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im EMF-Format als XLSX-Formatdatei zu speichern.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im EMF-Format als XLSX-Formatdatei zu speichern.
 url: /de/swift/saveas/emf-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

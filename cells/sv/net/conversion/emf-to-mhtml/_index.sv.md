@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF till MHTML Konvertera API för C#
-description:  Använda Aspose.Cells Cloud SDK för C# för att konvertera EMF filformat till MHTML-format fil.
-url: /sv/net/conversion/emf-to-mhtml/
+title:  Konvertera EMF till MHTML med C#
+description: Använda Aspose.Cells Cloud SDK för C# för att konvertera en fil i EMF-format till en fil i MHTML-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att konvertera EMF till MHTML" h2="C# bibliotek för att konvertera EMF till MHTML" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Net. Detta är en professionell lösning för att konvertera EMF till MHTML och andra dokumentformat online med C#." urlsection="conversion/emf-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera EMF till MHTML" h2="C# bibliotek för att konvertera EMF till MHTML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera EMF till MHTML och andra dokumentformat online med C#." urlsection="conversion/emf-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en EMF-fil till MHTML i C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera EMF till MHTML med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från EMF till MHTML är en komplex uppgift. Alla övergångar från EMF till MHTML-format utförs av vår C# SDK samtidigt som källbladets EMF kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att konvertera EMF till MHTML-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt MHTML-utdata.
+Att konvertera filformat från EMF till MHTML kan vara en komplex uppgift. Vår C# SDK hanterar alla konverteringar från EMF till MHTML-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket EMF bevaras. Vårt C#-bibliotek tillhandahåller en professionell lösning för att konvertera EMF till MHTML-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och säkerställer högkvalitativa MHTML-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att konvertera EMF till MHTML-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kodexempel för att konvertera EMF till MHTML med Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +35,10 @@ Att konvertera filformat från EMF till MHTML är en komplex uppgift. Alla över
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att konvertera EMF till MHTML" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att konvertera Excel filer till andra format EMF till MHTML" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer les numéros sous XLTM API pour Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format NUMBERS en tant que fichier au format XLTM.
-url: /fr/perl/saveas/numbers-to-xltm/
+title:  Enregistrez NUMBERS au format XLTM en utilisant Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format NUMBERS au format XLTM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer les NUMÉROS sous XLTM" h2="Bibliothèque Perl pour enregistrer les NUMÉROS au format XLTM" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format XLTM et d\'autres formats de document en ligne à l\'aide de Perl." urlsection="saveas/numbers-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer NUMBERS au format XLTM" h2="Bibliothèque Perl pour enregistrer des NUMBERS au format XLTM" p="Utilisez SaveAs API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format XLTM et d\'autres formats de document en ligne à l\'aide de Perl." urlsection="saveas/numbers-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier NUMBERS sous XLTM dans Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier NUMBERS au format XLTM dans Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de NUMBERS au format XLTM est une tâche complexe. Toutes les transitions de format NUMBERS vers XLTM sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer des NUMBERS sous forme de fichiers XLTM en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie XLTM parfaite.
+Enregistrer les formats de fichiers de NUMBERS au format XLTM est une tâche complexe. Toutes les transitions du format NUMBERS vers XLTM sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer des NUMBERS sous forme de fichiers XLTM en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie XLTM parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour enregistrer NUMBERS au format XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour enregistrer des NUMBERS au format XLTM à l\'aide de REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ L'enregistrement des formats de fichiers de NUMBERS au format XLTM est une tâch
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Perl API pour enregistrer des NUMÉROS sous XLTM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Perl afin d\'enregistrer les fichiers Excel sous d\'autres formats NUMBERS au format XLTM" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Poste d'appel_classeur_méthode save_as pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML till SQL Konvertera API för Go
-description: Använd Aspose.Cells Cloud SDK för Go för att konvertera fil i HTML-format till fil i SQL-format.
-url: /sv/go/conversion/html-to-sql/
+title:  Konvertera HTML till SQL med Go
+description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en fil i HTML-format till en fil i SQL-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att konvertera HTML till SQL" h2="Gå till biblioteket för att konvertera HTML till SQL" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i Go. Detta är en professionell lösning för att konvertera HTML till SQL och andra dokumentformat online med Go." urlsection="conversion/html-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera HTML till SQL" h2="Go-bibliotek för att konvertera HTML till SQL" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera HTML till SQL och andra dokumentformat online med Go." urlsection="conversion/html-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en HTML-fil till SQL i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera HTML till SQL med Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från HTML till SQL är en komplex uppgift. Alla övergångar från HTML till SQL-format utförs av vår Go SDK samtidigt som källbladets HTML kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att konvertera HTML till SQL-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt SQL-utdata.
+Att konvertera filformat från HTML till SQL kan vara en komplicerad uppgift. Vår Go SDK hanterar alla konverteringar från HTML till SQL-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket HTML bevaras. Vårt Go-bibliotek tillhandahåller en professionell lösning för att konvertera HTML till SQL-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer SQL-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att konvertera HTML till SQL-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera HTML till SQL med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ Att konvertera filformat från HTML till SQL är en komplex uppgift. Alla överg
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att konvertera HTML till SQL" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Go för att konvertera Excel-filer till andra format HTML till SQL" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

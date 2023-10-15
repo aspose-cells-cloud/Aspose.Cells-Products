@@ -1,19 +1,18 @@
 ﻿---
-title:  NUMBERS в XLS Преобразовать API в Python
-description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата NUMBERS в файл формата XLS.
-url: /ru/python/conversion/numbers-to-xls/
+title:  Преобразуйте ЧИСЛА в XLS, используя Python.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата NUMBERS в файл формата XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для конвертации NUMBERS в XLS" h2="Python библиотека для преобразования NUMBERS в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации NUMBERS в XLS и другие форматы документов с использованием Python." urlsection="conversion/numbers-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать ЧИСЛА в XLS" h2="Python библиотека для конвертации ЧИСЕЛ в XLS" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертирования ЧИСЕЛ в XLS и другие форматы документов с помощью Python." urlsection="conversion/numbers-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в XLS в Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте ЧИСЛА в XLS с помощью Cells Cloud SDK для Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в XLS — сложная задача. Все переходы NUMBERS в формат XLS выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XLS. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XLS.
+Преобразование форматов файлов из NUMBERS в XLS может оказаться сложной задачей. Наш SDK Python обрабатывает все преобразования формата NUMBERS в формат XLS, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Python предоставляет профессиональное решение для онлайн-конвертации ЧИСЕЛ в файлы XLS. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и обеспечивает высококачественный вывод в формате XLS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования NUMBERS в формат XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для преобразования ЧИСЕЛ в XLS с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ru/python/conversion/numbers-to-xls/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для преобразования NUMBERS в XLS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python для преобразования файлов Excel в другие форматы NUMBERS в XLS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

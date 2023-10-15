@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS a XLSX Convertir API para Android
-description: Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato XLS a un archivo de formato XLSX.
-url: /es/android/conversion/xls-to-xlsx/
+title:  Convertir XLS a XLSX usando Android
+description: Utilizar el SDK de Cloud Aspose.Cells para Android para convertir un archivo de formato XLS a un archivo de formato XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para convertir XLS a XLSX" h2="Biblioteca de Android para convertir XLS a XLSX" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Android. Esta es una solución profesional para convertir XLS a XLSX y otros formatos de documentos en línea usando Android." urlsection="conversion/xls-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLS a XLSX" h2="Biblioteca de Android para convertir XLS a XLSX" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos de Android. Esta es una solución profesional para convertir XLS a XLSX y otros formatos de documentos en línea usando Android." urlsection="conversion/xls-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo XLS a XLSX en Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLS a XLSX usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLS a XLSX es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato XLS a XLSX mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca de Android es una solución profesional para convertir archivos XLS a XLSX en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida XLSX perfecta.
+Convertir formatos de archivo de XLS a XLSX puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato XLS a XLSX mientras preserva el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos XLS a XLSX en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida XLSX de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir formato XLS a XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código de Android para convertir XLS a XLSX usando Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ Convertir formatos de archivo de XLS a XLSX es una tarea compleja. Nuestro SDK d
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Java API para convertir XLS a XLSX" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Android para convertir archivos Excel a otros formatos XLS a XLSX" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `putConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Android 7 o más reciente</li>
-<li>Java(TM) SE Entorno de tiempo de ejecución</li>
+<li>Java(TM) SE entorno de ejecución</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

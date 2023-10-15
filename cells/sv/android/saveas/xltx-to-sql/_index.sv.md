@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLTX som SQL API för Android
+title:  Spara XLTX som SQL med Android
 description: Använder Aspose.Cells Cloud SDK för Android för att spara XLTX-formatfil som SQL-formatfil.
-url: /sv/android/saveas/xltx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att spara XLTX som SQL" h2="Android-bibliotek för att spara XLTX som SQL" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara XLTX som SQL och andra dokumentformat online med Android." urlsection="saveas/xltx-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLTX som SQL" h2="Android-bibliotek för att spara XLTX som SQL" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara XLTX som SQL och andra dokumentformat online med Android." urlsection="saveas/xltx-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLTX-fil som SQL i Android" >}}
@@ -13,7 +12,7 @@ url: /sv/android/saveas/xltx-to-sql/
 Att spara filformat från XLTX som SQL är en komplex uppgift. Alla XLTX- till SQL-formatövergångar utförs av vår Android SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLTX som SQL-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt SQL-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att spara XLTX som SQL-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att spara XLTX som SQL med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Att spara filformat från XLTX som SQL är en komplex uppgift. Alla XLTX- till S
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara XLTX som SQL" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att spara Excel filer som andra format XLTX som SQL" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

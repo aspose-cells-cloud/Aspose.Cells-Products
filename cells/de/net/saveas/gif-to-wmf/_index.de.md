@@ -1,10 +1,9 @@
 ﻿---
-title:  GIF als WMF API für C# speichern
-description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Speichern von GIF-Formatdateien als WMF-Formatdateien.
-url: /de/net/saveas/gif-to-wmf/
+title:  Speichern Sie GIF als WMF mit C#
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der GIF-Formatdatei als WMF-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um GIF als WMF zu speichern" h2="C#-Bibliothek zum Speichern von GIF als WMF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als WMF und anderen Dokumentformaten unter C#." urlsection="saveas/gif-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF als WMF speichern" h2="C# Bibliothek zum Speichern von GIF als WMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als WMF und anderen Dokumentformaten unter C#." urlsection="saveas/gif-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als WMF unter C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/gif-to-wmf/
 Das Speichern von GIF-Dateiformaten als WMF ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum WMF-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um GIF als WMF-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von GIF im WMF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von GIF als WMF mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von GIF-Dateiformaten als WMF ist eine komplexe Aufgabe. Alle Übe
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um GIF als WMF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Net, um Excel-Dateien in anderen GIF-Formaten als WMF zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,10 +1,9 @@
 ﻿---
-title: 将 XLS 保存为 XLSX API for Java
-description: 使用Aspose.Cells Cloud SDK for Java将XLS格式文件保存为XLSX格式文件。
-url: /zh/java/saveas/xls-to-xlsx/
+title: 使用 Java 将 XLS 保存为 XLSX
+description: 利用Aspose.Cells Cloud SDK for Java将XLS格式文件保存为XLSX格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API 将 XLS 保存为 XLSX" h2="Java 库将 XLS 保存为 XLSX" p="使用 Cells SaveAs REST API 在 Java 中创建自定义电子表格工作流程。这是使用 Java 在线将 XLS 保存为 XLSX 和其他文档格式的专业解决方案。" urlsection="saveas/xls-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLS 保存为 XLSX" h2="Java 用于将 XLS 保存为 XLSX 的库" p="使用Cells云的SaveAs API在Java中创建自定义电子表格工作流程。这是使用Java在线将XLS保存为XLSX和其他文档格式的专业解决方案。" urlsection="saveas/xls-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 XLS 文件另存为 Java 中的 XLSX" >}}
@@ -13,7 +12,7 @@ url: /zh/java/saveas/xls-to-xlsx/
 将 XLS 文件格式保存为 XLSX 是一项复杂的任务。所有 XLS 到 XLSX 格式的转换均由我们的 Java SDK 执行，同时保留源 XLS 电子表格的主要结构和逻辑内容。我们的 Java 库是在线将 XLS 保存为 XLSX 文件的专业解决方案。该Cloud SDK为Java开发人员提供了强大的功能和完美的XLSX输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java 中的代码示例使用 REST API 将 XLS 保存为 XLSX 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java 使用 REST 将 XLS 保存为 XLSX 的代码示例 API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /zh/java/saveas/xls-to-xlsx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Java API 将XLS另存为XLSX" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 cellsSaveAsPostDocumentSaveAs 方法来获取结果流</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells云SDK for Java将Excel文件另存为其他格式XLS为XLSX" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `postWorkbookSaveAs` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

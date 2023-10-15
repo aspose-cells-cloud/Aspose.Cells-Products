@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ ملف CSV بالشكل EMF API لـ Python
+title:  احفظ ملف CSV كـ EMF باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق CSV كملف بتنسيق EMF.
-url: /ar/python/saveas/csv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ CSV بالشكل EMF" h2="مكتبة Python لحفظ CSV كـ EMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ CSV كـ EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/csv-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ ملف CSV باسم EMF" h2="مكتبة Python لحفظ ملف CSV كـ EMF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ ملف CSV بتنسيق EMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/csv-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV بالشكل EMF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV باسم EMF في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من CSV كـ EMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى EMF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لحفظ CSV كملفات EMF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج EMF مثالي.
+يعد حفظ تنسيقات الملفات من CSV بالرقم EMF مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق CSV إلى EMF بواسطة Python SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ ملفات CSV كملفات EMF عبر الإنترنت. يمنح Cloud SDK هذا مطوري Python وظائف قوية وإخراج EMF مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ CSV بتنسيق EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ ملف CSV كـ EMF باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/csv-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ ملف CSV بالشكل EMF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات CSV أخرى مثل EMF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

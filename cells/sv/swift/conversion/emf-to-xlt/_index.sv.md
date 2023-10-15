@@ -1,5 +1,5 @@
 ﻿---
-title: EMF till XLT Konvertera API för Swift
+title:  EMF till XLT Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera EMF filformat till XLT format fil.
 url: /sv/swift/conversion/emf-to-xlt/
 ---

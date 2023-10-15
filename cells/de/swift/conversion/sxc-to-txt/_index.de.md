@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC zu TXT Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im SXC-Format in eine Datei im TXT-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im SXC-Format in eine Datei im TXT-Format.
 url: /de/swift/conversion/sxc-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

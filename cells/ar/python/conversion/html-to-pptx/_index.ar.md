@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML إلى PPTX حوّل API لـ Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق HTML إلى ملف بتنسيق PPTX.
-url: /ar/python/conversion/html-to-pptx/
+title:  تحويل HTML إلى PPTX باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق HTML إلى ملف بتنسيق PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل HTML إلى PPTX" h2="مكتبة Python لتحويل HTML إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل HTML إلى PPTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/html-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل HTML إلى PPTX" h2="مكتبة Python لتحويل HTML إلى PPTX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل HTML إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/html-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف HTML إلى PPTX في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل HTML إلى PPTX باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى PPTX بواسطة SDK Python مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل HTML إلى ملفات PPTX عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج PPTX مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من HTML إلى PPTX مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق HTML إلى PPTX مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل HTML إلى ملفات PPTX عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python من الحصول على وظائف قوية ويضمن إخراج PPTX عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل HTML إلى تنسيق PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل HTML إلى PPTX باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/html-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل HTML إلى PPTX" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى HTML إلى PPTX" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ EMF كـ XPS API مقابل Perl
-description: استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق EMF كملف بتنسيق XPS.
-url: /ar/perl/saveas/emf-to-xps/
+title:  احفظ EMF كـ XPS باستخدام Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق EMF كملف بتنسيق XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ EMF كـ XPS" h2="مكتبة Perl لحفظ EMF كـ XPS" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ EMF كـ XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/emf-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ EMF كـ XPS" h2="مكتبة Perl لحفظ EMF باسم XPS" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ EMF كـ XPS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/emf-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف EMF كـ XPS في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من EMF كـ XPS مهمة معقدة. يتم إجراء جميع انتقالات تنسيق EMF إلى XPS بواسطة SDK Perl مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات EMF المصدر. مكتبتنا Perl هي حل احترافي لحفظ EMF كملفات XPS عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XPS مثالي.
+يعد حفظ تنسيقات الملفات من EMF إلى XPS مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من EMF إلى XPS بواسطة Perl SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF. تعد مكتبتنا Perl حلاً احترافيًا لحفظ EMF كملفات XPS عبر الإنترنت. يمنح Cloud SDK هذا مطوري Perl وظائف قوية وإخراج XPS مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لحفظ EMF بتنسيق XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على حفظ EMF كـ XPS باستخدام REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /ar/perl/saveas/emf-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لحفظ EMF كـ XPS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لحفظ ملفات Excel بتنسيقات أخرى EMF كـ XPS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>اتصل بالبريد_دفتر العمل_طريقة save_as للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

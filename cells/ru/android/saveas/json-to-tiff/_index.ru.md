@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить JSON как TIFF API для Android
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата JSON как файла формата TIFF.
-url: /ru/android/saveas/json-to-tiff/
+title:  Сохраните JSON как TIFF с помощью Android.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата JSON как файла формата TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения JSON как TIFF" h2="Библиотека Android для сохранения JSON как TIFF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения JSON как TIFF и других форматов документов онлайн с помощью Android." urlsection="saveas/json-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить JSON как TIFF." h2="Библиотека Android для сохранения JSON как TIFF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения JSON как TIFF и других форматов документов онлайн с помощью Android." urlsection="saveas/json-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как TIFF в Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON как TIFF — сложная задача. Все переходы формата JSON в формат TIFF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Android — это профессиональное решение для сохранения файлов JSON в формате TIFF онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TIFF.
+Сохранение формата файлов из JSON как TIFF — сложная задача. Все переходы формата JSON в TIFF выполняются нашим Android SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы JSON. Наша библиотека Android — это профессиональное решение для сохранения файлов JSON в формате TIFF онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TIFF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения JSON в формате TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для сохранения JSON как TIFF с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,15 +34,15 @@ url: /ru/android/saveas/json-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API, чтобы сохранить JSON как TIFF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для сохранения файлов Excel в других форматах JSON как TIFF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML إلى FODS - تحويل API عن PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق HTML إلى ملف بتنسيق FODS.
-url: /ar/php/conversion/html-to-fods/
+title:  تحويل HTML إلى FODS باستخدام PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق HTML إلى ملف بتنسيق FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل HTML إلى FODS" h2="مكتبة PHP لتحويل HTML إلى FODS" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل HTML إلى FODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/html-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل HTML إلى FODS" h2="مكتبة PHP لتحويل HTML إلى FODS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل HTML إلى FODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/html-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف HTML إلى FODS في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل HTML إلى FODS باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى FODS بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل HTML إلى ملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج FODS مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من HTML إلى FODS مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق HTML إلى FODS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل HTML إلى ملفات FODS عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من خلال وظائف قوية ويضمن إخراج FODS عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل HTML إلى تنسيق FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل HTML إلى FODS باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/html-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل HTML إلى FODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى HTML إلى FODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

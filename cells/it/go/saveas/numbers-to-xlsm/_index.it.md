@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva i NUMERI come XLSM API per Go
-description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato NUMBERS come file in formato XLSM.
-url: /it/go/saveas/numbers-to-xlsm/
+title:  Salva NUMERI come XLSM utilizzando Go
+description:  Utilizzando Aspose.Cells Cloud SDK per Go per salvare il file in formato NUMBERS come file in formato XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai allo API per salvare i NUMERI come XLSM" h2="Vai in libreria per salvare NUMBERS come XLSM" p="Utilizza Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per salvare i NUMERI come XLSM e altri formati di documenti online utilizzando Go." urlsection="saveas/numbers-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva NUMERI come XLSM" h2="Vai alla libreria per salvare NUMBERS come XLSM" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Go. Questa è una soluzione professionale per salvare NUMERI come XLSM e altri formati di documenti online utilizzando Go." urlsection="saveas/numbers-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file NUMBERS come XLSM in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da NUMBERS come XLSM è un compito complesso. Tutte le transizioni dal formato NUMBERS al formato XLSM vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo NUMBERS sorgente. La nostra libreria Go è una soluzione professionale per salvare i NUMERI come file XLSM online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un perfetto output XLSM.
+Salvare i formati di file da NUMBERS come XLSM è un compito complesso. Tutte le transizioni dal formato NUMBERS al formato XLSM vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo NUMBERS di origine. La nostra libreria Go è una soluzione professionale per salvare NUMERI come file XLSM online. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e un output XLSM perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per salvare NUMBERS come formato XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Vai ad esempio di codice per salvare NUMERI come XLSM utilizzando REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Salvare i formati di file da NUMBERS come XLSM è un compito complesso. Tutte le
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per salvare i NUMERI come XLSM" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiamare il metodo CellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per salvare i file Excel in altri formati NUMERI come XLSM" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PostWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

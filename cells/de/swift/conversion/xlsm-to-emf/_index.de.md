@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM in EMF Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine Datei im EMF-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine Datei im EMF-Format.
 url: /de/swift/conversion/xlsm-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

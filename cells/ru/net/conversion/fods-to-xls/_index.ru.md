@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать FODS в XLS via .NET
-description: Создавайте, редактируйте или конвертируйте Excel файлы с помощью Cloud API и Open Source .NET SDK
+description: Создавайте, редактируйте или конвертируйте файлы Excel с помощью Cloud API и SDK с открытым исходным кодом .NET.
 url: /ru/net/conversion/fods-to-xls/
 family: cells
 platformtag: net
@@ -16,16 +16,16 @@ otherformats: ODS CSV XLT XLTX MD XLSM TIFF XLTM MHTML DIF XML SVG TXT XLSX FODS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование FODS в XLS в приложениях .NET" %}}
-1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API
-1. Инициализируйте ```CellsApi``` с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.
+1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API
+1. Инициализируйте ```CellsApi```, используя идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.
 1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.Upload```.
 1. Вызовите метод ```CellsApi.CellsSaveAsPostDocumentSaveAs```, чтобы получить результирующий файл XLS.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Начните с Excel REST API" %}}
- Получите исходный код Excel Cloud SDK for .NET из[Гитхаб](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) скомпилировать SDK самостоятельно или обратиться к[Релизы](https://releases.aspose.cloud/) для альтернативных вариантов загрузки.
+ Получите исходный код Excel Cloud SDK for .NET с сайта[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
 
- Также взгляните на Swagger-based[API Ссылка](https://apireference.aspose.cloud/cells/) узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
+ Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# .NET Код для преобразования FODS в XLS" gistPath="" %}}

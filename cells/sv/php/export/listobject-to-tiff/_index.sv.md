@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera LISTOBJECT till TIFF från kalkylblad med PHP API
+title:  Exportera LISTOBJECT till TIFF från Excel med Cells Cloud SDK för PHP
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/php/export/listobject-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att exportera LISTOBJECT till TIFF fil" h2="PHP bibliotek för att exportera LISTOBJECT till TIFF fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i PHP. Detta är en professionell lösning för att exportera LISTOBJECT till TIFF-formatfil från kalkylark online med PHP." urlsection="export/listobject-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera LISTOBJECT till TIFF från Excel" h2="PHP bibliotek för export av LISTOBJECT till TIFF fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i PHP. Detta är en professionell lösning för att exportera LISTOBJECT till TIFF filformat från kalkylblad online med PHP." urlsection="export/listobject-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till TIFF filformat i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera LISTOBJECT-objekt till TIFF-formatfil med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera LISTOBJECT-objekt till TIFF-fil från kalkylblad är en komplex uppgift. Export av LISTOBJECT till TIFF formatövergångar utförs av vår PHP SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till filer i TIFF-format online. Denna Cloud SDK ger PHP-utvecklare kraftfull funktionalitet och perfekt TIFF-utdata.
+Exportera LISTOBJECT-objekt till filen TIFF från filen Excel är en komplex uppgift. Export av LISTOBJECT till TIFF formatövergångar utförs av vår PHP SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till filer i TIFF-format online. Denna Cloud SDK ger PHP-utvecklare kraftfull funktionalitet och perfekt TIFF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att exportera LISTOBJECT till TIFF-format från kalkylblad" gistPath="" %}}
@@ -36,10 +35,10 @@ Exportera LISTOBJECT-objekt till TIFF-fil från kalkylblad är en komplex uppgif
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att exportera LISTOBJECT till TIFF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att exportera objekt från Excel LISTOBJECT till TIFF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

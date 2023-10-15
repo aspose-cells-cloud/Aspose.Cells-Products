@@ -1,19 +1,18 @@
 ﻿---
-title:  XLTX till SXC Konvertera API för Android
-description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera XLTX-formatfil till SXC-formatfil.
-url: /sv/android/conversion/xltx-to-sxc/
+title:  Konvertera XLTX till SXC med Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i XLTX-format till en fil i SXC-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att konvertera XLTX till SXC" h2="Android-bibliotek för att konvertera XLTX till SXC" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att konvertera XLTX till SXC och andra dokumentformat online med Android." urlsection="conversion/xltx-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLTX till SXC" h2="Android-bibliotek för att konvertera XLTX till SXC" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android-projekt. Detta är en professionell lösning för att konvertera XLTX till SXC och andra dokumentformat online med Android." urlsection="conversion/xltx-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLTX-fil till SXC i Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLTX till SXC med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTX till SXC är en komplex uppgift. Alla formatövergångar från XLTX till SXC utförs av vår Android SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera XLTX till SXC-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt SXC-utgång.
+Att konvertera filformat från XLTX till SXC kan vara en komplex uppgift. Vår Android SDK hanterar alla XLTX- till SXC-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket XLTX bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera XLTX till SXC-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer SXC-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera XLTX till SXC-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att konvertera XLTX till SXC med Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Att konvertera filformat från XLTX till SXC är en komplex uppgift. Alla format
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera XLTX till SXC" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel-filer till andra format XLTX till SXC" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

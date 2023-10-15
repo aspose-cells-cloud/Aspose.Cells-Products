@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie EMF als XML API für Ruby
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die Datei im EMF-Format als XML-Formatdatei zu speichern.
-url: /de/ruby/saveas/emf-to-xml/
+title:  Speichern Sie EMF als XML mit Ruby
+description:  Verwendung des Aspose.Cells Cloud SDK für Ruby zum Speichern der Datei im EMF-Format als XML-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um EMF als XML zu speichern" h2="Ruby-Bibliothek zum Speichern von EMF als XML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von EMF als XML und anderen Dokumentformaten mit Ruby." urlsection="saveas/emf-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie EMF als XML" h2="Ruby-Bibliothek zum Speichern von EMF als XML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von EMF als XML und anderen Dokumentformaten mit Ruby." urlsection="saveas/emf-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine EMF-Datei als XML in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/emf-to-xml/
 Das Speichern von Dateiformaten aus EMF als XML ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum XML-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um EMF als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von EMF als XML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von EMF als XML mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten aus EMF als XML ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um EMF als XML zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel Dateien in anderen Formaten EMF als XML zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

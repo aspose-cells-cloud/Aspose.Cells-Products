@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera ARBETSBOK till TXT från kalkylblad med Perl API
+title:  Exportera ARBETSBOK till TXT från Excel med Cells Cloud SDK för Perl
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/perl/export/workbook-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att exportera ARBETSBOK till TXT-fil" h2="Perl bibliotek för att exportera ARBETSBOK till TXT-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i Perl. Detta är en professionell lösning för att exportera ARBETSBOK till fil i TXT-format från kalkylark online med Perl." urlsection="export/workbook-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBOK till TXT från Excel" h2="Perl-bibliotek för att exportera ARBETSBOK till TXT-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i Perl. Detta är en professionell lösning för att exportera ARBETSBOK till TXT-format fil från kalkylblad online med Perl." urlsection="export/workbook-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till TXT-formatfil i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till TXT-formatfil med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKBOOK-objekt till TXT-fil från kalkylblad är en komplex uppgift. Export av WORKBOOK till TXT-formatövergångar utförs av vår Perl SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till TXT-formatfiler online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt TXT-utdata.
+Exportera WORKBOOK-objekt till TXT-fil från Excel-filen är en komplex uppgift. Export av WORKBOOK till TXT-formatövergångar utförs av vår Perl SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till TXT-formatfiler online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt TXT-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att exportera ARBETSBOK till TXT-format från kalkylblad" gistPath="" %}}
@@ -37,9 +36,9 @@ Exportera WORKBOOK-objekt till TXT-fil från kalkylblad är en komplex uppgift. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att exportera ARBETSBOK till TXT" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Perl för att exportera objekt från Excel WORKBOOK till TXT" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop post_export-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

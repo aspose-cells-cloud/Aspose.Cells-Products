@@ -1,10 +1,9 @@
 ﻿---
 title:  Rensa kommentarer på den lokala arbetsboken i Cloud
 description: " Cloud API:er och SDK:er för att rensa kommentarer på Microsoft Excel & OpenOffice Calc. Rensa kommentarer på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/nodejs/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att rensa kommentarer på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="NodeJS Rensa för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i NodeJS. Denna professionella lösning tydliga kommentarer om lokala Microsoft Excel och OpenOffice Calc-kalkylblad med NodeJS." urlsection="clear/Comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort kommentarer på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="NodeJS Rensa för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i NodeJS. Denna professionella lösning tydliga kommentarer om lokala Microsoft Excel och OpenOffice Calc-kalkylblad med NodeJS." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - NodeJS REST API" >}}
@@ -18,9 +17,9 @@ Att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Node API för att rensa kommentarer" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att rensa kommentarer" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop postClearObjects-metoden för att få den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

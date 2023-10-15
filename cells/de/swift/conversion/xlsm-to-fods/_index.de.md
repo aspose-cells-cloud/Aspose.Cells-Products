@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSM in FODS Konvertieren Sie API für Swift
+title: XLSM in FODS Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSM-Formatdatei in eine FODS-Formatdatei.
 url: /de/swift/conversion/xlsm-to-fods/
 ---

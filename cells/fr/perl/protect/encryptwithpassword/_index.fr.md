@@ -1,26 +1,25 @@
 ﻿---
-title:  Crypter la feuille de calcul locale avec le mot de passe avec Perl dans le Cloud
-description:  API Cloud et SDK pour protéger Microsoft Excel et OpenOffice Calc avec Perl. Crypter les feuilles de calcul locales avec mot de passe par le SDK Cells Cloud API pour Perl.
-url: /fr/perl/protect/encrypt-with-password/
+title: Chiffrer la feuille de calcul locale avec le mot de passe avec Perl dans le Cloud
+description:  API et SDK Cloud pour protéger Microsoft Excel et OpenOffice Calc avec Perl. Chiffrez les feuilles de calcul locales avec un mot de passe à l'aide du SDK Cloud Cells API pour Perl.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque Perl pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Protect REST API pour protéger les feuilles de calcul locales Microsoft Excel et OpenOffice Calc avec les workflows de mot de passe dans Perl. Cette solution professionnelle protège Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe à l\'aide de Perl." urlsection="protect/Encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Utilisez le SDK Cloud Cells pour Perl pour protéger par mot de passe les feuilles de calcul locales Microsoft Excel et OpenOffice Calc." h2="Bibliothèque Perl pour la protection par mot de passe des feuilles de calcul locales Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Protect REST API pour sécuriser les feuilles de calcul locales Microsoft Excel et OpenOffice Calc avec des mots de passe dans les flux de travail Perl. Cette solution professionnelle permet la protection par mot de passe pour les feuilles de calcul Microsoft Excel et OpenOffice Calc en ligne à l\'aide du Perl." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Protégez la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe - Perl REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Sécurisez les feuilles de calcul locales Microsoft Excel et OpenOffice Calc avec un mot de passe à l\'aide du SDK Cloud Cells pour Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
 <br/>
-Protéger une feuille de calcul locale avec un mot de passe est une tâche complexe. La protection d'une feuille de calcul locale avec des transitions de mot de passe est effectuée par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque Perl est une solution professionnelle pour protéger les feuilles de calcul locales avec un mot de passe en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et un API parfait.
+La protection par mot de passe d'une feuille de calcul locale peut être une tâche complexe. Notre SDK Perl gère le processus, en préservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque Perl offre une solution professionnelle pour la protection par mot de passe en ligne des feuilles de calcul locales. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités robustes et un API transparent.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour chiffrer les feuilles de calcul locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-Protect.pl" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour chiffrer des feuilles de calcul locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-Protect.pl" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Comment utiliser Perl API pour chiffrer" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Perl afin de protéger le fichier Excel" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
 <li>Appelez la méthode post_protect pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

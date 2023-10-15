@@ -1,5 +1,5 @@
 ﻿---
-title:  Leere Spalten in der lokalen Arbeitsmappe in der Cloud löschen
+title: Leere Spalten in der lokalen Arbeitsmappe in der Cloud löschen
 description: Cloud-APIs und SDKs zum Löschen leerer Spalten auf Microsoft Excel und OpenOffice Calc. Löschen Sie leere Spalten in lokalen Tabellenkalkulationen mit der Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/clear/blank-columns/
 ---
@@ -18,7 +18,7 @@ Das Löschen leerer Spalten in der lokalen Microsoft Excel- und OpenOffice Calc-
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Löschen leerer Spalten" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Swift API zum Löschen leerer Spalten" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postClearObjects auf, um den resultierenden Stream abzurufen</li>

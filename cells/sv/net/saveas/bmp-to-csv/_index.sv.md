@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara BMP som CSV API för C#
-description:  Använder Aspose.Cells Cloud SDK för C# för att spara BMP filformat som CSV-fil.
-url: /sv/net/saveas/bmp-to-csv/
+title:  Spara BMP som CSV med C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara filen BMP som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att spara BMP som CSV" h2="C# bibliotek för att spara BMP som CSV" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara BMP som CSV och andra dokumentformat online med C#." urlsection="saveas/bmp-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara BMP som CSV" h2="C# bibliotek för att spara BMP som CSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara BMP som CSV och andra dokumentformat online med C#." urlsection="saveas/bmp-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en BMP-fil som CSV i C#" >}}
@@ -13,7 +12,7 @@ url: /sv/net/saveas/bmp-to-csv/
 Att spara filformat från BMP som CSV är en komplex uppgift. Alla övergångar från BMP till CSV-format utförs av vår C# SDK samtidigt som källbladets BMP kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att spara BMP som CSV-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att spara BMP som CSV-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kod Exempel för att spara BMP som CSV med REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Att spara filformat från BMP som CSV är en komplex uppgift. Alla övergångar 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att spara BMP som CSV" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att spara Excel filer som andra format BMP som CSV" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

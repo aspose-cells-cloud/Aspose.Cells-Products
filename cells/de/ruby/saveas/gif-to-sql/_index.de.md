@@ -1,10 +1,9 @@
 ﻿---
-title:  GIF als SQL API für Ruby speichern
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern von GIF-Formatdateien als SQL-Formatdateien.
-url: /de/ruby/saveas/gif-to-sql/
+title:  Speichern Sie GIF als SQL mit Ruby
+description:  Verwendung von Aspose.Cells Cloud SDK für Ruby zum Speichern von GIF-Formatdateien als SQL-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Speichern von GIF als SQL" h2="Ruby-Bibliothek zum Speichern von GIF als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als SQL und anderen Dokumentformaten mit Ruby." urlsection="saveas/gif-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF als SQL speichern" h2="Ruby-Bibliothek zum Speichern von GIF als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als SQL und anderen Dokumentformaten mit Ruby." urlsection="saveas/gif-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als SQL in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/gif-to-sql/
 Das Speichern von GIF-Dateiformaten als SQL ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum SQL-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um GIF als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von GIF im SQL-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von GIF als SQL mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von GIF-Dateiformaten als SQL ist eine komplexe Aufgabe. Alle Übe
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um GIF als SQL zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in anderen Formaten wie GIF oder SQL zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

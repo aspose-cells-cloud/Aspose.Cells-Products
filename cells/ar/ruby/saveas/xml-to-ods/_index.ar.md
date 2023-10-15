@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ XML كـ ODS API لـ Ruby
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف تنسيق XML كملف بتنسيق ODS.
-url: /ar/ruby/saveas/xml-to-ods/
+title:  احفظ XML كملف ODS باستخدام Ruby
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XML كملف بتنسيق ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لحفظ XML كـ ODS" h2="مكتبة روبي لحفظ XML كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لحفظ XML كمواد ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/xml-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ XML كمواد مستنفدة للأوزون" h2="مكتبة روبي لحفظ XML كـ ODS" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Ruby. يعد هذا حلاً احترافيًا لحفظ XML كملف ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/xml-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML كملف ODS في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML كـ ODS في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XML مثل ODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى ODS بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ XML كملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج ODS مثالي.
+يعد حفظ تنسيقات الملفات من XML كملف ODS مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XML إلى ODS بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ XML كملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية ومخرجات ODS مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ XML كتنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لحفظ XML كملف ODS باستخدام REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /ar/ruby/saveas/xml-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لحفظ XML كـ ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لحفظ ملفات Excel بتنسيقات XML أخرى مثل ODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF till SVG Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i GIF-format till fil i SVG-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i GIF-format till fil i SVG-format.
 url: /sv/swift/conversion/gif-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

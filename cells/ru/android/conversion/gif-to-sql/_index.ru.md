@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование GIF в SQL API для Android
-description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата GIF в файл формата SQL.
-url: /ru/android/conversion/gif-to-sql/
+title:  Конвертируйте GIF в SQL с помощью Android
+description:  Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата GIF в файл формата SQL.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования GIF в SQL" h2="Библиотека Android для преобразования GIF в SQL" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования GIF в SQL и другие форматы документов онлайн с помощью Android." urlsection="conversion/gif-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать GIF в SQL" h2="Библиотека Android для преобразования GIF в SQL" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертации GIF в SQL и другие форматы документов с помощью Android." urlsection="conversion/gif-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в SQL в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование GIF в SQL с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в SQL — сложная задача. Все переходы формата GIF в SQL выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов GIF в SQL. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из GIF в SQL может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов GIF в SQL, сохраняя при этом основное структурное и логическое содержимое исходной таблицы GIF. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов GIF в SQL. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод SQL.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования GIF в формат SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования GIF в SQL с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,15 +46,15 @@ url: /ru/android/conversion/gif-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования GIF в SQL" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для преобразования файлов Excel в другие форматы GIF в SQL" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

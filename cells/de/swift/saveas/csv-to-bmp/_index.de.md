@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie CSV als BMP API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im CSV-Format als Datei im Format BMP zu speichern.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im CSV-Format als Datei im Format BMP zu speichern.
 url: /de/swift/saveas/csv-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

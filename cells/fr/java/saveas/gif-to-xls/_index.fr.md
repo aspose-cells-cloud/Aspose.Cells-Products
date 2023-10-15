@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer le GIF au format XLS API for Java
-description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format GIF en tant que fichier au format XLS.
-url: /fr/java/saveas/gif-to-xls/
+title:  Enregistrer le GIF au format XLS en utilisant Java
+description:  Utilisation du SDK Cloud Aspose.Cells for Java pour enregistrer le fichier au format GIF au format XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer le GIF au format XLS" h2="Java bibliothèque pour enregistrer GIF en XLS" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer des fichiers GIF au format XLS et d\'autres formats de document en ligne à l\'aide de Java." urlsection="saveas/gif-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer le GIF au format XLS" h2="Bibliothèque Java pour enregistrer GIF au format XLS" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer des GIF au format XLS et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/gif-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier GIF au format XLS au Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier GIF au format XLS dans Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers GIF au format XLS est une tâche complexe. Toutes les transitions de format GIF à XLS sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Java est une solution professionnelle pour enregistrer en ligne des fichiers GIF au format XLS. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie XLS parfaite.
+Enregistrer les formats de fichiers GIF au format XLS est une tâche complexe. Toutes les transitions du format GIF vers XLS sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Java est une solution professionnelle pour enregistrer des GIF sous forme de fichiers XLS en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie XLS parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour enregistrer GIF au format XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Exemple de code pour enregistrer un GIF au format XLS à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ L'enregistrement de formats de fichiers GIF au format XLS est une tâche complex
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer GIF au format XLS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Cells Cloud SDK for Java pour enregistrer des fichiers Excel sous d\'autres formats GIF au format XLS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Maven 2.2.0 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Maven 2.2.0 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Converti FODS in XML nel cloud via PHP
-description: Crea, modifica o converti file Excel con REST API e Open Source PHP SDK
+title:  Converti FODS in XML nel Cloud via PHP
+description: Crea, modifica o converti file Excel con REST API e SDK Open Source PHP
 url: /it/php/conversion/fods-to-xml/
 family: cells
 platformtag: php
@@ -16,19 +16,19 @@ otherformats: MD XLT XML DIF HTML XLSM PDF XLTM XLTX TSV TIFF XLSX FODS SVG TXT 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Converti rapidamente FODS in XML via PHP" %}}
-1.  Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione
+1.  Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione
 1. Inizializza ```CellsApi``` con ID client, segreto client, URL di base e versione API
-1. Carica il file FODS nel Cloud Storage predefinito con il metodo ```CellsApi.uploadFile```
+1. Carica il file FODS sul Cloud Storage predefinito con il metodo ```CellsApi.uploadFile```
 1. Chiama lo ```CellsApi.cellsSaveAsPostDocumentSaveAs``` per ottenere il file XML risultante
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Inizia con Excel API e PHP SDK" %}}
- Ottieni Excel Cloud SDK per il codice sorgente PHP da[Git Hub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) per compilare tu stesso l'SDK o vai al file[Rilasci](https://releases.aspose.cloud/) per opzioni di download alternative.
+ Ottieni Excel Cloud SDK per il codice sorgente PHP da[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) per compilare tu stesso l'SDK o vai al file[Rilasci](https://releases.aspose.cloud/) per opzioni di download alternative.
 
- Dai anche un'occhiata a Swagger-based[API Riferimento](https://apireference.aspose.cloud/cells/) per saperne di più sul[Excel RIPOSO API](https://products.aspose.cloud/cells/curl/).
+ Dai un'occhiata anche a Swagger-based[API Riferimento](https://apireference.aspose.cloud/cells/) per saperne di più su[Excel RESTO API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="PHP Codice per la conversione da FODS a XML" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="PHP Codice per conversione da FODS a XML" gistPath="" %}}
 ```php
 
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS zu MD Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von XLS-Formatdateien in MD-Formatdateien.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von XLS-Formatdateien in MD-Formatdateien.
 url: /de/swift/conversion/xls-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

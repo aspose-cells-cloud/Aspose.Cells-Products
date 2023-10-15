@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till XLS Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera BMP filformat till XLS format fil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera BMP filformat till XLS format fil.
 url: /sv/swift/conversion/bmp-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

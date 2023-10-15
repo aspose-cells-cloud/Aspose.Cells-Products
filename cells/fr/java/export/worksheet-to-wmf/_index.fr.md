@@ -1,16 +1,15 @@
 ﻿---
-title: Exporter WORKSHEET vers WMF à partir d'une feuille de calcul en utilisant Java API
+title: Exporter la FEUILLE DE TRAVAIL vers WMF à partir de Excel à l'aide du SDK Cloud Cells for Java
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
-url: /fr/java/export/worksheet-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour exporter WORKSHEET vers un fichier WMF" h2="Java bibliothèque pour exporter WORKSHEET vers un fichier WMF" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de la feuille de calcul dans Java. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format WMF à partir d\'une feuille de calcul en ligne à l\'aide de Java." urlsection="export/worksheet-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter la FEUILLE DE TRAVAIL vers WMF à partir du Excel" h2="Bibliothèque Java pour exporter WORKSHEET vers un fichier WMF" p="Utilisez Export API de Cells Cloud pour exporter les flux de travail d\'objets internes du fichier Excel dans Java. Il s\'agit d\'une solution professionnelle pour exporter une FEUILLE DE TRAVAIL au format WMF à partir d\'une feuille de calcul en ligne à l\'aide de Java." urlsection="export/worksheet-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKSHEET vers un fichier au format WMF dans Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKSHEET vers un fichier au format WMF à l\'aide du SDK Cloud Cells for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'exportation d'un objet WORKSHEET vers un fichier WMF à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format WORKSHEET vers WMF est effectuée par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKSHEET source. Notre bibliothèque Java est une solution professionnelle pour exporter en ligne des objets WORKSHEET vers des fichiers au format WMF. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie WMF parfaite.
+Exporter l'objet WORKSHEET vers le fichier WMF à partir du fichier Excel est une tâche complexe. Les transitions d'exportation de WORKSHEET au format WMF sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKSHEET source. Notre bibliothèque Java est une solution professionnelle pour exporter en ligne des objets WORKSHEET vers des fichiers au format WMF. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie WMF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour exporter WORKSHEET au format WMF à partir d\'une feuille de calcul" gistPath="" %}}
@@ -51,16 +50,16 @@ L'exportation d'un objet WORKSHEET vers un fichier WMF à partir d'une feuille d
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour exporter WORKSHEET vers WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells for Java pour exporter des objets de Excel WORKSHEET vers WMF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode postExport pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postExport` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Maven 2.2.0 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Maven 2.2.0 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

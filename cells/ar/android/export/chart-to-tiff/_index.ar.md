@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير CHART إلى TIFF من جدول البيانات باستخدام Android API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/android/export/chart-to-tiff/
+title: تصدير CHART إلى TIFF من Excel باستخدام Cells Cloud SDK لنظام Android
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لتصدير المخطط البياني إلى ملف TIFF" h2="مكتبة Android لتصدير CHART إلى ملف TIFF" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Android. هذا حل احترافي لتصدير CHART إلى ملف بتنسيق TIFF من جدول بيانات عبر الإنترنت باستخدام Android." urlsection="export/chart-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير الرسم البياني إلى TIFF من Excel" h2="مكتبة Android لتصدير CHART إلى ملف TIFF" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Android. يعد هذا حلاً احترافيًا لتصدير CHART إلى ملف بتنسيق TIFF من جدول البيانات عبر الإنترنت باستخدام Android." urlsection="export/chart-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق TIFF في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق TIFF باستخدام Cells Cloud SDK لنظام Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن CHART إلى ملف TIFF من جدول البيانات مهمة معقدة. تصدير المخطط إلى TIFF يتم إجراء انتقالات تنسيق بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات CHART المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتصدير كائنات CHART إلى ملفات بتنسيق TIFF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج TIFF مثالي.
+يعد تصدير كائن CHART إلى ملف TIFF من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير CHART إلى تنسيق TIFF بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CHART المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتصدير كائنات CHART إلى ملفات بتنسيق TIFF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراجًا مثاليًا TIFF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتصدير المخطط البياني إلى تنسيق TIFF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Android باستخدام REST API لتصدير CHART إلى تنسيق TIFF من جدول البيانات" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -51,16 +50,16 @@ url: /ar/android/export/chart-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتصدير المخطط البياني إلى TIFF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتصدير الكائنات من Excel CHART إلى TIFF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

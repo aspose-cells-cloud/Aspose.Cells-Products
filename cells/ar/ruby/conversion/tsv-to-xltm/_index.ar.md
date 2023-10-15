@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV إلى XLTM - تحويل API للروبي
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق TSV إلى ملف تنسيق XLTM.
-url: /ar/ruby/conversion/tsv-to-xltm/
+title:  تحويل TSV إلى XLTM باستخدام روبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف بتنسيق TSV إلى ملف بتنسيق XLTM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لتحويل TSV إلى XLTM" h2="مكتبة روبي لتحويل TSV إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لتحويل TSV إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/tsv-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل TSV إلى XLTM" h2="مكتبة روبي لتحويل TSV إلى XLTM" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Ruby. يعد هذا حلاً احترافيًا لتحويل TSV إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/tsv-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى XLTM في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل TSV إلى XLTM باستخدام Cells Cloud SDK لروبي" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TSV إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى XLTM عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج XLTM مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من TSV إلى XLTM مهمة معقدة. يتعامل Ruby SDK الخاص بنا مع جميع تحويلات تنسيق TSV إلى XLTM مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. توفر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى ملفات XLTM عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Ruby من خلال وظائف قوية ويضمن إخراج XLTM عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل TSV إلى تنسيق XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لتحويل TSV إلى XLTM باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ar/ruby/conversion/tsv-to-xltm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتحويل TSV إلى XLTM" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتحويل ملفات Excel إلى تنسيقات أخرى من TSV إلى XLTM" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

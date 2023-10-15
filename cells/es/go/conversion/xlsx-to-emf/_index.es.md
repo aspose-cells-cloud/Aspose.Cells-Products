@@ -1,19 +1,18 @@
 ﻿---
-title:  XLSX a EMF Convertir API para Go
-description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato XLSX a un archivo de formato EMF.
-url: /es/go/conversion/xlsx-to-emf/
+title:  Convierta XLSX a EMF usando Go
+description: Utilizar el SDK de Cloud Aspose.Cells para Go para convertir un archivo de formato XLSX a un archivo de formato EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para convertir XLSX a EMF" h2="Vaya a la biblioteca para convertir XLSX a EMF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir XLSX a EMF y otros formatos de documentos en línea usando Go." urlsection="conversion/xlsx-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSX a EMF" h2="Ir a la biblioteca para convertir XLSX a EMF" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos de Go. Esta es una solución profesional para convertir XLSX a EMF y otros formatos de documentos en línea usando Go." urlsection="conversion/xlsx-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSX a EMF en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLSX a EMF usando Cells Cloud SDK para Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLSX a EMF es una tarea compleja. Todas las transiciones de formato XLSX a EMF se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos XLSX a EMF en línea. Este SDK de la nube ofrece a los desarrolladores de Go una potente funcionalidad y un resultado EMF perfecto.
+Convertir formatos de archivo de XLSX a EMF puede ser una tarea compleja. Nuestro Go SDK maneja todas las conversiones de formato XLSX a EMF al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca Go proporciona una solución profesional para convertir archivos XLSX a EMF en línea. Este SDK de nube brinda a los desarrolladores de Go una potente funcionalidad y garantiza resultados EMF de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir XLSX al formato EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Go para convertir XLSX a EMF usando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ Convertir formatos de archivo de XLSX a EMF es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Go API para convertir XLSX a EMF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para convertir archivos Excel a otros formatos XLSX a EMF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>ir a la versión go1.13.0 o más reciente</li>
+<li>vaya a la versión go1.13.0 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

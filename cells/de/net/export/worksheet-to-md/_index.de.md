@@ -1,16 +1,15 @@
 ﻿---
-title: Exportieren Sie ARBEITSBLATT aus der Tabelle mit C# API nach MD
+title:  Exportieren Sie ARBEITSBLATT von Excel nach MD mit dem Cloud SDK Cells für C#
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/net/export/worksheet-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren von ARBEITSBLATT in eine MD-Datei" h2="C#-Bibliothek zum Exportieren von ARBEITSBLATT in eine MD-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTEN in eine MD-Formatdatei aus einer Tabellenkalkulation online mit C#." urlsection="export/worksheet-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie ARBEITSBLATT nach MD von Excel" h2="C#-Bibliothek zum Exportieren von WORKSHEET in eine MD-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTEN in eine MD-Formatdatei aus einer Online-Tabelle unter Verwendung der Nummer C#." urlsection="export/worksheet-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in die MD-Formatdatei C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine MD-Formatdatei mit Cells Cloud SDK für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine MD-Datei ist eine komplexe Aufgabe. Der Export von WORKSHEET in das MD-Format wird von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in eine MD-Datei ist eine komplexe Aufgabe. Der Export von WORKSHEET in das MD-Format wird von unserem SDK C# durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von WORKSHEET in das MD-Format aus der Tabellenkalkulation" gistPath="" %}}
@@ -44,10 +43,10 @@ Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine MD
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um ARBEITSBLATT in MD zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Objekte aus Excel WORKSHEET nach MD zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

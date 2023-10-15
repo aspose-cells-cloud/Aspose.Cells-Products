@@ -1,14 +1,13 @@
 ﻿---
-title:  Mit Python schützen
-description:  Aspose.Cells Cloud REST API unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur unter Verwendung von Python. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/python/protect/
+title:  Schützen Sie Excel-Dateien mit Python
+description:  Aspose.Cells Cloud REST API unterstützt das Verschlüsseln, Entschlüsseln und Hinzufügen digitaler Signaturen zu Arbeitsmappen mithilfe von Python und bietet SDKs für verschiedene Programmiersprachen.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit Python schützen" h2="Aspose.Cells Cloud SDK unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur." p="Aspose.Cells Cloud REST API unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur unter Verwendung von Python. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Schützen Sie Excel-Dateien mit Python" h2="Aspose.Cells Cloud SDK unterstützt das Entschlüsseln, Verschlüsseln und digitale Signieren von Arbeitsmappen." p="Aspose.Cells Cloud REST API unterstützt das Verschlüsseln, Entschlüsseln und Hinzufügen digitaler Signaturen zu Arbeitsmappen mithilfe von Python und bietet SDKs für verschiedene Programmiersprachen." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Schützen Sie mit den Erweiterungslinks Python" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Schützen Sie Excel-Dateien mit Python-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

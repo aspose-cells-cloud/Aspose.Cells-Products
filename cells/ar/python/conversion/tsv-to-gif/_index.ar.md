@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV إلى GIF تحويل API لـ Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق TSV إلى ملف بصيغة GIF.
-url: /ar/python/conversion/tsv-to-gif/
+title:  تحويل TSV إلى GIF باستخدام Python
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق TSV إلى ملف بتنسيق GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل TSV إلى GIF" h2="Python مكتبة لتحويل TSV إلى GIF" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Python. هذا حل احترافي لتحويل TSV إلى GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/tsv-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل TSV إلى GIF" h2="مكتبة Python لتحويل TSV إلى GIF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل TSV إلى GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/tsv-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى GIF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل TSV إلى GIF باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TSV إلى GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى GIF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TSV. مكتبتنا Python هي حل احترافي لتحويل ملفات TSV إلى GIF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج GIF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من TSV إلى GIF مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق TSV إلى GIF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل ملفات TSV إلى ملفات GIF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python من الحصول على وظائف قوية ويضمن إخراج صور GIF عالية الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل TSV إلى تنسيق GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل TSV إلى GIF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/tsv-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل TSV إلى GIF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى من TSV إلى GIF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

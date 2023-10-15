@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XLSX als XLSB API für Perl
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die XLSX-Formatdatei als XLSB-Formatdatei zu speichern.
-url: /de/perl/saveas/xlsx-to-xlsb/
+title:  Speichern Sie XLSX als XLSB mit Perl
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern der XLSX-Formatdatei als XLSB-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um XLSX als XLSB zu speichern" h2="Perl-Bibliothek zum Speichern von XLSX als XLSB" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um XLSX als XLSB und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/xlsx-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLSX als XLSB" h2="Perl Bibliothek zum Speichern von XLSX als XLSB" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um XLSX als XLSB und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/xlsx-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSX-Datei als XLSB unter Perl" >}}
@@ -13,7 +12,7 @@ url: /de/perl/saveas/xlsx-to-xlsb/
 Das Speichern von Dateiformaten von XLSX als XLSB ist eine komplexe Aufgabe. Alle XLSX-zu-XLSB-Formatübergänge werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSX-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um XLSX als XLSB-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von XLSX im XLSB-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel zum Speichern von XLSX als XLSB mit REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Das Speichern von Dateiformaten von XLSX als XLSB ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um XLSX als XLSB zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Perl, um Excel-Dateien in den anderen Formaten XLSX und XLSB zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Beitrag anrufen_Arbeitsmappe_save_as-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,16 +1,16 @@
 ﻿---
 title:  Salva SXC come XLSB API per Swift
-description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato SXC come file in formato XLSB.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato SXC come file in formato XLSB.
 url: /it/swift/saveas/sxc-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per salvare SXC come XLSB" h2="Libreria Swift per salvare SXC come XLSB" p="Utilizza Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Swift. Questa è una soluzione professionale per salvare SXC come XLSB e altri formati di documenti online utilizzando Swift." urlsection="saveas/sxc-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per salvare SXC come XLSB" h2="Libreria Swift per salvare SXC come XLSB" p="Utilizza Cells SaveAs REST API per creare flussi di lavoro personalizzati per fogli di calcolo in Swift. Questa è una soluzione professionale per salvare SXC come XLSB e altri formati di documenti online utilizzando Swift." urlsection="saveas/sxc-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file SXC come XLSB in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da SXC come XLSB è un compito complesso. Tutte le transizioni di formato da SXC a XLSB vengono eseguite dal nostro Swift SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria Swift è una soluzione professionale per salvare SXC come file XLSB online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un perfetto output XLSB.
+Salvare i formati di file da SXC come XLSB è un compito complesso. Tutte le transizioni dal formato SXC al formato XLSB vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria Swift è una soluzione professionale per salvare SXC come file XLSB online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output XLSB perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per salvare SXC come formato XLSB" gistPath="" %}}
@@ -55,9 +55,9 @@ Salvare i formati di file da SXC come XLSB è un compito complesso. Tutte le tra
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Swift API per salvare SXC come XLSB" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
+<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+<li>Chiama il metodo cellSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

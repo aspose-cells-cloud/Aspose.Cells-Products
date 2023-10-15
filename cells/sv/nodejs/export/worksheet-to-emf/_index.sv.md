@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera ARBETSBLAD till EMF från kalkylblad med NodeJS API
+title:  Exportera ARBETSBLAD till EMF från Excel med Cells Cloud SDK för NodeJS
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/nodejs/export/worksheet-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att exportera ARBETSBLAD till EMF fil" h2="NodeJS-bibliotek för att exportera ARBETSBLAD till EMF-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylblad i NodeJS. Detta är en professionell lösning för att exportera ARBETSBLAD till EMF filformat från kalkylblad online med NodeJS." urlsection="export/worksheet-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBLAD till EMF från Excel" h2="NodeJS-bibliotek för export av WORKSHEET till EMF-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i NodeJS. Detta är en professionell lösning för att exportera ARBETSBLAD till EMF filformat från kalkylblad online med NodeJS." urlsection="export/worksheet-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till filformatet EMF i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till EMF-formatfil med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKSHEET-objekt till EMF-fil från kalkylblad är en komplex uppgift. Exportera WORKSHEET till EMF formatövergångar utförs av vår NodeJS SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till filer i EMF-format online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt EMF-utgång.
+Exportera WORKSHEET-objekt till filen EMF från filen Excel är en komplex uppgift. Exportera WORKSHEET till EMF formatövergångar utförs av vår NodeJS SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till filer i EMF-format online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt EMF-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att exportera WORKSHEET till EMF-format från kalkylark" gistPath="" %}}
@@ -41,10 +40,10 @@ Exportera WORKSHEET-objekt till EMF-fil från kalkylblad är en komplex uppgift.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att exportera ARBETSBLAD till EMF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att exportera objekt från Excel WORKSHEET till EMF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

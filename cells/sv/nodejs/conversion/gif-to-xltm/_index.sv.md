@@ -1,19 +1,18 @@
 ﻿---
-title:  GIF till XLTM Konvertera API för NodeJS
-description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i GIF-format till fil i XLTM-format.
-url: /sv/nodejs/conversion/gif-to-xltm/
+title:  Konvertera GIF till XLTM med NodeJS
+description: Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera en fil i GIF-format till en fil i XLTM-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att konvertera GIF till XLTM" h2="NodeJS-bibliotek för att konvertera GIF till XLTM" p="Använd Cells Conversion REST API för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att konvertera GIF till XLTM och andra dokumentformat online med NodeJS." urlsection="conversion/gif-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera GIF till XLTM" h2="NodeJS-bibliotek för att konvertera GIF till XLTM" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera GIF till XLTM och andra dokumentformat online med NodeJS." urlsection="conversion/gif-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en GIF-fil till XLTM i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera GIF till XLTM med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från GIF till XLTM är en komplex uppgift. Alla GIF- till XLTM-formatövergångar utförs av vår NodeJS SDK samtidigt som käll-GIF-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att konvertera GIF- till XLTM-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt XLTM-utgång.
+Att konvertera filformat från GIF till XLTM kan vara en komplex uppgift. Vår NodeJS SDK hanterar alla GIF- till XLTM-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-GIF-kalkylarket bevaras. Vårt NodeJS-bibliotek tillhandahåller en professionell lösning för att konvertera GIF- till XLTM-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och säkerställer XLTM-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att konvertera GIF till XLTM-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att konvertera GIF till XLTM med Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ Att konvertera filformat från GIF till XLTM är en komplex uppgift. Alla GIF- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att konvertera GIF till XLTM" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att konvertera Excel-filer till andra format GIF till XLTM" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

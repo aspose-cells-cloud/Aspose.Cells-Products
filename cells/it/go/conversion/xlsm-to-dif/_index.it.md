@@ -1,19 +1,18 @@
 ﻿---
-title:  Converti da XLSM a DIF API per andare
-description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLSM in un file in formato DIF.
-url: /it/go/conversion/xlsm-to-dif/
+title:  Converti XLSM in DIF utilizzando Go
+description:  Utilizzando Aspose.Cells Cloud SDK for Go per convertire un file in formato XLSM in un file in formato DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per convertire XLSM in DIF" h2="Vai alla libreria per convertire XLSM in DIF" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per convertire XLSM in DIF e altri formati di documenti online utilizzando Go." urlsection="conversion/xlsm-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti XLSM in DIF" h2="Vai alla libreria per convertire XLSM in DIF" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Go. Questa è una soluzione professionale per convertire XLSM in DIF e altri formati di documenti online utilizzando Go." urlsection="conversion/xlsm-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XLSM in DIF in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti XLSM in DIF utilizzando Cells Cloud SDK per Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XLSM a DIF è un'attività complessa. Tutte le transizioni dal formato XLSM a DIF vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSM di origine. La nostra libreria Go è una soluzione professionale per convertire file XLSM in DIF online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output DIF perfetto.
+La conversione dei formati di file da XLSM a DIF può essere un compito complesso. Il nostro Go SDK gestisce tutte le conversioni dal formato XLSM al formato DIF preservando il contenuto strutturale e logico principale del foglio di calcolo XLSM di origine. La nostra libreria Go fornisce una soluzione professionale per convertire file XLSM in DIF online. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e garantisce output DIF di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per convertire XLSM in formato DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Esempio per convertire XLSM in DIF utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ La conversione dei formati di file da XLSM a DIF è un'attività complessa. Tutt
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per convertire XLSM in DIF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo CellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per convertire i file Excel in altri formati XLSM in DIF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva CSV come EMF API per Perl
-description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato CSV come file in formato EMF.
-url: /it/perl/saveas/csv-to-emf/
+title:  Salva CSV come EMF utilizzando Perl
+description:  Utilizzando Aspose.Cells Cloud SDK per Perl per salvare il file in formato CSV come file in formato EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per salvare CSV come EMF" h2="Perl libreria per salvare CSV come EMF" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Perl. Questa è una soluzione professionale per salvare CSV come EMF e altri formati di documenti online utilizzando Perl." urlsection="saveas/csv-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva CSV come EMF" h2="Libreria Perl per salvare CSV come EMF" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Perl. Si tratta di una soluzione professionale per salvare CSV come EMF e altri formati di documenti online utilizzando Perl." urlsection="saveas/csv-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file CSV come EMF in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da CSV come EMF è un'attività complessa. Tutte le transizioni di formato da CSV a EMF vengono eseguite dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Perl è una soluzione professionale per salvare file CSV come file EMF online. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e un output EMF perfetto.
+Salvare i formati di file da CSV come EMF è un compito complesso. Tutte le transizioni dal formato CSV al formato EMF vengono eseguite dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Perl è una soluzione professionale per salvare online CSV come file EMF. Questo Cloud SDK offre agli sviluppatori Perl funzionalità potenti e un output EMF perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Perl utilizzando REST API per salvare CSV come formato EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codice Esempio per salvare CSV come EMF utilizzando REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Il salvataggio dei formati di file da CSV come EMF è un'attività complessa. Tu
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Perl API per salvare CSV come EMF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama celle_salva_COME_inviare_documento_salva_come metodo per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Perl per salvare i file Excel in altri formati CSV come EMF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Chiama la posta_cartella di lavoro_save_as per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

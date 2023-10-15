@@ -1,16 +1,16 @@
 ﻿---
 title:  Enregistrer le GIF sous XLTX API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format GIF en tant que fichier au format XLTX.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format GIF au format XLTX.
 url: /fr/swift/saveas/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer le GIF au format XLTX" h2="Bibliothèque Swift pour enregistrer le GIF au format XLTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer des fichiers GIF au format XLTX et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/gif-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer le GIF au format XLTX" h2="Bibliothèque Swift pour enregistrer le GIF au format XLTX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer des GIF au format XLTX et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/gif-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier GIF au format XLTX dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de GIF au format XLTX est une tâche complexe. Toutes les transitions de format GIF vers XLTX sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers GIF au format XLTX. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLTX parfaite.
+Enregistrer les formats de fichiers GIF au format XLTX est une tâche complexe. Toutes les transitions du format GIF vers XLTX sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des GIF sous forme de fichiers XLTX en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer GIF au format XLTX" gistPath="" %}}
@@ -54,10 +54,10 @@ L'enregistrement de formats de fichiers à partir de GIF au format XLTX est une 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer le GIF au format XLTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer un GIF au format XLTX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

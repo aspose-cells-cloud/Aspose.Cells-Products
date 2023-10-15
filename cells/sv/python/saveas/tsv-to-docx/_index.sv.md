@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara TSV som DOCX API för Python
+title:  Spara TSV som DOCX med Python
 description:  Använder Aspose.Cells Cloud SDK för Python för att spara TSV-formatfil som DOCX-formatfil.
-url: /sv/python/saveas/tsv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att spara TSV som DOCX" h2="Python bibliotek för att spara TSV som DOCX" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att spara TSV som DOCX och andra dokumentformat online med Python." urlsection="saveas/tsv-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara TSV som DOCX" h2="Python bibliotek för att spara TSV som DOCX" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python. Detta är en professionell lösning för att spara TSV som DOCX och andra dokumentformat online med Python." urlsection="saveas/tsv-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en TSV-fil som DOCX i Python" >}}
@@ -13,7 +12,7 @@ url: /sv/python/saveas/tsv-to-docx/
 Att spara filformat från TSV som DOCX är en komplex uppgift. Alla TSV till DOCX-formatövergångar utförs av vår Python SDK samtidigt som käll-TSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att spara TSV som DOCX-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att spara TSV som DOCX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att spara TSV som DOCX med REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Att spara filformat från TSV som DOCX är en komplex uppgift. Alla TSV till DOC
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att spara TSV som DOCX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att spara Excel filer som andra format TSV som DOCX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

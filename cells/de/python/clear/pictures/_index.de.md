@@ -1,10 +1,9 @@
 ﻿---
 title:  Löschen Sie Bilder in der lokalen Arbeitsmappe in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Bildern unter Microsoft Excel und OpenOffice Calc. Klare Bilder in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/python/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Löschen von Bildern in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Python Löschen, um Bilder auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um Bilder in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Python zu löschen. Diese professionelle Lösung löscht Bilder in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows mit Python." urlsection="clear/Pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen von Bildern auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle" h2="Python Löschen, um Bilder auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um Bilder in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Python zu löschen. Diese professionelle Lösung löscht Bilder in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows mit Python." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klare Bilder auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Python REST API" >}}
@@ -18,9 +17,9 @@ Das Löschen von Bildern auf lokalen Microsoft Excel und OpenOffice Calc-Tabelle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Python API zum Löschen von Bildern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Python zum Löschen von Bildern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Beitrag anrufen_klar_Objekte-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva XLT come FODS API per Go
-description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato XLT come file in formato FODS.
-url: /it/go/saveas/xlt-to-fods/
+title:  Salva XLT come FODS utilizzando Go
+description:  Utilizzando Aspose.Cells Cloud SDK per Go per salvare il file in formato XLT come file in formato FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per salvare XLT come FODS" h2="Vai in libreria per salvare XLT come FODS" p="Utilizza Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per salvare XLT come FODS e altri formati di documenti online utilizzando Go." urlsection="saveas/xlt-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLT come FODS" h2="Vai alla libreria per salvare XLT come FODS" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Go. Questa è una soluzione professionale per salvare XLT come FODS e altri formati di documenti online utilizzando Go." urlsection="saveas/xlt-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLT come FODS in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLT come FODS è un compito complesso. Tutte le transizioni dal formato XLT a FODS vengono eseguite dal nostro Go SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLT di origine. La nostra libreria Go è una soluzione professionale per salvare XLT come file FODS online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output FODS perfetto.
+Salvare i formati di file da XLT come FODS è un compito complesso. Tutte le transizioni dal formato XLT al formato FODS vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLT di origine. La nostra libreria Go è una soluzione professionale per salvare XLT come file FODS online. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e un output FODS perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per salvare XLT come formato FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Vai ad esempio codice per salvare XLT come FODS utilizzando REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Salvare i formati di file da XLT come FODS è un compito complesso. Tutte le tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per salvare XLT come FODS" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiamare il metodo CellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per salvare i file Excel in altri formati XLT come FODS" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PostWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

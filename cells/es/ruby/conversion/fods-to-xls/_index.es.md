@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir de Excel FODS a XLS via Rubí
-description: Cree, edite o convierta archivos Excel con REST API y Open Source Ruby SDK
+description: Cree, edite o convierta archivos Excel con REST API y Ruby SDK de código abierto
 url: /es/ruby/conversion/fods-to-xls/
 family: cells
 platformtag: ruby
@@ -11,24 +11,24 @@ platform: Ruby
 otherformats: TSV XLTM SVG XPS XLSM TXT XML DIF CSV XLTX ODS TIFF FODS XLSB MD MHTML 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierte FODS a XLS con Ruby" h2="Lea, edite y exporte datos Excel a otros formatos con Cloud SDK de código abierto para Ruby" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir FODS a XLS con Ruby" h2="Lea, edite y exporte datos Excel a otros formatos con Cloud SDK de código abierto para Ruby" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de FODS a XLS con Ruby" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, Secreto de cliente, URL base y versión API
-1. Cargue el archivo FODS al almacenamiento en la nube predeterminado con el método ```CellsApi.upload_file```
+1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
+1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
+1. Cargue el archivo FODS al Cloud Storage predeterminado con el método ```CellsApi.upload_file```
 1. Llame al método ```CellsApi.cells_save_as_post_document_save_as``` para obtener el archivo XLS resultante
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Comience con Excel API y Ruby SDK" %}}
- Obtenga Excel Cloud SDK para el código fuente de Ruby de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) para compilar el SDK usted mismo o diríjase a la[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
+Obtenga Excel Cloud SDK para el código fuente de Ruby de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
 
- También eche un vistazo a Swagger-based[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
+ También eche un vistazo a Basado en Swagger[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Código Ruby para la conversión de FODS a XLS" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Código Ruby para conversión de FODS a XLS" gistPath="" %}}
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
 

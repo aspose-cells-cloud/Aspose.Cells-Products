@@ -1,19 +1,19 @@
 ﻿---
 title:  احفظ PNG كـ XLS API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق PNG كملف بتنسيق XLS.
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق PNG كملف بتنسيق XLS.
 url: /ar/swift/saveas/png-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ PNG كـ XLS" h2="مكتبة سريعة لحفظ PNG كـ XLS" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ PNG بتنسيق XLS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/png-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ PNG كـ XLS" h2="مكتبة سويفت لحفظ PNG كـ XLS" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ PNG بتنسيق XLS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/png-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف PNG كـ XLS في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف PNG بتنسيق XLS في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من PNG كـ XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى XLS بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ PNG كملفات XLS عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XLS مثالي.
+يعد حفظ تنسيقات الملفات من PNG بتنسيق XLS مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق PNG إلى XLS بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ PNG كملفات XLS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات XLS مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ PNG بتنسيق XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ PNG بتنسيق XLS" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,14 +55,14 @@ url: /ar/swift/saveas/png-to-xls/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ PNG كـ XLS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

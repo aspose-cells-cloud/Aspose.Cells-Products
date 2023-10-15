@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование XLSX в PPTX API для Swift
+title:  Конвертировать XLSX в PPTX API для Swift
 description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLSX в файл формата PPTX.
 url: /ru/swift/conversion/xlsx-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLSX в PPTX" h2="Библиотека Swift для преобразования XLSX в PPTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLSX в PPTX и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xlsx-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации XLSX в PPTX" h2="Библиотека Swift для преобразования XLSX в PPTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для конвертации XLSX в PPTX и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xlsx-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в PPTX в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLSX в PPTX в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в PPTX — сложная задача. Все переходы между форматами XLSX и PPTX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLSX в PPTX. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PPTX.
+Преобразование форматов файлов из XLSX в PPTX — сложная задача. Все переходы формата XLSX в PPTX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов XLSX в PPTX. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLSX в формат PPTX" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/xlsx-to-pptx/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования XLSX в PPTX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

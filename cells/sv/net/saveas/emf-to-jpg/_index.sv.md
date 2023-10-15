@@ -1,10 +1,9 @@
 ﻿---
-title: Spara EMF som JPG API för C#
-description:  Använd Aspose.Cells Cloud SDK för C# för att spara EMF filformat som JPG-format.
-url: /sv/net/saveas/emf-to-jpg/
+title:  Spara EMF som JPG med C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara filen EMF som JPG-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att spara EMF som JPG" h2="C# bibliotek för att spara EMF som JPG" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara EMF som JPG och andra dokumentformat online med C#." urlsection="saveas/emf-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara EMF som JPG" h2="C# bibliotek för att spara EMF som JPG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara EMF som JPG och andra dokumentformat online med C#." urlsection="saveas/emf-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en EMF-fil som JPG i C#" >}}
@@ -13,7 +12,7 @@ url: /sv/net/saveas/emf-to-jpg/
 Att spara filformat från EMF som JPG är en komplex uppgift. Alla övergångar från EMF till JPG-format utförs av vår C# SDK samtidigt som källbladets EMF kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att spara EMF som JPG-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att spara EMF som JPG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Kod Exempel för att spara EMF som JPG med REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Att spara filformat från EMF som JPG är en komplex uppgift. Alla övergångar 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att spara EMF som JPG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop CellsSaveAsPostDocumentSaveAs-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att spara Excel filer som andra format EMF som JPG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

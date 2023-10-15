@@ -1,6 +1,6 @@
 ﻿---
-title:  Конвертировать Excel FODS в TXT via Ruby
-description: Создавайте, редактируйте или конвертируйте Excel файлы с REST API и Ruby SDK с открытым исходным кодом
+title:  Конвертировать из Excel FODS в TXT via Рубин
+description: Создавайте, редактируйте или конвертируйте файлы Excel с помощью REST API и Ruby SDK с открытым исходным кодом.
 url: /ru/ruby/conversion/fods-to-txt/
 family: cells
 platformtag: ruby
@@ -11,21 +11,21 @@ platform: Ruby
 otherformats: PDF TIFF XML XPS TSV XLS CSV XLTM HTML XLSB XLSX XLSM FODS DIF TXT SVG 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Конвертируйте FODS в TXT с помощью Ruby" h2="Чтение, редактирование и экспорт Excel данных в другие форматы с помощью Cloud SDK с открытым исходным кодом для Ruby" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Конвертируйте FODS в TXT с помощью Ruby" h2="Чтение, редактирование и экспорт данных Excel в другие форматы с помощью Cloud SDK с открытым исходным кодом для Ruby." >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование FODS в TXT с помощью Ruby" %}}
-1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API
-1. Инициализируйте ```CellsApi``` с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.
+1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API
+1. Инициализируйте ```CellsApi```, используя идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.
 1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.upload_file```.
 1. Вызовите метод ```CellsApi.cells_save_as_post_document_save_as```, чтобы получить результирующий файл TXT.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Начните с Excel API и Ruby SDK" %}}
- Получите Excel Cloud SDK для исходного кода Ruby из[Гитхаб](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) скомпилировать SDK самостоятельно или обратиться к[Релизы](https://releases.aspose.cloud/) для альтернативных вариантов загрузки.
+Получите исходный код Cloud SDK для Ruby Excel на сайте[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
 
- Также взгляните на Swagger-based[API Ссылка](https://apireference.aspose.cloud/cells/) узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
+ Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Код Ruby для преобразования FODS в TXT" gistPath="" %}}

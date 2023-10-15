@@ -1,16 +1,16 @@
 ﻿---
 title:  MHTML en SVG Convertir API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format MHTML en fichier au format SVG.
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format MHTML en fichier au format SVG.
 url: /fr/swift/conversion/mhtml-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir MHTML en SVG" h2="Bibliothèque Swift pour convertir MHTML en SVG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir MHTML en SVG et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/mhtml-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir MHTML en SVG" h2="Bibliothèque Swift pour convertir MHTML en SVG" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir MHTML en SVG et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/mhtml-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier MHTML en SVG dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de MHTML en SVG est une tâche complexe. Toutes les transitions de format MHTML vers SVG sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers MHTML en SVG. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie SVG parfaite.
+La conversion des formats de fichiers de MHTML en SVG est une tâche complexe. Toutes les transitions du format MHTML vers SVG sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers MHTML en SVG. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie SVG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir MHTML au format SVG" gistPath="" %}}
@@ -67,8 +67,8 @@ La conversion des formats de fichiers de MHTML en SVG est une tâche complexe. T
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour convertir MHTML en SVG" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

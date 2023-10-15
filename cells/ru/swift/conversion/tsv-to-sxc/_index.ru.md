@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование TSV в SXC API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата TSV в файл формата SXC.
+title:  Конвертировать TSV в SXC API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата TSV в файл формата SXC.
 url: /ru/swift/conversion/tsv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования TSV в SXC" h2="Библиотека Swift для преобразования TSV в SXC" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации TSV в SXC и других форматов документов с использованием Swift." urlsection="conversion/tsv-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации TSV в SXC" h2="Библиотека Swift для преобразования TSV в SXC" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования TSV в SXC и другие форматы документов с помощью Swift." urlsection="conversion/tsv-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в SXC в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл TSV в SXC в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в SXC — сложная задача. Все переходы между форматами TSV и SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TSV в SXC. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод SXC.
+Преобразование форматов файлов из TSV в SXC — сложная задача. Все переходы формата TSV в SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы TSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TSV в SXC. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования TSV в формат SXC" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/tsv-to-sxc/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования TSV в SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

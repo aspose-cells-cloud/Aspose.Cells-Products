@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLS som JPG API för PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLS-formatfil som JPG-fil.
-url: /sv/php/saveas/xls-to-jpg/
+title:  Spara XLS som JPG med PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLS-formatfil som JPG-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att spara XLS som JPG" h2="PHP bibliotek för att spara XLS som JPG" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att spara XLS som JPG och andra dokumentformat online med PHP." urlsection="saveas/xls-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLS som JPG" h2="PHP bibliotek för att spara XLS som JPG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP. Detta är en professionell lösning för att spara XLS som JPG och andra dokumentformat online med PHP." urlsection="saveas/xls-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLS-fil som JPG i PHP" >}}
@@ -13,7 +12,7 @@ url: /sv/php/saveas/xls-to-jpg/
 Att spara filformat från XLS som JPG är en komplex uppgift. Alla XLS- till JPG-formatövergångar utförs av vår PHP SDK samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLS-kalkylblad bibehålls. Vårt PHP-bibliotek är en professionell lösning för att spara XLS som JPG-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att spara XLS som JPG-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kod Exempel för att spara XLS som JPG med REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ Att spara filformat från XLS som JPG är en komplex uppgift. Alla XLS- till JPG
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att spara XLS som JPG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att spara Excel filer som andra format XLS som JPG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

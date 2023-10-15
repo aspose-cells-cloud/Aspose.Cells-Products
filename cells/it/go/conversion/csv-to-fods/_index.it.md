@@ -1,19 +1,18 @@
 ﻿---
-title:  Conversione da CSV a FODS API for Go
-description: Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato CSV in un file in formato FODS.
-url: /it/go/conversion/csv-to-fods/
+title:  Converti CSV in FODS utilizzando Go
+description:  Utilizzando Aspose.Cells Cloud SDK for Go per convertire un file in formato CSV in un file in formato FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per convertire CSV in FODS" h2="Vai alla libreria per convertire CSV in FODS" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per convertire CSV in FODS e altri formati di documenti online utilizzando Go." urlsection="conversion/csv-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti CSV in FODS" h2="Vai alla libreria per convertire CSV in FODS" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Go. Questa è una soluzione professionale per convertire CSV in FODS e altri formati di documenti online utilizzando Go." urlsection="conversion/csv-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file CSV in FODS in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti CSV in FODS utilizzando Cells Cloud SDK per Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da CSV a FODS è un'attività complessa. Tutte le transizioni di formato da CSV a FODS vengono eseguite dal nostro Go SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo CSV di origine. La nostra libreria Go è una soluzione professionale per convertire i file CSV in FODS online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output FODS perfetto.
+La conversione dei formati di file da CSV a FODS può essere un compito complesso. Il nostro Go SDK gestisce tutte le conversioni dal formato CSV a FODS preservando il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Go fornisce una soluzione professionale per convertire file CSV in FODS online. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e garantisce output FODS di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per convertire CSV in formato FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Esempio per convertire CSV in FODS utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ La conversione dei formati di file da CSV a FODS è un'attività complessa. Tutt
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per convertire CSV in FODS" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo CellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per convertire i file Excel in altri formati CSV in FODS" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

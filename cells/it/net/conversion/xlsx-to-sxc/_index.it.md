@@ -1,19 +1,18 @@
 ﻿---
-title:  Converti da XLSX a SXC API per C#
-description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato XLSX in un file in formato SXC.
-url: /it/net/conversion/xlsx-to-sxc/
+title:  Converti XLSX in SXC utilizzando C#
+description: Utilizzando Aspose.Cells Cloud SDK per C# per convertire un file in formato XLSX in un file in formato SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per convertire XLSX in SXC" h2="C# libreria per convertire XLSX in SXC" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Net. Questa è una soluzione professionale per convertire XLSX in SXC e altri formati di documenti online utilizzando C#." urlsection="conversion/xlsx-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti XLSX in SXC" h2="C# libreria per la conversione da XLSX a SXC" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Net. Questa è una soluzione professionale per convertire XLSX in SXC e altri formati di documenti online utilizzando C#." urlsection="conversion/xlsx-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XLSX in SXC in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti XLSX in SXC utilizzando Cells Cloud SDK per C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XLSX a SXC è un'attività complessa. Tutte le transizioni di formato da XLSX a SXC vengono eseguite dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria C# è una soluzione professionale per convertire file XLSX in SXC online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e un output SXC perfetto.
+La conversione dei formati di file da XLSX a SXC può essere un compito complesso. Il nostro SDK C# gestisce tutte le conversioni del formato XLSX in SXC preservando il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria C# fornisce una soluzione professionale per convertire file XLSX in SXC online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e garantisce output SXC di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in C# utilizzando REST API per convertire XLSX in formato SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Esempio di codice per convertire XLSX in SXC utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,15 +35,15 @@ La conversione dei formati di file da XLSX a SXC è un'attività complessa. Tutt
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare C# API per convertire XLSX in SXC" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo CellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Net per convertire i file Excel in altri formati da XLSX a SXC" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>NET Framework 4.5.2 o più recente</li>
+<li>NET Framework 4.5.2 o successiva</li>
 <li>Net Standard 2.0 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML إلى XLSB تحويل API ل C#
-description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق HTML إلى ملف بتنسيق XLSB.
-url: /ar/net/conversion/html-to-xlsb/
+title:  تحويل HTML إلى XLSB باستخدام C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف بتنسيق HTML إلى ملف بتنسيق XLSB.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لتحويل HTML إلى XLSB" h2="C# مكتبة لتحويل HTML إلى XLSB" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لتحويل HTML إلى XLSB وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/html-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل HTML إلى XLSB" h2="مكتبة C# لتحويل HTML إلى XLSB" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Net. يعد هذا حلاً احترافيًا لتحويل HTML إلى XLSB وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/html-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف HTML إلى XLSB في C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل HTML إلى XLSB باستخدام Cells Cloud SDK لـ C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى XLSB مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى XLSB بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبتنا C# حلاً احترافيًا لتحويل HTML إلى ملفات XLSB عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج XLSB مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من HTML إلى XLSB مهمة معقدة. يتعامل SDK C# الخاص بنا مع جميع تحويلات تنسيق HTML إلى XLSB مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. توفر مكتبتنا C# حلاً احترافيًا لتحويل HTML إلى ملفات XLSB عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري C# من خلال وظائف قوية ويضمن إخراج XLSB عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتحويل HTML إلى تنسيق XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# مثال على الكود لتحويل HTML إلى XLSB باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ar/net/conversion/html-to-xlsb/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام C# API لتحويل HTML إلى XLSB" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لتحويل ملفات Excel إلى تنسيقات أخرى HTML إلى XLSB" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
-<li>Net Standard 2.0 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

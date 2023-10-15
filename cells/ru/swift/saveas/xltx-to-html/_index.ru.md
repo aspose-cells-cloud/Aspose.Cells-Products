@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохраните XLTX как HTML API для Swift
+title:  Сохранить XLTX как HTML API для Swift
 description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLTX как файла формата HTML.
 url: /ru/swift/saveas/xltx-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTX как HTML" h2="Библиотека Swift для сохранения XLTX как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLTX как HTML и других форматов документов онлайн с помощью Swift." urlsection="saveas/xltx-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTX как HTML." h2="Библиотека Swift для сохранения XLTX как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XLTX как HTML и других форматов документов в Интернете с помощью Swift." urlsection="saveas/xltx-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как HTML в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX как HTML — сложная задача. Все переходы между форматами XLTX и HTML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLTX как HTML онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
+Сохранение формата файла XLTX как HTML — сложная задача. Все переходы формата XLTX в HTML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLTX в формате HTML онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLTX в формате HTML" gistPath="" %}}
@@ -54,10 +54,10 @@ url: /ru/swift/saveas/xltx-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLTX как HTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API, чтобы сохранить XLTX как HTML" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

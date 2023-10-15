@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertera FODS till TXT via .NET
+title: Konvertera FODS till TXT via .NET
 description: Skapa, redigera eller konvertera Excel-filer med Cloud API & Open Source .NET SDK
 url: /sv/net/conversion/fods-to-txt/
 family: cells

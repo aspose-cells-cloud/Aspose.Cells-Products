@@ -8,7 +8,7 @@ url: /de/go/export/ods-to-xlsx/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exportieren Sie ODS in eine XLSX-Datei im Cloud SDK für Go" %}}
+{{% blocks/products/pf/agp/feature-section-col title=" Exportieren Sie ODS in eine XLSX-Datei im Cloud SDK für Go" %}}
 1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten
 1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und Version API
 1. Rufen Sie die Methode ```CellsWorkbookPutConvertWorkbook``` auf, um den resultierenden XLSX-Stream abzurufen

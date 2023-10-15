@@ -1,10 +1,9 @@
 ﻿---
 title:  Tydlig bakgrund på den lokala arbetsboken i Cloud
 description: Cloud API och SDK för att rensa bakgrund på Microsoft Excel & OpenOffice Calc. Tydlig bakgrund på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
-url: /sv/ruby/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby Rensa för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa bakgrunden på lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Ruby. Denna professionella lösning tydlig bakgrund på lokala Microsoft Excel och OpenOffice Calc kalkylblad med Ruby." urlsection="clear/Background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort bakgrund på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Ruby Rensa för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa bakgrunden på lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Ruby. Denna professionella lösning tydlig bakgrund på lokala Microsoft Excel och OpenOffice Calc kalkylblad med Ruby." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa bakgrund på lokal Microsoft Excel och OpenOffice Calc-kalkylblad - Ruby REST API" >}}
@@ -18,9 +17,9 @@ Att rensa bakgrunden på lokala Microsoft Excel och OpenOffice Calc-kalkylblad �
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Ruby API för att rensa bakgrunden" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att rensa bakgrunden" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Ring post_klar_objektsmetod för att få den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

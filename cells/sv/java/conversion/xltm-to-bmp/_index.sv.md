@@ -1,19 +1,18 @@
 ﻿---
-title:  XLTM till BMP Konvertera API for Java
-description:  Använder Aspose.Cells Cloud SDK for Java för att konvertera fil i XLTM-format till fil i BMP-format.
-url: /sv/java/conversion/xltm-to-bmp/
+title:  Konvertera XLTM till BMP med Java
+description: Använda Aspose.Cells Cloud SDK for Java för att konvertera en fil i XLTM-format till en fil i BMP-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att konvertera XLTM till BMP" h2="Java bibliotek för att konvertera XLTM till BMP" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Java. Detta är en professionell lösning för att konvertera XLTM till BMP och andra dokumentformat online med Java." urlsection="conversion/xltm-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLTM till BMP" h2="Java bibliotek för att konvertera XLTM till BMP" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java projekt. Detta är en professionell lösning för att konvertera XLTM till BMP och andra dokumentformat online med Java." urlsection="conversion/xltm-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLTM-fil till BMP i Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLTM till BMP med Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTM till BMP är en komplex uppgift. Alla formatövergångar från XLTM till BMP utförs av vår Java SDK samtidigt som källbladets XLTM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att konvertera XLTM till BMP-filer online. Denna Cloud SDK ger Java-utvecklare kraftfull funktionalitet och perfekt BMP-utdata.
+Att konvertera filformat från XLTM till BMP kan vara en komplicerad uppgift. Vår Java SDK hanterar alla XLTM till BMP formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladet XLTM bevaras. Vårt Java-bibliotek tillhandahåller en professionell lösning för att konvertera XLTM till BMP-filer online. Denna Cloud SDK ger Java-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa BMP-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att konvertera XLTM till BMP-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att konvertera XLTM till BMP med Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,10 +46,10 @@ Att konvertera filformat från XLTM till BMP är en komplex uppgift. Alla format
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera XLTM till BMP" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att konvertera Excel filer till andra format XLTM till BMP" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

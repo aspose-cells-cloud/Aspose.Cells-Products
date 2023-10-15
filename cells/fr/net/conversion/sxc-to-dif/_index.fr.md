@@ -1,19 +1,18 @@
 ﻿---
-title:  Convertir SXC en DIF API pour C#
-description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format SXC en fichier au format DIF.
-url: /fr/net/conversion/sxc-to-dif/
+title:  Convertissez SXC en DIF en utilisant C#
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir un fichier au format SXC en fichier au format DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour convertir SXC en DIF" h2="bibliothèque C# pour convertir SXC en DIF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour convertir SXC en DIF et d\'autres formats de documents en ligne en utilisant C#." urlsection="conversion/sxc-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir SXC en DIF" h2="Bibliothèque C# pour convertir SXC en DIF" p="Utilisez la conversion API du Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans les projets Net. Il s\'agit d\'une solution professionnelle pour convertir SXC en DIF et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="conversion/sxc-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier SXC en DIF en C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez SXC en DIF à l\'aide du SDK Cloud Cells pour C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de SXC en DIF est une tâche complexe. Toutes les transitions de format SXC vers DIF sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul SXC source. Notre bibliothèque C# est une solution professionnelle pour convertir des fichiers SXC en DIF en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie DIF parfaite.
+La conversion des formats de fichiers de SXC en DIF peut être une tâche complexe. Notre SDK C# gère toutes les conversions du format SXC vers DIF tout en préservant le contenu structurel et logique principal de la feuille de calcul SXC source. Notre bibliothèque C# fournit une solution professionnelle pour convertir des fichiers SXC en DIF en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et garantit une sortie DIF de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans C# utilisant REST API pour convertir SXC au format DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Exemple de code pour convertir SXC en DIF à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ La conversion des formats de fichiers de SXC en DIF est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser C# API pour convertir SXC en DIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Cells Cloud SDK for Net pour convertir des fichiers Excel vers d\'autres formats SXC en DIF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PutConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>NET Framework 4.5.2 ou plus récent</li>
-<li>Net Standard 2.0 ou plus récent</li>
+<li>NET Framework 4.5.2 ou version ultérieure</li>
+<li>Net Standard 2.0 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

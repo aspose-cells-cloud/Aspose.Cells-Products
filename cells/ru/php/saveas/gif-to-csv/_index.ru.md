@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить GIF как CSV API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата GIF как файла формата CSV.
-url: /ru/php/saveas/gif-to-csv/
+title:  Сохраните GIF как CSV, используя PHP.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата GIF в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для сохранения GIF в формате CSV" h2="PHP библиотека для сохранения GIF в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения GIF в формате CSV и других форматов документов в Интернете с использованием PHP." urlsection="saveas/gif-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить GIF как CSV" h2="PHP библиотека для сохранения GIF в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения GIF в формате CSV и других форматов документов в Интернете с помощью PHP." urlsection="saveas/gif-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF в формате CSV по номеру PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в формате CSV — сложная задача. Все переходы формата GIF в CSV выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека PHP — это профессиональное решение для сохранения GIF в формате CSV онлайн. Этот облачный SDK предоставляет разработчикам PHP мощную функциональность и идеальный вывод в формате CSV.
+Сохранение форматов файлов из GIF в CSV — сложная задача. Все переходы формата GIF в CSV выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной таблицы GIF. Наша библиотека PHP — это профессиональное решение для сохранения GIF в формате CSV в Интернете. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения GIF в формате CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения GIF в формате CSV с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/gif-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения GIF в формате CSV" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для сохранения файлов Excel в других форматах GIF или CSV." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva XML come XLSM API per Ruby
-description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per salvare il file in formato XML come file in formato XLSM.
-url: /it/ruby/saveas/xml-to-xlsm/
+title:  Salva XML come XLSM usando Ruby
+description:  Utilizzando Aspose.Cells Cloud SDK per Ruby per salvare il file in formato XML come file in formato XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per salvare XML come XLSM" h2="Libreria Ruby per salvare XML come XLSM" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Ruby. Questa è una soluzione professionale per salvare XML come XLSM e altri formati di documenti online utilizzando Ruby." urlsection="saveas/xml-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XML come XLSM" h2="Libreria Ruby per salvare XML come XLSM" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Ruby. Questa è una soluzione professionale per salvare XML come XLSM e altri formati di documenti online utilizzando Ruby." urlsection="saveas/xml-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XML come XLSM in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XML come XLSM è un compito complesso. Tutte le transizioni di formato da XML a XLSM vengono eseguite dal nostro Ruby SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XML di origine. La nostra libreria Ruby è una soluzione professionale per salvare XML come file XLSM online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un perfetto output XLSM.
+Salvare formati di file da XML come XLSM è un compito complesso. Tutte le transizioni dal formato XML al formato XLSM vengono eseguite dal nostro SDK Ruby mantenendo il contenuto strutturale e logico principale del foglio di calcolo XML di origine. La nostra libreria Ruby è una soluzione professionale per salvare XML come file XLSM online. Questo Cloud SDK offre agli sviluppatori Ruby funzionalità potenti e un output XLSM perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby utilizzando REST API per salvare XML come formato XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice Ruby per salvare XML come XLSM utilizzando REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,15 +32,15 @@ Salvare i formati di file da XML come XLSM è un compito complesso. Tutte le tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Ruby API per salvare XML come XLSM" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama celle_salva_COME_inviare_documento_salva_come metodo per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Ruby per salvare i file Excel in altri formati XML come XLSM" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `post_workbook_save_as` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>rubino 2.5 o più recente</li>
+<li>rubino 2.5 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

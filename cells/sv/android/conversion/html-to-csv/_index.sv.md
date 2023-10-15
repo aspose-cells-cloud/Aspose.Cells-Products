@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML till CSV Konvertera API för Android
-description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera HTML filformat till CSV-format fil.
-url: /sv/android/conversion/html-to-csv/
+title:  Konvertera HTML till CSV med Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i HTML-format till en CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att konvertera HTML till CSV" h2="Android-bibliotek för att konvertera HTML till CSV" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att konvertera HTML till CSV och andra dokumentformat online med Android." urlsection="conversion/html-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera HTML till CSV" h2="Android-bibliotek för att konvertera HTML till CSV" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android-projekt. Detta är en professionell lösning för att konvertera HTML till CSV och andra dokumentformat online med Android." urlsection="conversion/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en HTML-fil till CSV i Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera HTML till CSV med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från HTML till CSV är en komplex uppgift. Alla övergångar från HTML till CSV-format utförs av vår Android SDK samtidigt som källbladets HTML kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera HTML till CSV-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Att konvertera filformat från HTML till CSV kan vara en komplicerad uppgift. Vår Android SDK hanterar alla konverteringar från HTML till CSV-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket HTML bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera HTML till CSV-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer CSV-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera HTML till CSV-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att konvertera HTML till CSV med Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Att konvertera filformat från HTML till CSV är en komplex uppgift. Alla överg
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera HTML till CSV" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel-filer till andra format HTML till CSV" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

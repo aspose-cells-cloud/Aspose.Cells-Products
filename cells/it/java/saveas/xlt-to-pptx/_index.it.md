@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva XLT come PPTX API for Java
-description:  Utilizzo di Aspose.Cells Cloud SDK for Java per salvare il file in formato XLT come file in formato PPTX.
-url: /it/java/saveas/xlt-to-pptx/
+title:  Salva XLT come PPTX utilizzando Java
+description: Utilizzando Aspose.Cells Cloud SDK for Java per salvare il file in formato XLT come file in formato PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per salvare XLT come PPTX" h2="Java libreria per salvare XLT come PPTX" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Java. Questa è una soluzione professionale per salvare XLT come PPTX e altri formati di documenti online utilizzando Java." urlsection="saveas/xlt-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLT come PPTX" h2="Libreria Java per il salvataggio di XLT come PPTX" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Java. Questa è una soluzione professionale per salvare XLT come PPTX e altri formati di documenti online utilizzando Java." urlsection="saveas/xlt-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLT come PPTX in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLT come PPTX è un compito complesso. Tutte le transizioni dal formato XLT a PPTX vengono eseguite dal nostro SDK Java mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLT di origine. La nostra libreria Java è una soluzione professionale per salvare XLT come file PPTX online. Questo Cloud SDK offre agli sviluppatori Java potenti funzionalità e un output PPTX perfetto.
+Salvare formati di file da XLT come PPTX è un compito complesso. Tutte le transizioni dal formato XLT al formato PPTX vengono eseguite dal nostro SDK Java mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLT di origine. La nostra libreria Java è una soluzione professionale per salvare online XLT come file PPTX. Questo Cloud SDK offre agli sviluppatori Java funzionalità potenti e un output PPTX perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Java utilizzando REST API per salvare XLT come formato PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codice Esempio per salvare XLT come PPTX utilizzando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ Salvare i formati di file da XLT come PPTX è un compito complesso. Tutte le tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Java API per salvare XLT come PPTX" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Java per salvare i file Excel in altri formati XLT come PPTX" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Maven 2.2.0 o più recente</li>
-<li>Java(TM) SE Ambiente di runtime</li>
+<li>Maven 2.2.0 o successiva</li>
+<li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

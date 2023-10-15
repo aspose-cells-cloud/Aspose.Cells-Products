@@ -1,19 +1,18 @@
 ﻿---
-title: قم بتصدير ورقة العمل إلى HTML من جدول البيانات باستخدام Android API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/android/export/worksheet-to-html/
+title: تصدير ورقة عمل إلى HTML من Excel باستخدام Cells Cloud SDK لنظام Android
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="أندرويد API لتصدير ورقة العمل إلى ملف HTML" h2="مكتبة Android لتصدير WORKSHEET إلى ملف HTML" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Android. هذا حل احترافي لتصدير WORKSHEET إلى ملف بتنسيق HTML من جدول بيانات عبر الإنترنت باستخدام Android." urlsection="export/worksheet-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير ورقة عمل إلى HTML من Excel" h2="مكتبة Android لتصدير ورقة العمل إلى ملف HTML" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Android. يعد هذا حلاً احترافيًا لتصدير ورقة العمل إلى ملف بتنسيق HTML من جدول البيانات عبر الإنترنت باستخدام Android." urlsection="export/worksheet-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق HTML في Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن ورقة العمل إلى ملف بتنسيق HTML باستخدام Cells Cloud SDK لنظام Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف HTML من جدول البيانات مهمة معقدة. تصدير WORKSHEET إلى HTML يتم إجراء انتقالات تنسيق بواسطة Android SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق HTML عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج HTML مثالي.
+يعد تصدير كائن ورقة العمل إلى ملف HTML من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير ورقة العمل إلى HTML بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتصدير كائنات ورقة العمل إلى ملفات بتنسيق HTML عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراجًا مثاليًا HTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتصدير WORKSHEET إلى تنسيق HTML من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Android باستخدام REST API لتصدير ورقة العمل إلى تنسيق HTML من جدول البيانات" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -51,16 +50,16 @@ url: /ar/android/export/worksheet-to-html/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتصدير ورقة العمل إلى HTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتصدير الكائنات من ورقة عمل Excel إلى HTML" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

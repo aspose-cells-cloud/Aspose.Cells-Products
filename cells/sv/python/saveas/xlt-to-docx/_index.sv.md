@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLT som DOCX API för Python
+title:  Spara XLT som DOCX med Python
 description:  Använder Aspose.Cells Cloud SDK för Python för att spara XLT-formatfil som DOCX-formatfil.
-url: /sv/python/saveas/xlt-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att spara XLT som DOCX" h2="Python-biblioteket för att spara XLT som DOCX" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att spara XLT som DOCX och andra dokumentformat online med Python." urlsection="saveas/xlt-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLT som DOCX" h2="Python bibliotek för att spara XLT som DOCX" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python. Detta är en professionell lösning för att spara XLT som DOCX och andra dokumentformat online med Python." urlsection="saveas/xlt-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLT-fil som DOCX i Python" >}}
@@ -13,7 +12,7 @@ url: /sv/python/saveas/xlt-to-docx/
 Att spara filformat från XLT som DOCX är en komplex uppgift. Alla XLT- till DOCX-formatövergångar utförs av vår Python SDK samtidigt som käll XLT-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att spara XLT som DOCX-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att spara XLT som DOCX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att spara XLT som DOCX med REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Att spara filformat från XLT som DOCX är en komplex uppgift. Alla XLT- till DO
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att spara XLT som DOCX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att spara Excel filer som andra format XLT som DOCX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

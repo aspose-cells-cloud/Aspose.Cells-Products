@@ -1,16 +1,15 @@
 ﻿---
-title:  Exporte CHART a PDF desde una hoja de cálculo usando Ruby API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/ruby/export/chart-to-pdf/
+title:  Exporte CHART a PDF desde Excel usando Cells Cloud SDK para Ruby
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para exportar CHART al archivo PDF" h2="Biblioteca Ruby para exportar CHART al archivo PDF" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hojas de cálculo en Ruby. Esta es una solución profesional para exportar CHART a un archivo de formato PDF desde una hoja de cálculo en línea usando Ruby." urlsection="export/chart-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar TABLA a PDF desde Excel" h2="Biblioteca Ruby para exportar CHART al archivo PDF" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en Ruby. Esta es una solución profesional para exportar CHART a un archivo de formato PDF desde una hoja de cálculo en línea usando Ruby." urlsection="export/chart-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto CHART al archivo de formato PDF en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto CHART al archivo de formato PDF usando Cells Cloud SDK para Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto CHART al archivo PDF desde una hoja de cálculo es una tarea compleja. Exportar CHART a transiciones de formato PDF se realiza mediante nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca Ruby es una solución profesional para exportar objetos CHART a archivos de formato PDF en línea. Este SDK de Cloud ofrece a los desarrolladores de Ruby una potente funcionalidad y un resultado PDF perfecto.
+Exportar el objeto CHART al archivo PDF desde el archivo Excel es una tarea compleja. Nuestro Ruby SDK realiza la exportación de transiciones de formato CHART a PDF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca Ruby es una solución profesional para exportar objetos CHART a archivos con formato PDF en línea. Este SDK de Cloud ofrece a los desarrolladores de Ruby una potente funcionalidad y un resultado PDF perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para exportar CHART al formato PDF desde una hoja de cálculo" gistPath="" %}}
@@ -35,9 +34,9 @@ Exportar un objeto CHART al archivo PDF desde una hoja de cálculo es una tarea 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Ruby API para exportar CHART a PDF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Ruby para exportar objetos de Excel CHART a PDF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
 <li>Llame al método post_export para obtener el flujo resultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

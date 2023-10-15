@@ -1,19 +1,18 @@
 ﻿---
-title: الأرقام إلى PNG حوّل API إلى Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق PNG.
-url: /ar/perl/conversion/numbers-to-png/
+title:  تحويل الأرقام إلى PNG باستخدام Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل الأرقام إلى PNG" h2="مكتبة Perl لتحويل الأرقام إلى PNG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل الأرقام إلى PNG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/numbers-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى PNG" h2="مكتبة Perl لتحويل الارقام الى PNG" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى PNG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/numbers-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى PNG في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل الأرقام إلى PNG باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق الأرقام من NUMBERS إلى PNG بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات NUMBERS المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل الأرقام إلى ملفات PNG عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج PNG مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من NUMBERS إلى PNG مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى PNG مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل NUMBERS إلى PNG ملفًا عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl بوظائف قوية ويضمن إخراج PNG عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل الأرقام إلى تنسيق PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل الأرقام إلى PNG باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ar/perl/conversion/numbers-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl API لتحويل الأرقام إلى PNG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل الأرقام إلى PNG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

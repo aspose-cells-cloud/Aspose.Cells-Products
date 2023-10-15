@@ -1,6 +1,6 @@
 ﻿---
 title:  Tydliga valideringar på den lokala arbetsboken i Cloud
-description: " Cloud API:er och SDK:er för att rensa valideringar på Microsoft Excel & OpenOffice Calc. Tydliga valideringar på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
+description: "Cloud API:er och SDK:er för att rensa valideringar på Microsoft Excel & OpenOffice Calc. Tydliga valideringar på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 url: /sv/swift/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

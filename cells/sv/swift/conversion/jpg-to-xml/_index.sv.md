@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG till XML Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera JPG-formatfil till XML-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera JPG-formatfil till XML-formatfil.
 url: /sv/swift/conversion/jpg-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,14 +1,13 @@
 ﻿---
-title:  Ställ in bakgrunden med Ruby
-description: Aspose.Cells Cloud REST API stöder inställd bakgrund för Excel-fil med Ruby. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
-url: /sv/ruby/background/
+title:  Ställ in en bakgrund för Excel-filer med Ruby
+description: " Aspose.Cells Cloud REST API stöder inställning av bakgrunden för Excel-filer med Ruby, och erbjuder SDK:er för olika programmeringsspråk."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ställ in bakgrunden med Ruby" h2="Aspose.Cells Cloud SDK stöder tydligt innehåll, stil, diagram, tabell, bakgrund och så vidare i Excel-filer." p="Aspose.Cells Cloud REST API stöder inställd bakgrund för Excel-fil med Ruby. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ställ in en bakgrund för Excel-filer med Ruby" h2="Aspose.Cells Cloud SDK stöder inställning av bakgrunder i Excel-filer." p="Aspose.Cells Cloud REST API stöder inställning av bakgrunden för Excel-filer med Ruby, och erbjuder SDK:er för olika programmeringsspråk." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Ställ in bakgrund med Ruby Extension-länkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Ställ in en bakgrund för Excel-filer med Ruby Extension-länkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

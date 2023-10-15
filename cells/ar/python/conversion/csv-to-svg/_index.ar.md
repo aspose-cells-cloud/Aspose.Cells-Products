@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV إلى SVG حوّل API إلى Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق CSV إلى ملف بتنسيق SVG.
-url: /ar/python/conversion/csv-to-svg/
+title:  تحويل CSV إلى SVG باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق CSV إلى ملف بتنسيق SVG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل CSV إلى SVG" h2="مكتبة Python لتحويل CSV إلى SVG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل CSV إلى SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/csv-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل CSV إلى SVG" h2="مكتبة Python لتحويل CSV إلى SVG" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل ملف CSV إلى SVG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/csv-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى SVG في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل CSV إلى SVG باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من CSV إلى SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى SVG بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل ملفات CSV إلى ملفات SVG عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج SVG مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من CSV إلى SVG مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق CSV إلى SVG مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CSV المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل ملفات CSV إلى SVG عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python بوظائف قوية ويضمن إخراج SVG عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل CSV إلى تنسيق SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل CSV إلى SVG باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/csv-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل CSV إلى SVG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى CSV إلى SVG" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLTX в XLSM API для Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLTX в файл формата XLSM.
-url: /ru/perl/conversion/xltx-to-xlsm/
+title:  Преобразуйте XLTX в XLSM с помощью Perl.
+description: Использование Cloud SDK Aspose.Cells для Perl для преобразования файла формата XLTX в файл формата XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования XLTX в XLSM" h2="Perl библиотека для преобразования XLTX в XLSM" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования XLTX в XLSM и другие форматы документов онлайн с использованием Perl." urlsection="conversion/xltx-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLTX в XLSM" h2="Perl библиотека для конвертации XLTX в XLSM" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Perl. Это профессиональное решение для онлайн-конвертирования XLTX в XLSM и другие форматы документов с помощью номера Perl." urlsection="conversion/xltx-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в XLSM в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XLTX в XLSM с помощью Cloud SDK Cells для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в XLSM — сложная задача. Все переходы форматов XLTX в XLSM выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTX. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLTX в XLSM. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат XLSM.
+Преобразование форматов файлов из XLTX в XLSM может оказаться сложной задачей. Наш SDK Perl обрабатывает все преобразования форматов XLTX в XLSM, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLTX. Наша библиотека Perl предоставляет профессиональное решение для онлайн-конвертирования файлов XLTX в XLSM. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и обеспечивает высококачественный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования XLTX в формат XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для преобразования XLTX в XLSM с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ru/perl/conversion/xltx-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для преобразования XLTX в XLSM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl SDK для преобразования XLTX в XLSM" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

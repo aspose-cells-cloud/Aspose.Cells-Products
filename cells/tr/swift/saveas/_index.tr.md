@@ -1,32 +1,32 @@
 ﻿---
-title:  Swift kullanarak kaydet
-description:  Aspose.Cells Cloud REST API, Excel dosyalarının Swift kullanılarak biçim dosyaları olarak kaydedilmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Swift kullanarak farklı kaydet
+description:  Aspose.Cells Cloud REST API, Swift kullanarak excel dosyalarının format dosyası türleri olarak kaydedilmesini destekler. SDK geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 url: /tr/swift/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift kullanarak kaydet" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının diğer biçimler olarak kaydedilmesini destekler. Desteklenen dosya biçimleri 30\'dan fazla dosya biçimine sahiptir." p="Aspose.Cells Cloud REST API, Excel dosyalarının Swift kullanılarak biçim dosyaları olarak kaydedilmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift kullanarak farklı kaydet" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının diğer formatlarda kaydedilmesini destekler. Desteklenen dosya formatları 30\'dan fazla dosya formatına sahiptir." p="Aspose.Cells Cloud REST API, Swift kullanarak excel dosyalarının format dosyası türleri olarak kaydedilmesini destekler. SDK geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-	{{< blocks/products/pf/product-card-row title="Desteklenen Dosya Biçimleri" >}}
+	{{< blocks/products/pf/product-card-row title="Desteklenen Dosya Formatları" >}}
 	<div class="diagram1 d2  d1-cloud">
 	<div class="d1-row">
 	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Giriş Formatı</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Açık ofis:</b> Oranlar, Fods, Otlar</li>
-	<li><b>XML:</b>E-tabloML, Xml</li>
-	<li><b>Metin:</b> CSV, Tsv, Txt (TabDelimited)</li>
-	<li><b>Ağ:</b> HTML, Mhtml</li>
+	<li><b>Açık ofis:</b> Oranlar, Fodlar, Otlar</li>
+	<li><b>XML:</b>Elektronik TabloML, Xml</li>
+	<li><b>Metin:</b> Csv, Tsv, Txt (Sekmeyle Ayrılmış)</li>
+	<li><b>Ağ:</b> Html, Mhtml</li>
 	<li><b>Görüntüler:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Diğer:</b> Pdf, Json, Markdown</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Çıkış biçimi</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Çıkış biçimi</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft kelime/PowerPoint:</b> Docx, Pptx</li>
-	<li><b>Açık ofis:</b> Oranlar, Fods, Otlar</li>
-	<li><b>XML:</b>E-tabloML, Xml</li>
-	<li><b>Metin:</b> CSV, Tsv, Txt (TabDelimited)</li>
-	<li><b>Ağ:</b> HTML, Mhtml</li>
+	<li><b>Microsoft Kelime/PowerPoint:</b> Docx, Pptx</li>
+	<li><b>Açık ofis:</b> Oranlar, Fodlar, Otlar</li>
+	<li><b>XML:</b>Elektronik TabloML, Xml</li>
+	<li><b>Metin:</b> Csv, Tsv, Txt (Sekmeyle Ayrılmış)</li>
+	<li><b>Ağ:</b> Html, Mhtml</li>
 	<li><b>Görüntüler:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Diğer:</b> Pdf, Xps, Dif, Json, Markdown, Sql</li>
 	</ul></div>
@@ -43,10 +43,10 @@ url: /tr/swift/saveas/
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/cells" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

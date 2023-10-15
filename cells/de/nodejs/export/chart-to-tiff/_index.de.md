@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie CHART aus der Tabellenkalkulation nach TIFF mit NodeJS API
+title:  Exportieren Sie CHART von Excel nach TIFF mit dem Cloud SDK Cells für NodeJS
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/nodejs/export/chart-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren von CHART in die Datei TIFF" h2="NodeJS-Bibliothek zum Exportieren von CHART in die Datei TIFF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von CHART in eine Datei im Format TIFF aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/chart-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Diagramm von Excel nach TIFF exportieren" h2="NodeJS-Bibliothek zum Exportieren von CHART in die Datei TIFF" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von CHART in eine Datei im Format TIFF aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/chart-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in eine Datei im Format TIFF in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in eine Datei im Format TIFF mit dem Cloud SDK Cells für NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in die Datei TIFF ist eine komplexe Aufgabe. Der Export von CHART-Formatübergängen in das TIFF-Format wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Export von CHART-Objekten in Dateien im Format TIFF. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
+Das Exportieren eines CHART-Objekts aus der Datei Excel in die Datei TIFF ist eine komplexe Aufgabe. Der Export von CHART-Formatübergängen in das TIFF-Format wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Export von CHART-Objekten in Dateien im Format TIFF. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Exportieren von CHART in das TIFF-Format aus der Tabellenkalkulation" gistPath="" %}}
@@ -41,10 +40,10 @@ Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in die Datei T
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um CHART nach TIFF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Objekte von Excel CHART nach TIFF zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

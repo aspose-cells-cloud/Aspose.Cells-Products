@@ -1,10 +1,10 @@
 ﻿---
-title:  Proteja con Swift
-description: Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital con Swift. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Proteger usando Swift
+description:  Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital mediante Swift. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteja con Swift" h2="Aspose.Cells Cloud SDK admite libros de trabajo de descifrado, cifrado y firma digital." p="Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital con Swift. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteger usando Swift" h2="Aspose.Cells Cloud SDK admite libros de trabajo de descifrado, cifrado y firma digital." p="Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital mediante Swift. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -29,7 +29,7 @@ url: /es/swift/protect/
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells SDK de la nube for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells SDK de nube for .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Seguridad" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportar HOJA DE TRABAJO a CSV desde una hoja de cálculo usando Python API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
-url: /es/python/export/worksheet-to-csv/
+title:  Exporte la HOJA DE TRABAJO a CSV desde Excel usando Cells Cloud SDK para Python
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para exportar HOJA DE TRABAJO a archivo CSV" h2="Python biblioteca para exportar HOJA DE TRABAJO a archivo CSV" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en Python. Esta es una solución profesional para exportar HOJA DE TRABAJO a un archivo de formato CSV desde una hoja de cálculo en línea usando Python." urlsection="export/worksheet-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar HOJA DE TRABAJO a CSV desde Excel" h2="Python biblioteca para exportar HOJA DE TRABAJO a archivo CSV" p="Utilice Exportar API de Cells Cloud para exportar flujos de trabajo de objetos internos de archivos Excel en Python. Esta es una solución profesional para exportar HOJA DE TRABAJO a un archivo en formato CSV desde una hoja de cálculo en línea usando Python." urlsection="export/worksheet-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto HOJA DE TRABAJO a archivo de formato CSV en Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKSHEET a un archivo en formato CSV usando Cells Cloud SDK para Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto HOJA DE TRABAJO a un archivo CSV desde una hoja de cálculo es una tarea compleja. La exportación de HOJA DE TRABAJO a las transiciones de formato CSV se realiza mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Python es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos de formato CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Python una funcionalidad poderosa y una salida CSV perfecta.
+Exportar el objeto WORKSHEET a un archivo CSV desde el archivo Excel es una tarea compleja. Nuestro SDK Python realiza las transiciones de exportación de HOJA DE TRABAJO a formato CSV mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de HOJA DE TRABAJO de origen. Nuestra biblioteca Python es una solución profesional para exportar objetos de HOJA DE TRABAJO a archivos en formato CSV en línea. Este SDK de nube ofrece a los desarrolladores de Python una potente funcionalidad y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para exportar HOJA DE TRABAJO a formato CSV desde una hoja de cálculo" gistPath="" %}}
@@ -37,9 +36,9 @@ Exportar un objeto HOJA DE TRABAJO a un archivo CSV desde una hoja de cálculo e
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Python API para exportar HOJA DE TRABAJO a CSV" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Python para exportar objetos de Excel WORKSHEET a CSV" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
 <li>Llame al método post_export para obtener el flujo resultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

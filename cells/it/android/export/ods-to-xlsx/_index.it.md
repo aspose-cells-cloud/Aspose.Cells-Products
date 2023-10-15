@@ -1,6 +1,6 @@
 ﻿---
 title: Esporta Ods nel file XLSX via Android
-description: Aspose.Cells Cloud REST API supporta l'esportazione di file Excel e oggetti interni in tipi di file di formato. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description: Aspose.Cells Cloud REST API supporta l'esportazione di file Excel e oggetti interni in tipi di file di formato. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/android/export/ods-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -9,15 +9,15 @@ url: /it/android/export/ods-to-xlsx/
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=" Esporta ODS in file XLSX in Cloud SDK per Android" %}}
-1.  Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione
+1.  Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione
 1. Inizializza ```CellsApi``` con ID client, segreto client, URL di base e versione API
 1. Chiama il metodo ```cellsWorkbookPutConvertWorkbook``` per ottenere il flusso XLSX risultante
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Inizia con Excel REST API" %}}
- Ottieni il codice sorgente Excel Cloud SDK for .NET da[Git Hub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) per compilare tu stesso l'SDK o vai al file[Rilasci](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/releases) per opzioni di download alternative.
+ Ottieni il codice sorgente Excel Cloud SDK for .NET da[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) per compilare tu stesso l'SDK o vai al file[Rilasci](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/releases) per opzioni di download alternative.
 
- Dai anche un'occhiata a Swagger-based[API Riferimento]() per saperne di più sul[Excel RIPOSO API](https://products.aspose.cloud/cells/curl/).
+ Dai un'occhiata anche a Swagger-based[API Riferimento]() per saperne di più su[Excel RESTO API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Codice Android per la conversione da ODS a XLSX" gistPath="" %}}

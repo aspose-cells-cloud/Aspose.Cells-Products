@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить EMF как TXT API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата EMF в виде файла формата TXT.
-url: /ru/java/saveas/emf-to-txt/
+title:  Сохраните EMF как TXT, используя Java.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата EMF как файла формата TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить EMF как TXT" h2="Библиотека Java для сохранения EMF как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения EMF в формате TXT и других форматах документов в Интернете с использованием Java." urlsection="saveas/emf-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить EMF как TXT" h2="Библиотека Java для сохранения EMF в формате TXT" p="Используйте SaveAs API из Cells Cloud для создания индивидуальных рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения EMF в формате TXT и других форматов документов онлайн с использованием Java." urlsection="saveas/emf-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как TXT в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как TXT — сложная задача. Все переходы EMF в формат TXT выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения EMF в виде файлов TXT онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод TXT.
+Сохранение файлов формата EMF в формате TXT — сложная задача. Все переходы формата EMF в формат TXT выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения EMF в виде файлов TXT в Интернете. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения EMF в формате TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения EMF в формате TXT с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ url: /ru/java/saveas/emf-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API, чтобы сохранить EMF как TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах EMF как TXT" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

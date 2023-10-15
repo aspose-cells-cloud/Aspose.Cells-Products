@@ -1,10 +1,9 @@
 ﻿---
-title:  GIF unter SVG API für Ruby speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die Datei im GIF-Format als Datei im Format SVG zu speichern.
-url: /de/ruby/saveas/gif-to-svg/
+title:  Speichern Sie GIF unter SVG mit Ruby
+description:  Verwendung des Aspose.Cells Cloud SDK für Ruby zum Speichern der GIF-Formatdatei als SVG-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um GIF als SVG zu speichern" h2="Ruby-Bibliothek zum Speichern von GIF unter SVG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um GIF als SVG und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/gif-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF unter SVG speichern" h2="Ruby-Bibliothek zum Speichern von GIF als SVG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um GIF als SVG und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/gif-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei unter dem Namen SVG in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/gif-to-svg/
 Das Speichern von GIF-Dateiformaten als SVG ist eine komplexe Aufgabe. Alle GIF-Formatübergänge in das SVG-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Speichern von GIF-Dateien im Format SVG. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und eine perfekte SVG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von GIF im SVG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von GIF als SVG mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von GIF-Dateiformaten als SVG ist eine komplexe Aufgabe. Alle GIF-
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um GIF als SVG zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in anderen GIF-Formaten als SVG zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

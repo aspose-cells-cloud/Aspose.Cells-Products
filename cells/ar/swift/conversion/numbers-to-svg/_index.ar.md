@@ -1,19 +1,19 @@
 ﻿---
-title:  الأرقام إلى SVG حوّل API إلى Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق SVG.
+title: أرقام إلى SVG تحويل API إلى سويفت
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق SVG.
 url: /ar/swift/conversion/numbers-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل الأرقام إلى SVG" h2="مكتبة سويفت لتحويل الأرقام إلى SVG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل الأرقام إلى SVG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/numbers-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل الأرقام إلى SVG" h2="مكتبة سويفت لتحويل الأرقام إلى SVG" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى SVG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/numbers-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى SVG في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف NUMBERS إلى SVG في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق الأرقام من NUMBERS إلى SVG بواسطة Swift SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل الأرقام إلى SVG ملفات عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج SVG مثالي.
+يعد تحويل تنسيقات الملفات من NUMBERS إلى SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى SVG بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل NUMBERS إلى ملفات SVG عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج SVG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل الأرقام إلى تنسيق SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لتحويل الأرقام إلى تنسيق SVG" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/numbers-to-svg/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل الأرقام إلى SVG" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLS в XLT API для Python
-description: Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLS в файл формата XLT.
-url: /ru/python/conversion/xls-to-xlt/
+title:  Конвертируйте XLS в XLT, используя Python.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата XLS в файл формата XLT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLS в XLT" h2="Python библиотека для преобразования XLS в XLT" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для преобразования XLS в XLT и другие форматы документов онлайн с использованием Python." urlsection="conversion/xls-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLS в XLT" h2="Python библиотека для конвертации XLS в XLT" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертации XLS в XLT и другие форматы документов с использованием номера Python." urlsection="conversion/xls-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в XLT в Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте XLS в XLT с помощью Cloud SDK Cells для Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в XLT — сложная задача. Все переходы между форматами XLS и XLT выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLS в XLT. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
+Преобразование форматов файлов из XLS в XLT может оказаться сложной задачей. Наш SDK Python обрабатывает все преобразования форматов XLS в XLT, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLS. Наша библиотека Python предоставляет профессиональное решение для онлайн-конвертирования файлов XLS в XLT. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и обеспечивает высококачественный вывод XLT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLS в формат XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для преобразования XLS в XLT с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ru/python/conversion/xls-to-xlt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для преобразования XLS в XLT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python для преобразования файлов Excel в другие форматы XLS в XLT." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

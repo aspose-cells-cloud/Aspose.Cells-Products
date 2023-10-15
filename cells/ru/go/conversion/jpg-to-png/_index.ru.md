@@ -1,19 +1,18 @@
 ﻿---
-title:  JPG в PNG Конвертировать API для Go
-description:  Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата JPG в файл формата PNG.
-url: /ru/go/conversion/jpg-to-png/
+title:  Конвертируйте JPG в PNG с помощью Go
+description:  Использование Cloud SDK Aspose.Cells для Go для преобразования файла формата JPG в файл формата PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы преобразовать JPG в PNG." h2="Библиотека Go для преобразования JPG в PNG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для преобразования JPG в PNG и другие форматы документов онлайн с помощью Go." urlsection="conversion/jpg-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать JPG в PNG" h2="Библиотека Go для конвертации JPG в PNG" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для онлайн-конвертирования JPG в PNG и другие форматы документов с помощью Go." urlsection="conversion/jpg-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в PNG в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование JPG в PNG с помощью Cells Cloud SDK для Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в PNG — сложная задача. Все переходы между форматами JPG и PNG выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Go — это профессиональное решение для онлайн-конвертации JPG в файлы PNG. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PNG.
+Преобразование форматов файлов из JPG в PNG может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования формата JPG в PNG, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования JPG в файлы PNG. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод PNG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования JPG в формат PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования JPG в PNG с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /ru/go/conversion/jpg-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для преобразования JPG в PNG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для преобразования файлов Excel в другие форматы JPG в PNG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

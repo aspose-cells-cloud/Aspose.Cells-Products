@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XLSM au format XML API for Java
-description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format XLSM en tant que fichier au format XML.
-url: /fr/java/saveas/xlsm-to-xml/
+title:  Enregistrez XLSM au format XML en utilisant Java
+description: Utilisation du SDK Cloud Aspose.Cells for Java pour enregistrer le fichier au format XLSM en tant que fichier au format XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer XLSM au format XML" h2="Java bibliothèque pour enregistrer XLSM en XML" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM au format XML et d\'autres formats de document en ligne à l\'aide de Java." urlsection="saveas/xlsm-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLSM au format XML" h2="Bibliothèque Java pour enregistrer XLSM au format XML" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM au format XML et d\'autres formats de document en ligne à l\'aide de Java." urlsection="saveas/xlsm-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSM au format XML au Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSM au format XML dans Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers XLSM au format XML est une tâche complexe. Toutes les transitions de format XLSM vers XML sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Java est une solution professionnelle pour enregistrer en ligne XLSM sous forme de fichiers XML. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie XML parfaite.
+L'enregistrement des formats de fichiers XLSM au format XML est une tâche complexe. Toutes les transitions du format XLSM vers XML sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Java est une solution professionnelle pour enregistrer XLSM sous forme de fichiers XML en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie XML parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour enregistrer XLSM au format XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Exemple de code pour enregistrer XLSM au format XML à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ L'enregistrement de formats de fichiers XLSM au format XML est une tâche comple
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer XLSM en XML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Cells Cloud SDK for Java pour enregistrer des fichiers Excel sous d\'autres formats XLSM au format XML" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Maven 2.2.0 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Maven 2.2.0 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

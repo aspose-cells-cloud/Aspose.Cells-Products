@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить HTML как XLSM API для Python
-description: Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата HTML в виде файла формата XLSM.
-url: /ru/python/saveas/html-to-xlsm/
+title:  Сохраните HTML как XLSM, используя Python.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата HTML как файла формата XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, чтобы сохранить HTML как XLSM" h2="Библиотека Python для сохранения HTML как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения HTML в формате XLSM и других форматах документов в Интернете с использованием Python." urlsection="saveas/html-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как XLSM" h2="Python библиотека для сохранения HTML как XLSM" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Python. Это профессиональное решение для сохранения HTML в формате XLSM и других форматов документов онлайн с использованием Python." urlsection="saveas/html-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как XLSM в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как XLSM — сложная задача. Все переходы формата HTML в формат XLSM выполняются нашим пакетом SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов XLSM онлайн. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат XLSM.
+Сохранение файлов формата HTML в формате XLSM — сложная задача. Все переходы формата HTML в формат XLSM выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов XLSM в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения HTML в формате XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для сохранения HTML как XLSM с использованием REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ru/python/saveas/html-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API, чтобы сохранить HTML как XLSM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python, чтобы сохранить файлы Excel в других форматах HTML как XLSM" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить HTML как DOCX API для NodeJS
-description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата HTML в виде файла формата DOCX.
-url: /ru/nodejs/saveas/html-to-docx/
+title:  Сохраните HTML как DOCX, используя NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата HTML как файла формата DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить HTML как DOCX" h2="Библиотека NodeJS для сохранения HTML как DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения HTML в формате DOCX и других форматах документов в Интернете с использованием NodeJS." urlsection="saveas/html-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как DOCX" h2="Библиотека NodeJS для сохранения HTML как DOCX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения HTML в формате DOCX и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/html-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как DOCX в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как DOCX — сложная задача. Все переходы HTML в формат DOCX выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека NodeJS — это профессиональное решение для сохранения HTML в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод DOCX.
+Сохранение файлов формата HTML в формате DOCX — сложная задача. Все переходы формата HTML в формат DOCX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека NodeJS — это профессиональное решение для сохранения HTML в формате DOCX в Интернете. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения HTML в формате DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения HTML как DOCX с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/html-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать узел API для сохранения HTML в формате DOCX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах HTML как DOCX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

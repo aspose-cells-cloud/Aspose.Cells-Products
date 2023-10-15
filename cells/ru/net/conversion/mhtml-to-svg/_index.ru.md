@@ -1,19 +1,18 @@
 ﻿---
-title: MHTML в SVG Преобразование API в C#
-description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата MHTML в файл формата SVG.
-url: /ru/net/conversion/mhtml-to-svg/
+title:  Преобразуйте MHTML в SVG, используя C#.
+description:  Использование Cloud SDK Aspose.Cells для C# для преобразования файла формата MHTML в файл формата SVG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования MHTML в SVG" h2="библиотека C# для преобразования MHTML в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования MHTML в SVG и другие форматы документов онлайн с помощью C#." urlsection="conversion/mhtml-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать MHTML в SVG" h2="C# библиотека для преобразования MHTML в SVG" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Net. Это профессиональное решение для онлайн-конвертирования MHTML в SVG и другие форматы документов с использованием C#." urlsection="conversion/mhtml-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в SVG в C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте MHTML в SVG с помощью Cloud SDK Cells для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в SVG — сложная задача. Все переходы формата MHTML в формат SVG выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов MHTML в файлы SVG. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат SVG.
+Преобразование форматов файлов из MHTML в SVG может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования форматов MHTML в SVG, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертирования файлов MHTML в файлы SVG. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный результат SVG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования MHTML в формат SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для преобразования MHTML в SVG с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ru/net/conversion/mhtml-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для преобразования MHTML в SVG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для преобразования файлов Excel в другие форматы MHTML в SVG." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,19 +1,18 @@
 ﻿---
-title:  Conversione da CSV a XLTM API per NodeJS
-description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato CSV in un file in formato XLTM.
-url: /it/nodejs/conversion/csv-to-xltm/
+title:  Converti CSV in XLTM utilizzando NodeJS
+description:  Utilizzando Aspose.Cells Cloud SDK per NodeJS per convertire un file in formato CSV in un file in formato XLTM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per convertire CSV in XLTM" h2="Libreria NodeJS per convertire CSV in XLTM" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in NodeJS. Questa è una soluzione professionale per convertire CSV in XLTM e altri formati di documenti online utilizzando NodeJS." urlsection="conversion/csv-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti CSV in XLTM" h2="Libreria NodeJS per convertire CSV in XLTM" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo nei progetti NodeJS. Questa è una soluzione professionale per convertire CSV in XLTM e altri formati di documenti online utilizzando NodeJS." urlsection="conversion/csv-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file CSV in XLTM in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti CSV in XLTM utilizzando Cells Cloud SDK per NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da CSV a XLTM è un'attività complessa. Tutte le transizioni dal formato CSV a XLTM vengono eseguite dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria NodeJS è una soluzione professionale per convertire file CSV in XLTM online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un perfetto output XLTM.
+La conversione dei formati di file da CSV a XLTM può essere un compito complesso. Il nostro SDK NodeJS gestisce tutte le conversioni del formato CSV in XLTM preservando il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria NodeJS fornisce una soluzione professionale per convertire online file CSV in XLTM. Questo Cloud SDK offre agli sviluppatori NodeJS funzionalità potenti e garantisce output XLTM di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per convertire CSV in formato XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice NodeJS per convertire CSV in XLTM utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ La conversione dei formati di file da CSV a XLTM è un'attività complessa. Tutt
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare il nodo API per convertire CSV in XLTM" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Node per convertire i file Excel in altri formati da CSV a XLTM" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `putConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

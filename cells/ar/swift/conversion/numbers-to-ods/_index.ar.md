@@ -1,19 +1,19 @@
 ﻿---
-title:  أرقام لتحويل ODS API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق ODS.
+title: أرقام لتحويل المواد المستنفدة للأوزون API لسويفت
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق NUMBERS إلى ملف تنسيق ODS.
 url: /ar/swift/conversion/numbers-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل الأرقام إلى ODS" h2="مكتبة سريعة لتحويل الأرقام إلى ODS" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل الأرقام إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/numbers-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل الأرقام إلى المواد المستنفدة للأوزون" h2="مكتبة سويفت لتحويل الأرقام إلى المواد المستنفدة للأوزون" p="استخدم Cells تحويل REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/numbers-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى ODS في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف NUMBERS إلى ODS في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من الأرقام إلى نظام الوثائق الرسمية مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى ODS بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات NUMBERS المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لتحويل الأرقام إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج ODS مثالي.
+يعد تحويل تنسيقات الملفات من NUMBERS إلى ODS مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق NUMBERS إلى ODS بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل NUMBERS إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات ODS مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل الأرقام إلى تنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل NUMBERS إلى تنسيق ODS" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,14 +66,14 @@ url: /ar/swift/conversion/numbers-to-ods/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لتحويل الأرقام إلى ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

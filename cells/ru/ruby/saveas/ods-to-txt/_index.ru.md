@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните ODS как TXT API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата ODS в виде файла формата TXT.
-url: /ru/ruby/saveas/ods-to-txt/
+title:  Сохраните ODS как TXT, используя Ruby.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата ODS в формате TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения ODS как TXT" h2="Библиотека Ruby для сохранения ODS как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения ODS в виде TXT и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/ods-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ODS как TXT" h2="Библиотека Ruby для сохранения ODS в формате TXT" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Ruby. Это профессиональное решение для сохранения ODS в формате TXT и других форматов документов онлайн с использованием Ruby." urlsection="saveas/ods-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как TXT в Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как TXT в Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде TXT — сложная задача. Все переходы между форматами ODS и TXT выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в виде файлов TXT онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TXT.
+Сохранение форматов файлов из ODS в формате TXT — сложная задача. Все переходы формата ODS в TXT выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в виде файлов TXT онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения ODS в формате TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для сохранения ODS в формате TXT с использованием REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /ru/ruby/saveas/ods-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Ruby API для сохранения ODS как TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для сохранения файлов Excel в других форматах ODS как TXT." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  قم بتصدير LISTOBJECT إلى SQL من جدول البيانات باستخدام Java API
-description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
-url: /ar/java/export/listobject-to-sql/
+title:  تصدير LISTOBJECT إلى SQL من Excel باستخدام Cells Cloud SDK for Java
+description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتصدير LISTOBJECT إلى ملف SQL" h2="مكتبة Java لتصدير LISTOBJECT إلى ملف SQL" p="استخدم Cells Export REST API لتصدير مسارات عمل الكائن الداخلي لجدول البيانات في Java. هذا حل احترافي لتصدير LISTOBJECT إلى ملف بتنسيق SQL من جدول بيانات عبر الإنترنت باستخدام Java." urlsection="export/listobject-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير LISTOBJECT إلى SQL من Excel" h2="مكتبة Java لتصدير LISTOBJECT إلى ملف SQL" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في Java. يعد هذا حلاً احترافيًا لتصدير LISTOBJECT إلى ملف بتنسيق SQL من جدول البيانات عبر الإنترنت باستخدام Java." urlsection="export/listobject-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن LISTOBJECT إلى ملف بتنسيق SQL في Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن LISTOBJECT إلى ملف تنسيق SQL باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن LISTOBJECT إلى ملف SQL من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير LISTOBJECT إلى تنسيق SQL بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق SQL عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج SQL مثالي.
+يعد تصدير كائن LISTOBJECT إلى ملف SQL من ملف Excel مهمة معقدة. يتم تنفيذ تصدير LISTOBJECT إلى انتقالات تنسيق SQL بواسطة Java SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعد مكتبتنا Java حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Java وظائف قوية ومخرجات SQL مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتصدير LISTOBJECT إلى تنسيق SQL من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Java باستخدام REST API لتصدير LISTOBJECT إلى تنسيق SQL من جدول البيانات" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -51,16 +50,16 @@ url: /ar/java/export/listobject-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتصدير LISTOBJECT إلى SQL" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postExport للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لتصدير الكائنات من Excel LISTOBJECT إلى SQL" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

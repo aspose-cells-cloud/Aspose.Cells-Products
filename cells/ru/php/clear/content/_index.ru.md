@@ -1,27 +1,26 @@
 ﻿---
-title:  Очистить содержимое локальной книги в облаке
-description:  Облачные API и SDK для очистки содержимого на Microsoft Excel и OpenOffice Calc. Очистить содержимое локальных электронных таблиц с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
-url: /ru/php/clear/content/
+title:  Очистка содержимого локальной книги в облаке
+description: Облачные API и SDK для очистки контента по телефонам Microsoft и OpenOffice Calc. Очистка содержимого локальных таблиц с помощью облака Cells API. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для очистки содержимого локального Microsoft Excel и электронной таблицы OpenOffice Calc" h2="PHP Очистить, чтобы очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки содержимого в локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в PHP. Это профессиональное решение очищает содержимое в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью PHP." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление содержимого из локальной таблицы Microsoft Excel и таблицы OpenOffice Calc." h2="PHP Очистить, чтобы очистить содержимое локальной таблицы Microsoft Excel и таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки содержимого локальных Microsoft Excel и рабочих процессов электронных таблиц OpenOffice Calc в PHP. Это профессиональное решение очищает содержимое локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью PHP." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc — PHP REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить содержимое локальной таблицы Microsoft Excel и таблицы OpenOffice Calc — PHP REST API." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Очистка содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc является сложной задачей. Очистка содержимого локальных переходов электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим пакетом SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека PHP — это профессиональное решение для очистки формул в локальной электронной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот Cloud SDK предоставляет PHP разработчикам мощную функциональность и идеальную API.
+Очистка содержимого локальных Microsoft Excel и электронных таблиц OpenOffice Calc — сложная задача. Очистка содержимого локальных переходов электронных таблиц Microsoft Excel и OpenOffice Calc выполняется нашим SDK PHP с сохранением основного структурного и логического содержимого исходной таблицы. Наша библиотека PHP — это профессиональное решение для очистки формул в локальных Microsoft Excel и онлайн-таблицах OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и совершенный API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Код PHP для очистки содержимого локальных электронных таблиц" gistPath="https://gist.github.com/aspose-cells-cloud-gists/84283c8ba766ed815f47e6dfb0891152.js?file=Example-Clear-Content.php" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP код для очистки содержимого локальных таблиц" gistPath="https://gist.github.com/aspose-cells-cloud-gists/84283c8ba766ed815f47e6dfb0891152.js?file=Example-Clear-Content.php" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Как использовать PHP API для очистки содержимого" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод postClearObjects, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для очистки содержимого" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод postClearObjects, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

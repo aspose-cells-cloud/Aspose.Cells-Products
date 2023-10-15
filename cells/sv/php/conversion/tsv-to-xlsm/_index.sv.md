@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV till XLSM Konvertera API för PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i TSV-format till fil i XLSM-format.
-url: /sv/php/conversion/tsv-to-xlsm/
+title:  Konvertera TSV till XLSM med PHP
+description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i TSV-format till en fil i XLSM-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att konvertera TSV till XLSM" h2="PHP bibliotek för att konvertera TSV till XLSM" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att konvertera TSV till XLSM och andra dokumentformat online med PHP." urlsection="conversion/tsv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera TSV till XLSM" h2="PHP bibliotek för att konvertera TSV till XLSM" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera TSV till XLSM och andra dokumentformat online med PHP." urlsection="conversion/tsv-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en TSV-fil till XLSM i PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera TSV till XLSM med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från TSV till XLSM är en komplex uppgift. Alla TSV- till XLSM-formatövergångar utförs av vår PHP SDK samtidigt som käll-TSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att konvertera TSV till XLSM-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt XLSM-utgång.
+Att konvertera filformat från TSV till XLSM kan vara en komplex uppgift. Vår PHP SDK hanterar alla TSV- till XLSM-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-TSV-kalkylarket bevaras. Vårt PHP-bibliotek tillhandahåller en professionell lösning för att konvertera TSV- till XLSM-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer XLSM-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i PHP med REST API för att konvertera TSV till XLSM-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Kodexempel för att konvertera TSV till XLSM med Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Att konvertera filformat från TSV till XLSM är en komplex uppgift. Alla TSV- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder PHP API för att konvertera TSV till XLSM" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring cellsWorkbookPutConvertWorkBook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att konvertera Excel filer till andra format TSV till XLSM" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

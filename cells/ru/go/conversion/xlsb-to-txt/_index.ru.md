@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLSB в TXT API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLSB в файл формата TXT.
-url: /ru/go/conversion/xlsb-to-txt/
+title:  Конвертируйте XLSB в TXT с помощью Go
+description:  Использование Cloud SDK Aspose.Cells для Go для преобразования файла формата XLSB в файл формата TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать XLSB в TXT." h2="Библиотека Go для преобразования XLSB в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации XLSB в TXT и других форматов документов с помощью Go." urlsection="conversion/xlsb-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLSB в TXT" h2="Библиотека Go для преобразования XLSB в TXT" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для конвертации XLSB в TXT и другие форматы документов онлайн с помощью Go." urlsection="conversion/xlsb-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в TXT в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XLSB в TXT с помощью Cloud SDK Cells для Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в TXT — сложная задача. Все переходы форматов XLSB в TXT выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLSB в TXT. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из XLSB в TXT может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования формата XLSB в TXT, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования файлов XLSB в TXT. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод TXT.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLSB в формат TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования XLSB в TXT с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /ru/go/conversion/xlsb-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для преобразования XLSB в TXT" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Go для преобразования файлов Excel в другие форматы XLSB в TXT." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

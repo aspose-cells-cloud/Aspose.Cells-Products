@@ -1,16 +1,15 @@
 ﻿---
-title: Exportera ARBETSBLAD till ODS från kalkylark med C# API
+title:  Exportera ARBETSBLAD till ODS från Excel med Cells Cloud SDK för C#
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/net/export/worksheet-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att exportera ARBETSBLAD till ODS-fil" h2="C#-biblioteket för att exportera ARBETSBLAD till ODS-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i Net. Detta är en professionell lösning för att exportera ARBETSBLAD till ODS-formatfil från kalkylblad online med C#." urlsection="export/worksheet-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBLAD till ODS från Excel" h2="C#-bibliotek för att exportera ARBETSBLAD till ODS-fil" p="Använd Export API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Net. Detta är en professionell lösning för att exportera ARBETSBLAD till ODS-formatfil från kalkylblad online med C#." urlsection="export/worksheet-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till ODS-formatfil i C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till ODS-formatfil med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKSHEET-objekt till ODS-fil från kalkylblad är en komplex uppgift. Exportera ARBETSBLAD till ODS-formatövergångar utförs av vår C# SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till ODS-formatfiler online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt ODS-utdata.
+Exportera WORKSHEET-objekt till ODS-fil från Excel-filen är en komplex uppgift. Exportera ARBETSBLAD till ODS-formatövergångar utförs av vår C# SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till ODS-formatfiler online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt ODS-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att exportera WORKSHEET till ODS-format från kalkylark" gistPath="" %}}
@@ -44,10 +43,10 @@ Exportera WORKSHEET-objekt till ODS-fil från kalkylblad är en komplex uppgift.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder C# API för att exportera ARBETSBLAD till ODS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring PostExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att exportera objekt från Excel WORKSHEET till ODS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

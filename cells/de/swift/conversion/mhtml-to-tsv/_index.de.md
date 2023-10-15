@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML in TSV konvertieren API für Swift
+title: MHTML in TSV konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer MHTML-Formatdatei in eine TSV-Formatdatei.
 url: /de/swift/conversion/mhtml-to-tsv/
 ---

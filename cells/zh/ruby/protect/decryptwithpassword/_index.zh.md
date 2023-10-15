@@ -1,7 +1,6 @@
 ﻿---
 title: 在云端使用密码解密本地电子表格
 description: Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK 解锁。电子表格由Cells云API解密。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/ruby/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格" h2="使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格的 Ruby 库" p="使用 Cells Decrypt REST API 解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格，并使用 Ruby 中的密码工作流程。这个专业的解决方案使用 Ruby 使用密码在线解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格。" urlsection="protect/Decrypt-with-password/" >}}
@@ -18,9 +17,9 @@ url: /zh/ruby/protect/decrypt-with-password/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Ruby API解密" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Ruby解锁Excel文件" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用post_unlock方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

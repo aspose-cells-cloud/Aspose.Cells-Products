@@ -1,5 +1,5 @@
 ﻿---
-title:  PNG till DOCX Konvertera API för Swift
+title: PNG till DOCX Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i formatet PNG till fil i DOCX-format.
 url: /sv/swift/conversion/png-to-docx/
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML zu ODS Konvertieren API für Swift
+title: MHTML zu ODS Konvertieren API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im MHTML-Format in eine Datei im ODS-Format.
 url: /de/swift/conversion/mhtml-to-ods/
 ---

@@ -1,19 +1,18 @@
 ﻿---
-title:  CSV إلى TIFF حوّل API إلى Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق CSV إلى ملف بتنسيق TIFF.
-url: /ar/python/conversion/csv-to-tiff/
+title:  تحويل CSV إلى TIFF باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق CSV إلى ملف بتنسيق TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل CSV إلى TIFF" h2="مكتبة Python لتحويل CSV إلى TIFF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل CSV إلى TIFF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/csv-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل CSV إلى TIFF" h2="مكتبة Python لتحويل CSV إلى TIFF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل ملف CSV إلى TIFF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/csv-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى TIFF في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل CSV إلى TIFF باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من CSV إلى TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى TIFF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل ملفات CSV إلى ملفات TIFF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج TIFF مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من CSV إلى TIFF مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق CSV إلى TIFF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CSV المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل ملفات CSV إلى TIFF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python بوظائف قوية ويضمن إخراج TIFF عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل CSV إلى تنسيق TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل CSV إلى TIFF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/csv-to-tiff/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل CSV إلى TIFF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى CSV إلى TIFF" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

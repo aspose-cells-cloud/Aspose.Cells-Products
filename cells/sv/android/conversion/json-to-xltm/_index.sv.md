@@ -1,19 +1,18 @@
 ﻿---
-title:  JSON till XLTM Konvertera API för Android
-description: Använder Aspose.Cells Cloud SDK för Android för att konvertera fil i JSON-format till fil i XLTM-format.
-url: /sv/android/conversion/json-to-xltm/
+title:  Konvertera JSON till XLTM med Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i JSON-format till en fil i XLTM-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att konvertera JSON till XLTM" h2="Android-bibliotek för att konvertera JSON till XLTM" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att konvertera JSON till XLTM och andra dokumentformat online med Android." urlsection="conversion/json-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera JSON till XLTM" h2="Android-bibliotek för att konvertera JSON till XLTM" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android-projekt. Detta är en professionell lösning för att konvertera JSON till XLTM och andra dokumentformat online med Android." urlsection="conversion/json-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en JSON-fil till XLTM i Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera JSON till XLTM med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från JSON till XLTM är en komplex uppgift. Alla JSON- till XLTM-formatövergångar utförs av vår Android-SDK samtidigt som käll-JSON-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera JSON till XLTM-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLTM-utgång.
+Att konvertera filformat från JSON till XLTM kan vara en komplex uppgift. Vår Android SDK hanterar alla JSON- till XLTM-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-JSON-kalkylarket bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera JSON till XLTM-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer XLTM-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera JSON till XLTM-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att konvertera JSON till XLTM med Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Att konvertera filformat från JSON till XLTM är en komplex uppgift. Alla JSON-
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera JSON till XLTM" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel-filer till andra format JSON till XLTM" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

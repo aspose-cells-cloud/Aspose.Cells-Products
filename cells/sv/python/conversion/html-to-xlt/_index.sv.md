@@ -1,19 +1,18 @@
 ﻿---
-title:  HTML till XLT Konvertera API till Python
-description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera fil i HTML-format till fil i XLT-format.
-url: /sv/python/conversion/html-to-xlt/
+title:  Konvertera HTML till XLT med Python
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera en fil i HTML-format till en XLT-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att konvertera HTML till XLT" h2="Python bibliotek för att konvertera HTML till XLT" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att konvertera HTML till XLT och andra dokumentformat online med Python." urlsection="conversion/html-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera HTML till XLT" h2="Python bibliotek för att konvertera HTML till XLT" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python projekt. Detta är en professionell lösning för att konvertera HTML till XLT och andra dokumentformat online med Python." urlsection="conversion/html-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en HTML-fil till XLT i Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera HTML till XLT med Cells Cloud SDK för Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från HTML till XLT är en komplex uppgift. Alla formatövergångar från HTML till XLT utförs av vår Python SDK samtidigt som källbladets HTML kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att konvertera HTML till XLT-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt XLT-utgång.
+Att konvertera filformat från HTML till XLT kan vara en komplicerad uppgift. Vår Python SDK hanterar alla konverteringar från HTML till XLT-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket HTML bevaras. Vårt Python-bibliotek tillhandahåller en professionell lösning för att konvertera HTML till XLT-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och säkerställer högkvalitativ XLT-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att konvertera HTML till XLT-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att konvertera HTML till XLT med Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ Att konvertera filformat från HTML till XLT är en komplex uppgift. Alla format
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Python API för att konvertera HTML till XLT" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att konvertera Excel filer till andra format HTML till XLT" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

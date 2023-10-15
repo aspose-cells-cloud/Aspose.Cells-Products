@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV in GIF Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer CSV-Formatdatei in eine GIF-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer CSV-Formatdatei in eine GIF-Formatdatei.
 url: /de/swift/conversion/csv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,9 @@
 ﻿---
-title: Speichern Sie NUMBERS als ODS API für Perl
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die Datei im NUMBERS-Format als Datei im ODS-Format zu speichern.
-url: /de/perl/saveas/numbers-to-ods/
+title:  Speichern Sie NUMBERS als ODS mit Perl
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern der Datei im NUMBERS-Format als Datei im ODS-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API um NUMMERN als ODS zu speichern" h2="Perl-Bibliothek zum Speichern von NUMBERS als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als ODS und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/numbers-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie NUMBERS als ODS" h2="Perl Bibliothek zum Speichern von NUMBERS als ODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als ODS und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/numbers-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als ODS unter Perl" >}}
@@ -13,7 +12,7 @@ url: /de/perl/saveas/numbers-to-ods/
 Das Speichern von Dateiformaten von NUMBERS als ODS ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS in das ODS werden von unserem Perl SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um NUMBERS als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von NUMBERS im ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel zum Speichern von NUMBERS als ODS mit REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Das Speichern von Dateiformaten von NUMBERS als ODS ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um NUMMERN als ODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Perl, um Excel-Dateien in anderen Formaten wie NUMBERS als ODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Beitrag anrufen_Arbeitsmappe_save_as-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

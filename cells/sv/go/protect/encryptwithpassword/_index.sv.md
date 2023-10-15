@@ -1,16 +1,15 @@
 ﻿---
 title:  Kryptera lokalt kalkylblad med lösenord med Go in Cloud
-description: Cloud API och SDK för att skydda Microsoft Excel & OpenOffice Calc med Go. Kryptera lokala kalkylblad med lösenord med Cells Cloud API SDK för Go.
-url: /sv/go/protect/encrypt-with-password/
+description:  Cloud API och SDK för att skydda Microsoft Excel & OpenOffice Calc med Go. Kryptera lokala kalkylblad med lösenord med Cells Cloud API SDK för Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att skydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Gå till biblioteket för att skydda lokala Microsoft Excel och OpenOffice Calc kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Go. Denna professionella lösning skyddar Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord med Go." urlsection="protect/Encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Använd Cells Cloud SDK för Gå till lösenordsskyddad lokal Microsoft Excel och OpenOffice Calc-kalkylblad." h2="Go-bibliotek för lösenordsskyddande lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Protect REST API för att säkra lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord i Go-arbetsflöden. Denna professionella lösning möjliggör lösenordsskydd för Microsoft Excel och OpenOffice Calc-kalkylblad online med Go." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Skydda lokala Microsoft Excel och OpenOffice Calc kalkylblad med lösenord - Gå REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Säkra lokala Microsoft Excel och OpenOffice Calc-kalkylblad med ett lösenord med Cells Cloud SDK för Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
 <br/>
-Att skydda ett lokalt kalkylblad med ett lösenord är en komplex uppgift. Att skydda ett lokalt kalkylblad med lösenordsövergångar utförs av vår Go SDK samtidigt som källkalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att skydda lokala kalkylblad med ett lösenord online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt API.
+Lösenordsskydd för ett lokalt kalkylblad kan vara en komplex uppgift. Vårt Go SDK hanterar processen och bevarar det huvudsakliga strukturella och logiska innehållet i källarket. Vårt Go-bibliotek erbjuder en professionell lösning för online lösenordsskydd av lokala kalkylblad. Denna Cloud SDK ger Go-utvecklare robust funktionalitet och en sömlös API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att kryptera lokala kalkylblad" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=example-encrypt-with-password.go" %}}
@@ -18,7 +17,7 @@ Att skydda ett lokalt kalkylblad med ett lösenord är en komplex uppgift. Att s
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Go API för att kryptera" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att skydda Excel-filen" >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Ring PostProtect-metoden för att få den resulterande strömmen</li>

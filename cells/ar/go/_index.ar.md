@@ -1,26 +1,26 @@
 ﻿---
-title:  Go Cloud SDK لإنشاء ملفات Excel وتحريرها وتحويلها via REST APIs
+title: Go Cloud SDK لإنشاء وتحرير وتحويل Excel ملفات via REST APIs
 description:  استخدم أوامر cURL لإنشاء تطبيقات منشئ ومحول جداول البيانات التي تصل إلى Microsoft Excel وملفات OpenOffice من التخزين السحابي للمعالجة
 weight: 50
 url: /ar/go
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="قم بإنشاء Excel File Reader، Viewer & Converter Apps via Go" h2="قم بتطوير تطبيقات Go للتعامل مع Microsoft Excel & OpenOffice جداول البيانات الصفوف والخلايا والمخططات والارتباطات التشعبية والجداول المحورية في السحابة." logoImageSrc="/headers/aspose_cells-for-go.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="إنشاء Excel تطبيقات قارئ الملفات والعارض والمحول via Go" h2="قم بتطوير تطبيقات Go للتعامل مع Microsoft Excel وصفوف جداول بيانات OpenOffice والخلايا والمخططات والارتباطات التشعبية والجداول المحورية في السحابة." logoImageSrc="/headers/aspose_cells-for-go.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Go" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-go.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-go" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud Go SDK يساعد المطورين على إنشاء تطبيقاتهم الخاصة لإنشاء جداول البيانات والقارئ والعارض والمحول باستخدام لغة Go. توفر SDK واجهة سهلة الاستخدام لـ Aspose.Cells REST API لأداء مجموعة واسعة من مهام معالجة جداول البيانات مثل الإنشاء والتعديل والتحويل وتقديم مستندات Excel في السحابة.</p>
-<p>Aspose.Cells Cloud Go SDK يدعم بشكل كامل العديد من الميزات المتقدمة المتعلقة بقراءة جداول البيانات وكتابتها مثل إنشاء جدول بيانات جديد من البداية ، وتعديل ملف موجود ، وإضافة ورقة عمل جديدة ، واستيراد البيانات إلى ورقة عمل Excel ، وإخفاء ورقة العمل وإلغاء إخفائها ، ونقل ورقة عمل أو فرز البيانات في ورقة عمل أو نسخ ورقة أو إعادة تسميتها أو تجميد ورقة عمل أو إلغاء تجميدها أو إضافة مصنف أو إزالته أو تشفير مصنف أو فك تشفيره أو حماية مصنف Excel بكلمة مرور ودمج مصنفات Excel وغيرها الكثير.</p>
-<p>باستخدام Aspose.Cells Cloud Go SDK ، يمكن للمطور تنفيذ التصفية التلقائية ومعالجة الجداول المحورية والتنسيق الشرطي لجداول البيانات بسهولة باستخدام أوامر Go. قدمت SDK عملية تحويل ملفات جداول بيانات قوية جدًا ودعمًا كاملاً التحويل البيني بين تنسيقات Microsoft Excel مثل XLS و XLSX و XLSB و XLSM و XLT و XLTX و XLTM بالإضافة إلى التحويل إلى تنسيقات ملفات شائعة أخرى مثل PDF و XPS و SVG ، TIFF ، تنسيقات Markdown و DIF.</p>
+<p>Aspose.Cells يساعد Cloud Go SDK المطورين على إنشاء تطبيقات منشئ جداول البيانات والقارئ والعارض والمحول المستندة إلى السحابة باستخدام لغة Go. يوفر SDK واجهة سهلة الاستخدام لـ Aspose.Cells REST API لتنفيذ مجموعة واسعة من مهام معالجة جداول البيانات مثل إنشاء وتعديل وتحويل وعرض Excel مستندًا في السحابة.</p>
+<p>Aspose.Cells يدعم Cloud Go SDK بشكل كامل العديد من الميزات المتقدمة المتعلقة بقراءة وكتابة جداول البيانات مثل إنشاء جدول بيانات جديد من البداية، وتعديل ملف موجود، وإضافة ورقة عمل جديدة، واستيراد البيانات إلى ورقة عمل Excel، وإخفاء ورقة عمل وإلغاء إخفائها، والنقل ورقة عمل، وفرز البيانات في ورقة عمل، ونسخ ورقة أو إعادة تسميتها، وتجميد ورقة عمل أو إلغاء تجميدها، وإضافة مصنف أو إزالته، وتشفير مصنف أو فك تشفيره، وحماية مصنف Excel بكلمة مرور، ودمج مصنفات Excel وغيرها الكثير.</p>
+<p>باستخدام Aspose.Cells، يمكن لمطور Cloud Go SDK إنجاز التصفية التلقائية ومعالجة الجداول المحورية والتنسيق الشرطي لجداول البيانات بسهولة باستخدام أوامر Go. يوفر SDK عملية تحويل ملفات جداول بيانات قوية للغاية ويدعم بشكل كامل التحويل البيني بين تنسيقات Microsoft وExcel مثل XLS وXLSX وXLSB وXLSM وXLT وXLTX وXLTM بالإضافة إلى التحويل إلى تنسيقات الملفات الشائعة الأخرى مثل PDF وXPS وSVG ، TIFF، تنسيقات Markdown وDIF.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="Aspose.Cells تستطيع السحابة تنفيذ كل مهام معالجة جدول البيانات." >}}
+{{< blocks/products/pf/carousel-item h3="في لمحة" description="Aspose.Cells يمكن للسحابة تنفيذ جميع مهام معالجة جداول البيانات." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
@@ -40,18 +40,18 @@ url: /ar/go
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells تنسيقات الملفات المدعومة من السحابة." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells تنسيقات الملفات المدعومة السحابية." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> الإدخال / الإخراج</header><ul><li><b>Microsoft Excel:</b> XLS و XLSX و XLSB و XLSM و XLT و XLTX و XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> الإدخال/الإخراج</header><ul><li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
 <li><b>مكتب مفتوح:</b> المواد المستنفدة للأوزون</li>
-<li><b>SpreadsheetML:</b> XML</li>
+<li><b>جدول البياناتML:</b> XML</li>
 <li><b>نص:</b> CSV، TSV، TXT (محدد بعلامات جدولة)</li>
-<li><b>الويب:</b> HTML، MHTML</li>
+<li><b>الويب:</b> HTML، أتش تي أم أل</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>SXC ، FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> الإخراج فقط</header><ul><li>DIF، PDF، XPS، TIFF، SVG، MD (Markdown)</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>إس إكس سي، فودس</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> الإخراج فقط</header><ul><li>دي آي إف، PDF، XPS، TIFF، SVG، ماريلاند (تخفيض السعر)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -61,7 +61,7 @@ url: /ar/go
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells Cloud يدعم جميع المنصات ولغات البرمجة الرئيسية." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="Aspose.Cells تدعم السحابة جميع المنصات ولغات البرمجة الرئيسية." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -75,7 +75,7 @@ url: /ar/go
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Excel خصائص معالجة جداول البيانات
+ Excel مميزات معالجة جداول البيانات
    </h2>
    <p>
    </p>
@@ -83,21 +83,21 @@ Excel خصائص معالجة جداول البيانات
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- أضف عوامل تصفية بمعايير مخصصة للقوائم
+ إضافة عوامل تصفية بمعايير مخصصة للقوائم
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- دعم لأنواع متعددة من مرشحات القائمة
+ دعم أنواع متعددة من مرشحات القائمة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على معلومات بخصوص حدود منطقة المخطط أو تنسيق التعبئة
+ احصل على معلومات بخصوص حدود منطقة المخطط أو تنسيق التعبئة
     </p>
    </div>
    <div class="col-lg-4">
@@ -111,42 +111,42 @@ Excel خصائص معالجة جداول البيانات
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على أو تحديث أو إظهار أو إخفاء وسيلة إيضاح الرسم البياني
+ الحصول على وسيلة إيضاح الرسم البياني أو تحديثها أو إظهارها أو إخفائها
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على عنوان المخطط وتحديثه وتعيين رؤيته
+ الحصول على عنوان المخطط وتحديثه وضبط رؤيته
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قم بإضافة منطقة خلية أو إزالتها من أجل التنسيق الشرطي
+ إضافة منطقة خلية أو إزالتها للتنسيق الشرطي
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إضافة وتحديث وحذف الارتباطات التشعبية ورقة العمل
+ إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قم باضافة ListObject في المكان المحدد في الملف Excel
+ أضف كائن قائمة في المكان المحدد في الملف Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- حذف ListObjects معينة أو كلها في ورقة العمل
+ حذف كائنات معينة أو جميع كائنات القائمة في ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ Excel خصائص معالجة جداول البيانات
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-تلخيص بيانات ListObject كبيرة أو جدول مع Pivot Table
+ تلخيص بيانات ListObject أو الجدول الكبير باستخدام Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ Excel خصائص معالجة جداول البيانات
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- حذف OleObjects معينة أو كلها من ورقة العمل
+احذف OleObjects معينة أو كلها من ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -188,7 +188,7 @@ Excel خصائص معالجة جداول البيانات
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- معالجة إعداد الصفحة ، رأس & أمبير ؛ تذييل
+ التعامل مع إعداد الصفحة والرأس &amp; تذييل
     </p>
    </div>
    <div class="col-lg-4">
@@ -228,44 +228,44 @@ Excel خصائص معالجة جداول البيانات
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- ابدأ مع Excel SDK لمعالجة جداول البيانات
+ ابدأ باستخدام Excel SDK لمعالجة جداول البيانات
     </h2>
     <p>
-لبدء استخدام Aspose.Cells Cloud SDK for Go ، لا تحتاج إلى تثبيت أي شيء. كل ما عليك فعله هو إنشاء حساب على
+من أجل البدء باستخدام Aspose.Cells Cloud SDK for Go، لا تحتاج إلى تثبيت أي شيء. كل ما عليك فعله هو إنشاء حساب على
      <a href="https://dashboard.aspose.cloud/#/apps">
- Aspose للسحابة
+ Aspose للسحاب
      </a>
- واحصل على معلومات التطبيق الخاص بك. بمجرد حصولك على التطبيق SID & amp؛ المفتاح ، فأنت جاهز لاستخدام Aspose.Cells Cloud SDK for Go على أي نظام أساسي يدعم واجهات برمجة تطبيقات REST. توفر لك Aspose.Cells Cloud SDK لـ Ruby جميع الميزات لإنشاء جداول البيانات وتحريرها وتحويلها. كما يسمح لك باستخراج البيانات من جداول البيانات لمزيد من المعالجة أو التخزين.
+ والحصول على معلومات التطبيق الخاص بك. بمجرد حصولك على التطبيق SID &amp; المفتاح، أنت جاهز لاستخدام Aspose.Cells Cloud SDK for Go على أي نظام أساسي يدعم REST APIs. Aspose.Cells يوفر لك Cloud SDK لـ Ruby جميع الميزات لإنشاء جداول البيانات وتحريرها وتحويلها. كما يسمح لك باستخراج البيانات من جداول البيانات لمزيد من المعالجة أو التخزين.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- قم بتوليد Excel مصنف من قالب
+ إنشاء مصنف Excel من قالب
     </h2>
     <p>
-تضمنت Aspose.Cells Cloud Go SDK وظائف لإنشاء مصنف Excel برمجيًا من ملف قالب باستخدام لغة Go. بمجرد إنشاء المصنف ، يمكنك بسهولة تعديل المصنف وفقًا لاحتياجاتك الخاصة. يمكنك إضافة ورقة جديدة إلى المصنف ، وتعيين اسم ، وتعيين الخطوط التي تختارها ، وتطبيق الأنماط على الخلايا ، وحذف ورقة ، وغير ذلك الكثير. يمكنك أيضًا إنشاء مصنف من ملف قالب SmartMarker ببضعة سطرين من التعليمات البرمجية.
+Aspose.Cells يتضمن Cloud Go SDK وظيفة لإنشاء مصنف Excel برمجيًا من ملف قالب باستخدام لغة Go. بمجرد إنشاء المصنف، يمكنك بسهولة تعديل المصنف وفقًا لاحتياجاتك الخاصة. يمكنك إضافة ورقة جديدة إلى المصنف، وتعيين اسم، وتعيين الخطوط التي تختارها، وتطبيق الأنماط على الخلايا، وحذف ورقة، وغير ذلك الكثير. يمكنك أيضًا إنشاء مصنف من ملف قالب SmartMarker باستخدام سطرين فقط من التعليمات البرمجية.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- إدارة المخططات في أوراق العمل via Go API
+ إدارة المخططات في أوراق العمل via اذهب API
     </h2>
     <p>
-يعد المخطط أداة قوية تساعد المستخدمين على تقديم البيانات بطريقة يمكن أن تجلب مزيدًا من الفهم للبيانات ويمكن للمستخدمين عرض البيانات بصريًا بتنسيقات مخططات مختلفة مثل شريط ، عمود ، دائري ، خط ، منطقة ، مجوفة ، مبعثر ، سطح ، أو المخططات النسيجيّة لفهم أفضل. توفر Aspose.Cells Cloud Go SDK القدرة على إضافة وإدارة المخططات في ورقة العمل. لقد قدم ميزات مثل الحصول على مخطط من ورقة العمل ، وحذف كل مخطط أو مخطط معين ، وتحويل المخطط إلى صورة ، وإضافة عنوان إلى مخطط ، وإخفاء المخطط ، وإظهار أساطير الدردشة ، وغير ذلك الكثير.
+يعد الرسم البياني أداة قوية تساعد المستخدمين على تقديم البيانات بطريقة يمكن أن توفر المزيد من الفهم للبيانات ويمكن للمستخدمين عرض البيانات بشكل مرئي في تنسيقات مخططات مختلفة مثل الشريط، والعمود، والدائري، والخط، والمساحة، والدونات، والمبعثر، والسطحي، أو المخططات الرادارية لفهم أفضل. Aspose.Cells وفرت Cloud Go SDK القدرة على إضافة وإدارة المخططات في ورقة العمل. لقد قدم ميزات مثل الحصول على مخطط من ورقة العمل، وحذف كل المخططات أو مخطط معين، وتحويل المخطط إلى صورة، وإضافة عنوان إلى مخطط، وإخفاء المخطط، وإظهار وسائل إيضاح الدردشة، وغير ذلك الكثير.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- التعامل مع Cells وأمبير. صفوف في ورقة عمل
+ التعامل مع Cells&amp; الصفوف في ورقة العمل
     </h2>
     <p>
-تضمنت Aspose.Cells Cloud Go SDK العديد من الميزات الهامة للتعامل مع الصفوف داخل Microsoft Excel ورقة العمل via Go Application. وهو يدعم إضافة صفوف جديدة إلى ورقة العمل ، وإخفاء الصفوف وإظهارها ، والحصول على بيانات الصفوف من ورقة العمل ، ونسخ الصفوف ، وتجميع الصفوف وفك تجميعها ، وصفوف الملاءمة التلقائية ، وأعمدة ورقة العمل ، وحذف الصفوف من ورقة العمل وغير ذلك الكثير. كما هو الحال مع مطوري الصفوف ، يمكنهم أيضًا إدارة خلاياهم بسهولة في ورقة العمل. وهو يدعم ميزات مثل إضافة خلايا ودمج خلايا متعددة وتعيين صيغة في خلية ومحتويات واضحة للخلية وتطبيق تنسيق نص منسق وما إلى ذلك.
+Aspose.Cells يتضمن Cloud Go SDK العديد من الميزات المهمة للتعامل مع الصفوف داخل Microsoft Excel ورقة العمل via تطبيق Go. وهو يدعم إضافة صفوف جديدة إلى ورقة العمل، وإخفاء الصفوف وإظهارها، والحصول على بيانات الصف من ورقة العمل، ونسخ الصفوف، وتجميع الصفوف وفك تجميعها، واحتواء الصفوف تلقائيًا، وأعمدة ورقة العمل، وحذف الصفوف من ورقة العمل وغير ذلك الكثير. كما هو الحال مع مطوري الصفوف، يمكنهم أيضًا إدارة خلاياهم في ورقة العمل بسهولة. وهو يدعم ميزات مثل إضافة خلايا، ودمج خلايا متعددة، وتعيين الصيغة في خلية، ومسح محتويات الخلية، وتطبيق تنسيق النص المنسق، وما إلى ذلك.
     </p>
     <h2 class="h2title">
- البحث عن واستبدال المصنفات النصية
+ البحث عن المصنفات النصية واستبدالها
     </h2>
     <p>
- قدم Aspose.Cells Cloud Go SDK الدعم للعمل مع النص داخل مصنف باستخدام أوامر لغة Go. قدمت SDK ميزات مفيدة للغاية تتعلق بالبحث عن النص وتحديثها ، مثل البحث عن النص واستبداله في مصنف أو في ورقة عمل ، والحصول على عناصر نصية من أوراق العمل ، وغير ذلك الكثير. علاوة على ذلك ، يمكنك أيضًا استخراج نص أو صور أو أشكال من ورقة عمل باستخدام أوامر Go البسيطة.
+ Aspose.Cells قدمت Cloud Go SDK الدعم للعمل مع النص داخل المصنف باستخدام أوامر لغة Go. قدمت SDK ميزات مفيدة جدًا تتعلق بالبحث عن النص وتحديثه، مثل البحث عن نص واستبداله في مصنف أو في ورقة عمل، والحصول على عناصر نصية من أوراق العمل، وغير ذلك الكثير. علاوة على ذلك، يمكنك أيضًا استخراج النص أو الصور أو الأشكال من ورقة العمل باستخدام أوامر Go البسيطة.
     </p>
     <p>
     </p>
@@ -282,12 +282,12 @@ Excel خصائص معالجة جداول البيانات
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-go" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.cloud" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG a XML Convertir API para C#
-description:  Usando Aspose.Cells Cloud SDK para C# para convertir un archivo de formato PNG a un archivo de formato XML.
-url: /es/net/conversion/png-to-xml/
+title:  Convierta PNG a XML usando C#
+description:  Utilizar el SDK de Cloud Aspose.Cells para C# para convertir un archivo de formato PNG a un archivo de formato XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API para convertir PNG a XML" h2="C# biblioteca para convertir PNG a XML" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Net. Esta es una solución profesional para convertir PNG a XML y otros formatos de documentos en línea usando C#." urlsection="conversion/png-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir PNG a XML" h2="Biblioteca C# para convertir PNG a XML" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Net. Esta es una solución profesional para convertir PNG a XML y otros formatos de documentos en línea usando C#." urlsection="conversion/png-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo PNG a XML en C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta PNG a XML usando Cells Cloud SDK para C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de PNG a XML es una tarea compleja. Todas las transiciones de formato PNG a XML se realizan mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente PNG. Nuestra biblioteca C# es una solución profesional para convertir PNG a archivos XML en línea. Este SDK de Cloud brinda a los desarrolladores de C# una funcionalidad poderosa y una salida XML perfecta.
+Convertir formatos de archivo de PNG a XML puede ser una tarea compleja. Nuestro SDK C# maneja todas las conversiones de formato PNG a XML al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo PNG de origen. Nuestra biblioteca C# proporciona una solución profesional para convertir archivos PNG a XML en línea. Este SDK de nube brinda a los desarrolladores C# una potente funcionalidad y garantiza una salida XML de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en C# usando REST API para convertir PNG a formato XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Ejemplo de código para convertir PNG a XML usando Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ Convertir formatos de archivo de PNG a XML es una tarea compleja. Todas las tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar C# API para convertir PNG a XML" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Net para convertir archivos Excel a otros formatos PNG a XML" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>NET Framework 4.5.2 o más reciente</li>
-<li>Net Standard 2.0 o más reciente</li>
+<li>Net Standard 2.0 o posterior</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

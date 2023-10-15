@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP in XLSX Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im BMP-Format in eine XLSX-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im BMP-Format in eine XLSX-Formatdatei.
 url: /de/swift/conversion/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

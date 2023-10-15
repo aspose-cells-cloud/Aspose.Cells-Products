@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie EMF als JSON API für Go
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Go, um die Datei im EMF-Format als JSON-Formatdatei zu speichern.
-url: /de/go/saveas/emf-to-json/
+title:  Speichern Sie EMF als JSON mit Go
+description:  Verwendung des Aspose.Cells Cloud SDK für Go zum Speichern der Datei im EMF-Format als JSON-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um EMF als JSON zu speichern" h2="Gehen Sie zur Bibliothek, um EMF als JSON zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von EMF als JSON und anderen Dokumentformaten mit Go." urlsection="saveas/emf-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie EMF als JSON" h2="Gehen Sie zur Bibliothek, um EMF als JSON zu speichern" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von EMF als JSON und anderen Dokumentformaten mit Go." urlsection="saveas/emf-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine EMF-Datei als JSON in Go" >}}
@@ -13,7 +12,7 @@ url: /de/go/saveas/emf-to-json/
 Das Speichern von Dateiformaten ab EMF als JSON ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum JSON-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung, um EMF als JSON-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von EMF im JSON-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel zum Speichern von EMF als JSON mit REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten ab EMF als JSON ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um EMF als JSON zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel Dateien in anderen Formaten EMF als JSON zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,10 +1,9 @@
 ﻿---
-title:  GIF als ODS API für Android speichern
-description: Verwenden von Aspose.Cells Cloud SDK für Android zum Speichern von GIF-Formatdateien als ODS-Formatdateien.
-url: /de/android/saveas/gif-to-ods/
+title:  Speichern Sie GIF als ODS mit Android
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von GIF-Formatdateien als ODS-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Speichern von GIF als ODS" h2="Android-Bibliothek zum Speichern von GIF als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als ODS und anderen Dokumentformaten mit Android." urlsection="saveas/gif-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF als ODS speichern" h2="Android-Bibliothek zum Speichern von GIF als ODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als ODS und anderen Dokumentformaten mit Android." urlsection="saveas/gif-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als ODS in Android" >}}
@@ -13,7 +12,7 @@ url: /de/android/saveas/gif-to-ods/
 Das Speichern von GIF-Dateiformaten als ODS ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum ODS-Format werden von unserem Android SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-GIF-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um GIF als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von GIF im ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von GIF als ODS mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,10 +34,10 @@ Das Speichern von GIF-Dateiformaten als ODS ist eine komplexe Aufgabe. Alle Übe
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um GIF als ODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in anderen Formaten wie GIF und ODS zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,14 +1,13 @@
 ﻿---
-title:  Skydda med Python
-description:  Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer med Python. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
-url: /sv/python/protect/
+title:  Skydda Excel-filer med Python
+description: " Aspose.Cells Cloud REST API stöder kryptering, dekryptering och tillägg av digitala signaturer till arbetsböcker med Python, och erbjuder SDK:er för olika programmeringsspråk."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Skydda med Python" h2="Aspose.Cells Cloud SDK stöder arbetsböcker för dekryptering, kryptering och digitala signaturer." p="Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer med Python. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Skydda Excel-filer med Python" h2="Aspose.Cells Cloud SDK stöder dekryptering, kryptering och digital signering av arbetsböcker." p="Aspose.Cells Cloud REST API stöder kryptering, dekryptering och tillägg av digitala signaturer till arbetsböcker med Python, och erbjuder SDK:er för olika programmeringsspråk." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Skydda med Python Förlängningslänkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Skydda Excel-filer med Python tilläggslänkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

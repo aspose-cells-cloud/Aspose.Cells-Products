@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить CSV как XLTX API для NodeJS
-description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата CSV в виде файла формата XLTX.
-url: /ru/nodejs/saveas/csv-to-xltx/
+title:  Сохраните CSV как XLTX, используя NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата CSV как файла формата XLTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения CSV как XLTX" h2="Библиотека NodeJS для сохранения CSV как XLTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения CSV как XLTX и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/csv-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить CSV как XLTX" h2="Библиотека NodeJS для сохранения CSV как XLTX" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в NodeJS. Это профессиональное решение для сохранения CSV в формате XLTX и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/csv-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как XLTX в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV как XLTX — сложная задача. Все переходы от формата CSV к формату XLTX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-сохранения CSV-файлов в формате XLTX. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLTX.
+Сохранение форматов файлов из CSV в формате XLTX — сложная задача. Все переходы формата CSV в XLTX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов CSV в формате XLTX онлайн. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный результат XLTX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения CSV в формате XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения CSV как XLTX с использованием REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,10 +32,10 @@ url: /ru/nodejs/saveas/csv-to-xltx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения CSV как XLTX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Node для сохранения файлов Excel в других форматах CSV как XLTX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

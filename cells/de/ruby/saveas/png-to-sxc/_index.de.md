@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie PNG als SXC API für Ruby
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die Datei im PNG-Format als SXC-Formatdatei zu speichern.
-url: /de/ruby/saveas/png-to-sxc/
+title:  Speichern Sie PNG als SXC mit Ruby
+description:  Verwendung des Aspose.Cells Cloud SDK für Ruby zum Speichern der Datei im PNG-Format als SXC-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um PNG als SXC zu speichern" h2="Ruby-Bibliothek zum Speichern von PNG als SXC" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um PNG als SXC und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/png-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie PNG als SXC" h2="Ruby-Bibliothek zum Speichern von PNG als SXC" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um PNG als SXC und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/png-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine PNG-Datei als SXC in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/png-to-sxc/
 Das Speichern von Dateiformaten von PNG als SXC ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum SXC-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Speichern von PNG als SXC-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte SXC-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von PNG im SXC-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von PNG als SXC mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten von PNG als SXC ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um PNG als SXC zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel Dateien in anderen Formaten PNG als SXC zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

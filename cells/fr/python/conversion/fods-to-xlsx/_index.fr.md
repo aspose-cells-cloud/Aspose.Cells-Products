@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir de Excel FODS à XLSX via Python
-description: Créer, modifier ou convertir des fichiers Excel avec REST API et Open Source Python SDK
+description: Créez, modifiez ou convertissez des fichiers Excel avec le SDK REST API et Open Source Python
 url: /fr/python/conversion/fods-to-xlsx/
 family: cells
 platformtag: python
@@ -11,21 +11,21 @@ platform: Python
 otherformats: XLSX HTML XML DIF XLTM FODS PDF XLSM XLSB XLTX TSV CSV TXT XPS TIFF SVG 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir FODS en XLSX avec Python" h2="Lire, modifier et exporter les données Excel vers d\'autres formats avec le SDK Cloud open source pour Python" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertissez FODS en XLSX avec Python" h2="Lisez, modifiez et exportez les données Excel vers d\'autres formats avec le SDK Cloud open source pour Python" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversion FODS en XLSX avec Python" %}}
 1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
 1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
-1. Importer le fichier FODS dans Cloud Storage par défaut avec la méthode ```CellsApi.upload_file```
+1. Téléchargez le fichier FODS sur Cloud Storage par défaut avec la méthode ```CellsApi.upload_file```
 1. Appelez la méthode ```CellsApi.cells_save_as_post_document_save_as``` pour obtenir le fichier XLSX résultant
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Démarrer avec Excel API & Python SDK" %}}
- Obtenez le SDK Cloud Excel pour le code source Python de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) pour compiler le SDK vous-même ou dirigez-vous vers le[Communiqués](https://releases.aspose.cloud/) pour les options de téléchargement alternatives.
+{{% blocks/products/pf/agp/feature-section-col title="Premiers pas avec les SDK Excel, API et Python" %}}
+ Obtenez le SDK Cloud Excel pour le code source Python à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) pour compiler le SDK vous-même ou rendez-vous sur[Sorties](https://releases.aspose.cloud/) pour des options de téléchargement alternatives.
 
- Jetez également un œil à Swagger[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur la[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
+ Jetez également un œil à Swagger-based[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur le[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Python Code pour la conversion FODS en XLSX" gistPath="" %}}

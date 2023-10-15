@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara XLT som XPS API for Java
-description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLT-formatfil som XPS-fil.
-url: /sv/java/saveas/xlt-to-xps/
+title:  Spara XLT som XPS med Java
+description: Använder Aspose.Cells Cloud SDK for Java för att spara XLT-formatfil som XPS-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att spara XLT som XPS" h2="Java bibliotek för att spara XLT som XPS" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara XLT som XPS och andra dokumentformat online med Java." urlsection="saveas/xlt-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLT som XPS" h2="Java bibliotek för att spara XLT som XPS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara XLT som XPS och andra dokumentformat online med Java." urlsection="saveas/xlt-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLT-fil som XPS i Java" >}}
@@ -13,7 +12,7 @@ url: /sv/java/saveas/xlt-to-xps/
 Att spara filformat från XLT som XPS är en komplex uppgift. Alla formatövergångar från XLT till XPS utförs av vår Java SDK samtidigt som käll-XLT-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara XLT som XPS-filer online. Denna Cloud SDK ger Java-utvecklare kraftfull funktionalitet och perfekt XPS-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att spara XLT som XPS-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att spara XLT som XPS med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Att spara filformat från XLT som XPS är en komplex uppgift. Alla formatöverg�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara XLT som XPS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att spara Excel filer som andra format XLT som XPS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

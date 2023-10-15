@@ -1,16 +1,16 @@
 ﻿---
-title:  XLSM в PDF Конвертировать API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLSM в файл формата PDF.
+title:  XLSM в PDF Преобразовать API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLSM в файл формата PDF.
 url: /ru/swift/conversion/xlsm-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLSM в PDF" h2="Библиотека Swift для преобразования XLSM в PDF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLSM в PDF и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xlsm-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLSM в PDF" h2="Библиотека Swift для преобразования XLSM в PDF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования XLSM в PDF и другие форматы документов с помощью Swift." urlsection="conversion/xlsm-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в PDF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в PDF — сложная задача. Все переходы формата XLSM в формат PDF выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLSM в PDF. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PDF.
+Преобразование форматов файлов из XLSM в PDF — сложная задача. Все переходы формата XLSM в PDF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLSM в файлы PDF. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PDF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLSM в формат PDF" gistPath="" %}}
@@ -66,9 +66,9 @@ url: /ru/swift/conversion/xlsm-to-pdf/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования XLSM в PDF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

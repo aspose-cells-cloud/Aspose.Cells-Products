@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XLSM как DIF API для Android
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSM в виде файла формата DIF.
-url: /ru/android/saveas/xlsm-to-dif/
+title: Сохраните XLSM как DIF с помощью Android
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSM как файла формата DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения XLSM как DIF" h2="Библиотека Android для сохранения XLSM как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения XLSM как DIF и других форматов документов онлайн с помощью Android." urlsection="saveas/xlsm-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSM как DIF" h2="Библиотека Android для сохранения XLSM как DIF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения XLSM в формате DIF и других форматов документов онлайн с помощью Android." urlsection="saveas/xlsm-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как DIF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM в виде DIF — сложная задача. Все переходы формата XLSM в формат DIF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Android — это профессиональное решение для сохранения XLSM в виде файлов DIF онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод DIF.
+Сохранение форматов файлов из XLSM в формате DIF — сложная задача. Все переходы формата XLSM в DIF выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы XLSM. Наша библиотека Android — это профессиональное решение для сохранения XLSM в виде файлов DIF онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате DIF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения XLSM в формате DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для сохранения XLSM как DIF с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,15 +34,15 @@ url: /ru/android/saveas/xlsm-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения XLSM как DIF" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для сохранения файлов Excel в других форматах XLSM как DIF" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

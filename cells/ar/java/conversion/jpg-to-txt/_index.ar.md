@@ -1,19 +1,18 @@
 ﻿---
-title:  JPG إلى TXT - تحويل API for Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بصيغة JPG إلى ملف بصيغة TXT.
-url: /ar/java/conversion/jpg-to-txt/
+title:  تحويل JPG إلى TXT باستخدام Java
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق JPG إلى ملف بتنسيق TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل JPG إلى TXT" h2="Java مكتبة لتحويل JPG إلى TXT" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل JPG إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/jpg-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل JPG إلى TXT" h2="مكتبة Java لتحويل JPG إلى TXT" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل JPG إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/jpg-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JPG إلى TXT في Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل JPG إلى TXT باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JPG إلى TXT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى TXT بواسطة Java SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. مكتبتنا Java هي حل احترافي لتحويل ملفات JPG إلى TXT عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج TXT مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من JPG إلى TXT مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق JPG إلى TXT مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JPG المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل ملفات JPG إلى TXT عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من الحصول على وظائف قوية ويضمن إخراج TXT عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل JPG إلى تنسيق TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لتحويل JPG إلى TXT باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,16 +46,16 @@ url: /ar/java/conversion/jpg-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لتحويل JPG إلى TXT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لتحويل ملفات Excel إلى تنسيقات أخرى JPG إلى TXT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

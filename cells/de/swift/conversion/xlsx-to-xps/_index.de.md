@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX in XPS Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSX-Formatdatei in eine Datei im XPS-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSX-Formatdatei in eine Datei im XPS-Format.
 url: /de/swift/conversion/xlsx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

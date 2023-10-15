@@ -1,10 +1,9 @@
 ﻿---
 title:  Klare Formeln in der lokalen Arbeitsmappe in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Formeln unter Microsoft Excel und OpenOffice Calc. Klare Formeln in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/nodejs/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Löschen von Formeln in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="NodeJS Clear zum Löschen von Formeln in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Formeln in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in NodeJS zu löschen. Diese professionelle Lösung löscht Formeln auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit NodeJS." urlsection="clear/Formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen Sie Formeln aus der lokalen Microsoft Excel und der OpenOffice Calc-Tabelle" h2="NodeJS Clear zum Löschen von Formeln in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Formeln in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in NodeJS zu löschen. Diese professionelle Lösung löscht Formeln auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit NodeJS." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klare Formeln auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – NodeJS REST API" >}}
@@ -19,8 +18,8 @@ Das Löschen von Formeln in der lokalen Microsoft Excel und OpenOffice Calc-Tabe
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie den Knoten API zum Löschen von Formeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode postClearObjects auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

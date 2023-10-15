@@ -1,16 +1,15 @@
 ﻿---
-title:  Esporta IMMAGINE in JPG dal foglio di calcolo utilizzando C# API
+title:  Esporta IMMAGINE in JPG da Excel utilizzando Cells Cloud SDK per C#
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/net/export/picture-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per esportare FOTO in file JPG" h2="C# libreria per esportare FOTO in file JPG" p="Utilizzare Cells Export REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Net. Questa è una soluzione professionale per esportare IMMAGINE in file in formato JPG dal foglio di calcolo online utilizzando C#." urlsection="export/picture-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta IMMAGINE in JPG da Excel" h2="C# libreria per esportare IMMAGINI in file JPG" p="Utilizzare Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Net. Questa è una soluzione professionale per esportare IMMAGINI in file in formato JPG da un foglio di calcolo online utilizzando C#." urlsection="export/picture-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto IMMAGINE in un file in formato JPG in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto IMMAGINE in un file in formato JPG utilizzando Cells Cloud SDK per C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto IMMAGINE in un file JPG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da IMMAGINE a formato JPG viene eseguita dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo IMMAGINE di origine. La nostra libreria C# è una soluzione professionale per esportare oggetti IMMAGINE in file in formato JPG online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e un output JPG perfetto.
+Esportare un oggetto IMMAGINE in un file JPG dal file Excel è un compito complesso. L'esportazione delle transizioni del formato IMMAGINE in formato JPG viene eseguita dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo IMMAGINE di origine. La nostra libreria C# è una soluzione professionale per esportare online oggetti IMMAGINE in file in formato JPG. Questo Cloud SDK offre agli sviluppatori C# funzionalità potenti e un output JPG perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in C# utilizzando REST API per esportare IMMAGINE in formato JPG dal foglio di calcolo" gistPath="" %}}
@@ -44,15 +43,15 @@ Esportare l'oggetto IMMAGINE in un file JPG dal foglio di calcolo è un'attivit�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare C# API per esportare IMMAGINE in JPG" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo PostExport per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Net per esportare oggetti da Excel IMMAGINE a JPG" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>NET Framework 4.5.2 o più recente</li>
+<li>NET Framework 4.5.2 o successiva</li>
 <li>Net Standard 2.0 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

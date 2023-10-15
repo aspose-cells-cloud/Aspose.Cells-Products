@@ -1,14 +1,13 @@
 ﻿---
-title:  Mit C# schützen
-description:  Aspose.Cells Cloud REST API unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur unter Verwendung von C#. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/net/protect/
+title:  Schützen Sie Excel-Dateien mit C#
+description:  Aspose.Cells Cloud REST API unterstützt das Verschlüsseln, Entschlüsseln und Hinzufügen digitaler Signaturen zu Arbeitsmappen mithilfe von C# und bietet SDKs für verschiedene Programmiersprachen.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit C# schützen" h2="Aspose.Cells Cloud SDK unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur." p="Aspose.Cells Cloud REST API unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur unter Verwendung von C#. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Schützen Sie Excel-Dateien mit C#" h2="Aspose.Cells Cloud SDK unterstützt das Entschlüsseln, Verschlüsseln und digitale Signieren von Arbeitsmappen." p="Aspose.Cells Cloud REST API unterstützt das Verschlüsseln, Entschlüsseln und Hinzufügen digitaler Signaturen zu Arbeitsmappen mithilfe von C# und bietet SDKs für verschiedene Programmiersprachen." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Schützen Sie mit den Erweiterungslinks C#" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Schützen Sie Excel-Dateien mit C#-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

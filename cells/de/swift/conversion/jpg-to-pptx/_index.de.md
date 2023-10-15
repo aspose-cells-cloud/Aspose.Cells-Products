@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG in PPTX konvertieren API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine JPG-Formatdatei in eine PPTX-Formatdatei zu konvertieren.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine JPG-Formatdatei in eine PPTX-Formatdatei zu konvertieren.
 url: /de/swift/conversion/jpg-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

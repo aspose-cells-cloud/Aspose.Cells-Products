@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez XLTX sous TIFF API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XLTX en tant que fichier au format TIFF.
-url: /fr/python/saveas/xltx-to-tiff/
+title:  Enregistrez XLTX sous TIFF en utilisant Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XLTX au format TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer XLTX sous TIFF" h2="Bibliothèque Python pour enregistrer XLTX sous TIFF" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX sous TIFF et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/xltx-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLTX sous le numéro TIFF" h2="Bibliothèque Python pour enregistrer XLTX sous TIFF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX sous TIFF et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/xltx-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLTX sous TIFF dans Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLTX sous le nom TIFF est une tâche complexe. Toutes les transitions de format XLTX vers TIFF sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Python est une solution professionnelle pour enregistrer des fichiers XLTX sous TIFF en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie TIFF parfaite.
+Enregistrer les formats de fichiers de XLTX sous le nom TIFF est une tâche complexe. Toutes les transitions du format XLTX vers TIFF sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Python est une solution professionnelle pour enregistrer XLTX sous forme de fichiers TIFF en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie TIFF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour enregistrer XLTX au format TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Exemple de code pour enregistrer XLTX sous TIFF à l\'aide de REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ L'enregistrement des formats de fichiers à partir de XLTX sous le nom TIFF est 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Python API pour enregistrer XLTX sous TIFF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Python pour enregistrer les fichiers Excel sous d\'autres formats XLTX sous le nom TIFF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_workbook_save_as` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

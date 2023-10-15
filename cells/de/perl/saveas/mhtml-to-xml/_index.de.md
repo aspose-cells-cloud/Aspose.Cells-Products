@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie MHTML als XML API für Perl
-description: Verwenden von Aspose.Cells Cloud SDK für Perl zum Speichern von MHTML-Formatdateien als XML-Formatdateien.
-url: /de/perl/saveas/mhtml-to-xml/
+title:  Speichern Sie MHTML als XML mit Perl
+description:  Verwendung von Aspose.Cells Cloud SDK für Perl zum Speichern von MHTML-Formatdateien als XML-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um MHTML als XML zu speichern" h2="Perl-Bibliothek zum Speichern von MHTML als XML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um MHTML als XML und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/mhtml-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie MHTML als XML" h2="Perl Bibliothek zum Speichern von MHTML als XML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um MHTML als XML und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/mhtml-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine MHTML-Datei als XML unter Perl" >}}
@@ -13,7 +12,7 @@ url: /de/perl/saveas/mhtml-to-xml/
 Das Speichern von Dateiformaten aus MHTML als XML ist eine komplexe Aufgabe. Alle MHTML-zu-XML-Formatübergänge werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um MHTML als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von MHTML als XML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel zum Speichern von MHTML als XML mit REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ Das Speichern von Dateiformaten aus MHTML als XML ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um MHTML als XML zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Perl, um Excel-Dateien in anderen Formaten wie MHTML und XML zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Beitrag anrufen_Arbeitsmappe_save_as-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

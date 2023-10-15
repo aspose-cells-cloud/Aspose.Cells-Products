@@ -1,19 +1,18 @@
 ﻿---
-title:  احفظ MHTML كـ JSON API لـ Python
+title:  احفظ MHTML بتنسيق JSON باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق MHTML كملف بتنسيق JSON.
-url: /ar/python/saveas/mhtml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ MHTML كـ JSON" h2="مكتبة Python لحفظ MHTML كـ JSON" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ MHTML كـ JSON وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/mhtml-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ MHTML بتنسيق JSON" h2="مكتبة Python لحفظ MHTML بصيغة JSON" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ MHTML بتنسيق JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/mhtml-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم JSON في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML بتنسيق JSON في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من MHTML كـ JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى JSON بواسطة Python SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبتنا Python هي حل احترافي لحفظ MHTML كملفات JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج JSON مثالي.
+يعد حفظ تنسيقات الملفات من MHTML بتنسيق JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى JSON بواسطة Python SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ MHTML كملفات JSON عبر الإنترنت. يوفر Cloud SDK لمطوري Python وظائف قوية ومخرجات JSON مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ MHTML بتنسيق JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لحفظ MHTML كـ JSON باستخدام REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ar/python/saveas/mhtml-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لحفظ MHTML كـ JSON" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_يحفظ_مثل_بريد_وثيقة_يحفظ_كطريقة للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لحفظ ملفات Excel بتنسيقات أخرى MHTML مثل JSON" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

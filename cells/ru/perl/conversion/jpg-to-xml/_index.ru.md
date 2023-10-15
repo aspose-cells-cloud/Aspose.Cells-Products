@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование JPG в XML API для Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата JPG в файл формата XML.
-url: /ru/perl/conversion/jpg-to-xml/
+title:  Конвертируйте JPG в XML с помощью Perl
+description:  Использование Cloud SDK Aspose.Cells для Perl для преобразования файла формата JPG в файл формата XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования JPG в XML" h2="Perl библиотека для преобразования JPG в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации JPG в XML и другие форматы документов с использованием Perl." urlsection="conversion/jpg-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать JPG в XML" h2="Perl библиотека для конвертации JPG в XML" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Perl. Это профессиональное решение для онлайн-конвертирования JPG в XML и другие форматы документов с помощью номера Perl." urlsection="conversion/jpg-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в XML в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование JPG в XML с помощью Cloud SDK Cells для Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в XML — сложная задача. Все переходы между форматами JPG и XML выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов JPG в XML. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из JPG в XML может оказаться сложной задачей. Наш SDK Perl обрабатывает все преобразования форматов JPG в XML, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Perl предоставляет профессиональное решение для онлайн-конвертирования файлов JPG в XML. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и обеспечивает высококачественный вывод XML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования JPG в формат XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для преобразования JPG в XML с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ru/perl/conversion/jpg-to-xml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для преобразования JPG в XML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать SDK Perl для преобразования JPG в XML" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

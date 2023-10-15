@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie XML als MD API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern einer XML-Formatdatei als MD-Formatdatei.
-url: /de/java/saveas/xml-to-md/
+title:  Speichern Sie XML als MD mit Java
+description: Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern von XML-Formatdateien als MD-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Speichern von XML als MD" h2="Java-Bibliothek zum Speichern von XML als MD" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um XML als MD und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/xml-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML als MD speichern" h2="Java Bibliothek zum Speichern von XML als MD" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um XML als MD und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/xml-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als MD in Java" >}}
@@ -13,7 +12,7 @@ url: /de/java/saveas/xml-to-md/
 Das Speichern von Dateiformaten aus XML als MD ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum MD-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XML-Tabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um XML als MD-Dateien online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von XML im MD-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel zum Speichern von XML als MD mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten aus XML als MD ist eine komplexe Aufgabe. Alle �
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um XML als MD zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Speichern von Excel-Dateien in anderen Formaten, XML und MD" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

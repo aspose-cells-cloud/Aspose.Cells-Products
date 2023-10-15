@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML zu XLSM Konvertieren Sie API für Swift
+title: MHTML zu XLSM Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer MHTML-Formatdatei in eine XLSM-Formatdatei.
 url: /de/swift/conversion/mhtml-to-xlsm/
 ---

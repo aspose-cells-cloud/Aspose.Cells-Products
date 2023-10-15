@@ -1,19 +1,18 @@
 ﻿---
-title: الأرقام إلى XPS حوّل API إلى Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق XPS.
-url: /ar/python/conversion/numbers-to-xps/
+title:  تحويل الأرقام إلى XPS باستخدام Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق XPS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل الأرقام إلى XPS" h2="مكتبة Python لتحويل الأرقام إلى XPS" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل الأرقام إلى XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/numbers-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى XPS" h2="مكتبة Python لتحويل الارقام الى XPS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى XPS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/numbers-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى XPS في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل الأرقام إلى XPS باستخدام Cells Cloud SDK لـ Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى XPS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق الأرقام من NUMBERS إلى XPS بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات NUMBERS المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل الأرقام إلى ملفات XPS عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XPS مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من NUMBERS إلى XPS مهمة معقدة. يتعامل SDK Python الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى XPS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبتنا Python حلاً احترافيًا لتحويل NUMBERS إلى XPS ملفًا عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Python بوظائف قوية ويضمن إخراج XPS عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل الأرقام إلى تنسيق XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python مثال على الكود لتحويل الأرقام إلى XPS باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +27,10 @@ url: /ar/python/conversion/numbers-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Python API لتحويل الأرقام إلى XPS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Python لتحويل ملفات Excel إلى تنسيقات أخرى من NUMBERS إلى XPS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

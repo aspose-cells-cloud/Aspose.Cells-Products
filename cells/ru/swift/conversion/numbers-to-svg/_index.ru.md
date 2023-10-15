@@ -1,19 +1,19 @@
 ﻿---
-title:  НОМЕРА в SVG Конвертировать API для Swift
+title: ЧИСЛА в SVG Преобразовать API для Swift
 description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата NUMBERS в файл формата SVG.
 url: /ru/swift/conversion/numbers-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования NUMBERS в SVG" h2="Библиотека Swift для преобразования NUMBERS в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования NUMBERS в SVG и другие форматы документов онлайн с помощью Swift." urlsection="conversion/numbers-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования ЧИСЕЛ в SVG" h2="Библиотека Swift для преобразования ЧИСЕЛ в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования ЧИСЕЛ в SVG и другие форматы документов с помощью Swift." urlsection="conversion/numbers-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в SVG в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в SVG — сложная задача. Все переходы форматов NUMBERS в SVG выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов NUMBERS в файлы SVG. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SVG.
+Преобразование форматов файлов из ЧИСЛОВ в SVG — сложная задача. Все переходы формата NUMBERS в SVG выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации ЧИСЕЛ в файлы SVG. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SVG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования NUMBERS в формат SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования ЧИСЕЛ в формат SVG" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -65,10 +65,10 @@ url: /ru/swift/conversion/numbers-to-svg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования NUMBERS в SVG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования ЧИСЕЛ в SVG" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Guardar XML como XLS API para Android
-description: Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato XML como archivo de formato XLS.
-url: /es/android/saveas/xml-to-xls/
+title:  Guarde XML como XLS usando Android
+description: Utilizando Aspose.Cells Cloud SDK para Android para guardar un archivo en formato XML como un archivo en formato XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para guardar XML como XLS" h2="Biblioteca de Android para guardar XML como XLS" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Android. Esta es una solución profesional para guardar XML como XLS y otros formatos de documentos en línea usando Android." urlsection="saveas/xml-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XML como XLS" h2="Biblioteca de Android para guardar XML como XLS" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Android. Esta es una solución profesional para guardar XML como XLS y otros formatos de documentos en línea usando Android." urlsection="saveas/xml-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XML como XLS en Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XML como XLS en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XML como XLS es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato XML a XLS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca de Android es una solución profesional para guardar XML como archivos XLS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLS perfecta.
+Guardar formatos de archivo de XML como XLS es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato XML a XLS manteniendo el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca de Android es una solución profesional para guardar XML como archivos XLS en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida XLS perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para guardar XML como formato XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código de Android para guardar XML como XLS usando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ Guardar formatos de archivo de XML como XLS es una tarea compleja. Nuestro SDK d
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Java API para guardar XML como XLS" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Android para guardar archivos Excel en otros formatos XML como XLS" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `postWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Android 7 o más reciente</li>
-<li>Java(TM) SE Entorno de tiempo de ejecución</li>
+<li>Java(TM) SE entorno de ejecución</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

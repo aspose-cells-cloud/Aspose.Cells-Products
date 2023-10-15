@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование TSV в SXC API для Android
-description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата TSV в файл формата SXC.
-url: /ru/android/conversion/tsv-to-sxc/
+title:  Конвертируйте TSV в SXC с помощью Android
+description:  Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата TSV в файл формата SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования TSV в SXC" h2="Библиотека Android для преобразования TSV в SXC" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования TSV в SXC и другие форматы документов онлайн с помощью Android." urlsection="conversion/tsv-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать TSV в SXC" h2="Библиотека Android для конвертации TSV в SXC" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертации TSV в SXC и другие форматы документов с помощью Android." urlsection="conversion/tsv-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в SXC в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование TSV в SXC с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в SXC — сложная задача. Все переходы между форматами TSV и SXC выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов TSV в SXC. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод SXC.
+Преобразование форматов файлов из TSV в SXC может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата TSV в SXC, сохраняя при этом основное структурное и логическое содержимое исходной таблицы TSV. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов TSV в SXC. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод SXC.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования TSV в формат SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования TSV в SXC с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,15 +46,15 @@ url: /ru/android/conversion/tsv-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования TSV в SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для преобразования файлов Excel в другие форматы TSV в SXC" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

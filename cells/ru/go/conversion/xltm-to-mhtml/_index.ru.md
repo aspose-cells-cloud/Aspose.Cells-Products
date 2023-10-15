@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование XLTM в MHTML API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLTM в файл формата MHTML.
-url: /ru/go/conversion/xltm-to-mhtml/
+title:  Преобразование XLTM в MHTML с помощью Go
+description:  Использование Cloud SDK для Go Aspose.Cells для преобразования файла формата XLTM в файл формата MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать XLTM в MHTML." h2="Библиотека Go для преобразования XLTM в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации XLTM в MHTML и другие форматы документов с помощью Go." urlsection="conversion/xltm-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLTM в MHTML" h2="Библиотека Go для преобразования XLTM в MHTML" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для онлайн-конвертирования XLTM в MHTML и другие форматы документов с помощью Go." urlsection="conversion/xltm-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в MHTML в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XLTM в MHTML с помощью Cloud SDK Cells для Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в MHTML — сложная задача. Все переходы формата XLTM в формат MHTML выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLTM в MHTML. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из XLTM в MHTML может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования форматов XLTM в MHTML, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования файлов XLTM в MHTML. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод MHTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLTM в формат MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования XLTM в MHTML с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ url: /ru/go/conversion/xltm-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для преобразования XLTM в MHTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для преобразования файлов Excel в другие форматы XLTM в MHTML." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

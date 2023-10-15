@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить CSV как FODS API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата CSV в виде файла формата FODS.
-url: /ru/go/saveas/csv-to-fods/
+title:  Сохраните CSV как FODS с помощью Go
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата CSV как файла формата FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы сохранить CSV как FODS." h2="Перейти в библиотеку, чтобы сохранить CSV как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения CSV как FODS и других форматов документов в Интернете с помощью Go." urlsection="saveas/csv-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить CSV как FODS" h2="Библиотека Go для сохранения CSV как FODS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения CSV в формате FODS и других форматов документов онлайн с помощью Go." urlsection="saveas/csv-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как FODS в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните CSV-файл как FODS в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде FODS — сложная задача. Все переходы между форматами CSV и FODS выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Go — это профессиональное решение для сохранения CSV в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод FODS.
+Сохранение форматов файлов из CSV в формате FODS — сложная задача. Все переходы формата CSV в FODS выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека Go — это профессиональное решение для сохранения CSV в виде файлов FODS онлайн. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный результат FODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения CSV в формате FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения CSV как FODS с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /ru/go/saveas/csv-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для сохранения CSV как FODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах CSV как FODS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

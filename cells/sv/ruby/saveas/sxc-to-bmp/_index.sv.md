@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara SXC som BMP API för Ruby
-description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara fil i SXC-format som fil i BMP-format.
-url: /sv/ruby/saveas/sxc-to-bmp/
+title:  Spara SXC som BMP med Ruby
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara SXC-formatfil som BMP-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att spara SXC som BMP" h2="Ruby-bibliotek för att spara SXC som BMP" p="Använd Cells SaveAs REST API för att skapa anpassade kalkylbladsarbetsflöden i Ruby. Detta är en professionell lösning för att spara SXC som BMP och andra dokumentformat online med Ruby." urlsection="saveas/sxc-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara SXC som BMP" h2="Ruby-bibliotek för att spara SXC som BMP" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby. Detta är en professionell lösning för att spara SXC som BMP och andra dokumentformat online med Ruby." urlsection="saveas/sxc-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en SXC-fil som BMP i Ruby" >}}
@@ -13,7 +12,7 @@ url: /sv/ruby/saveas/sxc-to-bmp/
 Att spara filformat från SXC som BMP är en komplex uppgift. Alla SXC- till BMP-formatövergångar utförs av vår Ruby SDK samtidigt som käll-SXC-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att spara SXC som BMP-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt BMP-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att spara SXC som BMP-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Exempel för att spara SXC som BMP med REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Att spara filformat från SXC som BMP är en komplex uppgift. Alla SXC- till BMP
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att spara SXC som BMP" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_spara_som_posta_dokumentera_spara_som metod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att spara Excel filer som andra format SXC som BMP" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

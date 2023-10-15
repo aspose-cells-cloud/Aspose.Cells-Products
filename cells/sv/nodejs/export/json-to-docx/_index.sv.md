@@ -8,7 +8,7 @@ url: /sv/nodejs/export/json-to-docx/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exoprt JSON till DOCX-fil i Cloud SDK för NodeJS" %}}
+{{% blocks/products/pf/agp/feature-section-col title=" Exoprt JSON till DOCX-fil i Cloud SDK för NodeJS" %}}
 1.  Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation
 1. Initiera ```CellsApi``` med klient-id, klienthemlighet, basadress och API-version
 1. Ring ```cellsWorkbookPutConvertWorkbook```-metoden för att få den resulterande DOCX-strömmen

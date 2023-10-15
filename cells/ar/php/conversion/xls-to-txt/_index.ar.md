@@ -1,19 +1,18 @@
 ﻿---
-title: XLS إلى TXT تحويل API لـ PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLS إلى ملف بتنسيق TXT.
-url: /ar/php/conversion/xls-to-txt/
+title:  تحويل XLS إلى TXT باستخدام PHP
+description: استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق XLS إلى ملف بتنسيق TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLS إلى TXT" h2="PHP مكتبة لتحويل XLS إلى TXT" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل XLS إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xls-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLS إلى TXT" h2="مكتبة PHP لتحويل XLS إلى TXT" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل XLS إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xls-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLS إلى TXT في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLS إلى TXT باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLS إلى TXT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى TXT بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLS المصدر. مكتبتنا PHP هي حل احترافي لتحويل ملفات XLS إلى TXT عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج TXT مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من XLS إلى TXT مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق XLS إلى TXT مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLS المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات XLS إلى TXT عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج TXT عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل XLS إلى تنسيق TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل XLS إلى TXT باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ar/php/conversion/xls-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام PHP API لتحويل XLS إلى TXT" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellWorkbookPutConvertWorkBook للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى من XLS إلى TXT" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

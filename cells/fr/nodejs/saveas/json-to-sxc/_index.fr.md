@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer JSON sous SXC API pour NodeJS
-description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format JSON en tant que fichier au format SXC.
-url: /fr/nodejs/saveas/json-to-sxc/
+title:  Enregistrez JSON en tant que SXC à l'aide de NodeJS
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format JSON au format SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer JSON en tant que SXC" h2="Bibliothèque NodeJS pour enregistrer JSON en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer JSON au format SXC et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/json-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer JSON en tant que SXC" h2="Bibliothèque NodeJS pour enregistrer JSON au format SXC" p="Utilisez SaveAs API sur Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer JSON au format SXC et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/json-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JSON en tant que SXC dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de JSON en tant que SXC est une tâche complexe. Toutes les transitions de format JSON vers SXC sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer des fichiers JSON en tant que fichiers SXC en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie SXC parfaite.
+Enregistrer les formats de fichiers JSON au format SXC est une tâche complexe. Toutes les transitions du format JSON vers SXC sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer JSON sous forme de fichiers SXC en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie SXC parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour enregistrer JSON au format SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code NodeJS pour enregistrer JSON au format SXC à l\'aide de REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ L'enregistrement de formats de fichiers à partir de JSON en tant que SXC est un
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le nœud API pour enregistrer JSON en tant que SXC" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Node pour enregistrer les fichiers Excel sous d\'autres formats JSON comme SXC" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>nœud v6.17.1 ou plus récent</li>
+<li>nœud v6.17.1 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
-title:  Crypter la feuille de calcul cloud avec un mot de passe dans le cloud
-description: API Cloud et SDK pour protéger Microsoft Excel et OpenOffice Calc. Crypter la feuille de calcul cloud avec mot de passe par le Cells Cloud API. SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
-url: /fr/ruby/protect/encrypt-cloud-file-with-password/
+title:  Chiffrer la feuille de calcul cloud avec mot de passe dans le cloud
+description: API et SDK cloud pour la protection de Microsoft Excel et OpenOffice Calc. Cryptez la feuille de calcul cloud avec le mot de passe par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" h2="Bibliothèque Ruby pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" p="Utilisez Cells Protect REST API pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec les workflows de mot de passe dans Ruby. Cette solution professionnelle protège le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe utilisant Ruby." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" h2="Bibliothèque Ruby pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" p="Utilisez Cells Protect REST API pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec des flux de travail de mot de passe dans Ruby. Cette solution professionnelle protège le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe à l\'aide de Ruby." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Protégez le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe - Ruby REST API" >}}
@@ -18,15 +17,15 @@ Protéger une feuille de calcul cloud avec un mot de passe est une tâche comple
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Comment utiliser Ruby API pour chiffrer" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour chiffrer le fichier Excel" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_poste_Crypter_méthode de document pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Cellules d'appel_classeur_poste_Crypter_méthode document pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

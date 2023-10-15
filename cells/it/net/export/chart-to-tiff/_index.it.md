@@ -1,19 +1,18 @@
 ﻿---
-title:  Esporta GRAFICO a TIFF dal foglio di calcolo utilizzando C# API
+title:  Esporta TABELLA a TIFF da Excel utilizzando Cells Cloud SDK per C#
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/net/export/chart-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per esportare CHART nel file TIFF" h2="C# per esportare CHART nel file TIFF" p="Utilizzare Cells Export REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Net. Questa è una soluzione professionale per esportare CHART nel file in formato TIFF dal foglio di calcolo online utilizzando C#." urlsection="export/chart-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta TABELLA allo TIFF da Excel" h2="Libreria C# per esportazione TABELLA nel file TIFF" p="Utilizzare Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Net. Questa è una soluzione professionale per esportare CHART nel file in formato TIFF dal foglio di calcolo online utilizzando C#." urlsection="export/chart-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta oggetto CHART nel file in formato TIFF in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto CHART nel file in formato TIFF utilizzando Cells Cloud SDK per C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto CHART nel file TIFF dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di formato da CHART a TIFF viene eseguita dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria C# è una soluzione professionale per esportare oggetti CHART in file in formato TIFF online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e un output TIFF perfetto.
+Esportare l'oggetto CHART nel file TIFF dal file Excel è un'attività complessa. L'esportazione di CHART nelle transizioni del formato TIFF viene eseguita dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria C# è una soluzione professionale per esportare online oggetti CHART in file in formato TIFF. Questo Cloud SDK offre agli sviluppatori C# funzionalità potenti e un output TIFF perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in C# utilizzando REST API per esportare CHART nel formato TIFF dal foglio di calcolo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in C# utilizzando REST API per esportare GRAFICO nel formato TIFF dal foglio di calcolo" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,15 +43,15 @@ Esportare l'oggetto CHART nel file TIFF dal foglio di calcolo è un'attività co
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare C# API per esportare CHART in TIFF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo PostExport per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Net per esportare oggetti da Excel CHART a TIFF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>NET Framework 4.5.2 o più recente</li>
+<li>NET Framework 4.5.2 o successiva</li>
 <li>Net Standard 2.0 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

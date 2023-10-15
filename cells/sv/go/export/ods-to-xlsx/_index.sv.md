@@ -8,7 +8,7 @@ url: /sv/go/export/ods-to-xlsx/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exoprera ODS till XLSX-fil i Cloud SDK för Go" %}}
+{{% blocks/products/pf/agp/feature-section-col title=" Exoprera ODS till XLSX-fil i Cloud SDK för Go" %}}
 1.  Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation
 1. Initiera ```CellsApi``` med klient-id, klienthemlighet, basadress och API-version
 1. Ring ```CellsWorkbookPutConvertWorkbook```-metoden för att få den resulterande XLSX-strömmen

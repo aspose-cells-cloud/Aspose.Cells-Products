@@ -1,16 +1,15 @@
 ﻿---
-title:  Esporta SHAPE in TIFF dal foglio di calcolo utilizzando Perl API
+title:  Esporta SHAPE in TIFF da Excel utilizzando Cells Cloud SDK per Perl
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/perl/export/shape-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per esportare SHAPE nel file TIFF" h2="Perl per esportare SHAPE nel file TIFF" p="Utilizzare Cells Export REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Perl. Questa è una soluzione professionale per esportare SHAPE in un file in formato TIFF dal foglio di calcolo online utilizzando Perl." urlsection="export/shape-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta SHAPE a TIFF da Excel" h2="Libreria Perl per esportare SHAPE nel file TIFF" p="Utilizza Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Perl. Questa è una soluzione professionale per esportare SHAPE nel file in formato TIFF dal foglio di calcolo online utilizzando Perl." urlsection="export/shape-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto SHAPE nel file in formato TIFF in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto SHAPE nel file in formato TIFF utilizzando Cells Cloud SDK per Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto SHAPE nel file TIFF dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di formato da SHAPE a TIFF viene eseguita dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo SHAPE di origine. La nostra libreria Perl è una soluzione professionale per esportare oggetti SHAPE in file in formato TIFF online. Questo Cloud SDK offre agli sviluppatori Perl potenti funzionalità e un output TIFF perfetto.
+Esportare l'oggetto SHAPE nel file TIFF dal file Excel è un'attività complessa. L'esportazione di SHAPE nelle transizioni del formato TIFF viene eseguita dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo SHAPE di origine. La nostra libreria Perl è una soluzione professionale per esportare oggetti SHAPE in file in formato TIFF online. Questo Cloud SDK offre agli sviluppatori Perl funzionalità potenti e un output TIFF perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Perl utilizzando REST API per esportare SHAPE nel formato TIFF dal foglio di calcolo" gistPath="" %}}
@@ -37,9 +36,9 @@ Esportare l'oggetto SHAPE nel file TIFF dal foglio di calcolo è un'attività co
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Perl API per esportare SHAPE in TIFF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Perl per esportare oggetti da Excel SHAPE a TIFF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
 <li>Chiama il metodo post_export per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

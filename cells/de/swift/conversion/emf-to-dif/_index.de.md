@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF in DIF Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im EMF-Format in eine DIF-Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im EMF-Format in eine DIF-Formatdatei.
 url: /de/swift/conversion/emf-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

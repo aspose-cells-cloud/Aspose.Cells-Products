@@ -1,10 +1,9 @@
 ﻿---
 title:  Rensa diagram på den lokala arbetsboken i Cloud
-description: " Cloud API:er och SDK:er för att rensa diagram på Microsoft Excel & OpenOffice Calc. Rensa diagram på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
-url: /sv/python/clear/charts/
+description: "Cloud API:er och SDK:er för att rensa diagram på Microsoft Excel & OpenOffice Calc. Rensa diagram på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Python Rensa för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Python. Denna professionella lösning tar bort diagram på lokala Microsoft Microsoft 376153481 Microsoft Microsoft Microsoft Microsoft 0761616 och OpenOffice 3 Calc 47616 och OpenOffice 3 07616 och 3 Calc 481616. ." urlsection="clear/Charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort diagram på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Python Rensa för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Python. Denna professionella lösning tar bort diagram på lokala Microsoft Microsoft 376153481 Microsoft Microsoft Microsoft Microsoft 0761616 och OpenOffice 3 Calc 47616 och OpenOffice 3 07616 och 3 Calc 481616. ." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Python REST API" >}}
@@ -18,9 +17,9 @@ Att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Python API för att rensa diagram" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att rensa diagram" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Ring post_klar_objektsmetod för att få den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera ARBETSBLAD till JSON från kalkylblad med NodeJS API
+title:  Exportera ARBETSBLAD till JSON från Excel med Cells Cloud SDK för NodeJS
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/nodejs/export/worksheet-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att exportera WORKSHEET till JSON-fil" h2="NodeJS-bibliotek för att exportera WORKSHEET till JSON-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylblad i NodeJS. Detta är en professionell lösning för att exportera ARBETSBLAD till JSON-formatfil från kalkylblad online med NodeJS." urlsection="export/worksheet-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBLAD till JSON från Excel" h2="NodeJS-bibliotek för export av WORKSHEET till JSON-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i NodeJS. Detta är en professionell lösning för att exportera ARBETSBLAD till JSON-formatfil från kalkylblad online med NodeJS." urlsection="export/worksheet-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till JSON-formatfil i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till JSON-formatfil med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKSHEET-objekt till JSON-fil från kalkylark är en komplex uppgift. Export av WORKSHEET till JSON-formatövergångar utförs av vår NodeJS SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till JSON-formatfiler online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt JSON-utdata.
+Exportera WORKSHEET-objekt till JSON-fil från Excel-filen är en komplex uppgift. Export av WORKSHEET till JSON-formatövergångar utförs av vår NodeJS SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till JSON-formatfiler online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt JSON-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att exportera WORKSHEET till JSON-format från kalkylblad" gistPath="" %}}
@@ -41,10 +40,10 @@ Exportera WORKSHEET-objekt till JSON-fil från kalkylark är en komplex uppgift.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Node API för att exportera ARBETSBLAD till JSON" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att exportera objekt från Excel WORKSHEET till JSON" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

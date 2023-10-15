@@ -1,19 +1,18 @@
 ﻿---
-title:  GIF a PNG Convertir API para Go
-description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato GIF a un archivo de formato PNG.
-url: /es/go/conversion/gif-to-png/
+title: Convierta GIF a PNG usando Go
+description:  Utilizar el SDK de Cloud Aspose.Cells para Go para convertir un archivo de formato GIF a un archivo de formato PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ir API para convertir GIF a PNG" h2="Ir a la biblioteca para convertir GIF a PNG" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir GIF a PNG y otros formatos de documentos en línea usando Go." urlsection="conversion/gif-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir GIF a PNG" h2="Ir a la biblioteca para convertir GIF a PNG" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos de Go. Esta es una solución profesional para convertir GIF a PNG y otros formatos de documentos en línea usando Go." urlsection="conversion/gif-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo GIF a PNG en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta GIF a PNG usando Cells Cloud SDK para Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de GIF a PNG es una tarea compleja. Todas las transiciones de formato GIF a PNG se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos GIF a PNG en línea. Este SDK de la nube ofrece a los desarrolladores de Go una potente funcionalidad y un resultado PNG perfecto.
+Convertir formatos de archivo de GIF a PNG puede ser una tarea compleja. Nuestro Go SDK maneja todas las conversiones de formato GIF a PNG y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca Go proporciona una solución profesional para convertir archivos GIF a PNG en línea. Este SDK de nube brinda a los desarrolladores de Go una potente funcionalidad y garantiza resultados PNG de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir GIF al formato PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Go para convertir GIF a PNG usando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,15 +47,15 @@ Convertir formatos de archivo de GIF a PNG es una tarea compleja. Todas las tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Go API para convertir GIF a PNG" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método CellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para convertir archivos Excel a otros formatos GIF a PNG" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>ir a la versión go1.13.0 o más reciente</li>
+<li>vaya a la versión go1.13.0 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,10 +1,9 @@
 ﻿---
-title: 将 HTML 另存为 Ruby 的 TXT API
-description: 使用Aspose.Cells Cloud SDK for Ruby将HTML格式文件保存为TXT格式文件。
-url: /zh/ruby/saveas/html-to-txt/
+title: 使用 Ruby 将 HTML 保存为 TXT
+description: 利用Aspose.Cells Cloud SDK for Ruby将HTML格式文件保存为TXT格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 HTML 保存为 TXT" h2="将 HTML 保存为 TXT 的 Ruby 库" p="使用 Cells SaveAs REST API 在 Ruby 中创建自定义电子表格工作流程。这是使用Ruby在线将HTML保存为TXT和其他文档格式的专业解决方案。" urlsection="saveas/html-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="另存 HTML 为 TXT" h2="用于将 HTML 保存为 TXT 的 Ruby 库" p="使用 Cells Cloud 的 SaveAs API 在 Ruby 中创建自定义电子表格工作流程。这是使用Ruby在线将HTML保存为TXT和其他文档格式的专业解决方案。" urlsection="saveas/html-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Ruby 中将 HTML 文件另存为 TXT" >}}
@@ -13,7 +12,7 @@ url: /zh/ruby/saveas/html-to-txt/
 将 HTML 中的文件格式保存为 TXT 是一项复杂的任务。所有 HTML 到 TXT 格式的转换均由我们的 Ruby SDK 执行，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的 Ruby 库是在线将 HTML 保存为 TXT 文件的专业解决方案。该Cloud SDK为Ruby开发人员提供了强大的功能和完美的TXT输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ruby 中使用 REST API 将 HTML 保存为 TXT 格式的代码示例" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="使用 REST API 将 HTML 保存为 TXT 的 Ruby 代码示例" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ url: /zh/ruby/saveas/html-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Ruby API将HTML保存为TXT" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>呼叫细胞_节省_作为_邮政_文档_节省_as 获取结果流的方法</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Ruby将Excel文件保存为其他格式HTML保存为TXT" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>使用 `post_workbook_save_as` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

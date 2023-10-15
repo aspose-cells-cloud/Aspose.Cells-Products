@@ -1,19 +1,18 @@
 ﻿---
-title: Преобразование XLT в JPG API для Android
-description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата XLT в файл формата JPG.
-url: /ru/android/conversion/xlt-to-jpg/
+title:  Конвертируйте XLT в JPG с помощью Android
+description:  Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата XLT в файл формата JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования XLT в JPG" h2="Библиотека Android для преобразования XLT в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования XLT в JPG и другие форматы документов онлайн с помощью Android." urlsection="conversion/xlt-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLT в JPG" h2="Библиотека Android для конвертации XLT в JPG" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертирования XLT в JPG и другие форматы документов с помощью Android." urlsection="conversion/xlt-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в JPG на Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте XLT в JPG с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в JPG — сложная задача. Все переходы формата XLT в формат JPG выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLT в JPG. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.
+Преобразование форматов файлов из XLT в JPG может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов XLT в JPG, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLT. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов XLT в JPG. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования XLT в формат JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования XLT в JPG с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,15 +46,15 @@ url: /ru/android/conversion/xlt-to-jpg/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования XLT в JPG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для преобразования файлов Excel в другие форматы XLT в JPG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

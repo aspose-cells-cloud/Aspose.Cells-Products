@@ -1,5 +1,5 @@
 ﻿---
-title: HTML in GIF Konvertieren Sie API für Swift
+title:  HTML in GIF Konvertieren Sie API für Swift
 description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um eine Datei im HTML-Format in eine GIF-Formatdatei zu konvertieren.
 url: /de/swift/conversion/html-to-gif/
 ---

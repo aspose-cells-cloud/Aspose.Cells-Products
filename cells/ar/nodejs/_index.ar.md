@@ -1,25 +1,25 @@
 ﻿---
-title:  الوصول إلى الملفات السحابية وقراءتها ومعالجتها Excel (via Node.js SDK)
-description:  تطوير Microsoft Excel & OpenOffice عارض جداول البيانات القائم على السحابة وتطبيقات المصدر والمحول في Node.js via REST API
+title:  الوصول إلى ملفات Cloud Excel وقراءتها ومعالجتها (via Node.js SDK)
+description:  تطوير Microsoft Excel وتطبيقات عارض جداول البيانات والتصدير والمحول المستندة إلى السحابة OpenOffice في Node.js via REST API
 weight: 80
 url: /ar/nodejs
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js REST SDK لمعالجة وتصدير ملفات Excel" h2="قم بتطوير Microsoft Excel & OpenOffice وعارض جداول البيانات القائم على السحابة وتطبيقات المصدر والمحول في Node.js via REST API." logoImageSrc="/headers/aspose_cells-for-node.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js REST SDK لمعالجة وتصدير ملفات Excel" h2="تطوير Microsoft Excel وتطبيقات عارض جداول البيانات والتصدير والمحول المستندة إلى السحابة OpenOffice في Node.js via REST API." logoImageSrc="/headers/aspose_cells-for-node.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Node.js" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-node" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK لـ Node.js يمكّن التطبيقات المستندة إلى السحابة من قراءة جداول بيانات Excel ، وتصدير مصنفات XLSX ، وتحويل مستندات Microsoft Excel & OpenOffice إلى PDF ، XPS ، TIFF ، Markdown (MD) ، DIF ، SVG) و TSV و HTML وغيرها من التنسيقات المدعومة ، دون تثبيت أي برنامج تابع لجهة خارجية.</p>
-<p>Aspose.Cells Cloud SDK لـ Node.js يحصل على وظائفه القوية من Aspose.Cells REST API الأساسي ويسمح لكود Node.js بالعمل مع Excel التنسيق الشرطي ، المرشحات التلقائية ، الأشكال التلقائية ، المخططات ، OleObjects ، فواصل الصفحات ، ListObjects ، الجداول المحورية ، المهام والنطاقات. استخدم أوامر Node.js البسيطة لإنشاء وتحديث وتشفير ودمج وحماية بكلمة مرور وتصدير وتحويل ملفات XLS و XLSX و XLSB و XLSM و XLT و XLTX و XLTM و ODS برمجيًا إلى تنسيقات أخرى مدعومة.</p>
+<p>Aspose.Cells Cloud SDK for Node.js يمكّن تطبيقاتك المستندة إلى السحابة من قراءة جداول بيانات Excel، وتصدير مصنفات XLSX، وتحويل Microsoft Excel ومستندات OpenOffice إلى PDF، XPS، TIFF، Markdown (MD)، DIF، SVG، XML (Sp) readsheetML)، CSV وTSV وHTML وغيرها من التنسيقات المدعومة، دون تثبيت أي برنامج تابع لجهة خارجية.</p>
+<p>Aspose.Cells Cloud SDK for Node.js يحصل على وظائفه القوية من Aspose.Cells REST API الأساسي ويسمح لكود Node.js بالعمل مع Excel التنسيق الشرطي، والمرشحات التلقائية، والأشكال التلقائية، والمخططات، وOleObjects، وفواصل الصفحات، وListObjects، والجداول المحورية، المهام والنطاقات. استخدم أوامر Node.js البسيطة لإنشاء ملفات XLS وXLSX وXLSB وXLSM وXLT وXLTX وXLTM وODS برمجيًا وتحديثها وتشفيرها ودمجها وحمايتها بكلمة مرور وتصديرها وتحويلها إلى تنسيقات أخرى مدعومة.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="Aspose.Cells تستطيع السحابة تنفيذ كل مهام معالجة جدول البيانات." >}}
+{{< blocks/products/pf/carousel-item h3="في لمحة" description="Aspose.Cells يمكن للسحابة تنفيذ جميع مهام معالجة جداول البيانات." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
@@ -39,18 +39,18 @@ url: /ar/nodejs
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells تنسيقات الملفات المدعومة من السحابة." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells تنسيقات الملفات المدعومة السحابية." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> الإدخال / الإخراج</header><ul><li><b>Microsoft Excel:</b> XLS و XLSX و XLSB و XLSM و XLT و XLTX و XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> الإدخال/الإخراج</header><ul><li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
 <li><b>مكتب مفتوح:</b> المواد المستنفدة للأوزون</li>
-<li><b>SpreadsheetML:</b> XML</li>
+<li><b>جدول البياناتML:</b> XML</li>
 <li><b>نص:</b> CSV، TSV، TXT (محدد بعلامات جدولة)</li>
-<li><b>الويب:</b> HTML، MHTML</li>
+<li><b>الويب:</b> HTML، أتش تي أم أل</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>SXC ، FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> الإخراج فقط</header><ul><li>DIF، PDF، XPS، TIFF، SVG، MD (Markdown)</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>إس إكس سي، فودس</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> الإخراج فقط</header><ul><li>دي آي إف، PDF، XPS، TIFF، SVG، ماريلاند (تخفيض السعر)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -60,7 +60,7 @@ url: /ar/nodejs
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells Cloud يدعم جميع المنصات ولغات البرمجة الرئيسية." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="Aspose.Cells تدعم السحابة جميع المنصات ولغات البرمجة الرئيسية." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -74,7 +74,7 @@ url: /ar/nodejs
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- ميزات متقدمة لمعالجة Excel جداول البيانات
+ ميزات متقدمة للتعامل مع Excel جداول البيانات
    </h2>
    <p>
    </p>
@@ -82,21 +82,21 @@ url: /ar/nodejs
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- أضف عوامل تصفية بمعايير مخصصة للقوائم
+ إضافة عوامل تصفية بمعايير مخصصة للقوائم
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- دعم لأنواع متعددة من مرشحات القائمة
+ دعم أنواع متعددة من مرشحات القائمة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على معلومات بخصوص حدود منطقة المخطط أو تنسيق التعبئة
+ احصل على معلومات بخصوص حدود منطقة المخطط أو تنسيق التعبئة
     </p>
    </div>
    <div class="col-lg-4">
@@ -110,42 +110,42 @@ url: /ar/nodejs
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على أو تحديث أو إظهار أو إخفاء وسيلة إيضاح الرسم البياني
+ الحصول على وسيلة إيضاح الرسم البياني أو تحديثها أو إظهارها أو إخفائها
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على عنوان المخطط وتحديثه وتعيين رؤيته
+ الحصول على عنوان المخطط وتحديثه وضبط رؤيته
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قم بإضافة منطقة خلية أو إزالتها من أجل التنسيق الشرطي
+ إضافة منطقة خلية أو إزالتها للتنسيق الشرطي
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إضافة وتحديث وحذف الارتباطات التشعبية ورقة العمل
+ إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قم باضافة ListObject في المكان المحدد في الملف Excel
+ أضف كائن قائمة في المكان المحدد في الملف Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- حذف ListObjects معينة أو كلها في ورقة العمل
+ حذف كائنات معينة أو جميع كائنات القائمة في ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -159,7 +159,7 @@ url: /ar/nodejs
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-تلخيص بيانات ListObject كبيرة أو جدول مع Pivot Table
+ تلخيص بيانات ListObject أو الجدول الكبير باستخدام Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ url: /ar/nodejs
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- حذف OleObjects معينة أو كلها من ورقة العمل
+احذف OleObjects معينة أو كلها من ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -187,7 +187,7 @@ url: /ar/nodejs
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- معالجة إعداد الصفحة ، رأس & أمبير ؛ تذييل
+ التعامل مع إعداد الصفحة والرأس &amp; تذييل
     </p>
    </div>
    <div class="col-lg-4">
@@ -227,22 +227,22 @@ url: /ar/nodejs
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- ابدأ مع Excel SDK لمعالجة جداول البيانات
+ ابدأ باستخدام Excel SDK لمعالجة جداول البيانات
     </h2>
     <p>
-لبدء استخدام Aspose.Cells Cloud SDK لـ Node.js ، لا تحتاج إلى تثبيت أي شيء. كل ما عليك فعله هو إنشاء حساب على
+ من أجل البدء باستخدام Aspose.Cells Cloud SDK لـ Node.js، لا تحتاج إلى تثبيت أي شيء. كل ما عليك فعله هو إنشاء حساب على
      <a href="https://dashboard.aspose.cloud/#/apps">
- Aspose للسحابة
+ Aspose للسحاب
      </a>
- واحصل على معلومات التطبيق الخاص بك. بمجرد حصولك على التطبيق SID & amp؛ المفتاح ، فأنت جاهز لاستخدام Aspose.Cells Cloud SDK لـ Node.js على أي نظام أساسي يدعم واجهات برمجة تطبيقات REST. توفر لك Aspose.Cells Cloud SDK لـ Node.js كل الميزات لإنشاء جداول البيانات وتحريرها وتحويلها. كما يسمح لك باستخراج البيانات من جداول البيانات لمزيد من المعالجة أو التخزين.
+والحصول على معلومات التطبيق الخاص بك. بمجرد حصولك على التطبيق SID &amp; المفتاح، أنت جاهز لاستخدام Aspose.Cells Cloud SDK لـ Node.js على أي نظام أساسي يدعم REST APIs. Aspose.Cells توفر لك Cloud SDK لـ Node.js جميع الميزات اللازمة لإنشاء جداول البيانات وتحريرها وتحويلها. كما يسمح لك باستخراج البيانات من جداول البيانات لمزيد من المعالجة أو التخزين.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- معالجة مصنفات via Cloud SDK
+ معالجة المصنفات via Cloud SDK
     </h2>
     <p>
-يسمح لك Aspose.Cells Cloud SDK لـ Node.js بإنشاء نص وتقسيمه ودمجه والبحث فيه واستبداله وحماية كلمة المرور والتصدير إلى تنسيق ملف مدعوم وقراءة عناصر نص المصنف وملاءمة صفوف المصنف تلقائيًا مع تجاهل العناصر المخفية وتشفير كلمة مرور المصنف وتوفيرها طول مفتاح التشفير ، واستيراد البيانات إلى المصنف ، وحساب جميع الصيغ في المصنف ، وتعيين إعدادات حساب الصيغة من خلال توفير إستراتيجية دقيقة وما إلى ذلك ، واستخدام العلامة الذكية ، وتحويل المصنف من محتوى الطلب إلى تنسيق آخر ، وتطبيق كلمة المرور للسماح بتعديل المحتوى.
+ Aspose.Cells يتيح لك Cloud SDK لـ Node.js إنشاء النص وتقسيمه ودمجه والبحث فيه واستبداله وحماية كلمة المرور والتصدير إلى تنسيق ملف مدعوم وقراءة العناصر النصية للمصنف وملاءمة صفوف المصنف تلقائيًا أثناء تجاهل العناصر المخفية وتشفير كلمة مرور المصنف وتوفيرها طول مفتاح التشفير، واستيراد البيانات إلى المصنف، وحساب جميع الصيغ في المصنف، وتعيين إعدادات حساب الصيغة من خلال توفير استراتيجية دقيقة وما إلى ذلك، واستخدام العلامة الذكية، وتحويل المصنف من محتوى الطلب إلى تنسيق آخر، وتطبيق كلمة المرور للسماح بتعديل المحتوى.
     </p>
    </div>
    <div class="col-lg-12">
@@ -250,18 +250,18 @@ url: /ar/nodejs
 Cloud SDK لمعالجة أوراق العمل
     </h2>
     <p>
-باستخدام Aspose.Cells Cloud SDK لـ Node.js ، يمكنك حذف صف معين أو جميع الصفوف في ورقة العمل ، أو جلب بيانات خلية ورقة العمل أو نمط الخلية حسب اسم الخلية ، أو قراءة صف ورقة العمل أو بيانات العمود بواسطة فهرسها ، وحساب صيغة الخلية ، ومسح محتويات الخلية ، والنسخ خلية في خلية أخرى ، انسخ أعمدة وصفوف ورقة العمل ، وقم بتجميع صفوف وأعمدة ورقة العمل ، وقم بإخفاء صفوف وأعمدة ورقة العمل ، وقم بتعيين أنماط الصفوف والعمود في ورقة العمل ، وقم بتعيين قيمة HTMLSTRING في الخلية ، وقم بتعيين قيمة نطاق الخلية وتعديل الكثير من إعدادات ورقة العمل الأخرى.
+باستخدام Aspose.Cells Cloud SDK لـ Node.js، يمكنك حذف صف معين أو جميع الصفوف في ورقة العمل، أو جلب بيانات خلية ورقة العمل أو نمط الخلية حسب اسم الخلية، أو قراءة بيانات صف أو عمود ورقة العمل من خلال فهرسها، وحساب صيغة الخلية، ومسح محتويات الخلية، والنسخ الخلية إلى خلية أخرى، ونسخ أعمدة وصفوف ورقة العمل، وتجميع صفوف وأعمدة ورقة العمل، وإخفاء صفوف وأعمدة ورقة العمل، وتعيين عمود ورقة العمل وأنماط الصفوف، وتعيين قيمة HTMLSTRING في الخلية، وتعيين قيمة نطاق الخلية، وتعديل الكثير من إعدادات ورقة العمل الأخرى.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- الاستفادة من قوة الجداول المحورية & amp؛ نطاقات
+ الاستفادة من قوة الجداول المحورية &amp; نطاقات
     </h2>
     <p>
- Aspose.Cells Cloud SDK لـ Node.js يسمح لك بإضافة جدول محوري إلى ورقة العمل ، إضافة أو حذف الحقول المحورية في الجدول المحوري ، إضافة أو إزالة عامل التصفية المحوري لفهرس الجدول المحوري ، وتحديث نمط الخلية للجدول المحوري ، وحساب بيانات الجدول المحوري إلى الخلايا .
+ Aspose.Cells يتيح لك Cloud SDK لـ Node.js إضافة جدول محوري إلى ورقة العمل، وإضافة أو حذف الحقول المحورية في الجدول المحوري، وإضافة أو إزالة عامل التصفية المحوري لفهرس الجدول المحوري، وتحديث نمط الخلية للجدول المحوري، وحساب بيانات الجدول المحوري في الخلايا .
     </p>
     <p>
-يمكن أيضًا استخدام Aspose.Cells Cloud SDK لـ Node.js للحصول على قائمة الخلايا في نطاق حسب اسم النطاق أو فهارس أعمدة الصف ، وتعيين عرض النطاق للعمود ، ودمج نطاق من الخلايا في خلية واحدة ، ونقل النطاق الحالي إلى نطاق الوجهة ، يحدد حدود المخطط التفصيلي حول نطاق من الخلايا. ، تعيين ارتفاع الصف من النطاق ، تعيين نمط النطاق ، إلغاء دمج الخلايا المدمجة لهذا النطاق ، وضع قيمة في النطاق وتحويل نوع البيانات الخاص به ، ونسخ النطاق في ورقة العمل.
+Aspose.Cells يمكن أيضًا استخدام Cloud SDK لـ Node.js للحصول على قائمة الخلايا في نطاق حسب اسم النطاق أو فهارس أعمدة الصف، وتعيين عرض العمود للنطاق، ودمج نطاق من الخلايا في خلية واحدة، ونقل النطاق الحالي إلى النطاق الوجهة ، تعيين حدود المخطط التفصيلي حول نطاق من الخلايا. تعيين ارتفاع صف النطاق، تعيين نمط النطاق، إلغاء دمج الخلايا المدمجة لهذا النطاق، وضع قيمة في النطاق وتحويل نوع البيانات الخاص به، ونسخ النطاق في ورقة العمل.
     </p>
    </div>
   </div>
@@ -276,12 +276,12 @@ Cloud SDK لمعالجة أوراق العمل
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-node" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.cloud" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

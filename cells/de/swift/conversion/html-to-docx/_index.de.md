@@ -1,5 +1,5 @@
 ﻿---
-title:  HTML in DOCX Konvertieren Sie API für Swift
+title: HTML in DOCX Konvertieren Sie API für Swift
 description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im HTML-Format in eine DOCX-Formatdatei.
 url: /de/swift/conversion/html-to-docx/
 ---

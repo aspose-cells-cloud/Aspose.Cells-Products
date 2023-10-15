@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить JPG как ODS API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата JPG в виде файла формата ODS.
-url: /ru/php/saveas/jpg-to-ods/
+title:  Сохраните JPG как ODS, используя PHP.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата JPG как файла формата ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для сохранения JPG как ODS" h2="PHP библиотека для сохранения JPG в формате ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения JPG в формате ODS и других форматов документов в Интернете с использованием PHP." urlsection="saveas/jpg-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить JPG как ODS" h2="PHP библиотека для сохранения JPG в формате ODS" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения JPG в формате ODS и других форматов документов в Интернете с помощью PHP." urlsection="saveas/jpg-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как ODS по адресу PHP." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как ODS по номеру PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG в виде ODS — сложная задача. Все переходы из формата JPG в формат ODS выполняются с помощью нашего SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека PHP — это профессиональное решение для сохранения JPG в виде файлов ODS в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из JPG в формате ODS — сложная задача. Все переходы формата JPG в ODS выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека PHP — это профессиональное решение для сохранения файлов JPG в формате ODS онлайн. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и отличный результат ODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения JPG в формате ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения JPG в формате ODS с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/jpg-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения JPG как ODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP, чтобы сохранять файлы Excel в других форматах JPG как ODS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

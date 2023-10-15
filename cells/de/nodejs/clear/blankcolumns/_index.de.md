@@ -1,10 +1,9 @@
 ﻿---
-title:  Leere Spalten in der lokalen Arbeitsmappe in der Cloud löschen
+title:  Entfernen Sie leere Spalten aus der lokalen Arbeitsmappe mit dem Cloud SDK Cells für NodeJS.
 description: Cloud-APIs und SDKs zum Löschen leerer Spalten auf Microsoft Excel und OpenOffice Calc. Löschen Sie leere Spalten in lokalen Tabellenkalkulationen mit der Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/nodejs/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Löschen leerer Spalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="NodeJS Clear, um leere Spalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um leere Spalten in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in NodeJS zu löschen. Diese professionelle Lösung löscht leere Spalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit NodeJS." urlsection="clear/Blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Leere Spalten aus lokalen Microsoft Excel und OpenOffice Calc-Tabellen entfernen." h2="NodeJS-Bibliothek zum Entfernen leerer Spalten aus lokalen Microsoft Excel und OpenOffice Calc-Tabellen." p="Verwenden Sie Cells Clear REST API, um leere Spalten in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in NodeJS zu löschen. Diese professionelle Lösung löscht leere Spalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit NodeJS." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Leere Spalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle löschen – NodeJS REST API" >}}
@@ -18,9 +17,9 @@ Das Löschen leerer Spalten in der lokalen Microsoft Excel- und OpenOffice Calc-
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie den Knoten API zum Löschen leerer Spalten" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um leere Spalten zu löschen" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode postClearObjects auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

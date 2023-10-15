@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertera från Excel FODS till XLS via Python
+title: Konvertera från Excel FODS till XLS via Python
 description: Skapa, redigera eller konvertera Excel-filer med REST API & Open Source Python SDK
 url: /sv/python/conversion/fods-to-xls/
 family: cells

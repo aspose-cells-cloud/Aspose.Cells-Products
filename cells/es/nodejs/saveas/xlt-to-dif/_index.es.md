@@ -1,19 +1,18 @@
 ﻿---
-title:  Guardar XLT como DIF API para NodeJS
-description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato XLT como archivo de formato DIF.
-url: /es/nodejs/saveas/xlt-to-dif/
+title:  Guarde XLT como DIF usando NodeJS
+description:  Utilizando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo en formato XLT como archivo en formato DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para guardar XLT como DIF" h2="Biblioteca NodeJS para guardar XLT como DIF" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para guardar XLT como DIF y otros formatos de documentos en línea usando NodeJS." urlsection="saveas/xlt-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XLT como DIF" h2="Biblioteca NodeJS para guardar XLT como DIF" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para guardar XLT como DIF y otros formatos de documentos en línea usando NodeJS." urlsection="saveas/xlt-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XLT como DIF en NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XLT como DIF en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLT como DIF es una tarea compleja. Todas las transiciones de formato XLT a DIF se realizan mediante nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar XLT como archivos DIF en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida DIF perfecta.
+Guardar formatos de archivo de XLT como DIF es una tarea compleja. Todas las transiciones de formato XLT a DIF las realiza nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar XLT como archivos DIF en línea. Este SDK en la nube ofrece a los desarrolladores de NodeJS una potente funcionalidad y una salida DIF perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para guardar XLT como formato DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código NodeJS para guardar XLT como DIF usando REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ Guardar formatos de archivo de XLT como DIF es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el nodo API para guardar XLT como DIF" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar Cells Cloud SDK para Node para guardar archivos Excel como otros formatos XLT como DIF" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>nodo v6.17.1 o posterior</li>
+<li>nodo v6.17.1 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

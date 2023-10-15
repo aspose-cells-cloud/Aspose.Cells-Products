@@ -1,19 +1,18 @@
 ﻿---
-title:  XML in PDF Converti API per Go
-description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XML nel file in formato PDF.
-url: /it/go/conversion/xml-to-pdf/
+title:  Converti XML in PDF utilizzando Go
+description:  Utilizzando Aspose.Cells Cloud SDK for Go per convertire un file in formato XML in un file in formato PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per convertire XML in PDF" h2="Vai alla libreria per convertire XML in PDF" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Go. Questa è una soluzione professionale per convertire XML in PDF e altri formati di documenti online utilizzando Go." urlsection="conversion/xml-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti XML in PDF" h2="Vai alla libreria per convertire XML in PDF" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Go. Questa è una soluzione professionale per convertire XML in PDF e altri formati di documenti online utilizzando Go." urlsection="conversion/xml-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XML in PDF in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti XML in PDF utilizzando Cells Cloud SDK per Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XML a PDF è un'attività complessa. Tutte le transizioni di formato da XML a PDF vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XML di origine. La nostra libreria Go è una soluzione professionale per convertire i file XML in PDF online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output PDF perfetto.
+La conversione dei formati di file da XML a PDF può essere un compito complesso. Il nostro Go SDK gestisce tutte le conversioni del formato XML nel formato PDF preservando il contenuto strutturale e logico principale del foglio di calcolo XML di origine. La nostra libreria Go fornisce una soluzione professionale per convertire file XML in PDF online. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e garantisce un output PDF di alta qualità.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per convertire XML nel formato PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio Go Code per convertire XML in PDF utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +47,10 @@ La conversione dei formati di file da XML a PDF è un'attività complessa. Tutte
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per convertire XML in PDF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo CellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per convertire i file Excel in altri formati XML in PDF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

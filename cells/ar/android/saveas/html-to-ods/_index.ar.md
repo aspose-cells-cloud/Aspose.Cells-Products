@@ -1,19 +1,18 @@
 ﻿---
-title: احفظ HTML كـ ODS API لنظام Android
-description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق HTML كملف بتنسيق ODS.
-url: /ar/android/saveas/html-to-ods/
+title:  احفظ HTML كملف ODS باستخدام Android
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق HTML كملف بتنسيق ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ HTML كـ ODS" h2="مكتبة Android لحفظ HTML كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ HTML كـ ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/html-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ HTML كمواد مستنفدة للأوزون" h2="مكتبة Android لحفظ HTML كمواد مستنفدة للأوزون" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ HTML كملف ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/html-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML كملف ODS في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من HTML مثل ODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى ODS بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ HTML كملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج ODS مثالي.
+يعد حفظ تنسيقات الملفات من HTML كملف ODS مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق HTML إلى ODS بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ HTML كملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات ODS مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ HTML كتنسيق ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لحفظ HTML كملف ODS باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ url: /ar/android/saveas/html-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ HTML كـ ODS" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ Excel ملفًا بتنسيقات أخرى HTML كملف ODS" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

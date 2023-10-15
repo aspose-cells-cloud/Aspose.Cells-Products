@@ -1,16 +1,16 @@
 ﻿---
-title:  Преобразование GIF в SXC API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата SXC.
+title:  Конвертировать GIF в SXC API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата SXC.
 url: /ru/swift/conversion/gif-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования GIF в SXC" h2="Библиотека Swift для преобразования GIF в SXC" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования GIF в SXC и другие форматы документов онлайн с использованием Swift." urlsection="conversion/gif-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации GIF в SXC" h2="Библиотека Swift для преобразования GIF в SXC" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для конвертации GIF в SXC и другие форматы документов онлайн с помощью Swift." urlsection="conversion/gif-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в SXC в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл GIF в SXC в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в SXC — сложная задача. Все переходы формата GIF в формат SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов GIF в SXC. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод SXC.
+Преобразование форматов файлов из GIF в SXC — сложная задача. Все переходы формата GIF в SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации GIF в файлы SXC. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования GIF в формат SXC" gistPath="" %}}
@@ -65,10 +65,10 @@ url: /ru/swift/conversion/gif-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования GIF в SXC" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для конвертации GIF в SXC" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

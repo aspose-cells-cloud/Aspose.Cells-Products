@@ -1,32 +1,32 @@
 ﻿---
-title:  Crear y modificar Excel hojas de cálculo en la nube (Java REST SDK)
-description:  Use los comandos cURL para crear aplicaciones de creación y conversión de hojas de cálculo que accedan a archivos Microsoft Excel y OpenOffice desde el almacenamiento en la nube para su procesamiento
+title:  Crear y modificar hojas de cálculo Excel en la nube (Java REST SDK)
+description:  Utilice los comandos cURL para crear aplicaciones de creación y conversión de hojas de cálculo que accedan a archivos Microsoft Excel y OpenOffice desde el almacenamiento en la nube para su procesamiento.
 weight: 60
 url: /es/java
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java SDK para crear y modificar Excel Archivos via REST API" h2="Proporciona una integración perfecta de las funciones de procesamiento de hojas de cálculo Excel y OpenOffice en aplicaciones Java basadas en la nube." logoImageSrc="/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java SDK para crear y modificar Excel archivos via REST API" h2="Proporciona una integración perfecta de las funciones de procesamiento de hojas de cálculo de Excel y OpenOffice en aplicaciones Java basadas en la nube." logoImageSrc="/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-java.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-java" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Permite que su programa Java cree un libro de trabajo Excel a partir de una plantilla de marcador inteligente. Combine, divida, cifre, descifre y aplique la contraseña a los libros de trabajo Excel en la nube. Calcule todas las fórmulas en un libro de trabajo usando el SDK de nube fácil Java código via.</p>
-<p>Usando Aspose.Cells Cloud SDK for Java, podría extraer códigos de barras de la imagen de la hoja de trabajo usando instrucciones simples Java, aplicar varios tipos de filtros (filtro de fecha, filtro dinámico de icono) en una hoja de trabajo, trabajar con todas o filas, columnas y celdas individuales en una hoja de trabajo</p>
-<p>También puede trabajar con gráficos Microsoft Excel, formato condicional, hipervínculos, ListObjets, OleObjects, saltos de página, configuración de página, imágenes, tablas dinámicas y administración de carpetas y archivos en la nube.</p>
+<p>Permite que su programa Java cree un libro de trabajo Excel a partir de una plantilla de marcador inteligente. Fusione, divida, cifre, descifre y aplique contraseña a Excel libros de trabajo en la nube. Calcule todas las fórmulas en un libro de trabajo utilizando el sencillo SDK en la nube del código Java via.</p>
+<p>Con Aspose.Cells Cloud SDK for Java, podrá extraer códigos de barras de la imagen de la hoja de trabajo usando instrucciones simples Java, aplicar varios tipos de filtros (filtro de fecha, filtro dinámico de filtro de íconos) en una hoja de trabajo, trabajar con todas o individualmente filas, columnas y celdas en una hoja de trabajo.</p>
+<p>También puede trabajar con Microsoft Excel gráficos, formato condicional, hipervínculos, ListObjets, OleObjects, saltos de página, configuración de página, imágenes, tablas dinámicas y administración de archivos y carpetas en la nube.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="de un vistazo" description="Aspose.Cells Cloud puede realizar todas las tareas de manipulación de hojas de cálculo." >}}
+{{< blocks/products/pf/carousel-item h3="De un vistazo" description="Aspose.Cells Cloud puede realizar todas las tareas de manipulación de hojas de cálculo." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa fa-table"> </i>Descripción general</header><ul><li>trabajar con tablas</li>
-<li>trabajar con celdas</li>
+<li>trabajar con celulas</li>
 <li>Trabajar con gráficos</li>
 <li>Trabajar con hipervínculos</li>
 <li>Trabajar con tablas dinámicas</li>
@@ -46,12 +46,12 @@ url: /es/java
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> De entrada y salida</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Oficina abierta:</b> SAO</li>
 <li><b>Hoja de cálculoML:</b> XML</li>
-<li><b>Texto:</b> CSV, TSV, TXT (separado por tabuladores)</li>
-<li><b>Web:</b> HTML, MHTML</li>
+<li><b>Texto:</b> CSV, TSV, TXT (delimitado por tabulaciones)</li>
+<li><b>Web:</b> HTML, HTML</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Solo entrada</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Solo salida</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Rebaja)</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Sólo entrada</header><ul><li>SXC, FODS</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> Sólo salida</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Rebaja)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -61,7 +61,7 @@ url: /es/java
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Independencia de la plataforma" description="Aspose.Cells Cloud es compatible con las principales plataformas y lenguajes de programación." >}}
+{{< blocks/products/pf/carousel-item h3="Independencia de plataforma" description="Aspose.Cells Cloud es compatible con todas las principales plataformas y lenguajes de programación." >}}
 <img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -75,7 +75,7 @@ url: /es/java
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Funciones avanzadas del SDK de hoja de cálculo Excel
+ Funciones avanzadas del SDK de nube de hoja de cálculo Excel
    </h2>
    <p>
    </p>
@@ -90,7 +90,7 @@ url: /es/java
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Soporte para múltiples tipos de filtros de lista
+ Soporte para múltiples tipos de filtros de lista.
     </p>
    </div>
    <div class="col-lg-4">
@@ -111,7 +111,7 @@ url: /es/java
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Obtenga, actualice, muestre u oculte la leyenda del gráfico
+ Obtener, actualizar, mostrar u ocultar la leyenda del gráfico
     </p>
    </div>
    <div class="col-lg-4">
@@ -125,14 +125,14 @@ url: /es/java
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar o eliminar un área de celda para el formato condicional
+ Agregar o eliminar un área de celda para formato condicional
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar, actualizar y eliminar hipervínculos de hojas de trabajo
+ Agregar, actualizar y eliminar hipervínculos de hojas de cálculo
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ url: /es/java
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Resumir datos de ListObject o Table grandes con Pivot Table
+ Resumir datos de ListObject o tabla grande con tabla dinámica
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,35 +174,35 @@ Resumir datos de ListObject o Table grandes con Pivot Table
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Eliminar OleObjects específicos o todos de la hoja de trabajo
+Eliminar OleObjects específicos o todos de la hoja de trabajo
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Insertar o eliminar, saltos de página horizontales o verticales
+ Insertar o eliminar saltos de página horizontales o verticales
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipular configuración de página, encabezado y amp; pie de página
+ Manipular la configuración de la página, el encabezado y el contenido. pie de página
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregue, actualice, obtenga o elimine imágenes de la hoja de trabajo
+ Agregar, actualizar, recuperar o eliminar imágenes de hojas de trabajo
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crear, actualizar, buscar o eliminar propiedades de documentos
+ Crear, actualizar, recuperar o eliminar propiedades del documento
     </p>
    </div>
    <div class="col-lg-4">
@@ -216,7 +216,7 @@ Resumir datos de ListObject o Table grandes con Pivot Table
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar, actualizar o eliminar formas de una hoja de cálculo
+ Agregar, actualizar o eliminar formas de una hoja de trabajo
     </p>
    </div>
    <div class="col-lg-4">
@@ -228,41 +228,41 @@ Resumir datos de ListObject o Table grandes con Pivot Table
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Comience con Excel SDK de procesamiento de hojas de cálculo
+ Comience con el SDK de procesamiento de hojas de cálculo Excel
     </h2>
     <p>
- Para comenzar con Aspose.Cells Cloud SDK for Java, no necesita instalar nada. Todo lo que necesita hacer es crear una cuenta en
+ Para comenzar con Aspose.Cells Cloud SDK for Java, no necesita instalar nada. Todo lo que necesitas hacer es crear una cuenta en
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose para la nube
      </a>
- obtenga la información de su solicitud. Una vez que tenga el SID de la aplicación &amp; key, está listo para usar Aspose.Cells Cloud SDK for Java en cualquier plataforma que admita API REST. Aspose.Cells Cloud SDK for Java le brinda todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
+ obtenga la información de su solicitud. Una vez que tenga la aplicación SID &amp; clave, está listo para usar Aspose.Cells Cloud SDK for Java en cualquier plataforma que admita API REST. Aspose.Cells Cloud SDK for Java le proporciona todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Procesamiento de libros de trabajo via Cloud SDK
+ Procesamiento de libros de trabajo via SDK de nube
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Java le permite crear, dividir, fusionar, buscar y reemplazar texto, proteger con contraseña, exportar a formato de archivo compatible, leer elementos de texto del libro de trabajo, ajustar automáticamente las filas del libro de trabajo ignorando los elementos ocultos, cifrar la contraseña del libro de trabajo y proporcionar la longitud de la clave de cifrado , importe datos al libro de trabajo, calcule todas las fórmulas en el libro de trabajo, establezca la configuración de cálculo de fórmula proporcionando una estrategia de precisión, etc., use un marcador inteligente, convierta el libro de trabajo del contenido de la solicitud a otro formato, aplique una contraseña para permitir la modificación del contenido.
+ Aspose.Cells Cloud SDK for Java le permite crear, dividir, fusionar, buscar y reemplazar texto, proteger con contraseña, exportar a formato de archivo compatible, leer elementos de texto del libro, ajustar automáticamente las filas del libro mientras se ignoran los elementos ocultos, cifrar la contraseña del libro y proporcionar la longitud de la clave de cifrado. , importe datos al libro de trabajo, calcule todas las fórmulas en el libro de trabajo, establezca la configuración de cálculo de fórmulas proporcionando una estrategia de precisión, etc., use un marcador inteligente, convierta el libro de trabajo del contenido solicitado a otro formato, aplique una contraseña para permitir la modificación del contenido.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Cloud SDK para procesar hojas de trabajo
+SDK de nube para procesar hojas de trabajo
     </h2>
     <p>
-Con Aspose.Cells Cloud SDK for Java, puede eliminar una fila específica o todas las filas de la hoja de trabajo, obtener datos de celda de la hoja de trabajo o estilo de celda por nombre de celda, leer datos de fila o columna de la hoja de trabajo por su índice, calcular fórmula de celda, borrar contenido de celda, copiar celda en otra celda, copiar columnas y filas de la hoja de trabajo, agrupar filas y columnas de la hoja de trabajo, ocultar filas y columnas de la hoja de trabajo, establecer estilos de columna y fila de la hoja de trabajo, establecer el valor HTMLSTRING en la celda, establecer el valor del rango de celda y modificar muchas otras configuraciones de la hoja de trabajo.
+Con Aspose.Cells Cloud SDK for Java puede eliminar una fila específica o todas las filas de la hoja de trabajo, obtener datos de celda de la hoja de trabajo o estilo de celda por el nombre de la celda, leer datos de fila o columna de la hoja de trabajo por su índice, calcular la fórmula de la celda, borrar el contenido de la celda, copiar la celda en otra celda, copiar columnas y filas de la hoja de trabajo, agrupar filas y columnas de la hoja de trabajo, ocultar filas y columnas de la hoja de trabajo, establecer estilos de columnas y filas de la hoja de trabajo, establecer el valor HTMLSTRING en la celda, establecer el valor del rango de celdas y modificar muchas otras configuraciones de la hoja de trabajo.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Aproveche el poder de Pivot Tables &amp; Rangos
+ Aproveche el poder de las tablas dinámicas y las tablas dinámicas. Rangos
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Java le permite agregar una tabla dinámica en la hoja de trabajo, agregar o eliminar campos dinámicos en la tabla dinámica, agregar o eliminar el filtro dinámico para el índice de la tabla dinámica, actualizar el estilo de celda para la tabla dinámica y calcular los datos de la tabla dinámica en las celdas.
+ Aspose.Cells Cloud SDK for Java le permite agregar una tabla dinámica a la hoja de trabajo, agregar o eliminar campos dinámicos en la tabla dinámica, agregar o eliminar un filtro dinámico para el índice de la tabla dinámica, actualizar el estilo de celda para la tabla dinámica y calcular los datos de la tabla dinámica en las celdas.
     </p>
     <p>
-Aspose.Cells Cloud SDK for Java también se puede usar para obtener una lista de celdas en un rango por nombre de rango o índices de columna de fila, establecer el ancho de columna del rango, combinar un rango de celdas en una sola celda, mover el rango actual al rango de destino, establecer el contorno borde alrededor de un rango de celdas, establezca la altura de la fila del rango, establezca el estilo del rango, deshaga las celdas combinadas de este rango, coloque un valor en el rango y convierta su tipo de datos, y copie el rango en la hoja de trabajo.
+Aspose.Cells Cloud SDK for Java también se puede usar para obtener una lista de celdas en un rango por nombre de rango o índices de columna de fila, establecer el ancho de columna del rango, combinar un rango de celdas en una sola celda, mover el rango actual al rango de destino, establecer el esquema borde alrededor de un rango de celdas, establezca la altura de la fila del rango, establezca el estilo del rango, separe las celdas fusionadas de este rango, coloque un valor en el rango y convierta su tipo de datos, y copie el rango en la hoja de trabajo.
     </p>
    </div>
   </div>
@@ -286,7 +286,7 @@ Aspose.Cells Cloud SDK for Java también se puede usar para obtener una lista de
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells SDK de la nube for Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells SDK de nube for Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Seguridad" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

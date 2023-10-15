@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva XLTM come PDF API for Java
-description:  Utilizzo di Aspose.Cells Cloud SDK for Java per salvare il file in formato XLTM come file in formato PDF.
-url: /it/java/saveas/xltm-to-pdf/
+title:  Salva XLTM come PDF utilizzando Java
+description: Utilizzando Aspose.Cells Cloud SDK for Java per salvare il file in formato XLTM come file in formato PDF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per salvare XLTM come PDF" h2="Java libreria per salvare XLTM come PDF" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Java. Questa è una soluzione professionale per salvare XLTM come PDF e altri formati di documenti online utilizzando Java." urlsection="saveas/xltm-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLTM come PDF" h2="Libreria Java per salvare XLTM come PDF" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Java. Si tratta di una soluzione professionale per salvare XLTM come PDF e altri formati di documenti online utilizzando Java." urlsection="saveas/xltm-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLTM come PDF in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLTM come PDF è un compito complesso. Tutte le transizioni di formato da XLTM a PDF vengono eseguite dal nostro SDK Java mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTM di origine. La nostra libreria Java è una soluzione professionale per salvare file XLTM come PDF online. Questo Cloud SDK offre agli sviluppatori Java potenti funzionalità e un output PDF perfetto.
+Salvare i formati di file da XLTM come PDF è un compito complesso. Tutte le transizioni dal formato XLTM al formato PDF vengono eseguite dal nostro SDK Java mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTM di origine. La nostra libreria Java è una soluzione professionale per salvare online XLTM come file PDF. Questo Cloud SDK offre agli sviluppatori Java funzionalità potenti e un output PDF perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Java utilizzando REST API per salvare XLTM come formato PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codice Esempio per salvare XLTM come PDF utilizzando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,16 +34,16 @@ Salvare i formati di file da XLTM come PDF è un compito complesso. Tutte le tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Java API per salvare XLTM come PDF" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Java per salvare i file Excel in altri formati XLTM come PDF" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>Maven 2.2.0 o più recente</li>
-<li>Java(TM) SE Ambiente di runtime</li>
+<li>Maven 2.2.0 o successiva</li>
+<li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

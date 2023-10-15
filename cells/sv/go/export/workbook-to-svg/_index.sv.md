@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera ARBETSBOK till SVG från kalkylark med Go API
+title:  Exportera ARBETSBOK till SVG från Excel med Cells Cloud SDK for Go
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/go/export/workbook-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att exportera ARBETSBOK till filen SVG" h2="Gå till biblioteket för att exportera ARBETSBOK till filen SVG" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylark i Go. Detta är en professionell lösning för att exportera ARBETSBOK till filformatet SVG från kalkylblad online med Go." urlsection="export/workbook-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBOK till SVG från Excel" h2="Gå till biblioteket för att exportera WORKBOOK till filen SVG" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i Go. Detta är en professionell lösning för att exportera ARBETSBOK till filformatet SVG från kalkylblad online med Go." urlsection="export/workbook-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till filformatet SVG i Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till filformatet SVG med Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKBOOK-objekt till SVG-fil från kalkylblad är en komplex uppgift. Exportera WORKBOOK till SVG formatövergångar utförs av vår Go SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till filer i SVG-format online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt SVG-utgång.
+Exportera WORKBOOK-objekt till filen SVG från filen Excel är en komplex uppgift. Exportera WORKBOOK till SVG formatövergångar utförs av vår Go SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Go-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till filer i SVG-format online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och perfekt SVG-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Go med REST API för att exportera ARBETSBOK till SVG-format från kalkylblad" gistPath="" %}}
@@ -56,10 +55,10 @@ Exportera WORKBOOK-objekt till SVG-fil från kalkylblad är en komplex uppgift. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Go API för att exportera ARBETSBOK till SVG" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring PostExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Gå till exportobjekt från Excel ARBETSBOK till SVG" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

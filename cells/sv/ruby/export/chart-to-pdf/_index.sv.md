@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportera CHART till PDF från kalkylblad med Ruby API
+title:  Exportera CHART till PDF från Excel med Cells Cloud SDK för Ruby
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/ruby/export/chart-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att exportera CHART till PDF fil" h2="Ruby-bibliotek för att exportera CHART till PDF-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för interna objekt i kalkylark i Ruby. Detta är en professionell lösning för att exportera CHART till PDF filformat från kalkylblad online med Ruby." urlsection="export/chart-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera CHART till PDF från Excel" h2="Ruby-bibliotek för att exportera CHART till PDF-fil" p="Använd Exportera API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Ruby. Detta är en professionell lösning för att exportera CHART till PDF filformat från kalkylblad online med Ruby." urlsection="export/chart-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera CHART-objekt till PDF-formatfil i Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera CHART-objekt till filformatet PDF med Cells Cloud SDK för Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera CHART-objekt till PDF-fil från kalkylblad är en komplex uppgift. Exportera CHART till PDF formatövergångar utförs av vår Ruby SDK samtidigt som källdiagrammets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att exportera CHART-objekt till filer i PDF-format online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt PDF-utgång.
+Exportera CHART-objekt till filen PDF från filen Excel är en komplex uppgift. Exportera CHART till PDF formatövergångar utförs av vår Ruby SDK samtidigt som källdiagrammets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att exportera CHART-objekt till filer i PDF-format online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt PDF-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att exportera CHART till PDF-format från kalkylblad" gistPath="" %}}
@@ -35,9 +34,9 @@ Exportera CHART-objekt till PDF-fil från kalkylblad är en komplex uppgift. Exp
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Ruby API för att exportera CHART till PDF" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att exportera objekt från Excel CHART till PDF" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop post_export-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till SQL Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i BMP-format till fil i SQL-format.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i BMP-format till fil i SQL-format.
 url: /sv/swift/conversion/bmp-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

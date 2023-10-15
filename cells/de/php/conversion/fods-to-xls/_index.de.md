@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie FODS in XLS in der Cloud via PHP
+title: Konvertieren Sie FODS in XLS in der Cloud via PHP
 description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API und Open Source PHP SDK
 url: /de/php/conversion/fods-to-xls/
 family: cells

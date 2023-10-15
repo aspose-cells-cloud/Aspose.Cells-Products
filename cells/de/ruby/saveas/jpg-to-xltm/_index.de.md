@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie JPG als XLTM API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern von JPG-Formatdateien als XLTM-Formatdateien.
-url: /de/ruby/saveas/jpg-to-xltm/
+title:  Speichern Sie JPG als XLTM mit Ruby
+description:  Verwendung von Aspose.Cells Cloud SDK für Ruby zum Speichern von JPG-Formatdateien als XLTM-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um JPG als XLTM zu speichern" h2="Ruby-Bibliothek zum Speichern von JPG als XLTM" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um JPG als XLTM und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/jpg-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG als XLTM speichern" h2="Ruby-Bibliothek zum Speichern von JPG als XLTM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um JPG als XLTM und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/jpg-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei als XLTM in Ruby" >}}
@@ -13,7 +12,7 @@ url: /de/ruby/saveas/jpg-to-xltm/
 Das Speichern von Dateiformaten von JPG als XLTM ist eine komplexe Aufgabe. Alle Übergänge von JPG ins XLTM-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um JPG als XLTM-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XLTM-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von JPG im XLTM-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby-Codebeispiel zum Speichern von JPG als XLTM mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,10 +32,10 @@ Das Speichern von Dateiformaten von JPG als XLTM ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um JPG als XLTM zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Excel-Dateien in anderen Formaten wie JPG und XLTM zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

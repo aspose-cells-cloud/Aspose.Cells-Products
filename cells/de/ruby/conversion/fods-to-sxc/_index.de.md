@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren von Excel FODS zu SXC via Ruby
+title: Konvertieren von Excel FODS zu SXC via Ruby
 description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API und Open Source Ruby SDK
 url: /de/ruby/conversion/fods-to-sxc/
 family: cells
@@ -23,7 +23,7 @@ otherformats: XLSB SVG TIFF PDF XPS DIF XLSM XLTM ODS MHTML TSV CSV XML FODS MD 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit Excel API und Ruby SDK" %}}
- Holen Sie sich den Quellcode Excel Cloud SDK für Ruby von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
+Holen Sie sich den Quellcode Excel Cloud SDK für Ruby von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
 
  Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

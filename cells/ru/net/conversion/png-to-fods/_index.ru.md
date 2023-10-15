@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG в FODS Преобразование API в C#
-description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата PNG в файл формата FODS.
-url: /ru/net/conversion/png-to-fods/
+title:  Преобразуйте PNG в FODS, используя C#.
+description:  Использование Cloud SDK Aspose.Cells для C# для преобразования файла формата PNG в файл формата FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования PNG в FODS" h2="библиотека C# для преобразования PNG в FODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования PNG в FODS и другие форматы документов онлайн с помощью C#." urlsection="conversion/png-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать PNG в FODS" h2="C# библиотека для конвертации PNG в FODS" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Net. Это профессиональное решение для онлайн-конвертации PNG в FODS и другие форматы документов с помощью C#." urlsection="conversion/png-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в FODS в C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте PNG в FODS с помощью Cloud SDK Cells для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в FODS — сложная задача. Все переходы формата PNG в формат FODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для онлайн-конвертации PNG в файлы FODS. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и отличные результаты FODS.
+Преобразование форматов файлов из PNG в FODS может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования формата PNG в формат FODS, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертации PNG в файлы FODS. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод FODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования PNG в формат FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для преобразования PNG в FODS с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ url: /ru/net/conversion/png-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для преобразования PNG в FODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Net для преобразования файлов Excel в другие форматы PNG в FODS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

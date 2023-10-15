@@ -1,19 +1,18 @@
 ﻿---
-title:  XLS till PPTX Konvertera API för Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera XLS-formatfil till PPTX-formatfil.
-url: /sv/perl/conversion/xls-to-pptx/
+title:  Konvertera XLS till PPTX med Perl
+description: Använda Aspose.Cells Cloud SDK för Perl för att konvertera en fil i XLS-format till en fil i PPTX-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att konvertera XLS till PPTX" h2="Perl bibliotek för att konvertera XLS till PPTX" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att konvertera XLS till PPTX och andra dokumentformat online med Perl." urlsection="conversion/xls-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLS till PPTX" h2="Perl bibliotek för att konvertera XLS till PPTX" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl projekt. Detta är en professionell lösning för att konvertera XLS till PPTX och andra dokumentformat online med Perl." urlsection="conversion/xls-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLS-fil till PPTX i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLS till PPTX med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLS till PPTX är en komplex uppgift. Alla XLS- till PPTX-formatövergångar utförs av vår Perl SDK samtidigt som käll-XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att konvertera XLS till PPTX-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt PPTX-utgång.
+Att konvertera filformat från XLS till PPTX kan vara en komplex uppgift. Vår Perl SDK hanterar alla XLS- till PPTX-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-XLS-kalkylarket bevaras. Vårt Perl-bibliotek erbjuder en professionell lösning för att konvertera XLS till PPTX-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och säkerställer högkvalitativ PPTX-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att konvertera XLS till PPTX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kodexempel för att konvertera XLS till PPTX med Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Att konvertera filformat från XLS till PPTX är en komplex uppgift. Alla XLS- t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att konvertera XLS till PPTX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl SDK för att konvertera XLS till PPTX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

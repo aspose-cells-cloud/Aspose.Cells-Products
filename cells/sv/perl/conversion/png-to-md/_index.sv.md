@@ -1,19 +1,18 @@
 ﻿---
-title:  PNG till MD Konvertera API till Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i PNG-format till fil i MD-format.
-url: /sv/perl/conversion/png-to-md/
+title:  Konvertera PNG till MD med Perl
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera en fil i PNG-format till en fil i MD-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att konvertera PNG till MD" h2="Perl bibliotek för att konvertera PNG till MD" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att konvertera PNG till MD och andra dokumentformat online med Perl." urlsection="conversion/png-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera PNG till MD" h2="Perl bibliotek för att konvertera PNG till MD" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl projekt. Detta är en professionell lösning för att konvertera PNG till MD och andra dokumentformat online med Perl." urlsection="conversion/png-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en PNG-fil till MD i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera PNG till MD med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från PNG till MD är en komplex uppgift. Alla formatövergångar från PNG till MD utförs av vår Perl SDK samtidigt som källbladets PNG kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att konvertera PNG till MD-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt MD-utgång.
+Att konvertera filformat från PNG till MD kan vara en komplicerad uppgift. Vår Perl SDK hanterar alla PNG till MD-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket PNG bevaras. Vårt Perl-bibliotek tillhandahåller en professionell lösning för att konvertera PNG till MD-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och säkerställer högkvalitativa MD-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att konvertera PNG till MD-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kod Exempel för att konvertera PNG till MD med Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Att konvertera filformat från PNG till MD är en komplex uppgift. Alla formatö
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att konvertera PNG till MD" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl SDK för att konvertera PNG till MD" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,7 +1,6 @@
 ﻿---
 title:  Fügen Sie ein Wasserzeichen für die lokale Arbeitsmappe mit C# in der Cloud hinzu
 description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit C#. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für C#.
-url: /de/net/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Hinzufügen eines Wasserzeichens für lokale Microsoft Excel und OpenOffice Calc-Tabellen" h2="C#-Bibliothek zum Hinzufügen von Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellen" p="Verwenden Sie Cells Watermark REST API, um Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in C# hinzuzufügen. Diese professionelle Lösung fügt Wasserzeichen für Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows online unter C# hinzu." urlsection="background/Add-watermark/" >}}
@@ -18,7 +17,7 @@ Das Hinzufügen eines Wasserzeichens für eine lokale Tabelle mit C# ist eine ko
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API zum Hinzufügen eines Wasserzeichens" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um einer Excel-Datei ein Wasserzeichen hinzuzufügen." >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostWatermark-Methode auf, um den resultierenden Stream abzurufen</li>

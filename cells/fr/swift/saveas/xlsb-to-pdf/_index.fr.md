@@ -1,16 +1,16 @@
 ﻿---
-title:  Enregistrez XLSB sous PDF API pour Swift
+title:  Enregistrer XLSB sous PDF API pour Swift
 description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format XLSB en tant que fichier au format PDF.
 url: /fr/swift/saveas/xlsb-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLSB sous PDF" h2="Bibliothèque Swift pour enregistrer XLSB sous PDF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB sous le numéro PDF et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlsb-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLSB sous PDF" h2="Bibliothèque Swift pour enregistrer XLSB sous PDF" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB sous le numéro PDF et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlsb-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSB sous PDF dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichier à partir de XLSB sous le nom PDF est une tâche complexe. Toutes les transitions de format XLSB vers PDF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne les fichiers XLSB sous le format PDF. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PDF parfaite.
+L'enregistrement des formats de fichiers XLSB sous le nom PDF est une tâche complexe. Toutes les transitions du format XLSB vers PDF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer XLSB sous forme de fichiers PDF en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PDF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer XLSB au format PDF" gistPath="" %}}
@@ -56,8 +56,8 @@ L'enregistrement des formats de fichier à partir de XLSB sous le nom PDF est un
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer XLSB sous PDF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

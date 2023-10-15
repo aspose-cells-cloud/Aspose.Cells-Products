@@ -1,10 +1,9 @@
 ﻿---
-title:  GIF unter PNG API for Java speichern
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern der GIF-Formatdatei als PNG-Formatdatei.
-url: /de/java/saveas/gif-to-png/
+title:  Speichern Sie GIF unter PNG mit Java
+description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Speichern der GIF-Formatdatei als PNG-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um GIF als PNG zu speichern" h2="Java-Bibliothek zum Speichern von GIF unter PNG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um GIF als PNG und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/gif-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF unter PNG speichern" h2="Java-Bibliothek zum Speichern von GIF unter PNG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um GIF als PNG und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/gif-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei unter PNG in Java" >}}
@@ -13,7 +12,7 @@ url: /de/java/saveas/gif-to-png/
 Das Speichern von GIF-Dateiformaten als PNG ist eine komplexe Aufgabe. Alle GIF-Formatübergänge in das PNG-Format werden von unserem Java-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um GIF als PNG-Dateien online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von GIF im PNG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel zum Speichern von GIF als PNG mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Das Speichern von GIF-Dateiformaten als PNG ist eine komplexe Aufgabe. Alle GIF-
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um GIF als PNG zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Excel-Dateien in anderen GIF-Formaten als PNG zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

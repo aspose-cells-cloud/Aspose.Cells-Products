@@ -1,19 +1,18 @@
 ﻿---
-title:  TSV a CSV Convertir API para PHP
-description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato TSV a un archivo de formato CSV.
-url: /es/php/conversion/tsv-to-csv/
+title:  Convierta TSV a CSV usando PHP
+description: Utilizar el SDK de la nube Aspose.Cells para PHP para convertir un archivo en formato TSV a un archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir TSV a CSV" h2="PHP biblioteca para convertir TSV a CSV" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir TSV a CSV y otros formatos de documentos en línea usando PHP." urlsection="conversion/tsv-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir TSV a CSV" h2="Biblioteca PHP para convertir TSV a CSV" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en PHP proyectos. Esta es una solución profesional para convertir TSV a CSV y otros formatos de documentos en línea usando PHP." urlsection="conversion/tsv-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo TSV a CSV en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta TSV a CSV usando Cells Cloud SDK para PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de TSV a CSV es una tarea compleja. Todas las transiciones de formato TSV a CSV se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TSV de origen. Nuestra biblioteca PHP es una solución profesional para convertir archivos TSV a CSV en línea. Este SDK de Cloud brinda a los desarrolladores de PHP una funcionalidad poderosa y una salida CSV perfecta.
+Convertir formatos de archivo de TSV a CSV puede ser una tarea compleja. Nuestro SDK PHP maneja todas las conversiones de formato TSV a CSV y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo TSV de origen. Nuestra biblioteca PHP proporciona una solución profesional para convertir archivos TSV a CSV en línea. Este SDK de nube brinda a los desarrolladores de PHP una potente funcionalidad y garantiza una salida CSV de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para convertir TSV a formato CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Ejemplo de código para convertir TSV a CSV usando Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Convertir formatos de archivo de TSV a CSV es una tarea compleja. Todas las tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar PHP API para convertir TSV a CSV" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellsWorkbookPutConvertWorkBook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para convertir archivos Excel a otros formatos TSV a CSV" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `putConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  XLT a FODS Convertir API para PHP
-description: Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XLT a un archivo de formato FODS.
-url: /es/php/conversion/xlt-to-fods/
+title:  Convierta XLT a FODS usando PHP
+description:  Utilizar el SDK de la nube Aspose.Cells para PHP para convertir un archivo de formato XLT a un archivo de formato FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLT a FODS" h2="PHP biblioteca para convertir XLT a FODS" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLT a FODS y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlt-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLT a FODS" h2="Biblioteca PHP para convertir XLT a FODS" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en PHP proyectos. Esta es una solución profesional para convertir XLT a FODS y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlt-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLT a FODS en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLT a FODS usando Cells Cloud SDK para PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLT a FODS es una tarea compleja. Todas las transiciones de formato XLT a FODS se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca PHP es una solución profesional para convertir archivos XLT a FODS en línea. Este SDK de la nube brinda a los desarrolladores de PHP una funcionalidad poderosa y una salida FODS perfecta.
+Convertir formatos de archivo de XLT a FODS puede ser una tarea compleja. Nuestro SDK PHP maneja todas las conversiones de formato XLT a FODS al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca PHP proporciona una solución profesional para convertir archivos XLT a FODS en línea. Este SDK de nube brinda a los desarrolladores PHP una potente funcionalidad y garantiza resultados FODS de alta calidad.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para convertir XLT a formato FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Ejemplo de código para convertir XLT a FODS usando Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ Convertir formatos de archivo de XLT a FODS es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar PHP API para convertir XLT a FODS" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellsWorkbookPutConvertWorkBook para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para convertir archivos Excel a otros formatos XLT a FODS" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `putConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

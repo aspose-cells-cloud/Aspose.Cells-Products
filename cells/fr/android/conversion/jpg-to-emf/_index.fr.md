@@ -1,19 +1,18 @@
 ﻿---
-title:  JPG en EMF Convertir API pour Android
-description:  Utiliser Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format JPG en fichier au format EMF.
-url: /fr/android/conversion/jpg-to-emf/
+title:  Convertir JPG en EMF avec Android
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format JPG en fichier au format EMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour convertir JPG en EMF" h2="Bibliothèque Android pour convertir JPG en EMF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour convertir JPG en EMF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/jpg-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir JPG en EMF" h2="Bibliothèque Android pour convertir JPG en EMF" p="Utilisez la conversion API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans des projets Android. Il s\'agit d\'une solution professionnelle pour convertir JPG en EMF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/jpg-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier JPG en EMF sous Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez JPG en EMF à l\'aide du SDK Cloud Cells pour Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de JPG en EMF est une tâche complexe. Toutes les transitions de format JPG vers EMF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Android est une solution professionnelle pour convertir des fichiers JPG en EMF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie EMF parfaite.
+La conversion des formats de fichiers JPG en EMF peut être une tâche complexe. Notre SDK Android gère toutes les conversions du format JPG au format EMF tout en préservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Android fournit une solution professionnelle pour convertir en ligne des fichiers JPG en fichiers EMF. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et garantit une sortie EMF de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour convertir JPG au format EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour convertir JPG en EMF à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,16 +46,16 @@ La conversion des formats de fichiers de JPG en EMF est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour convertir JPG en EMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour convertir des fichiers Excel vers d\'autres formats JPG en EMF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

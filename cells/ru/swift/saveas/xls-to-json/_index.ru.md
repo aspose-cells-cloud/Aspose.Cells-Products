@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохраните XLS как JSON API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLS в виде файла формата JSON.
+title:  Сохраните XLS как JSON API для Swift.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLS в формате JSON.
 url: /ru/swift/saveas/xls-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLS как JSON" h2="Библиотека Swift для сохранения XLS как JSON" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLS как JSON и других форматов документов онлайн с помощью Swift." urlsection="saveas/xls-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLS как JSON" h2="Библиотека Swift для сохранения XLS как JSON" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XLS в формате JSON и других форматов документов онлайн с помощью Swift." urlsection="saveas/xls-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как JSON в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в виде JSON — сложная задача. Все переходы формата XLS в JSON выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLS. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLS в формате JSON в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод JSON.
+Сохранение форматов файлов из XLS в формате JSON — сложная задача. Все переходы формата XLS в JSON выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLS. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLS в формате JSON онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLS в формате JSON" gistPath="" %}}
@@ -54,10 +54,10 @@ url: /ru/swift/saveas/xls-to-json/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLS в формате JSON" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для сохранения XLS как JSON" >}}
+<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
+<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

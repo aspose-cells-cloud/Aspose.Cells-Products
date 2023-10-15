@@ -1,6 +1,6 @@
 ﻿---
-title:  Excel FODS'i TSV'ye dönüştür via Python
-description: REST API ve Açık Kaynak Python SDK ile Excel dosyaları oluşturun, düzenleyin veya dönüştürün
+title:  Excel FODS'yi TSV'ye dönüştürün via Python
+description: REST API ve Açık Kaynak Python SDK ile Excel dosyalarını oluşturun, düzenleyin veya dönüştürün
 url: /tr/python/conversion/fods-to-tsv/
 family: cells
 platformtag: python
@@ -11,21 +11,21 @@ platform: Python
 otherformats: SVG XLSX PDF XLSM MD TIFF XLSB XLTX ODS DIF MHTML TSV CSV TXT XLTM XML 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Python ile FODS\'yi TSV\'ye dönüştürün" h2="Excel için açık kaynaklı Cloud SDK ile Excel verilerini okuyun, düzenleyin ve diğer biçimlere aktarın" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Python ile FODS\'yi TSV\'ye dönüştürün" h2="Python için açık kaynaklı Cloud SDK ile Excel verilerini okuyun, düzenleyin ve diğer formatlara aktarın" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Python ile FODS\'den TSV\'ye Dönüşüm" %}}
-1.  adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları
-1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlat
-1. ```CellsApi.upload_file``` yöntemiyle FODS dosyasını varsayılan Bulut Depolamaya yükleyin
+{{% blocks/products/pf/agp/feature-section-col title="Python ile FODS\'den TSV\'ye Dönüştürme" %}}
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
+1. FODS dosyasını ```CellsApi.upload_file``` yöntemiyle varsayılan Cloud Storage'a yükleyin
 1. Ortaya çıkan TSV dosyasını almak için ```CellsApi.cells_save_as_post_document_save_as``` yöntemini çağırın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Excel API ve Python SDK\'yı Kullanmaya Başlayın" %}}
- Python kaynak kodu için Excel Cloud SDK'yı şuradan edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) alternatif indirme seçenekleri için.
+ Python kaynak kodu için Excel Cloud SDK'yı şu adresten edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) Alternatif indirme seçenekleri için.
 
- Ayrıca Swagger tabanlı bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
+ Ayrıca Swagger tabanlıya da bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Python FODS\'den TSV\'ye Dönüşüm Kodu" gistPath="" %}}

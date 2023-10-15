@@ -1,5 +1,5 @@
 ﻿---
-title:  MHTML till MD Konvertera API för Swift
+title: MHTML till MD Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera MHTML-formatfil till MD-formatfil.
 url: /sv/swift/conversion/mhtml-to-md/
 ---

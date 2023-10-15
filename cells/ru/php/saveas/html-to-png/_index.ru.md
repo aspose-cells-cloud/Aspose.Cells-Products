@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить HTML как PNG API для PHP
-description: Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата HTML как файла формата PNG.
-url: /ru/php/saveas/html-to-png/
+title:  Сохраните HTML как PNG, используя PHP.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата HTML как файла формата PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить HTML как PNG" h2="PHP библиотека для сохранения HTML как PNG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения HTML как PNG и других форматов документов в Интернете с использованием PHP." urlsection="saveas/html-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как PNG" h2="PHP библиотека для сохранения HTML как PNG" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения HTML как PNG и других форматов документов в Интернете с помощью PHP." urlsection="saveas/html-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как PNG в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как PNG — сложная задача. Все переходы форматов с HTML на PNG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека PHP — это профессиональное решение для сохранения файлов HTML как PNG онлайн. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат PNG.
+Сохранение форматов файлов с HTML как PNG — сложная задача. Все переходы форматов с HTML на PNG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека PHP — это профессиональное решение для сохранения файлов HTML в формате PNG в Интернете. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный результат PNG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения HTML в формате PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения HTML как PNG с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/html-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API, чтобы сохранить HTML как PNG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP, чтобы сохранить файлы Excel в других форматах HTML как PNG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

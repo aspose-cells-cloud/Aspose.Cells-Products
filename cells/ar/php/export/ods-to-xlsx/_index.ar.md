@@ -1,26 +1,26 @@
 ﻿---
 title: تصدير Ods إلى ملف XLSX via PHP
-description: Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Aspose.Cells Cloud REST API يدعم تصدير Excel ملف وكائنات داخلية إلى أنواع ملفات التنسيق. يدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 url: /ar/php/export/ods-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تصدير ODS إلى ملف XLSX في السحابة" h2="Excel & تصدير جدول بيانات OpenOffice باستخدام Cloud SDK مفتوح المصدر لـ PHP" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تصدير المواد المستنفدة للأوزون إلى ملف XLSX في السحابة" h2="Excel وتصدير جداول بيانات OpenOffice باستخدام Cloud SDK مفتوح المصدر لـ PHP" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=" Exoprt ODS to XLSX file in Cloud SDK لـ PHP" %}}
-1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية
-1. قم بتهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
-1. اتصل بالطريقة ```cellsWorkbookPutConvertWorkBook``` للحصول على دفق XLSX الناتج
+{{% blocks/products/pf/agp/feature-section-col title=" تصدير ODS إلى ملف XLSX في Cloud SDK لـ PHP" %}}
+1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا
+1. تهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
+1. اتصل بطريقة ```cellsWorkbookPutConvertWorkBook``` للحصول على تدفق XLSX الناتج
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ابدأ بـ Excel REST API" %}}
- احصل على كود المصدر Excel Cloud SDK for .NET من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/releases) للحصول على خيارات تنزيل بديلة.
+{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel ريست API" %}}
+ احصل على Excel Cloud SDK for .NET كود المصدر من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/releases) للحصول على خيارات التنزيل البديلة.
 
- ألقِ نظرة أيضًا على Swagger المستندة إلى[API المرجع]() لمعرفة المزيد عن[Excel راحة API](https://products.aspose.cloud/cells/curl/).
+ قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع]() لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="PHP كود لتحويل ODS إلى XLSX" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="PHP رمز لتحويل المواد المستنفدة للأوزون إلى XLSX" gistPath="" %}}
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
     <?php

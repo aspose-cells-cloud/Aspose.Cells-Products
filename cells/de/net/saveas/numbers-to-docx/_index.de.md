@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie NUMBERS als DOCX API für C#
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im NUMBERS-Format als DOCX-Formatdatei zu speichern.
-url: /de/net/saveas/numbers-to-docx/
+title:  Speichern Sie NUMBERS als DOCX mit C#
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der Datei im NUMBERS-Format als Datei im DOCX-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um ZAHLEN als DOCX zu speichern" h2="C#-Bibliothek zum Speichern von NUMBERS als DOCX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als DOCX und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/numbers-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie NUMBERS als DOCX" h2="C# Bibliothek zum Speichern von NUMBERS als DOCX" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als DOCX und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/numbers-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als DOCX unter C#" >}}
@@ -13,7 +12,7 @@ url: /de/net/saveas/numbers-to-docx/
 Das Speichern von Dateiformaten aus NUMBERS als DOCX ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS in das DOCX-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um ZAHLEN online als DOCX-Dateien zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte DOCX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von NUMBERS im DOCX-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel zum Speichern von NUMBERS als DOCX mit REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,10 +26,10 @@ Das Speichern von Dateiformaten aus NUMBERS als DOCX ist eine komplexe Aufgabe. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um ZAHLEN als DOCX zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in anderen Formaten wie DOCX zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

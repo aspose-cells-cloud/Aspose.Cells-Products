@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование JPG в FODS API для NodeJS
-description: Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата JPG в файл формата FODS.
-url: /ru/nodejs/conversion/jpg-to-fods/
+title:  Конвертируйте JPG в FODS с помощью NodeJS
+description:  Использование Cloud SDK Aspose.Cells для NodeJS для преобразования файла формата JPG в файл формата FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования JPG в FODS" h2="Библиотека NodeJS для преобразования JPG в FODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации JPG в FODS и другие форматы документов с использованием NodeJS." urlsection="conversion/jpg-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать JPG в FODS" h2="Библиотека NodeJS для преобразования JPG в FODS" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах NodeJS. Это профессиональное решение для онлайн-конвертирования JPG в FODS и другие форматы документов с помощью NodeJS." urlsection="conversion/jpg-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в FODS в NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте JPG в FODS с помощью Cloud SDK Cells для NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в FODS — сложная задача. Все переходы между форматами JPG и FODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов JPG в FODS. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат FODS.
+Преобразование форматов файлов из JPG в FODS может оказаться сложной задачей. Наш NodeJS SDK обрабатывает все преобразования форматов JPG в FODS, сохраняя при этом основное структурное и логическое содержимое исходной таблицы JPG. Наша библиотека NodeJS предоставляет профессиональное решение для онлайн-конвертации файлов JPG в файлы FODS. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и обеспечивает высококачественный вывод FODS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования JPG в формат FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для преобразования JPG в FODS с использованием Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +34,10 @@ url: /ru/nodejs/conversion/jpg-to-fods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для преобразования JPG в FODS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Node для преобразования файлов Excel в другие форматы JPG в FODS." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

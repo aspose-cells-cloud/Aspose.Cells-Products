@@ -1,19 +1,18 @@
 ﻿---
-title:  XML till BMP Konvertera API för Android
-description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera XML-formatfil till BMP-fil.
-url: /sv/android/conversion/xml-to-bmp/
+title:  Konvertera XML till BMP med Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i XML-format till en fil i BMP-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att konvertera XML till BMP" h2="Android-bibliotek för att konvertera XML till BMP" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att konvertera XML till BMP och andra dokumentformat online med Android." urlsection="conversion/xml-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XML till BMP" h2="Android-bibliotek för att konvertera XML till BMP" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android-projekt. Detta är en professionell lösning för att konvertera XML till BMP och andra dokumentformat online med Android." urlsection="conversion/xml-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XML-fil till BMP i Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XML till BMP med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XML till BMP är en komplex uppgift. Alla XML- till BMP-formatövergångar utförs av vår Android SDK samtidigt som käll-XML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera XML till BMP-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt BMP-utgång.
+Att konvertera filformat från XML till BMP kan vara en komplex uppgift. Vår Android SDK hanterar alla XML- till BMP-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i XML-källarket bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera XML till BMP-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa BMP-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera XML till BMP-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att konvertera XML till BMP med Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,10 +46,10 @@ Att konvertera filformat från XML till BMP är en komplex uppgift. Alla XML- ti
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att konvertera XML till BMP" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsWorkbookPutConvertWorkbook-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel-filer till andra format XML till BMP" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

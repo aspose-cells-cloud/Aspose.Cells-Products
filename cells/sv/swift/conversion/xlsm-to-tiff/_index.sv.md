@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM till TIFF Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLSM-format till fil i TIFF-format.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLSM-format till fil i TIFF-format.
 url: /sv/swift/conversion/xlsm-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

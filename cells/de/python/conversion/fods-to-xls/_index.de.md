@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren von Excel FODS zu XLS via Python
+title: Konvertieren von Excel FODS zu XLS via Python
 description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API und Open Source Python SDK
 url: /de/python/conversion/fods-to-xls/
 family: cells

@@ -1,16 +1,16 @@
 ﻿---
-title:  Enregistrez les NUMÉROS sous XLS API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format NUMBERS en tant que fichier au format XLS.
+title:  Enregistrer les NUMÉROS sous XLS API pour Swift
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format NUMBERS au format XLS.
 url: /fr/swift/saveas/numbers-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer les NUMÉROS au format XLS" h2="Bibliothèque Swift pour enregistrer les NUMÉROS au format XLS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format XLS et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/numbers-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer les NUMÉROS au format XLS" h2="Bibliothèque Swift pour enregistrer NUMBERS au format XLS" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format XLS et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/numbers-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier NUMBERS au format XLS dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de NUMBERS au format XLS est une tâche complexe. Toutes les transitions de format NUMBERS vers XLS sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des NUMBERS sous forme de fichiers XLS en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLS parfaite.
+Enregistrer les formats de fichiers de NUMBERS au format XLS est une tâche complexe. Toutes les transitions du format NUMBERS vers XLS sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des NUMBERS sous forme de fichiers XLS en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer NUMBERS au format XLS" gistPath="" %}}
@@ -56,8 +56,8 @@ L'enregistrement de formats de fichiers à partir de NUMBERS au format XLS est u
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour enregistrer des NUMÉROS au format XLS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez CellsApi avec l'identifiant client, le secret client, l'URL de base et la version API</li>
+<li>Appelez la méthode cellSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrez SXC sous XLT API pour PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format SXC en tant que fichier au format XLT.
-url: /fr/php/saveas/sxc-to-xlt/
+title:  Enregistrez SXC au format XLT en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format SXC au format XLT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer SXC en XLT" h2="Bibliothèque PHP pour enregistrer SXC en XLT" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer SXC au format XLT et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/sxc-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer SXC en tant que XLT" h2="Bibliothèque PHP pour enregistrer SXC au format XLT" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer SXC au format XLT et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/sxc-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier SXC au format XLT dans PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de SXC au format XLT est une tâche complexe. Toutes les transitions de format SXC vers XLT sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul SXC source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer en ligne des fichiers SXC au format XLT. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie XLT parfaite.
+Enregistrer les formats de fichiers de SXC au format XLT est une tâche complexe. Toutes les transitions du format SXC vers XLT sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul SXC source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer SXC sous forme de fichiers XLT en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie XLT parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour enregistrer SXC au format XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour enregistrer SXC au format XLT à l\'aide de REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ L'enregistrement des formats de fichiers de SXC au format XLT est une tâche com
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour enregistrer SXC en tant que XLT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP pour enregistrer les fichiers Excel sous d\'autres formats SXC comme XLT" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

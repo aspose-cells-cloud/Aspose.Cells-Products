@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS en PPTX Convertir API pour C#
-description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format ODS en fichier au format PPTX.
-url: /fr/net/conversion/ods-to-pptx/
+title:  Convertissez ODS en PPTX en utilisant C#
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir un fichier au format ODS en fichier au format PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour convertir ODS en PPTX" h2="C# bibliothèque pour convertir ODS en PPTX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour convertir ODS en PPTX et d\'autres formats de documents en ligne en utilisant C#." urlsection="conversion/ods-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir ODS en PPTX" h2="Bibliothèque C# pour convertir ODS en PPTX" p="Utilisez la conversion API du Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans les projets Net. Il s\'agit d\'une solution professionnelle pour convertir ODS en PPTX et d\'autres formats de documents en ligne en utilisant le C#." urlsection="conversion/ods-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier ODS en PPTX en C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez ODS en PPTX à l\'aide du SDK Cloud Cells pour C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers d'ODS en PPTX est une tâche complexe. Toutes les transitions de format ODS vers PPTX sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque C# est une solution professionnelle pour convertir en ligne des fichiers ODS en PPTX. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie PPTX parfaite.
+La conversion des formats de fichiers d'ODS en PPTX peut être une tâche complexe. Notre SDK C# gère toutes les conversions du format ODS vers PPTX tout en préservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque C# fournit une solution professionnelle pour convertir en ligne des fichiers ODS en PPTX. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et garantit une sortie PPTX de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans C# utilisant REST API pour convertir ODS au format PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Exemple de code pour convertir ODS en PPTX à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,16 +35,16 @@ La conversion des formats de fichiers d'ODS en PPTX est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser C# API pour convertir ODS en PPTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Cells Cloud SDK for Net pour convertir des fichiers Excel vers d\'autres formats ODS en PPTX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsWorkbookPutConvertWorkbook pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PutConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>NET Framework 4.5.2 ou plus récent</li>
-<li>Net Standard 2.0 ou plus récent</li>
+<li>NET Framework 4.5.2 ou version ultérieure</li>
+<li>Net Standard 2.0 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

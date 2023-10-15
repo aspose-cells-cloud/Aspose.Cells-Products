@@ -1,10 +1,9 @@
 ﻿---
-title:  TSV als TXT API for Java speichern
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern der TSV-Formatdatei als TXT-Formatdatei.
-url: /de/java/saveas/tsv-to-txt/
+title:  TSV als TXT mit Java speichern
+description: Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern von TSV-Formatdateien als TXT-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API um TSV als TXT zu speichern" h2="Java-Bibliothek zum Speichern von TSV als TXT" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um TSV als TXT und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/tsv-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV als TXT speichern" h2="Java Bibliothek zum Speichern von TSV als TXT" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um TSV als TXT und andere Dokumentformate online mit Java zu speichern." urlsection="saveas/tsv-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als TXT unter Java" >}}
@@ -13,7 +12,7 @@ url: /de/java/saveas/tsv-to-txt/
 Das Speichern von Dateiformaten von TSV als TXT ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum TXT-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der TSV-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um TSV als TXT-Dateien online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von TSV im TXT-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel zum Speichern von TSV als TXT mit REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Das Speichern von Dateiformaten von TSV als TXT ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um TSV als TXT zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Speichern von Excel-Dateien in anderen Formaten, TSV als TXT" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -4,23 +4,23 @@ description: Aspose.Cells Cloud REST API admite la exportación de archivos Exce
 url: /es/python/export/json-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Exportar JSON a archivo DOCX en la Nube" h2="Excel y exportación de hojas de cálculo de OpenOffice con Cloud SDK de código abierto para Python" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Exportar JSON a archivo DOCX en la nube" h2="Excel y exportación de hojas de cálculo de OpenOffice con Cloud SDK de código abierto para Python" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=" Exoptar JSON a archivo DOCX en Cloud SDK para Python" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, Secreto de cliente, URL base y versión API
-1. Llame al método ```cells_workbook_put_convert_workbook``` para obtener el flujo DOCX resultante
+{{% blocks/products/pf/agp/feature-section-col title=" Exoprt de archivo JSON a DOCX en Cloud SDK para Python" %}}
+1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
+1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
+1. Llame al método ```cells_workbook_put_convert_workbook``` para obtener la secuencia DOCX resultante
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Comience con Excel DESCANSO API" %}}
- Obtenga el código fuente Excel Cloud SDK for .NET de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) para compilar el SDK usted mismo o diríjase a la[Lanzamientos](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/releases) para opciones de descarga alternativas.
+ Obtenga el código fuente Excel Cloud SDK for .NET de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/releases) para opciones de descarga alternativas.
 
- También eche un vistazo a Swagger-based[API Referencia]() para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
+ También eche un vistazo a Basado en Swagger[API Referencia]() para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Python Código para la conversión de JSON a DOCX" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Python Código para conversión de JSON a DOCX" gistPath="" %}}
 ```python
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
     import os

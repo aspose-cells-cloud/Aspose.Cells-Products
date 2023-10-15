@@ -1,19 +1,18 @@
 ﻿---
-title:  TXT en ODS Convertir API pour Perl
-description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format TXT en fichier au format ODS.
-url: /fr/perl/conversion/txt-to-ods/
+title:  Convertissez TXT en ODS en utilisant Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir un fichier au format TXT en fichier au format ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir TXT en ODS" h2="bibliothèque Perl pour convertir TXT en ODS" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir TXT en ODS et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/txt-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir TXT en ODS" h2="Bibliothèque Perl pour convertir TXT en ODS" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Perl. Il s\'agit d\'une solution professionnelle pour convertir TXT en ODS et d\'autres formats de documents en ligne en utilisant le Perl." urlsection="conversion/txt-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier TXT en ODS en Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez TXT en ODS à l\'aide du SDK Cloud Cells pour Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de TXT en ODS est une tâche complexe. Toutes les transitions de format TXT vers ODS sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Perl est une solution professionnelle pour convertir en ligne des fichiers TXT en ODS. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie ODS parfaite.
+La conversion des formats de fichiers de TXT vers ODS peut être une tâche complexe. Notre SDK Perl gère toutes les conversions du format TXT vers ODS tout en préservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Perl fournit une solution professionnelle pour convertir des fichiers TXT en ODS en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et garantit une sortie ODS de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour convertir TXT au format ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour convertir TXT en ODS à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ La conversion des formats de fichiers de TXT en ODS est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Perl API pour convertir TXT en ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Perl pour convertir TXT en ODS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

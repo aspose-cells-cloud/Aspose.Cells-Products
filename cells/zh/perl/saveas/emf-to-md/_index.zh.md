@@ -1,10 +1,9 @@
 ﻿---
-title: 将 EMF 另存为 Perl 的 MD API
-description: 使用Aspose.Cells Cloud SDK for Perl将EMF格式文件保存为MD格式文件。
-url: /zh/perl/saveas/emf-to-md/
+title: 使用 Perl 将 EMF 保存为 MD
+description: 利用Aspose.Cells云SDK for Perl将EMF格式文件保存为MD格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API 将EMF另存为MD" h2="Perl库将EMF保存为MD" p="使用Cells SaveAs REST API在Perl中创建自定义电子表格工作流程。这是使用Perl在线将EMF保存为MD和其他文档格式的专业解决方案。" urlsection="saveas/emf-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="另存 EMF 为 MD" h2="Perl库，用于将EMF保存为MD" p="使用Cells云的另存为API在Perl中创建自定义电子表格工作流程。这是使用Perl在线将EMF保存为MD和其他文档格式的专业解决方案。" urlsection="saveas/emf-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将EMF文件另存为Perl中的MD" >}}
@@ -13,7 +12,7 @@ url: /zh/perl/saveas/emf-to-md/
 将 EMF 中的文件格式保存为 MD 是一项复杂的任务。所有 EMF 到 MD 格式的转换均由我们的 Perl SDK 执行，同时保留源 EMF 电子表格的主要结构和逻辑内容。我们的 Perl 库是在线将 EMF 保存为 MD 文件的专业解决方案。该Cloud SDK为Perl开发者提供了强大的功能和完美的MD输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl中的代码示例使用REST API将EMF保存为MD格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl 使用 REST API 将 EMF 保存为 MD 的代码示例" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +28,10 @@ url: /zh/perl/saveas/emf-to-md/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Perl API将EMF另存为MD" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>呼叫细胞_节省_作为_邮政_文档_节省_as 获取结果流的方法</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Perl云SDK将Excel文件保存为其他格式EMF保存为MD" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>呼叫帖子_作业簿_save_as 方法来获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

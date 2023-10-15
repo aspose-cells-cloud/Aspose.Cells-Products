@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить XLTM как XLS API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата XLTM в виде файла формата XLS.
-url: /ru/go/saveas/xltm-to-xls/
+title:  Сохраните XLTM как XLS с помощью Go.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLTM как файла формата XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLTM как XLS." h2="Перейти в библиотеку, чтобы сохранить XLTM как XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLTM как XLS и других форматов документов в Интернете с помощью Go." urlsection="saveas/xltm-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLTM как XLS" h2="Библиотека Go для сохранения XLTM в формате XLS." p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения XLTM в формате XLS и других форматов документов онлайн с помощью Go." urlsection="saveas/xltm-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как XLS в Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как XLS в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде XLS — сложная задача. Все переходы от формата XLTM к формату XLS выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для сохранения XLTM в виде файлов XLS онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLS.
+Сохранение форматов файлов из XLTM в формате XLS — сложная задача. Все переходы формата XLTM в XLS выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для сохранения XLTM в виде файлов XLS онлайн. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате XLS.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLTM в формате XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения XLTM как XLS с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ url: /ru/go/saveas/xltm-to-xls/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Go API для сохранения XLTM как XLS" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах XLTM как XLS" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

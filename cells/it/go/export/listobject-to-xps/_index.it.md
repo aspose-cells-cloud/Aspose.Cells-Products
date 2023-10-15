@@ -1,16 +1,15 @@
 ﻿---
-title:  Esporta LISTOBJECT in XPS dal foglio di calcolo utilizzando Go API
+title: Esporta LISTOBJECT a XPS da Excel utilizzando Cells Cloud SDK per Go
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
-url: /it/go/export/listobject-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per esportare LISTOBJECT nel file XPS" h2="Vai alla libreria per esportare LISTOBJECT nel file XPS" p="Utilizzare Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Go. Questa è una soluzione professionale per esportare LISTOBJECT nel file in formato XPS dal foglio di calcolo online utilizzando Go." urlsection="export/listobject-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta LISTOBJECT a XPS da Excel" h2="Vai alla libreria per esportare LISTOBJECT nel file XPS" p="Utilizzare Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Go. Questa è una soluzione professionale per esportare LISTOBJECT nel file in formato XPS da un foglio di calcolo online utilizzando Go." urlsection="export/listobject-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto LISTOBJECT nel file di formato XPS in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto LISTOBJECT nel file in formato XPS utilizzando Cells Cloud SDK per Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto LISTOBJECT nel file XPS dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di formato da LISTOBJECT a XPS viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo LISTOBJECT di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti LISTOBJECT in file in formato XPS online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output XPS perfetto.
+Esportare l'oggetto LISTOBJECT nel file XPS dal file Excel è un'attività complessa. L'esportazione di LISTOBJECT nelle transizioni di formato XPS viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo LISTOBJECT di origine. La nostra libreria Go è una soluzione professionale per esportare online oggetti LISTOBJECT in file in formato XPS. Questo Cloud SDK offre agli sviluppatori Go funzionalità potenti e un output XPS perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per esportare LISTOBJECT nel formato XPS dal foglio di calcolo" gistPath="" %}}
@@ -56,10 +55,10 @@ Esportare l'oggetto LISTOBJECT nel file XPS dal foglio di calcolo è un'attivit�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per esportare LISTOBJECT in XPS" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo PostExport per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Go per esportare oggetti da Excel LISTOBJECT a XPS" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

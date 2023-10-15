@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните TXT как MHTML API для Python.
+title:  Сохраните TXT как MHTML, используя Python.
 description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата TXT как файла формата MHTML.
-url: /ru/python/saveas/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, чтобы сохранить TXT как MHTML" h2="Python библиотека для сохранения TXT как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения TXT как MHTML и других форматов документов в Интернете с использованием Python." urlsection="saveas/txt-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить TXT как MHTML" h2="Python библиотека для сохранения TXT в формате MHTML" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Python. Это профессиональное решение для сохранения TXT в формате MHTML и других форматов документов в Интернете с помощью Python." urlsection="saveas/txt-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как MHTML в Python." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT в формате MHTML по номеру Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT в виде MHTML — сложная задача. Все переходы между форматами TXT и MHTML выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Python — это профессиональное решение для сохранения TXT в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов из TXT в MHTML — сложная задача. Все переходы формата TXT в MHTML выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной таблицы TXT. Наша библиотека Python — это профессиональное решение для сохранения TXT в формате MHTML в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения TXT в формате MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для сохранения TXT в формате MHTML с использованием REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ url: /ru/python/saveas/txt-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API, чтобы сохранить TXT как MHTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python, чтобы сохранять файлы Excel в других форматах TXT как MHTML." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

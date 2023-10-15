@@ -1,33 +1,32 @@
 ﻿---
-title:  تشفير جدول البيانات المحلي بكلمة مرور باستخدام Android في Cloud
-description:  Cloud APIs & SDKs لحماية Microsoft Excel & OpenOffice Calc مع Android. تشفير جداول البيانات المحلية بكلمة مرور بواسطة Cells Cloud API SDK لنظام Android.
-url: /ar/android/protect/encrypt-with-password/
+title:  تشفير جدول البيانات المحلي بكلمة مرور باستخدام Android في السحابة
+description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK للحماية Microsoft Excel وOpenOffice Calc مع Android. قم بتشفير جداول البيانات المحلية بكلمة مرور بواسطة Cells Cloud API SDK لنظام Android.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة Android لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Protect REST API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع سير عمل كلمات المرور في Android. يحمي هذا الحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Android." urlsection="protect/Encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="استخدم Cells Cloud SDK لنظام Android لحماية كلمة المرور المحلية Microsoft Excel وجداول بيانات OpenOffice Calc." h2="مكتبة Android لحماية كلمة المرور المحلية Microsoft Excel وجداول بيانات OpenOffice Calc" p="استخدم Cells Protect REST API لتأمين Microsoft Excel وجداول بيانات OpenOffice Calc المحلية بكلمات مرور في سير عمل Android. يتيح هذا الحل الاحترافي حماية كلمة المرور لجداول بيانات Microsoft Excel وOpenOffice Calc عبر الإنترنت باستخدام Android." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام كلمة مرور - Android REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تأمين Microsoft Excel وجداول بيانات OpenOffice Calc المحلية بكلمة مرور باستخدام Cells Cloud SDK لـ Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
 <br/>
-تعد حماية جدول بيانات محلي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات المحلي باستخدام انتقالات كلمة المرور بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحماية جداول البيانات المحلية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية و API مثاليًا.
+يمكن أن تكون حماية كلمة المرور لجدول بيانات محلي مهمة معقدة. يقوم Android SDK الخاص بنا بمعالجة العملية، مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. توفر مكتبة Android الخاصة بنا حلاً احترافيًا لحماية جداول البيانات المحلية بكلمة مرور عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Android من خلال وظائف قوية وAPI سلس.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتشفير جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Protect.java" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Android باستخدام REST API لتشفير جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Protect.java" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام Java API للتشفير" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحماية ملف Excel" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة postProtect للحصول على الدفق الناتج</li>
+<li>قم باستدعاء طريقة postProtect للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>Android 7 أو أحدث</li>
-<li>Java (TM) بيئة وقت التشغيل SE</li>
+<li>أندرويد 7 أو الأحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

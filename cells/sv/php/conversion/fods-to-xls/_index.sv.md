@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertera FODS till XLS i molnet via PHP
+title: Konvertera FODS till XLS i molnet via PHP
 description: Skapa, redigera eller konvertera Excel-filer med REST API & Open Source PHP SDK
 url: /sv/php/conversion/fods-to-xls/
 family: cells

@@ -1,14 +1,13 @@
 ﻿---
-title:  Stellen Sie den Hintergrund mit C# ein
-description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit C#. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/net/background/
+title:  Legen Sie einen Hintergrund für Excel-Dateien mit C# fest
+description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für Excel-Dateien mithilfe von C# und bietet SDKs für verschiedene Programmiersprachen.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Stellen Sie den Hintergrund mit C# ein" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit C#. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Legen Sie einen Hintergrund für Excel-Dateien mit C# fest" h2="Aspose.Cells Cloud SDK unterstützt das Festlegen von Hintergründen in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für Excel-Dateien mithilfe von C# und bietet SDKs für verschiedene Programmiersprachen." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mithilfe der Erweiterungslinks C# fest" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie mithilfe von C#-Erweiterungslinks einen Hintergrund für Excel-Dateien fest" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

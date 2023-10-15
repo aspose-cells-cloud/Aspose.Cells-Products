@@ -1,10 +1,9 @@
 ﻿---
-title:  Spara EMF som ODS API for Java
-description:  Använd Aspose.Cells Cloud SDK for Java för att spara EMF filformat som ODS-formatfil.
-url: /sv/java/saveas/emf-to-ods/
+title:  Spara EMF som ODS med Java
+description:  Använder Aspose.Cells Cloud SDK for Java för att spara EMF filformat som ODS-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att spara EMF som ODS" h2="Java bibliotek för att spara EMF som ODS" p="Använd Cells SaveAs REST API för att skapa anpassade arbetsflöden för kalkylblad i Java. Detta är en professionell lösning för att spara EMF som ODS och andra dokumentformat online med Java." urlsection="saveas/emf-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara EMF som ODS" h2="Java bibliotek för att spara EMF som ODS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara EMF som ODS och andra dokumentformat online med Java." urlsection="saveas/emf-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en EMF-fil som ODS i Java" >}}
@@ -13,7 +12,7 @@ url: /sv/java/saveas/emf-to-ods/
 Att spara filformat från EMF som ODS är en komplex uppgift. Alla EMF- till ODS-formatövergångar utförs av vår Java SDK samtidigt som källbladets EMF kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara EMF som ODS-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt ODS-utgång.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att spara EMF som ODS-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att spara EMF som ODS med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -35,10 +34,10 @@ Att spara filformat från EMF som ODS är en komplex uppgift. Alla EMF- till ODS
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att spara EMF som ODS" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop cellsSaveAsPostDocumentSaveAs-metoden för att hämta den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att spara Excel filer som andra format EMF som ODS" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

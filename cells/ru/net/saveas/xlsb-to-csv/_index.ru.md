@@ -1,19 +1,18 @@
 ﻿---
-title: Сохранить XLSB как CSV API для C#
-description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSB в виде файла формата CSV.
-url: /ru/net/saveas/xlsb-to-csv/
+title: Сохраните XLSB как CSV, используя C#.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSB в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить XLSB как CSV" h2="C# библиотека для сохранения XLSB в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLSB в формате CSV и других форматов документов в Интернете с использованием C#." urlsection="saveas/xlsb-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSB как CSV" h2="C# библиотека для сохранения XLSB в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Net. Это профессиональное решение для сохранения XLSB в формате CSV и других форматов документов онлайн с использованием номера C#." urlsection="saveas/xlsb-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB в формате CSV по адресу C#." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB в формате CSV по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в CSV — сложная задача. Все переходы между форматами XLSB и CSV выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека C# — это профессиональное решение для сохранения XLSB в виде CSV-файлов в Интернете. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод в формате CSV.
+Сохранение форматов файлов из XLSB в CSV — сложная задача. Все переходы формата XLSB в CSV выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека C# — это профессиональное решение для сохранения файлов XLSB в формате CSV в Интернете. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLSB в формате CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для сохранения XLSB в формате CSV с использованием REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ url: /ru/net/saveas/xlsb-to-csv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для сохранения XLSB в формате CSV" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Net для сохранения файлов Excel в других форматах XLSB как CSV" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
-<li>Чистый стандарт 2.0 или новее</li>
+<li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

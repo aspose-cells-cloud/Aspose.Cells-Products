@@ -1,19 +1,18 @@
 ﻿---
-title:  XLTX till DOCX Konvertera API för Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLTX-format till fil i DOCX-format.
-url: /sv/perl/conversion/xltx-to-docx/
+title:  Konvertera XLTX till DOCX med Perl
+description: Använda Aspose.Cells Cloud SDK för Perl för att konvertera en fil i XLTX-format till en fil i DOCX-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att konvertera XLTX till DOCX" h2="Perl bibliotek för att konvertera XLTX till DOCX" p="Använd Cells Conversion REST API för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att konvertera XLTX till DOCX och andra dokumentformat online med Perl." urlsection="conversion/xltx-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLTX till DOCX" h2="Perl bibliotek för att konvertera XLTX till DOCX" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl projekt. Detta är en professionell lösning för att konvertera XLTX till DOCX och andra dokumentformat online med Perl." urlsection="conversion/xltx-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLTX-fil till DOCX i Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLTX till DOCX med Cells Cloud SDK för Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTX till DOCX är en komplex uppgift. Alla formatövergångar från XLTX till DOCX utförs av vår Perl SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att konvertera XLTX till DOCX-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
+Att konvertera filformat från XLTX till DOCX kan vara en komplex uppgift. Vår Perl SDK hanterar alla XLTX- till DOCX-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket XLTX bevaras. Vårt Perl-bibliotek tillhandahåller en professionell lösning för att konvertera XLTX till DOCX-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och säkerställer DOCX-utdata av hög kvalitet.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att konvertera XLTX till DOCX-format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Kodexempel för att konvertera XLTX till DOCX med Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ Att konvertera filformat från XLTX till DOCX är en komplex uppgift. Alla forma
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl API för att konvertera XLTX till DOCX" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Ring celler_arbetsbok_sätta_konvertera_arbetsboksmetod för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Perl SDK för att konvertera XLTX till DOCX" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

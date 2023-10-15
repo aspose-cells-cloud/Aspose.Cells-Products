@@ -1,10 +1,9 @@
 ﻿---
-title:  Speichern Sie EMF als MHTML API für Python
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im EMF-Format als MHTML-Formatdatei zu speichern.
-url: /de/python/saveas/emf-to-mhtml/
+title:  Speichern Sie EMF als MHTML mit Python
+description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Speichern der Datei im EMF-Format als MHTML-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um EMF als MHTML zu speichern" h2="Python-Bibliothek zum Speichern von EMF als MHTML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um EMF als MHTML und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/emf-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie EMF als MHTML" h2="Python-Bibliothek zum Speichern von EMF als MHTML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um EMF als MHTML und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/emf-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine EMF-Datei als MHTML in Python" >}}
@@ -13,7 +12,7 @@ url: /de/python/saveas/emf-to-mhtml/
 Das Speichern von Dateiformaten aus EMF als MHTML ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum MHTML-Format werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um EMF als MHTML-Dateien online zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Speichern von EMF im MHTML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel zum Speichern von EMF als MHTML mit REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -30,10 +29,10 @@ Das Speichern von Dateiformaten aus EMF als MHTML ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um EMF als MHTML zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Excel Dateien in anderen Formaten EMF als MHTML zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `post_workbook_save_as`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

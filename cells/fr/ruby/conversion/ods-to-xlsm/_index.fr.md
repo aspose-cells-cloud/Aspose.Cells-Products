@@ -1,19 +1,18 @@
 ﻿---
-title:  ODS en XLSM Convertir API pour Ruby
-description:  Utiliser Aspose.Cells Cloud SDK for Ruby pour convertir le fichier au format ODS en fichier au format XLSM.
-url: /fr/ruby/conversion/ods-to-xlsm/
+title:  Convertir ODS en XLSM à l'aide de Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format ODS en fichier au format XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour convertir ODS en XLSM" h2="bibliothèque Ruby pour convertir ODS en XLSM" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour convertir ODS en XLSM et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/ods-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir ODS en XLSM" h2="Bibliothèque Ruby pour convertir ODS en XLSM" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Ruby. Il s\'agit d\'une solution professionnelle pour convertir ODS en XLSM et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/ods-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier ODS en XLSM en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir ODS en XLSM à l\'aide du SDK Cloud Cells pour Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers d'ODS en XLSM est une tâche complexe. Toutes les transitions de format ODS vers XLSM sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Ruby est une solution professionnelle pour convertir en ligne des fichiers ODS en XLSM. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie XLSM parfaite.
+La conversion des formats de fichiers d'ODS en XLSM peut être une tâche complexe. Notre SDK Ruby gère toutes les conversions du format ODS vers XLSM tout en préservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Ruby fournit une solution professionnelle pour convertir des fichiers ODS en XLSM en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et garantit une sortie XLSM de haute qualité.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir ODS au format XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Ruby pour convertir ODS en XLSM à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,15 +29,15 @@ La conversion des formats de fichiers d'ODS en XLSM est une tâche complexe. Tou
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Ruby API pour convertir ODS en XLSM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour convertir des fichiers Excel vers d\'autres formats ODS en XLSM" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_classeur_mettre_convertir_méthode de classeur pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

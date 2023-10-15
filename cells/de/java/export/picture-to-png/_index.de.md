@@ -1,16 +1,15 @@
 ﻿---
-title:  Exportieren Sie BILD aus der Tabellenkalkulation nach PNG mit Java API
+title:  Exportieren Sie PICTURE von Excel nach PNG mit Cells Cloud SDK for Java
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-url: /de/java/export/picture-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um BILD in die Datei PNG zu exportieren" h2="Java-Bibliothek zum Exportieren von BILD in die Datei PNG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Java zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online aus einer Tabellenkalkulation in eine Datei im PNG-Format zu exportieren, indem Sie Java verwenden." urlsection="export/picture-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie BILD von Excel nach PNG" h2="Java-Bibliothek zum Exportieren von PICTURE in die Datei PNG" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online mit Java aus einer Tabellenkalkulation in das Format PNG zu exportieren." urlsection="export/picture-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Formatdatei PNG in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt mit dem Cells Cloud SDK for Java in eine Datei im Format PNG" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei PNG ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das PNG-Format wird von unserem Java-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format PNG zu exportieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
+Das Exportieren des PICTURE-Objekts aus der Datei Excel in die Datei PNG ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das PNG-Format wird von unserem Java-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format PNG zu exportieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Exportieren von PICTURE in das Format PNG aus der Tabellenkalkulation" gistPath="" %}}
@@ -51,10 +50,10 @@ Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei PNG
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um PICTURE nach PNG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Objekte von Excel PICTURE nach PNG zu exportieren" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

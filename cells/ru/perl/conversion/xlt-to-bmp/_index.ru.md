@@ -1,19 +1,18 @@
 ﻿---
-title:  XLT в BMP Преобразование API в Perl
-description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLT в файл формата BMP.
-url: /ru/perl/conversion/xlt-to-bmp/
+title:  Преобразуйте XLT в BMP, используя Perl.
+description:  Использование Cloud SDK Aspose.Cells для Perl для преобразования файла формата XLT в файл формата BMP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования XLT в BMP" h2="библиотека Perl для преобразования XLT в BMP" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования XLT в BMP и другие форматы документов онлайн с использованием Perl." urlsection="conversion/xlt-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать XLT в BMP" h2="Perl библиотека для конвертации XLT в BMP" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Perl. Это профессиональное решение для онлайн-конвертации XLT в BMP и другие форматы документов с использованием Perl." urlsection="conversion/xlt-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в BMP в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XLT в BMP с помощью Cloud SDK Cells для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в BMP — сложная задача. Все переходы между форматами XLT и BMP выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLT в BMP. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат BMP.
+Преобразование форматов файлов из XLT в BMP может оказаться сложной задачей. Наш SDK Perl обрабатывает все преобразования формата XLT в BMP, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLT. Наша библиотека Perl предоставляет профессиональное решение для онлайн-конвертации файлов XLT в файлы BMP. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и обеспечивает высококачественный результат BMP.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования XLT в формат BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для преобразования XLT в BMP с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +42,10 @@ url: /ru/perl/conversion/xlt-to-bmp/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для преобразования XLT в BMP" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl SDK для преобразования XLT в BMP" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

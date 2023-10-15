@@ -1,19 +1,18 @@
 ﻿---
-title:  Экспорт LISTOBJECT в DOCX из электронной таблицы с использованием Perl API
-description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
-url: /ru/perl/export/listobject-to-docx/
+title:  Экспортируйте LISTOBJECT в DOCX из Excel с помощью Cloud SDK Cells для Perl.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для экспорта LISTOBJECT в файл DOCX" h2="Perl библиотека для экспорта LISTOBJECT в файл DOCX" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Perl. Это профессиональное решение для экспорта LISTOBJECT в файл формата DOCX из электронной таблицы онлайн с использованием Perl." urlsection="export/listobject-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспортировать LISTOBJECT в DOCX с номера Excel." h2="Perl библиотека для экспорта LISTOBJECT в файл DOCX" p="Используйте экспорт API из Cells Cloud для экспорта рабочих процессов внутренних объектов файла Excel в Perl. Это профессиональное решение для экспорта LISTOBJECT в файл формата DOCX из электронной таблицы онлайн с использованием Perl." urlsection="export/listobject-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата DOCX в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспортируйте объект LISTOBJECT в файл формата DOCX с помощью Cloud SDK Cells для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл DOCX из электронной таблицы является сложной задачей. Экспорт переходов формата LISTOBJECT в формат DOCX выполняется нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата DOCX. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
+Экспорт объекта LISTOBJECT в файл DOCX из файла Excel — сложная задача. Экспорт переходов формата LISTOBJECT в DOCX выполняется нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата DOCX. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для экспорта LISTOBJECT в формат DOCX из электронной таблицы" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Perl с использованием REST API для экспорта LISTOBJECT в формат DOCX из электронной таблицы" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,10 +36,10 @@ url: /ru/perl/export/listobject-to-docx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для экспорта LISTOBJECT в DOCX" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод post_export, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl для экспорта объектов из Excel LISTOBJECT в DOCX" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Вызовите метод post_export, чтобы получить результирующий поток.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

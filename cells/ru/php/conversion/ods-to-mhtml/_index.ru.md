@@ -1,19 +1,18 @@
 ﻿---
-title:  Преобразование ODS в MHTML API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата ODS в файл формата MHTML.
-url: /ru/php/conversion/ods-to-mhtml/
+title:  Конвертируйте ODS в MHTML, используя PHP.
+description: Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата ODS в файл формата MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования ODS в MHTML" h2="PHP библиотека для преобразования ODS в MHTML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для онлайн-преобразования ODS в MHTML и другие форматы документов с использованием PHP." urlsection="conversion/ods-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать ODS в MHTML" h2="PHP библиотека для конвертации ODS в MHTML" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертирования ODS в MHTML и другие форматы документов с использованием номера PHP." urlsection="conversion/ods-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в MHTML в PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование ODS в MHTML с помощью Cloud SDK Cells для PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в MHTML — сложная задача. Все преобразования форматов ODS в формат MHTML выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов ODS в MHTML. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из ODS в MHTML может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования форматов ODS в MHTML, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека PHP предоставляет профессиональное решение для онлайн-конвертирования файлов ODS в файлы MHTML. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный вывод MHTML.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования ODS в формат MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для преобразования ODS в MHTML с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +35,10 @@ url: /ru/php/conversion/ods-to-mhtml/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования ODS в MHTML" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для преобразования файлов Excel в другие форматы ODS в MHTML." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

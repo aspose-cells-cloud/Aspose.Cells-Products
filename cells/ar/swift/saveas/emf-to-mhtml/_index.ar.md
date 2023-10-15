@@ -1,19 +1,19 @@
 ﻿---
 title:  احفظ EMF كـ MHTML API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق EMF كملف بتنسيق MHTML.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق EMF كملف تنسيق MHTML.
 url: /ar/swift/saveas/emf-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ EMF كـ MHTML" h2="مكتبة سريعة لحفظ EMF كـ MHTML" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ EMF بتنسيق MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/emf-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ EMF كـ MHTML" h2="مكتبة سويفت لحفظ EMF كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ EMF بتنسيق MHTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/emf-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف EMF باسم MHTML في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف EMF بتنسيق MHTML في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من EMF كـ MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى MHTML بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ EMF كملفات MHTML عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج MHTML مثالي.
+يعد حفظ تنسيقات الملفات من EMF كـ MHTML مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق EMF إلى MHTML بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ EMF كملفات MHTML عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات MHTML مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ EMF بتنسيق MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ EMF بتنسيق MHTML" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,14 +55,14 @@ url: /ar/swift/saveas/emf-to-mhtml/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ EMF كـ MHTML" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

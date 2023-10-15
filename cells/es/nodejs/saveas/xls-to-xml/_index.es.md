@@ -1,19 +1,18 @@
 ﻿---
-title:  Guarde XLS como XML API para NodeJS
-description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato XLS como archivo de formato XML.
-url: /es/nodejs/saveas/xls-to-xml/
+title:  Guarde XLS como XML usando NodeJS
+description:  Utilizando Aspose.Cells Cloud SDK para NodeJS para guardar un archivo en formato XLS como un archivo en formato XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para guardar XLS como XML" h2="Biblioteca NodeJS para guardar XLS como XML" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para guardar XLS como XML y otros formatos de documentos en línea usando NodeJS." urlsection="saveas/xls-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XLS como XML" h2="Biblioteca NodeJS para guardar XLS como XML" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para guardar XLS como XML y otros formatos de documentos en línea usando NodeJS." urlsection="saveas/xls-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XLS como XML en NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XLS como XML en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLS como XML es una tarea compleja. Todas las transiciones de formato XLS a XML se realizan mediante nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar XLS como archivos XML en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida XML perfecta.
+Guardar formatos de archivo de XLS como XML es una tarea compleja. Todas las transiciones de formato XLS a XML las realiza nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar XLS como archivos XML en línea. Este Cloud SDK ofrece a los desarrolladores de NodeJS una potente funcionalidad y una salida XML perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para guardar XLS como formato XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código NodeJS para guardar XLS como XML usando REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ Guardar formatos de archivo de XLS como XML es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el nodo API para guardar XLS como XML" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Node para guardar archivos Excel en otros formatos XLS como XML" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>nodo v6.17.1 o posterior</li>
+<li>nodo v6.17.1 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

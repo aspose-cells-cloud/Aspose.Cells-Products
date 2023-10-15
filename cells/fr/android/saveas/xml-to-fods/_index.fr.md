@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer XML sous FODS API pour Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XML en tant que fichier au format FODS.
-url: /fr/android/saveas/xml-to-fods/
+title:  Enregistrer XML au format FODS avec Android
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XML au format FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XML en tant que FODS" h2="Bibliothèque Android pour enregistrer XML en tant que FODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XML en tant que FODS et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xml-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XML au format FODS" h2="Bibliothèque Android pour enregistrer du XML au format FODS" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer du XML au format FODS et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xml-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XML en tant que FODS dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XML au format FODS sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XML en tant que FODS est une tâche complexe. Toutes les transitions de format XML vers FODS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers XML en tant que fichiers FODS en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie FODS parfaite.
+L'enregistrement des formats de fichiers XML au format FODS est une tâche complexe. Toutes les transitions du format XML vers FODS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Android est une solution professionnelle pour enregistrer du XML sous forme de fichiers FODS en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie FODS parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XML au format FODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour enregistrer XML au format FODS à l\'aide de REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,16 +34,16 @@ L'enregistrement de formats de fichiers à partir de XML en tant que FODS est un
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Java API pour enregistrer XML en tant que FODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Android pour enregistrer des fichiers Excel sous d\'autres formats XML comme FODS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `postWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>Android 7 ou plus récent</li>
-<li>Java(TM) Environnement d'exécution SE</li>
+<li>Android 7 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

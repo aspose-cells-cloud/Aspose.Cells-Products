@@ -1,6 +1,6 @@
 ﻿---
 title:  Lägg till vattenstämpel för lokal arbetsbok med Swift in Cloud
-description: Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc med Swift. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API SDK för Swift.
+description:  Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc med Swift. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API SDK för Swift.
 url: /sv/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

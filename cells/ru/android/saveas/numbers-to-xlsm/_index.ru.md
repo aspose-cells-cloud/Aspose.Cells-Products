@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохранить NUMBERS как XLSM API для Android
-description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата NUMBERS в виде файла формата XLSM.
-url: /ru/android/saveas/numbers-to-xlsm/
+title:  Сохраните ЧИСЛА как XLSM с помощью Android
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата NUMBERS в формате XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения NUMBERS как XLSM" h2="Библиотека Android для сохранения NUMBERS как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения NUMBERS в формате XLSM и других форматах документов онлайн с помощью Android." urlsection="saveas/numbers-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ЧИСЛА как XLSM" h2="Библиотека Android для сохранения ЧИСЕЛ в формате XLSM" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения ЧИСЕЛ в формате XLSM и других форматов документов онлайн с помощью Android." urlsection="saveas/numbers-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как XLSM в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как XLSM на Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде XLSM — сложная задача. Все преобразования формата NUMBERS в формат XLSM выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Android — это профессиональное решение для сохранения NUMBERS в виде файлов XLSM онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLSM.
+Сохранение форматов файлов из NUMBERS в формате XLSM — сложная задача. Все переходы формата NUMBERS в XLSM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Android — это профессиональное решение для сохранения ЧИСЕЛ в формате XLSM в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения NUMBERS в формате XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для сохранения ЧИСЕЛ в формате XLSM с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -35,15 +34,15 @@ url: /ru/android/saveas/numbers-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения NUMBERS как XLSM" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для сохранения файлов Excel в других форматах NUMBERS, например XLSM." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
-<li>Андроид 7 или новее</li>
+<li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

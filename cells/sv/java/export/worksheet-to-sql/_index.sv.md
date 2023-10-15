@@ -1,16 +1,15 @@
 ﻿---
-title: Exportera ARBETSBLAD till SQL från kalkylblad med Java API
+title:  Exportera ARBETSBLAD till SQL från Excel med Cells Cloud SDK for Java
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-url: /sv/java/export/worksheet-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att exportera ARBETSBLAD till SQL-fil" h2="Java bibliotek för att exportera ARBETSBLAD till SQL-fil" p="Använd Cells Export REST API för att exportera arbetsflöden för kalkylbladsinterna objekt i Java. Detta är en professionell lösning för att exportera ARBETSBLAD till SQL-formatfil från kalkylblad online med Java." urlsection="export/worksheet-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera ARBETSBLAD till SQL från Excel" h2="Java bibliotek för export av ARBETSBLAD till SQL-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i Java. Detta är en professionell lösning för att exportera ARBETSBLAD till SQL-format fil från kalkylblad online med Java." urlsection="export/worksheet-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till SQL-formatfil i Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKSHEET-objekt till SQL-formatfil med Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKSHEET-objekt till SQL-fil från kalkylblad är en komplex uppgift. Exportera ARBETSBLAD till SQL-formatövergångar utförs av vår Java SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till SQL-formatfiler online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt SQL-utdata.
+Exportera WORKSHEET-objekt till SQL-fil från Excel-filen är en komplex uppgift. Exportera ARBETSBLAD till SQL-formatövergångar utförs av vår Java SDK samtidigt som källarbetsbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att exportera WORKSHEET-objekt till SQL-formatfiler online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt SQL-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Java med REST API för att exportera WORKSHEET till SQL-format från kalkylblad" gistPath="" %}}
@@ -51,10 +50,10 @@ Exportera WORKSHEET-objekt till SQL-fil från kalkylblad är en komplex uppgift.
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Java API för att exportera ARBETSBLAD till SQL" >}}
-<li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
-<li>Anrop postExport-metoden för att få den resulterande strömmen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att exportera objekt från Excel WORKSHEET till SQL" >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Använd metoden `postExport` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

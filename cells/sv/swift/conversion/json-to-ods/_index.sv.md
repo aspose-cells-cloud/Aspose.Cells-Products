@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON till ODS Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera JSON-formatfil till ODS-formatfil.
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera JSON-formatfil till ODS-formatfil.
 url: /sv/swift/conversion/json-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,18 @@
 ﻿---
-title: Enregistrez TXT sous XLS API pour PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format TXT en tant que fichier au format XLS.
-url: /fr/php/saveas/txt-to-xls/
+title:  Enregistrez TXT au format XLS en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format TXT au format XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer TXT en XLS" h2="bibliothèque PHP pour enregistrer TXT en XLS" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer TXT au format XLS et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/txt-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer TXT au format XLS" h2="Bibliothèque PHP pour enregistrer TXT au format XLS" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer TXT au format XLS et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/txt-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TXT au format XLS au PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier TXT au format XLS dans PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de TXT en XLS est une tâche complexe. Toutes les transitions de format TXT vers XLS sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer en ligne des fichiers TXT au format XLS. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie XLS parfaite.
+Enregistrer les formats de fichiers TXT au format XLS est une tâche complexe. Toutes les transitions du format TXT vers XLS sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer TXT sous forme de fichiers XLS en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie XLS parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour enregistrer TXT au format XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour enregistrer TXT au format XLS à l\'aide de REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ L'enregistrement de formats de fichiers à partir de TXT en XLS est une tâche c
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser PHP API pour enregistrer TXT en XLS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP afin d\'enregistrer les fichiers Excel sous d\'autres formats TXT au format XLS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode cellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,5 +1,5 @@
 ﻿---
-title: EMF till SXC Konvertera API för Swift
+title:  EMF till SXC Konvertera API för Swift
 description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera EMF filformat till SXC format fil.
 url: /sv/swift/conversion/emf-to-sxc/
 ---

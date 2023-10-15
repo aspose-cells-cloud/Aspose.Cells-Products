@@ -153,7 +153,7 @@ Excel 电子表格处理功能
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-将 ListObject 或表格转换为单元格范围
+将 ListObject 或表格转换为单元格区域
     </p>
    </div>
    <div class="col-lg-4">

@@ -1,10 +1,9 @@
 ﻿---
-title:  ZAHLEN als TSV API für Go speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die Datei im NUMBERS-Format als Datei im TSV-Format zu speichern.
-url: /de/go/saveas/numbers-to-tsv/
+title:  Speichern Sie NUMBERS als TSV mit Go
+description:  Verwendung von Aspose.Cells Cloud SDK für Go zum Speichern der Datei im NUMBERS-Format als Datei im TSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um ZAHLEN als TSV zu speichern" h2="Gehen Sie zur Bibliothek, um ZAHLEN als TSV zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als TSV und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/numbers-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ZAHLEN als TSV speichern" h2="Gehen Sie zur Bibliothek, um ZAHLEN als TSV zu speichern" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als TSV und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/numbers-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als TSV in Go" >}}
@@ -13,7 +12,7 @@ url: /de/go/saveas/numbers-to-tsv/
 Das Speichern von Dateiformaten von NUMBERS als TSV ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zum TSV werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung, um ZAHLEN online als TSV-Dateien zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von NUMBERS im TSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Codebeispiel zum Speichern von ZAHLEN als TSV mit REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,10 +30,10 @@ Das Speichern von Dateiformaten von NUMBERS als TSV ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um ZAHLEN als TSV zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go, um Excel-Dateien in anderen Formaten, NUMBERS als TSV, zu speichern" >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

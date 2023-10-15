@@ -160,7 +160,7 @@ url: /de/java
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer Pivot-Tabelle zusammen
+ Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer Pivot-Tabelle zusammen
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer 
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
+Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
     </p>
    </div>
    <div class="col-lg-4">

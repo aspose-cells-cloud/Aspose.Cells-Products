@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON zu TXT Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im JSON-Format in eine Datei im TXT-Format.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im JSON-Format in eine Datei im TXT-Format.
 url: /de/swift/conversion/json-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

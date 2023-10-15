@@ -1,19 +1,19 @@
 ﻿---
-title:  Converti da XLSB a XLT API per Swift
-description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato XLSB in un file in formato XLT.
+title:  XLSB in XLT Converti API per Swift
+description: Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato XLSB in un file in formato XLT.
 url: /it/swift/conversion/xlsb-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per convertire XLSB in XLT" h2="Libreria Swift per convertire XLSB in XLT" p="Usa Cells Conversion REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Swift. Questa è una soluzione professionale per convertire XLSB in XLT e altri formati di documenti online utilizzando Swift." urlsection="conversion/xlsb-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per convertire XLSB in XLT" h2="Libreria Swift per convertire XLSB in XLT" p="Utilizza Cells Conversion REST API per creare flussi di lavoro personalizzati per fogli di calcolo in Swift. Questa è una soluzione professionale per convertire XLSB in XLT e altri formati di documenti online utilizzando Swift." urlsection="conversion/xlsb-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XLSB in XLT in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XLSB a XLT è un'attività complessa. Tutte le transizioni di formato da XLSB a XLT vengono eseguite dal nostro Swift SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLSB di origine. La nostra libreria Swift è una soluzione professionale per convertire file XLSB in XLT online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un output XLT perfetto.
+La conversione dei formati di file da XLSB a XLT è un compito complesso. Tutte le transizioni dal formato XLSB al formato XLT vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSB di origine. La nostra libreria Swift è una soluzione professionale per convertire file XLSB in XLT online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output XLT perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per convertire XLSB in formato XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per convertire il formato XLSB in XLT" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,9 +66,9 @@ La conversione dei formati di file da XLSB a XLT è un'attività complessa. Tutt
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Swift API per convertire XLSB in XLT" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
+<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiama il metodo cellsWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
+<li>Chiama il metodo celluleWorkbookPutConvertWorkbook per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

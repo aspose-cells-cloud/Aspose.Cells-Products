@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer ODS sous XLSX API pour Ruby
-description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format ODS en tant que fichier au format XLSX.
-url: /fr/ruby/saveas/ods-to-xlsx/
+title:  Enregistrer ODS au format XLSX en utilisant Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format ODS au format XLSX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour enregistrer ODS au format XLSX" h2="Bibliothèque Ruby pour enregistrer ODS au format XLSX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format XLSX et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/ods-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer l\'ODS au format XLSX" h2="Bibliothèque Ruby pour enregistrer ODS au format XLSX" p="Utilisez SaveAs API sur Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer des ODS au format XLSX et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/ods-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS au format XLSX dans Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir d'ODS au format XLSX est une tâche complexe. Toutes les transitions de format ODS vers XLSX sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer en ligne des ODS sous forme de fichiers XLSX. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie XLSX parfaite.
+Enregistrer les formats de fichiers d'ODS au format XLSX est une tâche complexe. Toutes les transitions du format ODS vers XLSX sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer les ODS sous forme de fichiers XLSX en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie XLSX parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour enregistrer ODS au format XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Ruby pour enregistrer ODS au format XLSX à l\'aide de REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -33,15 +32,15 @@ L'enregistrement de formats de fichiers à partir d'ODS au format XLSX est une t
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Ruby API pour enregistrer ODS au format XLSX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour enregistrer les fichiers Excel sous d\'autres formats ODS comme XLSX" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Cellules d'appel_sauvegarder_comme_poste_document_sauvegarder_comme méthode pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `post_workbook_save_as` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>ruby 2.5 ou plus récent</li>
+<li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

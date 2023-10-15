@@ -1,7 +1,6 @@
 ﻿---
 title:  Fügen Sie ein Wasserzeichen für die lokale Arbeitsmappe mit Python in der Cloud hinzu
 description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit Python. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für Python.
-url: /de/python/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Hinzufügen eines Wasserzeichens für lokale Microsoft Excel und OpenOffice Calc-Tabellen" h2="Python-Bibliothek zum Hinzufügen von Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellen" p="Verwenden Sie Cells Watermark REST API, um Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in Python hinzuzufügen. Diese professionelle Lösung fügt Wasserzeichen für Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows online unter Python hinzu." urlsection="background/Add-watermark/" >}}
@@ -18,7 +17,7 @@ Das Hinzufügen eines Wasserzeichens für eine lokale Tabelle mit Python ist ein
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API zum Hinzufügen eines Wasserzeichens" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Python, um einer Excel-Datei ein Wasserzeichen hinzuzufügen." >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode post_watermark auf, um den resultierenden Stream zu erhalten</li>

@@ -1,19 +1,19 @@
 ﻿---
-title:  احفظ BMP كـ PDF API من أجل Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق BMP كملف تنسيق PDF.
+title:  احفظ BMP كـ PDF API للسويفت
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق BMP كملف بتنسيق PDF.
 url: /ar/swift/saveas/bmp-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ BMP كـ PDF" h2="مكتبة سريعة لحفظ BMP كـ PDF" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ BMP كـ PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/bmp-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ BMP كـ PDF" h2="مكتبة سويفت لحفظ BMP كـ PDF" p="استخدم Cells SaveAs REST API لإنشاء سير عمل جدول بيانات مخصص في Swift. يعد هذا حلاً احترافيًا لحفظ BMP كـ PDF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/bmp-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP بالشكل PDF في Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP كـ PDF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من BMP كـ PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى PDF بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ BMP كملفات PDF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PDF مثالي.
+يعد حفظ تنسيقات الملفات من BMP إلى PDF مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من BMP إلى PDF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ BMP كملفات PDF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراجًا مثاليًا PDF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ BMP بتنسيق PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ BMP بتنسيق PDF" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -54,15 +54,15 @@ url: /ar/swift/saveas/bmp-to-pdf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لحفظ BMP كـ PDF" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام سويفت API لحفظ BMP كـ PDF" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
+<li>قم باستدعاء أسلوب cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>macOS Monterey 12.4.0 تحديث</li>
+<li>ماك مونتيري 12.4</li>
 <li>سويفت 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

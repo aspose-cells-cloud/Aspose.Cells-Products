@@ -1,19 +1,18 @@
 ﻿---
-title:  EMF إلى XLSM تحويل API لروبي
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق EMF إلى ملف بتنسيق XLSM.
-url: /ar/ruby/conversion/emf-to-xlsm/
+title:  تحويل EMF إلى XLSM باستخدام روبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف بتنسيق EMF إلى ملف بتنسيق XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لتحويل EMF إلى XLSM" h2="مكتبة روبي لتحويل EMF إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لتحويل EMF إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/emf-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل EMF إلى XLSM" h2="مكتبة روبي لتحويل EMF إلى XLSM" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Ruby. يعد هذا حلاً احترافيًا لتحويل EMF إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/emf-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف EMF إلى XLSM في Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل EMF إلى XLSM باستخدام Cells Cloud SDK لروبي" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من EMF إلى XLSM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى XLSM بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجداول البيانات EMF المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل EMF إلى ملفات XLSM عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLSM مثالي.
+يمكن أن يكون تحويل تنسيقات الملفات من EMF إلى XLSM مهمة معقدة. يتعامل Ruby SDK الخاص بنا مع جميع تحويلات تنسيق EMF إلى XLSM مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF المصدر. توفر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل EMF إلى ملفات XLSM عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Ruby من خلال وظائف قوية ويضمن إخراج XLSM عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل EMF إلى تنسيق XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لتحويل EMF إلى XLSM باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -30,10 +29,10 @@ url: /ar/ruby/conversion/emf-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Ruby API لتحويل EMF إلى XLSM" >}}
-<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
-<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
-<li>خلايا الاتصال_دفتر العمل_يضع_يتحول_طريقة المصنف للحصول على الدفق الناتج</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتحويل ملفات Excel إلى تنسيقات أخرى EMF إلى XLSM" >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

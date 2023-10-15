@@ -1,19 +1,18 @@
 ﻿---
-title:  Enregistrer CSV sous ODS API pour C#
-description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format CSV en tant que fichier au format ODS.
-url: /fr/net/saveas/csv-to-ods/
+title:  Enregistrez CSV au format ODS en utilisant C#
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format CSV en tant que fichier au format ODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer CSV en tant qu\'ODS" h2="C# bibliothèque pour enregistrer CSV en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format ODS et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/csv-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer CSV en tant qu\'ODS" h2="Bibliothèque C# pour enregistrer CSV au format ODS" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format ODS et autres formats de documents en ligne en utilisant le C#." urlsection="saveas/csv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier CSV en tant qu\'ODS au C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier CSV au format ODS dans C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de CSV en tant qu'ODS est une tâche complexe. Toutes les transitions de format CSV vers ODS sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque C# est une solution professionnelle pour enregistrer des fichiers CSV en tant que fichiers ODS en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie ODS parfaite.
+L'enregistrement des formats de fichiers CSV au format ODS est une tâche complexe. Toutes les transitions du format CSV vers ODS sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque C# est une solution professionnelle pour enregistrer des fichiers CSV sous forme de fichiers ODS en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie ODS parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans C# utilisant REST API pour enregistrer CSV au format ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Exemple de code pour enregistrer un fichier CSV en tant qu\'ODS à l\'aide de REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,16 +26,16 @@ L'enregistrement de formats de fichiers à partir de CSV en tant qu'ODS est une 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser C# API pour enregistrer CSV en tant qu\'ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Net pour enregistrer les fichiers Excel sous d\'autres formats CSV comme ODS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
-<li>Appelez la méthode CellsSaveAsPostDocumentSaveAs pour obtenir le flux résultant</li>
+<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
-<li>NET Framework 4.5.2 ou plus récent</li>
-<li>Net Standard 2.0 ou plus récent</li>
+<li>NET Framework 4.5.2 ou version ultérieure</li>
+<li>Net Standard 2.0 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

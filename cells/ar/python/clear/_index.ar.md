@@ -1,14 +1,13 @@
 ﻿---
-title:  مسح الكائنات باستخدام Python
-description:  Aspose.Cells Cloud REST API يدعم الكائنات الداخلية الواضحة في ملف Excel باستخدام Python. SDK يدعم لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
-url: /ar/python/clear/
+title:  مسح الكائنات الداخلية للملف Excel باستخدام Python
+description:  Aspose.Cells Cloud REST API يدعم الكائنات الداخلية الواضحة في ملف Excel باستخدام Python. يدعم SDK لغات التطوير المتعددة. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="مسح الكائنات باستخدام Python" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم الكائنات الداخلية الواضحة في ملف Excel باستخدام Python. SDK يدعم لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="مسح الكائنات الداخلية للملف Excel باستخدام Python" h2="يدعم Aspose.Cells Cloud SDK المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم الكائنات الداخلية الواضحة في ملف Excel باستخدام Python. يدعم SDK لغات التطوير المتعددة. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="امسح العناصر باستخدام وصلات الامتداد Python" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="مسح الكائنات الداخلية لملف Excel باستخدام وصلات الامتداد Python" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
@@ -20,12 +19,12 @@ url: /ar/python/clear/
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.cloud" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

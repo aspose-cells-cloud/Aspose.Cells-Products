@@ -1,19 +1,18 @@
 ﻿---
-title:  Сохраните TXT как PNG API для PHP
+title:  Сохраните TXT как PNG, используя PHP.
 description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата TXT как файла формата PNG.
-url: /ru/php/saveas/txt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить TXT как PNG" h2="Библиотека PHP для сохранения TXT как PNG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения TXT как PNG и других форматов документов в Интернете с использованием PHP." urlsection="saveas/txt-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить TXT как PNG." h2="PHP библиотека для сохранения TXT как PNG" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в PHP. Это профессиональное решение для сохранения TXT как PNG и других форматов документов в Интернете с использованием PHP." urlsection="saveas/txt-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как PNG в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT как PNG — сложная задача. Все переходы между форматами TXT и PNG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека PHP — это профессиональное решение для сохранения файлов TXT в формате PNG онлайн. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат PNG.
+Сохранение формата файла из TXT как PNG — сложная задача. Все переходы формата TXT в PNG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной таблицы TXT. Наша библиотека PHP — это профессиональное решение для сохранения TXT в виде файлов PNG в Интернете. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и идеальный результат PNG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения TXT в формате PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для сохранения TXT как PNG с использованием REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -31,10 +30,10 @@ url: /ru/php/saveas/txt-to-png/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API, чтобы сохранить TXT как PNG" >}}
-<li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
-<li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP, чтобы сохранить файлы Excel в других форматах TXT как PNG" >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,19 +1,18 @@
 ﻿---
-title:  Salva SXC come TXT API per C#
-description:  Utilizzo di Aspose.Cells Cloud SDK per C# per salvare il file in formato SXC come file in formato TXT.
-url: /it/net/saveas/sxc-to-txt/
+title:  Salva SXC come TXT utilizzando C#
+description:  Utilizzando Aspose.Cells Cloud SDK per C# per salvare il file in formato SXC come file in formato TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per salvare SXC come TXT" h2="C# libreria per salvare SXC come TXT" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Net. Questa è una soluzione professionale per salvare SXC come TXT e altri formati di documenti online utilizzando C#." urlsection="saveas/sxc-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva SXC come TXT" h2="Libreria C# per salvare SXC come TXT" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Net. Questa è una soluzione professionale per salvare SXC come TXT e altri formati di documenti online utilizzando C#." urlsection="saveas/sxc-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file SXC come TXT in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da SXC come TXT è un compito complesso. Tutte le transizioni del formato da SXC a TXT vengono eseguite dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria C# è una soluzione professionale per salvare SXC come file TXT online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e un output TXT perfetto.
+Salvare i formati di file da SXC come TXT è un compito complesso. Tutte le transizioni dal formato SXC al formato TXT vengono eseguite dal nostro SDK C# mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria C# è una soluzione professionale per salvare SXC come file TXT online. Questo Cloud SDK offre agli sviluppatori C# funzionalità potenti e un output TXT perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in C# utilizzando REST API per salvare SXC come formato TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Codice Esempio per salvare SXC come TXT utilizzando REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,15 +26,15 @@ Salvare i formati di file da SXC come TXT è un compito complesso. Tutte le tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare C# API per salvare SXC come TXT" >}}
-<li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
-<li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
-<li>Chiamare il metodo CellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Net per salvare i file Excel in altri formati SXC come TXT" >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Utilizza il metodo `PostWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
-<li>NET Framework 4.5.2 o più recente</li>
+<li>NET Framework 4.5.2 o successiva</li>
 <li>Net Standard 2.0 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

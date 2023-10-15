@@ -1,19 +1,18 @@
 ﻿---
-title:  Guardar XML como XLSM API para NodeJS
-description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato XML como archivo de formato XLSM.
-url: /es/nodejs/saveas/xml-to-xlsm/
+title:  Guarde XML como XLSM usando NodeJS
+description:  Utilizando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo en formato XML como archivo en formato XLSM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para guardar XML como XLSM" h2="Biblioteca NodeJS para guardar XML como XLSM" p="Use Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para guardar XML como XLSM y otros formatos de documentos en línea usando NodeJS." urlsection="saveas/xml-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XML como XLSM" h2="Biblioteca NodeJS para guardar XML como XLSM" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para guardar XML como XLSM y otros formatos de documentos en línea usando NodeJS." urlsection="saveas/xml-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XML como XLSM en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde XML como XLSM es una tarea compleja. Todas las transiciones de formato XML a XLSM las realiza nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar XML como archivos XLSM en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida XLSM perfecta.
+Guardar formatos de archivo de XML como XLSM es una tarea compleja. Todas las transiciones de formato XML a XLSM las realiza nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar XML como archivos XLSM en línea. Este SDK de nube ofrece a los desarrolladores de NodeJS una potente funcionalidad y una salida XLSM perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para guardar XML como formato XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código NodeJS para guardar XML como XLSM usando REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -33,15 +32,15 @@ Guardar formatos de archivo desde XML como XLSM es una tarea compleja. Todas las
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el nodo API para guardar XML como XLSM" >}}
-<li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
-<li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
-<li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Node para guardar archivos Excel en otros formatos XML como XLSM" >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
-<li>nodo v6.17.1 o posterior</li>
+<li>nodo v6.17.1 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}
