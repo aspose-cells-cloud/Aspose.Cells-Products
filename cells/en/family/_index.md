@@ -1,27 +1,27 @@
-﻿---
+---
 title: .NET Java Python C++ PHP and Android Excel Spreadsheet Parsing APIs 
 weight: 10
 
 description: Libraries to read write and manipulate Microsoft Excel files in .NET Java C++ Android and SharePoint apps. Export Worksheets in SSRS and JasperReports
 ---
-
+   
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Process Excel Spreadsheets on Multiple Platforms" h2="Native APIs to create, edit, convert & render Excel files. Export spreadsheets to multiple formats on any platform." logoImageSrc="<https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg>" pfName="Aspose.Cells" downloadUrl="<https://downloads.aspose.com/cells>" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Process Excel Spreadsheets on Multiple Platforms" h2="Native APIs to create, edit, convert & render Excel files. Export spreadsheets to multiple formats on any platform." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Cloud Low Code APIs Include" >}}
 
-<div class="Include" style="width:23%;float:left;">
-    {{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-curl.svg" title1="Aspose.Cells Cloud" title2="SDk for Curl" target="right1">}}
-{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-go.svg" title1="Aspose.Cells Cloud" title2="SDk for Go" target="right2">}}
-{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-java.svg" title1="Aspose.Cells Cloud" title2="SDk for Java" target="right3">}}
-{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-net.svg" title1="Aspose.Cells Cloud" title2="SDk for Net" target="right4">}}
-{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-node.svg" title1="Aspose.Cells Cloud" title2="SDk for Node" target="right5">}}
-{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-perl.svg" title1="Aspose.Cells Cloud" title2="SDk for Perl" target="right6">}}
-{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-php.svg" title1="Aspose.Cells Cloud" title2="SDk for PHP" target="right7">}}
-{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-python.svg" title1="Aspose.Cells Cloud" title2="SDk for Pyhton" target="right8">}}
-{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-ruby.svg" title1="Aspose.Cells Cloud" title2="SDk for Ruby" target="right9">}}
-{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" title1="Aspose.Cells Cloud" title2="SDk for Swift" target="right10">}}
+<div class="Include" style="width:23%;float:left;">         
+   {{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-curl.svg" title1="Aspose.Cells Cloud" title2="SDk for Curl" linkurl="/cells/curl" target="right1">}}
+{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-go.svg" title1="Aspose.Cells Cloud" title2="SDk for Go" linkurl="/cells/go" target="right2">}}
+{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-java.svg" title1="Aspose.Cells Cloud" title2="SDk for Java" linkurl="/cells/java" target="right3">}}
+{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-net.svg" title1="Aspose.Cells Cloud" title2="SDk for Net" linkurl="/cells/net" target="right4">}}
+{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-node.svg" title1="Aspose.Cells Cloud" title2="SDk for Node" linkurl="/cells/node" target="right5">}}
+{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-perl.svg" title1="Aspose.Cells Cloud" title2="SDk for Perl" linkurl="/cells/perl" target="right6">}}
+{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-php.svg" title1="Aspose.Cells Cloud" title2="SDk for PHP" linkurl="/cells/php" target="right7">}}
+{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-python.svg" title1="Aspose.Cells Cloud" title2="SDk for Pyhton" linkurl="/cells/python" target="right8">}}
+{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-ruby.svg" title1="Aspose.Cells Cloud" title2="SDk for Ruby" linkurl="/cells/ruby" target="right9">}}
+{{< blocks/products/cells/cells-cloud-family-Include-left-bar imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" title1="Aspose.Cells Cloud" title2="SDk for Swift" linkurl="/cells/swift" target="right10">}}
 </div>
 
 {{< blocks/products/cells/cells-cloud-family-Include-right-layout id="right1" title="Process Excel in Cloud via cURL" titlemsg="Use cURL commands to build Spreadsheet creator & converter apps that access Microsoft Excel & OpenOffice files from cloud storage for processing." >}}  
@@ -93,29 +93,31 @@ description: Libraries to read write and manipulate Microsoft Excel files in .NE
 {{< blocks/products/cells/cells-cloud-family-Include-right-conent title="Popular Features" titlemsg="1. Convert Excel to PDF. <br> 2. Convert Excel to Html. <br> 3. Repair Excel files.">}}
 {{< /blocks/products/cells/cells-cloud-family-Include-right-layout >}}
 
+
+{{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="<https://docs.aspose.com/cells/>" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="<https://github.com/aspose-cells?tab=repositories>" >}}
-{{< blocks/products/pf/slr-element name="API References" href="<https://reference.aspose.com/>" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="<https://www.youtube.com/user/asposevideo>" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells?tab=repositories" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="<https://forum.aspose.com/c/cells/9>" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="<https://helpdesk.aspose.com/>" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="<https://blog.aspose.com/category/cells/>" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells Product Family?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="<https://company.aspose.com/customers>" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="<https://company.aspose.com/customers/success-stories/aspose-cells>" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="<https://downloads.aspose.com/cells>" pricingInformationLink="<https://purchase.aspose.com/pricing/cells/family>" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells" pricingInformationLink="https://purchase.aspose.com/pricing/cells/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
