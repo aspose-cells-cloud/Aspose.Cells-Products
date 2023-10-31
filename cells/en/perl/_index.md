@@ -10,7 +10,14 @@ url: /perl
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Perl" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cells-for-perl.svg"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl" liveDemosLink="https://products.aspose.app/cells/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cells-for-perl.svg"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl" liveDemosLink="https://products.aspose.app/cells/family" >}}      
+
+{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png">}}
+    {{< blocks/products/cells/cells-cloud-language-conent title="Aspose.Cells Cloud SDK for Perl" msg="Aspose.Cells Cloud SDk for Perl enables you to quickly develop competitive cloud-based Microsoft Excel & OpenOffice spreadsheet generator, reader, merger, splitter, encryption and converter apps in Perl programming language. Aspose.Cells Cloud SDK for Perl is built on top of Aspose.Cells REST API. Our Cells Cloud SDK is licensed under MIT.">}}
+    {{< blocks/products/cells/cells-cloud-language-conent msg="Aspose.Cells Cloud SDK for Perl makes your Perl code able to access cloud worksheets and modify auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks and ranges. Enable your Perl program to convert XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, MD (Markdown), XML (SpreadsheetML), CSV, TSV, TXT (TabDelimited), HTML & MHTML formats." >}}
+
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
+
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Cells Cloud SDk for Perl enables you to quickly develop competitive cloud-based Microsoft Excel & OpenOffice spreadsheet generator, reader, merger, splitter, encryption and converter apps in Perl programming language. Aspose.Cells Cloud SDK for Perl is built on top of Aspose.Cells REST API. Our Cells Cloud SDK is licensed under MIT.</p>
