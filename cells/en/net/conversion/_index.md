@@ -1,33 +1,34 @@
 ---
 title: Conversion 
 description: Aspose.Cells Cloud REST API supports the conversion of excel files to different kinds of format files. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /conversion/
+
 ---
-{{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/cells/upper-banner h1="Conversion" h2="Aspose.Cells Cloud SDK supports file format conversion. The supported file format has more than 30+ file formats." uploadmsg="Choose file or drop file" options="HTML,jpg,XML" logoImageSrc="/cells/app-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/main-wrap-class>}}  
+{{< blocks/products/cells/upper-banner h1="Conversion" h2="Aspose.Cells Cloud SDK supports file format conversion. The supported file format has more than 30+ file formats." uploadmsg="Choose file or drop file" options="HTML,jpg,XML" logoImageSrc="/cells/app-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}   
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook  apimethod=PUT  apiname="Conversion" %}} 
+<!-- {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook  apimethod=PUT  apiname="Conversion" %}}  -->
 
-{{% blocks/products/cells/cells-cloud-api-http-method  apiurl=https://api.aspose.cloud/v3.0/cells/convert  %}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT"  apiurl=https://api.aspose.cloud/v3.0/cells/convert  %}}
+  
+{{< /blocks/products/pf/agp/feature-section >}}  
 
-{{< /blocks/products/pf/agp/feature-section >}}
+<!-- {{< blocks/products/cells/product-card-row-required parameters="true" title="Request" >}}    -->
+  <div class="container" style="margin-top:30px;"> 
+{{< blocks/products/cells/cells-cloud-upload>}}  
 
-{{< blocks/products/cells/product-card-row-required parameters="true" title="Request" >}}   
-{{< blocks/products/cells/cells-cloud-upload>}}
+{{< blocks/products/cells/cells-cloud-parameters itName="format" ptName="Format to convert:" required="true" prompt="Please enter format">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="streamformat" ptName="stream Format:" required="true" prompt="Please enter stream Format">}}
+<!-- {{< /blocks/products/cells/product-card-row-required >}}        -->
 
-{{< blocks/products/cells/cells-cloud-parameters itName="format" ptName="The format to convert:" required="true" prompt="Please enter format">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="streamformat" ptName="stream Format:" prompt="Please enter stream Format">}}
-{{< /blocks/products/cells/product-card-row-required >}}
-
-                 
-    {{< blocks/products/cells/cells-cloud-button btName="Convert" apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook >}}                        
+ </div>                    
+                  
 {{% blocks/products/cells/cells-cloud-showcode itName="streamformat" ptName="stream Format:" prompt="Please enter stream Format" %}}  
 
                      
-```cs 
+```cs
 
 	using Aspose.Cells.Cloud.SDK.Api;
 	using Aspose.Cells.Cloud.SDK.Request;
@@ -44,11 +45,11 @@ url: /conversion/
 	request.streamFormat = "html";
 	Stream stream = cellsApi.PutConvertWorkbook(request);
 	fileStream.Close();    
-	 
-```
+	      
+``` 
 {{% /blocks/products/cells/cells-cloud-showcode  %}}      
-
-                     
+    
+                         {{< blocks/products/cells/cells-cloud-button btName="Convert" apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook >}}      
 <!-- </div> -->
 	{{< blocks/products/cells/product-card-row title="Supported File Formats" >}}
 	<div class="diagram1 d2  d1-cloud">
