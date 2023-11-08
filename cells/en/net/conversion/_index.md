@@ -9,19 +9,15 @@ description: Aspose.Cells Cloud REST API supports the conversion of excel files 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-<!-- {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook  apimethod=PUT  apiname="Conversion" %}}  -->
-
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT"  apiurl=https://api.aspose.cloud/v3.0/cells/convert  %}}
   
 {{< /blocks/products/pf/agp/feature-section >}}  
 
-<!-- {{< blocks/products/cells/product-card-row-required parameters="true" title="Request" >}}    -->
   <div class="container" style="margin-top:30px;"> 
 {{< blocks/products/cells/cells-cloud-upload>}}  
 
 {{< blocks/products/cells/cells-cloud-parameters itName="format" ptName="Format to convert:" required="true" prompt="Please enter format">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="streamformat" ptName="stream Format:" required="true" prompt="Please enter stream Format">}}
-<!-- {{< /blocks/products/cells/product-card-row-required >}}        -->
 
  </div>                    
                   
@@ -50,33 +46,32 @@ description: Aspose.Cells Cloud REST API supports the conversion of excel files 
 {{% /blocks/products/cells/cells-cloud-showcode  %}}      
     
                          {{< blocks/products/cells/cells-cloud-button btName="Convert" apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook >}}      
-<!-- </div> -->
-	{{< blocks/products/cells/product-card-row title="Supported File Formats" >}}
-	<div class="diagram1 d2  d1-cloud">
-	<div class="d1-row">
-	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Input Format</header><ul>
-	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>OpenOffice:</b> Ods, Fods, Ots</li>
-	<li><b>Xml:</b>SpreadsheetML, Xml</li>
-	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>Web:</b> Html, Mhtml</li>
-	<li><b>Images:</b> Png, Jpg, Gif, Emf</li>
-	<li><b>Other:</b> Pdf, Json, Markdown</li>
-	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Output Format</header><ul>
-	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Word/PowerPoint:</b> Docx, Pptx</li>
-	<li><b>OpenOffice:</b> Ods, Fods, Ots</li>
-	<li><b>Xml:</b>SpreadsheetML, Xml</li>
-	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>Web:</b> Html, Mhtml</li>
-	<li><b>Images:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
-	<li><b>Other:</b> Pdf, Xps, Dif, Json, Markdown, Sql</li>
-	</ul></div>
-	</div>
-	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
-	</div>
-	{{< /blocks/products/cells/product-card-row >}}
+
+
+{{< blocks/products/cells/cells-cloud-language-card title="Supported File Formats" title2="">}}
+    {{< blocks/products/cells/cells-cloud-language-cardlist title="Input Format">}}
+        <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+        <li><b>Open Office:</b>ODS</li>
+        <li><b>Extensible Markup Language:</b> XML, Josn</li>
+        <li><b>Text:</b> CSV, TSV, TXT, Markdown</li>
+        <li><b>Web:</b> HTML, MHTML</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+     {{< blocks/products/cells/cells-cloud-language-cardlist title="Output Format">}}
+        <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, XLAM</li>
+        <li><b>Open Office:</b> ODS</li>
+        <li><b>iWork Office:</b> Number</li>
+        <li><b>Microsoft Office:</b> Docx, Pptx</li>
+        <li><b>Extensible Markup Language:</b> XML, Josn</li>
+        <li><b>Text:</b> CSV, TSV, TXT, Markdown</li>
+        <li><b>Web:</b> HTML, MHTML</li>
+        <li><b>Image:</b> SVG, TIFF, PNG, BMP, EMF, JPEG, GIF</li>
+        <li><b>Adobe Portable Document:</b> Pdf</li>
+        <li><b>Data Interchange Format:</b> Dif</li>
+        <li><b>XML Paper Specification Format:</b> XPS</li>
+        <li><b>Database Script:</b> SQL</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+{{< /blocks/products/cells/cells-cloud-language-card >}}
+
 {{< blocks/products/cells/product-card-row title="Popular Operates" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Conversion Xlsx to Pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}

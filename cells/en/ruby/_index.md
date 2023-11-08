@@ -25,199 +25,55 @@ weight: 90
     {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for Ruby facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>">}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
-
-
 {{< blocks/products/cells/cells-cloud-language-card title="Supported File Formats" title2="">}}
     {{< blocks/products/cells/cells-cloud-language-cardlist title="Input Format">}}
         <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
-        <li><b>Open Office:</b> ODS, FOds</li>
-        <li><b>Start Office:</b> SXC</li>
-        <li><b>iWork Office:</b> Numbers</li>
-        <li><b>Extensible Markup Language:</b> XML, Json, SpreadsheetML</li>
+        <li><b>Open Office:</b>ODS</li>
+        <li><b>Extensible Markup Language:</b> XML, Josn</li>
         <li><b>Text:</b> CSV, TSV, TXT, Markdown</li>
         <li><b>Web:</b> HTML, MHTML</li>
      {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
-
-    {{< blocks/products/cells/cells-cloud-language-cardlist title="Output format">}}
-        <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
-        <li><b>OpenOffice:</b> ODS</li>
-        <li><b>Start Office:</b> SXC</li>
+     {{< blocks/products/cells/cells-cloud-language-cardlist title="Output Format">}}
+        <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, XLAM</li>
+        <li><b>Open Office:</b> ODS</li>
+        <li><b>iWork Office:</b> Number</li>
         <li><b>Microsoft Office:</b> Docx, Pptx</li>
-        <li><b>Extensible Markup Language:</b> XML, Json, SpreadsheetML</li>
-        <li><b>Text:</b> CSV, TSV, TXT (TabDelimited)</li>
+        <li><b>Extensible Markup Language:</b> XML, Josn</li>
+        <li><b>Text:</b> CSV, TSV, TXT, Markdown</li>
         <li><b>Web:</b> HTML, MHTML</li>
-        <li><b>Image:</b> Dif, Xps, Svg, Tiff</li>
-        <li><b>Image:</b> Png, Bmp, Emf, Jpg, Gif</li>
+        <li><b>Image:</b> SVG, TIFF, PNG, BMP, EMF, JPEG, GIF</li>
+        <li><b>Adobe Portable Document:</b> Pdf</li>
+        <li><b>Data Interchange Format:</b> Dif</li>
+        <li><b>XML Paper Specification Format:</b> XPS</li>
+        <li><b>Database Script:</b> SQL</li>
      {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
 {{< /blocks/products/cells/cells-cloud-language-card >}}
 
-<!--Diagrams Start-->
 
-<!--Diagrams End-->
+{{< blocks/products/cells/product-card-row title=" Advanced Spreadsheet Manipulation Features" title2="">}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-o" msg="Support for multiple types of list filters" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+{{< /blocks/products/cells/product-card-row >}}
 
-<!--Feature-section Start-->
-<div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
- </a>
- <div class="row">
-  <div class="container">
-   <h2 class="pr-ft">
-    Advanced Spreadsheet Manipulation Features
-   </h2>
-   <p>
-   </p>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add filters with custom criteria for lists
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Support for multiple types of list filters
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Get information regarding Chart Area border or fill format
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add, update, and delete charts in worksheet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Get, update, show or hide chart legend
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Get, update, chart title and set its visibility
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add or remove a cell area for conditional formatting
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add, update, and delete worksheet hyperlinks
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add a ListObject at specified place in the Excel file
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Delete specific or all ListObjects in a worksheet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Convert ListObject or table to a range of cells
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Summarize data of large ListObject or Table with Pivot Table
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add OleObjects to Excel worksheet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Delete specific or all OleObjects from worksheet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-th ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Insert or delete, horizontal or vertical page breaks
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Manipulate page setup, header &amp; footer
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add, update, fetch or delete worksheet pictures
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Create, update, fetch or delete document properties
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Fetch the required shape from worksheet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add, update or delete shapes from a worksheet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add, update or delete validations for worksheets
-    </p>
-   </div>
-   
-  </div>
- </div>
-</div>
-<!--Feature-section End-->
 
 {{< blocks/products/cells/cells-cloud-language-card title="Platform Independence" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" />}}
 
