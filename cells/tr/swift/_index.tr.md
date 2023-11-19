@@ -1,11 +1,11 @@
 ﻿---
 title:  Swift Elektronik Tablo Oluşturucu ve Dönüştürücü (Cloud REST API)
-description: REST API, Microsoft ve OpenOffice e-tablolarını bulutta almak, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için via Swift SDK
+description: REST API, bulutta Microsoft ve OpenOffice e-tablolarını almak, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için via Swift SDK
 weight: 130
 url: /tr/swift
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excel E-Tablolarını Oluşturmak ve Dönüştürmek için Swift SDK" h2="REST API, Microsoft ve OpenOffice elektronik tablolarını bulut via Swift SDK\'ya getirmek, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için." logoImageSrc="/headers/aspose_cells-for-swift.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel E-Tablolarını Oluşturmak ve Dönüştürmek için Swift SDK" h2="Microsoft ve OpenOffice e-tablolarını bulut via Swift SDK\'ya getirmek, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için REST API." logoImageSrc="/headers/aspose_cells-for-swift.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" >}}
 
@@ -139,7 +139,7 @@ url: /tr/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Excel dosyasında belirtilen yere bir ListObject ekleyin
+Excel dosyasında belirtilen yere bir ListObject ekleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /tr/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Belirli veya tüm OleObject'leri çalışma sayfasından silin
+ Belirli veya tüm OleObject'leri çalışma sayfasından silin
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,7 +235,7 @@ Belirli veya tüm OleObject'leri çalışma sayfasından silin
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
- ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'lerini destekleyen herhangi bir platformda Swift için Aspose.Cells Cloud SDK'yı kullanmaya hazırsınız. Aspose.Cells Swift için Bulut SDK'sı e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
+ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'lerini destekleyen herhangi bir platformda Swift için Aspose.Cells Cloud SDK'yı kullanmaya hazırsınız. Aspose.Cells Swift için Bulut SDK'sı e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
@@ -243,15 +243,15 @@ Belirli veya tüm OleObject'leri çalışma sayfasından silin
  Çalışma Kitaplarını İşleme via Bulut SDK
     </h2>
     <p>
-Aspose.Cells Swift için Bulut SDK, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabındaki metin öğelerini okumanıza, gizli öğeleri göz ardı ederek çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı sağlamanıza olanak tanır uzunluk, çalışma kitabına veri aktarma, çalışma kitabındaki tüm formülleri hesaplama, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapma, akıllı işaretleyici kullanma, çalışma kitabını istek içeriğinden başka bir formata dönüştürme, içerik değişikliğine izin vermek için şifre uygulama.
+ Aspose.Cells Swift için Bulut SDK, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabındaki metin öğelerini okumanıza, gizli öğeleri göz ardı ederek çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı sağlamanıza olanak tanır uzunluk, çalışma kitabına veri aktarma, çalışma kitabındaki tüm formülleri hesaplama, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapma, akıllı işaretleyici kullanma, çalışma kitabını istek içeriğinden başka bir formata dönüştürme, içerik değişikliğine izin vermek için şifre uygulama.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Çalışma Sayfalarını İşlemek için Cloud SDK
+ Çalışma Sayfalarını İşlemek için Cloud SDK
     </h2>
     <p>
-Swift için Aspose.Cells Cloud SDK'yı kullanarak çalışma sayfasındaki belirli bir satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satır veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi kopyalayabilirsiniz. başka bir hücreye, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplayın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
+Swift için Aspose.Cells Cloud SDK'yı kullanarak çalışma sayfasındaki belirli satırları veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satır veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi kopyalayabilirsiniz. başka bir hücreye, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplayın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
     </p>
    </div>
    <div class="col-lg-12">

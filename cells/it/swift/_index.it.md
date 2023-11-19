@@ -13,7 +13,7 @@ url: /it/swift
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK per Swift aiuta i programmatori a integrare perfettamente Microsoft Excel e le funzionalità di visualizzazione ed elaborazione dei fogli di calcolo di OpenOffice nelle loro applicazioni basate su cloud sviluppate in Swift. Aspose.Cells Cloud SDK per Swift è concesso in licenza dal MIT.</p>
-<p>Aspose.Cells Cloud SDK per Swift consente alle tue app Swift di recuperare fogli di calcolo, fogli di lavoro e cartelle di lavoro archiviati nel cloud, nonché di generare nuovi fogli di calcolo. Puoi anche ottimizzare il codice Swift per elaborare e modificare formattazione condizionale, grafici, attività, forme, filtri, OleObject, intervalli, ListObject e tabelle pivot, dall'interno delle tue applicazioni senza installare alcun software di terze parti.</p>
+<p>Aspose.Cells Cloud SDK per Swift consente alle tue app Swift di recuperare fogli di calcolo, fogli di lavoro e cartelle di lavoro archiviati nel cloud, nonché di generare nuovi fogli di calcolo. Puoi anche ottimizzare il codice Swift per elaborare e modificare formattazione condizionale, grafici, attività, forme, filtri, OleObject, intervalli, ListObject e tabelle pivot, dall'interno delle tue applicazioni senza installare software di terze parti.</p>
 <p>Utilizza Aspose.Cells Cloud SDK per Swift per convertire i fogli di lavoro Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) e OpenOffice (ODS) in altri formati popolari, come XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF e Ribasso (MD). Puoi anche lavorare con i formati SXC e FODS utilizzando Aspose.Cells Cloud SDK per Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -139,7 +139,7 @@ url: /it/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Aggiungi un ListObject nella posizione specificata nel file Excel
+Aggiungi un ListObject nella posizione specificata nel file Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /it/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Elimina specifici o tutti gli OleObject dal foglio di lavoro
+ Elimina specifici o tutti gli OleObject dal foglio di lavoro
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,7 +235,7 @@ Elimina specifici o tutti gli OleObject dal foglio di lavoro
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose per Nuvola
      </a>
- e ottieni le informazioni sulla tua richiesta. Una volta che hai l'App SID &amp; chiave, sei pronto per utilizzare Aspose.Cells Cloud SDK for Swift su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud SDK per Swift fornisce tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre dati dai fogli di calcolo per ulteriore elaborazione o archiviazione.
+ ottieni le informazioni sulla tua richiesta. Una volta che hai l'App SID &amp; chiave, sei pronto per utilizzare Aspose.Cells Cloud SDK for Swift su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud SDK per Swift fornisce tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre dati dai fogli di calcolo per ulteriore elaborazione o archiviazione.
     </p>
    </div>
    <div class="col-lg-12">
@@ -243,12 +243,12 @@ Elimina specifici o tutti gli OleObject dal foglio di lavoro
  Elaborazione cartelle di lavoro via Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK per Swift consente di creare, dividere, unire, cercare e sostituire testo, protezione tramite password, esportare in formati di file supportati, leggere elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire una chiave di crittografia lunghezza, importare dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare un marcatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
+ Aspose.Cells Cloud SDK per Swift consente di creare, dividere, unire, cercare e sostituire testo, protezione tramite password, esportare in formati di file supportati, leggere elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire una chiave di crittografia lunghezza, importare dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare un marcatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Cloud SDK per elaborare fogli di lavoro
+ Cloud SDK per elaborare fogli di lavoro
     </h2>
     <p>
 Utilizzando Aspose.Cells Cloud SDK per Swift è possibile eliminare una riga specifica o tutte le righe nel foglio di lavoro, recuperare i dati della cella del foglio di lavoro o lo stile della cella in base al nome della cella, leggere i dati della riga o della colonna del foglio di lavoro in base al relativo indice, calcolare la formula della cella, cancellare il contenuto della cella, copiare la cella in un'altra cella, copiare colonne e righe del foglio di lavoro, raggruppare righe e colonne del foglio di lavoro, nascondere righe e colonne del foglio di lavoro, impostare colonne e stili di riga del foglio di lavoro, impostare il valore HTMLSTRING nella cella, impostare il valore dell'intervallo di celle e modificare molte altre impostazioni del foglio di lavoro.

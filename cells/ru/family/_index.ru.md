@@ -1,87 +1,55 @@
 ﻿---
-title:  Пакеты SDK для облачного генератора и конвертера электронных таблиц и API REST
-description:  SDK для популярных языков обеспечивает плавную интеграцию с вашими приложениями для чтения, изменения и преобразования электронных таблиц Excel и OpenOffice, размещенных в облаке.
+title: API для анализа электронных таблиц Excel доступны в .NET, Java, Python, C++, PHP и Go.
 weight: 10
-url: /ru/family
+description: Облако Aspose.Cells API позволяет выполнять широкий спектр задач по обработке документов на любой платформе, включая создание, манипулирование, преобразование и рендеринг документов Excel в облаке. С помощью этого API вы можете легко конвертировать Excel, OpenOffice и другие форматы файлов в различные выходные форматы, включая PDF, HTML, ODS, XPS, CSV, JSON, Markdown и другие.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Облачные SDK и REST API для обработки таблиц Excel" h2="Пакеты SDK для популярных языков обеспечивают плавную интеграцию с вашими приложениями для чтения, изменения и преобразования электронных таблиц Excel и OpenOffice, размещенных в облаке." logoImageSrc="/headers/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Процесс Excel Электронные таблицы на нескольких платформах" h2="Собственные API для создания, редактирования, преобразования и рендеринга файлов Excel. Экспортируйте электронные таблицы в несколько форматов на любой платформе." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Cells Включают API с низким кодом" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облако для cURL" imgSrc="/sdk/aspose_cells-for-curl.svg" productLink="/cells/curl/" >}}
-Получите доступ к электронным таблицам Excel и OpenOffice, размещенным в облаке, для обработки и преобразования с помощью cURL via REST API.
-{{< /blocks/products/pf/product >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Обзор" msg="The Aspose.Cells Cloud API empowers you to execute a wide range of document processing tasks <b>on any platform</b>, encompassing the creation, manipulation, conversion, and rendering of Excel documents in the cloud. With this API, you can effortlessly convert Excel, OpenOffice, and other file formats into a variety of output formats, including PDF, HTML, ODS, XPS, CSV, JSON, Markdown, and more." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Техническая поддержка" msg="Aspose offers unlimited free technical support for all its products, which is accessible to all users, including those using the evaluation version. If you require assistance with Aspose.Cells Cloud, you can post your question in the <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud Forum</a>, and you can expect a response within a few hours. Questions are addressed directly by the Aspose.Cells Cloud development team." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
-Создавайте облачные приложения для создания и конвертации электронных таблиц с помощью Cloud SDK для C#, ASP.NET или другого языка, связанного с .NET.
-{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells Cloud Low Code API включает в себя" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-curl.svg" pfName="Aspose.Cells Cloud" title="SDk для Curl" linkurl="/cells/curl" productLink="/cells/curl/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-go.svg" pfName="Aspose.Cells Cloud" title="SDk для Go" linkurl="/cells/go" productLink="/cells/go/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-java.svg" pfName="Aspose.Cells Cloud" title="СДк for Java" linkurl="/cells/java" productLink="/cells/java/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-net.svg" pfName="Aspose.Cells Cloud" title="SDk для сети" linkurl="/cells/net" productLink="/cells/net/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-node.svg" pfName="Aspose.Cells Cloud" title="SDk для узла" linkurl="/cells/node" productLink="/cells/node/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-perl.svg" pfName="Aspose.Cells Cloud" title="SDk для Perl" linkurl="/cells/perl" productLink="/cells/perl/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-php.svg" pfName="Aspose.Cells Cloud" title="SDk для PHP" linkurl="/cells/php" productLink="/cells/php/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-python.svg" pfName="Aspose.Cells Cloud" title="SDk для Python" linkurl="/cells/python" productLink="/cells/python/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-ruby.svg" pfName="Aspose.Cells Cloud" title="SDk для Ruby" linkurl="/cells/ruby" productLink="/cells/ruby" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" pfName="Aspose.Cells Cloud" title="SDk для Swift" linkurl="/cells/swift" productLink="/cells/swift/" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK for Java" imgSrc="/sdk/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-Предоставьте облачным приложениям Java доступ, чтение, запись и обработку листов Excel, размещенных в облаке.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для PHP" imgSrc="/sdk/aspose_cells-for-php.svg" productLink="/cells/php/" >}}
-Создавайте, просматривайте, объединяйте, разделяйте и конвертируйте таблицы XLSX и ODS в облаке via PHP REST SDK.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Android" imgSrc="/sdk/aspose_cells-for-android.svg" productLink="/cells/android/" >}}
-Быстро разрабатывайте приложения Excel, генератор электронных таблиц и шифрования OpenOffice для устройств Android с помощью REST API.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Python" imgSrc="/sdk/aspose_cells-for-python.svg" productLink="/cells/python/" >}}
-Python REST SDK для доступа к облачным Excel листам и файлам ODS для чтения, редактирования и преобразования в ваших приложениях Python.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Ruby" imgSrc="/sdk/aspose_cells-for-ruby.svg" productLink="/cells/ruby/" >}}
-Разрешите своим облачным приложениям Ruby просматривать, шифровать, изменять, конвертировать и экспортировать электронные таблицы Excel, размещенные в облаке.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Node.js" imgSrc="/sdk/aspose_cells-for-node.svg" productLink="/cells/nodejs/" >}}
-Легко интегрируйте Microsoft Excel и функции обработки электронных таблиц OpenOffice в свои облачные приложения Node.js via REST API.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Perl" imgSrc="/sdk/aspose_cells-for-perl.svg" productLink="/cells/perl/" >}}
-Помогает вашим облачным приложениям Perl получать доступ к таблицам XLSX и ODS и манипулировать ими в облаке без какого-либо стороннего программного обеспечения.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Swift" imgSrc="/sdk/aspose_cells-for-swift.svg" productLink="/cells/swift/" >}}
-Легко создайте свой собственный облачный генератор и экспортер файлов Excel и OpenOffice на языке программирования Swift.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Go" imgSrc="/sdk/aspose_cells-for-go.svg" productLink="/cells/go/" >}}
-Получите возможность создавать, изменять, обрабатывать или конвертировать Microsoft Excel и электронные таблицы OpenOffice via на языке Go на любой платформе.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для CPP" imgSrc="/sdk/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
-Получите возможность создавать, изменять, обрабатывать или конвертировать Microsoft Excel и электронные таблицы OpenOffice via на языке Go на любой платформе.
-{{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells-cloud" >}}
-{{< blocks/products/pf/slr-element name="API Рекомендации" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/cells/" >}}
+{{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells?tab=repositories" >}}
+{{< blocks/products/pf/slr-element name="API Рекомендации" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Обучающие видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.cloud" >}}
-{{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.cloud/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Cells Семейство облачных продуктов?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.cloud/customers" >}}
-{{< blocks/products/pf/slr-element name="Безопасность" href="https://company.aspose.cloud/legal/security" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Почему семейство продуктов Aspose.Cells?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells" pricingInformationLink="https://purchase.aspose.com/pricing/cells/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

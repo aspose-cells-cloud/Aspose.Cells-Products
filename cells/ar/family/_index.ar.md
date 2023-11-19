@@ -1,87 +1,55 @@
 ﻿---
-title:  مولد جداول البيانات السحابية ومحول SDKs وREST APIs
-description:  توفر مجموعات SDK للغات الشائعة تكاملًا سلسًا في تطبيقاتك لقراءة وتعديل وتحويل Excel وجداول بيانات OpenOffice المستضافة على السحابة
+title: تتوفر واجهات برمجة التطبيقات لتحليل جداول البيانات Excel في .NET وJava وPython وC++ وPHP وGo.
 weight: 10
-url: /ar/family
+description: تمكّنك سحابة Aspose.Cells API من تنفيذ مجموعة واسعة من مهام معالجة المستندات على أي نظام أساسي، بما في ذلك إنشاء مستندات Excel ومعالجتها وتحويلها وعرضها في السحابة. باستخدام هذا API، يمكنك بسهولة تحويل Excel وOpenOffice وتنسيقات الملفات الأخرى إلى مجموعة متنوعة من تنسيقات الإخراج، بما في ذلك PDF وHTML وODS وXPS وCSV وJSON وMarkdown والمزيد.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Cloud SDKs وREST APIs لمعالجة Excel ورقة" h2="توفر مجموعات SDK للغات الشائعة تكاملًا سلسًا في تطبيقاتك لقراءة وتعديل وتحويل Excel وجداول بيانات OpenOffice المستضافة على السحابة." logoImageSrc="/headers/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="معالجة جداول البيانات Excel على منصات متعددة" h2="واجهات برمجة التطبيقات الأصلية لإنشاء ملفات Excel وتحريرها وتحويلها وتقديمها. تصدير جداول البيانات إلى تنسيقات متعددة على أي نظام أساسي." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Cells تتضمن واجهات برمجة التطبيقات ذات التعليمات البرمجية المنخفضة" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="سحابة لcURL" imgSrc="/sdk/aspose_cells-for-curl.svg" productLink="/cells/curl/" >}}
-الوصول إلى Excel وجداول بيانات OpenOffice المستضافة على السحابة للمعالجة والتحويل باستخدام cURL via REST API.
-{{< /blocks/products/pf/product >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="ملخص" msg="The Aspose.Cells Cloud API empowers you to execute a wide range of document processing tasks <b>on any platform</b>, encompassing the creation, manipulation, conversion, and rendering of Excel documents in the cloud. With this API, you can effortlessly convert Excel, OpenOffice, and other file formats into a variety of output formats, including PDF, HTML, ODS, XPS, CSV, JSON, Markdown, and more." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="دعم فني" msg="Aspose offers unlimited free technical support for all its products, which is accessible to all users, including those using the evaluation version. If you require assistance with Aspose.Cells Cloud, you can post your question in the <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud Forum</a>, and you can expect a response within a few hours. Questions are addressed directly by the Aspose.Cells Cloud development team." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="سحابة SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
-أنشئ تطبيقات إنشاء ومحول جداول البيانات المستندة إلى السحابة باستخدام Cloud SDK لـ C# أو ASP.NET أو أي لغة أخرى ذات صلة بـ .NET.
-{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells تتضمن واجهات برمجة التطبيقات السحابية ذات التعليمات البرمجية المنخفضة" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-curl.svg" pfName="Aspose.Cells Cloud" title="SDK للضفيرة" linkurl="/cells/curl" productLink="/cells/curl/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-go.svg" pfName="Aspose.Cells Cloud" title="SDK للذهاب" linkurl="/cells/go" productLink="/cells/go/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-java.svg" pfName="Aspose.Cells Cloud" title="اس دي كيه for Java" linkurl="/cells/java" productLink="/cells/java/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-net.svg" pfName="Aspose.Cells Cloud" title="SDK للشبكة" linkurl="/cells/net" productLink="/cells/net/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-node.svg" pfName="Aspose.Cells Cloud" title="SDK للعقدة" linkurl="/cells/node" productLink="/cells/node/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-perl.svg" pfName="Aspose.Cells Cloud" title="SDK لPerl" linkurl="/cells/perl" productLink="/cells/perl/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-php.svg" pfName="Aspose.Cells Cloud" title="SDK لPHP" linkurl="/cells/php" productLink="/cells/php/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-python.svg" pfName="Aspose.Cells Cloud" title="SDK لبيثون" linkurl="/cells/python" productLink="/cells/python/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-ruby.svg" pfName="Aspose.Cells Cloud" title="SDK لروبي" linkurl="/cells/ruby" productLink="/cells/ruby" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" pfName="Aspose.Cells Cloud" title="SDK لسويفت" linkurl="/cells/swift" productLink="/cells/swift/" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="سحابة SDK for Java" imgSrc="/sdk/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-قم بتمكين تطبيقاتك السحابية Java للوصول إلى أوراق العمل Excel المستضافة على السحابة وقراءتها وكتابتها ومعالجتها.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="سحابة SDK لPHP" imgSrc="/sdk/aspose_cells-for-php.svg" productLink="/cells/php/" >}}
-إنشاء وعرض ودمج وتقسيم وتحويل جداول بيانات XLSX وODS في السحابة via PHP REST SDK.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="سحابة SDK لنظام Android" imgSrc="/sdk/aspose_cells-for-android.svg" productLink="/cells/android/" >}}
-قم بالتطوير السريع لتطبيقات Excel ومولد جداول البيانات OpenOffice وتطبيقات التشفير لأجهزة Android باستخدام REST API.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="سحابة SDK لPython" imgSrc="/sdk/aspose_cells-for-python.svg" productLink="/cells/python/" >}}
-Python REST SDK للوصول إلى الأوراق السحابية Excel وملفات ODS للقراءة والتحرير والتحويل داخل تطبيقات Python الخاصة بك.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK لروبي" imgSrc="/sdk/aspose_cells-for-ruby.svg" productLink="/cells/ruby/" >}}
-قم بتمكين تطبيقات Ruby cloud الخاصة بك لعرض وتشفير وتعديل وتحويل وتصدير Excel جداول البيانات المستضافة على السحابة.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK لـ Node.js" imgSrc="/sdk/aspose_cells-for-node.svg" productLink="/cells/nodejs/" >}}
-قم بدمج وظائف معالجة جداول البيانات Microsoft Excel وOpenOffice بسهولة في تطبيقات السحابة Node.js via REST API.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="سحابة SDK لPerl" imgSrc="/sdk/aspose_cells-for-perl.svg" productLink="/cells/perl/" >}}
-يساعد تطبيقات Perl المستندة إلى السحابة على الوصول إلى أوراق XLSX وODS ومعالجتها على السحابة، دون أي برامج تابعة لجهة خارجية.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="سحابة SDK لسويفت" imgSrc="/sdk/aspose_cells-for-swift.svg" productLink="/cells/swift/" >}}
-يمكنك بسهولة إنشاء مولد ومصدر ملفات Excel وOpenOffice المستند إلى السحابة بلغة البرمجة Swift.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK لـ Go" imgSrc="/sdk/aspose_cells-for-go.svg" productLink="/cells/go/" >}}
-احصل على القدرة على إنشاء أو تعديل أو معالجة أو تحويل Microsoft Excel وجدول بيانات OpenOffice via انتقل إلى اللغة على أي نظام أساسي.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK لـ CPP" imgSrc="/sdk/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
-احصل على القدرة على إنشاء أو تعديل أو معالجة أو تحويل Microsoft Excel وجدول بيانات OpenOffice via انتقل إلى اللغة على أي نظام أساسي.
-{{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells-cloud" >}}
-{{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/cells/" >}}
+{{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells?tab=repositories" >}}
+{{< blocks/products/pf/slr-element name="API المراجع" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.cloud" >}}
-{{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.cloud/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells عائلة المنتجات السحابية؟" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.cloud/customers" >}}
-{{< blocks/products/pf/slr-element name="حماية" href="https://company.aspose.cloud/legal/security" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا عائلة المنتج Aspose.Cells؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="قصص النجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells" pricingInformationLink="https://purchase.aspose.com/pricing/cells/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,87 +1,55 @@
 ﻿---
-title: 云电子表格生成器和转换器 SDK 和 REST API
-description: 适用于流行语言的 SDK 可无缝集成到您的应用程序中，以读取、修改和转换 Excel 以及云端托管的 OpenOffice 电子表格
+title: Excel 电子表格解析的 API 在 .NET、Java、Python、C++、PHP 和 Go 中可用。
 weight: 10
-url: /zh/family
+description: Aspose.Cells 云 API 使您能够在任何平台上执行各种文档处理任务，包括在云中创建、操作、转换和渲染 Excel 文档。有了这个API，您可以轻松地将Excel、OpenOffice和其他文件格式转换为各种输出格式，包括PDF、HTML、ODS、XPS、CSV、JSON、Markdown等。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="用于处理 Excel 表的云 SDK 和 REST API" h2="适用于流行语言的 SDK 可无缝集成到您的应用程序中，以读取、修改和转换云上托管的 Excel 和 OpenOffice 电子表格。" logoImageSrc="/headers/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="在多个平台上处理 Excel 电子表格" h2="用于创建、编辑、转换和渲染 Excel 文件的本机 API。在任何平台上将电子表格导出为多种格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Cells 低代码 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="云为cURL" imgSrc="/sdk/aspose_cells-for-curl.svg" productLink="/cells/curl/" >}}
-使用 cURL via REST API 访问托管在云上的 Excel 和 OpenOffice 电子表格进行处理和转换。
-{{< /blocks/products/pf/product >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="概述" msg="The Aspose.Cells Cloud API empowers you to execute a wide range of document processing tasks <b>on any platform</b>, encompassing the creation, manipulation, conversion, and rendering of Excel documents in the cloud. With this API, you can effortlessly convert Excel, OpenOffice, and other file formats into a variety of output formats, including PDF, HTML, ODS, XPS, CSV, JSON, Markdown, and more." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="技术支援" msg="Aspose offers unlimited free technical support for all its products, which is accessible to all users, including those using the evaluation version. If you require assistance with Aspose.Cells Cloud, you can post your question in the <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud Forum</a>, and you can expect a response within a few hours. Questions are addressed directly by the Aspose.Cells Cloud development team." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="云SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
-使用适用于 C#、ASP.NET 或其他 .NET 相关语言的 Cloud SDK 构建基于云的电子表格生成器和转换器应用程序。
-{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells 云低代码 API 包括" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-curl.svg" pfName="Aspose.Cells Cloud" title="Curl 的 SDK" linkurl="/cells/curl" productLink="/cells/curl/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-go.svg" pfName="Aspose.Cells Cloud" title="Go 的 SDK" linkurl="/cells/go" productLink="/cells/go/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-java.svg" pfName="Aspose.Cells Cloud" title="软件开发包 for Java" linkurl="/cells/java" productLink="/cells/java/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-net.svg" pfName="Aspose.Cells Cloud" title="网络 SDK" linkurl="/cells/net" productLink="/cells/net/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-node.svg" pfName="Aspose.Cells Cloud" title="节点 SDK" linkurl="/cells/node" productLink="/cells/node/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-perl.svg" pfName="Aspose.Cells Cloud" title="SDK Perl" linkurl="/cells/perl" productLink="/cells/perl/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-php.svg" pfName="Aspose.Cells Cloud" title="SDK PHP" linkurl="/cells/php" productLink="/cells/php/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-python.svg" pfName="Aspose.Cells Cloud" title="Pyhton 的 SDK" linkurl="/cells/python" productLink="/cells/python/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-ruby.svg" pfName="Aspose.Cells Cloud" title="Ruby 的 SDK" linkurl="/cells/ruby" productLink="/cells/ruby" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" pfName="Aspose.Cells Cloud" title="Swift 的 SDK" linkurl="/cells/swift" productLink="/cells/swift/" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="云SDK for Java" imgSrc="/sdk/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-使您的 Java 云应用程序能够访问、读取、写入和处理云上托管的 Excel 工作表。
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="云SDK PHP" imgSrc="/sdk/aspose_cells-for-php.svg" productLink="/cells/php/" >}}
-在云中生成、查看、合并、拆分和转换 XLSX 和 ODS 电子表格 via PHP REST SDK。
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="安卓云SDK" imgSrc="/sdk/aspose_cells-for-android.svg" productLink="/cells/android/" >}}
-使用 REST API 快速开发适用于 Android 设备的 Excel 和 OpenOffice 电子表格生成器和加密应用程序。
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="云SDK Python" imgSrc="/sdk/aspose_cells-for-python.svg" productLink="/cells/python/" >}}
-Python REST SDK 用于访问云 Excel 工作表和 ODS 文件，以便在 Python 应用程序中读取、编辑和转换。
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="适用于 Ruby 的云 SDK" imgSrc="/sdk/aspose_cells-for-ruby.svg" productLink="/cells/ruby/" >}}
-使您的 Ruby 云应用程序能够查看、加密、修改、转换和导出云上托管的 Excel 电子表格。
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="适用于 Node.js 的云 SDK" imgSrc="/sdk/aspose_cells-for-node.svg" productLink="/cells/nodejs/" >}}
-轻松将 Microsoft Excel 和 OpenOffice 电子表格处理功能集成到您的 Node.js 云应用程序 via REST API 中。
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="云SDK Perl" imgSrc="/sdk/aspose_cells-for-perl.svg" productLink="/cells/perl/" >}}
-帮助您基于云的 Perl 应用程序访问和操作云上的 XLSX 和 ODS 工作表，无需任何第 3 方软件。
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="适用于 Swift 的云 SDK" imgSrc="/sdk/aspose_cells-for-swift.svg" productLink="/cells/swift/" >}}
-使用 Swift 编程语言轻松构建您自己的基于云的 Excel 和 OpenOffice 文件生成器和导出器。
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Go 云 SDK" imgSrc="/sdk/aspose_cells-for-go.svg" productLink="/cells/go/" >}}
-能够在任何平台上生成、修改、处理或转换 Microsoft Excel 和 OpenOffice 电子表格 via Go 语言。
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="CPP云SDK" imgSrc="/sdk/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
-能够在任何平台上生成、修改、处理或转换 Microsoft Excel 和 OpenOffice 电子表格 via Go 语言。
-{{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-cells-cloud" >}}
-{{< blocks/products/pf/slr-element name="API 参考文献" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/cells/" >}}
+{{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-cells?tab=repositories" >}}
+{{< blocks/products/pf/slr-element name="API 参考文献" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="产品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.cloud" >}}
-{{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.cloud/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.Cells 云产品系列？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.cloud/customers" >}}
-{{< blocks/products/pf/slr-element name="安全" href="https://company.aspose.cloud/legal/security" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.Cells 产品系列？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells" pricingInformationLink="https://purchase.aspose.com/pricing/cells/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

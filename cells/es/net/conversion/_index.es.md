@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversión de formatos de archivo Excel usando C#
-description: Aspose.Cells Cloud REST API admite la conversión de formato de archivo Excel utilizando C# y ofrece SDK para múltiples lenguajes de programación.
+description:  Aspose.Cells Cloud REST API admite la conversión de formato de archivo Excel utilizando C# y ofrece SDK para múltiples lenguajes de programación.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Conversión de formatos de archivo Excel usando C#" h2="Aspose.Cells Cloud SDK admite la conversión entre más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite la conversión de formato de archivo Excel utilizando C# y ofrece SDK para múltiples lenguajes de programación." urlsection="conversion/" >}}
@@ -11,20 +11,20 @@ description: Aspose.Cells Cloud REST API admite la conversión de formato de arc
 	<div class="diagram1 d2  d1-cloud">
 	<div class="d1-row">
 	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Formato de entrada</header><ul>
-	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Otro:</b> Pdf, Json, rebajas</li>
 	</ul></div>
 	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Formato de salida</header><ul>
-	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Microsoft Palabra/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Otro:</b> Pdf, Xps, Dif, Json, Rebaja, Sql</li>

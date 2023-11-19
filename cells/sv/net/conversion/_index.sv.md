@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera Excel filformat med C#
-description: "Aspose.Cells Cloud REST API stöder Excel filformatkonvertering med C# och erbjuder SDK:er för flera programmeringsspråk."
+description: " Aspose.Cells Cloud REST API stöder Excel filformatkonvertering med C# och erbjuder SDK:er för flera programmeringsspråk."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera Excel filformat med C#" h2="Aspose.Cells Cloud SDK stöder konvertering mellan 30+ filformat." p="Aspose.Cells Cloud REST API stöder Excel filformatkonvertering med C# och erbjuder SDK:er för flera programmeringsspråk." urlsection="conversion/" >}}
@@ -11,7 +11,7 @@ description: "Aspose.Cells Cloud REST API stöder Excel filformatkonvertering me
 	<div class="diagram1 d2  d1-cloud">
 	<div class="d1-row">
 	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Inmatningsformat</header><ul>
-	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Öppet kontor:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>SpreadsheetML, XML</li>
 	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
@@ -20,7 +20,7 @@ description: "Aspose.Cells Cloud REST API stöder Excel filformatkonvertering me
 	<li><b>Övrig:</b> Pdf, Json, Markdown</li>
 	</ul></div>
 	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Utmatningsformat</header><ul>
-	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Microsoft Word/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Öppet kontor:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>SpreadsheetML, XML</li>

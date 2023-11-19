@@ -1,275 +1,81 @@
 ﻿---
-title: REST API 构建 Excel Android 应用程序
-description: Android REST SDK 用于创建基于云的 Excel 和 OpenOffice 电子表格、合并、拆分、查看、加密和转换工作表
-weight: 20
-url: /zh/android
+title: Excel 电子表格编程 API 使用 Android 加速电子表格管理和处理任务
+description: API 支持构建能够生成、修改、转换、渲染和打印电子表格的跨平台应用程序。它允许开发人员管理工作表、行、列和单元格，从头开始创建电子表格内容和样式，从不同数据源将数据导入到工作表中，添加常见和复杂的数学、财务和文本公式，创建和操作数据透视表、图表、超链接、注释、绘图对象等等。
+weight: 90
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="构建电子表格处理 Android 应用程序 via REST API" h2="Android REST SDK 用于创建基于云的 Excel 和 OpenOffice 电子表格、合并、拆分、查看、加密和转换应用程序。" logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="适用于 Excel 电子表格的 Android REST SDK" h2="在云中创建、读取、写入、合并、拆分、加密和转换 Microsoft Excel 和 OpenOffice 电子表格。" logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Android" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="SDK for Android" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Android" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for Android 可帮助您开发适用于 Android 设备的 Microsoft Excel（XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM）和 OpenOffice (ODS) 电子表格处理应用程序。 Aspose.Cells 适用于 Android 的 Cloud SDK 根据 MIT 许可证提供，基于 Aspose.Cells REST API。</p>
-<p>Aspose.Cells Cloud SDK for Android 使您的 Android 代码能够访问云电子表格文档并操作工作簿、工作表、单个单元格、行和列。您的 Android 程序将能够从工作表图片中提取条形码、应用自动过滤器（日期过滤器、图标过滤器、动态过滤器）、访问图表、应用条件格式以及以编程方式配置电子表格页面设置。</p>
-<p>Aspose.Cells Android 版 Cloud SDK 允许您在 Excel 和 ODS 工作表中使用 OleObjects、ListObjects、数据透视表、范围、形状和任务，而无需安装任何第三方软件。</p>
-<p>Aspose.Cells Cloud SDK for Android 还可以帮助您为基于 Android 的移动设备创建电子表格转换器应用程序，因为它允许将 Microsoft Excel、OpenOffice、SpreadsheetML、CSV、TSV、TXT (TabDelimited)、HTML、MHTML、SXC、FODS 转换为其他支持的格式，例如 PDF、XPS、TIFF、SVG、DIF 和 MD (Markdown)。</p>
-{{< /blocks/products/pf/i18n/tab-content >}}
-
-<!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
-
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Cells 云可以执行所有电子表格操作任务。" >}}
-<div class="diagram1 d1-cloud">
-<div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>概述</header><ul><li>使用表格</li>
-<li>与细胞一起工作</li>
-<li>使用图表</li>
-<li>使用超链接</li>
-<li>使用数据透视表</li>
-<li>处理图片和形状</li>
-<li>使用验证</li>
-</ul></div>
-<!--/right--></div>
-<!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-android.svg" alt="Android SDK to manipulate Spreadsheets"><header>Aspose.Cells</header><footer>云<small> <em>为了</em> </small>安卓</footer></div>
-<!--/logo--></div>
-<!--/diagram1-->
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells 云支持的文件格式。" >}}
-<div class="diagram1 d2  d1-cloud">
-<div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i>输入输出</header><ul><li><b>Microsoft Excel:</b>XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM</li>
-<li><b>开发办公室：</b>消耗臭氧层物质</li>
-<li><b>电子表格ML：</b> XML</li>
-<li><b>文本：</b> CSV、TSV、TXT（制表符分隔）</li>
-<li><b>网址：</b> HTML，MHTML</li>
-</ul></div>
-<!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i>仅输入</header><ul><li>SXC、FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i>仅输出</header><ul><li>DIF、PDF、XPS、TIFF、SVG、MD（降价）</li>
-</ul></div>
-<!--/right--></div>
-<!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-android.svg" alt="Spreadsheet manipulation via Android"><header>Aspose.Cells</header><footer>云<small> <em>为了</em> </small>安卓</footer></div>
-<!--/logo--></div>
-<!--/diagram2-->
-{{< /blocks/products/pf/carousel-item >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="概述" msg="The Aspose.Cells Cloud SDK for Android facilitates the rapid development of robust cloud-based applications for Microsoft Excel, iWork office numbers, OpenOffice spreadsheets  and other format files. It provides functionalities for generating, reading, merging, splitting, encrypting, and converting files in the Android programming language. This SDK is built upon the Aspose.Cells Cloud API and operates under the MIT license." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="The Aspose.Cells Cloud SDK for Android empowers your Android applications to access and modify various elements within cloud worksheets. It enables manipulation of auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks, and ranges. This SDK enables your Android program to convert a variety of formats such as XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML, and MHTML." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
+  
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="从 Excel 使用 Android SDK 处理电子表格开始。" msg="To begin, start by installing the Aspose.Cells Cloud library for Android and then create an account on Aspose for Cloud to obtain your application credentials. Once you have the application SID and key, you can leverage them within any of the supported Android platforms utilizing the Aspose.Cells Cloud SDK for Android. This SDK offers a comprehensive array of features for creating, editing, and converting spreadsheets. Moreover, it enables you to extract data from spreadsheets for subsequent processing or storage." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Cells 云支持所有主要平台和编程语言。" >}}
-<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
-{{< /blocks/products/pf/carousel-item >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for Android facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>" >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
-{{< /blocks/products/pf/i18n/carousel >}}
-<!--Diagrams End-->
 
-<!--Feature-section Start-->
-<div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
- </a>
- <div class="row">
-  <div class="container">
-   <h2 class="pr-ft">
-高级电子表格操作功能
-   </h2>
-   <p>
-   </p>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-添加具有自定义列表条件的过滤器
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-支持多种类型的列表过滤器
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-获取有关图表区域边框或填充格式的信息
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-添加、更新和删除工作表中的图表
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-获取、更新、显示或隐藏图表图例
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-获取、更新图表标题并设置其可见性
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-添加或删除单元格区域以进行条件格式设置
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-添加、更新和删除工作表超链接
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-在Excel文件的指定位置添加ListObject
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-删除工作表中的特定或所有 ListObject
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-将 ListObject 或表格转换为单元格区域
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-使用数据透视表汇总大型 ListObject 或 Table 的数据
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-将 OleObjects 添加到 Excel 工作表
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-从工作表中删除特定或所有 OleObject
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-th ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-插入或删除、水平或垂直分页符
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-操作页面设置、页眉和页面设置页脚
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-添加、更新、获取或删除工作表图片
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-创建、更新、获取或删除文档属性
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-从工作表中获取所需的形状
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-从工作表中添加、更新或删除形状
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-添加、更新或删除工作表的验证
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-开始使用 Excel 电子表格处理 SDK
-    </h2>
-    <p>
-为了开始使用 Aspose.Cells Cloud SDK for Android，您无需安装任何东西。您所需要做的就是创建一个帐户
-     <a href="https://dashboard.aspose.cloud/#/apps">
-云 Aspose
-     </a>
-并获取您的申请信息。一旦您获得了应用程序 SID 和key，您就可以在任何支持 REST API 的平台上使用 Aspose.Cells Cloud SDK for Android。 Aspose.Cells Cloud SDK for Android 为您提供创建、编辑和转换电子表格的所有功能。它还允许您从电子表格中提取数据以进行进一步处理或存储。
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-处理工作簿 via 云SDK
-    </h2>
-    <p>
- Aspose.Cells Cloud SDK for Android 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度、将数据导入工作簿、计算工作簿中的所有公式、通过提供精度策略等设置公式计算设置、使用智能标记、将工作簿从请求内容转换为其他格式、应用密码以允许内容修改。
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-用于处理工作表的 Cloud SDK
-    </h2>
-    <p>
-使用Aspose.Cells Cloud SDK for Android，您可以删除工作表中的特定行或所有行，按单元格名称获取工作表单元格数据或单元格样式，按索引读取工作表行或列数据，计算单元格公式，清除单元格内容，将单元格复制到另一个单元格，复制工作表列和行，对工作表行和列进行分组，隐藏工作表行和列，设置工作表列和行样式，将 HTMLSTRING 值设置到单元格中，设置单元格范围值并修改许多其他工作表设置。
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-利用数据透视表和数据透视表的强大功能范围
-    </h2>
-    <p>
-Aspose.Cells Cloud SDK for Android 允许您将数据透视表添加到工作表中、在数据透视表中添加或删除数据透视表字段、添加或删除数据透视表索引的数据透视过滤器、更新数据透视表的单元格样式以及计算数据透视表的数据到单元格。
-    </p>
-    <p>
-Aspose.Cells Cloud SDK for Android 还可用于通过范围名称或行列索引获取范围内的单元格列表、设置范围的列宽、将范围内的单元格合并为单个单元格、将当前范围移动到目标范围、设置围绕一系列单元格绘制边框。设置范围的行高，设置范围的样式，取消合并该范围的合并单元格，将值放入范围并转换其数据类型，然后在工作表中复制范围。
-    </p>
-   </div>
-  </div>
- </div>
-</div>
-<!--Feature-section End-->
+{{< blocks/products/cells/cells-cloud-language-card title="支持的文件格式" title2="" >}}
+    {{< blocks/products/cells/cells-cloud-language-cardlist title="输入格式" >}}
+        <li><b>Microsoft Excel:</b>XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM</li>
+        <li><b>开通Office：</b>消耗臭氧层物质</li>
+        <li><b>可扩展标记语言：</b> XML，乔恩</li>
+        <li><b>文本：</b> CSV、TSV、TXT、Markdown</li>
+        <li><b>网址：</b> HTML，MHTML</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+     {{< blocks/products/cells/cells-cloud-language-cardlist title="输出格式" >}}
+        <li><b>Microsoft Excel:</b>XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、XLAM</li>
+        <li><b>开通Office：</b>消耗臭氧层物质</li>
+        <li><b>iWork Office：</b>数字</li>
+        <li><b>Microsoft Office:</b>文档、PPT</li>
+        <li><b>可扩展标记语言：</b> XML，乔恩</li>
+        <li><b>文本：</b> CSV、TSV、TXT、Markdown</li>
+        <li><b>网址：</b> HTML，MHTML</li>
+        <li><b>图像：</b> SVG, TIFF, PNG, BMP, EMF, JPEG, GIF</li>
+        <li><b>Adobe 便携式文档：</b> pdf</li>
+        <li><b>数据交换格式：</b>差异</li>
+        <li><b>XML 论文规范格式：</b> XPS</li>
+        <li><b>数据库脚本：</b> SQL</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+{{< /blocks/products/cells/cells-cloud-language-card >}}
+
+
+{{< blocks/products/cells/product-card-row title="高级电子表格操作功能" title2="" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Support for multiple types of list filters" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+{{< /blocks/products/cells/product-card-row >}}
+
+
+{{< blocks/products/cells/cells-cloud-language-card title="平台独立性" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" >}}
 
 {{< /blocks/products/pf/main-container >}}
 
@@ -296,25 +102,17 @@ Aspose.Cells Cloud SDK for Android 还可用于通过范围名称或行列索引
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
-	
-	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Android" >}}
-	
+	{{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
 	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}

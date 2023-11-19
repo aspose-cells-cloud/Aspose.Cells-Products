@@ -139,7 +139,7 @@ url: /sv/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lägg till ett ListObject på angiven plats i filen Excel
+Lägg till ett ListObject på angiven plats i filen Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /sv/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ta bort specifika eller alla OleObjects från kalkylbladet
+ Ta bort specifika eller alla OleObjects från kalkylbladet
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,7 +235,7 @@ Ta bort specifika eller alla OleObjects från kalkylbladet
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose för Cloud
      </a>
- och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Swift på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Swift ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
+och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Swift på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Swift ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
     </p>
    </div>
    <div class="col-lg-12">
@@ -243,12 +243,12 @@ Ta bort specifika eller alla OleObjects från kalkylbladet
  Bearbetar arbetsböcker via Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK för Swift låter dig skapa, dela, slå samman, söka och ersätta text, lösenordsskydd, exportera till filformat som stöds, läsa arbetsbokens textobjekt, automatiskt anpassa arbetsboksrader samtidigt som du ignorerar dolda element, kryptera arbetsbokens lösenord och tillhandahålla krypteringsnyckel längd, importera data till arbetsboken, beräkna alla formler i arbetsboken, ange inställningar för formelberäkning genom att tillhandahålla precisionsstrategi etc., använd smart markör, konvertera arbetsboken från begäran om innehåll till ett annat format, använd lösenord för att tillåta innehållsändring.
+ Aspose.Cells Cloud SDK för Swift låter dig skapa, dela, slå samman, söka och ersätta text, lösenordsskydd, exportera till filformat som stöds, läsa arbetsbokens textobjekt, automatiskt anpassa arbetsboksrader samtidigt som du ignorerar dolda element, kryptera arbetsbokens lösenord och tillhandahålla krypteringsnyckel längd, importera data till arbetsboken, beräkna alla formler i arbetsboken, ange inställningar för formelberäkning genom att tillhandahålla precisionsstrategi etc., använd smart markör, konvertera arbetsboken från begäran om innehåll till ett annat format, använd lösenord för att tillåta innehållsändring.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Cloud SDK för att bearbeta arbetsblad
+ Cloud SDK för att bearbeta arbetsblad
     </h2>
     <p>
 Med Aspose.Cells Cloud SDK för Swift kan du ta bort specifik rad eller alla rader i kalkylbladet, hämta kalkylbladscelldata eller cellstil efter cellnamn, läsa kalkylbladsrad- eller kolumndata efter dess index, beräkna cellformel, rensa cellinnehåll, kopiera cell till en annan cell, kopiera kalkylbladskolumner och rader, gruppera kalkylbladsrader och kolumner, dölj kalkylbladsrader och kolumner, ställ in kalkylbladskolumner och radstilar, ställ in HTMLSTRING-värde i cell, ställ in cellintervallsvärde och ändra många andra kalkylbladsinställningar.

@@ -1,5 +1,5 @@
 ﻿---
-title: Excel® Spreadsheet Programming API to speed up spreadsheet management and processing tasks using Android
+title: Excel Spreadsheet Programming API to speed up spreadsheet management and processing tasks using Android
 description: API support to build cross-platform applications having the ability to generate, modify, convert, render, and print spreadsheets. It allows developers to manage worksheets, rows, columns & cells, create spreadsheet contents and styles from scratch, import data onto the worksheets from different data sources, add common and complex mathematical, financial, and text formulas, create & manipulate pivot tables, charts, hyperlinks, comments, drawing objects and much more.
 weight: 90
 ---
@@ -76,7 +76,7 @@ weight: 90
 {{< /blocks/products/cells/product-card-row >}}
 
 
-{{< blocks/products/cells/cells-cloud-language-card title="Platform Independence" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" />}}
+{{< blocks/products/cells/cells-cloud-language-card title="Platform Independence" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" >}}
 
 {{< /blocks/products/pf/main-container >}}
 

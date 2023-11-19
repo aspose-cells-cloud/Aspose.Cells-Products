@@ -75,7 +75,7 @@ weight: 90
 {{< /blocks/products/cells/product-card-row >}}
 
 
-{{< blocks/products/cells/cells-cloud-language-card title="Platform Independence" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" />}}
+{{< blocks/products/cells/cells-cloud-language-card title="Platform Independence" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" >}}
 
 {{< /blocks/products/pf/main-container >}}
 

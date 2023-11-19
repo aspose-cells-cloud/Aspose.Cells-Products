@@ -1,275 +1,81 @@
 ﻿---
-title:  REST API för att bygga Excel Appar för Android
-description:  Android REST SDK för att skapa molnbaserade Excel och OpenOffice-kalkylblad, slå samman, dela, visa, kryptera och konvertera kalkylblad
-weight: 20
-url: /sv/android
+title: Excel Kalkylarksprogrammering API för att påskynda kalkylarkshantering och bearbetningsuppgifter med Android
+description: API stöd för att bygga plattformsoberoende applikationer med möjlighet att generera, modifiera, konvertera, rendera och skriva ut kalkylblad. Det låter utvecklare hantera kalkylblad, rader, kolumner och celler, skapa kalkylbladsinnehåll och stilar från grunden, importera data till kalkylbladen från olika datakällor, lägga till vanliga och komplexa matematiska, finansiella och textformler, skapa och manipulera pivottabeller, diagram , hyperlänkar, kommentarer, ritobjekt och mycket mer.
+weight: 90
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Bygg kalkylbladsbearbetning Android-appar via REST API" h2="Android REST SDK för att skapa molnbaserade Excel- och OpenOffice-kalkylblad, slå samman, dela, visa, kryptera och konvertera appar." logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Android REST SDK för Excel kalkylark" h2="Skapa, läs, skriv, sammanfoga, dela, kryptera och konvertera Microsoft Excel & OpenOffice-kalkylblad i molnet." logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Android" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="SDK for Android" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Android" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK för Android hjälper dig att utveckla Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) och OpenOffice (ODS) kalkylbladsbehandlingsprogram för Android-enheter. Aspose.Cells Cloud SDK för Android erbjuds under en MIT-licens och är baserad på Aspose.Cells REST API.</p>
-<p>Aspose.Cells Cloud SDK för Android gör det möjligt för din Android-kod att komma åt dokument i molnkalkylark och manipulera arbetsböcker, kalkylblad, enskilda celler, rader och kolumner. Ditt Android-program kommer att kunna extrahera streckkoder från kalkylbladsbilder, tillämpa automatiska filter (datumfilter, ikonfilter, dynamiskt filter), komma åt diagram, tillämpa villkorlig formatering och programmässigt konfigurera sidinställningar för kalkylblad.</p>
-<p>Aspose.Cells Cloud SDK för Android låter dig arbeta med OleObjects, ListObjects, pivottabeller, intervall, former och uppgifter inom Excel och ODS-kalkylblad, utan att installera någon programvara från tredje part.</p>
-<p>Aspose.Cells Cloud SDK för Android kan också hjälpa dig att skapa kalkylarksomvandlarappar för Android-baserade mobila enheter, eftersom det gör det möjligt att konvertera Microsoft Excel, OpenOffice, SpreadsheetML, CSV, TSV, TXT (TabDelimited), 07613FODSX, 07613FODS, SHTML till HTML andra format som stöds, såsom PDF, XPS, TIFF, SVG, DIF och MD (Markdown).</p>
-{{< /blocks/products/pf/i18n/tab-content >}}
-
-<!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
-
-{{< blocks/products/pf/carousel-item h3="En överblick" description="Aspose.Cells Cloud kan utföra alla manipuleringsuppgifter för kalkylblad." >}}
-<div class="diagram1 d1-cloud">
-<div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>Översikt</header><ul><li>Arbeta med tabeller</li>
-<li>Arbeta med celler</li>
-<li>Arbeta med diagram</li>
-<li>Arbeta med hyperlänkar</li>
-<li>Arbeta med pivottabeller</li>
-<li>Arbeta med bilder och former</li>
-<li>Arbeta med valideringar</li>
-</ul></div>
-<!--/right--></div>
-<!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-android.svg" alt="Android SDK to manipulate Spreadsheets"><header>Aspose.Cells</header><footer> Moln<small> <em> för</em> </small>Android</footer></div>
-<!--/logo--></div>
-<!--/diagram1-->
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Cells Filformat som stöds av molnet." >}}
-<div class="diagram1 d2  d1-cloud">
-<div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ingång/utgång</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
-<li><b>Öppet kontor:</b> ODS</li>
-<li><b>SpreadsheetML:</b> XML</li>
-<li><b>Text:</b> CSV, TSV, TXT (TabDelimited)</li>
-<li><b>Webb:</b> HTML, MHTML</li>
-</ul></div>
-<!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Endast ingång</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Endast utgång</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
-</ul></div>
-<!--/right--></div>
-<!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-android.svg" alt="Spreadsheet manipulation via Android"><header>Aspose.Cells</header><footer> Moln<small> <em> för</em> </small>Android</footer></div>
-<!--/logo--></div>
-<!--/diagram2-->
-{{< /blocks/products/pf/carousel-item >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Översikt" msg="The Aspose.Cells Cloud SDK for Android facilitates the rapid development of robust cloud-based applications for Microsoft Excel, iWork office numbers, OpenOffice spreadsheets  and other format files. It provides functionalities for generating, reading, merging, splitting, encrypting, and converting files in the Android programming language. This SDK is built upon the Aspose.Cells Cloud API and operates under the MIT license." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="The Aspose.Cells Cloud SDK for Android empowers your Android applications to access and modify various elements within cloud worksheets. It enables manipulation of auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks, and ranges. This SDK enables your Android program to convert a variety of formats such as XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML, and MHTML." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
+  
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Börjar Excel Bearbetning av kalkylark med Android SDK." msg="To begin, start by installing the Aspose.Cells Cloud library for Android and then create an account on Aspose for Cloud to obtain your application credentials. Once you have the application SID and key, you can leverage them within any of the supported Android platforms utilizing the Aspose.Cells Cloud SDK for Android. This SDK offers a comprehensive array of features for creating, editing, and converting spreadsheets. Moreover, it enables you to extract data from spreadsheets for subsequent processing or storage." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells Cloud stöder alla större plattformar och programmeringsspråk." >}}
-<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
-{{< /blocks/products/pf/carousel-item >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for Android facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>" >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
-{{< /blocks/products/pf/i18n/carousel >}}
-<!--Diagrams End-->
 
-<!--Feature-section Start-->
-<div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
- </a>
- <div class="row">
-  <div class="container">
-   <h2 class="pr-ft">
- Avancerade funktioner för hantering av kalkylblad
-   </h2>
-   <p>
-   </p>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Lägg till filter med anpassade kriterier för listor
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Stöd för flera typer av listfilter
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Få information om kartområdes gräns eller fyllningsformat
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Lägg till, uppdatera och ta bort diagram i kalkylbladet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Hämta, uppdatera, visa eller dölj diagramförklaring
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Hämta, uppdatera, diagramtitel och ställ in dess synlighet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Lägg till eller ta bort ett cellområde för villkorlig formatering
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Lägg till, uppdatera och ta bort kalkylbladshyperlänkar
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Lägg till ett ListObject på angiven plats i filen Excel
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ta bort specifika eller alla ListObjects i ett kalkylblad
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Konvertera ListObject eller tabell till ett cellintervall
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Sammanfatta data för stora ListObject eller tabell med pivottabell
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Lägg till OleObjects i kalkylbladet Excel
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-Ta bort specifika eller alla OleObjects från kalkylbladet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-th ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Infoga eller ta bort horisontella eller vertikala sidbrytningar
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Manipulera sidinställningar, sidhuvud &amp; sidfot
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Lägg till, uppdatera, hämta eller ta bort kalkylbladsbilder
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Skapa, uppdatera, hämta eller ta bort dokumentegenskaper
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Hämta den önskade formen från kalkylbladet
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Lägg till, uppdatera eller ta bort former från ett kalkylblad
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Lägg till, uppdatera eller ta bort valideringar för kalkylblad
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- Kom igång med Excel Spreadsheet Processing SDK
-    </h2>
-    <p>
- För att komma igång med Aspose.Cells Cloud SDK för Android behöver du inte installera någonting. Allt du behöver göra är att skapa ett konto på
-     <a href="https://dashboard.aspose.cloud/#/apps">
- Aspose för Cloud
-     </a>
-och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Android på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Android ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- Bearbetar arbetsböcker via Cloud SDK
-    </h2>
-    <p>
- Aspose.Cells Cloud SDK för Android låter dig skapa, dela, slå samman, söka och ersätta text, lösenordsskydd, exportera till filformat som stöds, läsa arbetsbokens textobjekt, automatiskt anpassa arbetsboksrader samtidigt som du ignorerar dolda element, kryptera arbetsbokens lösenord och tillhandahålla krypteringsnyckel längd, importera data till arbetsboken, beräkna alla formler i arbetsboken, ange inställningar för formelberäkning genom att tillhandahålla precisionsstrategi etc., använd smart markör, konvertera arbetsboken från begäran om innehåll till ett annat format, använd lösenord för att tillåta innehållsändring.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-Cloud SDK för att bearbeta arbetsblad
-    </h2>
-    <p>
- Med Aspose.Cells Cloud SDK för Android kan du ta bort specifik rad eller alla rader i kalkylbladet, hämta kalkylbladscelldata eller cellstil efter cellnamn, läsa kalkylbladsrader eller kolumndata efter dess index, beräkna cellformel, rensa cellinnehåll, kopiera cell till en annan cell, kopiera kalkylbladskolumner och rader, gruppera kalkylbladsrader och kolumner, dölj kalkylbladsrader och kolumner, ställ in kalkylbladskolumner och radstilar, ställ in HTMLSTRING-värde i cell, ställ in cellintervallsvärde och ändra många andra kalkylbladsinställningar.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- Utnyttja kraften i pivottabeller &amp; Avstånd
-    </h2>
-    <p>
- Aspose.Cells Cloud SDK för Android låter dig lägga till en pivottabell i kalkylbladet, lägga till eller ta bort pivotfält i pivottabellen, lägga till eller ta bort pivotfilter för pivottabellindex, uppdatera cellstil för pivottabell och beräkna pivottabellens data till celler.
-    </p>
-    <p>
-Aspose.Cells Cloud SDK för Android kan också användas för att få celllista i ett intervall efter intervallnamn eller radkolumnindex, ange kolumnbredd på intervall, kombinera ett intervall av celler till en enda cell, flytta det aktuella intervallet till destinationsintervallet, ställer in kontur gränsen runt ett cellintervall., ställ in radhöjd för intervall, ställ in stilen för intervallet, tar bort sammanslagna celler i det här intervallet, sätt ett värde i intervallet och konvertera dess datatyp och kopiera intervall i kalkylbladet.
-    </p>
-   </div>
-  </div>
- </div>
-</div>
-<!--Feature-section End-->
+{{< blocks/products/cells/cells-cloud-language-card title="Filformat som stöds" title2="" >}}
+    {{< blocks/products/cells/cells-cloud-language-cardlist title="Inmatningsformat" >}}
+        <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+        <li><b>Öppet Office:</b>ODS</li>
+        <li><b>Extensible Markup Language:</b> XML, Josn</li>
+        <li><b>Text:</b> CSV, TSV, TXT, Markdown</li>
+        <li><b>Webb:</b> HTML, MHTML</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+     {{< blocks/products/cells/cells-cloud-language-cardlist title="Utmatningsformat" >}}
+        <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, XLAM</li>
+        <li><b>Öppet Office:</b> ODS</li>
+        <li><b>iWork Office:</b> siffra</li>
+        <li><b>Microsoft Office:</b> Docx, Pptx</li>
+        <li><b>Extensible Markup Language:</b> XML, Josn</li>
+        <li><b>Text:</b> CSV, TSV, TXT, Markdown</li>
+        <li><b>Webb:</b> HTML, MHTML</li>
+        <li><b>Bild:</b> SVG, TIFF, PNG, BMP, EMF, JPEG, GIF</li>
+        <li><b>Adobe Portable Document:</b> Pdf</li>
+        <li><b>Datautbytesformat:</b> Dif</li>
+        <li><b>XML Paper Specification Format:</b> XPS</li>
+        <li><b>Databasskript:</b> SQL</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+{{< /blocks/products/cells/cells-cloud-language-card >}}
+
+
+{{< blocks/products/cells/product-card-row title=" Avancerade kalkylbladshanteringsfunktioner" title2="" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Support for multiple types of list filters" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+{{< /blocks/products/cells/product-card-row >}}
+
+
+{{< blocks/products/cells/cells-cloud-language-card title="Plattformsoberoende" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" >}}
 
 {{< /blocks/products/pf/main-container >}}
 
@@ -296,25 +102,17 @@ Aspose.Cells Cloud SDK för Android kan också användas för att få celllista 
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
-	
-	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Android" >}}
-	
+	{{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
 	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}

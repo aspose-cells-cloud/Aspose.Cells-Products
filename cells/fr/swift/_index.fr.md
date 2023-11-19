@@ -139,7 +139,7 @@ url: /fr/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ajouter un ListObject à l'endroit spécifié dans le fichier Excel
+Ajouter un ListObject à l'endroit spécifié dans le fichier Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /fr/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de calcul
+ Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de calcul
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,7 +235,7 @@ Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de ca
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose pour le Cloud
      </a>
- et obtenez les informations relatives à votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour Swift sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Cloud SDK pour Swift vous offre toutes les fonctionnalités nécessaires pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
+et obtenez les informations relatives à votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour Swift sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Cloud SDK pour Swift vous offre toutes les fonctionnalités nécessaires pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
     </p>
    </div>
    <div class="col-lg-12">
@@ -243,12 +243,12 @@ Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de ca
  Classeurs de traitement via SDK Cloud
     </h2>
     <p>
-Aspose.Cells Cloud SDK pour Swift vous permet de créer, diviser, fusionner, rechercher et remplacer du texte, protéger par mot de passe, exporter vers un format de fichier pris en charge, lire les éléments de texte du classeur, ajuster automatiquement les lignes du classeur tout en ignorant les éléments cachés, chiffrer le mot de passe du classeur et fournir une clé de chiffrement. longueur, importer des données dans un classeur, calculer toutes les formules du classeur, définir les paramètres de calcul de formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande vers un autre format, appliquer un mot de passe pour permettre la modification du contenu.
+ Aspose.Cells Cloud SDK pour Swift vous permet de créer, diviser, fusionner, rechercher et remplacer du texte, protéger par mot de passe, exporter vers un format de fichier pris en charge, lire les éléments de texte du classeur, ajuster automatiquement les lignes du classeur tout en ignorant les éléments cachés, chiffrer le mot de passe du classeur et fournir une clé de chiffrement. longueur, importer des données dans un classeur, calculer toutes les formules du classeur, définir les paramètres de calcul de formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande vers un autre format, appliquer un mot de passe pour permettre la modification du contenu.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-SDK Cloud pour traiter les feuilles de calcul
+ SDK Cloud pour traiter les feuilles de calcul
     </h2>
     <p>
 À l'aide du SDK Cloud Aspose.Cells pour Swift, vous pouvez supprimer une ligne spécifique ou toutes les lignes de la feuille de calcul, récupérer les données de cellule ou le style de cellule de la feuille de calcul par nom de cellule, lire les données de ligne ou de colonne de la feuille de calcul par son index, calculer la formule de cellule, effacer le contenu de la cellule, copier la cellule dans une autre cellule, copiez les colonnes et les lignes de la feuille de calcul, regroupez les lignes et les colonnes de la feuille de calcul, masquez les lignes et les colonnes de la feuille de calcul, définissez les styles de colonne et de ligne de la feuille de calcul, définissez la valeur HTMLSTRING dans la cellule, définissez la valeur de la plage de cellules et modifiez de nombreux autres paramètres de la feuille de calcul.

@@ -1,264 +1,89 @@
 ﻿---
-title:  قراءة جداول البيانات وكتابتها وعرضها وتحويلها (via C# REST SDK)
-description:  مجموعات SDK لـ C# وASP.NET وغيرها من اللغات المدعومة .NET لتطوير التطبيقات المستندة إلى السحابة لمعالجة Excel وجداول بيانات OpenOffice
-weight: 70
-url: /ar/net
+title: Excel® برمجة جداول البيانات API لتسريع إدارة جداول البيانات ومعالجة المهام باستخدام .Net
+description: دعم API لبناء تطبيقات عبر الأنظمة الأساسية تتمتع بالقدرة على إنشاء جداول البيانات وتعديلها وتحويلها وعرضها وطباعتها. يسمح للمطورين بإدارة أوراق العمل والصفوف والأعمدة والخلايا، وإنشاء محتويات وأنماط جدول البيانات من البداية، واستيراد البيانات إلى أوراق العمل من مصادر بيانات مختلفة، وإضافة صيغ رياضية ومالية ونصية شائعة ومعقدة، وإنشاء الجداول المحورية والمخططات ومعالجتها والارتباطات التشعبية والتعليقات والكائنات الرسومية وغير ذلك الكثير.
+weight: 90
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="إنشاء تطبيقات العارض والمحول Excel via C# REST SDK" h2="مجموعات SDK سهلة لـ C# وASP.NET وغيرها من اللغات المدعومة .NET لتطوير التطبيقات المستندة إلى السحابة لمعالجة Excel وجداول بيانات OpenOffice." logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".Net REST SDK لجداول البيانات Excel" h2="إنشاء وقراءة وكتابة ودمج وتقسيم وتشفير وتحويل Microsoft Excel وجداول بيانات OpenOffice في السحابة." logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .Net" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .Net" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" liveDemosLink="https://products.aspose.app/cells/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for .NET يعزز قدرة تطبيقات .NET الخاصة بك عن طريق دمج ميزات معالجة جداول البيانات بسلاسة والتي تسمح للبرامج المستندة إلى السحابة بالوصول إلى المصنفات وأوراق العمل وجداول البيانات والصفوف بالإضافة إلى الخلايا الفردية وتعديلها، دون تثبيت أي برنامج تابع لجهة خارجية. Aspose.Cells يتم توزيع Cloud SDK for .NET بموجب ترخيص MIT.</p>
-<p>يعمل Aspose.Cells Cloud SDK for .NET كواجهة لـ Aspose.Cells REST API الأساسي. فهو يجعل مهمة البرمجة .NET سهلة للغاية عندما يتعلق الأمر بالعمل مع الجداول المحورية وOleObjects وListObjects والمهام والأشكال والارتباطات التشعبية والتعليقات.</p>
-<p>باستخدام Aspose.Cells Cloud SDK for .NET، يمكنك تمكين كود C# الخاص بك لإجراء التصفية التلقائية بالإضافة إلى تطبيق التنسيق الشرطي على جداول البيانات. يعد دعم تحويل الملفات شاملاً أيضًا، حيث أنه باستخدام تطبيق السحابة .NET الخاص بك، ستتمكن من تحويل Microsoft Excel (XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM) ومستندات OpenOffice (ODS) إلى PDF، XPS، SVG، TIFF، تنسيقات Markdown وDIF.</p>
-{{< /blocks/products/pf/i18n/tab-content >}}
-
-<!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
-
-{{< blocks/products/pf/carousel-item h3="في لمحة" description="Aspose.Cells يمكن للسحابة تنفيذ جميع مهام معالجة جداول البيانات." >}}
-<div class="diagram1 d1-cloud">
-<div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>ملخص</header><ul><li>العمل مع الجداول</li>
-<li>العمل مع الخلايا</li>
-<li>العمل مع الرسوم البيانية</li>
-<li>العمل مع الارتباطات التشعبية</li>
-<li>العمل مع الجداول المحورية</li>
-<li>العمل مع الصور والأشكال</li>
-<li>العمل مع عمليات التحقق من الصحة</li>
-</ul></div>
-<!--/right--></div>
-<!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-net.svg" alt="Go SDK for Excel & OpenOffice Spreadsheets"><header>Aspose.Cells</header><footer> سحاب<small> <em> ل</em> </small>.NET</footer></div>
-<!--/logo--></div>
-<!--/diagram1-->
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells تنسيقات الملفات المدعومة السحابية." >}}
-<div class="diagram1 d2  d1-cloud">
-<div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> الإدخال/الإخراج</header><ul><li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
-<li><b>مكتب مفتوح:</b> المواد المستنفدة للأوزون</li>
-<li><b>جدول البياناتML:</b> XML</li>
-<li><b>نص:</b> CSV، TSV، TXT (محدد بعلامات جدولة)</li>
-<li><b>الويب:</b> HTML، أتش تي أم أل</li>
-</ul></div>
-<!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>إس إكس سي، فودس</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> الإخراج فقط</header><ul><li>دي آي إف، PDF، XPS، TIFF، SVG، ماريلاند (تخفيض السعر)</li>
-</ul></div>
-<!--/right--></div>
-<!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-net.svg" alt="Excel SDK .NET"><header>Aspose.Cells</header><footer> سحاب<small> <em> ل</em> </small>.NET</footer></div>
-<!--/logo--></div>
-<!--/diagram2-->
-{{< /blocks/products/pf/carousel-item >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="ملخص" msg="The Aspose.Cells Cloud SDK for .Net facilitates the rapid development of robust cloud-based applications for Microsoft Excel, iWork office numbers, OpenOffice spreadsheets  and other format files. It provides functionalities for generating, reading, merging, splitting, encrypting, and converting files in the .Net programming language. This SDK is built upon the Aspose.Cells Cloud API and operates under the MIT license." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="The Aspose.Cells Cloud SDK for .Net empowers your .Net applications to access and modify various elements within cloud worksheets. It enables manipulation of auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks, and ranges. This SDK enables your .Net program to convert a variety of formats such as XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML, and MHTML." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
+  
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="بداية Excel معالجة جداول البيانات باستخدام .Net SDK." msg="To begin, start by installing the Aspose.Cells Cloud library for .Net and then create an account on Aspose for Cloud to obtain your application credentials. Once you have the application SID and key, you can leverage them within any of the supported .Net platforms utilizing the Aspose.Cells Cloud SDK for .Net. This SDK offers a comprehensive array of features for creating, editing, and converting spreadsheets. Moreover, it enables you to extract data from spreadsheets for subsequent processing or storage." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
-{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="Aspose.Cells تدعم السحابة جميع المنصات ولغات البرمجة الرئيسية." >}}
-<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
-{{< /blocks/products/pf/carousel-item >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for .Net facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>" >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
-{{< /blocks/products/pf/i18n/carousel >}}
-<!--Diagrams End-->
 
-<!--Feature-section Start-->
-<div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
- </a>
- <div class="row">
-  <div class="container">
-   <h2 class="pr-ft">
- الميزات المتقدمة Aspose.Cells Cloud SDK for .NET
-   </h2>
-   <p>
-   </p>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- أضف أنواعًا متعددة من مرشحات القائمة بمعايير مخصصة
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- الوصول إلى حدود منطقة المخطط أو تنسيق التعبئة
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إضافة أو تحديث أو حذف الرسوم البيانية
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- احصل على وسيلة إيضاح الرسم البياني أو تحديثها أو إظهارها أو إخفائها. العناوين
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إضافة منطقة خلية أو إزالتها للتنسيق الشرطي
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- أضف كائن قائمة في مكان محدد في ملف Excel
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- حذف كائنات معينة أو جميع كائنات القائمة في ورقة العمل
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- تحويل ListObject أو الجدول إلى نطاق من الخلايا
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- تلخيص بيانات ListObject أو الجدول الكبير باستخدام Pivot Table
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إضافة أو حذف OleObjects من أوراق العمل Excel
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-th ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إدراج أو حذف فواصل الصفحات الأفقية أو العمودية
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- التعامل مع إعداد الصفحة والرأس &amp; تذييل
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إضافة أو تحديث أو جلب أو حذف صور ورقة العمل
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إنشاء أو تحديث أو جلب أو حذف خصائص الوثيقة
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إحضار الشكل المطلوب من ورقة العمل
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إضافة أو تحديث أو حذف الأشكال من ورقة العمل
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- إضافة أو تحديث أو حذف عمليات التحقق من صحة أوراق العمل
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- ابدأ باستخدام Excel SDK لمعالجة جداول البيانات
-    </h2>
-    <p>
- لا تحتاج إلى تثبيت أي شيء للبدء مع Aspose.Cells Cloud SDK for .NET. كل ما عليك فعله هو إنشاء حساب على
-     <a href="https://dashboard.aspose.cloud/#/apps">
- Aspose للسحاب
-     </a>
-والحصول على معلومات التطبيق الخاص بك. هذا كل شيء! أنت جاهز لاستخدام Aspose.Cells Cloud SDK for .NET.
-    </p>
-    <p>
- يوفر Aspose.Cells Cloud SDK for .NET جميع الميزات اللازمة لإنشاء جداول البيانات وتحريرها وتحويلها إلى تنسيقات ملفات شائعة أخرى.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- تحميل وأمبير. معالجة Excel جداول البيانات via Cloud SDK
-    </h2>
-    <p>
- Aspose.Cells Cloud SDK for .NET يسمح لك بإنشاء النص وتقسيمه ودمجه والبحث فيه واستبداله وحماية كلمة المرور والتصدير إلى تنسيق ملف مدعوم وقراءة العناصر النصية للمصنف وملاءمة صفوف المصنف تلقائيًا مع تجاهل العناصر المخفية وتشفير كلمة مرور المصنف وتوفير طول مفتاح التشفير ، استيراد البيانات إلى المصنف، وحساب جميع الصيغ في المصنف، وتعيين إعدادات حساب الصيغة من خلال توفير استراتيجية دقيقة وما إلى ذلك، واستخدام العلامة الذكية، وتحويل المصنف من محتوى الطلب إلى تنسيق آخر، وتطبيق كلمة المرور للسماح بتعديل المحتوى.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- Cloud SDK للقراءة والقراءة. أوراق عمل عملية Excel
-    </h2>
-    <p>
-باستخدام Aspose.Cells Cloud SDK for .NET، يمكنك حذف صف معين أو جميع الصفوف في ورقة العمل، أو جلب بيانات خلية ورقة العمل أو نمط الخلية حسب اسم الخلية، أو قراءة بيانات صف أو عمود ورقة العمل من خلال فهرسها، وحساب صيغة الخلية، ومسح محتويات الخلية، ونسخ الخلية إلى أخرى الخلية، ونسخ أعمدة وصفوف ورقة العمل، وتجميع صفوف وأعمدة ورقة العمل، وإخفاء صفوف وأعمدة ورقة العمل، وتعيين عمود ورقة العمل وأنماط الصفوف، وتعيين قيمة HTMLSTRING في الخلية، وتعيين قيمة نطاق الخلية، وتعديل الكثير من إعدادات ورقة العمل الأخرى.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- الاستفادة من قوة الجداول المحورية &amp; نطاقات
-    </h2>
-    <p>
- Aspose.Cells Cloud SDK for .NET يسمح لك بإضافة جدول محوري إلى ورقة العمل، وإضافة أو حذف الحقول المحورية في الجدول المحوري، وإضافة أو إزالة عامل التصفية المحوري لفهرس الجدول المحوري، وتحديث نمط الخلية للجدول المحوري، وحساب بيانات الجدول المحوري إلى الخلايا.
-    </p>
-    <p>
-يمكن أيضًا استخدام Aspose.Cells Cloud SDK for .NET للحصول على قائمة الخلايا في نطاق حسب اسم النطاق أو فهارس أعمدة الصف، وتعيين عرض العمود للنطاق، ودمج نطاق من الخلايا في خلية واحدة، ونقل النطاق الحالي إلى النطاق الوجهة، وتعيين المخطط التفصيلي حدود حول نطاق من الخلايا. وتعيين ارتفاع صف النطاق وتعيين نمط النطاق وإلغاء دمج الخلايا المدمجة في هذا النطاق ووضع قيمة في النطاق وتحويل نوع البيانات الخاص به ونسخ النطاق في ورقة العمل.
-    </p>
-   </div>
-  </div>
- </div>
-</div>
-<!--Feature-section End-->
+{{< blocks/products/cells/cells-cloud-language-card title="تنسيقات الملفات المدعومة" title2="" >}}
+    {{< blocks/products/cells/cells-cloud-language-cardlist title="نمط الإدخال" >}}
+        <li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
+        <li><b>مفتوح Office:</b>المواد المستنفدة للأوزون</li>
+        <li><b>لغة التوصيف الموسعة:</b> أكس أم أل، جوسن</li>
+        <li><b>نص:</b> CSV، TSV، TXT، تخفيض السعر</li>
+        <li><b>الويب:</b> HTML، أتش تي أم أل</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+     {{< blocks/products/cells/cells-cloud-language-cardlist title="تنسيق الإخراج" >}}
+        <li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM، XLAM</li>
+        <li><b>مفتوح Office:</b> المواد المستنفدة للأوزون</li>
+        <li><b>آي وورك Office:</b> رقم</li>
+        <li><b>Microsoft Office:</b> دوكإكس، بي تي إكس</li>
+        <li><b>لغة التوصيف الموسعة:</b> أكس أم أل، جوسن</li>
+        <li><b>نص:</b> CSV، TSV، TXT، تخفيض السعر</li>
+        <li><b>الويب:</b> HTML، أتش تي أم أل</li>
+        <li><b>صورة:</b> SVG, TIFF, PNG, BMP, EMF, JPEG, GIF</li>
+        <li><b>وثيقة أدوبي المحمولة:</b> بي دي إف</li>
+        <li><b>تنسيق تبادل البيانات:</b> فرق</li>
+        <li><b>تنسيق مواصفات ورق XML:</b> XPS</li>
+        <li><b>البرنامج النصي لقاعدة البيانات:</b> SQL</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+{{< /blocks/products/cells/cells-cloud-language-card >}}
+
+
+{{< blocks/products/cells/product-card-row title=" ميزات متقدمة لمعالجة جداول البيانات" title2="" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Support for multiple types of list filters" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+{{< /blocks/products/cells/product-card-row >}}
+
+
+{{< blocks/products/cells/cells-cloud-language-card title="استقلال المنصة" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
-{{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" >}}
+{{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -268,7 +93,7 @@ url: /ar/net
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells Cloud SDK for .NET؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells Cloud SDK لنظام Android؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="حماية" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -277,25 +102,17 @@ url: /ar/net
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
-	
-	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Android" >}}
-	
+	{{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
 	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}

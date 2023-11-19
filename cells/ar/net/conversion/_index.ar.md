@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل تنسيقات الملفات Excel باستخدام C#
-description: Aspose.Cells Cloud REST API يدعم تحويل تنسيق الملف Excel باستخدام C# ويقدم SDKs للغات برمجة متعددة.
+description:  Aspose.Cells Cloud REST API يدعم تحويل تنسيق الملف Excel باستخدام C# ويقدم SDKs للغات برمجة متعددة.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل تنسيقات الملفات Excel باستخدام C#" h2="Aspose.Cells يدعم Cloud SDK التحويل بين أكثر من 30 تنسيقًا للملفات." p="Aspose.Cells Cloud REST API يدعم تحويل تنسيق الملف Excel باستخدام C# ويقدم SDKs للغات برمجة متعددة." urlsection="conversion/" >}}
@@ -11,7 +11,7 @@ description: Aspose.Cells Cloud REST API يدعم تحويل تنسيق المل
 	<div class="diagram1 d2  d1-cloud">
 	<div class="d1-row">
 	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> نمط الإدخال</header><ul>
-	<li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
+	<li><b>Microsoft Excel:</b>XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
 	<li><b>مكتب مفتوح:</b> أود، فودز، أوتس</li>
 	<li><b>إكس إم إل:</b>جدول البيانات، XML</li>
 	<li><b>نص:</b> Csv، Tsv، Txt (TabDelimited)</li>
@@ -20,7 +20,7 @@ description: Aspose.Cells Cloud REST API يدعم تحويل تنسيق المل
 	<li><b>آخر:</b> قوات الدفاع الشعبي، Json، تخفيض السعر</li>
 	</ul></div>
 	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> تنسيق الإخراج</header><ul>
-	<li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
+	<li><b>Microsoft Excel:</b>XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
 	<li><b>Microsoft كلمة/PowerPoint:</b> دوكإكس، بي تي إكس</li>
 	<li><b>مكتب مفتوح:</b> أود، فودز، أوتس</li>
 	<li><b>إكس إم إل:</b>جدول البيانات، XML</li>

@@ -139,7 +139,7 @@ url: /de/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Fügen Sie an der angegebenen Stelle in der Datei Excel ein ListObject hinzu
+Fügen Sie an der angegebenen Stelle in der Datei Excel ein ListObject hinzu
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /de/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
+ Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,7 +235,7 @@ Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose für Cloud
      </a>
- und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App-SID &amp; Mit dem Schlüssel können Sie Aspose.Cells Cloud SDK für Swift auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud SDK für Swift bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Außerdem können Sie Daten aus den Tabellenkalkulationen extrahieren, um sie weiter zu verarbeiten oder zu speichern.
+und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App-SID &amp; Mit dem Schlüssel können Sie Aspose.Cells Cloud SDK für Swift auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud SDK für Swift bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Außerdem können Sie Daten aus den Tabellenkalkulationen extrahieren, um sie weiter zu verarbeiten oder zu speichern.
     </p>
    </div>
    <div class="col-lg-12">
@@ -243,12 +243,12 @@ Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
  Verarbeiten von Arbeitsmappen via Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK für Swift ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, den Passwortschutz, den Export in ein unterstütztes Dateiformat, das Lesen von Textelementen der Arbeitsmappe, das automatische Anpassen von Arbeitsmappenzeilen unter Ignorieren ausgeblendeter Elemente, das Verschlüsseln des Arbeitsmappenkennworts und die Bereitstellung eines Verschlüsselungsschlüssels Länge, Importieren von Daten in die Arbeitsmappe, Berechnen aller Formeln in der Arbeitsmappe, Festlegen der Formelberechnungseinstellungen durch Angabe einer Präzisionsstrategie usw., Verwenden von Smart Marker, Konvertieren der Arbeitsmappe vom angeforderten Inhalt in ein anderes Format, Anwenden eines Kennworts, um die Inhaltsänderung zu ermöglichen.
+ Aspose.Cells Cloud SDK für Swift ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, den Passwortschutz, den Export in ein unterstütztes Dateiformat, das Lesen von Textelementen der Arbeitsmappe, das automatische Anpassen von Arbeitsmappenzeilen unter Ignorieren ausgeblendeter Elemente, das Verschlüsseln des Arbeitsmappenkennworts und die Bereitstellung eines Verschlüsselungsschlüssels Länge, Importieren von Daten in die Arbeitsmappe, Berechnen aller Formeln in der Arbeitsmappe, Festlegen der Formelberechnungseinstellungen durch Angabe einer Präzisionsstrategie usw., Verwenden von Smart Marker, Konvertieren der Arbeitsmappe vom angeforderten Inhalt in ein anderes Format, Anwenden eines Kennworts, um die Inhaltsänderung zu ermöglichen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Cloud SDK zum Verarbeiten von Arbeitsblättern
+ Cloud SDK zum Verarbeiten von Arbeitsblättern
     </h2>
     <p>
 Mit Aspose.Cells Cloud SDK für Swift können Sie eine bestimmte Zeile oder alle Zeilen im Arbeitsblatt löschen, Arbeitsblatt-Zellendaten oder Zellenstile anhand des Zellennamens abrufen, Arbeitsblatt-Zeilen- oder -Spaltendaten anhand ihres Index lesen, Zellformeln berechnen, Zellinhalte löschen und Zellen kopieren eine andere Zelle, Kopieren von Arbeitsblattspalten und -zeilen, Gruppieren von Arbeitsblattzeilen und -spalten, Ausblenden von Arbeitsblattzeilen und -spalten, Festlegen von Arbeitsblattspalten- und -zeilenstilen, Festlegen des HTMLSTRING-Werts in der Zelle, Festlegen des Zellbereichswerts und Ändern vieler anderer Arbeitsblatteinstellungen.

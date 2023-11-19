@@ -1,286 +1,87 @@
 ﻿---
-title: Accédez au SDK Cloud pour générer, modifier et convertir des fichiers Excel et des API REST via
-description:  Utilisez les commandes cURL pour créer des applications de création et de conversion de feuilles de calcul qui accèdent aux fichiers Microsoft Excel et OpenOffice à partir du stockage cloud pour le traitement.
-weight: 50
-url: /fr/go
+title: Excel® Programmation de feuilles de calcul API pour accélérer les tâches de gestion et de traitement des feuilles de calcul à l'aide de Go
+description: API prend en charge la création d'applications multiplateformes ayant la capacité de générer, modifier, convertir, restituer et imprimer des feuilles de calcul. Il permet aux développeurs de gérer des feuilles de calcul, des lignes, des colonnes et des cellules, de créer du contenu et des styles de feuilles de calcul à partir de zéro, d'importer des données sur les feuilles de calcul à partir de différentes sources de données, d'ajouter des formules mathématiques, financières et textuelles courantes et complexes, de créer et de manipuler des tableaux croisés dynamiques, des graphiques. , hyperliens, commentaires, objets de dessin et bien plus encore.
+weight: 90
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Créer Excel Applications de lecture, de visualisation et de conversion de fichiers via Go" h2="Développez des applications Go pour gérer les lignes, les cellules, les graphiques, les hyperliens et les tableaux croisés dynamiques des feuilles de calcul Microsoft et OpenOffice dans le cloud." logoImageSrc="/headers/aspose_cells-for-go.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Accédez au SDK REST pour les feuilles de calcul Excel" h2="Créez, lisez, écrivez, fusionnez, divisez, cryptez et convertissez des feuilles de calcul Microsoft Excel et OpenOffice dans le cloud." logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Go" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Go" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-go.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-go" liveDemosLink="https://products.aspose.app/cells/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Le SDK Cloud Go aide les développeurs à créer leurs propres applications de création, de lecture, de visualisation et de conversion de feuilles de calcul basées sur le cloud à l'aide du langage Go. Le SDK fournit une interface facile à utiliser pour Aspose.Cells REST API afin d'effectuer un large éventail de tâches de traitement de feuilles de calcul telles que la création, la modification, la conversion et le rendu de Excel documents dans le cloud.</p>
-<p>Aspose.Cells Cloud Go SDK prend entièrement en charge plusieurs fonctionnalités avancées liées à la lecture et à l'écriture de feuilles de calcul, telles que la création d'une nouvelle feuille de calcul à partir de zéro, la modification d'un fichier existant, l'ajout d'une nouvelle feuille de calcul, l'importation de données dans une feuille de calcul Excel, le masquage et l'affichage d'une feuille de calcul, le déplacement. une feuille de calcul, trier les données dans une feuille de calcul, copier ou renommer une feuille, geler ou débloquer une feuille de calcul, ajouter ou supprimer un classeur, crypter ou déchiffrer un classeur, protéger par mot de passe un classeur Excel, fusionner des classeurs Excel et bien d'autres.</p>
-<p>À l'aide du SDK Cloud Go Aspose.Cells, le développeur peut facilement effectuer le filtrage automatique, la gestion des tableaux croisés dynamiques et le formatage conditionnel des feuilles de calcul à l'aide des commandes Go. Le SDK fournit une opération de conversion de fichier de feuille de calcul très puissante et prend entièrement en charge l'interconversion entre les formats Microsoft et Excel tels que XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ainsi que la conversion vers d'autres formats de fichiers populaires tels que PDF, XPS, SVG. , TIFF, formats Markdown et DIF.</p>
-{{< /blocks/products/pf/i18n/tab-content >}}
-
-<!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
-
-{{< blocks/products/pf/carousel-item h3="En un coup d\'œil" description="Aspose.Cells Cloud peut effectuer toutes les tâches de manipulation de feuilles de calcul." >}}
-<div class="diagram1 d1-cloud">
-<div class="d1-row">
-<div class="d1-col d1-left"> </div>
-<!--/left-->
-<div class="d1-col d1-right"><header><i class="fa fa-table"> </i>Aperçu</header><ul><li>Travailler avec des tableaux</li>
-<li>Travailler avec des cellules</li>
-<li>Travailler avec des graphiques</li>
-<li>Travailler avec des hyperliens</li>
-<li>Travailler avec des tableaux croisés dynamiques</li>
-<li>Travailler avec des images et des formes</li>
-<li>Travailler avec des validations</li>
-</ul></div>
-<!--/right--></div>
-<!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-go.svg" alt="Go SDK to manipulate Spreadsheets"><header>Aspose.Cells</header><footer> Nuage<small> <em> pour</em> </small>Aller</footer></div>
-<!--/logo--></div>
-<!--/diagram1-->
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Cells Formats de fichiers pris en charge par le cloud." >}}
-<div class="diagram1 d2  d1-cloud">
-<div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
-<li><b>Bureau ouvert:</b> SAO</li>
-<li><b>Feuille de calculML :</b> XML</li>
-<li><b>Texte:</b> CSV, TSV, TXT (TabDelimited)</li>
-<li><b>La toile:</b> HTML, HTML</li>
-</ul></div>
-<!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Entrée uniquement</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Sortie uniquement</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
-</ul></div>
-<!--/right--></div>
-<!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-go.svg" alt="Spreadsheet manipulation via Go"><header>Aspose.Cells</header><footer> Nuage<small> <em> pour</em> </small>Aller</footer></div>
-<!--/logo--></div>
-<!--/diagram2-->
-{{< /blocks/products/pf/carousel-item >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Aperçu" msg="The Aspose.Cells Cloud SDK for Go facilitates the rapid development of robust cloud-based applications for Microsoft Excel, iWork office numbers, OpenOffice spreadsheets  and other format files. It provides functionalities for generating, reading, merging, splitting, encrypting, and converting files in the Go programming language. This SDK is built upon the Aspose.Cells Cloud API and operates under the MIT license." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="The Aspose.Cells Cloud SDK for Go empowers your Go applications to access and modify various elements within cloud worksheets. It enables manipulation of auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks, and ranges. This SDK enables your Go program to convert a variety of formats such as XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML, and MHTML." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
+  
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Début du traitement de la feuille de calcul Excel avec le SDK Go." msg="To begin, start by installing the Aspose.Cells Cloud library for Go and then create an account on Aspose for Cloud to obtain your application credentials. Once you have the application SID and key, you can leverage them within any of the supported Go platforms utilizing the Aspose.Cells Cloud SDK for Go. This SDK offers a comprehensive array of features for creating, editing, and converting spreadsheets. Moreover, it enables you to extract data from spreadsheets for subsequent processing or storage." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
-{{< blocks/products/pf/carousel-item h3="Indépendance de la plateforme" description="Aspose.Cells Cloud prend en charge toutes les principales plates-formes et langages de programmation." >}}
-<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence">
-{{< /blocks/products/pf/carousel-item >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for Go facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>" >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
-{{< /blocks/products/pf/i18n/carousel >}}
-<!--Diagrams End-->
+{{< blocks/products/cells/cells-cloud-language-card title="Formats de fichiers pris en charge" title2="" >}}
+    {{< blocks/products/cells/cells-cloud-language-cardlist title="Format d\'entrée" >}}
+        <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+        <li><b>Ouvrir le Office :</b>SAO</li>
+        <li><b>Langage de balisage extensible :</b> XML, Josn</li>
+        <li><b>Texte:</b> CSV, TSV, TXT, démarque</li>
+        <li><b>La toile:</b> HTML, HTML</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+     {{< blocks/products/cells/cells-cloud-language-cardlist title="Format de sortie" >}}
+        <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, XLAM</li>
+        <li><b>Ouvrir le Office :</b> SAO</li>
+        <li><b>iWork Office :</b> Nombre</li>
+        <li><b>Microsoft Office:</b> Docx, PPTX</li>
+        <li><b>Langage de balisage extensible :</b> XML, Josn</li>
+        <li><b>Texte:</b> CSV, TSV, TXT, démarque</li>
+        <li><b>La toile:</b> HTML, HTML</li>
+        <li><b>Image:</b> SVG, TIFF, PNG, BMP, EMF, JPEG, GIF</li>
+        <li><b>Document portable Adobe :</b> PDF</li>
+        <li><b>Format d'échange de données :</b> Diff</li>
+        <li><b>Format de spécification du papier XML :</b> XPS</li>
+        <li><b>Script de base de données :</b> SQL</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+{{< /blocks/products/cells/cells-cloud-language-card >}}
 
-<!--Feature-section Start-->
-<div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
- </a>
- <div class="row">
-  <div class="container">
-   <h2 class="pr-ft">
- Excel Fonctionnalités de traitement des feuilles de calcul
-   </h2>
-   <p>
-   </p>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ajouter des filtres avec des critères personnalisés pour les listes
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Prise en charge de plusieurs types de filtres de liste
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Obtenir des informations sur la bordure de la zone de graphique ou le format de remplissage
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ajouter, mettre à jour et supprimer des graphiques dans une feuille de calcul
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Obtenir, mettre à jour, afficher ou masquer la légende du graphique
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Obtenez, mettez à jour le titre du graphique et définissez sa visibilité
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ajouter ou supprimer une zone de cellule pour la mise en forme conditionnelle
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ajouter, mettre à jour et supprimer des hyperliens de feuille de calcul
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ajouter un ListObject à l'endroit spécifié dans le fichier Excel
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Convertir ListObject ou un tableau en une plage de cellules
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Résumer les données d'un grand ListObject ou d'un tableau avec un tableau croisé dynamique
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ajouter des OleObjects à la feuille de calcul Excel
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de calcul
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-th ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Insérer ou supprimer des sauts de page horizontaux ou verticaux
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Manipuler la mise en page, l'en-tête et l'amp; bas de page
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ajouter, mettre à jour, récupérer ou supprimer des images de feuille de calcul
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Créer, mettre à jour, récupérer ou supprimer les propriétés du document
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Récupérer la forme requise à partir de la feuille de calcul
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ajouter, mettre à jour ou supprimer des formes d'une feuille de calcul
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
- Ajouter, mettre à jour ou supprimer des validations pour les feuilles de calcul
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- Premiers pas avec le SDK de traitement de feuilles de calcul Excel
-    </h2>
-    <p>
-Pour démarrer avec Aspose.Cells Cloud SDK for Go, vous n'avez rien besoin d'installer. Il vous suffit de créer un compte sur
-     <a href="https://dashboard.aspose.cloud/#/apps">
- Aspose pour le Cloud
-     </a>
- et obtenez les informations relatives à votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser Aspose.Cells Cloud SDK for Go sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Cloud SDK pour Ruby vous offre toutes les fonctionnalités nécessaires pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- Générer un classeur Excel à partir d'un modèle
-    </h2>
-    <p>
-Le SDK Cloud Go Aspose.Cells inclut une fonctionnalité permettant de créer par programme un classeur Excel à partir d'un fichier modèle à l'aide du langage Go. Une fois le classeur créé, vous pouvez facilement le modifier en fonction de vos propres besoins. Vous pouvez ajouter une nouvelle feuille au classeur, attribuer un nom, définir les polices de votre choix, appliquer des styles aux cellules, supprimer une feuille et bien plus encore. Vous pouvez également créer un classeur à partir d'un fichier modèle SmartMarker avec seulement quelques lignes de code.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- Gérer les graphiques dans les feuilles de calcul via Go API
-    </h2>
-    <p>
-Chart est un outil puissant qui aide les utilisateurs à présenter les données de manière à mieux comprendre les données et les utilisateurs peuvent afficher visuellement les données dans différents formats de graphiques tels que barres, colonnes, secteurs, lignes, zones, beignets, nuages de points, surfaces, ou des cartes radar pour une meilleure compréhension. Aspose.Cells Le SDK Cloud Go offre la possibilité d'ajouter et de gérer des graphiques dans une feuille de calcul. Il a fourni des fonctionnalités telles que l'obtention d'un graphique à partir de la feuille de calcul, la suppression de tous les graphiques ou d'un graphique spécifique, la conversion d'un graphique en image, l'ajout d'un titre à un graphique, le masquage d'un graphique, l'affichage des légendes de discussion et bien plus encore.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- Poignée Cells &amp; Lignes dans une feuille de calcul
-    </h2>
-    <p>
-Aspose.Cells Le SDK Cloud Go inclut plusieurs fonctionnalités importantes pour la gestion des lignes dans l'application Microsoft Excel Worksheet via Go. Il prend en charge l'ajout de nouvelles lignes à une feuille de calcul, masquer et afficher des lignes, obtenir des données de ligne à partir d'une feuille de calcul, copier des lignes, regrouper et dissocier des lignes, ajuster automatiquement les lignes et les colonnes d'une feuille de calcul, supprimer des lignes de la feuille de calcul et bien plus encore. Tout comme les développeurs de lignes, ils peuvent également gérer facilement leurs cellules dans la feuille de calcul. Il prend en charge des fonctionnalités telles que l'ajout de cellules, la fusion de plusieurs cellules, la définition d'une formule dans une cellule, l'effacement du contenu d'une cellule, l'application d'un formatage de texte enrichi, etc.
-    </p>
-    <h2 class="h2title">
- Rechercher et remplacer des classeurs de texte
-    </h2>
-    <p>
- Aspose.Cells Le SDK Cloud Go prend en charge l'utilisation de texte dans un classeur à l'aide des commandes du langage Go. Le SDK a fourni des fonctionnalités très utiles liées à la recherche et à la mise à jour de texte, telles que la recherche et le remplacement de texte dans un classeur ou dans une feuille de calcul, l'obtention d'éléments de texte à partir de feuilles de calcul, et bien d'autres encore. De plus, vous pouvez également extraire du texte, des images ou des formes d'une feuille de calcul avec de simples commandes Go.
-    </p>
-    <p>
-    </p>
-   </div>
-  </div>
- </div>
-</div>
-<!--Feature-section End-->
+
+{{< blocks/products/cells/product-card-row title=" Fonctionnalités avancées de manipulation de feuilles de calcul" title2="" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Support for multiple types of list filters" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+{{< /blocks/products/cells/product-card-row >}}
+
+
+{{< blocks/products/cells/cells-cloud-language-card title="Indépendance de la plateforme" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d\'apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-go" >}}
+{{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" >}}
 {{< blocks/products/pf/slr-element name="API Références" href="https://apireference.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Vidéos tutorielles" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -291,7 +92,7 @@ Aspose.Cells Le SDK Cloud Go inclut plusieurs fonctionnalités importantes pour 
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Pourquoi le SDK Cloud Aspose.Cells pour Go ?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Pourquoi le SDK Cloud Aspose.Cells pour Android ?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Liste des clients" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Sécurité" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -301,24 +102,15 @@ Aspose.Cells Le SDK Cloud Go inclut plusieurs fonctionnalités importantes pour 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
-
     {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
-	
-	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Android" >}}
-	
+	{{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
-	
     {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
 	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
