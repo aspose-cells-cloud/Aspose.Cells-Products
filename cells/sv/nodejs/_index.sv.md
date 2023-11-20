@@ -11,17 +11,17 @@ weight: 90
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Översikt" msg="The Aspose.Cells Cloud SDK for Node facilitates the rapid development of robust cloud-based applications for Microsoft Excel, iWork office numbers, OpenOffice spreadsheets  and other format files. It provides functionalities for generating, reading, merging, splitting, encrypting, and converting files in the Node programming language. This SDK is built upon the Aspose.Cells Cloud API and operates under the MIT license." >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="The Aspose.Cells Cloud SDK for Node empowers your Node applications to access and modify various elements within cloud worksheets. It enables manipulation of auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks, and ranges. This SDK enables your Node program to convert a variety of formats such as XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML, and MHTML." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Översikt" msg="Aspose.Cells Cloud SDK för Node underlättar den snabba utvecklingen av robusta molnbaserade applikationer för Microsoft Excel, iWork office-nummer, OpenOffice-kalkylblad och andra formatfiler. Den tillhandahåller funktioner för att generera, läsa, slå samman, dela, kryptera och konvertera filer i Node-programmeringsspråket. Denna SDK är byggd på Aspose.Cells Cloud API och fungerar under MIT-licensen." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="Aspose.Cells Cloud SDK för Node ger dina Node-applikationer möjlighet att komma åt och ändra olika element i molnkalkylblad. Det möjliggör manipulering av autofilter, arbetsböcker, celler, kolumner, rader, diagram, former, hyperlänkar, villkorlig formatering, OleObjects, sidbrytningar, ListObjects, pivottabeller, uppgifter och intervall. Denna SDK gör det möjligt för ditt Node-program att konvertera en mängd olika format som XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS till DIF, PDF, XPS, TIFF, SVG, Spread, TSV, XML, Spreadsheet, XML. TXT, HTML och MHTML." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Börjar Excel Kalkylarksbearbetning med Node SDK." msg="To begin, start by installing the Aspose.Cells Cloud library for Node and then create an account on Aspose for Cloud to obtain your application credentials. Once you have the application SID and key, you can leverage them within any of the supported Node platforms utilizing the Aspose.Cells Cloud SDK for Node. This SDK offers a comprehensive array of features for creating, editing, and converting spreadsheets. Moreover, it enables you to extract data from spreadsheets for subsequent processing or storage." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Börjar Excel Kalkylarksbearbetning med Node SDK." msg="Börja med att installera Aspose.Cells Cloud-biblioteket för Node och skapa sedan ett konto på Aspose för Cloud för att få dina applikationsuppgifter. När du väl har applikationens SID och nyckel kan du utnyttja dem inom någon av de stödda Node-plattformarna med hjälp av Aspose.Cells Cloud SDK för Node. Denna SDK erbjuder ett omfattande utbud av funktioner för att skapa, redigera och konvertera kalkylblad. Dessutom gör det att du kan extrahera data från kalkylblad för efterföljande bearbetning eller lagring." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for Node facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Aspose.Cells Cloud SDK för Node underlättar många operationer som att skapa, dela, slå samman, söka och ersätta text, tillämpa lösenordsskydd, exportera till filformat som stöds, läsa arbetsbokstextobjekt, automatiskt anpassa arbetsboksrader samtidigt som dolda element ignoreras , kryptera arbetsbokslösenord med olika krypteringsnyckellängder, importera data till arbetsböcker, beräkna alla formler, ställa in precisionsstrategi för formelberäkning, använda smarta markörer, konvertera arbetsböcker mellan format och använda lösenord för att tillåta innehållsändring.</p><p>du kan utföra en mängd olika operationer som att ta bort specifika rader eller alla rader i ett kalkylblad, komma åt kalkylbladscelldata eller cellformat via cellnamn, hämta rad- eller kolumndata baserat på deras index, beräkna cellformler, rensa cellinnehåll, kopiera celldata till en annan cell, duplicera kalkylbladskolumner och rader, gruppera kalkylbladsrader och kolumner, dölja specifika kalkylbladsrader och kolumner, definiera stilar för kalkylbladskolumner och rader, ställa in html-strängvärden i celler, tilldela värden till ett cellintervall och modifiera olika kalkylblad inställningar.</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
 
@@ -51,27 +51,27 @@ weight: 90
 
 
 {{< blocks/products/cells/product-card-row title=" Avancerade kalkylbladshanteringsfunktioner" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Support for multiple types of list filters" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Lägg till filter med anpassade kriterier för listor" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Stöd för flera typer av listfilter" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Få information om kartområdes gräns eller fyllningsformat" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Lägg till, uppdatera och ta bort diagram i kalkylbladet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Hämta, uppdatera, visa eller dölj diagramförklaring" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Hämta, uppdatera, diagramtitel och ställ in dess synlighet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Lägg till eller ta bort ett cellområde för villkorlig formatering" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Lägg till, uppdatera och ta bort kalkylbladshyperlänkar" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Lägg till ett ListObject på angiven plats i filen Excel" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Ta bort specifika eller alla ListObjects i ett kalkylblad" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Konvertera ListObject eller tabell till ett cellintervall" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Sammanfatta data för stora ListObject eller tabell med pivottabell" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Lägg till OleObjects i kalkylbladet Excel" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Ta bort specifika eller alla OleObjects från kalkylbladet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Infoga eller ta bort horisontella eller vertikala sidbrytningar" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipulera sidinställningar, sidhuvud" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Lägg till, uppdatera, hämta eller ta bort kalkylbladsbilder" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Skapa, uppdatera, hämta eller ta bort dokumentegenskaper" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Hämta den önskade formen från kalkylbladet" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Lägg till, uppdatera eller ta bort former från ett kalkylblad" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Lägg till, uppdatera eller ta bort valideringar för kalkylblad" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 

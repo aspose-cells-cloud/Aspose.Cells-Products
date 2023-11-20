@@ -11,7 +11,7 @@ description:  Aspose.Cells Cloud REST API prend en charge la conversion du forma
 	<div class="diagram1 d2  d1-cloud">
 	<div class="d1-row">
 	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Format d'entrée</header><ul>
-	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Bureau ouvert:</b> Ods, Fods, Ots</li>
 	<li><b>XML :</b>Feuille de calculML, XML</li>
 	<li><b>Texte:</b> Csv, Tsv, Txt (TabDelimited)</li>
@@ -20,7 +20,7 @@ description:  Aspose.Cells Cloud REST API prend en charge la conversion du forma
 	<li><b>Autre:</b> Pdf, Json, Markdown</li>
 	</ul></div>
 	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Format de sortie</header><ul>
-	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Microsoft Mot/PowerPoint :</b> Docx, PPTX</li>
 	<li><b>Bureau ouvert:</b> Ods, Fods, Ots</li>
 	<li><b>XML :</b>Feuille de calculML, XML</li>

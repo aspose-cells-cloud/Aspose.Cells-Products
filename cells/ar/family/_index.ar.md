@@ -9,8 +9,13 @@ description: تمكّنك سحابة Aspose.Cells API من تنفيذ مجموع
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
+<<<<<<< HEAD
+    {{< blocks/products/cells/cells-cloud-language-content title="ملخص" msg="تُمكّنك سحابة Aspose.Cells API من تنفيذ مجموعة واسعة من مهام معالجة المستندات <b>على أي نظام أساسي</b>، بما في ذلك إنشاء Excel مستندًا في السحابة ومعالجتها وتحويلها وعرضها. باستخدام هذا API، يمكنك بسهولة تحويل Excel وOpenOffice وتنسيقات الملفات الأخرى إلى مجموعة متنوعة من تنسيقات الإخراج، بما في ذلك PDF وHTML وODS وXPS وCSV وJSON وMarkdown والمزيد." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="دعم فني" msg="يقدم Aspose دعمًا فنيًا مجانيًا غير محدود لجميع منتجاته، وهو في متناول جميع المستخدمين، بما في ذلك أولئك الذين يستخدمون الإصدار التقييمي. إذا كنت بحاجة إلى مساعدة بخصوص Aspose.Cells Cloud، فيمكنك نشر سؤالك في <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud Forum</a>، ويمكنك أن تتوقع الحصول على مساعدة الرد في غضون ساعات قليلة. يتم تناول الأسئلة مباشرة من قبل فريق تطوير السحابة Aspose.Cells." >}}
+=======
     {{< blocks/products/cells/cells-cloud-language-content title="ملخص" msg="The Aspose.Cells Cloud API empowers you to execute a wide range of document processing tasks <b>on any platform</b>, encompassing the creation, manipulation, conversion, and rendering of Excel documents in the cloud. With this API, you can effortlessly convert Excel, OpenOffice, and other file formats into a variety of output formats, including PDF, HTML, ODS, XPS, CSV, JSON, Markdown, and more." >}}
     {{< blocks/products/cells/cells-cloud-language-content title="دعم فني" msg="Aspose offers unlimited free technical support for all its products, which is accessible to all users, including those using the evaluation version. If you require assistance with Aspose.Cells Cloud, you can post your question in the <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud Forum</a>, and you can expect a response within a few hours. Questions are addressed directly by the Aspose.Cells Cloud development team." >}}
+>>>>>>> 762f3da06fdcbb8166662b8ccfe05896e3882701
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.Cells تتضمن واجهات برمجة التطبيقات السحابية ذات التعليمات البرمجية المنخفضة" >}}

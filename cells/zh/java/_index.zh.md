@@ -11,17 +11,17 @@ weight: 90
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-java.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-java" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="概述" msg="The Aspose.Cells Cloud SDK for Java facilitates the rapid development of robust cloud-based applications for Microsoft Excel, iWork office numbers, OpenOffice spreadsheets  and other format files. It provides functionalities for generating, reading, merging, splitting, encrypting, and converting files in the Java programming language. This SDK is built upon the Aspose.Cells Cloud API and operates under the MIT license." >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="The Aspose.Cells Cloud SDK for Java empowers your Java applications to access and modify various elements within cloud worksheets. It enables manipulation of auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks, and ranges. This SDK enables your Java program to convert a variety of formats such as XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML, and MHTML." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="概述" msg="Aspose.Cells Cloud SDK for Java 有助于快速开发针对 Microsoft Excel、iWork office 号码、OpenOffice 电子表格和其他格式文件的强大的基于云的应用程序。它提供了以 Java 编程语言生成、读取、合并、分割、加密和转换文件的功能。该 SDK 基于 Aspose.Cells Cloud API 构建，并在 MIT 许可证下运行。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="Aspose.Cells 云 SDK for Java 使您的 Java 应用程序能够访问和修改云工作表中的各种元素。它可以操作自动过滤器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。该 SDK 使您的 Java 程序能够将多种格式转换，例如 XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、ODS 到 DIF、PDF、XPS、TIFF、SVG、Markdown、XML、SpreadsheetML、CSV、TSV、 TXT、HTML 和 MHTML。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="使用 Java SDK 开始 Excel 电子表格处理。" msg="To begin, start by installing the Aspose.Cells Cloud library for Java and then create an account on Aspose for Cloud to obtain your application credentials. Once you have the application SID and key, you can leverage them within any of the supported Java platforms utilizing the Aspose.Cells Cloud SDK for Java. This SDK offers a comprehensive array of features for creating, editing, and converting spreadsheets. Moreover, it enables you to extract data from spreadsheets for subsequent processing or storage." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="使用 Java SDK 开始 Excel 电子表格处理。" msg="首先，首先安装 Aspose.Cells 云库 for Java，然后在 Aspose 上为云创建一个帐户以获取您的应用程序凭据。获得应用程序 SID 和密钥后，您可以利用 Aspose.Cells Cloud SDK for Java 在任何受支持的 Java 平台中利用它们。该 SDK 提供了一系列用于创建、编辑和转换电子表格的全面功能。此外，它使您能够从电子表格中提取数据以进行后续处理或存储。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for Java facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Aspose.Cells Cloud SDK for Java 可促进多种操作，例如创建、拆分、合并、搜索和替换文本、应用密码保护、导出为支持的文件格式、读取工作簿文本项、自动调整工作簿行并忽略隐藏元素，使用不同的加密密钥长度加密工作簿密码、将数据导入工作簿、计算所有公式、设置公式计算精度策略、利用智能标记、在格式之间转换工作簿以及应用密码以允许内容修改。</p><p>您可以执行各种操作，例如删除工作表中的特定行或所有行、访问工作表单元格数据或单元格样式 via 单元格名称、根据索引检索行或列数据、计算单元格公式、清除单元格内容、将单元格数据复制到另一个单元格、复制工作表列和行、对工作表行和列进行分组、隐藏特定工作表行和列、定义工作表列和行的样式、在单元格内设置 html 字符串值、为单元格区域分配值以及修改各种工作表设置.</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
 {{< blocks/products/cells/cells-cloud-language-card title="支持的文件格式" title2="" >}}
@@ -50,27 +50,27 @@ weight: 90
 
 
 {{< blocks/products/cells/product-card-row title="高级电子表格操作功能" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Support for multiple types of list filters" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="添加具有自定义列表条件的过滤器" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="支持多种类型的列表过滤器" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="获取有关图表区域边框或填充格式的信息" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="添加、更新和删除工作表中的图表" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="获取、更新、显示或隐藏图表图例" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="获取、更新图表标题并设置其可见性" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="添加或删除单元格区域以进行条件格式设置" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="添加、更新和删除工作表超链接" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg="在Excel文件的指定位置添加ListObject" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="删除工作表中的特定或所有 ListObject" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="将 ListObject 或表格转换为单元格范围" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="使用数据透视表汇总大型 ListObject 或 Table 的数据" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="将 OleObjects 添加到 Excel 工作表" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="从工作表中删除特定或所有 OleObject" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="插入或删除、水平或垂直分页符" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="操作页面设置、页眉页脚" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="添加、更新、获取或删除工作表图片" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="创建、更新、获取或删除文档属性" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="从工作表中获取所需的形状" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="从工作表中添加、更新或删除形状" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="添加、更新或删除工作表的验证" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 

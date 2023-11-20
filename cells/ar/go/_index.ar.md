@@ -11,17 +11,30 @@ weight: 90
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
+<<<<<<< HEAD
+    {{< blocks/products/cells/cells-cloud-language-content title="ملخص" msg="يعمل Aspose.Cells Cloud SDK for Go على تسهيل التطوير السريع للتطبيقات السحابية القوية لـ Microsoft Excel وأرقام iWork office وجداول بيانات OpenOffice وملفات التنسيق الأخرى. يوفر وظائف لإنشاء الملفات وقراءتها ودمجها وتقسيمها وتشفيرها وتحويلها بلغة برمجة Go. تم بناء SDK هذا على Aspose.Cells Cloud API ويعمل بموجب ترخيص MIT." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="يعمل Aspose.Cells Cloud SDK for Go على تمكين تطبيقات Go الخاصة بك من الوصول إلى العناصر المختلفة وتعديلها داخل أوراق العمل السحابية. فهو يتيح معالجة عوامل التصفية التلقائية والمصنفات والخلايا والأعمدة والصفوف والمخططات والأشكال والارتباطات التشعبية والتنسيق الشرطي وOleObjects وفواصل الصفحات وListObjects والجداول المحورية والمهام والنطاقات. يمكّن SDK برنامج Go الخاص بك من تحويل مجموعة متنوعة من التنسيقات مثل XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM، ODS إلى DIF، PDF، XPS، TIFF، SVG، Markdown، XML، SpreadsheetML، CSV، TSV، TXT، HTML، وMHTML." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
+  
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="بداية Excel معالجة جداول البيانات باستخدام Go SDK." msg="للبدء، ابدأ بتثبيت المكتبة السحابية Aspose.Cells لـ Go ثم قم بإنشاء حساب على Aspose لـ Cloud للحصول على بيانات اعتماد التطبيق الخاص بك. بمجرد حصولك على معرف SID للتطبيق والمفتاح، يمكنك الاستفادة منهما في أي من منصات Go المدعومة باستخدام Aspose.Cells Cloud SDK for Go. يوفر SDK هذا مجموعة شاملة من الميزات لإنشاء جداول البيانات وتحريرها وتحويلها. علاوة على ذلك، فهو يمكّنك من استخراج البيانات من جداول البيانات لمعالجتها أو تخزينها لاحقًا." >}}
+=======
     {{< blocks/products/cells/cells-cloud-language-content title="ملخص" msg="The Aspose.Cells Cloud SDK for Go facilitates the rapid development of robust cloud-based applications for Microsoft Excel, iWork office numbers, OpenOffice spreadsheets  and other format files. It provides functionalities for generating, reading, merging, splitting, encrypting, and converting files in the Go programming language. This SDK is built upon the Aspose.Cells Cloud API and operates under the MIT license." >}}
     {{< blocks/products/cells/cells-cloud-language-content msg="The Aspose.Cells Cloud SDK for Go empowers your Go applications to access and modify various elements within cloud worksheets. It enables manipulation of auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks, and ranges. This SDK enables your Go program to convert a variety of formats such as XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML, and MHTML." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
     {{< blocks/products/cells/cells-cloud-language-content title="بداية Excel معالجة جداول البيانات باستخدام Go SDK." msg="To begin, start by installing the Aspose.Cells Cloud library for Go and then create an account on Aspose for Cloud to obtain your application credentials. Once you have the application SID and key, you can leverage them within any of the supported Go platforms utilizing the Aspose.Cells Cloud SDK for Go. This SDK offers a comprehensive array of features for creating, editing, and converting spreadsheets. Moreover, it enables you to extract data from spreadsheets for subsequent processing or storage." >}}
+>>>>>>> 762f3da06fdcbb8166662b8ccfe05896e3882701
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
+<<<<<<< HEAD
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>يسهل Aspose.Cells Cloud SDK for Go العديد من العمليات مثل إنشاء النص وتقسيمه ودمجه والبحث عنه واستبداله وتطبيق الحماية بكلمة مرور والتصدير إلى تنسيقات الملفات المدعومة وقراءة عناصر نص المصنف وضبط صفوف المصنف تلقائيًا مع تجاهل العناصر المخفية وتشفير كلمات مرور المصنف بأطوال مفاتيح تشفير متنوعة، واستيراد البيانات إلى المصنفات، وحساب كافة الصيغ، وتعيين إستراتيجية دقة حساب الصيغة، واستخدام العلامات الذكية، وتحويل المصنفات بين التنسيقات، وتطبيق كلمات المرور للسماح بتعديل المحتوى.</p><p>أنت يمكن إجراء مجموعة متنوعة من العمليات مثل حذف صفوف معينة أو جميع الصفوف داخل ورقة العمل، أو الوصول إلى بيانات خلية ورقة العمل أو أسماء الخلايا بنمط الخلية via، أو استرجاع بيانات الصفوف أو الأعمدة بناءً على مؤشراتها، أو حساب صيغ الخلايا، أو مسح محتويات الخلية، أو نسخ بيانات الخلية إلى خلية أخرى، وتكرار أعمدة وصفوف ورقة العمل، وتجميع صفوف وأعمدة ورقة العمل، وإخفاء صفوف وأعمدة معينة في ورقة العمل، وتحديد أنماط أعمدة وصفوف ورقة العمل، وتعيين قيم سلسلة html داخل الخلايا، وتعيين قيم لنطاق من الخلايا، وتعديل أوراق العمل المختلفة الإعدادات.</p>" >}}
+=======
     {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for Go facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>" >}}
+>>>>>>> 762f3da06fdcbb8166662b8ccfe05896e3882701
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
 {{< blocks/products/cells/cells-cloud-language-card title="تنسيقات الملفات المدعومة" title2="" >}}
@@ -50,6 +63,29 @@ weight: 90
 
 
 {{< blocks/products/cells/product-card-row title=" ميزات متقدمة لمعالجة جداول البيانات" title2="" >}}
+<<<<<<< HEAD
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="إضافة عوامل تصفية بمعايير مخصصة للقوائم" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="دعم أنواع متعددة من مرشحات القائمة" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="احصل على معلومات بخصوص حدود منطقة المخطط أو تنسيق التعبئة" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="إضافة وتحديث وحذف المخططات في ورقة العمل" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="الحصول على وسيلة إيضاح الرسم البياني أو تحديثها أو إظهارها أو إخفائها" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="الحصول على عنوان المخطط وتحديثه وضبط رؤيته" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="إضافة منطقة خلية أو إزالتها للتنسيق الشرطي" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" أضف كائن قائمة في المكان المحدد في الملف Excel" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" حذف كائنات معينة أو جميع كائنات القائمة في ورقة العمل" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="تحويل ListObject أو الجدول إلى نطاق من الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="تلخيص بيانات ListObject أو الجدول الكبير باستخدام Pivot Table" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="أضف OleObjects إلى ورقة العمل Excel" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="احذف OleObjects معينة أو كلها من ورقة العمل" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="إدراج أو حذف فواصل الصفحات الأفقية أو العمودية" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="التعامل مع إعداد الصفحة، وتذييل الرأس" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="إضافة أو تحديث أو جلب أو حذف صور ورقة العمل" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="إنشاء أو تحديث أو جلب أو حذف خصائص الوثيقة" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="إحضار الشكل المطلوب من ورقة العمل" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="إضافة أو تحديث أو حذف الأشكال من ورقة العمل" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="إضافة أو تحديث أو حذف عمليات التحقق من صحة أوراق العمل" >}}
+=======
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Support for multiple types of list filters" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
@@ -71,6 +107,7 @@ weight: 90
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+>>>>>>> 762f3da06fdcbb8166662b8ccfe05896e3882701
 {{< /blocks/products/cells/product-card-row >}}
 
 

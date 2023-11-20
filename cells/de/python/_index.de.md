@@ -11,17 +11,17 @@ weight: 90
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Überblick" msg="The Aspose.Cells Cloud SDK for Python facilitates the rapid development of robust cloud-based applications for Microsoft Excel, iWork office numbers, OpenOffice spreadsheets  and other format files. It provides functionalities for generating, reading, merging, splitting, encrypting, and converting files in the Python programming language. This SDK is built upon the Aspose.Cells Cloud API and operates under the MIT license." >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="The Aspose.Cells Cloud SDK for Python empowers your Python applications to access and modify various elements within cloud worksheets. It enables manipulation of auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks, and ranges. This SDK enables your Python program to convert a variety of formats such as XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML, and MHTML." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Überblick" msg="Das Aspose.Cells Cloud SDK für Python ermöglicht die schnelle Entwicklung robuster cloudbasierter Anwendungen für Microsoft Excel, iWork office-Nummern, OpenOffice-Tabellen und andere Formatdateien. Es bietet Funktionen zum Generieren, Lesen, Zusammenführen, Teilen, Verschlüsseln und Konvertieren von Dateien in der Programmiersprache Python. Dieses SDK basiert auf der Aspose.Cells Cloud API und läuft unter der MIT-Lizenz." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="Mit dem Aspose.Cells Cloud SDK für Python können Ihre Python-Anwendungen auf verschiedene Elemente in Cloud-Arbeitsblättern zugreifen und diese ändern. Es ermöglicht die Bearbeitung von automatischen Filtern, Arbeitsmappen, Zellen, Spalten, Zeilen, Diagrammen, Formen, Hyperlinks, bedingter Formatierung, OleObjects, Seitenumbrüchen, ListObjects, Pivot-Tabellen, Aufgaben und Bereichen. Mit diesem SDK kann Ihr Python-Programm eine Vielzahl von Formaten wie XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS in DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV konvertieren. TXT, HTML und MHTML." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Beginnen Sie mit der Tabellenkalkulationsverarbeitung Excel mit dem SDK Python." msg="To begin, start by installing the Aspose.Cells Cloud library for Python and then create an account on Aspose for Cloud to obtain your application credentials. Once you have the application SID and key, you can leverage them within any of the supported Python platforms utilizing the Aspose.Cells Cloud SDK for Python. This SDK offers a comprehensive array of features for creating, editing, and converting spreadsheets. Moreover, it enables you to extract data from spreadsheets for subsequent processing or storage." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Beginnen Sie mit der Tabellenkalkulationsverarbeitung Excel mit dem SDK Python." msg="Beginnen Sie mit der Installation der Cloud-Bibliothek Aspose.Cells für Python und erstellen Sie dann ein Konto unter Aspose für Cloud, um Ihre Anmeldeinformationen für die Anwendung zu erhalten. Sobald Sie die Anwendungs-SID und den Schlüssel haben, können Sie sie auf jeder der unterstützten Python-Plattformen nutzen, indem Sie das Aspose.Cells Cloud SDK für Python verwenden. Dieses SDK bietet eine umfassende Reihe von Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Darüber hinaus können Sie Daten aus Tabellenkalkulationen extrahieren, um sie anschließend zu verarbeiten oder zu speichern." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for Python facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Das Aspose.Cells Cloud SDK für Python ermöglicht zahlreiche Vorgänge wie das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, Anwenden eines Passwortschutzes, Exportieren in unterstützte Dateiformate, Lesen von Arbeitsmappentextelementen, automatisches Anpassen von Arbeitsmappenzeilen unter Ignorieren versteckter Elemente , Verschlüsseln von Arbeitsmappenkennwörtern mit unterschiedlichen Verschlüsselungsschlüssellängen, Importieren von Daten in Arbeitsmappen, Berechnen aller Formeln, Festlegen einer Präzisionsstrategie für Formelberechnungen, Verwenden intelligenter Markierungen, Konvertieren von Arbeitsmappen zwischen Formaten und Anwenden von Kennwörtern, um Inhaltsänderungen zu ermöglichen.</p><p>Sie kann eine Vielzahl von Vorgängen ausführen, z. B. das Löschen bestimmter Zeilen oder aller Zeilen in einem Arbeitsblatt, den Zugriff auf Arbeitsblatt-Zellendaten oder Zellennamen im Zellenstil, das Abrufen von Zeilen- oder Spaltendaten basierend auf ihren Indizes, das Berechnen von Zellformeln, das Löschen von Zellinhalten und das Kopieren von Zelldaten B. in eine andere Zelle kopieren, Arbeitsblattspalten und -zeilen duplizieren, Arbeitsblattzeilen und -spalten gruppieren, bestimmte Arbeitsblattzeilen und -spalten ausblenden, Stile für Arbeitsblattspalten und -zeilen definieren, HTML-Zeichenfolgenwerte innerhalb von Zellen festlegen, einem Zellbereich Werte zuweisen und verschiedene Arbeitsblätter ändern Einstellungen.</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
 {{< blocks/products/cells/cells-cloud-language-card title="Unterstützte Dateiformate" title2="" >}}
@@ -49,27 +49,27 @@ weight: 90
 {{< /blocks/products/cells/cells-cloud-language-card >}}
 
 {{< blocks/products/cells/product-card-row title=" Erweiterte Funktionen zur Tabellenbearbeitung" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Support for multiple types of list filters" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Fügen Sie Filter mit benutzerdefinierten Kriterien für Listen hinzu" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Unterstützung für mehrere Arten von Listenfiltern" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Informieren Sie sich über den Rahmen oder das Füllformat des Diagrammbereichs" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Diagramme im Arbeitsblatt hinzufügen, aktualisieren und löschen" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Diagrammlegende abrufen, aktualisieren, anzeigen oder ausblenden" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Abrufen, Aktualisieren, Diagrammtitel und Festlegen der Sichtbarkeit" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Fügen Sie einen Zellbereich für die bedingte Formatierung hinzu oder entfernen Sie ihn" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Arbeitsblatt-Hyperlinks hinzufügen, aktualisieren und löschen" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Fügen Sie an der angegebenen Stelle in der Datei Excel ein ListObject hinzu" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Konvertieren Sie ein ListObject oder eine Tabelle in einen Zellbereich" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer Pivot-Tabelle zusammen" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Fügen Sie OleObjects zum Arbeitsblatt Excel hinzu" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Horizontale oder vertikale Seitenumbrüche einfügen oder löschen" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Bearbeiten Sie die Seiteneinrichtung und die Kopf- und Fußzeile" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Arbeitsblattbilder hinzufügen, aktualisieren, abrufen oder löschen" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Dokumenteigenschaften erstellen, aktualisieren, abrufen oder löschen" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Holen Sie sich die erforderliche Form aus dem Arbeitsblatt" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Fügen Sie Formen zu einem Arbeitsblatt hinzu, aktualisieren oder löschen Sie sie" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Validierungen für Arbeitsblätter hinzufügen, aktualisieren oder löschen" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 

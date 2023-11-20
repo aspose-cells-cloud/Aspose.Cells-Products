@@ -11,17 +11,17 @@ weight: 90
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Panoramica" msg="The Aspose.Cells Cloud SDK for Go facilitates the rapid development of robust cloud-based applications for Microsoft Excel, iWork office numbers, OpenOffice spreadsheets  and other format files. It provides functionalities for generating, reading, merging, splitting, encrypting, and converting files in the Go programming language. This SDK is built upon the Aspose.Cells Cloud API and operates under the MIT license." >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="The Aspose.Cells Cloud SDK for Go empowers your Go applications to access and modify various elements within cloud worksheets. It enables manipulation of auto-filters, workbooks, cells, columns, rows, charts, shapes, hyperlinks, conditional formatting, OleObjects, page breaks, ListObjects, pivot tables, tasks, and ranges. This SDK enables your Go program to convert a variety of formats such as XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML, and MHTML." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Panoramica" msg="Aspose.Cells Cloud SDK for Go facilita il rapido sviluppo di robuste applicazioni basate su cloud per Microsoft Excel, numeri iWork office, fogli di calcolo OpenOffice e altri file di formato. Fornisce funzionalità per generare, leggere, unire, dividere, crittografare e convertire file nel linguaggio di programmazione Go. Questo SDK è basato sul cloud Aspose.Cells API e funziona con la licenza MIT." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="Il Cloud SDK per Go Aspose.Cells consente alle tue applicazioni Go di accedere e modificare vari elementi all\'interno dei fogli di lavoro cloud. Consente la manipolazione di filtri automatici, cartelle di lavoro, celle, colonne, righe, grafici, forme, collegamenti ipertestuali, formattazione condizionale, OleObject, interruzioni di pagina, ListObject, tabelle pivot, attività e intervalli. Questo SDK consente al tuo programma Go di convertire una varietà di formati come XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS in DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML e MHTML." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="A partire da Excel Elaborazione del foglio di calcolo con Go SDK." msg="To begin, start by installing the Aspose.Cells Cloud library for Go and then create an account on Aspose for Cloud to obtain your application credentials. Once you have the application SID and key, you can leverage them within any of the supported Go platforms utilizing the Aspose.Cells Cloud SDK for Go. This SDK offers a comprehensive array of features for creating, editing, and converting spreadsheets. Moreover, it enables you to extract data from spreadsheets for subsequent processing or storage." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="A partire da Excel Elaborazione del foglio di calcolo con Go SDK." msg="Per iniziare, inizia installando la libreria Cloud Aspose.Cells per Go e poi crea un account su Aspose for Cloud per ottenere le credenziali dell\'applicazione. Una volta in possesso del SID e della chiave dell\'applicazione, puoi sfruttarli all\'interno di una qualsiasi delle piattaforme Go supportate utilizzando Aspose.Cells Cloud SDK per Go. Questo SDK offre una gamma completa di funzionalità per la creazione, la modifica e la conversione di fogli di calcolo. Inoltre, consente di estrarre dati da fogli di calcolo per la successiva elaborazione o archiviazione." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>The Aspose.Cells Cloud SDK for Go facilitates numerous operations such as creating, splitting, merging, search and replace of text, applying password protection, exporting to supported file formats, reading workbook text items, auto-fitting workbook rows while ignoring hidden elements, encrypting workbook passwords with varied encryption key lengths, importing data to workbooks, calculating all formulas, setting formula calculation precision strategy, utilizing smart markers, converting workbooks between formats, and applying passwords to allow content modification.</p><p>you can perform a variety of operations such as deleting specific rows or all rows within a worksheet, accessing worksheet cell data or cell style via cell names, retrieving row or column data based on their indices, calculating cell formulas, clearing cell contents, copying cell data to another cell, duplicating worksheet columns and rows, grouping worksheet rows and columns, hiding specific worksheet rows and columns, defining styles for worksheet columns and rows, setting html string values within cells, assigning values to a range of cells, and modifying various worksheet settings.</p>" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Il Cloud SDK per Go Aspose.Cells facilita numerose operazioni come la creazione, la divisione, l\'unione, la ricerca e la sostituzione di testo, l\'applicazione della protezione tramite password, l\'esportazione in formati di file supportati, la lettura di elementi di testo della cartella di lavoro, l\'adattamento automatico delle righe della cartella di lavoro ignorando gli elementi nascosti , crittografia delle password delle cartelle di lavoro con chiavi di crittografia di varia lunghezza, importazione di dati nelle cartelle di lavoro, calcolo di tutte le formule, impostazione della strategia di precisione del calcolo delle formule, utilizzo di marcatori intelligenti, conversione delle cartelle di lavoro tra formati e applicazione di password per consentire la modifica dei contenuti.</p><p>tu può eseguire una serie di operazioni come eliminare righe specifiche o tutte le righe all\'interno di un foglio di lavoro, accedere ai dati delle celle del foglio di lavoro o ai nomi delle celle dello stile di cella via, recuperare i dati di righe o colonne in base ai relativi indici, calcolare le formule delle celle, cancellare il contenuto delle celle, copiare i dati delle celle in un\'altra cella, duplicare colonne e righe del foglio di lavoro, raggruppare righe e colonne del foglio di lavoro, nascondere righe e colonne specifiche del foglio di lavoro, definire stili per colonne e righe del foglio di lavoro, impostare valori di stringa html all\'interno delle celle, assegnare valori a un intervallo di celle e modificare vari fogli di lavoro impostazioni.</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
 {{< blocks/products/cells/cells-cloud-language-card title="Formati di file supportati" title2="" >}}
@@ -50,27 +50,27 @@ weight: 90
 
 
 {{< blocks/products/cells/product-card-row title=" Funzionalità avanzate di manipolazione dei fogli di calcolo" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Support for multiple types of list filters" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Aggiungi filtri con criteri personalizzati per gli elenchi" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Supporto per più tipi di filtri elenco" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Ottieni informazioni sul bordo dell\'area del grafico o sul formato di riempimento" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Aggiungi, aggiorna ed elimina grafici nel foglio di lavoro" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Ottieni, aggiorna, mostra o nascondi la legenda del grafico" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Ottieni, aggiorna, il titolo del grafico e impostane la visibilità" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Aggiungi o rimuovi un\'area della cella per la formattazione condizionale" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Aggiungi, aggiorna ed elimina i collegamenti ipertestuali del foglio di lavoro" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Aggiungi un ListObject nella posizione specificata nel file Excel" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Elimina specifici o tutti i ListObjects in un foglio di lavoro" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Converti ListObject o tabella in un intervallo di celle" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Riepiloga i dati di un ListObject o di una tabella di grandi dimensioni con una tabella pivot" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Aggiungi OleObjects al foglio di lavoro Excel" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Elimina specifici o tutti gli OleObject dal foglio di lavoro" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Inserisci o elimina interruzioni di pagina orizzontali o verticali" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipolare l\'impostazione della pagina, il piè di pagina dell\'intestazione" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Aggiungi, aggiorna, recupera o elimina le immagini dei fogli di lavoro" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Crea, aggiorna, recupera o elimina le proprietà del documento" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Recupera la forma richiesta dal foglio di lavoro" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Aggiungi, aggiorna o elimina forme da un foglio di lavoro" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Aggiungi, aggiorna o elimina convalide per i fogli di lavoro" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 

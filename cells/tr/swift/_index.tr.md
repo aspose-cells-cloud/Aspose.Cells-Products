@@ -1,5 +1,5 @@
 ﻿---
-title:  Swift Elektronik Tablo Oluşturucu ve Dönüştürücü (Cloud REST API)
+title: Swift Elektronik Tablo Oluşturucu ve Dönüştürücü (Cloud REST API)
 description: REST API, bulutta Microsoft ve OpenOffice e-tablolarını almak, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için via Swift SDK
 weight: 130
 url: /tr/swift

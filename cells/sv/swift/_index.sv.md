@@ -1,5 +1,5 @@
 ﻿---
-title:  Swift Spreadsheet Generator & Converter (Cloud REST API)
+title: Swift Spreadsheet Generator & Converter (Cloud REST API)
 description: REST API för att hämta, bearbeta, kryptera, konvertera och exportera Microsoft & OpenOffice-kalkylblad i molnet via Swift SDK
 weight: 130
 url: /sv/swift

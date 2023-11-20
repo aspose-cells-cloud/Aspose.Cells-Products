@@ -1,5 +1,5 @@
 ﻿---
-title:  Generador y convertidor de hojas de cálculo Swift (Cloud REST API)
+title: Generador y convertidor de hojas de cálculo Swift (Cloud REST API)
 description: REST API para buscar, procesar, cifrar, convertir y exportar Microsoft y hojas de cálculo de OpenOffice en la nube via Swift SDK
 weight: 130
 url: /es/swift

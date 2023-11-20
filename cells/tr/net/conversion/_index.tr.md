@@ -11,7 +11,7 @@ description:  Aspose.Cells Cloud REST API, C#'i kullanarak Excel dosya formatı 
 	<div class="diagram1 d2  d1-cloud">
 	<div class="d1-row">
 	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Giriş Formatı</header><ul>
-	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Açık ofis:</b> Oranlar, Fodlar, Otlar</li>
 	<li><b>XML:</b>Elektronik TabloML, Xml</li>
 	<li><b>Metin:</b> Csv, Tsv, Txt (Sekmeyle Ayrılmış)</li>
@@ -20,7 +20,7 @@ description:  Aspose.Cells Cloud REST API, C#'i kullanarak Excel dosya formatı 
 	<li><b>Diğer:</b> Pdf, Json, Markdown</li>
 	</ul></div>
 	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Çıkış biçimi</header><ul>
-	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Microsoft Kelime/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Açık ofis:</b> Oranlar, Fodlar, Otlar</li>
 	<li><b>XML:</b>Elektronik TabloML, Xml</li>

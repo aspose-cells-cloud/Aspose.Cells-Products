@@ -1,5 +1,5 @@
 ﻿---
-title:  Generatore e convertitore di fogli di calcolo Swift (Cloud REST API)
+title: Generatore e convertitore di fogli di calcolo Swift (Cloud REST API)
 description: REST API per recuperare, elaborare, crittografare, convertire ed esportare Microsoft e fogli di calcolo OpenOffice sul cloud via Swift SDK
 weight: 130
 url: /it/swift

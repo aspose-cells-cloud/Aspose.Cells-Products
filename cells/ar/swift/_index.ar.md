@@ -1,5 +1,5 @@
 ﻿---
-title:  مولد ومحول جداول البيانات السريع (Cloud REST API)
+title: مولد ومحول جداول البيانات السريع (Cloud REST API)
 description: REST API لجلب ومعالجة وتشفير وتحويل وتصدير Microsoft وجداول بيانات OpenOffice على السحابة via Swift SDK
 weight: 130
 url: /ar/swift

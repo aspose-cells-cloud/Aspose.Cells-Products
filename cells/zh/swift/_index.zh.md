@@ -1,5 +1,5 @@
 ﻿---
-title:  Swift 电子表格生成器和转换器（云 REST API）
+title: Swift 电子表格生成器和转换器（云 REST API）
 description: REST API 用于获取、处理、加密、转换和导出 Microsoft 和云端 OpenOffice 电子表格 via Swift SDK
 weight: 130
 url: /zh/swift

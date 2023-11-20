@@ -1,5 +1,5 @@
 ﻿---
-title:  Генератор и конвертер электронных таблиц Swift (Cloud REST API)
+title: Генератор и конвертер электронных таблиц Swift (Cloud REST API)
 description: REST API для получения, обработки, шифрования, преобразования и экспорта Microsoft и электронных таблиц OpenOffice в облаке via Swift SDK
 weight: 130
 url: /ru/swift

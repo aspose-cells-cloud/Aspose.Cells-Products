@@ -1,5 +1,5 @@
 ﻿---
-title:  Générateur et convertisseur de feuilles de calcul Swift (Cloud REST API)
+title: Générateur et convertisseur de feuilles de calcul Swift (Cloud REST API)
 description: REST API pour récupérer, traiter, chiffrer, convertir et exporter des feuilles de calcul Microsoft et OpenOffice sur le cloud via SDK Swift
 weight: 130
 url: /fr/swift
