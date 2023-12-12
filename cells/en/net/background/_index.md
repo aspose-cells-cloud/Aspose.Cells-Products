@@ -7,6 +7,40 @@ description: Aspose.Cells Cloud REST API supports setting the background for Exc
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Set a background for Excel files using C#" h2="Aspose.Cells Cloud SDK supports setting backgrounds in Excel files." p="Aspose.Cells Cloud REST API supports setting the background for Excel files using C#, and offers SDKs for various programming languages." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/watermark  %}}  
+{{< /blocks/products/pf/agp/feature-section >}}    
+
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Background" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostWatermark >}}  
+
+	{{< blocks/products/cells/cells-cloud-upload>}}  
+	{{< blocks/products/cells/cells-cloud-parameters itName="color"  required="true" prompt="color">}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="text"  required="true" prompt="text">}}
+    {{< blocks/products/cells/cells-cloud-parameters itName="sdkName" required="true" prompt="sdkName">}}
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostWatermarkRequest request = new PostWatermarkRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.color = "#ccc";
+    request.text = "Aspose.Cells Cloud";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostWatermark(request);
+	fileStream.Close();    
+	     
+```     
+{{% /blocks/products/cells/cells-cloud-showcode  %}}      
+{{< /blocks/products/cells/cells-cloud-api-template >}}  
+
 
 {{< blocks/products/cells/cells-cloud-card-row title="Set a background for Excel files using C# Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/net/background" >}} 

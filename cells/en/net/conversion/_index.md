@@ -7,6 +7,41 @@ description: Aspose.Cells Cloud REST API supports Excel file format conversion u
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Converting Excel file formats using C#" h2="Aspose.Cells Cloud SDK supports conversion between 30+ file formats." p="Aspose.Cells Cloud REST API supports Excel file format conversion using C# and offers SDKs for multiple programming languages." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT"  apiurl=https://api.aspose.cloud/v3.0/cells/convert  %}}
+   
+{{< /blocks/products/pf/agp/feature-section >}}  
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Convert" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook >}}  
+{{< blocks/products/cells/cells-cloud-upload>}}                 
+{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="streamFormat" required="true" prompt="The format of the input file stream.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="sdkName" required="true" prompt="sdkName">}}
+
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+ 
+                     
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PutConvertWorkbookRequest request = new PutConvertWorkbookRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+	request.format = "xps";
+	request.streamFormat = "html";
+	Stream stream = cellsApi.PutConvertWorkbook(request);
+	fileStream.Close();    
+	      
+``` 
+{{% /blocks/products/cells/cells-cloud-showcode  %}}    
+ {{< /blocks/products/cells/cells-cloud-api-template >}}  
 
 	{{< blocks/products/pf/product-card-row title="Supported File Formats" >}}
 	<div class="diagram1 d2  d1-cloud">

@@ -7,6 +7,44 @@ description: Aspose.Cells Cloud REST API supports merging multiple Excel files i
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Merge Excel files using C#" h2="Aspose.Cells Cloud SDK supports merging multiple Excel files into a single Excel file." p="Aspose.Cells Cloud REST API supports merging multiple Excel files into a single Excel file using C#, and offers SDKs for various programming languages." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/merge  %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Merge" OutResultType="Variable" OutResultDataType="Class" ResultPosition="FileInfo" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostMerge >}}  
+{{< blocks/products/cells/cells-cloud-upload>}}  
+ 
+	{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="mergeToOneSheet"  required="true" prompt="mergeToOneSheet">}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="sdkName" required="true" prompt="sdkName">}}
+ 
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+
+                        
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostMergeRequest  request = new PostMergeRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+	request.format = "xps";
+	request.mergeToOneSheet = false;
+
+
+	Aspose.Cells.Cloud.SDK.Model.FileInfo fileInfo = cellsApi.PostMerge(request);
+	fileStream.Close();    
+	      
+```  
+{{% /blocks/products/cells/cells-cloud-showcode  %}}   
+{{< /blocks/products/cells/cells-cloud-api-template >}}     
+
 
 	{{< blocks/products/pf/product-card-row title="Supported File Formats" >}}
 	<div class="diagram1 d2  d1-cloud">

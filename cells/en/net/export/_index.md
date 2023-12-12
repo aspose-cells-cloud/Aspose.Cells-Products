@@ -7,6 +7,39 @@ description: Aspose.Cells Cloud REST API supports exporting workbook and interna
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Export Excel objects using C#" h2="Aspose.Cells Cloud SDK supports exporting workbooks and internal objects to more than 30+ file formats." p="Aspose.Cells Cloud REST API supports exporting workbook and internal objects to all kinds of formats using C#. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST  apiname="Export" %}}
+{{< /blocks/products/pf/agp/feature-section >}} 
+{{< blocks/products/cells/cells-cloud-api-template btName="Export" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/DataProcessing/PostExport >}}  
+{{< blocks/products/cells/cells-cloud-upload>}}  
+	{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="objectType"  required="true" prompt="workbook/worksheet/chart/comment/picture/shape/listobject/oleobject">}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="sdkName" required="true" prompt="sdkName">}}
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+               
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostExportRequest request = new PostExportRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.format = "xps";
+	request.objectType = "Background";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostExport(request);
+	fileStream.Close();    
+	    
+```     
+{{% /blocks/products/cells/cells-cloud-showcode  %}}   
+{{< /blocks/products/cells/cells-cloud-api-template >}}      
+
+
 
 	{{< blocks/products/pf/product-card-row title="Supported File Formats" >}}
 	<div class="diagram1 d2  d1-cloud">

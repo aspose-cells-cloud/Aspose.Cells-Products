@@ -7,6 +7,40 @@ description: Aspose.Cells Cloud REST API supports clear inner objects in an Exce
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Clear internal objects of Excel file using C#" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." p="Aspose.Cells Cloud REST API supports clear inner objects in an Excel file using C#. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/clearobjects  %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Clear" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostClearObjects >}}  
+{{< blocks/products/cells/cells-cloud-upload>}}  
+ 
+	{{< blocks/products/cells/cells-cloud-parameters itName="objecttype"  required="true" prompt="chart/comment/picture/shape/listobject/hyperlink/oleobject/pivottable/validation/Background">}}
+ {{< blocks/products/cells/cells-cloud-parameters itName="sdkName" required="true" prompt="sdkName">}}
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+               
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostClearObjectsRequest request = new PostClearObjectsRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.objecttype = "Background";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostClearObjects(request);
+	fileStream.Close();    
+	    
+```     
+{{% /blocks/products/cells/cells-cloud-showcode  %}}      
+{{< /blocks/products/cells/cells-cloud-api-template >}}  
+
+
+
 
 {{< blocks/products/cells/cells-cloud-card-row title="Clear internal objects of Excel file using C# Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/net/clear" >}} 
