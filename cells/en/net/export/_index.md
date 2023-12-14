@@ -8,12 +8,12 @@ description: Aspose.Cells Cloud REST API supports exporting workbook and interna
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST  apiname="Export" %}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/export  %}}
 {{< /blocks/products/pf/agp/feature-section >}} 
 {{< blocks/products/cells/cells-cloud-api-template btName="Export" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/DataProcessing/PostExport >}}  
 {{< blocks/products/cells/cells-cloud-upload>}}  
 	{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
-	{{< blocks/products/cells/cells-cloud-parameters itName="objectType"  required="true" prompt="workbook/worksheet/chart/comment/picture/shape/listobject/oleobject">}} 
+	{{< blocks/products/cells/cells-cloud-parameters itName="objectType"  required="true" prompt="workbook/worksheet/chart/comment/picture/shape/listobject/oleobject">}}  
 {{% blocks/products/cells/cells-cloud-showcode %}}  
                
 ```cs

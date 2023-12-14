@@ -16,10 +16,10 @@ description: Aspose.Cells Cloud REST API supports merging multiple Excel files i
  
 	{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
 	{{< blocks/products/cells/cells-cloud-parameters itName="mergeToOneSheet"  required="true" prompt="mergeToOneSheet">}} 
- 
-{{% blocks/products/cells/cells-cloud-showcode %}}  
-
                         
+{{% blocks/products/cells/cells-cloud-showcode %}}         
+ 
+                                    
 ```cs
 
 	using Aspose.Cells.Cloud.SDK.Api;
@@ -32,13 +32,14 @@ description: Aspose.Cells Cloud REST API supports merging multiple Excel files i
 	PostMergeRequest  request = new PostMergeRequest();
 	request.File = new Dictionary<string, Stream>();
 	Stream fileStream = File.OpenRead(filePath);
-	request.File.Add(filePath, fileStream);
+	request.File.Add(filePath1, fileStream1);
+	request.File.Add(filePath2, fileStream2);
 	request.format = "xps";
 	request.mergeToOneSheet = false;
 
 
 	Aspose.Cells.Cloud.SDK.Model.FileInfo fileInfo = cellsApi.PostMerge(request);
-	fileStream.Close();    
+	fileStream.Close();
 	      
 ```  
 {{% /blocks/products/cells/cells-cloud-showcode  %}}   
