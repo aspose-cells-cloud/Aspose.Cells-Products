@@ -8,7 +8,35 @@ description:  Aspose.Cells Cloud REST API facilita l'esportazione delle cartelle
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" apiname="Export" %}}
-{{< /blocks/products/pf/agp/feature-section >}}
+{{< /blocks/products/pf/agp/feature-section >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="Export" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/DataProcessing/PostExport" >}}  
+{{< blocks/products/cells/cells-cloud-upload >}}  
+	{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="Please enter format" >}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="objectType" required="true" prompt="Please enter objectType" >}}
+{{% blocks/products/cells/cells-cloud-showcode itName="streamformat" ptName="stream Format:" prompt="Please enter stream Format" %}}  
+               
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostExportRequest request = new PostExportRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.format = "xps";
+	request.objectType = "Background";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostExport(request);
+	fileStream.Close();    
+	    
+```     
+{{% /blocks/products/cells/cells-cloud-showcode %}}   
+{{< /blocks/products/cells/cells-cloud-api-template >}}      
+ 
 
 	{{< blocks/products/pf/product-card-row title="Formati di file supportati" >}}
 	<div class="diagram1 d2  d1-cloud">

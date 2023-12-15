@@ -7,8 +7,37 @@ description:  Aspose.Cells Cloud REST API supporta l'impostazione degli sfondi p
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/watermark" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostWatermark" apimethod="POST" apiname="Watermark" %}}
-{{< /blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/watermark" %}}  
+{{< /blocks/products/pf/agp/feature-section >}}    
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Background" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostWatermark" >}}  
+
+	{{< blocks/products/cells/cells-cloud-upload >}}  
+	{{< blocks/products/cells/cells-cloud-parameters itName="color" required="true" prompt="color" >}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="text" required="true" prompt="text" >}}
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostWatermarkRequest request = new PostWatermarkRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.color = "#ccc";
+    request.text = "Aspose.Cells Cloud";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostWatermark(request);
+	fileStream.Close();    
+	     
+```     
+{{% /blocks/products/cells/cells-cloud-showcode %}}      
+{{< /blocks/products/cells/cells-cloud-api-template >}}  
+
 
 {{< blocks/products/pf/product-card-row title="Operazioni popolari" >}}
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Aggiungi filigrana per più file Excel" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/background/add-watermark/" >}}

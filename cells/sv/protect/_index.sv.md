@@ -1,18 +1,45 @@
 ﻿---
 title:  Skydda Excel-filer
-description: " Aspose.Cells Cloud REST API stöder arbetsboksdekryptering, kryptering och digitala signaturer, och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 0761437481 och Ruby,1434,3401,3434,3401, 343481, Ruby Swift."
+description: " Aspose.Cells Cloud REST API stöder arbetsboksdekryptering, kryptering och digitala signaturer, och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 076143461, 34143461, 34143461, 34143481, 34143481, 34123481, 34123481 och ."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Skydda Excel-filer" h2="Aspose.Cells Cloud SDK stöder arbetsboksdekryptering, kryptering och digitala signaturer." p="Aspose.Cells Cloud REST API stöder arbetsboksdekryptering, kryptering och digitala signaturer, och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 0761437481 och Ruby,1434,3401,3434,3401, 343481, Ruby Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Skydda Excel-filer" h2="Aspose.Cells Cloud SDK stöder arbetsboksdekryptering, kryptering och digitala signaturer." p="Aspose.Cells Cloud REST API stöder arbetsboksdekryptering, kryptering och digitala signaturer, och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 076143461, 34143461, 34143461, 34143481, 34143481, 34123481, 34123481 och ." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" apiname="Encryption" %}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/protect" %}}
 
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/unlock" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostUnlock" apimethod="POST" apiname="Unlock" %}}
-
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/digitalsignature" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostDigitalSignature" apimethod="POST" apiname="Digital Signature" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Protect" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/Protection/PostProtect" >}} 
+{{< blocks/products/cells/cells-cloud-upload >}}  
+ 
+	{{< blocks/products/cells/cells-cloud-parameters itName="password" required="true" prompt="Please enter password" >}} 
+{{% blocks/products/cells/cells-cloud-showcode itName="streamformat" ptName="stream Format:" prompt="Please enter stream Format" %}}  
+               
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+    using Aspose.Cells.Cloud.SDK.Model;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostProtectRequest request = new PostProtectRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.protectWorkbookRequest = new Model.ProtectWorkbookRequest{};
+    request.password = "asposelock";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostProtect(request);
+	fileStream.Close();    
+	    
+```     
+{{% /blocks/products/cells/cells-cloud-showcode %}}      
+{{< /blocks/products/cells/cells-cloud-api-template >}}       
 
 {{< blocks/products/pf/product-card-row title="Populära fungerar" >}}
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Dekryptera med lösenord" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/protect/decrypt-with-password/" >}}

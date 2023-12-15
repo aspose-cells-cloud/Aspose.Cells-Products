@@ -1,6 +1,6 @@
 ﻿---
 title: Excel® Программирование электронных таблиц API для ускорения задач управления и обработки электронных таблиц с помощью Java
-description: API поддержка создания кросс-платформенных приложений, способных создавать, изменять, конвертировать, отображать и печатать электронные таблицы. Он позволяет разработчикам управлять рабочими листами, строками, столбцами и ячейками, создавать содержимое и стили электронных таблиц с нуля, импортировать данные на рабочие листы из разных источников данных, добавлять общие и сложные математические, финансовые и текстовые формулы, создавать сводные таблицы и диаграммы и управлять ими. , гиперссылки, комментарии, рисование объектов и многое другое.
+description: API поддержка создания кросс-платформенных приложений, способных создавать, изменять, преобразовывать, отображать и печатать электронные таблицы. Он позволяет разработчикам управлять рабочими листами, строками, столбцами и ячейками, создавать содержимое и стили электронных таблиц с нуля, импортировать данные на рабочие листы из разных источников данных, добавлять общие и сложные математические, финансовые и текстовые формулы, создавать сводные таблицы и диаграммы и управлять ими. , гиперссылки, комментарии, рисование объектов и многое другое.
 weight: 90
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -10,18 +10,18 @@ weight: 90
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-java.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-java" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Обзор" msg="Cloud SDK Aspose.Cells for Java облегчает быструю разработку надежных облачных приложений для Microsoft Excel, номеров iWork office, электронных таблиц OpenOffice и файлов других форматов. Он предоставляет функциональные возможности для создания, чтения, слияния, разделения, шифрования и преобразования файлов на языке программирования Java. Этот SDK построен на базе облака Aspose.Cells API и работает под лицензией MIT." >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="Cloud SDK Aspose.Cells for Java позволяет вашим приложениям Java получать доступ к различным элементам облачных таблиц и изменять их. Он позволяет манипулировать автофильтрами, книгами, ячейками, столбцами, строками, диаграммами, фигурами, гиперссылками, условным форматированием, объектами OleObject, разрывами страниц, объектами ListObject, сводными таблицами, задачами и диапазонами. Этот SDK позволяет вашей программе Java конвертировать различные форматы, такие как XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS в DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML и MHTML." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Обзор" msglink="https://products.aspose.cloud/cells/family/" msg="Cloud SDK Aspose.Cells for Java облегчает быструю разработку надежных облачных приложений для номеров Microsoft Excel, номеров iWork office, электронных таблиц OpenOffice и файлов других форматов. Он предоставляет функциональные возможности для создания, чтения, слияния, разделения, шифрования и преобразования файлов на языке программирования Java. Этот SDK построен на базе облака Aspose.Cells API и работает под лицензией MIT." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" msg="Cloud SDK Aspose.Cells for Java позволяет вашим приложениям Java получать доступ к различным элементам облачных таблиц и изменять их. Он позволяет манипулировать автофильтрами, книгами, ячейками, столбцами, строками, диаграммами, фигурами, гиперссылками, условным форматированием, объектами OleObject, разрывами страниц, объектами ListObject, сводными таблицами, задачами и диапазонами. Этот SDK позволяет вашей программе Java конвертировать различные форматы, такие как XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS в DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML и MHTML." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Начало Excel Обработка электронных таблиц с помощью Java SDK." msg="Для начала начните с установки облачной библиотеки Aspose.Cells for Java, а затем создайте учетную запись по адресу Aspose для Cloud, чтобы получить учетные данные приложения. Получив SID и ключ приложения, вы можете использовать их на любой из поддерживаемых платформ Java с помощью Cloud SDK Aspose.Cells for Java. Этот SDK предлагает полный набор функций для создания, редактирования и преобразования электронных таблиц. Более того, он позволяет извлекать данные из электронных таблиц для последующей обработки или хранения." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" imgalt="computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Начало Excel Обработка электронных таблиц с помощью Java SDK." msglink="https://products.aspose.cloud/cells/family/" msg="Для начала начните с установки облачной библиотеки Aspose.Cells for Java, а затем создайте учетную запись по адресу Aspose для Cloud, чтобы получить учетные данные приложения. Получив SID и ключ приложения, вы можете использовать их на любой из поддерживаемых платформ Java с помощью Cloud SDK Aspose.Cells for Java. Этот SDK предлагает полный набор функций для создания, редактирования и преобразования электронных таблиц. Более того, он позволяет извлекать данные из электронных таблиц для последующей обработки или хранения." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Облачный SDK Aspose.Cells for Java упрощает многочисленные операции, такие как создание, разделение, объединение, поиск и замена текста, применение защиты паролем, экспорт в поддерживаемые форматы файлов, чтение текстовых элементов книги, автоматическое подгонка строк книги с игнорированием скрытых элементов. шифрование паролей книг с использованием ключей шифрования различной длины, импорт данных в книги, вычисление всех формул, настройка стратегии точности расчета формул, использование интеллектуальных маркеров, преобразование книг между форматами и применение паролей для изменения содержимого.</p><p>Вы можете выполнять различные операции, такие как удаление определенных строк или всех строк на листе, доступ к данным ячеек листа или именам ячеек в стиле ячейки via, извлечение данных строки или столбца на основе их индексов, вычисление формул ячеек, очистка содержимого ячейки, копирование данных ячейки в другая ячейка, дублирование столбцов и строк рабочего листа, группировка строк и столбцов рабочего листа, скрытие определенных строк и столбцов рабочего листа, определение стилей для столбцов и строк рабочего листа, установка строковых значений HTML внутри ячеек, присвоение значений диапазону ячеек и изменение различных настроек рабочего листа. .</p>" >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" imgalt="operatest.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Облачный SDK Aspose.Cells for Java упрощает многочисленные операции, такие как создание, разделение, объединение, поиск и замена текста, применение защиты паролем, экспорт в поддерживаемые форматы файлов, чтение текстовых элементов книги, автоматическое подгонка строк книги с игнорированием скрытых элементов. шифрование паролей книг с использованием ключей шифрования различной длины, импорт данных в книги, вычисление всех формул, настройка стратегии точности расчета формул, использование интеллектуальных маркеров, преобразование книг между форматами и применение паролей для изменения содержимого.</p><p>Вы можете выполнять различные операции, такие как удаление определенных строк или всех строк на листе, доступ к данным ячеек листа или именам ячеек стиля via, извлечение данных строки или столбца на основе их индексов, вычисление формул ячеек, очистка содержимого ячейки, копирование данных ячейки в другая ячейка, дублирование столбцов и строк рабочего листа, группировка строк и столбцов рабочего листа, скрытие определенных строк и столбцов рабочего листа, определение стилей для столбцов и строк рабочего листа, установка строковых значений HTML внутри ячеек, присвоение значений диапазону ячеек и изменение различных настроек рабочего листа. .</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
 {{< blocks/products/cells/cells-cloud-language-card title="Поддерживаемые форматы файлов" title2="" >}}
@@ -50,27 +50,27 @@ weight: 90
 
 
 {{< blocks/products/cells/product-card-row title=" Расширенные возможности работы с электронными таблицами" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Добавляйте фильтры с настраиваемыми критериями для списков" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Поддержка нескольких типов фильтров списков." >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Получите информацию о границе области диаграммы или формате заполнения." >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Добавление, обновление и удаление диаграмм на листе" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Получить, обновить, показать или скрыть легенду диаграммы" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Получите, обновите заголовок диаграммы и настройте ее видимость." >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Добавить или удалить область ячейки для условного форматирования" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Добавление, обновление и удаление гиперссылок на листе" >}}
+     {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Добавляйте фильтры с настраиваемыми критериями для списков" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="Автофильтр" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Поддержка нескольких типов фильтров списков." href="https://reference.aspose.cloud/cells/#/ListObjects" title="типы списковых фильтров" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Получите информацию о границе области диаграммы или формате заполнения." href="https://reference.aspose.cloud/cells/#/Conversion" title="преобразование ячеек" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Добавление, обновление и удаление диаграмм на листе" href="https://reference.aspose.cloud/cells/#/Worksheets" title="ячейки-лист" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Получить, обновить, показать или скрыть легенду диаграммы" href="https://reference.aspose.cloud/cells/#/Charts" title="ячейки-диаграмма" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Получите, обновите заголовок диаграммы и настройте ее видимость." href="https://reference.aspose.cloud/cells/#/Charts" title="ячейки-диаграмма" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Добавить или удалить область ячейки для условного форматирования" href="https://reference.aspose.cloud/cells/#/ConditionalFormattings" title="форматирование ячеек" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Добавление, обновление и удаление гиперссылок на листе" href="https://reference.aspose.cloud/cells/#/Hypelinks" title="ячейки-гиперссылки" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Добавьте ListObject в указанное место в файле Excel." >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Удалить определенные или все объекты ListObject на листе" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Преобразование ListObject или таблицы в диапазон ячеек" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Обобщение данных большого объекта ListObject или таблицы с помощью сводной таблицы" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Добавьте OleObjects на лист Excel." >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Удалить определенные или все объекты OleObjects с рабочего листа" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Вставка или удаление горизонтальных или вертикальных разрывов страниц." >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Управление настройкой страницы, нижний колонтитул" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Добавляйте, обновляйте, извлекайте или удаляйте изображения рабочих листов." >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Создание, обновление, получение или удаление свойств документа" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Получить нужную форму с рабочего листа" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Добавление, обновление или удаление фигур с листа" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Добавление, обновление или удаление проверок для листов" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Удалить определенные или все объекты ListObject на листе" href="https://reference.aspose.cloud/cells/#/ListObjects" title="объекты-список ячеек" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Преобразование ListObject или таблицы в диапазон ячеек" href="https://reference.aspose.cloud/cells/#/ListObjects" title="объекты-список ячеек" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Обобщение данных большого объекта ListObject или таблицы с помощью сводной таблицы" href="https://reference.aspose.cloud/cells/#/ListObjects" title="объекты-список ячеек" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Добавьте OleObjects на лист Excel." href="https://reference.aspose.cloud/cells/#/OleObjects" title="клетки-олеобъекты" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Удалить определенные или все объекты OleObjects с рабочего листа" href="https://reference.aspose.cloud/cells/#/OleObjects" title="клетки-олеобъекты" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Вставка или удаление горизонтальных или вертикальных разрывов страниц." href="https://reference.aspose.cloud/cells/#/PageBreaks" title="клетки-разрывы" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Управление настройкой страницы, нижний колонтитул" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="клетки-манипулировать" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Добавляйте, обновляйте, извлекайте или удаляйте изображения рабочих листов." href="https://reference.aspose.cloud/cells/#/Pictures" title="клетки-картинки" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Создание, обновление, получение или удаление свойств документа" href="https://reference.aspose.cloud/cells/#/Properties" title="свойства ячеек" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Получить нужную форму с рабочего листа" href="https://reference.aspose.cloud/cells/#/Shapes" title="клетки-формы" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Добавление, обновление или удаление фигур с листа" href="https://reference.aspose.cloud/cells/#/Shapes" title="клетки-формы" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Добавление, обновление или удаление проверок для листов" href="https://reference.aspose.cloud/cells/#/WorksheetValidations" title="Рабочий листПроверки" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 
@@ -103,17 +103,17 @@ weight: 90
 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="curl" link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item sdkName=".net" link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="java" link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="php" link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="perl" link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="python" link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="ruby" link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="node" link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="android" link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="swift" link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="go" link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

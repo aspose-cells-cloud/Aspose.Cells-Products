@@ -8,9 +8,9 @@ description: Aspose.Cells 云 API 使您能够在任何平台上执行各种文�
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="概述" msg="Aspose.Cells 云 API 使您能够<b>在任何平台</b>执行各种文档处理任务，包括在云中创建、操作、转换和呈现 Excel 文档。有了这个API，您可以轻松地将Excel、OpenOffice和其他文件格式转换为各种输出格式，包括PDF、HTML、ODS、XPS、CSV、JSON、Markdown等。" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="技术支援" msg="Aspose为其所有产品提供无限制的免费技术支持，所有用户都可以访问，包括使用评估版的用户。如果您需要 Aspose.Cells Cloud 方面的帮助，您可以在 <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud 论坛</a>中发布您的问题，您可以期待几个小时内回复。问题由 Aspose.Cells 云开发团队直接解决。" >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="概述" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells 云 API 使您能够<b>在任何平台</b>执行各种文档处理任务，包括在云中创建、操作、转换和呈现 Excel 文档。有了这个API，您可以轻松地将Excel、OpenOffice和其他文件格式转换为各种输出格式，包括PDF、HTML、ODS、XPS、CSV、JSON、Markdown等。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="技术支援" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose为其所有产品提供无限制的免费技术支持，所有用户都可以访问，包括使用评估版的用户。如果您需要 Aspose.Cells Cloud 方面的帮助，您可以在 <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud 论坛</a>中发布您的问题，您可以期待几个小时内回复。问题由 Aspose.Cells 云开发团队直接解决。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.Cells 云低代码 API 包括" >}}

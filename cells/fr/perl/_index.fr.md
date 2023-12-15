@@ -10,17 +10,17 @@ weight: 90
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-perl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Aperçu" msg="Le SDK Cloud Aspose.Cells pour Perl facilite le développement rapide d\'applications cloud robustes pour Microsoft Excel, les numéros iWork office, les feuilles de calcul OpenOffice et d\'autres fichiers de format. Il fournit des fonctionnalités pour générer, lire, fusionner, diviser, crypter et convertir des fichiers dans le langage de programmation Perl. Ce SDK est construit sur le Cloud Aspose.Cells API et fonctionne sous la licence MIT." >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="Le SDK Cloud Aspose.Cells pour Perl permet à vos applications Perl d\'accéder et de modifier divers éléments dans les feuilles de calcul cloud. Il permet la manipulation des filtres automatiques, des classeurs, des cellules, des colonnes, des lignes, des graphiques, des formes, des hyperliens, de la mise en forme conditionnelle, des OleObjects, des sauts de page, des ListObjects, des tableaux croisés dynamiques, des tâches et des plages. Ce SDK permet à votre programme Perl de convertir une variété de formats tels que XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS en DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML et MHTML." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Aperçu" msglink="https://products.aspose.cloud/cells/family/" msg="Le SDK Cloud Aspose.Cells pour Perl facilite le développement rapide d\'applications cloud robustes pour Microsoft Excel, les numéros iWork office, les feuilles de calcul OpenOffice et d\'autres fichiers de format. Il fournit des fonctionnalités pour générer, lire, fusionner, diviser, crypter et convertir des fichiers dans le langage de programmation Perl. Ce SDK est construit sur le Cloud Aspose.Cells API et fonctionne sous la licence MIT." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" msg="Le SDK Cloud Aspose.Cells pour Perl permet à vos applications Perl d\'accéder et de modifier divers éléments dans les feuilles de calcul cloud. Il permet la manipulation des filtres automatiques, des classeurs, des cellules, des colonnes, des lignes, des graphiques, des formes, des hyperliens, de la mise en forme conditionnelle, des OleObjects, des sauts de page, des ListObjects, des tableaux croisés dynamiques, des tâches et des plages. Ce SDK permet à votre programme Perl de convertir une variété de formats tels que XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS en DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV, TXT, HTML et MHTML." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Début du traitement de la feuille de calcul Excel avec le SDK Perl." msg="Pour commencer, commencez par installer la bibliothèque Cloud Aspose.Cells pour Perl puis créez un compte sur Aspose pour Cloud pour obtenir les identifiants de votre application. Une fois que vous disposez du SID et de la clé de l\'application, vous pouvez les exploiter sur n\'importe laquelle des plates-formes Perl prises en charge à l\'aide du SDK Cloud Aspose.Cells pour Perl. Ce SDK offre une gamme complète de fonctionnalités pour créer, modifier et convertir des feuilles de calcul. De plus, il vous permet d\'extraire des données de feuilles de calcul pour un traitement ou un stockage ultérieur." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" imgalt="computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Début du traitement de la feuille de calcul Excel avec le SDK Perl." msglink="https://products.aspose.cloud/cells/family/" msg="Pour commencer, commencez par installer la bibliothèque Cloud Aspose.Cells pour Perl puis créez un compte sur Aspose pour Cloud pour obtenir les identifiants de votre application. Une fois que vous disposez du SID et de la clé de l\'application, vous pouvez les exploiter sur n\'importe laquelle des plates-formes Perl prises en charge à l\'aide du SDK Cloud Aspose.Cells pour Perl. Ce SDK offre une gamme complète de fonctionnalités pour créer, modifier et convertir des feuilles de calcul. De plus, il vous permet d\'extraire des données de feuilles de calcul pour un traitement ou un stockage ultérieur." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" imgalt="operatest.png" >}}
     {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Le SDK Cloud Aspose.Cells pour Perl facilite de nombreuses opérations telles que la création, le fractionnement, la fusion, la recherche et le remplacement de texte, l\'application d\'une protection par mot de passe, l\'exportation vers des formats de fichiers pris en charge, la lecture d\'éléments de texte de classeur, l\'ajustement automatique des lignes de classeur tout en ignorant les éléments masqués. , chiffrer les mots de passe des classeurs avec des longueurs de clé de chiffrement variées, importer des données dans des classeurs, calculer toutes les formules, définir une stratégie de précision de calcul des formules, utiliser des marqueurs intelligents, convertir des classeurs entre formats et appliquer des mots de passe pour permettre la modification du contenu.</p><p>vous peut effectuer diverses opérations telles que la suppression de lignes spécifiques ou de toutes les lignes d\'une feuille de calcul, l\'accès aux données de cellule de la feuille de calcul ou aux noms de cellule du style de cellule via, la récupération de données de ligne ou de colonne en fonction de leurs indices, le calcul de formules de cellule, l\'effacement du contenu de cellule, la copie de données de cellule. dans une autre cellule, dupliquer les colonnes et les lignes de la feuille de calcul, regrouper les lignes et les colonnes de la feuille de calcul, masquer les lignes et les colonnes spécifiques de la feuille de calcul, définir les styles pour les colonnes et les lignes de la feuille de calcul, définir les valeurs de chaîne HTML dans les cellules, attribuer des valeurs à une plage de cellules et modifier diverses feuilles de calcul. paramètres.</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
@@ -50,27 +50,27 @@ weight: 90
 
 
 {{< blocks/products/cells/product-card-row title=" Fonctionnalités avancées de manipulation de feuilles de calcul" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Ajouter des filtres avec des critères personnalisés pour les listes" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Prise en charge de plusieurs types de filtres de liste" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Obtenir des informations sur la bordure de la zone de graphique ou le format de remplissage" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Ajouter, mettre à jour et supprimer des graphiques dans une feuille de calcul" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Obtenir, mettre à jour, afficher ou masquer la légende du graphique" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Obtenez, mettez à jour le titre du graphique et définissez sa visibilité" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Ajouter ou supprimer une zone de cellule pour la mise en forme conditionnelle" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Ajouter, mettre à jour et supprimer des hyperliens de feuille de calcul" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Ajouter des filtres avec des critères personnalisés pour les listes" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="Filtre automatique" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Prise en charge de plusieurs types de filtres de liste" href="https://reference.aspose.cloud/cells/#/ListObjects" title="types de filtres de liste" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Obtenir des informations sur la bordure de la zone de graphique ou le format de remplissage" href="https://reference.aspose.cloud/cells/#/Conversion" title="conversion de cellules" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Ajouter, mettre à jour et supprimer des graphiques dans une feuille de calcul" href="https://reference.aspose.cloud/cells/#/Worksheets" title="feuille de calcul des cellules" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Obtenir, mettre à jour, afficher ou masquer la légende du graphique" href="https://reference.aspose.cloud/cells/#/Charts" title="graphique de cellules" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Obtenez, mettez à jour le titre du graphique et définissez sa visibilité" href="https://reference.aspose.cloud/cells/#/Charts" title="graphique de cellules" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Ajouter ou supprimer une zone de cellule pour la mise en forme conditionnelle" href="https://reference.aspose.cloud/cells/#/ConditionalFormattings" title="formatage des cellules" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Ajouter, mettre à jour et supprimer des hyperliens de feuille de calcul" href="https://reference.aspose.cloud/cells/#/Hypelinks" title="cellules-hyperliens" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Ajouter un ListObject à l\'endroit spécifié dans le fichier Excel" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convertir ListObject ou un tableau en une plage de cellules" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Résumer les données d\'un grand ListObject ou d\'un tableau avec un tableau croisé dynamique" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Ajouter des OleObjects à la feuille de calcul Excel" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de calcul" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insérer ou supprimer des sauts de page horizontaux ou verticaux" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipuler la mise en page, l\'en-tête et le pied de page" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Ajouter, mettre à jour, récupérer ou supprimer des images de feuille de calcul" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Créer, mettre à jour, récupérer ou supprimer les propriétés du document" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Récupérer la forme requise à partir de la feuille de calcul" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Ajouter, mettre à jour ou supprimer des formes d\'une feuille de calcul" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Ajouter, mettre à jour ou supprimer des validations pour les feuilles de calcul" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul" href="https://reference.aspose.cloud/cells/#/ListObjects" title="cellules-listeobjets" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convertir ListObject ou un tableau en une plage de cellules" href="https://reference.aspose.cloud/cells/#/ListObjects" title="cellules-listeobjets" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Résumer les données d\'un grand ListObject ou d\'un tableau avec un tableau croisé dynamique" href="https://reference.aspose.cloud/cells/#/ListObjects" title="cellules-listeobjets" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Ajouter des OleObjects à la feuille de calcul Excel" href="https://reference.aspose.cloud/cells/#/OleObjects" title="cellules-oleobjects" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de calcul" href="https://reference.aspose.cloud/cells/#/OleObjects" title="cellules-oleobjects" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insérer ou supprimer des sauts de page horizontaux ou verticaux" href="https://reference.aspose.cloud/cells/#/PageBreaks" title="cellules-casse" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipuler la mise en page, l\'en-tête et le pied de page" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="cellules-manipuler" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Ajouter, mettre à jour, récupérer ou supprimer des images de feuille de calcul" href="https://reference.aspose.cloud/cells/#/Pictures" title="cellules-images" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Créer, mettre à jour, récupérer ou supprimer les propriétés du document" href="https://reference.aspose.cloud/cells/#/Properties" title="propriétés des cellules" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Récupérer la forme requise à partir de la feuille de calcul" href="https://reference.aspose.cloud/cells/#/Shapes" title="formes de cellules" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Ajouter, mettre à jour ou supprimer des formes d\'une feuille de calcul" href="https://reference.aspose.cloud/cells/#/Shapes" title="formes de cellules" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Ajouter, mettre à jour ou supprimer des validations pour les feuilles de calcul" href="https://reference.aspose.cloud/cells/#/WorksheetValidations" title="Feuille de travailValidations" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 
@@ -103,17 +103,17 @@ weight: 90
 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="curl" link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item sdkName=".net" link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="java" link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="php" link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="perl" link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="python" link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="ruby" link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="node" link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="android" link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="swift" link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="go" link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

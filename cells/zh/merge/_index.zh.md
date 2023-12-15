@@ -1,14 +1,51 @@
 ﻿---
 title: 合并多个Excel文件
-description: Aspose.Cells Cloud REST API 允许将多个 Excel 文件合并为一个 Excel 文件，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、0761834 81、鲁比和斯威夫特。
+description: Aspose.Cells Cloud REST API 允许将多个 Excel 文件合并为一个 Excel 文件，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python 、Ruby 和斯威夫特。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="合并多个Excel文件" h2="Aspose.Cells Cloud SDK 支持将多个 Excel 文件合并为单个 Excel 文件。" p="Aspose.Cells Cloud REST API 允许将多个 Excel 文件合并为一个 Excel 文件，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、0761834 81、鲁比和斯威夫特。" urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="合并多个Excel文件" h2="Aspose.Cells Cloud SDK 支持将多个 Excel 文件合并为单个 Excel 文件。" p="Aspose.Cells Cloud REST API 允许将多个 Excel 文件合并为一个 Excel 文件，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python 、Ruby 和斯威夫特。" urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" apiname="Merge" %}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/merge" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+
+
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Merge" OutResultType="Variable" OutResultDataType="Class" ResultPosition="FileInfo" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostMerge" >}}  
+{{< blocks/products/cells/cells-cloud-upload >}}  
+ 
+	{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="Please enter format" >}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="mergeToOneSheet" required="true" prompt="mergeToOneSheet" >}}
+ 
+{{% blocks/products/cells/cells-cloud-showcode itName="streamformat" ptName="stream Format:" prompt="Please enter stream Format" %}}  
+
+                        
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostMergeRequest  request = new PostMergeRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+	request.format = "xps";
+	request.mergeToOneSheet = false;
+
+
+	Aspose.Cells.Cloud.SDK.Model.FileInfo fileInfo = cellsApi.PostMerge(request);
+	fileStream.Close();    
+	      
+```  
+{{% /blocks/products/cells/cells-cloud-showcode %}}   
+{{< /blocks/products/cells/cells-cloud-api-template >}}      
+         
+   
 
 	{{< blocks/products/pf/product-card-row title="支持的文件格式" >}}
 	<div class="diagram1 d2  d1-cloud">

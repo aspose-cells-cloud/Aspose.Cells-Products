@@ -1,14 +1,43 @@
 ﻿---
 title:  Ange bakgrund i filen Excel
-description: " Aspose.Cells Cloud REST API stöder inställning av bakgrunder för Excel-filer och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 0761587481, 7161587416,1406 1,761583481 och Ruby Swift."
+description: " Aspose.Cells Cloud REST API stöder inställning av bakgrunder för Excel-filer och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 0761587481, 761587461, 34701, 761587461, 761583481, 761587481, 761587481, 761587461, 761587481, 761587481, 761587481, 76103481, 76133481 och ."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ange bakgrund i filen Excel" h2="Aspose.Cells Cloud SDK stöder inställning av bakgrunder eller vattenstämplar för Excel-filer." p="Aspose.Cells Cloud REST API stöder inställning av bakgrunder för Excel-filer och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 0761587481, 7161587416,1406 1,761583481 och Ruby Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ange bakgrund i filen Excel" h2="Aspose.Cells Cloud SDK stöder inställning av bakgrunder eller vattenstämplar för Excel-filer." p="Aspose.Cells Cloud REST API stöder inställning av bakgrunder för Excel-filer och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 0761587481, 761587461, 34701, 761587481, 761587481, 761587461, 761587481, 761587461, 761587461, 761587461, 76133481, 76133481 och ." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/watermark" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostWatermark" apimethod="POST" apiname="Watermark" %}}
-{{< /blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/watermark" %}}  
+{{< /blocks/products/pf/agp/feature-section >}}    
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Background" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostWatermark" >}}  
+
+	{{< blocks/products/cells/cells-cloud-upload >}}  
+	{{< blocks/products/cells/cells-cloud-parameters itName="color" required="true" prompt="color" >}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="text" required="true" prompt="text" >}}
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostWatermarkRequest request = new PostWatermarkRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.color = "#ccc";
+    request.text = "Aspose.Cells Cloud";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostWatermark(request);
+	fileStream.Close();    
+	     
+```     
+{{% /blocks/products/cells/cells-cloud-showcode %}}      
+{{< /blocks/products/cells/cells-cloud-api-template >}}  
+
 
 {{< blocks/products/pf/product-card-row title="Populära fungerar" >}}
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Lägg till vattenstämpel för flera Excel-filer" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/background/add-watermark/" >}}

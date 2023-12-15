@@ -6,10 +6,74 @@ description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hinterg
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Legen Sie einen Hintergrund für Excel-Dateien mit C# fest" h2="Aspose.Cells Cloud SDK unterstützt das Festlegen von Hintergründen in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für Excel-Dateien mithilfe von C# und bietet SDKs für verschiedene Programmiersprachen." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/watermark" %}}  
+{{< /blocks/products/pf/agp/feature-section >}}    
 
-{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie mithilfe von C#-Erweiterungslinks einen Hintergrund für Excel-Dateien fest" >}}
-{{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/background" >}} 
-{{< /blocks/products/cells/cells-cloud-card-row >}}
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Background" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostWatermark" >}}  
+
+	{{< blocks/products/cells/cells-cloud-upload >}}  
+	{{< blocks/products/cells/cells-cloud-parameters itName="color" required="true" prompt="color" >}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="text" required="true" prompt="text" >}}
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostWatermarkRequest request = new PostWatermarkRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.color = "#ccc";
+    request.text = "Aspose.Cells Cloud";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostWatermark(request);
+	fileStream.Close();    
+	     
+```     
+{{% /blocks/products/cells/cells-cloud-showcode %}}      
+{{< /blocks/products/cells/cells-cloud-api-template >}}  
+
+{{< blocks/products/pf/product-card-row title="Beliebte Operationen" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Fügen Sie Wasserzeichen für mehrere Excel-Dateien hinzu" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/background/add-watermark/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Fügen Sie Wasserzeichen für mehrere Excel-Dateien hinzu" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/java/background/add-watermark/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Go" title="Fügen Sie Wasserzeichen für mehrere Excel-Dateien hinzu" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/background/add-watermark/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Fügen Sie Wasserzeichen für mehrere Excel-Dateien hinzu" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/php/background/add-watermark/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Node" title="Fügen Sie Wasserzeichen für mehrere Excel-Dateien hinzu" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/node/background/add-watermark/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="Fügen Sie Wasserzeichen für mehrere Excel-Dateien hinzu" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/background/add-watermark/" >}}
+{{< /blocks/products/pf/product-card-row >}}
+
+{{< blocks/products/pf/product-card-row title="Unterstützte Entwicklungssprachen" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Android" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Go" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Java" imgSrc="/cells/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Net" imgSrc="/cells/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Node" imgSrc="/cells/sdk/aspose_cells-for-node.png" productLink="/cells/node/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Perl" imgSrc="/cells/sdk/aspose_cells-for-perl.png" productLink="/cells/perl/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für PHP" imgSrc="/cells/sdk/aspose_cells-for-php.png" productLink="/cells/php/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Python" imgSrc="/cells/sdk/aspose_cells-for-python.png" productLink="/cells/python/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Ruby" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Swift" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
+{{< /blocks/products/pf/product-card-row >}}
 
 
 {{< /blocks/products/pf/main-container >}}
