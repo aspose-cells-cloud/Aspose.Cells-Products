@@ -10,17 +10,17 @@ weight: 90
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-perl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="ملخص" msg="يسهل Aspose.Cells Cloud SDK لـ Perl التطوير السريع للتطبيقات السحابية القوية لـ Microsoft Excel وأرقام iWork office وجداول بيانات OpenOffice وملفات التنسيق الأخرى. يوفر وظائف لإنشاء الملفات وقراءتها ودمجها وتقسيمها وتشفيرها وتحويلها بلغة البرمجة Perl. تم بناء SDK هذا على Aspose.Cells Cloud API ويعمل بموجب ترخيص MIT." >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="يعمل Aspose.Cells Cloud SDK لـ Perl على تمكين تطبيقات Perl الخاصة بك من الوصول إلى العناصر المختلفة وتعديلها داخل أوراق العمل السحابية. فهو يتيح معالجة عوامل التصفية التلقائية والمصنفات والخلايا والأعمدة والصفوف والمخططات والأشكال والارتباطات التشعبية والتنسيق الشرطي وOleObjects وفواصل الصفحات وListObjects والجداول المحورية والمهام والنطاقات. يتيح SDK هذا لبرنامج Perl الخاص بك تحويل مجموعة متنوعة من التنسيقات مثل XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM، ODS إلى DIF، PDF، XPS، TIFF، SVG، Markdown، XML، SpreadsheetML، CSV، TSV، TXT، HTML، وMHTML." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="ملخص" msglink="https://products.aspose.cloud/cells/family/" msg="يسهل Aspose.Cells Cloud SDK لـ Perl التطوير السريع للتطبيقات السحابية القوية لـ Microsoft Excel وأرقام iWork office وجداول بيانات OpenOffice وملفات التنسيق الأخرى. يوفر وظائف لإنشاء الملفات وقراءتها ودمجها وتقسيمها وتشفيرها وتحويلها بلغة البرمجة Perl. تم بناء SDK هذا على Aspose.Cells Cloud API ويعمل بموجب ترخيص MIT." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" msg="يعمل Aspose.Cells Cloud SDK لـ Perl على تمكين تطبيقات Perl الخاصة بك من الوصول إلى العناصر المختلفة وتعديلها داخل أوراق العمل السحابية. فهو يتيح معالجة عوامل التصفية التلقائية والمصنفات والخلايا والأعمدة والصفوف والمخططات والأشكال والارتباطات التشعبية والتنسيق الشرطي وOleObjects وفواصل الصفحات وListObjects والجداول المحورية والمهام والنطاقات. يمكّن SDK برنامج Perl الخاص بك من تحويل مجموعة متنوعة من التنسيقات مثل XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM، ODS إلى DIF، PDF، XPS، TIFF، SVG، Markdown، XML، SpreadsheetML، CSV، TSV، TXT، HTML، وMHTML." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="بداية Excel معالجة جداول البيانات باستخدام Perl SDK." msg="للبدء، ابدأ بتثبيت المكتبة السحابية Aspose.Cells لـ Perl ثم قم بإنشاء حساب على Aspose للسحابة للحصول على بيانات اعتماد التطبيق الخاص بك. بمجرد حصولك على معرف SID للتطبيق ومفتاحه، يمكنك الاستفادة منهما في أي من منصات Perl المدعومة باستخدام Aspose.Cells Cloud SDK لـ Perl. يوفر SDK هذا مجموعة شاملة من الميزات لإنشاء جداول البيانات وتحريرها وتحويلها. علاوة على ذلك، فهو يمكّنك من استخراج البيانات من جداول البيانات لمعالجتها أو تخزينها لاحقًا." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" imgalt="computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="بداية Excel معالجة جداول البيانات باستخدام Perl SDK." msglink="https://products.aspose.cloud/cells/family/" msg="للبدء، ابدأ بتثبيت المكتبة السحابية Aspose.Cells لـ Perl ثم قم بإنشاء حساب على Aspose للسحابة للحصول على بيانات اعتماد التطبيق الخاص بك. بمجرد حصولك على معرف SID للتطبيق ومفتاحه، يمكنك الاستفادة منهما في أي من منصات Perl المدعومة باستخدام Aspose.Cells Cloud SDK لـ Perl. يوفر SDK هذا مجموعة شاملة من الميزات لإنشاء جداول البيانات وتحريرها وتحويلها. علاوة على ذلك، فهو يمكّنك من استخراج البيانات من جداول البيانات لمعالجتها أو تخزينها لاحقًا." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" imgalt="operatest.png" >}}
     {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>يسهل Aspose.Cells Cloud SDK لـ Perl العديد من العمليات مثل إنشاء النص وتقسيمه ودمجه والبحث عنه واستبداله، وتطبيق الحماية بكلمة مرور، والتصدير إلى تنسيقات الملفات المدعومة، وقراءة العناصر النصية للمصنف، والملاءمة التلقائية لصفوف المصنف مع تجاهل العناصر المخفية وتشفير كلمات مرور المصنف بأطوال مفاتيح تشفير متنوعة، واستيراد البيانات إلى المصنفات، وحساب كافة الصيغ، وتعيين إستراتيجية دقة حساب الصيغة، واستخدام العلامات الذكية، وتحويل المصنفات بين التنسيقات، وتطبيق كلمات المرور للسماح بتعديل المحتوى.</p><p>أنت يمكن إجراء مجموعة متنوعة من العمليات مثل حذف صفوف معينة أو جميع الصفوف داخل ورقة العمل، أو الوصول إلى بيانات خلايا ورقة العمل أو أسماء الخلايا بنمط الخلية، أو استرجاع بيانات الصفوف أو الأعمدة بناءً على مؤشراتها، أو حساب صيغ الخلايا، أو مسح محتويات الخلية، أو نسخ بيانات الخلية إلى خلية أخرى، وتكرار أعمدة وصفوف ورقة العمل، وتجميع صفوف وأعمدة ورقة العمل، وإخفاء صفوف وأعمدة معينة في ورقة العمل، وتحديد أنماط أعمدة وصفوف ورقة العمل، وتعيين قيم سلسلة html داخل الخلايا، وتعيين قيم لنطاق من الخلايا، وتعديل أوراق العمل المختلفة الإعدادات.</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
@@ -50,27 +50,27 @@ weight: 90
 
 
 {{< blocks/products/cells/product-card-row title=" ميزات متقدمة لمعالجة جداول البيانات" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="إضافة عوامل تصفية بمعايير مخصصة للقوائم" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="دعم أنواع متعددة من مرشحات القائمة" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="احصل على معلومات بخصوص حدود منطقة المخطط أو تنسيق التعبئة" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="إضافة وتحديث وحذف المخططات في ورقة العمل" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="الحصول على وسيلة إيضاح الرسم البياني أو تحديثها أو إظهارها أو إخفائها" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="الحصول على عنوان المخطط وتحديثه وضبط رؤيته" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="إضافة منطقة خلية أو إزالتها للتنسيق الشرطي" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="إضافة عوامل تصفية بمعايير مخصصة للقوائم" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="فلتر السيارات" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="دعم أنواع متعددة من مرشحات القائمة" href="https://reference.aspose.cloud/cells/#/ListObjects" title="أنواع مرشحات القائمة" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="احصل على معلومات بخصوص حدود منطقة المخطط أو تنسيق التعبئة" href="https://reference.aspose.cloud/cells/#/Conversion" title="تحويل الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="إضافة وتحديث وحذف المخططات في ورقة العمل" href="https://reference.aspose.cloud/cells/#/Worksheets" title="ورقة عمل الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="الحصول على وسيلة إيضاح الرسم البياني أو تحديثها أو إظهارها أو إخفائها" href="https://reference.aspose.cloud/cells/#/Charts" title="مخطط الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="الحصول على عنوان المخطط وتحديثه وضبط رؤيته" href="https://reference.aspose.cloud/cells/#/Charts" title="مخطط الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="إضافة منطقة خلية أو إزالتها للتنسيق الشرطي" href="https://reference.aspose.cloud/cells/#/ConditionalFormattings" title="تنسيق الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل" href="https://reference.aspose.cloud/cells/#/Hypelinks" title="الارتباطات التشعبية للخلايا" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" أضف كائن قائمة في المكان المحدد في الملف Excel" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" حذف كائنات معينة أو جميع كائنات القائمة في ورقة العمل" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="تحويل ListObject أو الجدول إلى نطاق من الخلايا" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="تلخيص بيانات ListObject أو الجدول الكبير باستخدام Pivot Table" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="أضف OleObjects إلى ورقة العمل Excel" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="احذف OleObjects معينة أو كلها من ورقة العمل" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="إدراج أو حذف فواصل الصفحات الأفقية أو العمودية" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="التعامل مع إعداد الصفحة، وتذييل الرأس" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="إضافة أو تحديث أو جلب أو حذف صور ورقة العمل" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="إنشاء أو تحديث أو جلب أو حذف خصائص الوثيقة" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="إحضار الشكل المطلوب من ورقة العمل" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="إضافة أو تحديث أو حذف الأشكال من ورقة العمل" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="إضافة أو تحديث أو حذف عمليات التحقق من صحة أوراق العمل" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" حذف كائنات معينة أو جميع كائنات القائمة في ورقة العمل" href="https://reference.aspose.cloud/cells/#/ListObjects" title="كائنات قائمة الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="تحويل ListObject أو الجدول إلى نطاق من الخلايا" href="https://reference.aspose.cloud/cells/#/ListObjects" title="كائنات قائمة الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="تلخيص بيانات ListObject أو الجدول الكبير باستخدام Pivot Table" href="https://reference.aspose.cloud/cells/#/ListObjects" title="كائنات قائمة الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="أضف OleObjects إلى ورقة العمل Excel" href="https://reference.aspose.cloud/cells/#/OleObjects" title="كائنات الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="احذف OleObjects معينة أو كلها من ورقة العمل" href="https://reference.aspose.cloud/cells/#/OleObjects" title="كائنات الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="إدراج أو حذف فواصل الصفحات الأفقية أو العمودية" href="https://reference.aspose.cloud/cells/#/PageBreaks" title="فواصل الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="التعامل مع إعداد الصفحة، وتذييل الرأس" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="التلاعب بالخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="إضافة أو تحديث أو جلب أو حذف صور ورقة العمل" href="https://reference.aspose.cloud/cells/#/Pictures" title="صور الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="إنشاء أو تحديث أو جلب أو حذف خصائص الوثيقة" href="https://reference.aspose.cloud/cells/#/Properties" title="خصائص الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="إحضار الشكل المطلوب من ورقة العمل" href="https://reference.aspose.cloud/cells/#/Shapes" title="أشكال الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="إضافة أو تحديث أو حذف الأشكال من ورقة العمل" href="https://reference.aspose.cloud/cells/#/Shapes" title="أشكال الخلايا" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="إضافة أو تحديث أو حذف عمليات التحقق من صحة أوراق العمل" href="https://reference.aspose.cloud/cells/#/WorksheetValidations" title="التحقق من صحة ورقة العمل" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 
@@ -103,17 +103,17 @@ weight: 90
 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="curl" link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item sdkName=".net" link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="java" link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="php" link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="perl" link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="python" link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="ruby" link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="node" link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="android" link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="swift" link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="go" link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: API pour l'analyse de feuille de calcul Excel disponibles dans .NET, Java, Python, C++, PHP et Go.
+title: API pour l'analyse de la feuille de calcul Excel disponibles dans .NET, Java, Python, C++, PHP et Go.
 weight: 10
 description: Le Aspose.Cells Cloud API vous permet d'exécuter un large éventail de tâches de traitement de documents sur n'importe quelle plate-forme, englobant la création, la manipulation, la conversion et le rendu de Excel documents dans le cloud. Avec ce API, vous pouvez facilement convertir Excel, OpenOffice et d'autres formats de fichiers dans une variété de formats de sortie, notamment PDF, HTML, ODS, XPS, CSV, JSON, Markdown, et plus encore.
 ---
@@ -8,9 +8,9 @@ description: Le Aspose.Cells Cloud API vous permet d'exécuter un large éventai
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Aperçu" msg="Le Aspose.Cells Cloud API vous permet d\'exécuter un large éventail de tâches de traitement de documents <b>sur n\'importe quelle plateforme</b>, englobant la création, la manipulation, la conversion et le rendu de Excel documents dans le cloud. Avec ce API, vous pouvez facilement convertir Excel, OpenOffice et d\'autres formats de fichiers dans une variété de formats de sortie, notamment PDF, HTML, ODS, XPS, CSV, JSON, Markdown, et plus encore." >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Soutien technique" msg="Aspose propose un support technique gratuit et illimité pour tous ses produits, accessible à tous les utilisateurs, y compris ceux utilisant la version d\'évaluation. Si vous avez besoin d\'aide avec Aspose.Cells Cloud, vous pouvez poster votre question sur le <a href=\'https://forum.aspose.cloud/c/cells/7\'>Forum Aspose.Cells Cloud</a> et vous pouvez vous attendre à un réponse dans quelques heures. Les questions sont traitées directement par l\'équipe de développement Aspose.Cells Cloud." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Aperçu" msglink="https://products.aspose.cloud/cells/family/" msg="Le Aspose.Cells Cloud API vous permet d\'exécuter un large éventail de tâches de traitement de documents <b>sur n\'importe quelle plateforme</b>, englobant la création, la manipulation, la conversion et le rendu de Excel documents dans le cloud. Avec ce API, vous pouvez facilement convertir Excel, OpenOffice et d\'autres formats de fichiers dans une variété de formats de sortie, notamment PDF, HTML, ODS, XPS, CSV, JSON, Markdown, et plus encore." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Soutien technique" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose propose un support technique gratuit et illimité pour tous ses produits, accessible à tous les utilisateurs, y compris ceux utilisant la version d\'évaluation. Si vous avez besoin d\'aide avec Aspose.Cells Cloud, vous pouvez poster votre question sur le <a href=\'https://forum.aspose.cloud/c/cells/7\'>Forum Aspose.Cells Cloud</a> et vous pouvez vous attendre à un réponse dans quelques heures. Les questions sont traitées directement par l\'équipe de développement Aspose.Cells Cloud." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Les API Cloud Low Code incluent" >}}

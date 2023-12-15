@@ -10,17 +10,17 @@ weight: 90
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-java.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-java" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Genel Bakış" msg="Aspose.Cells Bulut SDK\'sı for Java, Microsoft Excel, iWork office numaraları, OpenOffice elektronik tabloları ve diğer format dosyaları için sağlam bulut tabanlı uygulamaların hızla geliştirilmesini kolaylaştırır. Java programlama dilinde dosya oluşturma, okuma, birleştirme, bölme, şifreleme ve dönüştürme işlevleri sağlar. Bu SDK, Aspose.Cells Bulut API üzerine kurulmuştur ve MIT lisansı altında çalışır." >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="Aspose.Cells Bulut SDK\'sı for Java, Java uygulamalarınızın bulut çalışma sayfalarındaki çeşitli öğelere erişmesini ve bunları değiştirmesini sağlar. Otomatik filtrelerin, çalışma kitaplarının, hücrelerin, sütunların, satırların, grafiklerin, şekillerin, köprülerin, koşullu biçimlendirmenin, OleObject\'lerin, sayfa sonlarının, ListObject\'lerin, pivot tabloların, görevlerin ve aralıkların değiştirilmesine olanak tanır. Bu SDK, Java programınızın XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS gibi çeşitli formatları DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV\'ye dönüştürmesine olanak tanır. TXT, HTML ve MHTML." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Genel Bakış" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells Bulut SDK\'sı for Java, Microsoft Excel, iWork office numaraları, OpenOffice elektronik tabloları ve diğer format dosyaları için sağlam bulut tabanlı uygulamaların hızla geliştirilmesini kolaylaştırır. Java programlama dilinde dosya oluşturma, okuma, birleştirme, bölme, şifreleme ve dönüştürme işlevleri sağlar. Bu SDK, Aspose.Cells Bulut API üzerine kurulmuştur ve MIT lisansı altında çalışır." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells Bulut SDK\'sı for Java, Java uygulamalarınızın bulut çalışma sayfalarındaki çeşitli öğelere erişmesini ve bunları değiştirmesini sağlar. Otomatik filtrelerin, çalışma kitaplarının, hücrelerin, sütunların, satırların, grafiklerin, şekillerin, köprülerin, koşullu biçimlendirmenin, OleObject\'lerin, sayfa sonlarının, ListObject\'lerin, pivot tabloların, görevlerin ve aralıkların değiştirilmesine olanak tanır. Bu SDK, Java programınızın XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS gibi çeşitli formatları DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV\'ye dönüştürmesine olanak tanır. TXT, HTML ve MHTML." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Excel Elektronik Tablo İşleme Java SDK ile başlatılıyor." msg="Başlamak için Aspose.Cells Bulut kitaplığı for Java\'i yükleyerek başlayın ve ardından uygulama kimlik bilgilerinizi almak üzere Bulut için Aspose\'de bir hesap oluşturun. Uygulama SID\'sini ve anahtarını aldıktan sonra, Aspose.Cells Cloud SDK for Java\'i kullanarak desteklenen Java platformlarından herhangi birinde bunlardan yararlanabilirsiniz. Bu SDK, e-tabloların oluşturulması, düzenlenmesi ve dönüştürülmesi için kapsamlı bir dizi özellik sunar. Ayrıca, daha sonraki işlemler veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" imgalt="computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Excel Elektronik Tablo İşleme Java SDK ile başlatılıyor." msglink="https://products.aspose.cloud/cells/family/" msg="Başlamak için Aspose.Cells Bulut kitaplığı for Java\'i yükleyerek başlayın ve ardından uygulama kimlik bilgilerinizi almak üzere Bulut için Aspose\'de bir hesap oluşturun. Uygulama SID\'sini ve anahtarını aldıktan sonra, Aspose.Cells Cloud SDK for Java\'i kullanarak desteklenen Java platformlarından herhangi birinde bunlardan yararlanabilirsiniz. Bu SDK, e-tabloların oluşturulması, düzenlenmesi ve dönüştürülmesi için kapsamlı bir dizi özellik sunar. Ayrıca, daha sonraki işlemler veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" imgalt="operatest.png" >}}
     {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Aspose.Cells Bulut SDK for Java, metin oluşturma, bölme, birleştirme, arama ve değiştirme, parola koruması uygulama, desteklenen dosya biçimlerine aktarma, çalışma kitabı metin öğelerini okuma, gizli öğeleri göz ardı ederek çalışma kitabı satırlarını otomatik olarak sığdırma gibi çok sayıda işlemi kolaylaştırır. çalışma kitabı şifrelerini çeşitli şifreleme anahtarı uzunluklarıyla şifrelemek, verileri çalışma kitaplarına aktarmak, tüm formülleri hesaplamak, formül hesaplama hassas stratejisini ayarlamak, akıllı işaretçileri kullanmak, çalışma kitaplarını formatlar arasında dönüştürmek ve içerik değişikliğine izin vermek için şifreler uygulamak.</p><p>şu işlemleri yapabilirsiniz: bir çalışma sayfasındaki belirli satırları veya tüm satırları silmek, çalışma sayfası hücre verilerine veya hücre stili via hücre adlarına erişmek, dizinlerine göre satır veya sütun verilerini almak, hücre formüllerini hesaplamak, hücre içeriğini temizlemek, hücre verilerini kopyalamak gibi çeşitli işlemleri gerçekleştirin. başka bir hücre, çalışma sayfası sütunlarını ve satırlarını çoğaltma, çalışma sayfası satırlarını ve sütunlarını gruplandırma, belirli çalışma sayfası satırlarını ve sütunlarını gizleme, çalışma sayfası sütunları ve satırları için stilleri tanımlama, hücreler içinde html dizesi değerlerini ayarlama, bir hücre aralığına değerler atama ve çeşitli çalışma sayfası ayarlarını değiştirme .</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
@@ -50,27 +50,27 @@ weight: 90
 
 
 {{< blocks/products/cells/product-card-row title=" Gelişmiş Elektronik Tablo İşleme Özellikleri" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Listeler için özel ölçütlere sahip filtreler ekleyin" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Birden fazla liste filtresi türü desteği" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Grafik Alanı kenarlığı veya dolgu formatı hakkında bilgi alma" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Çalışma sayfasına grafik ekleme, güncelleme ve silme" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Grafik açıklamasını alın, güncelleyin, gösterin veya gizleyin" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Grafik başlığını alın, güncelleyin, görünürlüğünü ayarlayın" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Koşullu biçimlendirme için hücre alanı ekleme veya kaldırma" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Çalışma sayfası köprülerini ekleme, güncelleme ve silme" >}}
+     {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Listeler için özel ölçütlere sahip filtreler ekleyin" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="Otomatik filtre" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Birden fazla liste filtresi türü desteği" href="https://reference.aspose.cloud/cells/#/ListObjects" title="liste filtre türleri" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Grafik Alanı kenarlığı veya dolgu formatı hakkında bilgi alma" href="https://reference.aspose.cloud/cells/#/Conversion" title="hücre dönüşümü" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Çalışma sayfasına grafik ekleme, güncelleme ve silme" href="https://reference.aspose.cloud/cells/#/Worksheets" title="hücreler-çalışma sayfası" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Grafik açıklamasını alın, güncelleyin, gösterin veya gizleyin" href="https://reference.aspose.cloud/cells/#/Charts" title="hücre grafiği" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Grafik başlığını alın, güncelleyin, görünürlüğünü ayarlayın" href="https://reference.aspose.cloud/cells/#/Charts" title="hücre grafiği" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Koşullu biçimlendirme için hücre alanı ekleme veya kaldırma" href="https://reference.aspose.cloud/cells/#/ConditionalFormattings" title="hücreleri biçimlendirme" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Çalışma sayfası köprülerini ekleme, güncelleme ve silme" href="https://reference.aspose.cloud/cells/#/Hypelinks" title="hücre köprüleri" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Excel dosyasında belirtilen yere bir ListObject ekleyin" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Çalışma sayfasındaki belirli ListObject\'leri veya tüm ListObject\'leri silin" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="ListObject\'i veya tabloyu bir hücre aralığına dönüştürün" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Büyük ListObject veya Table verilerini Pivot Table ile özetleme" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="OleObjects\'i Excel çalışma sayfasına ekleyin" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Belirli veya tüm OleObject\'leri çalışma sayfasından silin" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Yatay veya dikey sayfa sonları ekleme veya silme" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Sayfa düzenini ve üstbilgi altbilgisini değiştirin" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Çalışma sayfası resimlerini ekleyin, güncelleyin, getirin veya silin" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Belge özelliklerini oluşturun, güncelleyin, getirin veya silin" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Gerekli şekli çalışma sayfasından getir" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Çalışma sayfasına şekil ekleme, güncelleme veya silme" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Çalışma sayfaları için doğrulamaları ekleme, güncelleme veya silme" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Çalışma sayfasındaki belirli ListObject\'leri veya tüm ListObject\'leri silin" href="https://reference.aspose.cloud/cells/#/ListObjects" title="hücre listesi nesneleri" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="ListObject\'i veya tabloyu bir hücre aralığına dönüştürün" href="https://reference.aspose.cloud/cells/#/ListObjects" title="hücre listesi nesneleri" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Büyük ListObject veya Table verilerini Pivot Table ile özetleme" href="https://reference.aspose.cloud/cells/#/ListObjects" title="hücre listesi nesneleri" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="OleObjects\'i Excel çalışma sayfasına ekleyin" href="https://reference.aspose.cloud/cells/#/OleObjects" title="hücreler-olenesneler" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Belirli veya tüm OleObject\'leri çalışma sayfasından silin" href="https://reference.aspose.cloud/cells/#/OleObjects" title="hücreler-olenesneler" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Yatay veya dikey sayfa sonları ekleme veya silme" href="https://reference.aspose.cloud/cells/#/PageBreaks" title="hücre kırılmaları" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Sayfa düzenini ve üstbilgi altbilgisini değiştirin" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="hücreleri manipüle etmek" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Çalışma sayfası resimlerini ekleyin, güncelleyin, getirin veya silin" href="https://reference.aspose.cloud/cells/#/Pictures" title="hücre resimleri" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Belge özelliklerini oluşturun, güncelleyin, getirin veya silin" href="https://reference.aspose.cloud/cells/#/Properties" title="hücre özellikleri" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Gerekli şekli çalışma sayfasından getir" href="https://reference.aspose.cloud/cells/#/Shapes" title="hücre şekilleri" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Çalışma sayfasına şekil ekleme, güncelleme veya silme" href="https://reference.aspose.cloud/cells/#/Shapes" title="hücre şekilleri" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Çalışma sayfaları için doğrulamaları ekleme, güncelleme veya silme" href="https://reference.aspose.cloud/cells/#/WorksheetValidations" title="Çalışma Sayfası Doğrulamaları" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 
@@ -103,17 +103,17 @@ weight: 90
 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="curl" link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item sdkName=".net" link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="java" link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="php" link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="perl" link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="python" link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="ruby" link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="node" link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="android" link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="swift" link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="go" link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

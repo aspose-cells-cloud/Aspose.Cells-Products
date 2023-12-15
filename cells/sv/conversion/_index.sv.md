@@ -1,16 +1,52 @@
 ﻿---
-title:  Konvertera EXcel-fil till annan filformat
-description: " Aspose.Cells Cloud REST API underlättar Excel filkonvertering till olika format och erbjuder SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 076153161, 88153481, 76153481, 76153481 , och Swift."
+title:  Omvandling
+description:  Aspose.Cells Cloud REST API stöder konvertering av Excel-filer till olika typer av formatfiler. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+url: /sv/conversion/      
 ---
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera EXcel-fil till annan filformat" h2="Aspose.Cells Cloud stöder konvertering mellan 30+ filformat." p="Aspose.Cells Cloud REST API underlättar Excel filkonvertering till olika format och erbjuder SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 076153161, 88153481, 76153481, 76153481 , och Swift." urlsection="" >}}
+{{< blocks/products/pf/main-wrap-class >}}  
+{{< blocks/products/cells/i18n/upper-banner h1="Omvandling" h2="Aspose.Cells Cloud SDK stöder filformatkonvertering. Det filformat som stöds har fler än 30 filformat." uploadmsg="Choose file or drop file" options="HTML,jpg,XML" logoImageSrc="/cells/app-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}   
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" apimethod="PUT" apiname="Conversion" %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
-	{{< blocks/products/pf/product-card-row title="Filformat som stöds" >}}
+<!-- {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook  apimethod=PUT  apiname="Conversion" %}}  -->
+
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT" apiurl="https://api.aspose.cloud/v3.0/cells/convert" %}}
+   
+{{< /blocks/products/pf/agp/feature-section >}}  
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Convert" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" >}}  
+
+{{< blocks/products/cells/cells-cloud-upload >}}  
+{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="format" >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="streamformat" required="true" prompt="stream Format" >}}
+                           
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+
+                     
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PutConvertWorkbookRequest request = new PutConvertWorkbookRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+	request.format = "xps";
+	request.streamFormat = "html";
+	Stream stream = cellsApi.PutConvertWorkbook(request);
+	fileStream.Close();    
+	      
+``` 
+{{% /blocks/products/cells/cells-cloud-showcode %}}      
+ {{< /blocks/products/cells/cells-cloud-api-template >}}  
+<!-- </div> -->
+	{{< blocks/products/cells/product-card-row title="Filformat som stöds" >}}
 	<div class="diagram1 d2  d1-cloud">
 	<div class="d1-row">
 	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Inmatningsformat</header><ul>
@@ -35,8 +71,9 @@ description: " Aspose.Cells Cloud REST API underlättar Excel filkonvertering ti
 	</div>
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
-	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/pf/product-card-row title="Populära fungerar" >}}
+	{{< /blocks/products/cells/product-card-row >}}
+{{< blocks/products/cells/product-card-row title="Populära fungerar" >}}
+    
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Konvertering av Xlsx till pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Konvertering Xlsx till Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-json/" >}}
@@ -48,9 +85,9 @@ description: " Aspose.Cells Cloud REST API underlättar Excel filkonvertering ti
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="Konvertering Xlsx till Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-json/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="Konvertering Xlsx till Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-csv/" >}}
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="Stöds utveckla språk" >}}
+{{< /blocks/products/cells/product-card-row >}}
+ 
+{{< blocks/products/cells/product-card-row title="Stöds utveckla språk" >}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK för Android" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK för Go" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
@@ -70,7 +107,7 @@ description: " Aspose.Cells Cloud REST API underlättar Excel filkonvertering ti
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK för Ruby" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK för Swift" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
-{{< /blocks/products/pf/product-card-row >}}
+{{< /blocks/products/cells/product-card-row >}}
 
 
 {{< /blocks/products/pf/main-container >}}

@@ -9,22 +9,22 @@ weight: 90
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .Net" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
-
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="概述" msg="Aspose.Cells Cloud SDK for .Net 有助于快速开发强大的基于云的应用程序，适用于 Microsoft Excel、iWork office 号码、OpenOffice 电子表格和其他格式文件。它提供了用 .Net 编程语言生成、读取、合并、分割、加密和转换文件的功能。该 SDK 基于 Aspose.Cells Cloud API 构建，并在 MIT 许可证下运行。" >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="Aspose.Cells Cloud SDK for .Net 使您的 .Net 应用程序能够访问和修改云工作表中的各种元素。它可以操作自动过滤器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。该 SDK 使您的 .Net 程序能够将各种格式（如 XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、ODS）转换为 DIF、PDF、XPS、TIFF、SVG、Markdown、XML、SpreadsheetML、CSV、TSV 、TXT、HTML 和 MHTML。" >}}
+ 
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}   
+    {{< blocks/products/cells/cells-cloud-language-content title="概述" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells Cloud SDK for .Net 有助于快速开发针对 Microsoft Excel、iWork office 号码、OpenOffice 电子表格和其他格式文件的强大的基于云的应用程序。它提供了用 .Net 编程语言生成、读取、合并、分割、加密和转换文件的功能。该 SDK 基于 Aspose.Cells Cloud API 构建，并在 MIT 许可证下运行。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells Cloud SDK for .Net 使您的 .Net 应用程序能够访问和修改云工作表中的各种元素。它可以操作自动过滤器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。该 SDK 使您的 .Net 程序能够将多种格式（例如 XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、ODS）转换为 DIF、PDF、XPS、TIFF、SVG、Markdown、XML、SpreadsheetML、CSV、TSV 、TXT、HTML 和 MHTML。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="开始使用 .Net SDK 进行 Excel 电子表格处理。" msg="首先，首先安装 .Net 的 Aspose.Cells Cloud 库，然后在 Aspose for Cloud 上创建一个帐户以获取您的应用程序凭据。获得应用程序 SID 和密钥后，您可以利用 Aspose.Cells Cloud SDK for .Net 在任何受支持的 .Net 平台中利用它们。该 SDK 提供了一系列全面的功能，用于创建、编辑和转换电子表格。此外，它使您能够从电子表格中提取数据以进行后续处理或存储。" >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" imgalt="computer.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" title="开始使用 .Net SDK 进行 Excel 电子表格处理。" msg="首先，首先安装 .Net 的 Aspose.Cells Cloud 库，然后在 Aspose for Cloud 上创建一个帐户以获取您的应用程序凭据。获得应用程序 SID 和密钥后，您可以利用 Aspose.Cells Cloud SDK for .Net 在任何受支持的 .Net 平台中利用它们。该 SDK 提供了一系列全面的功能，用于创建、编辑和转换电子表格。此外，它使您能够从电子表格中提取数据以进行后续处理或存储。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" imgalt="operatest.png" >}}
     {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Aspose.Cells Cloud SDK for .Net 可实现多种操作，例如创建、拆分、合并、搜索和替换文本、应用密码保护、导出为支持的文件格式、读取工作簿文本项、自动调整工作簿行并忽略隐藏的行元素、使用不同的加密密钥长度加密工作簿密码、将数据导入工作簿、计算所有公式、设置公式计算精度策略、利用智能标记、在格式之间转换工作簿以及应用密码以允许内容修改。</p><p>您可以执行各种操作，例如删除工作表中的特定行或所有行、访问工作表单元格数据或单元格样式via单元格名称、根据索引检索行或列数据、计算单元格公式、清除单元格内容、复制单元格将数据复制到另一个单元格、复制工作表列和行、对工作表行和列进行分组、隐藏特定工作表行和列、定义工作表列和行的样式、在单元格内设置 html 字符串值、为一系列单元格分配值以及修改各种内容工作表设置。</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
-
+    
 {{< blocks/products/cells/cells-cloud-language-card title="支持的文件格式" title2="" >}}
     {{< blocks/products/cells/cells-cloud-language-cardlist title="输入格式" >}}
         <li><b>Microsoft Excel:</b>XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM</li>
@@ -49,29 +49,29 @@ weight: 90
      {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
 {{< /blocks/products/cells/cells-cloud-language-card >}}
 
-
+  
 {{< blocks/products/cells/product-card-row title="高级电子表格操作功能" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="添加具有自定义列表条件的过滤器" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="支持多种类型的列表过滤器" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="获取有关图表区域边框或填充格式的信息" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="添加、更新和删除工作表中的图表" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="获取、更新、显示或隐藏图表图例" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="获取、更新图表标题并设置其可见性" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="添加或删除单元格区域以进行条件格式设置" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="添加、更新和删除工作表超链接" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="添加具有自定义列表条件的过滤器" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="自动筛选" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="支持多种类型的列表过滤器" href="https://reference.aspose.cloud/cells/#/ListObjects" title="列表过滤器的类型" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="获取有关图表区域边框或填充格式的信息" href="https://reference.aspose.cloud/cells/#/Conversion" title="细胞转换" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="添加、更新和删除工作表中的图表" href="https://reference.aspose.cloud/cells/#/Worksheets" title="细胞工作表" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="获取、更新、显示或隐藏图表图例" href="https://reference.aspose.cloud/cells/#/Charts" title="细胞图" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="获取、更新图表标题并设置其可见性" href="https://reference.aspose.cloud/cells/#/Charts" title="细胞图" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="添加或删除单元格区域以进行条件格式设置" href="https://reference.aspose.cloud/cells/#/ConditionalFormattings" title="单元格格式化" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="添加、更新和删除工作表超链接" href="https://reference.aspose.cloud/cells/#/Hypelinks" title="单元格超链接" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg="在Excel文件的指定位置添加ListObject" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="删除工作表中的特定或所有 ListObject" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="将 ListObject 或表格转换为单元格范围" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="使用数据透视表汇总大型 ListObject 或 Table 的数据" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="将 OleObjects 添加到 Excel 工作表" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="从工作表中删除特定或所有 OleObject" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="插入或删除、水平或垂直分页符" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="操作页面设置、页眉页脚" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="添加、更新、获取或删除工作表图片" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="创建、更新、获取或删除文档属性" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="从工作表中获取所需的形状" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="从工作表中添加、更新或删除形状" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="添加、更新或删除工作表的验证" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="删除工作表中的特定或所有 ListObject" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="将 ListObject 或表格转换为单元格区域" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="使用数据透视表汇总大型 ListObject 或 Table 的数据" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="将 OleObjects 添加到 Excel 工作表" href="https://reference.aspose.cloud/cells/#/OleObjects" title="细胞-油体对象" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="从工作表中删除特定或所有 OleObject" href="https://reference.aspose.cloud/cells/#/OleObjects" title="细胞-油体对象" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="插入或删除、水平或垂直分页符" href="https://reference.aspose.cloud/cells/#/PageBreaks" title="细胞破裂" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="操作页面设置、页眉页脚" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="细胞操纵" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="添加、更新、获取或删除工作表图片" href="https://reference.aspose.cloud/cells/#/Pictures" title="细胞图片" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="创建、更新、获取或删除文档属性" href="https://reference.aspose.cloud/cells/#/Properties" title="细胞特性" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="从工作表中获取所需的形状" href="https://reference.aspose.cloud/cells/#/Shapes" title="细胞形状" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="从工作表中添加、更新或删除形状" href="https://reference.aspose.cloud/cells/#/Shapes" title="细胞形状" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="添加、更新或删除工作表的验证" href="https://reference.aspose.cloud/cells/#/WorksheetValidations" title="工作表验证" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 
@@ -104,17 +104,17 @@ weight: 90
 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="curl" link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item sdkName=".net" link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="java" link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="php" link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="perl" link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="python" link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="ruby" link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="node" link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="android" link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="android" >}}
+    {{< blocks/products/pf/offers-section-item sdkName="swift" link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item sdkName="go" link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
-
+<!-- {{</ blocks/products/pf/main-wrap-class >}} -->
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,10 +6,73 @@ description: Aspose.Cells Cloud REST API 支持使用 C# 清晰显示 Excel 文�
 {{< blocks/products/cells/cells-cloud-upper-banner h1="使用C#清除Excel文件的内部对象" h2="Aspose.Cells Cloud SDK支持Excel文件中清晰的内容、样式、图表、表格、背景等。" p="Aspose.Cells Cloud REST API 支持使用 C# 清晰显示 Excel 文件中的内部对象。SDK 支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/clearobjects" %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="使用 C# 扩展链接清除 Excel 文件的内部对象" >}}
-{{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/clear" >}} 
-{{< /blocks/products/cells/cells-cloud-card-row >}}
+{{< blocks/products/cells/cells-cloud-api-template btName="Clear" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostClearObjects" >}}  
+{{< blocks/products/cells/cells-cloud-upload >}}  
+ 
+	{{< blocks/products/cells/cells-cloud-parameters itName="objecttype" required="true" prompt="chart/comment/picture/shape/listobject/hyperlink/oleobject/pivottable/validation/Background" >}}
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+                
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostClearObjectsRequest request = new PostClearObjectsRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.objecttype = "Background";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostClearObjects(request);
+	fileStream.Close();    
+	    
+```     
+{{% /blocks/products/cells/cells-cloud-showcode %}}      
+{{< /blocks/products/cells/cells-cloud-api-template >}}  
+
+
+{{< blocks/products/pf/product-card-row title="热门经营" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="清除多个Excel文件中的内容" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/clear/content/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="清除多个Excel文件中的图表" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/java/clear/charts/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Go" title="清除多个Excel文件中的样式" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/clear/styles/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="清除多个Excel文件中的超链接" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/clear/hyperlinks/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="清除多个 Excel 文件中的重复行" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/php/clear/duplicaterows/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Node" title="清除多个Excel文件中的空白行" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/node/clear/blankrows/" >}}
+{{< /blocks/products/pf/product-card-row >}}
+
+{{< blocks/products/pf/product-card-row title="支持的开发语言" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="安卓 SDK" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="适用于 Go 的 SDK" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="软件开发工具包 for Java" imgSrc="/cells/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="网络SDK" imgSrc="/cells/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="节点SDK" imgSrc="/cells/sdk/aspose_cells-for-node.png" productLink="/cells/node/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK Perl" imgSrc="/cells/sdk/aspose_cells-for-perl.png" productLink="/cells/perl/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK PHP" imgSrc="/cells/sdk/aspose_cells-for-php.png" productLink="/cells/php/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK Python" imgSrc="/cells/sdk/aspose_cells-for-python.png" productLink="/cells/python/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="红宝石 SDK" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="斯威夫特 SDK" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
+{{< /blocks/products/pf/product-card-row >}}
 
 
 {{< /blocks/products/pf/main-container >}}

@@ -6,21 +6,59 @@ description: Aspose.Cells Cloud REST API 支持使用 C# 进行 Excel 文件格�
 {{< blocks/products/cells/cells-cloud-upper-banner h1="使用 C# 转换 Excel 文件格式" h2="Aspose.Cells Cloud SDK支持30多种文件格式之间的转换。" p="Aspose.Cells Cloud REST API 支持使用 C# 进行 Excel 文件格式转换，并提供多种编程语言的 SDK。" urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT" apiurl="https://api.aspose.cloud/v3.0/cells/convert" %}}
+   
+{{< /blocks/products/pf/agp/feature-section >}}  
 
-	{{< blocks/products/pf/product-card-row title="支持的文件格式" >}}
-	<div class="diagram1 d2  d1-cloud">
-	<div class="d1-row">
-	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i>输入格式</header><ul>
-	<li><b>Microsoft Excel:</b>Xls、Xlsx、Xlsb、Xlsm、Xlt、Xltx、Xltm</li>
+{{< blocks/products/cells/cells-cloud-api-template btName="Convert" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" >}}  
+{{< blocks/products/cells/cells-cloud-upload >}}                 
+{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="streamFormat" required="true" prompt="The format of the input file stream." >}}
+
+{{% blocks/products/cells/cells-cloud-showcode %}}  
+ 
+                     
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PutConvertWorkbookRequest request = new PutConvertWorkbookRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+	request.format = "xps";
+	request.streamFormat = "html";
+	Stream stream = cellsApi.PutConvertWorkbook(request);
+	fileStream.Close();    
+	      
+``` 
+{{% /blocks/products/cells/cells-cloud-showcode %}}    
+ {{< /blocks/products/cells/cells-cloud-api-template >}}  
+
+
+
+
+{{< blocks/products/cells/cells-cloud-language-card title="支持的文件格式" >}}
+    {{< blocks/products/cells/cells-cloud-language-cardlist title="输入格式" >}}
+        <li><b>Microsoft Excel:</b>Xls、Xlsx、Xlsb、Xlsm、Xlt、Xltx、Xltm</li>
 	<li><b>开发办公室：</b> Ods、Fods、Ots</li>
 	<li><b>XML：</b>电子表格ML、Xml</li>
 	<li><b>文本：</b> Csv、Tsv、Txt（制表符分隔）</li>
 	<li><b>网址：</b> Html、Mhtml</li>
 	<li><b>图片：</b> Png、Jpg、Gif、Emf</li>
 	<li><b>其他：</b> Pdf、Json、Markdown</li>
-	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>输出格式</header><ul>
-	<li><b>Microsoft Excel:</b>Xls、Xlsx、Xlsb、Xlsm、Xlt、Xltx、Xltm</li>
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+
+    
+
+     {{< blocks/products/cells/cells-cloud-language-cardlist title="输出格式" >}}
+        <li><b>Microsoft Excel:</b>Xls、Xlsx、Xlsb、Xlsm、Xlt、Xltx、Xltm</li>
 	<li><b>Microsoft字/PowerPoint：</b>文档、PPT</li>
 	<li><b>开发办公室：</b> Ods、Fods、Ots</li>
 	<li><b>XML：</b>电子表格ML、Xml</li>
@@ -28,14 +66,52 @@ description: Aspose.Cells Cloud REST API 支持使用 C# 进行 Excel 文件格�
 	<li><b>网址：</b> Html、Mhtml</li>
 	<li><b>图片：</b> Png、Jpg、Gif、Emf、Svg、Tiff</li>
 	<li><b>其他：</b> Pdf、Xps、Dif、Json、Markdown、Sql</li>
-	</ul></div>
-	</div>
-	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
-	</div>
-	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="使用 C# 扩展链接转换 Excel 文件格式" >}}
-{{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/conversion" >}} 
-{{< /blocks/products/cells/cells-cloud-card-row >}}
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}    
+
+
+     
+
+{{< /blocks/products/cells/cells-cloud-language-card >}}
+
+
+
+
+	{{< blocks/products/cells/product-card-row title="热门经营" >}}
+    
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="将 Xlsx 转换为 Pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="将 Xlsx 转换为 Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-json/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="将 Xlsx 转换为 Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-csv/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="将 Xlsx 转换为 Pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-pdf/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="将 Xlsx 转换为 Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-json/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="将 Xlsx 转换为 Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-csv/" >}}
+{{< /blocks/products/cells/product-card-row >}}
+
+{{< blocks/products/cells/product-card-row title="支持的开发语言" >}}
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="安卓 SDK" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="适用于 Go 的 SDK" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="软件开发工具包 for Java" imgSrc="/cells/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="网络SDK" imgSrc="/cells/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="节点SDK" imgSrc="/cells/sdk/aspose_cells-for-node.png" productLink="/cells/node/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK Perl" imgSrc="/cells/sdk/aspose_cells-for-perl.png" productLink="/cells/perl/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK PHP" imgSrc="/cells/sdk/aspose_cells-for-php.png" productLink="/cells/php/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK Python" imgSrc="/cells/sdk/aspose_cells-for-python.png" productLink="/cells/python/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="红宝石 SDK" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
+
+{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="斯威夫特 SDK" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
+{{< /blocks/products/cells/product-card-row >}}
 
 
 {{< /blocks/products/pf/main-container >}}

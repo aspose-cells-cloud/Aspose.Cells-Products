@@ -1,14 +1,42 @@
 ﻿---
 title:  Очистить объекты в Excel
-description:  Aspose.Cells Cloud Rest API поддерживает очистку внутренних объектов в файле Excel и предоставляет SDK для различных языков программирования, включая Android, C#, GO, Java, Nodejs, Perl, PHP, 07673417, Perl, PHP, 0767348.
+description:  Aspose.Cells Cloud REST API поддерживает очистку внутренних объектов в файле Excel и предоставляет SDK для различных языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Очистить объекты в Excel" h2="Aspose.Cells Cloud SDK поддерживает очистку содержимого, стиля, диаграмм, таблиц, фона и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает очистку внутренних объектов в файле Excel и предоставляет SDK для различных языков программирования, включая Android, C#, GO, Java, Nodejs, Perl, PHP, 07673417341734173417348417348417341734173417341734173417341734173417341734173417341734841." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Очистить объекты в Excel" h2="Aspose.Cells Cloud SDK поддерживает очистку содержимого, стиля, диаграмм, таблиц, фона и т. д. в файлах Excel." p="Aspose.Cells Cloud Rest API поддерживает очистку внутренних объектов в файле Excel и предоставляет SDK для различных языков программирования, включая Android, C#, GO, Java, Nodejs, Perl, PHP, 07673417, Perl, PHP, 0767348." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clearobjects" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" apiname="Clear Objects" %}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/clearobjects" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Clear" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostClearObjects" >}}  
+{{< blocks/products/cells/cells-cloud-upload >}}  
+ 
+	{{< blocks/products/cells/cells-cloud-parameters itName="objecttype" required="true" prompt="Please enter objecttype" >}}
+ 
+{{% blocks/products/cells/cells-cloud-showcode itName="streamformat" ptName="stream Format:" prompt="Please enter stream Format" %}}  
+               
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostClearObjectsRequest request = new PostClearObjectsRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+    request.objecttype = "Background";
+	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostClearObjects(request);
+	fileStream.Close();    
+	    
+```     
+{{% /blocks/products/cells/cells-cloud-showcode %}}      
+{{< /blocks/products/cells/cells-cloud-api-template >}}  
 
 {{< blocks/products/pf/product-card-row title="Популярные операции" >}}
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Очистить содержимое нескольких файлов Excel." imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/clear/content/" >}}

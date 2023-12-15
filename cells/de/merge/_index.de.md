@@ -1,14 +1,51 @@
 ﻿---
 title:  Mehrere Excel-Dateien zusammenführen
-description:  Aspose.Cells Cloud REST API ermöglicht das Zusammenführen mehrerer Excel-Dateien zu einer einzigen Excel-Datei und stellt SDKs für mehrere Programmiersprachen bereit, einschließlich Android, C#, Go, Java, NodeJS, Perl, PHP, 07618 3481, Ruby und Swift.
+description:  Aspose.Cells Cloud REST API ermöglicht das Zusammenführen mehrerer Excel-Dateien in einer einzigen Excel-Datei und stellt SDKs für mehrere Programmiersprachen bereit, einschließlich Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834 81, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Mehrere Excel-Dateien zusammenführen" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer einzigen Excel-Datei." p="Aspose.Cells Cloud REST API ermöglicht das Zusammenführen mehrerer Excel-Dateien zu einer einzigen Excel-Datei und stellt SDKs für mehrere Programmiersprachen bereit, einschließlich Android, C#, Go, Java, NodeJS, Perl, PHP, 07618 3481, Ruby und Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Mehrere Excel-Dateien zusammenführen" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer einzigen Excel-Datei." p="Aspose.Cells Cloud REST API ermöglicht das Zusammenführen mehrerer Excel-Dateien in einer einzigen Excel-Datei und stellt SDKs für mehrere Programmiersprachen bereit, einschließlich Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834 81, Ruby und Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" apiname="Merge" %}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/merge" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+
+
+
+{{< blocks/products/cells/cells-cloud-api-template btName="Merge" OutResultType="Variable" OutResultDataType="Class" ResultPosition="FileInfo" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostMerge" >}}  
+{{< blocks/products/cells/cells-cloud-upload >}}  
+ 
+	{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="Please enter format" >}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="mergeToOneSheet" required="true" prompt="mergeToOneSheet" >}}
+ 
+{{% blocks/products/cells/cells-cloud-showcode itName="streamformat" ptName="stream Format:" prompt="Please enter stream Format" %}}  
+
+                        
+```cs
+
+	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Request;
+	using System;
+	using System.IO;
+	using System.Collections.Generic;
+	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+	string filePath = "test.txt";
+	PostMergeRequest  request = new PostMergeRequest();
+	request.File = new Dictionary<string, Stream>();
+	Stream fileStream = File.OpenRead(filePath);
+	request.File.Add(filePath, fileStream);
+	request.format = "xps";
+	request.mergeToOneSheet = false;
+
+
+	Aspose.Cells.Cloud.SDK.Model.FileInfo fileInfo = cellsApi.PostMerge(request);
+	fileStream.Close();    
+	      
+```  
+{{% /blocks/products/cells/cells-cloud-showcode %}}   
+{{< /blocks/products/cells/cells-cloud-api-template >}}      
+         
+   
 
 	{{< blocks/products/pf/product-card-row title="Unterstützte Dateiformate" >}}
 	<div class="diagram1 d2  d1-cloud">

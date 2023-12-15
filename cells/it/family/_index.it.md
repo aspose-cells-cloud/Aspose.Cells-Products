@@ -8,9 +8,9 @@ description: Il cloud Aspose.Cells API ti consente di eseguire un'ampia gamma di
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Panoramica" msg="Il cloud Aspose.Cells API ti consente di eseguire un\'ampia gamma di attività di elaborazione dei documenti <b>su qualsiasi piattaforma</b>, compresa la creazione, manipolazione, conversione e rendering dei documenti Excel nel cloud. Con questo API, puoi convertire facilmente Excel, OpenOffice e altri formati di file in una varietà di formati di output, inclusi PDF, HTML, ODS, XPS, CSV, JSON, Markdown e altri." >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="Supporto tecnico" msg="Aspose offre supporto tecnico gratuito illimitato per tutti i suoi prodotti, accessibile a tutti gli utenti, compresi quelli che utilizzano la versione di valutazione. Se hai bisogno di assistenza con Aspose.Cells Cloud, puoi pubblicare la tua domanda nel <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud Forum</a> e puoi aspettarti una risposta risposta entro poche ore. Le domande vengono indirizzate direttamente dal team di sviluppo Cloud Aspose.Cells." >}}
+{{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Panoramica" msglink="https://products.aspose.cloud/cells/family/" msg="Il cloud Aspose.Cells API ti consente di eseguire un\'ampia gamma di attività di elaborazione dei documenti <b>su qualsiasi piattaforma</b>, compresa la creazione, manipolazione, conversione e rendering dei documenti Excel nel cloud. Con questo API, puoi convertire facilmente Excel, OpenOffice e altri formati di file in una varietà di formati di output, inclusi PDF, HTML, ODS, XPS, CSV, JSON, Markdown e altri." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Supporto tecnico" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose offre supporto tecnico gratuito illimitato per tutti i suoi prodotti, accessibile a tutti gli utenti, compresi quelli che utilizzano la versione di valutazione. Se hai bisogno di assistenza con Aspose.Cells Cloud, puoi pubblicare la tua domanda nel <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud Forum</a> e puoi aspettarti una risposta risposta entro poche ore. Le domande vengono indirizzate direttamente dal team di sviluppo Cloud Aspose.Cells." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Le API Cloud Low Code includono" >}}
@@ -23,7 +23,7 @@ description: Il cloud Aspose.Cells API ti consente di eseguire un'ampia gamma di
 {{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-php.svg" pfName="Aspose.Cells Cloud" title="SDk per PHP" linkurl="/cells/php" productLink="/cells/php/" >}}
 {{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-python.svg" pfName="Aspose.Cells Cloud" title="SDk per Pyhton" linkurl="/cells/python" productLink="/cells/python/" >}}
 {{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-ruby.svg" pfName="Aspose.Cells Cloud" title="SDK per Ruby" linkurl="/cells/ruby" productLink="/cells/ruby" >}}
-{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" pfName="Aspose.Cells Cloud" title="SDk per Swift" linkurl="/cells/swift" productLink="/cells/swift/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" pfName="Aspose.Cells Cloud" title="SDK per Swift" linkurl="/cells/swift" productLink="/cells/swift/" >}}
 
 
 {{< /blocks/products/pf/product-card-row >}}
