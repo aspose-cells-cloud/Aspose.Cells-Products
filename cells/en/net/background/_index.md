@@ -12,29 +12,39 @@ description: Aspose.Cells Cloud REST API supports setting the background for Exc
 {{< /blocks/products/pf/agp/feature-section >}}    
 
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Background" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostWatermark >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostWatermark >}}  
 
 	{{< blocks/products/cells/cells-cloud-upload>}}  
-	{{< blocks/products/cells/cells-cloud-parameters itName="color"  required="true" prompt="color">}}
-	{{< blocks/products/cells/cells-cloud-parameters itName="text"  required="true" prompt="text">}}
-{{% blocks/products/cells/cells-cloud-showcode %}}  
+	{{< blocks/products/cells/cells-cloud-parameters itName="text"  required="True" prompt="text">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="color"  required="True" prompt="e.g. #1032ff">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="outFormat"  required="False" prompt="The output data file format.(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The password needed to open an Excel file.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction"  required="False" prompt="Whether check restriction of excel file when user modify cells related objects.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="The regional settings for workbook.">}}
+{{% blocks/products/cells/cells-cloud-showcode request="text,color,outFormat,password,checkExcelRestriction,region" requestvalue=",,,,true," %}}  
 ```cs
 
 	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Model;
 	using Aspose.Cells.Cloud.SDK.Request;
+	using Newtonsoft.Json;
 	using System;
 	using System.IO;
 	using System.Collections.Generic;
 	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-	string filePath = "test.txt";
-	PostWatermarkRequest request = new PostWatermarkRequest();
-	request.File = new Dictionary<string, Stream>();
+	var request = new PostWatermarkRequest();
+	request.File = new Dictionary<string, Stream>();  
+	string filePath = "Book1.xlsx";
 	Stream fileStream = File.OpenRead(filePath);
-	request.File.Add(filePath, fileStream);
-    request.color = "#ccc";
-    request.text = "Aspose.Cells Cloud";
-	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostWatermark(request);
-	fileStream.Close();    
+	request.File.Add(filePath, fileStream); 
+	request.text = ""; 
+	request.color = ""; 
+	request.outFormat = ""; 
+	request.password = ""; 
+	request.checkExcelRestriction = true; 
+	request.region = ""; 
+	var result = cellsApi.PostWatermark(request);
+	fileStream.Close();   
 	     
 ```     
 {{% /blocks/products/cells/cells-cloud-showcode  %}}      

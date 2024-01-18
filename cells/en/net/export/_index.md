@@ -10,29 +10,37 @@ description: Aspose.Cells Cloud REST API supports exporting workbook and interna
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/export  %}}
 {{< /blocks/products/pf/agp/feature-section >}} 
-{{< blocks/products/cells/cells-cloud-api-template btName="Export" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/DataProcessing/PostExport >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/DataProcessing/PostExport >}}  
 {{< blocks/products/cells/cells-cloud-upload>}}  
-	{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
-	{{< blocks/products/cells/cells-cloud-parameters itName="objectType"  required="true" prompt="workbook/worksheet/chart/comment/picture/shape/listobject/oleobject">}}  
-{{% blocks/products/cells/cells-cloud-showcode %}}  
+	{{< blocks/products/cells/cells-cloud-parameters itName="objectType"  required="False" prompt="Exported object type:workbook/worksheet/chart/comment/picture/shape/listobject/oleobject.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="False" prompt="The conversion format(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The password needed to open an Excel file.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction"  required="False" prompt="Whether check restriction of excel file when user modify cells related objects.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="The regional settings for workbook.">}} 
+{{% blocks/products/cells/cells-cloud-showcode request="objectType,format,password,checkExcelRestriction,region" requestvalue=",pdf,,true," %}}  
                
 ```cs
 
 	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Model;
 	using Aspose.Cells.Cloud.SDK.Request;
+	using Newtonsoft.Json;
 	using System;
 	using System.IO;
 	using System.Collections.Generic;
 	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-	string filePath = "test.txt";
-	PostExportRequest request = new PostExportRequest();
-	request.File = new Dictionary<string, Stream>();
+	var request = new PostExportRequest();
+	request.File = new Dictionary<string, Stream>();  
+	string filePath = "Book1.xlsx";
 	Stream fileStream = File.OpenRead(filePath);
-	request.File.Add(filePath, fileStream);
-    request.format = "xps";
-	request.objectType = "Background";
-	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostExport(request);
-	fileStream.Close();    
+	request.File.Add(filePath, fileStream); 
+	request.objectType = ""; 
+	request.format = "pdf"; 
+	request.password = ""; 
+	request.checkExcelRestriction = true; 
+	request.region = ""; 
+	var result = cellsApi.PostExport(request);
+	fileStream.Close();   
 	    
 ```     
 {{% /blocks/products/cells/cells-cloud-showcode  %}}   

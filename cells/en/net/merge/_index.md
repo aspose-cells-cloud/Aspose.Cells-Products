@@ -1,6 +1,6 @@
 ---
-title: Merge Excel files using C# 
-description: Aspose.Cells Cloud REST API supports merging multiple Excel files into a single Excel file using C#, and offers SDKs for various programming languages. 
+title: Merge Excel files using C#
+description: Aspose.Cells Cloud REST API supports merging multiple Excel files into a single Excel file using C#, and offers SDKs for various programming languages.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -10,39 +10,45 @@ description: Aspose.Cells Cloud REST API supports merging multiple Excel files i
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/merge  %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/cells/cells-cloud-api-template btName="Merge" OutResultType="Variable" OutResultDataType="Class" ResultPosition="FileInfo" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostMerge >}}  
-{{< blocks/products/cells/cells-cloud-upload>}}  
  
-	{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
-	{{< blocks/products/cells/cells-cloud-parameters itName="mergeToOneSheet"  required="true" prompt="mergeToOneSheet">}} 
-                          
-{{% blocks/products/cells/cells-cloud-showcode %}}         
-  
-                                    
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResultPosition="FileInfo" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostMerge >}}
+{{< blocks/products/cells/cells-cloud-upload>}}
+
+{{< blocks/products/cells/cells-cloud-parameters itName="outFormat"  required="False" prompt="The password needed to open an Excel file.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="mergeToOneSheet"  required="False" prompt="Whether check restriction of excel file when user modify cells related objects.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The regional settings for workbook.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction"  required="False" prompt="Upload files.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="">}}
+
+{{% blocks/products/cells/cells-cloud-showcode request="outFormat,mergeToOneSheet,password,checkExcelRestriction,region" requestvalue=",true,,true," %}}
+
+
 ```cs
 
 	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Model;
 	using Aspose.Cells.Cloud.SDK.Request;
+	using Newtonsoft.Json;
 	using System;
 	using System.IO;
 	using System.Collections.Generic;
 	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-	string filePath = "test.txt";
-	PostMergeRequest  request = new PostMergeRequest();
+	var request = new PostMergeRequest();
 	request.File = new Dictionary<string, Stream>();
+	string filePath = "Book1.xlsx";
 	Stream fileStream = File.OpenRead(filePath);
 	request.File.Add(filePath, fileStream);
-	request.format = "xps";
-	request.mergeToOneSheet = false;
-
-
-	Aspose.Cells.Cloud.SDK.Model.FileInfo fileInfo = cellsApi.PostMerge(request);
+	request.outFormat = "";
+	request.mergeToOneSheet = true;
+	request.password = "";
+	request.checkExcelRestriction = true;
+	request.region = "";
+	var result = cellsApi.PostMerge(request);
 	fileStream.Close();
-	      
-```  
-{{% /blocks/products/cells/cells-cloud-showcode  %}}   
-{{< /blocks/products/cells/cells-cloud-api-template >}}     
+
+```
+{{% /blocks/products/cells/cells-cloud-showcode  %}}
+{{< /blocks/products/cells/cells-cloud-api-template >}}
 
 {{< blocks/products/cells/cells-cloud-language-card title="Supported File Formats" >}}
     {{< blocks/products/cells/cells-cloud-language-cardlist title="Input Format">}}
@@ -53,9 +59,9 @@ description: Aspose.Cells Cloud REST API supports merging multiple Excel files i
 	<li><b>Web:</b> Html, Mhtml</li>
 	<li><b>Images:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Other:</b> Pdf, Json, Markdown</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}
 
-    
+
 
      {{< blocks/products/cells/cells-cloud-language-cardlist title="Output Format">}}
         <li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
@@ -66,7 +72,7 @@ description: Aspose.Cells Cloud REST API supports merging multiple Excel files i
 	<li><b>Web:</b> Html, Mhtml</li>
 	<li><b>Images:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Other:</b> Pdf, Xps, Dif, Json, Markdown, Sql</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}    
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}
 
 {{< /blocks/products/cells/cells-cloud-language-card >}}
 

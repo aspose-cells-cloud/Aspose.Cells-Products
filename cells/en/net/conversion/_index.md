@@ -1,6 +1,6 @@
 ---
-title: Converting Excel file formats using C# 
-description: Aspose.Cells Cloud REST API supports Excel file format conversion using C# and offers SDKs for multiple programming languages. 
+title: Converting Excel file formats using C#
+description: Aspose.Cells Cloud REST API supports Excel file format conversion using C# and offers SDKs for multiple programming languages.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -9,17 +9,25 @@ description: Aspose.Cells Cloud REST API supports Excel file format conversion u
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT"  apiurl=https://api.aspose.cloud/v3.0/cells/convert  %}}
-   
-{{< /blocks/products/pf/agp/feature-section >}}  
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Convert" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook >}}  
-{{< blocks/products/cells/cells-cloud-upload>}}                 
-{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="streamFormat" required="true" prompt="The format of the input file stream.">}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/cells/cells-cloud-showcode %}}  
- 
-                     
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook >}}
+{{< blocks/products/cells/cells-cloud-upload>}}
+
+{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="False" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The password needed to open an Excel file.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="outPath"  required="False" prompt="Path to save the result. If it's a single file, the `outPath` should encompass both the filename and extension. In the case of multiple files, the `outPath` should only include the folder.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="storageName"  required="False" prompt="The storage name where the file is situated.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction"  required="False" prompt="Whether check restriction of excel file when user modify cells related objects.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="streamFormat"  required="False" prompt="The format of the input file stream. ">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="The regional settings for workbook.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="pageWideFitOnPerSheet"  required="False" prompt="The page wide fit on worksheet.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="pageTallFitOnPerSheet"  required="False" prompt="The page tall fit on worksheet.">}}
+
+{{% blocks/products/cells/cells-cloud-showcode request="format,password,outPath,storageName,checkExcelRestriction,streamFormat,region,pageWideFitOnPerSheet,pageTallFitOnPerSheet" requestvalue="pdf,,,,true,,,true,true" %}}
+
+
 ```cs
 
 	using Aspose.Cells.Cloud.SDK.Api;
@@ -28,19 +36,26 @@ description: Aspose.Cells Cloud REST API supports Excel file format conversion u
 	using System.IO;
 	using System.Collections.Generic;
 	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-	string filePath = "test.txt";
+	string filePath = "Book1.xlsx";
 	PutConvertWorkbookRequest request = new PutConvertWorkbookRequest();
 	request.File = new Dictionary<string, Stream>();
 	Stream fileStream = File.OpenRead(filePath);
 	request.File.Add(filePath, fileStream);
-	request.format = "xps";
-	request.streamFormat = "html";
-	Stream stream = cellsApi.PutConvertWorkbook(request);
-	fileStream.Close();    
-	      
-``` 
-{{% /blocks/products/cells/cells-cloud-showcode  %}}    
- {{< /blocks/products/cells/cells-cloud-api-template >}}  
+	request.format = "pdf";
+	request.password = "";
+	request.outPath = "";
+	request.storageName = "";
+	request.checkExcelRestriction = true;
+	request.streamFormat = "";
+	request.region = "";
+	request.pageWideFitOnPerSheet = true;
+	request.pageTallFitOnPerSheet = true;
+	var result = cellsApi.PutConvertWorkbook(request);
+	fileStream.Close();
+
+```
+{{% /blocks/products/cells/cells-cloud-showcode  %}}
+ {{< /blocks/products/cells/cells-cloud-api-template >}}
 
 
 
@@ -54,9 +69,9 @@ description: Aspose.Cells Cloud REST API supports Excel file format conversion u
 	<li><b>Web:</b> Html, Mhtml</li>
 	<li><b>Images:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Other:</b> Pdf, Json, Markdown</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}
 
-    
+
 
      {{< blocks/products/cells/cells-cloud-language-cardlist title="Output Format">}}
         <li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
@@ -67,10 +82,10 @@ description: Aspose.Cells Cloud REST API supports Excel file format conversion u
 	<li><b>Web:</b> Html, Mhtml</li>
 	<li><b>Images:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Other:</b> Pdf, Xps, Dif, Json, Markdown, Sql</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}    
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}
 
 
-     
+
 
 {{< /blocks/products/cells/cells-cloud-language-card >}}
 
@@ -78,7 +93,7 @@ description: Aspose.Cells Cloud REST API supports Excel file format conversion u
 
 
 	{{< blocks/products/cells/product-card-row title="Popular Operates" >}}
-    
+
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Conversion Xlsx to Pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Conversion Xlsx to Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-json/" >}}
