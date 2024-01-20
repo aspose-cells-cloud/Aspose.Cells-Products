@@ -10,13 +10,14 @@ description: Aspose.Cells Cloud REST API supports exporting workbook and interna
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/export  %}}
 {{< /blocks/products/pf/agp/feature-section >}} 
-{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/DataProcessing/PostExport >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResponseType="FilesResult" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/DataProcessing/PostExport >}}   
 {{< blocks/products/cells/cells-cloud-upload>}}  
-	{{< blocks/products/cells/cells-cloud-parameters itName="objectType"  required="False" prompt="Exported object type:workbook/worksheet/chart/comment/picture/shape/listobject/oleobject.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="objectType"  required="False" prompt="Exported object type:workbook/worksheet/chart/comment/picture/shape/listobject/oleobject.">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="format"  required="False" prompt="The conversion format(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The password needed to open an Excel file.">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction"  required="False" prompt="Whether check restriction of excel file when user modify cells related objects.">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="The regional settings for workbook.">}} 
+{{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="The regional settings for workbook.">}}
+
 {{% blocks/products/cells/cells-cloud-showcode request="objectType,format,password,checkExcelRestriction,region" requestvalue=",pdf,,true," %}}  
                
 ```cs

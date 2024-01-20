@@ -12,10 +12,10 @@ description: Aspose.Cells Cloud REST API supports setting the background for Exc
 {{< /blocks/products/pf/agp/feature-section >}}    
 
 
-{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostWatermark >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResponseType="FilesResult" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostWatermark >}}   
 
 	{{< blocks/products/cells/cells-cloud-upload>}}  
-	{{< blocks/products/cells/cells-cloud-parameters itName="text"  required="True" prompt="text">}}
+	{{< blocks/products/cells/cells-cloud-parameters itName="text"  required="True" prompt="background text.">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="color"  required="True" prompt="e.g. #1032ff">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="outFormat"  required="False" prompt="The output data file format.(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The password needed to open an Excel file.">}}

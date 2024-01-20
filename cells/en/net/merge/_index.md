@@ -10,15 +10,15 @@ description: Aspose.Cells Cloud REST API supports merging multiple Excel files i
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/merge  %}}
 {{< /blocks/products/pf/agp/feature-section >}}
- 
-{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResultPosition="FileInfo" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostMerge >}}
+  
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResponseType="FileInfo" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostMerge >}}
 {{< blocks/products/cells/cells-cloud-upload>}}
 
-{{< blocks/products/cells/cells-cloud-parameters itName="outFormat"  required="False" prompt="The password needed to open an Excel file.">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="mergeToOneSheet"  required="False" prompt="Whether check restriction of excel file when user modify cells related objects.">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The regional settings for workbook.">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction"  required="False" prompt="Upload files.">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="outFormat"  required="False" prompt="The output data file format.(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="mergeToOneSheet"  required="False" prompt="Merge all workbooks into a sheet.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The password needed to open an Excel file.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction"  required="False" prompt="Whether check restriction of excel file when user modify cells related objects.">}}
+{{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="The regional settings for workbook.">}}
 
 {{% blocks/products/cells/cells-cloud-showcode request="outFormat,mergeToOneSheet,password,checkExcelRestriction,region" requestvalue=",true,,true," %}}
 

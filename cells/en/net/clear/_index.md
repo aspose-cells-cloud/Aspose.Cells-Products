@@ -11,10 +11,10 @@ description: Aspose.Cells Cloud REST API supports clear inner objects in an Exce
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/clearobjects  %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostClearObjects >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResponseType="FilesResult" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostClearObjects >}}  
 {{< blocks/products/cells/cells-cloud-upload>}}  
- 
-	{{< blocks/products/cells/cells-cloud-parameters itName="objecttype"  required="True" prompt="chart/comment/picture/shape/listobject/hyperlink/oleobject/pivottable/validation/Background">}}
+
+ {{< blocks/products/cells/cells-cloud-parameters itName="objecttype"  required="True" prompt="chart/comment/picture/shape/listobject/hyperlink/oleobject/pivottable/validation/Background">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="sheetname"  required="False" prompt="The worksheet name, specify the scope of the deletion.">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="outFormat"  required="False" prompt="The output data file format.(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The password needed to open an Excel file.">}}
