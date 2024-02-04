@@ -22,7 +22,7 @@ description: Aspose.Cells Cloud provides robust support for Excel file format co
 {{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="The regional settings for workbook.">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="pageWideFitOnPerSheet"  required="False" prompt="The page wide fit on worksheet.">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="pageTallFitOnPerSheet"  required="False" prompt="The page tall fit on worksheet.">}}
-
+{{< blocks/products/cells/cells-cloud-showparameters >}}
 {{% blocks/products/cells/cells-cloud-showcode request="format,password,outPath,storageName,checkExcelRestriction,streamFormat,region,pageWideFitOnPerSheet,pageTallFitOnPerSheet" requestvalue="pdf,,,,true,,,true,true" %}}
 
 ```cs

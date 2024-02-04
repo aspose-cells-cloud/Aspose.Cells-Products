@@ -19,7 +19,7 @@ description: Indeed, Aspose.Cells Cloud offers strong support for adding text wa
 {{< blocks/products/cells/cells-cloud-parameters itName="password"  required="False" prompt="The password needed to open an Excel file.">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction"  required="False" prompt="Whether check restriction of excel file when user modify cells related objects.">}}
 {{< blocks/products/cells/cells-cloud-parameters itName="region"  required="False" prompt="The regional settings for workbook.">}}
-
+{{< blocks/products/cells/cells-cloud-showparameters >}}
 {{% blocks/products/cells/cells-cloud-showcode request="text,color,outFormat,password,checkExcelRestriction,region" requestvalue=",,,,true," %}}
 
 ```cs
