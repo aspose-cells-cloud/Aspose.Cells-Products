@@ -1,7 +1,7 @@
 ﻿---
-title: Spreadsheet Processing Solutions (Desktop & Cloud REST APIs) 
-description: On-premise & Cloud APIs to seamlessly enhance your native, web & cloud apps to provide spreadsheet processing functionality 
-weight: 30
+title: Lightweight Aspose.Cells cloud and on-premises API for Excel table processing
+description: Aspose.Cells Cloud offers a range of SDKs in various programming languages, simplifies access to Aspose.Cells REST API, and enhances performance through its lightweight design.
+weight: 50
 url: /
 ---
 
