@@ -10,7 +10,7 @@ description: Utilizing the Aspose.Cells Cloud SDK for Go to convert a PNG format
 
 
 <!-- {{< blocks/products/pf/main-container >}} -->
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert PNG to XML using Cells Cloud SDK for Go" >}}
+{{< blocks/products/cells/cells-cloud-section  title="Convert PNG to XML using Cells Cloud SDK for Go" >}}
 
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
@@ -18,8 +18,7 @@ Converting file formats from PNG to XML can be a complex task. Our Go SDK handle
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-<br/>
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Go Code Example for converting PNG to XML using Cells Cloud SDK" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Go Code Example for converting PNG to XML using Cells Cloud SDK" %}}
 
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -57,14 +56,16 @@ Converting file formats from PNG to XML can be a complex task. Our Go SDK handle
 
 
 {{< blocks/products/cells/cells-cloud-section-list title="How to use Cells Cloud SDK for Go to convert Excel files to other formats PNG to XML" >}}
-<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<ul>
+<li>Register an account at <a href="https://dashboard.aspose.cloud/" style='color:green'>Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
-<li>Use the `PutConvertWorkbook` method to retrieve the resulting stream.</li>
+<li>Use the `PutConvertWorkbook` method to retrieve the resulting stream.</li></ul>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
-<li>go version go1.13.0 or newer</li>
+<ul>
+<li>go version go1.13.0 or newer</li></ul>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <!-- {{< /blocks/products/pf/main-container >}} -->
 <!-- {{< /blocks/products/pf/main-wrap-class >}} -->
