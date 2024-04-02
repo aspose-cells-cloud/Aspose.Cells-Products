@@ -58,7 +58,7 @@ Converting file formats from PNG to XML can be a complex task. Our Go SDK handle
 
 {{< blocks/products/cells/cells-cloud-section-list title="How to use Cells Cloud SDK for Go to convert Excel files to other formats PNG to XML" >}}
 <ol>
-<li>Register an account at <a href="https://dashboard.aspose.cloud/" style='color:green'>Dashboard</a> to get free API quota & authorization details</li>
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Use the `PutConvertWorkbook` method to retrieve the resulting stream.</li></ol>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
