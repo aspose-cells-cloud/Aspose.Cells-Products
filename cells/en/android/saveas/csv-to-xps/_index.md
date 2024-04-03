@@ -1,21 +1,21 @@
 ---
 title: Save CSV as XPS using Android 
 description: Utilizing Aspose.Cells Cloud SDK for Android to save CSV format file as XPS format file. 
-
+kwords: Excel, Save CSV as XPS, REST, Android
+howto: How to save CSV as XPS using Aspose.Cells Cloud Android library.
 ---
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Save CSV as XPS" h2="Android library for saving CSV as XPS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Android. This is a professional solution to save CSV as XPS and other document formats online using Android." urlsection="saveas/csv-to-xps/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Save CSV as XPS" h2="Android library for saving CSV as XPS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Android. This is a professional solution to save CSV as XPS and other document formats online using Android." urlsection="saveas/csv-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a CSV file as XPS in Android" >}}
+{{< blocks/products/cells/cells-cloud-section  title="Save a CSV file as XPS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
 <br/>
 Saving file formats from CSV as XPS is a complex task. All CSV to XPS format transitions is performed by our Android SDK while maintaining the source CSV spreadsheet's main structural and logical content. Our Android library is a professional solution to save CSV as XPS files online. This Cloud SDK gives Android developers powerful functionality and perfect XPS output.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Android Code Example for saving CSV as XPS using REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android Code Example for saving CSV as XPS using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -34,22 +34,15 @@ Saving file formats from CSV as XPS is a complex task. All CSV to XPS format tra
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div  %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to save Excel files as other formats CSV as XPS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to save Excel files as other formats" >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
 <li>Android 7 or newer</li>
 <li>Java(TM) SE Runtime Environment</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

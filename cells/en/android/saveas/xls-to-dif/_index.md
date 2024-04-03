@@ -1,21 +1,21 @@
 ---
 title: Save XLS as DIF using Android 
 description: Utilizing Aspose.Cells Cloud SDK for Android to save XLS format file as DIF format file. 
-
+kwords: Excel, Save XLS as DIF, REST, Android
+howto: How to save XLS as DIF using Aspose.Cells Cloud Android library.
 ---
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLS as DIF" h2="Android library for saving XLS as DIF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Android. This is a professional solution to save XLS as DIF and other document formats online using Android." urlsection="saveas/xls-to-dif/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Save XLS as DIF" h2="Android library for saving XLS as DIF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Android. This is a professional solution to save XLS as DIF and other document formats online using Android." urlsection="saveas/xls-to-dif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLS file as DIF in Android" >}}
+{{< blocks/products/cells/cells-cloud-section  title="Save a XLS file as DIF in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
 <br/>
 Saving file formats from XLS as DIF is a complex task. All XLS to DIF format transitions is performed by our Android SDK while maintaining the source XLS spreadsheet's main structural and logical content. Our Android library is a professional solution to save XLS as DIF files online. This Cloud SDK gives Android developers powerful functionality and perfect DIF output.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Android Code Example for saving XLS as DIF using REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android Code Example for saving XLS as DIF using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -34,22 +34,15 @@ Saving file formats from XLS as DIF is a complex task. All XLS to DIF format tra
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div  %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to save Excel files as other formats XLS as DIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to save Excel files as other formats" >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
 <li>Android 7 or newer</li>
 <li>Java(TM) SE Runtime Environment</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
