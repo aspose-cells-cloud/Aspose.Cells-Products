@@ -1,21 +1,21 @@
 ---
 title: Save XLTM as XML using Go 
 description: Utilizing Aspose.Cells Cloud SDK for Go to save XLTM format file as XML format file. 
-
+kwords: Excel, Save XLTM as XML, REST, Go
+howto: How to save XLTM as XML using Aspose.Cells Cloud Go library.
 ---
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLTM as XML" h2="Go library for saving XLTM as XML" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Go. This is a professional solution to save XLTM as XML and other document formats online using Go." urlsection="saveas/xltm-to-xml/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Save XLTM as XML" h2="Go library for saving XLTM as XML" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Go. This is a professional solution to save XLTM as XML and other document formats online using Go." urlsection="saveas/xltm-to-xml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLTM file as XML in Go" >}}
+{{< blocks/products/cells/cells-cloud-section  title="Save a XLTM file as XML in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
 <br/>
 Saving file formats from XLTM as XML is a complex task. All XLTM to XML format transitions is performed by our Go SDK while maintaining the source XLTM spreadsheet's main structural and logical content. Our Go library is a professional solution to save XLTM as XML files online. This Cloud SDK gives Go developers powerful functionality and perfect XML output.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go Code Example for saving XLTM as XML using REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Go Code Example for saving XLTM as XML using REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -30,21 +30,15 @@ Saving file formats from XLTM as XML is a complex task. All XLTM to XML format t
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div  %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Go to save Excel files as other formats XLTM as XML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="Learn how to save XLTM as XML using the Cells Cloud Go library." >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Install Go library and add the reference (import the library) to your project.</li>
+<li>Open the source file in go.</li>
 <li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
 <li>go version go1.13.0 or newer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
