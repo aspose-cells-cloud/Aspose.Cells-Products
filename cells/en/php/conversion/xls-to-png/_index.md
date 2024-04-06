@@ -1,21 +1,21 @@
 ---
 title: Convert XLS to PNG using PHP 
 description: Utilizing the Aspose.Cells Cloud SDK for PHP to convert a XLS format file to a PNG format file. 
-
+kwords: Excel, Convert XLS to PNG, REST, PHP
+howto: How to convert XLS to PNG using Aspose.Cells Cloud PHP library.
 ---
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convert XLS to PNG" h2="PHP library for converting XLS to PNG" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in PHP projects. This is a professional solution to convert XLS to PNG and other document formats online using PHP." urlsection="conversion/xls-to-png/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convert XLS to PNG" h2="PHP library for converting XLS to PNG" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in PHP projects. This is a professional solution to convert XLS to PNG and other document formats online using PHP." urlsection="conversion/xls-to-png/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert XLS to PNG using Cells Cloud SDK for PHP" >}}
+{{< blocks/products/cells/cells-cloud-section  title="Convert XLS to PNG using Cells Cloud SDK for PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from XLS to PNG can be a complex task. Our PHP SDK handles all XLS to PNG format conversions while preserving the main structural and logical content of the source XLS spreadsheet. Our PHP library provides a professional solution for converting XLS to PNG files online. This Cloud SDK empowers PHP developers with powerful functionality and ensures high-quality PNG output.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Code Example for converting XLS to PNG using Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Code Example for converting XLS to PNG using Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -35,21 +35,15 @@ Converting file formats from XLS to PNG can be a complex task. Our PHP SDK handl
     fclose($file);
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div  %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for PHP to convert Excel files to other formats XLS to PNG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="Learn how to convert XLS to PNG using the Cells Cloud PHP library." >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Install PHP library and add the reference (import the library) to your project.</li>
+<li>Open the source file in PHP.</li>
 <li>Use the `putConvertWorkbook` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
 <li>PHP 7.4 or newer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

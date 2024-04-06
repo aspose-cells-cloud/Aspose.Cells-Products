@@ -1,21 +1,21 @@
 ---
 title: Save XML as XLSB using PHP 
 description: Utilizing Aspose.Cells Cloud SDK for PHP to save XML format file as XLSB format file. 
-
+kwords: Excel, Save XML as XLSB, REST, PHP
+howto: How to save XML as XLSB using Aspose.Cells Cloud PHP library.
 ---
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XML as XLSB" h2="PHP library for saving XML as XLSB" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in PHP. This is a professional solution to save XML as XLSB and other document formats online using PHP." urlsection="saveas/xml-to-xlsb/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Save XML as XLSB" h2="PHP library for saving XML as XLSB" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in PHP. This is a professional solution to save XML as XLSB and other document formats online using PHP." urlsection="saveas/xml-to-xlsb/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XML file as XLSB in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section  title="Save a XML file as XLSB in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
 <br/>
 Saving file formats from XML as XLSB is a complex task. All XML to XLSB format transitions is performed by our PHP SDK while maintaining the source XML spreadsheet's main structural and logical content. Our PHP library is a professional solution to save XML as XLSB files online. This Cloud SDK gives PHP developers powerful functionality and perfect XLSB output.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Code Example for saving XML as XLSB using REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Code Example for saving XML as XLSB using REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -30,21 +30,15 @@ Saving file formats from XML as XLSB is a complex task. All XML to XLSB format t
     $result = $apiInstance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename,$isAutoFitRows, $isAutoFitColumns, $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div  %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for PHP to save Excel files as other formats XML as XLSB" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="Learn how to save XML as XLSB using the Cells Cloud PHP library." >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Install PHP library and add the reference (import the library) to your project.</li>
+<li>Open the source file in PHP.</li>
 <li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
 <li>PHP 7.4 or newer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
