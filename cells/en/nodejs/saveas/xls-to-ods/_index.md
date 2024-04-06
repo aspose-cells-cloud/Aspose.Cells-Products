@@ -1,21 +1,21 @@
 ---
 title: Save XLS as ODS using NodeJS 
 description: Utilizing Aspose.Cells Cloud SDK for NodeJS to save XLS format file as ODS format file. 
-
+kwords: Excel, Save XLS as ODS, REST, NodeJS
+howto: How to save XLS as ODS using Aspose.Cells Cloud NodeJS library.
 ---
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLS as ODS" h2="NodeJS library for saving XLS as ODS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save XLS as ODS and other document formats online using NodeJS." urlsection="saveas/xls-to-ods/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Save XLS as ODS" h2="NodeJS library for saving XLS as ODS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save XLS as ODS and other document formats online using NodeJS." urlsection="saveas/xls-to-ods/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLS file as ODS in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section  title="Save a XLS file as ODS in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
 <br/>
 Saving file formats from XLS as ODS is a complex task. All XLS to ODS format transitions is performed by our NodeJS SDK while maintaining the source XLS spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to save XLS as ODS files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect ODS output.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for saving XLS as ODS using REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="NodeJS Code Example for saving XLS as ODS using REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -32,21 +32,15 @@ Saving file formats from XLS as ODS is a complex task. All XLS to ODS format tra
     });
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div  %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to save Excel files as other formats XLS as ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="Learn how to save XLS as ODS using the Cells Cloud NodeJS library." >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Install NodeJS library and add the reference (import the library) to your project.</li>
+<li>Open the source file in JavaScript.</li>
 <li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
 <li>node v6.17.1 or newer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
