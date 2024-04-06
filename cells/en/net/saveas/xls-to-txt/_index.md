@@ -1,21 +1,21 @@
 ---
 title: Save XLS as TXT using C# 
 description: Utilizing Aspose.Cells Cloud SDK for C# to save XLS format file as TXT format file. 
-
+kwords: Excel, Save XLS as TXT, REST, C#
+howto: How to save XLS as TXT using Aspose.Cells Cloud C# library.
 ---
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLS as TXT" h2="C# library for saving XLS as TXT" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Net. This is a professional solution to save XLS as TXT and other document formats online using C#." urlsection="saveas/xls-to-txt/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Save XLS as TXT" h2="C# library for saving XLS as TXT" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Net. This is a professional solution to save XLS as TXT and other document formats online using C#." urlsection="saveas/xls-to-txt/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLS file as TXT in C#" >}}
+{{< blocks/products/cells/cells-cloud-section  title="Save a XLS file as TXT in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
 <br/>
 Saving file formats from XLS as TXT is a complex task. All XLS to TXT format transitions is performed by our C# SDK while maintaining the source XLS spreadsheet's main structural and logical content. Our C# library is a professional solution to save XLS as TXT files online. This Cloud SDK gives C# developers powerful functionality and perfect TXT output.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# Code Example for saving XLS as TXT using REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Code Example for saving XLS as TXT using REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -26,22 +26,16 @@ Saving file formats from XLS as TXT is a complex task. All XLS to TXT format tra
     SaveResponse saveResponse = cellsApi.CellsSaveAsPostDocumentSaveAs(name, null, newfilename, null,null,folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div  %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Net to save Excel files as other formats XLS as TXT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="Learn how to save XLS as TXT using the Cells Cloud Net library." >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Install C# library and add the reference (import the library) to your project.</li>
+<li>Open the source file in C#</li>
 <li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
 <li>NET Framework 4.5.2 or newer</li>
 <li>Net Standard 2.0 or newer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
