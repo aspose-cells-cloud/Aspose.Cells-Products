@@ -1,52 +1,49 @@
 ---
-title: Convert FODS to XLSM in the Cloud via PHP 
-description: Create, Edit or Convert Excel files with REST API & Open Source PHP SDK
-url: /php/conversion/fods-to-xlsm/
-family: cells
-platformtag: php
-feature: conversion
-informat: FODS
-outformat: XLSM
-platform: PHP
-otherformats: XLSM FODS CSV SVG TSV MD TXT XML DIF XLTM MHTML PDF TIFF XPS XLSB XLTX 
+title: Convert FODS to XLSM using PHP 
+description: Utilizing the Aspose.Cells Cloud SDK for PHP to convert a FODS format file to a XLSM format file. 
+kwords: Excel, Convert FODS to XLSM, REST, PHP
+howto: How to convert FODS to XLSM using Aspose.Cells Cloud PHP library.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert FODS to XLSM with PHP" h2="Automate Excel & OpenOffice file conversion with open source Cloud SDK for PHP">}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Quickly Convert FODS to XLSM via PHP" %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Upload FODS file to default Cloud Storage with ```CellsApi.uploadFile``` method
-1. Call ```CellsApi.cellsSaveAsPostDocumentSaveAs``` to get the resultant XLSM file
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convert FODS to XLSM" h2="PHP library for converting FODS to XLSM" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in PHP projects. This is a professional solution to convert FODS to XLSM and other document formats online using PHP." urlsection="conversion/fods-to-xlsm/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel API & PHP SDK" %}}
-Get Excel Cloud SDK for PHP source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{< blocks/products/cells/cells-cloud-section  title="Convert FODS to XLSM using Cells Cloud SDK for PHP" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+<br/>
+Converting file formats from FODS to XLSM can be a complex task. Our PHP SDK handles all FODS to XLSM format conversions while preserving the main structural and logical content of the source FODS spreadsheet. Our PHP library provides a professional solution for converting FODS to XLSM files online. This Cloud SDK empowers PHP developers with powerful functionality and ensures high-quality XLSM output.
 
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/pf/agp/code-autogen title="PHP Code for FODS to XLSM Conversion" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Code Example for converting FODS to XLSM using Cells Cloud SDK" gistPath="" %}}
+ 
 ```php
-
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php
-
-$name ='template.fods';    
-$saveOptions = null;
-$newfilename = "output.xlsm";
-$isAutoFitRows= 'true';
-$isAutoFitColumns= 'true';
-$folder = "Temp";
-CellsApi::ready( $this->instance, $name, $folder );
-$result = $this->instance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename, $isAutoFitRows, $isAutoFitColumns, $folder);
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
+    <?php
+    require_once('vendor\autoload.php');
+    use \Aspose\Cells\Cloud\Api\CellsApi;
+    $instance = new CellsApi(getenv("ProductClientId"),getenv("ProductClientSecret"));
+    $path ='Book1.fods';    
+    $format ='xlsm';
+    $password = null;
+    $outPath = null;      
+    $result = $this->instance->cellsWorkbookPutConvertWorkBook($path ,$format, $password,  $outPath);
+    $size = $result->getSize();
+    $content  = $result->fread($size);
+    $file = fopen("destfile.xlsm", 'w');
+    fwrite($file,$content);
+    fclose($file);
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="Learn how to convert FODS to XLSM using the Cells Cloud PHP library." >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Install PHP library and add the reference (import the library) to your project.</li>
+<li>Open the source file in PHP.</li>
+<li>Use the `putConvertWorkbook` method to retrieve the resulting stream.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>PHP 7.4 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

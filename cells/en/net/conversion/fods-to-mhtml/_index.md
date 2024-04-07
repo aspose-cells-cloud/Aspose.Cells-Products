@@ -1,48 +1,50 @@
 ---
-title: Convert FODS to MHTML via .NET 
-description: Create, Edit or Convert Excel files with Cloud API & Open Source .NET SDK
-url: /net/conversion/fods-to-mhtml/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: MHTML
-platform: .NET
-otherformats: PDF MHTML DIF XLT XLTM FODS XPS XLSB TSV CSV SVG XLSM MD TXT XML XLSX 
+title: Convert FODS to MHTML using C# 
+description: Utilizing the Aspose.Cells Cloud SDK for C# to convert a FODS format file to a MHTML format file. 
+kwords: Excel, Convert FODS to MHTML, REST, C#
+howto: How to convert FODS to MHTML using Aspose.Cells Cloud C# library.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert FODS to MHTML in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for .NET">}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS to MHTML Conversion in .NET Apps" %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Upload FODS file to default Cloud Storage with ```CellsApi.Upload``` method
-1. Call ```CellsApi.CellsSaveAsPostDocumentSaveAs``` method to get the resultant MHTML file
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convert FODS to MHTML" h2="C# library for converting FODS to MHTML" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Net projects. This is a professional solution to convert FODS to MHTML and other document formats online using C#." urlsection="conversion/fods-to-mhtml/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{< blocks/products/cells/cells-cloud-section  title="Convert FODS to MHTML using Cells Cloud SDK for C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+<br/>
+Converting file formats from FODS to MHTML can be a complex task. Our C# SDK handles all FODS to MHTML format conversions while preserving the main structural and logical content of the source FODS spreadsheet. Our C# library provides a professional solution for converting FODS to MHTML files online. This Cloud SDK empowers C# developers with powerful functionality and ensures high-quality MHTML output.
 
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# .NET Code for FODS to MHTML Conversion" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Code Example for converting FODS to MHTML using Cells Cloud SDK" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "mhtml";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.mhtml", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "mhtml";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.mhtml";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="Learn how to convert FODS to MHTML using the Cells Cloud Net library." >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Install C# library and add the reference (import the library) to your project.</li>
+<li>Open the source file in C#</li>
+<li>Use the `PutConvertWorkbook` method to retrieve the resulting stream.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>NET Framework 4.5.2 or newer</li>
+<li>Net Standard 2.0 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
