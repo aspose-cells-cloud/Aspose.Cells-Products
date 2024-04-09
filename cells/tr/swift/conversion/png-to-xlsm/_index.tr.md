@@ -1,5 +1,5 @@
 ﻿---
-title:  Swift için PNG'i XLSM'ye dönüştürün API'i dönüştürün
+title: Swift için PNG'i XLSM'ye dönüştürün API'i dönüştürün
 description:  PNG biçimindeki dosyayı XLSM biçimindeki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/conversion/png-to-xlsm/
 ---
@@ -66,7 +66,7 @@ Dosya formatlarını PNG'den XLSM'ye dönüştürmek karmaşık bir iştir. PNG'
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="PNG\'i XLSM\'ye dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

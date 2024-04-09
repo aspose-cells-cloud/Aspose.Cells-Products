@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till MHTML Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till MHTML format fil.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till MHTML format fil.
 url: /sv/swift/conversion/html-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

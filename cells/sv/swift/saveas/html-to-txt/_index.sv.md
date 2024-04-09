@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som TXT API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att spara HTML filformat som fil i TXT-format.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara HTML filformat som fil i TXT-format.
 url: /sv/swift/saveas/html-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

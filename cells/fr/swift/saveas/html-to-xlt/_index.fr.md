@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez HTML sous XLT API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML au format XLT.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML au format XLT.
 url: /fr/swift/saveas/html-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

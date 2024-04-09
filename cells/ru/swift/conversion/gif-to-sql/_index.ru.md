@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование GIF в SQL API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата SQL.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата SQL.
 url: /ru/swift/conversion/gif-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

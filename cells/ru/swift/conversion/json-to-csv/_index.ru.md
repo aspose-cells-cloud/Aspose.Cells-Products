@@ -1,6 +1,6 @@
 ﻿---
-title: Конвертировать JSON в CSV API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата CSV.
+title:  Конвертировать JSON в CSV API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата CSV.
 url: /ru/swift/conversion/json-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

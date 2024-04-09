@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti XML in CSV utilizzando C#
-description: Utilizzando Aspose.Cells Cloud SDK per C# per convertire un file in formato XML in un file in formato CSV.
+description:  Utilizzando Aspose.Cells Cloud SDK per C# per convertire un file in formato XML in un file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Converti XML in CSV" h2="C# libreria per la conversione da XML a CSV" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Net. Questa è una soluzione professionale per convertire XML in CSV e altri formati di documenti online utilizzando C#." urlsection="conversion/xml-to-csv/" >}}

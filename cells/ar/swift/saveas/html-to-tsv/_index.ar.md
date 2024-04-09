@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ TSV API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق HTML كملف تنسيق TSV.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق HTML كملف تنسيق TSV.
 url: /ar/swift/saveas/html-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

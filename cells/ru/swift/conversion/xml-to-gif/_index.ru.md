@@ -4,10 +4,10 @@ description: Использование Aspose.Cells Cloud SDK для Swift дл
 url: /ru/swift/conversion/xml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XML в GIF" h2="Библиотека Swift для преобразования XML в GIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования XML в GIF и другие форматы документов с помощью Swift." urlsection="conversion/xml-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XML в GIF" h2="Библиотека Swift для преобразования XML в GIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации XML в GIF и другие форматы документов с помощью Swift." urlsection="conversion/xml-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте XML-файл в GIF в Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в GIF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XML в GIF — сложная задача. Все переходы формата XML в GIF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной XML-таблицы. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XML в GIF. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод GIF.

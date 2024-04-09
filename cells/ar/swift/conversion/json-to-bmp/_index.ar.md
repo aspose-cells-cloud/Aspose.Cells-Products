@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON إلى BMP تحويل API إلى Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق JSON إلى ملف تنسيق BMP.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق JSON إلى ملف تنسيق BMP.
 url: /ar/swift/conversion/json-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

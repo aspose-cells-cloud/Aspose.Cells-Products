@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV в SVG Преобразовать API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата SVG.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата SVG.
 url: /ru/swift/conversion/csv-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

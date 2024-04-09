@@ -1,18 +1,19 @@
 ﻿---
 title:  Convertir MHTML en XPS en utilisant PHP
 description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir un fichier au format MHTML en fichier au format XPS.
+kwords: Excel, Convert MHTML to XPS, REST, PHP
+howto: How to convert MHTML to XPS using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir MHTML en XPS" h2="Bibliothèque PHP pour convertir MHTML en XPS" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets PHP. Il s\'agit d\'une solution professionnelle pour convertir MHTML en XPS et d\'autres formats de documents en ligne en utilisant PHP." urlsection="conversion/mhtml-to-xps/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir MHTML en XPS" h2="Bibliothèque PHP pour convertir MHTML en XPS" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets PHP. Il s\'agit d\'une solution professionnelle pour convertir MHTML en XPS et d\'autres formats de documents en ligne en utilisant PHP." urlsection="conversion/mhtml-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir MHTML en XPS à l\'aide du SDK Cloud Cells pour PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="Convertir MHTML en XPS à l\'aide du SDK Cloud Cells pour PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion des formats de fichiers MHTML vers XPS peut être une tâche complexe. Notre SDK PHP gère toutes les conversions du format MHTML vers XPS tout en préservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque PHP fournit une solution professionnelle pour convertir en ligne des fichiers MHTML en XPS. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et garantit une sortie XPS de haute qualité.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Exemple de code pour convertir MHTML en XPS à l\'aide du SDK Cloud Cells" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Exemple de code pour convertir MHTML en XPS à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,15 @@ La conversion des formats de fichiers MHTML vers XPS peut être une tâche compl
     fclose($file);
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour PHP pour convertir des fichiers Excel vers d\'autres formats MHTML en XPS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment convertir MHTML en XPS à l\'aide de la bibliothèque Cells Cloud PHP." >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Installez la bibliothèque PHP et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source en PHP.</li>
 <li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>PHP 7.4 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

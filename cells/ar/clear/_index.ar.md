@@ -1,6 +1,6 @@
 ﻿---
 title:  مسح الكائنات في Excel
-description:  Aspose.Cells Cloud REST API يدعم المقاصة الكائنات الداخلية في ملف Excel ويوفر SDKs لمختلف لغات البرمجة ، بما في ذلك Android ، C# ، GO ، Java ، Nodejs ، Perl ، PHP ، 076341734173417341.
+description:  Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel ويوفر SDKs لمختلف لغات البرمجة، بما في ذلك Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وSwift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="مسح الكائنات في Excel" h2="يدعم Aspose.Cells Cloud SDK مسح المحتوى والنمط والمخططات والجداول والخلفيات والمزيد في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel ويوفر SDKs لمختلف لغات البرمجة، بما في ذلك Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وSwift." urlsection="" >}}

@@ -10,10 +10,10 @@ url: /tr/swift/conversion/xls-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir XLS dosyasını WMF\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den WMF'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den WMF formatına geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, XLS'yi çevrimiçi olarak WMF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
+Dosya formatlarını XLS'den WMF'ye dönüştürmek karmaşık bir iştir. XLS'den WMF'ye tüm format geçişleri Swift SDK'mız tarafından gerçekleştirilir ve kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, XLS'yi çevrimiçi olarak WMF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi WMF formatına dönüştürmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi WMF biçimine dönüştürmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,7 +66,7 @@ Dosya formatlarını XLS'den WMF'ye dönüştürmek karmaşık bir iştir. Tüm 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLS\'yi WMF\'ye dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLSX como XLS usando Android
-description: Utilizando Aspose.Cells Cloud SDK para Android para guardar un archivo en formato XLSX como archivo en formato XLS.
+description:  Utilizando Aspose.Cells Cloud SDK para Android para guardar un archivo en formato XLSX como archivo en formato XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XLSX como XLS" h2="Biblioteca de Android para guardar XLSX como XLS" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Android. Esta es una solución profesional para guardar XLSX como XLS y otros formatos de documentos en línea usando Android." urlsection="saveas/xlsx-to-xls/" >}}

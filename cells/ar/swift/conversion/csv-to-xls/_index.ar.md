@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل CSV إلى XLS API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق XLS.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق XLS.
 url: /ar/swift/conversion/csv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva PNG come XLSX API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato PNG come file in formato XLSX.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato PNG come file in formato XLSX.
 url: /it/swift/saveas/png-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

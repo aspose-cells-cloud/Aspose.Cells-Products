@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل GIF إلى SQL API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق SQL.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق SQL.
 url: /ar/swift/conversion/gif-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/conversion/gif-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف GIF إلى SQL في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من GIF إلى SQL مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق GIF إلى SQL بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات GIF إلى ملفات SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات SQL مثالية.
+يعد تحويل تنسيقات الملفات من GIF إلى SQL مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق GIF إلى SQL بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات GIF إلى ملفات SQL عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات SQL مثالية.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل GIF إلى تنسيق SQL" gistPath="" %}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ PNG بتنسيق XLSX باستخدام NodeJS
-description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق PNG كملف بتنسيق XLSX.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق PNG كملف بتنسيق XLSX.
+kwords: Excel, Save PNG as XLSX, REST, NodeJS
+howto: How to save PNG as XLSX using Aspose.Cells Cloud NodeJS library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ PNG كـ XLSX" h2="مكتبة NodeJS لحفظ PNG كـ XLSX" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في NodeJS. يعد هذا حلاً احترافيًا لحفظ PNG بتنسيق XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/png-to-xlsx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ PNG كـ XLSX" h2="مكتبة NodeJS لحفظ PNG كـ XLSX" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في NodeJS. يعد هذا حلاً احترافيًا لحفظ PNG بتنسيق XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/png-to-xlsx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف PNG بتنسيق XLSX في NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف PNG بتنسيق XLSX في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من PNG بتنسيق XLSX مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق PNG إلى XLSX بواسطة NodeJS SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لحفظ PNG كملفات XLSX عبر الإنترنت. يوفر Cloud SDK لمطوري NodeJS وظائف قوية ومخرجات XLSX مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز NodeJS لحفظ PNG كـ XLSX باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="مثال على رمز NodeJS لحفظ PNG كـ XLSX باستخدام REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -29,21 +30,15 @@ description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف �
     });
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لحفظ ملفات Excel بتنسيقات أخرى PNG بتنسيق XLSX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ PNG بتنسيق XLSX باستخدام مكتبة Cells Cloud NodeJS." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة NodeJS وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في جافا سكريبت.</li>
 <li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

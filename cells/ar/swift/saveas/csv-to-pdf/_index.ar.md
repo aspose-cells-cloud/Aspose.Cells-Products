@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV كـ PDF API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق PDF.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق PDF.
 url: /ar/swift/saveas/csv-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,9 +1,9 @@
 ﻿---
 title:  Spara NUMBERS som CSV med Android
-description: Använder Aspose.Cells Cloud SDK för Android för att spara NUMBERS-formatfilen som CSV-fil.
+description:  Använder Aspose.Cells Cloud SDK för Android för att spara NUMBERS-formatfilen som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara NUMBERS som CSV" h2="Android-bibliotek för att spara NUMBERS som CSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara NUMBERS som CSV och andra dokumentformat online med Android." urlsection="saveas/numbers-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara NUMBERS som CSV" h2="Android-bibliotek för att spara NUMBERS som CSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att spara NUMBERS som CSV och andra dokumentformat online med Android." urlsection="saveas/numbers-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en NUMBERS-fil som CSV i Android" >}}

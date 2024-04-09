@@ -1,18 +1,19 @@
 ﻿---
 title:  Сохраните TXT как TIFF, используя Ruby.
 description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата TXT как файла формата TIFF.
+kwords: Excel, Save TXT as TIFF, REST, Ruby
+howto: How to save TXT as TIFF using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить TXT как TIFF." h2="Библиотека Ruby для сохранения TXT как TIFF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Ruby. Это профессиональное решение для сохранения TXT как TIFF и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/txt-to-tiff/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Сохранить TXT как TIFF." h2="Библиотека Ruby для сохранения TXT как TIFF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Ruby. Это профессиональное решение для сохранения TXT как TIFF и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/txt-to-tiff/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как TIFF в Ruby." >}}
+{{< blocks/products/cells/cells-cloud-section title="Сохраните файл TXT как TIFF в Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение формата файла из TXT как TIFF — сложная задача. Все переходы формата TXT в TIFF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для сохранения файлов TXT в формате TIFF онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный результат TIFF.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для сохранения TXT как TIFF с использованием REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Пример кода Ruby для сохранения TXT как TIFF с использованием REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -29,21 +30,15 @@ description:  Использование Aspose.Cells Cloud SDK для Ruby дл
     result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder+"/"+newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Ruby для сохранения файлов Excel в других форматах TXT как TIFF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как сохранить TXT как TIFF с помощью библиотеки Cloud Ruby Cells." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку Ruby и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл в Ruby.</li>
 <li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>рубин 2.5 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

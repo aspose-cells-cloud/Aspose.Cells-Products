@@ -13,7 +13,7 @@ description: Aspose.Cells Cloud REST API allows merging multiple Excel files int
 
 
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Merge" OutResultType="Variable" OutResultDataType="Class" ResultPosition="FileInfo" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostMerge >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="Merge" OutResultType="Variable" OutResultDataType="Class" ResultPosition="FileInfo" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostMerge" >}}  
 {{< blocks/products/cells/cells-cloud-upload>}}  
  
 	{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="true" prompt="Please enter format">}}

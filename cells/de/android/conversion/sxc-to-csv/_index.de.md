@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie SXC mit Android in CSV
+title: Konvertieren Sie SXC mit Android in CSV
 description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im SXC-Format in eine Datei im CSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

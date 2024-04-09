@@ -9,7 +9,7 @@ description:  Använder Aspose.Cells Cloud SDK för Android för att spara JSON-
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en JSON-fil som CSV i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från JSON som CSV är en komplex uppgift. Alla JSON- till CSV-formatövergångar utförs av vår Android SDK samtidigt som käll-JSON-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara JSON som CSV-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Att spara filformat från JSON som CSV är en komplex uppgift. Alla JSON- till CSV-formatövergångar utförs av vår Android-SDK samtidigt som käll-JSON-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara JSON som CSV-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att spara JSON som CSV med REST API" gistPath="" %}}

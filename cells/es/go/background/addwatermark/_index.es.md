@@ -1,6 +1,6 @@
 ﻿---
 title:  Agregue una marca de agua para el libro de trabajo local con Go in Cloud
-description: API y SDK en la nube para agregar marcas de agua para Microsoft Excel y OpenOffice Calc with Go. Agregar marca de agua para hojas de cálculo locales mediante el SDK Cells Cloud API para Go.
+description:  API y SDK en la nube para agregar marcas de agua para Microsoft Excel y OpenOffice Calc with Go. Agregar marca de agua para hojas de cálculo locales mediante el SDK Cells Cloud API para Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para agregar una marca de agua para Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a la biblioteca para agregar una marca de agua para la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Watermark REST API para agregar una marca de agua para los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional agrega marcas de agua para Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea usando Go." urlsection="background/Add-watermark/" >}}

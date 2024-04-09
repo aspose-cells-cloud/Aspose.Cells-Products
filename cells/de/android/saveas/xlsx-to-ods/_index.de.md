@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSX als ODS mit Android
-description: Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLSX-Formatdateien als ODS-Formatdateien.
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLSX-Formatdateien als ODS-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX als ODS speichern" h2="Android-Bibliothek zum Speichern von XLSX als ODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSX als ODS und anderen Dokumentformaten mit Android." urlsection="saveas/xlsx-to-ods/" >}}

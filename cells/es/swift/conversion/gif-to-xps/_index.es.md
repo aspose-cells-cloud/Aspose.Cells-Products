@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF a XPS Convertir API para Swift
-description: Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato GIF a un archivo de formato XPS.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato GIF a un archivo de formato XPS.
 url: /es/swift/conversion/gif-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLT als CSV mit Perl
+title:  Speichern Sie XLT als CSV mit Perl
 description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern von XLT-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

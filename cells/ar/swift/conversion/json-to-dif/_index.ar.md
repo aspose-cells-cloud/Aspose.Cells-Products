@@ -1,6 +1,6 @@
 ﻿---
-title: JSON إلى DIF تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق JSON إلى ملف تنسيق DIF.
+title:  JSON إلى DIF تحويل API لـ Swift
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق JSON إلى ملف تنسيق DIF.
 url: /ar/swift/conversion/json-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

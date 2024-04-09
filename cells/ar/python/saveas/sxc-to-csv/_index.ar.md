@@ -1,6 +1,6 @@
 ﻿---
-title: احفظ SXC كملف CSV باستخدام Python
-description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق SXC كملف بتنسيق CSV.
+title:  احفظ SXC كملف CSV باستخدام Python
+description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق SXC كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ SXC كملف CSV" h2="مكتبة Python لحفظ SXC بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Python. يعد هذا حلاً احترافيًا لحفظ SXC كملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="saveas/sxc-to-csv/" >}}

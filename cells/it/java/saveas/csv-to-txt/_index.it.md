@@ -1,18 +1,19 @@
 ﻿---
 title:  Salva CSV come TXT utilizzando Java
 description:  Utilizzando Aspose.Cells Cloud SDK for Java per salvare il file in formato CSV come file in formato TXT.
+kwords: Excel, Save CSV as TXT, REST, Java
+howto: How to save CSV as TXT using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva CSV come TXT" h2="Libreria Java per il salvataggio di CSV come TXT" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Java. Si tratta di una soluzione professionale per salvare CSV come TXT e altri formati di documenti online utilizzando Java." urlsection="saveas/csv-to-txt/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Salva CSV come TXT" h2="Libreria Java per il salvataggio di CSV come TXT" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Java. Si tratta di una soluzione professionale per salvare CSV come TXT e altri formati di documenti online utilizzando Java." urlsection="saveas/csv-to-txt/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file CSV come TXT in Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="Salva un file CSV come TXT in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Salvare i formati di file da CSV come TXT è un compito complesso. Tutte le transizioni dal formato CSV al formato TXT vengono eseguite dal nostro SDK Java mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Java è una soluzione professionale per salvare online CSV come file TXT. Questo Cloud SDK offre agli sviluppatori Java funzionalità potenti e un output TXT perfetto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Codice Esempio per salvare CSV come TXT utilizzando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Codice Esempio per salvare CSV come TXT utilizzando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -31,22 +32,16 @@ Salvare i formati di file da CSV come TXT è un compito complesso. Tutte le tran
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Java per salvare i file Excel in altri formati CSV come TXT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come salvare CSV come TXT utilizzando la libreria Cells Cloud Java." >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
-<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Installa la libreria Java e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in Java.</li>
 <li>Utilizza il metodo `postWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>Maven 2.2.0 o successiva</li>
 <li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

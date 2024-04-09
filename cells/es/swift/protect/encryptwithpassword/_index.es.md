@@ -1,6 +1,6 @@
 ﻿---
 title:  Cifre la hoja de cálculo local con contraseña con Swift en la nube
-description: API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc con Swift. Cifre hojas de cálculo locales con contraseña mediante el SDK Cells Cloud API para Swift.
+description:  API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc con Swift. Cifre hojas de cálculo locales con contraseña mediante el SDK Cells Cloud API para Swift.
 url: /es/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

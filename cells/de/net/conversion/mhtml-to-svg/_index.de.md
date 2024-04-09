@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertieren Sie MHTML mit C# in SVG
 description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im MHTML-Format in eine Datei im SVG-Format.
+kwords: Excel, Convert MHTML to SVG, REST, C#
+howto: How to convert MHTML to SVG using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie MHTML in SVG" h2="C#-Bibliothek zum Konvertieren von MHTML in SVG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von MHTML in SVG und andere Dokumentformate online mit C#." urlsection="conversion/mhtml-to-svg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie MHTML in SVG" h2="C#-Bibliothek zum Konvertieren von MHTML in SVG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von MHTML in SVG und andere Dokumentformate online mit C#." urlsection="conversion/mhtml-to-svg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie MHTML in SVG mit dem Cloud SDK Cells für C#" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie MHTML in SVG mit dem Cloud SDK Cells für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von MHTML in SVG kann eine komplexe Aufgabe sein. Unser C# SDK übernimmt alle Konvertierungen von MHTML in das SVG-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-MHTML-Tabelle bei. Unsere C#-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von MHTML in SVG-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige SVG-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel für die Konvertierung von MHTML in SVG mit Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Codebeispiel für die Konvertierung von MHTML in SVG mit Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -32,22 +33,16 @@ Das Konvertieren von Dateiformaten von MHTML in SVG kann eine komplexe Aufgabe s
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in andere Formate von MHTML in SVG zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie MHTML mithilfe der Cloud Net-Bibliothek Cells in SVG konvertieren." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Installieren Sie die Bibliothek C# und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in C#</li>
 <li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>NET Framework 4.5.2 oder neuer</li>
 <li>Net Standard 2.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

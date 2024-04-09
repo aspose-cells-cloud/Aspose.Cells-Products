@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразуйте HTML в CSV, используя Java.
-description:  Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата HTML в файл формата CSV.
+description: Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата HTML в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать HTML в CSV" h2="Java библиотека для преобразования HTML в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертации HTML в CSV и другие форматы документов с помощью Java." urlsection="conversion/html-to-csv/" >}}
@@ -9,7 +9,7 @@ description:  Использование Cloud SDK Aspose.Cells for Java для 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте HTML в CSV с помощью Cells Cloud SDK for Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в CSV может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования формата HTML в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертирования HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод в формате CSV.
+Преобразование форматов файлов из HTML в CSV может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования формата HTML в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертации HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для преобразования HTML в CSV с помощью Cells Cloud SDK" gistPath="" %}}
@@ -46,7 +46,7 @@ description:  Использование Cloud SDK Aspose.Cells for Java для 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для преобразования Excel файлов в другие форматы HTML в CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для преобразования файлов Excel в другие форматы HTML в CSV" >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
 <li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>

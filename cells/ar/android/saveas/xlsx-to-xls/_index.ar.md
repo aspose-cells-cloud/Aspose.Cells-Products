@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSX كـ XLS باستخدام Android
-description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق XLS.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق XLS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLSX كـ XLS" h2="مكتبة Android لحفظ XLSX بصيغة XLS" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ XLSX بتنسيق XLS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsx-to-xls/" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  Esporta la cartella di lavoro a TIFF da Excel utilizzando Cells Cloud SDK per NodeJS
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta cartella di lavoro a TIFF da Excel" h2="Libreria NodeJS per esportare WORKBOOK nel file TIFF" p="Utilizza Export API of Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in NodeJS. Questa è una soluzione professionale per esportare WORKBOOK nel file in formato TIFF da un foglio di calcolo online utilizzando NodeJS." urlsection="export/workbook-to-tiff/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Esporta cartella di lavoro a TIFF da Excel" h2="Libreria NodeJS per esportare WORKBOOK nel file TIFF" p="Utilizza Export API of Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in NodeJS. Questa è una soluzione professionale per esportare WORKBOOK nel file in formato TIFF da un foglio di calcolo online utilizzando NodeJS." urlsection="export/workbook-to-tiff/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKBOOK nel file in formato TIFF utilizzando Cells Cloud SDK per NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="Esporta l\'oggetto WORKBOOK nel file in formato TIFF utilizzando Cells Cloud SDK per NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Esportare l'oggetto WORKBOOK nel file TIFF dal file Excel è un'attività complessa. L'esportazione di WORKBOOK nelle transizioni del formato TIFF viene eseguita dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo WORKBOOK di origine. La nostra libreria NodeJS è una soluzione professionale per esportare oggetti WORKBOOK in file in formato TIFF online. Questo Cloud SDK offre agli sviluppatori NodeJS funzionalità potenti e un output TIFF perfetto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per esportare WORKBOOK nel formato TIFF dal foglio di calcolo" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Esempio di codice in NodeJS utilizzando REST API per esportare WORKBOOK nel formato TIFF dal foglio di calcolo" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -37,21 +38,14 @@ Esportare l'oggetto WORKBOOK nel file TIFF dal file Excel è un'attività comple
     });
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Node per esportare oggetti da Excel WORKBOOK a TIFF" >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
 <li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>nodo v6.17.1 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

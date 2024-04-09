@@ -1,55 +1,59 @@
 ﻿---
-title: 在云端将 FODS 转换为 XML via Java
-description: 使用 REST API 和开源 Java SDK 创建、编辑或转换 Excel 文件
-url: /zh/java/conversion/fods-to-xml/
-family: cells
-platformtag: java
-feature: conversion
-informat: FODS
-outformat: XML
-platform: Java
-otherformats: ODS XML FODS MHTML DIF XLS XPS CSV SVG XLTM PDF MD XLSB TXT XLTX XLSM 
+title: 使用 Java 将 FODS 转换为 XML
+description: 利用Aspose.Cells Cloud SDK for Java将FODS格式文件转换为XML格式文件。
+kwords: Excel, Convert FODS to XML, REST, Java
+howto: How to convert FODS to XML using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="使用 Java 将 FODS 转换为 XML" h2="使用开源 Cloud SDK 自动化 Excel 和 OpenOffice 文件转换 for Java" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 FODS 转换为 XML" h2="Java 用于将 FODS 转换为 XML 的库" p="使用 Cells 云的转换 API 在 Java 项目中创建自定义电子表格工作流程。这是使用 Java 在线将 FODS 转换为 XML 和其他文档格式的专业解决方案。" urlsection="conversion/fods-to-xml/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="简单 FODS 到 XML 的转换" %}}
-1. 创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息
-1. 使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 ```CellsApi```
-1. 使用 ```CellsApi.Upload``` 方法将 FODS 文件上传到默认云存储
-1. 致电 ```CellsApi.cellsWorkbookGetWorkbook``` 获取生成的 XML 文件
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK 将 FODS 转换为 XML for Java" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+将文件格式从 FODS 转换为 XML 可能是一项复杂的任务。我们的 Java SDK 处理所有 FODS 到 XML 格式的转换，同时保留源 FODS 电子表格的主要结构和逻辑内容。我们的 Java 库提供了在线将 FODS 转换为 XML 文件的专业解决方案。该Cloud SDK为Java开发者提供了强大的功能，并确保高质量的XML输出。
 
-{{% blocks/products/pf/agp/feature-section-col title="开始使用 Excel API 和 Java SDK" %}}
-获取 Excel Cloud SDK for Java 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java)自己编译 SDK 或前往[发布](https://releases.aspose.cloud/)以获得替代下载选项。
+{{< /blocks/products/cells/cells-cloud-section >}}
 
-另请查看基于 Swagger 的[API 参考](https://apireference.aspose.cloud/cells/)了解更多关于[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Java 将 FODS 转换为 XML 的代码" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java 使用 Cells Cloud SDK 将 FODS 转换为 XML 的代码示例" gistPath="" %}}
+ 
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-try {
-    CellsApi api = new CellsApi(System.getenv("CellsCloudTestClientId"), System.getenv("CellsCloudTestClientSecret"), "v3.0", System.getenv("CellsCloudTestApiBaseUrl"));
-    String name = BOOK1;
-    String password = null;
-    Boolean isAutoFit = true;
-    Boolean onlySaveTable = true;
-    String format = "XML";
-    String folder = TEMPFOLDER;
-    api.uploadFile( folder +"/"+ name, new File("c:\\TestData\\" + name) , null);
-    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
-}
-catch (Exception e) {
-    e.printStackTrace();
-}
+    import java.io.File;
+    import com.aspose.cloud.cells.api.*;
+    public class Conversion {
+        public static void main(String[] args) {
+            String name =  "Book1.fods";
+            String format = "xml";
+            String password = null;
+            String outPath = null;
+            String destFile = "DestFile.xml";
+            try {
+                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                if(response.canRead())
+                {
+                    if(response.exists()){
+                        response.renameTo(new File(destFile));
+                    }                
+                }
+            }
+            catch(Exception exception )
+            {
+                System.out.print(exception);
+            }
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="了解如何使用 Cells Cloud Java 库将 FODS 转换为 XML。" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>安装 Java 库并将引用（导入库）添加到您的项目中。</li>
+<li>打开Java中的源文件。</li>
+<li>使用 `putConvertWorkbook` 方法检索结果流。</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
+<li>Maven 2.2.0 或更高版本</li>
+<li>Java(TM) SE 运行时环境</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

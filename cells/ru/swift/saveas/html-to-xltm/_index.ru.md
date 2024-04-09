@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить HTML как XLTM API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата HTML как файла формата XLTM.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата HTML как файла формата XLTM.
 url: /ru/swift/saveas/html-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

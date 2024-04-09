@@ -1,6 +1,6 @@
 ﻿---
 title:  Android'i kullanarak XLSX'i SVG olarak kaydedin
-description: XLSX formatındaki dosyayı SVG formatındaki dosya olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
+description:  XLSX formatındaki dosyayı SVG formatındaki dosya olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX\'i SVG olarak kaydet" h2="XLSX\'i SVG olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, XLSX\'i SVG ve diğer belge formatlarını Android kullanarak çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xlsx-to-svg/" >}}
@@ -35,7 +35,7 @@ Dosya formatlarını XLSX'ten SVG olarak kaydetmek karmaşık bir iştir. Tüm X
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer XLSX formatlarında SVG olarak kaydetmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

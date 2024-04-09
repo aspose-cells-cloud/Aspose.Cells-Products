@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON в HTML Преобразовать API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата HTML.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата HTML.
 url: /ru/swift/conversion/json-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ XLTM كـ WMF باستخدام Go
 description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق XLTM كملف بتنسيق WMF.
+kwords: Excel, Save XLTM as WMF, REST, Go
+howto: How to save XLTM as WMF using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLTM باسم WMF" h2="انتقل إلى المكتبة لحفظ XLTM كـ WMF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ XLTM بتنسيق WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/xltm-to-wmf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ XLTM باسم WMF" h2="انتقل إلى المكتبة لحفظ XLTM كـ WMF" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ XLTM بتنسيق WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/xltm-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM بتنسيق WMF في Go" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف XLTM بتنسيق WMF في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من XLTM بتنسيق WMF مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLTM إلى WMF بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ XLTM كملفات WMF عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية ومخرجات WMF مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لحفظ XLTM كـ WMF باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="اذهب إلى مثال الكود لحفظ XLTM كـ WMF باستخدام REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -27,21 +28,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بت
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لحفظ ملفات Excel بتنسيقات أخرى XLTM مثل WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ XLTM بتنسيق WMF باستخدام مكتبة Cloud Go Cells." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة Go وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في الذهاب.</li>
 <li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

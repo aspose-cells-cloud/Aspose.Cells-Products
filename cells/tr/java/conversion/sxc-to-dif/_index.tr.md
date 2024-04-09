@@ -1,18 +1,19 @@
 ﻿---
 title:  Java'i kullanarak SXC'yi DIF'ye dönüştürün
 description: SXC formatındaki bir dosyayı DIF formatındaki bir dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
+kwords: Excel, Convert SXC to DIF, REST, Java
+howto: How to convert SXC to DIF using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi DIF\'ye dönüştür" h2="SXC\'yi DIF\'ye dönüştürmek için Java kitaplığı" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Java\'i kullanarak SXC\'yi DIF\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/sxc-to-dif/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="SXC\'yi DIF\'ye dönüştür" h2="SXC\'yi DIF\'ye dönüştürmek için Java kitaplığı" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Java\'i kullanarak SXC\'yi DIF\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/sxc-to-dif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Java\'i kullanarak SXC\'yi DIF\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section title="Cells Cloud SDK for Java\'i kullanarak SXC\'yi DIF\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Dosya formatlarını SXC'den DIF'ye dönüştürmek karmaşık bir iş olabilir. Java SDK'mız, kaynak SXC elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm SXC'den DIF formatına dönüşümleri gerçekleştirir. Java kitaplığımız, SXC'yi çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Java geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli DIF çıktısı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Cells Cloud SDK\'yı kullanarak SXC\'yi DIF\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Cells Cloud SDK\'yı kullanarak SXC\'yi DIF\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -43,22 +44,16 @@ Dosya formatlarını SXC'den DIF'ye dönüştürmek karmaşık bir iş olabilir.
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını SXC\'den DIF\'ye diğer formatlara dönüştürmek için Cells Cloud SDK for Java nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Java kitaplığını kullanarak SXC\'yi DIF\'ye nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Java kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı Java'de açın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Maven 2.2.0 veya daha yenisi</li>
 <li>Java(TM) SE Çalışma Zamanı Ortamı</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

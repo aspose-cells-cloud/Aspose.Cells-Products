@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF в EMF Конвертировать API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата EMF.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата EMF.
 url: /ru/swift/conversion/gif-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

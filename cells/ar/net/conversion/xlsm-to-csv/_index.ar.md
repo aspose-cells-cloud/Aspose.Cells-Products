@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XLSM إلى CSV باستخدام C#
-description: استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف بتنسيق XLSM إلى ملف بتنسيق CSV.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف بتنسيق XLSM إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSM إلى CSV" h2="مكتبة C# لتحويل XLSM إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Net. يعد هذا حلاً احترافيًا لتحويل XLSM إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/xlsm-to-csv/" >}}

@@ -1,9 +1,9 @@
 ﻿---
 title:  Android kullanarak Excel dosyasının dahili nesnelerini temizleyin
-description:  Aspose.Cells Cloud REST API, Android kullanarak Excel dosyasındaki net iç nesneleri destekler. SDK birden fazla geliştirme dilini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
+description:  Aspose.Cells Cloud REST API, Android kullanan bir Excel dosyasındaki iç nesnelerin netleştirilmesini destekler. SDK birden fazla geliştirme dilini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android kullanarak Excel dosyasının dahili nesnelerini temizleyin" h2="Aspose.Cells Bulut SDK\'sı, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, Android kullanarak Excel dosyasındaki net iç nesneleri destekler. SDK birden fazla geliştirme dilini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android kullanarak Excel dosyasının dahili nesnelerini temizleyin" h2="Aspose.Cells Bulut SDK\'sı, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, Android kullanan bir Excel dosyasındaki iç nesnelerin netleştirilmesini destekler. SDK birden fazla geliştirme dilini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

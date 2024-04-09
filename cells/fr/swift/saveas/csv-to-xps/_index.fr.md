@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer le CSV sous XPS API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format XPS.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format XPS.
 url: /fr/swift/saveas/csv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

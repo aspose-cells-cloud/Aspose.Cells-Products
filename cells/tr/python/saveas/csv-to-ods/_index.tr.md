@@ -1,18 +1,19 @@
 ﻿---
 title:  Python'i kullanarak CSV'yi ODS olarak kaydedin
 description:  CSV formatındaki dosyayı ODS formatındaki dosya olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Save CSV as ODS, REST, Python
+howto: How to save CSV as ODS using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="CSV\'yi ODS olarak kaydet" h2="CSV\'yi ODS olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Python\'i kullanarak CSV\'yi ODS ve diğer belge formatları olarak çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/csv-to-ods/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="CSV\'yi ODS olarak kaydet" h2="CSV\'yi ODS olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Python\'i kullanarak CSV\'yi ODS ve diğer belge formatları olarak çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/csv-to-ods/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="CSV dosyasını Python\'e ODS olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section title="CSV dosyasını Python\'e ODS olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Dosya formatlarını CSV'den ODS olarak kaydetmek karmaşık bir iştir. Tüm CSV'den ODS formatına geçişler Python SDK'mız tarafından gerçekleştirilir ve kaynak CSV elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız CSV'yi çevrimiçi ODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK'sı, Python geliştiriciye güçlü işlevsellik ve mükemmel ODS çıkışı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python REST API kullanarak CSV\'yi ODS olarak kaydetmek için Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python REST API kullanarak CSV\'yi ODS olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -26,22 +27,16 @@ Dosya formatlarını CSV'den ODS olarak kaydetmek karmaşık bir iştir. Tüm CS
     saveResponse = cells_api.cells_save_as_post_document_save_as(name,save_options=saveOptions, newfilename=(folder +'/' + newfilename),folder=folder)
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını ODS olarak diğer CSV formatları olarak kaydetmek için Python için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Python kitaplığını kullanarak CSV\'yi ODS olarak nasıl kaydedeceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Python kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı Python'de açın.</li>
 <li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Python 2.7 veya daha yenisi</li>
 <li>Python 3.10 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLTX كملف CSV باستخدام Perl
+title:  احفظ XLTX كملف CSV باستخدام Perl
 description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLTX كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

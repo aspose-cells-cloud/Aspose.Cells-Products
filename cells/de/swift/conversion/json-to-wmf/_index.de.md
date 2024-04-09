@@ -10,7 +10,7 @@ url: /de/swift/conversion/json-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JSON-Datei in Swift in WMF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von JSON in WMF ist eine komplexe Aufgabe. Alle Übergänge von JSON zum WMF-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der JSON-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von JSON- in WMF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Konvertieren von Dateiformaten von JSON in WMF ist eine komplexe Aufgabe. Alle Übergänge von JSON zum WMF-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-JSON-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von JSON- in WMF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von JSON in das WMF-Format" gistPath="" %}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  Converti TSV in SQL utilizzando C#
 description:  Utilizzando Aspose.Cells Cloud SDK per C# per convertire un file in formato TSV in un file in formato SQL.
+kwords: Excel, Convert TSV to SQL, REST, C#
+howto: How to convert TSV to SQL using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti TSV in SQL" h2="Libreria C# per convertire TSV in SQL" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Net. Questa è una soluzione professionale per convertire TSV in SQL e altri formati di documenti online utilizzando C#." urlsection="conversion/tsv-to-sql/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Converti TSV in SQL" h2="Libreria C# per convertire TSV in SQL" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Net. Questa è una soluzione professionale per convertire TSV in SQL e altri formati di documenti online utilizzando C#." urlsection="conversion/tsv-to-sql/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti TSV in SQL utilizzando Cells Cloud SDK per C#" >}}
+{{< blocks/products/cells/cells-cloud-section title="Converti TSV in SQL utilizzando Cells Cloud SDK per C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversione dei formati di file da TSV a SQL può essere un compito complesso. Il nostro SDK C# gestisce tutte le conversioni dal formato TSV a SQL preservando il contenuto strutturale e logico principale del foglio di calcolo TSV di origine. La nostra libreria C# fornisce una soluzione professionale per convertire file TSV in SQL online. Questo Cloud SDK offre agli sviluppatori C# funzionalità potenti e garantisce output SQL di alta qualità.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# Esempio di codice per convertire TSV in SQL utilizzando Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Esempio di codice per convertire TSV in SQL utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -32,22 +33,16 @@ La conversione dei formati di file da TSV a SQL può essere un compito complesso
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Net per convertire i file Excel in altri formati da TSV a SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come convertire TSV in SQL utilizzando la libreria Cloud Net Cells." >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
-<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Installa la libreria C# e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in C#</li>
 <li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>NET Framework 4.5.2 o successiva</li>
 <li>Net Standard 2.0 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

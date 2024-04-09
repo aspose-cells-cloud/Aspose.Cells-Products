@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в WMF API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата WMF.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата WMF.
 url: /ru/swift/conversion/csv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

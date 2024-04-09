@@ -1,6 +1,6 @@
 ﻿---
-title: Convertir JSON a JPG API para Swift
-description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato JSON a un archivo de formato JPG.
+title:  Convertir JSON a JPG API para Swift
+description: Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato JSON a un archivo de formato JPG.
 url: /es/swift/conversion/json-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

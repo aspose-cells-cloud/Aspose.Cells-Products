@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara MHTML som CSV med Java
-description: Använder Aspose.Cells Cloud SDK for Java för att spara MHTML-formatfil som CSV-formatfil.
+description:  Använder Aspose.Cells Cloud SDK for Java för att spara MHTML-formatfil som CSV-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Spara MHTML som CSV" h2="Java bibliotek för att spara MHTML som CSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara MHTML som CSV och andra dokumentformat online med Java." urlsection="saveas/mhtml-to-csv/" >}}

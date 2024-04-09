@@ -10,7 +10,7 @@ url: /ru/swift/conversion/ods-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл ODS в FODS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в FODS — сложная задача. Все переходы форматов ODS в FODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов ODS в файлы FODS. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный результат FODS.
+Преобразование форматов файлов из ODS в FODS — сложная задача. Все переходы форматов ODS в FODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов ODS в файлы FODS. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования ODS в формат FODS" gistPath="" %}}

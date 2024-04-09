@@ -1,5 +1,5 @@
 ﻿---
-title: Salva XLSB come CSV utilizzando C#
+title:  Salva XLSB come CSV utilizzando C#
 description:  Utilizzando Aspose.Cells Cloud SDK per C# per salvare il file in formato XLSB come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

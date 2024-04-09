@@ -10,7 +10,7 @@ url: /ru/swift/conversion/xml-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в CSV в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в CSV — сложная задача. Все переходы формата XML в CSV выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной XML-таблицы. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XML в CSV. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
+Преобразование форматов файлов из XML в CSV — сложная задача. Все переходы формата XML в CSV выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной XML-таблицы. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов XML в CSV. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XML в формат CSV" gistPath="" %}}

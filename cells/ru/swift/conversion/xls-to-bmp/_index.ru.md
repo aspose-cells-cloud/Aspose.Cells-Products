@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для Swift дл
 url: /ru/swift/conversion/xls-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в BMP" h2="Библиотека Swift для преобразования XLS в BMP" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации XLS в BMP и другие форматы документов с помощью Swift." urlsection="conversion/xls-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в BMP" h2="Библиотека Swift для преобразования XLS в BMP" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для конвертации XLS в BMP и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xls-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLS в BMP в Swift" >}}

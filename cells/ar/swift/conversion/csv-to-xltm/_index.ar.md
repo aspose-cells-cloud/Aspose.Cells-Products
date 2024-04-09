@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل CSV إلى XLTM API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق XLTM.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق XLTM.
 url: /ar/swift/conversion/csv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

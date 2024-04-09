@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till BMP Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till BMP filformat.
+description:  Använda Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till BMP filformat.
 url: /sv/swift/conversion/html-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Imposta uno sfondo per i file Excel utilizzando NodeJS
+title:  Imposta uno sfondo per i file Excel utilizzando NodeJS
 description:  Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per i file Excel utilizzando NodeJS e offre SDK per vari linguaggi di programmazione.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

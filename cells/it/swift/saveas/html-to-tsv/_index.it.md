@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come TSV API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato HTML come file in formato TSV.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato HTML come file in formato TSV.
 url: /it/swift/saveas/html-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

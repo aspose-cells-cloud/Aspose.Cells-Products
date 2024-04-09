@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSX كـ SXC باستخدام Android
-description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق SXC.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLSX باسم SXC" h2="مكتبة Android لحفظ XLSX كـ SXC" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ XLSX بتنسيق SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsx-to-sxc/" >}}

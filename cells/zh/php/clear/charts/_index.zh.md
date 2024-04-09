@@ -12,7 +12,7 @@ description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的图表的云
 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图表是一项复杂的任务。清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格转换上的图表由我们的 PHP SDK 执行，同时保留源电子表格的主要结构和逻辑内容。我们的 PHP 库是一个专业的解决方案，用于清除本地 Microsoft Excel 和 OpenOffice Calc 在线电子表格上的图表。此Cloud SDK为PHP开发者提供了强大的功能和完善的API。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP 清除本地电子表格上图表的代码" gistPath="https://gist.github.com/aspose-cells-cloud-gists/84283c8ba766ed815f47e6dfb0891152.js?file=Example-Clear-Chart.php" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP 清除本地电子表格上的图表的代码" gistPath="https://gist.github.com/aspose-cells-cloud-gists/84283c8ba766ed815f47e6dfb0891152.js?file=Example-Clear-Chart.php" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

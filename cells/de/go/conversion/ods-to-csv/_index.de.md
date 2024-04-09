@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie ODS mit Go in CSV
+title: Konvertieren Sie ODS mit Go in CSV
 description:  Verwendung des Cloud SDK Aspose.Cells für Go zum Konvertieren einer Datei im ODS-Format in eine Datei im CSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Salva TSV come CSV utilizzando Android
+title:  Salva TSV come CSV utilizzando Android
 description:  Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato TSV come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

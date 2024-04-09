@@ -1,18 +1,19 @@
 ﻿---
 title:  Конвертируйте XLSB в XLSM с помощью Java.
-description:  Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата XLSB в файл формата XLSM.
+description: Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата XLSB в файл формата XLSM.
+kwords: Excel, Convert XLSB to XLSM, REST, Java
+howto: How to convert XLSB to XLSM using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLSB в XLSM" h2="Java библиотека для конвертации XLSB в XLSM" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертирования XLSB в XLSM и другие форматы документов с помощью номера Java." urlsection="conversion/xlsb-to-xlsm/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать XLSB в XLSM" h2="Java библиотека для конвертации XLSB в XLSM" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертирования XLSB в XLSM и другие форматы документов с помощью номера Java." urlsection="conversion/xlsb-to-xlsm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте XLSB в XLSM с помощью Cloud SDK Cells for Java." >}}
+{{< blocks/products/cells/cells-cloud-section title="Преобразуйте XLSB в XLSM с помощью Cloud SDK Cells for Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XLSB в XLSM может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования форматов XLSB в XLSM, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертирования файлов XLSB в XLSM. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод XLSM.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для преобразования XLSB в XLSM с помощью Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Пример кода для преобразования XLSB в XLSM с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -43,22 +44,16 @@ description:  Использование Cloud SDK Aspose.Cells for Java для 
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для преобразования файлов Excel в другие форматы XLSB в XLSM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как преобразовать XLSB в XLSM с помощью библиотеки Cells Cloud Java." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку Java и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру Java.</li>
 <li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>Maven 2.2.0 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

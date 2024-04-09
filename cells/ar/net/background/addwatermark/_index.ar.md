@@ -1,9 +1,9 @@
 ﻿---
-title:  أضف علامة مائية للمصنف المحلي باستخدام C# في السحابة
+title: أضف علامة مائية للمصنف المحلي باستخدام C# في السحابة
 description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لإضافة علامة مائية لـ Microsoft Excel وOpenOffice Calc مع C#. إضافة علامة مائية لجداول البيانات المحلية بواسطة Cells Cloud API SDK لـ C#.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لإضافة العلامة المائية المحلية Microsoft Excel وجدول بيانات OpenOffice Calc" h2="مكتبة C# لإضافة علامة مائية محلية Microsoft Excel وجدول بيانات OpenOffice Calc" p="استخدم Cells REST Watermark API لإضافة علامة مائية لـ Microsoft Excel و OpenOffice CALC TRAPLOWWOWS في C#. هذا الحل المهني يضيف علامة مائية Microsoft Excel" urlsection="background/Add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لإضافة العلامة المائية المحلية Microsoft Excel وجدول بيانات OpenOffice Calc" h2="مكتبة C# لإضافة علامة مائية محلية Microsoft Excel وجدول بيانات OpenOffice Calc" p="استخدم Cells Watermark REST API لإضافة علامة مائية لـ Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في C#. يضيف هذا الحل الاحترافي علامة مائية لـ Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام C#." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="أضف علامة مائية محلية Microsoft Excel وجدول بيانات OpenOffice Calc - C# REST API" >}}

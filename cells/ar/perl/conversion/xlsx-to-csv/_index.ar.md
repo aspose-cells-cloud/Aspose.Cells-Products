@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XLSX إلى CSV باستخدام Perl
-description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق XLSX إلى ملف بتنسيق CSV.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق XLSX إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSX إلى CSV" h2="مكتبة Perl لتحويل XLSX إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل XLSX إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsx-to-csv/" >}}

@@ -29,7 +29,7 @@ Dosya formatlarını ODS'den CSV olarak kaydetmek karmaşık bir iştir. Tüm OD
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer ODS formatlarını CSV olarak kaydetmek için Perl için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Çağrı postası_çalışma kitabı_Ortaya çıkan akışı almak için save_as yöntemi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

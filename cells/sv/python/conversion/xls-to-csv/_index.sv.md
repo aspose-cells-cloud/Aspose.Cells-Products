@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera XLS till CSV med Python
-description: Använda Aspose.Cells Cloud SDK för Python för att konvertera en fil i XLS-format till en fil i CSV-format.
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera en fil i XLS-format till en fil i CSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLS till CSV" h2="Python bibliotek för att konvertera XLS till CSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python projekt. Detta är en professionell lösning för att konvertera XLS till CSV och andra dokumentformat online med Python." urlsection="conversion/xls-to-csv/" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLT в формате CSV с помощью Android
+title:  Сохраните XLT в формате CSV с помощью Android
 description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLT в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

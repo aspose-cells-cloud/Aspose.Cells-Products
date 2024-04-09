@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX كـ MD باستخدام Android
+title:  احفظ XLSX كـ MD باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

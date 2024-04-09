@@ -1,18 +1,19 @@
 ﻿---
 title:  Convierta XLTX a ODS usando NodeJS
 description:  Utilizar el SDK de la nube Aspose.Cells para NodeJS para convertir un archivo en formato XLTX a un archivo en formato ODS.
+kwords: Excel, Convert XLTX to ODS, REST, NodeJS
+howto: How to convert XLTX to ODS using Aspose.Cells Cloud NodeJS library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLTX a ODS" h2="Biblioteca NodeJS para convertir XLTX a ODS" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos NodeJS. Esta es una solución profesional para convertir XLTX a ODS y otros formatos de documentos en línea usando NodeJS." urlsection="conversion/xltx-to-ods/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir XLTX a ODS" h2="Biblioteca NodeJS para convertir XLTX a ODS" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos NodeJS. Esta es una solución profesional para convertir XLTX a ODS y otros formatos de documentos en línea usando NodeJS." urlsection="conversion/xltx-to-ods/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLTX a ODS usando Cells Cloud SDK para NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta XLTX a ODS usando Cells Cloud SDK para NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de XLTX a ODS puede ser una tarea compleja. Nuestro SDK de NodeJS maneja todas las conversiones de formato XLTX a ODS preservando al mismo tiempo el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca NodeJS proporciona una solución profesional para convertir archivos XLTX a ODS en línea. Este Cloud SDK brinda a los desarrolladores de NodeJS una potente funcionalidad y garantiza una salida ODS de alta calidad.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código NodeJS para convertir XLTX a ODS usando Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Ejemplo de código NodeJS para convertir XLTX a ODS usando Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -31,21 +32,15 @@ Convertir formatos de archivo de XLTX a ODS puede ser una tarea compleja. Nuestr
     });
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Node para convertir archivos Excel a otros formatos XLTX a ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir XLTX a ODS usando la biblioteca Cells Cloud NodeJS." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale la biblioteca NodeJS y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en JavaScript.</li>
 <li>Utilice el método `putConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>nodo v6.17.1 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

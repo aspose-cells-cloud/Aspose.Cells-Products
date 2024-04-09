@@ -9,7 +9,7 @@ description:  Utilizando Aspose.Cells Cloud SDK para Go para guardar el archivo 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XLSX como CSV en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLSX como CSV es una tarea compleja. Nuestro Go SDK realiza todas las transiciones de formato XLSX a CSV mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca Go es una solución profesional para guardar XLSX como archivos CSV en línea. Este Cloud SDK ofrece a los desarrolladores de Go una potente funcionalidad y una salida CSV perfecta.
+Guardar formatos de archivo de XLSX como CSV es una tarea compleja. Todas las transiciones de formato XLSX a CSV las realiza nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca Go es una solución profesional para guardar XLSX como archivos CSV en línea. Este Cloud SDK ofrece a los desarrolladores de Go una potente funcionalidad y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Go para guardar XLSX como CSV usando REST API" gistPath="" %}}

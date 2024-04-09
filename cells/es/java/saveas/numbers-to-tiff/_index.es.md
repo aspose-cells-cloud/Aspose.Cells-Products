@@ -1,18 +1,19 @@
 ﻿---
 title:  Guarde NÚMEROS como TIFF usando Java
-description: Utilizando Aspose.Cells Cloud SDK for Java para guardar el archivo en formato NÚMEROS como archivo en formato TIFF.
+description:  Utilizando Aspose.Cells Cloud SDK for Java para guardar el archivo en formato NÚMEROS como archivo en formato TIFF.
+kwords: Excel, Save NUMBERS as TIFF, REST, Java
+howto: How to save NUMBERS as TIFF using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar NÚMEROS como TIFF" h2="Biblioteca Java para guardar NÚMEROS como TIFF" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para guardar NÚMEROS como TIFF y otros formatos de documentos en línea usando Java." urlsection="saveas/numbers-to-tiff/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Guardar NÚMEROS como TIFF" h2="Biblioteca Java para guardar NÚMEROS como TIFF" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para guardar NÚMEROS como TIFF y otros formatos de documentos en línea usando Java." urlsection="saveas/numbers-to-tiff/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo de NÚMEROS como TIFF en Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="Guarde un archivo de NÚMEROS como TIFF en Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Guardar formatos de archivo de NÚMEROS como TIFF es una tarea compleja. Todas las transiciones de formato de NUMBERS a TIFF se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Java es una solución profesional para guardar NÚMEROS como archivos TIFF en línea. Este SDK de nube ofrece a los desarrolladores de Java una funcionalidad potente y un resultado de TIFF perfecto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Ejemplo de código para guardar NÚMEROS como TIFF usando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Ejemplo de código para guardar NÚMEROS como TIFF usando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -31,22 +32,16 @@ Guardar formatos de archivo de NÚMEROS como TIFF es una tarea compleja. Todas l
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Java para guardar archivos Excel en otros formatos NÚMEROS como TIFF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo guardar NÚMEROS como TIFF usando la biblioteca Cells Cloud Java." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale la biblioteca Java y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en Java.</li>
 <li>Utilice el método `postWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Maven 2.2.0 o más reciente</li>
 <li>Java(TM) SE entorno de ejecución</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

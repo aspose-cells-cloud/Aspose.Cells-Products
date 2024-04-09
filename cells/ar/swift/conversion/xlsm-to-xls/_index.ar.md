@@ -10,7 +10,7 @@ url: /ar/swift/conversion/xlsm-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف XLSM إلى XLS في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى XLS مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLSM إلى XLS بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSM إلى XLS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات XLS مثالية.
+يعد تحويل تنسيقات الملفات من XLSM إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى XLS بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSM إلى XLS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات XLS مثالية.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل تنسيق XLSM إلى تنسيق XLS" gistPath="" %}}

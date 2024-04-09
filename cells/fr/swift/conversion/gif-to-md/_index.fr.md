@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF en MD Convertir API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format GIF en fichier au format MD.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format GIF en fichier au format MD.
 url: /fr/swift/conversion/gif-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  Python'i kullanarak MHTML'yi HTML olarak kaydedin
 description:  MHTML formatındaki dosyayı HTML formatındaki dosya olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Save MHTML as HTML, REST, Python
+howto: How to save MHTML as HTML using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="MHTML\'yi HTML olarak kaydet" h2="MHTML\'yi HTML olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs Cells Cloud\'un API\'ini kullanın. Bu, Python\'i kullanarak MHTML\'yi HTML olarak ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/mhtml-to-html/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="MHTML\'yi HTML olarak kaydet" h2="MHTML\'yi HTML olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs Cells Cloud\'un API\'ini kullanın. Bu, Python\'i kullanarak MHTML\'yi HTML olarak ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/mhtml-to-html/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir MHTML dosyasını Python\'e HTML olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section title="Bir MHTML dosyasını Python\'e HTML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Dosya formatlarını MHTML'den HTML olarak kaydetmek karmaşık bir iştir. MHTML'den HTML'e tüm format geçişleri, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, MHTML'yi çevrimiçi olarak HTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel HTML çıktı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python MHTML\'yi REST API kullanarak HTML olarak kaydetmek için Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python MHTML\'yi REST API kullanarak HTML olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -26,22 +27,16 @@ Dosya formatlarını MHTML'den HTML olarak kaydetmek karmaşık bir iştir. MHTM
     saveResponse = cells_api.cells_save_as_post_document_save_as(name,save_options=saveOptions, newfilename=(folder +'/' + newfilename),folder=folder)
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda MHTML olarak HTML olarak kaydetmek için Python için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Python kitaplığını kullanarak MHTML\'yi HTML olarak nasıl kaydedeceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Python kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı Python'de açın.</li>
 <li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Python 2.7 veya daha yenisi</li>
 <li>Python 3.10 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

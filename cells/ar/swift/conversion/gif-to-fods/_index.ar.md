@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى FODS تحويل API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق FODS.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق FODS.
 url: /ar/swift/conversion/gif-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

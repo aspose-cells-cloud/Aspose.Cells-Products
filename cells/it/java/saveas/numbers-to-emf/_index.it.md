@@ -1,18 +1,19 @@
 ﻿---
 title:  Salva i NUMERI come EMF utilizzando Java
-description: Utilizzando Aspose.Cells Cloud SDK for Java per salvare il file in formato NUMERI come file in formato EMF.
+description:  Utilizzando Aspose.Cells Cloud SDK for Java per salvare il file in formato NUMERI come file in formato EMF.
+kwords: Excel, Save NUMBERS as EMF, REST, Java
+howto: How to save NUMBERS as EMF using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva i NUMERI come EMF" h2="Libreria Java per salvare i NUMERI come EMF" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Java. Questa è una soluzione professionale per salvare NUMERI come EMF e altri formati di documenti online utilizzando Java." urlsection="saveas/numbers-to-emf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Salva i NUMERI come EMF" h2="Libreria Java per salvare i NUMERI come EMF" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Java. Questa è una soluzione professionale per salvare NUMERI come EMF e altri formati di documenti online utilizzando Java." urlsection="saveas/numbers-to-emf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file NUMERI come EMF in Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="Salva un file NUMERI come EMF in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Salvare i formati di file da NUMBERS come EMF è un compito complesso. Tutte le transizioni di formato da NUMBERS a EMF vengono eseguite dal nostro SDK Java mantenendo il contenuto strutturale e logico principale del foglio di calcolo NUMBERS di origine. La nostra libreria Java è una soluzione professionale per salvare i NUMERI come file EMF online. Questo Cloud SDK offre agli sviluppatori Java funzionalità potenti e un output EMF perfetto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Codice Esempio per salvare NUMERI come EMF utilizzando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Codice Esempio per salvare NUMERI come EMF utilizzando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -31,22 +32,16 @@ Salvare i formati di file da NUMBERS come EMF è un compito complesso. Tutte le 
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Java per salvare i file Excel in altri formati NUMERI come EMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come salvare i NUMERI come EMF utilizzando la libreria Cells Cloud Java." >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
-<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Installa la libreria Java e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in Java.</li>
 <li>Utilizza il metodo `postWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>Maven 2.2.0 o successiva</li>
 <li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

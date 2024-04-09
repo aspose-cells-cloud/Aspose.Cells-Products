@@ -1,5 +1,5 @@
 ﻿---
-title:  Добавьте водяной знак в локальную книгу с помощью NodeJS в облаке
+title: Добавьте водяной знак в локальную книгу с помощью NodeJS в облаке
 description:  Облачные API и SDK для добавления водяных знаков для Microsoft Excel и OpenOffice Calc с NodeJS. Добавление водяного знака для локальных таблиц с помощью Cells Cloud API SDK для NodeJS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

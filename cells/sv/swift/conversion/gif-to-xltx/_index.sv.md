@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF till XLTX Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i GIF-format till fil i XLTX-format.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i GIF-format till fil i XLTX-format.
 url: /sv/swift/conversion/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

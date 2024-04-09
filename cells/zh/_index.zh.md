@@ -1,7 +1,7 @@
 ﻿---
-title: 电子表格处理解决方案（桌面和云 REST API）
-description: 本地和云 API 可无缝增强您的本机、Web 和云应用程序，以提供电子表格处理功能
-weight: 30
+title: 轻量级 Aspose.Cells 云和本地 API 用于 Excel 表处理
+description: Aspose.Cells Cloud 提供一系列采用各种编程语言的 SDK，简化了对 Aspose.Cells REST API 的访问，并通过其轻量级设计增强了性能。
+weight: 50
 url: /zh/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

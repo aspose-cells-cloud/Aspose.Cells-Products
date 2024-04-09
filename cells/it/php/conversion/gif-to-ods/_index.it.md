@@ -1,18 +1,19 @@
 ﻿---
 title:  Converti GIF in ODS utilizzando PHP
 description:  Utilizzando Aspose.Cells Cloud SDK per PHP per convertire un file in formato GIF in un file in formato ODS.
+kwords: Excel, Convert GIF to ODS, REST, PHP
+howto: How to convert GIF to ODS using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti GIF in ODS" h2="Libreria PHP per convertire GIF in ODS" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti PHP. Questa è una soluzione professionale per convertire GIF in ODS e altri formati di documenti online utilizzando PHP." urlsection="conversion/gif-to-ods/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Converti GIF in ODS" h2="Libreria PHP per convertire GIF in ODS" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti PHP. Questa è una soluzione professionale per convertire GIF in ODS e altri formati di documenti online utilizzando PHP." urlsection="conversion/gif-to-ods/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti GIF in ODS utilizzando Cells Cloud SDK per PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="Converti GIF in ODS utilizzando Cells Cloud SDK per PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversione dei formati di file da GIF a ODS può essere un compito complesso. Il nostro SDK PHP gestisce tutte le conversioni dal formato GIF al formato ODS preservando il contenuto strutturale e logico principale del foglio di calcolo GIF di origine. La nostra libreria PHP fornisce una soluzione professionale per convertire file GIF in ODS online. Questo Cloud SDK offre agli sviluppatori PHP potenti funzionalità e garantisce output ODS di alta qualità.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Esempio di codice per convertire GIF in ODS utilizzando Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Esempio di codice per convertire GIF in ODS utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,15 @@ La conversione dei formati di file da GIF a ODS può essere un compito complesso
     fclose($file);
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per PHP per convertire i file Excel in altri formati GIF in ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come convertire GIF in ODS utilizzando la libreria Cells Cloud PHP." >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
-<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Installa la libreria PHP e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in PHP.</li>
 <li>Utilizza il metodo `putConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>PHP 7.4 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

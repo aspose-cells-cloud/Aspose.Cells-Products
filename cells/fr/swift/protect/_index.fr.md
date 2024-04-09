@@ -1,6 +1,6 @@
 ﻿---
 title:  Protéger avec Swift
-description:  Aspose.Cells Cloud REST API prend en charge les classeurs de décryptage, de chiffrement et de signature numérique à l'aide de Swift. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+description: Aspose.Cells Cloud REST API prend en charge les classeurs de décryptage, de chiffrement et de signature numérique à l'aide de Swift. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

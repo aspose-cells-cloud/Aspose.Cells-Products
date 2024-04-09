@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV بتنسيق DOCX API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق DOCX.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق DOCX.
 url: /ar/swift/saveas/csv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

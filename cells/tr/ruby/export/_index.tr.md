@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby kullanarak Excel nesneyi dışa aktarın
-description: Aspose.Cells Cloud REST API, çalışma kitabının ve dahili nesnelerin Ruby kullanılarak her türlü formatta dışa aktarılmasını destekler. SDK geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
+description:  Aspose.Cells Cloud REST API, çalışma kitabının ve dahili nesnelerin Ruby kullanılarak her türlü formatta dışa aktarılmasını destekler. SDK geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby kullanarak Excel nesneyi dışa aktarın" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının ve dahili nesnelerin 30\'dan fazla dosya formatına aktarılmasını destekler." p="Aspose.Cells Cloud REST API, çalışma kitabının ve dahili nesnelerin Ruby kullanılarak her türlü formatta dışa aktarılmasını destekler. SDK geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur." urlsection="export/" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Bulutta Swift ile yerel e-tabloyu parolayla şifreleyin
-description: Swift ile Microsoft Excel ve OpenOffice Calc'ı Korumak için Bulut API'leri ve SDK'lar. Swift için Cells Cloud API SDK ile yerel e-tabloları parolayla şifreleyin.
+description:  Swift ile Microsoft Excel ve OpenOffice Calc'ı Korumak için Bulut API'leri ve SDK'lar. Swift için Cells Cloud API SDK ile yerel e-tabloları parolayla şifreleyin.
 url: /tr/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -19,7 +19,7 @@ Yerel bir elektronik tabloyu parolayla korumak karmaşık bir iştir. Yerel bir 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Şifrelemek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postProtect yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

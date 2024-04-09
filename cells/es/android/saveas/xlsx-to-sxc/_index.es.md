@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLSX como SXC usando Android
-description: Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo en formato XLSX como archivo en formato SXC.
+description:  Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo en formato XLSX como archivo en formato SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XLSX como SXC" h2="Biblioteca de Android para guardar XLSX como SXC" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Android. Esta es una solución profesional para guardar XLSX como SXC y otros formatos de documentos en línea usando Android." urlsection="saveas/xlsx-to-sxc/" >}}
@@ -9,7 +9,7 @@ description: Utilizando Aspose.Cells Cloud SDK para Android para guardar el arch
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XLSX como SXC en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLSX como SXC es una tarea compleja. Todas las transiciones de formato XLSX a SXC las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca de Android es una solución profesional para guardar XLSX como archivos SXC en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida SXC perfecta.
+Guardar formatos de archivo de XLSX como SXC es una tarea compleja. Todas las transiciones de formato XLSX a SXC se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca de Android es una solución profesional para guardar XLSX como archivos SXC en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida SXC perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código de Android para guardar XLSX como SXC usando REST API" gistPath="" %}}

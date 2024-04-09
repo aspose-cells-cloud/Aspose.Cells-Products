@@ -1,47 +1,48 @@
 ﻿---
-title:  Convertir FODS en XML via .NET
-description: Créez, modifiez ou convertissez des fichiers Excel avec le SDK Cloud API et Open Source .NET
-url: /fr/net/conversion/fods-to-xml/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: XML
-platform: .NET
-otherformats: MD TIFF XLSM XLSB DIF XLT XLTX TSV XLSX TXT FODS XML HTML XLTM CSV PDF 
+title:  Convertir FODS en XML à l'aide de C#
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir un fichier au format FODS en fichier au format XML.
+kwords: Excel, Convert FODS to XML, REST, C#
+howto: How to convert FODS to XML using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir FODS en XML dans le cloud" h2="Excel et conversion de feuilles de calcul OpenOffice avec le SDK Cloud open source for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS en XML" h2="Bibliothèque C# pour convertir FODS en XML" p="Utilisez la conversion API du Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans les projets Net. Il s\'agit d\'une solution professionnelle pour convertir FODS en XML et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="conversion/fods-to-xml/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion FODS en XML dans les applications .NET" %}}
-1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
-1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
-1. Téléchargez le fichier FODS sur Cloud Storage par défaut avec la méthode ```CellsApi.Upload```
-1. Appelez la méthode ```CellsApi.CellsSaveAsPostDocumentSaveAs``` pour obtenir le fichier XML résultant
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convertissez FODS en XML à l\'aide du SDK Cloud Cells pour C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+La conversion des formats de fichiers FODS en XML peut être une tâche complexe. Notre SDK C# gère toutes les conversions du format FODS vers XML tout en préservant le contenu structurel et logique principal de la feuille de calcul FODS source. Notre bibliothèque C# fournit une solution professionnelle pour convertir en ligne des fichiers FODS en fichiers XML. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et garantit une sortie XML de haute qualité.
 
-{{% blocks/products/pf/agp/feature-section-col title="Commencez avec Excel REST API" %}}
- Obtenez le code source du SDK Cloud Excel for .NET à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) pour compiler le SDK vous-même ou rendez-vous sur[Sorties](https://releases.aspose.cloud/) pour des options de téléchargement alternatives.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Jetez également un œil à Swagger-based[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur le[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET Code pour la conversion FODS en XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Exemple de code pour convertir FODS en XML à l\'aide du SDK Cloud Cells" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "xml";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.xml", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "xml";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.xml";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment convertir FODS en XML à l\'aide de la bibliothèque Cloud Net Cells." >}}
+<li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
+<li>Installez la bibliothèque C# et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source dans C#</li>
+<li>Utilisez la méthode `PutConvertWorkbook` pour récupérer le flux résultant.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
+<li>NET Framework 4.5.2 ou version ultérieure</li>
+<li>Net Standard 2.0 ou version ultérieure</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -1,47 +1,48 @@
 ﻿---
-title:  Конвертировать FODS в MD via .NET
-description: Создавайте, редактируйте или конвертируйте файлы Excel с помощью Cloud API и SDK с открытым исходным кодом .NET.
-url: /ru/net/conversion/fods-to-md/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: MD
-platform: .NET
-otherformats: CSV ODS XML XLTX TIFF DIF TXT XLSM XLTM MD HTML PDF XPS FODS MHTML SVG 
+title:  Преобразуйте FODS в MD, используя C#
+description:  Использование Cloud SDK Aspose.Cells для C# для преобразования файла формата FODS в файл формата MD.
+kwords: Excel, Convert FODS to MD, REST, C#
+howto: How to convert FODS to MD using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование FODS в MD в облаке" h2="Excel и преобразование электронных таблиц OpenOffice с помощью Cloud SDK с открытым исходным кодом for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать FODS в MD" h2="C# библиотека для конвертации ФОДС в МД" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Net. Это профессиональное решение для онлайн-конвертирования FODS в MD и другие форматы документов с помощью номера C#." urlsection="conversion/fods-to-md/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Преобразование FODS в MD в приложениях .NET" %}}
-1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API
-1. Инициализируйте ```CellsApi```, используя идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.
-1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.Upload```.
-1. Вызовите метод ```CellsApi.CellsSaveAsPostDocumentSaveAs```, чтобы получить результирующий файл MD.
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Преобразование FODS в MD с помощью Cells Cloud SDK для C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Преобразование форматов файлов из FODS в MD может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования формата FODS в формат MD, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы FODS. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертирования FODS в файлы MD. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод MD.
 
-{{% blocks/products/pf/agp/feature-section-col title="Начните с Excel REST API" %}}
- Получите исходный код Excel Cloud SDK for .NET с сайта[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET Код для преобразования FODS в MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Пример кода для преобразования FODS в MD с помощью Cells Cloud SDK" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "md";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.md", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "md";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.md";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как преобразовать FODS в MD, используя библиотеку Cloud Net Cells." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Установите библиотеку C# и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру C#.</li>
+<li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
+<li>NET Framework 4.5.2 или новее</li>
+<li>Net Standard 2.0 или новее</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

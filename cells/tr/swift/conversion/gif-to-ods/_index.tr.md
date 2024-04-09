@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için GIF'i ODS'ye Dönüştür API
-description: GIF formatındaki dosyayı ODS formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
+description:  GIF formatındaki dosyayı ODS formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/conversion/gif-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -66,7 +66,7 @@ Dosya formatlarını GIF'ten ODS'ye dönüştürmek karmaşık bir iştir. GIF't
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="GIF\'i ODS\'ye dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -23,7 +23,7 @@ otherformats: XML XLT XPS XLTM DIF XLSB TSV ODS SVG PDF XLSX MHTML XLSM TIFF MD 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Начните с Excel API и Ruby SDK" %}}
-Получите исходный код Cloud SDK для Ruby Excel на сайте[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
+ Получите исходный код Cloud SDK для Ruby Excel на сайте[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
 
  Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

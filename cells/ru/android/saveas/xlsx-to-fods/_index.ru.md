@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSX как FODS с помощью Android
+title:  Сохраните XLSX как FODS с помощью Android
 description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX как файла формата FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

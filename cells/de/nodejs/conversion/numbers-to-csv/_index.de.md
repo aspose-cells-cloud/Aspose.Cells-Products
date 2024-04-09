@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie NUMBERS mit NodeJS in CSV
-description:  Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im CSV-Format.
+description: Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im CSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie NUMBERS in CSV" h2="NodeJS-Bibliothek zum Konvertieren von NUMBERS in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS-Projekten zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS online mit NodeJS in CSV und andere Dokumentformate zu konvertieren." urlsection="conversion/numbers-to-csv/" >}}

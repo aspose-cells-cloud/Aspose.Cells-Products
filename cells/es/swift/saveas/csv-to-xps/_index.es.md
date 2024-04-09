@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde CSV como XPS API para Swift
-description: Uso de Aspose.Cells Cloud SDK para Swift para guardar el archivo en formato CSV como archivo en formato XPS.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para guardar el archivo en formato CSV como archivo en formato XPS.
 url: /es/swift/saveas/csv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

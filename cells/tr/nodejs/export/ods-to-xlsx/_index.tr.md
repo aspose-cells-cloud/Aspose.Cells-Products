@@ -9,7 +9,7 @@ url: /tr/nodejs/export/ods-to-xlsx/
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=" NodeJS için Cloud SDK\'da ODS\'yi XLSX dosyasına aktarın" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını
 1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
 1. Ortaya çıkan XLSX akışını almak için ```cellsWorkbookPutConvertWorkbook``` yöntemini çağırın
 {{% /blocks/products/pf/agp/feature-section-col %}}

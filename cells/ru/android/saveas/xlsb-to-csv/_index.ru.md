@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSB как CSV с помощью Android
+title:  Сохраните XLSB как CSV с помощью Android
 description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSB в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

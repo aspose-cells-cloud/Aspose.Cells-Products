@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSX как HTML с помощью Android.
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX как файла формата HTML.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX как файла формата HTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSX как HTML." h2="Библиотека Android для сохранения XLSX как HTML" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения XLSX как HTML и других форматов документов онлайн с помощью Android." urlsection="saveas/xlsx-to-html/" >}}

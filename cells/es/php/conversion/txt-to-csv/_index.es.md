@@ -1,6 +1,6 @@
 ﻿---
 title:  Convierta TXT a CSV usando PHP
-description: Utilizar el SDK de la nube Aspose.Cells para PHP para convertir un archivo de formato TXT a un archivo de formato CSV.
+description:  Utilizar el SDK de la nube Aspose.Cells para PHP para convertir un archivo de formato TXT a un archivo de formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir TXT a CSV" h2="Biblioteca PHP para convertir TXT a CSV" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en PHP proyectos. Esta es una solución profesional para convertir TXT a CSV y otros formatos de documentos en línea usando PHP." urlsection="conversion/txt-to-csv/" >}}

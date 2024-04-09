@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV till XLTM Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i CSV-format till fil i XLTM-format.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i CSV-format till fil i XLTM-format.
 url: /sv/swift/conversion/csv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

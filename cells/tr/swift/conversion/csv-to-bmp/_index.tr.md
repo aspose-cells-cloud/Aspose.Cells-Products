@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV'yi BMP'e dönüştürün Swift için API'i dönüştürün
-description: CSV formatındaki dosyayı BMP formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
+description:  CSV formatındaki dosyayı BMP formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/conversion/csv-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -66,7 +66,7 @@ Dosya formatlarını CSV'den BMP'e dönüştürmek karmaşık bir iştir. Tüm C
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="CSV\'yi BMP\'e dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

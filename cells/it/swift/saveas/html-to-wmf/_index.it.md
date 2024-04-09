@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come WMF API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato HTML come file in formato WMF.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato HTML come file in formato WMF.
 url: /it/swift/saveas/html-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

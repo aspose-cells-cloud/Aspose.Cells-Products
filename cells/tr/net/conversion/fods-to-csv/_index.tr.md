@@ -16,7 +16,7 @@ otherformats: TXT XML DIF PDF ODS XLT XLTM SVG XLSM XLSB HTML MHTML CSV MD TSV X
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET Uygulamalarında FODS\'den CSV\'ye Dönüşüm" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını
 1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
 1. FODS dosyasını ```CellsApi.Upload``` yöntemiyle varsayılan Cloud Storage'a yükleyin
 1. Ortaya çıkan CSV dosyasını almak için ```CellsApi.CellsSaveAsPostDocumentSaveAs``` yöntemini çağırın
@@ -28,7 +28,7 @@ otherformats: TXT XML DIF PDF ODS XLT XLTM SVG XLSM XLSB HTML MHTML CSV MD TSV X
  Ayrıca Swagger tabanlıya da bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# .NET FODS\'yi CSV\'ye Dönüştürme Kodu" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# .NET FODS\'den CSV\'ye Dönüştürme Kodu" gistPath="" %}}
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
 CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);

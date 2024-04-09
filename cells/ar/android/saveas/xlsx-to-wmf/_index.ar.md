@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSX بتنسيق WMF باستخدام Android
-description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق WMF.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق WMF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLSX بصيغة WMF" h2="مكتبة Android لحفظ XLSX بصيغة WMF" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ XLSX بتنسيق WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsx-to-wmf/" >}}

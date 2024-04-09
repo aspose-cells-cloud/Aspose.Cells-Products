@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLTX som CSV med PHP
+title:  Spara XLTX som CSV med PHP
 description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLTX-formatfil som CSV-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -9,7 +9,7 @@ description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLTX-form
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLTX-fil som CSV i PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX till CSV-formatövergångar utförs av vår PHP SDK samtidigt som källkodens XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att spara XLTX som CSV-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX till CSV-formatövergångar utförs av vår PHP SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt PHP-bibliotek är en professionell lösning för att spara XLTX som CSV-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PHP Kod Exempel för att spara XLTX som CSV med REST API" gistPath="" %}}

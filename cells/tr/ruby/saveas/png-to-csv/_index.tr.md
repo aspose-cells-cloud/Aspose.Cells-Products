@@ -3,7 +3,7 @@ title:  Ruby kullanarak PNG'i CSV olarak kaydedin
 description:  PNG formatındaki dosyayı CSV formatındaki dosya olarak kaydetmek için Ruby için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i CSV olarak kaydet" h2="PNG\'i CSV olarak kaydetmek için Ruby kütüphanesi" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için SaveAs API of Cells Cloud\'u kullanın. Bu, Ruby kullanarak PNG\'i CSV olarak ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/png-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i CSV olarak kaydet" h2="PNG\'i CSV olarak kaydetmek için Ruby kütüphanesi" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için SaveAs API of Cells Cloud\'u kullanın. Bu, Ruby kullanarak PNG\'i CSV ve diğer belge formatları olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/png-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="PNG dosyasını Ruby\'de CSV olarak kaydedin" >}}
@@ -33,7 +33,7 @@ PNG'den dosya formatlarını CSV olarak kaydetmek karmaşık bir iştir. PNG'den
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda PNG CSV olarak kaydetmek için Ruby için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

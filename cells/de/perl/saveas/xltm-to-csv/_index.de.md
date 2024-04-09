@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLTM als CSV mit Perl
+title:  Speichern Sie XLTM als CSV mit Perl
 description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern der XLTM-Formatdatei als CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

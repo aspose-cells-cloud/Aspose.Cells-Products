@@ -1,5 +1,5 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT aus der Tabelle mit Swift API nach ODS
+title: Exportieren Sie LISTOBJECT aus der Tabelle mit Swift API nach ODS
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/listobject-to-ods/
 ---

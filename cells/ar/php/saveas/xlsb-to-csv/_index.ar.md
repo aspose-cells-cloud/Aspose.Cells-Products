@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSB كملف CSV باستخدام PHP
+title:  احفظ XLSB كملف CSV باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XLSB كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

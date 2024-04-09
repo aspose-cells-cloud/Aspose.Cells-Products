@@ -16,7 +16,7 @@ otherformats: XLSB ODS MD TIFF TSV MHTML XLSX XLTX XLSM DIF XML CSV XPS XLTM SVG
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Android Uygulamalarında FODS\'den CSV\'ye Dönüşüm" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını
 1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
 1. FODS dosyasını ```CellsApiUtil.Upload``` yöntemiyle varsayılan Cloud Storage'a yükleyin
 1. Ortaya çıkan CSV dosyasını almak için ```CellsApi.cellsWorkbookGetWorkbook```'i arayın

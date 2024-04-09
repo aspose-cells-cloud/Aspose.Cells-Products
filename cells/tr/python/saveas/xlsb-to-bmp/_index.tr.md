@@ -1,18 +1,19 @@
 ﻿---
 title:  Python'i kullanarak XLSB'yi BMP olarak kaydedin
 description:  XLSB formatındaki dosyayı BMP formatındaki dosya olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Save XLSB as BMP, REST, Python
+howto: How to save XLSB as BMP using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSB\'yi BMP olarak kaydedin" h2="XLSB\'yi BMP olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs Cells Cloud\'un API\'ini kullanın. Bu, Python\'i kullanarak XLSB\'yi BMP ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xlsb-to-bmp/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLSB\'yi BMP olarak kaydedin" h2="XLSB\'yi BMP olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs Cells Cloud\'un API\'ini kullanın. Bu, Python\'i kullanarak XLSB\'yi BMP ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xlsb-to-bmp/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSB dosyasını Python\'e BMP olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section title="Bir XLSB dosyasını Python\'e BMP olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Dosya formatlarını XLSB'den BMP olarak kaydetmek karmaşık bir iştir. XLSB'den BMP'e tüm format geçişleri, kaynak XLSB elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, XLSB'yi çevrimiçi olarak BMP dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel BMP çıktı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python XLSB\'yi REST API kullanarak BMP olarak kaydetmek için Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python XLSB\'yi REST API kullanarak BMP olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -26,22 +27,16 @@ Dosya formatlarını XLSB'den BMP olarak kaydetmek karmaşık bir iştir. XLSB'd
     saveResponse = cells_api.cells_save_as_post_document_save_as(name,save_options=saveOptions, newfilename=(folder +'/' + newfilename),folder=folder)
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer XLSB formatlarında BMP olarak kaydetmek için Python için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Python kitaplığını kullanarak XLSB\'yi BMP olarak nasıl kaydedeceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Python kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı Python'de açın.</li>
 <li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Python 2.7 veya daha yenisi</li>
 <li>Python 3.10 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

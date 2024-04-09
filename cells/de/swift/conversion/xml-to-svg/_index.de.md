@@ -13,7 +13,7 @@ url: /de/swift/conversion/xml-to-svg/
 Das Konvertieren von Dateiformaten von XML nach SVG ist eine komplexe Aufgabe. Alle XML-Formatübergänge in das SVG-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML in SVG-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte SVG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XML in das SVG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XML in das Format SVG" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

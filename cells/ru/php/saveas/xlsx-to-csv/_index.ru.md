@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSX как CSV, используя PHP.
+title:  Сохраните XLSX как CSV, используя PHP.
 description:  Использование Cloud SDK Aspose.Cells для PHP для сохранения файла формата XLSX в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva CSV come PDF API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato CSV come file in formato PDF.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato CSV come file in formato PDF.
 url: /it/swift/saveas/csv-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

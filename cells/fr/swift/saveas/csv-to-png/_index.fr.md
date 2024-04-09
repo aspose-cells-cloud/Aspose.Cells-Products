@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer le CSV sous PNG API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format PNG.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format PNG.
 url: /fr/swift/saveas/csv-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

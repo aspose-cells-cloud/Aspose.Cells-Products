@@ -1,5 +1,5 @@
 ﻿---
-title: Enregistrez XLSX au format CSV en utilisant C#
+title:  Enregistrez XLSX au format CSV en utilisant C#
 description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XLSX au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

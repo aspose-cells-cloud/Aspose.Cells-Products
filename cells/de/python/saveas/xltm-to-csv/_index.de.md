@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLTM als CSV mit Python
+title:  Speichern Sie XLTM als CSV mit Python
 description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern der XLTM-Formatdatei als CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

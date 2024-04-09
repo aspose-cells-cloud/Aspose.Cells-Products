@@ -1,18 +1,19 @@
 ﻿---
 title:  Spara XLS som GIF med Python
 description:  Använder Aspose.Cells Cloud SDK för Python för att spara XLS-formatfil som GIF-formatfil.
+kwords: Excel, Save XLS as GIF, REST, Python
+howto: How to save XLS as GIF using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLS som GIF" h2="Python bibliotek för att spara XLS som GIF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att spara XLS som GIF och andra dokumentformat online med Python." urlsection="saveas/xls-to-gif/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara XLS som GIF" h2="Python bibliotek för att spara XLS som GIF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Python. Detta är en professionell lösning för att spara XLS som GIF och andra dokumentformat online med Python." urlsection="saveas/xls-to-gif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLS-fil som GIF i Python" >}}
+{{< blocks/products/cells/cells-cloud-section title="Spara en XLS-fil som GIF i Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Att spara filformat från XLS som GIF är en komplex uppgift. Alla XLS- till GIF-formatövergångar utförs av vår Python SDK med bibehållen käll-XLS-kalkylblads huvudsakliga strukturella och logiska innehåll. Vårt Python-bibliotek är en professionell lösning för att spara XLS som GIF-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att spara XLS som GIF med REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Kod Exempel för att spara XLS som GIF med REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -26,22 +27,16 @@ Att spara filformat från XLS som GIF är en komplex uppgift. Alla XLS- till GIF
     saveResponse = cells_api.cells_save_as_post_document_save_as(name,save_options=saveOptions, newfilename=(folder +'/' + newfilename),folder=folder)
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Python för att spara Excel filer som andra format XLS som GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du sparar XLS som GIF med hjälp av Cells Cloud Python-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera Python-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i Python.</li>
 <li>Använd metoden `post_workbook_save_as` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>Python 2.7 eller nyare</li>
 <li>Python 3.10 eller nyare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

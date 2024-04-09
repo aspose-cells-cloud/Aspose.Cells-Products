@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV بتنسيق GIF API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق GIF.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق GIF.
 url: /ar/swift/saveas/csv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

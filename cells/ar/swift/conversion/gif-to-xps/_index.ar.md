@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى XPS تحويل API إلى Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق XPS.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق XPS.
 url: /ar/swift/conversion/gif-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

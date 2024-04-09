@@ -3,7 +3,7 @@ title:  Очистить объекты в Excel
 description:  Aspose.Cells Cloud REST API поддерживает очистку внутренних объектов в файле Excel и предоставляет SDK для различных языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Очистить объекты в Excel" h2="Aspose.Cells Cloud SDK поддерживает очистку содержимого, стиля, диаграмм, таблиц, фона и т. д. в файлах Excel." p="Aspose.Cells Cloud Rest API поддерживает очистку внутренних объектов в файле Excel и предоставляет SDK для различных языков программирования, включая Android, C#, GO, Java, Nodejs, Perl, PHP, 07673417, Perl, PHP, 0767348." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Очистить объекты в Excel" h2="Aspose.Cells Cloud SDK поддерживает очистку содержимого, стиля, диаграмм, таблиц, фона и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает очистку внутренних объектов в файле Excel и предоставляет SDK для различных языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Konvertierung
-description:  Aspose.Cells Cloud REST API unterstützt die Konvertierung von Excel-Dateien in verschiedene Arten von Formatdateien. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
-url: /de/conversion/      
+title: Konvertierung
+description: Aspose.Cells Cloud REST API unterstützt die Konvertierung von Excel-Dateien in verschiedene Arten von Formatdateien. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+url: /de/conversion/
 ---
-{{< blocks/products/pf/main-wrap-class >}}  
-{{< blocks/products/cells/i18n/upper-banner h1="Konvertierung" h2="Aspose.Cells Cloud SDK unterstützt die Konvertierung von Dateiformaten. Das unterstützte Dateiformat umfasst mehr als 30 Dateiformate." uploadmsg="Choose file or drop file" options="HTML,jpg,XML" logoImageSrc="/cells/app-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}   
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/i18n/upper-banner h1="Konvertierung" h2="Aspose.Cells Cloud SDK unterstützt die Konvertierung von Dateiformaten. Das unterstützte Dateiformat umfasst mehr als 30 Dateiformate." uploadmsg="Choose file or drop file" options="HTML,jpg,XML" logoImageSrc="/cells/app-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -12,18 +12,18 @@ url: /de/conversion/
 <!-- {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook  apimethod=PUT  apiname="Conversion" %}}  -->
 
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT" apiurl="https://api.aspose.cloud/v3.0/cells/convert" %}}
-   
-{{< /blocks/products/pf/agp/feature-section >}}  
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Convert" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" >}}  
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/cells/cells-cloud-upload >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="Convert" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" >}}
+
+{{< blocks/products/cells/cells-cloud-upload >}}
 {{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="format" >}}
-{{< blocks/products/cells/cells-cloud-parameters itName="streamformat" required="true" prompt="stream Format" >}}
-                           
-{{% blocks/products/cells/cells-cloud-showcode %}}  
+{{< blocks/products/cells/cells-cloud-parameters itName="streamFormat" required="true" prompt="stream Format" >}}
 
-                     
+{{% blocks/products/cells/cells-cloud-showcode %}}
+
+
 ```cs
 
 	using Aspose.Cells.Cloud.SDK.Api;
@@ -40,11 +40,11 @@ url: /de/conversion/
 	request.format = "xps";
 	request.streamFormat = "html";
 	Stream stream = cellsApi.PutConvertWorkbook(request);
-	fileStream.Close();    
-	      
-``` 
-{{% /blocks/products/cells/cells-cloud-showcode %}}      
- {{< /blocks/products/cells/cells-cloud-api-template >}}  
+	fileStream.Close();
+
+```
+{{% /blocks/products/cells/cells-cloud-showcode %}}
+ {{< /blocks/products/cells/cells-cloud-api-template >}}
 <!-- </div> -->
 	{{< blocks/products/cells/product-card-row title="Unterstützte Dateiformate" >}}
 	<div class="diagram1 d2  d1-cloud">
@@ -73,7 +73,7 @@ url: /de/conversion/
 	</div>
 	{{< /blocks/products/cells/product-card-row >}}
 {{< blocks/products/cells/product-card-row title="Beliebte Operationen" >}}
-    
+
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Konvertierung von Xlsx in PDF" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Konvertierung von Xlsx in Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-json/" >}}
@@ -86,7 +86,7 @@ url: /de/conversion/
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="Konvertierung von Xlsx in Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-csv/" >}}
 {{< /blocks/products/cells/product-card-row >}}
- 
+
 {{< blocks/products/cells/product-card-row title="Unterstützte Entwicklungssprachen" >}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Android" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
 

@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для Swift дл
 url: /ru/swift/conversion/xls-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в XML" h2="Библиотека Swift для преобразования XLS в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации XLS в XML и другие форматы документов с помощью Swift." urlsection="conversion/xls-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в XML" h2="Библиотека Swift для преобразования XLS в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования XLS в XML и другие форматы документов с помощью Swift." urlsection="conversion/xls-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в XML в Swift" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Aggiungi filigrana per la cartella di lavoro locale con Perl nel Cloud
+title: Aggiungi filigrana per la cartella di lavoro locale con Perl nel Cloud
 description:  API e SDK cloud per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con Perl. Aggiunta di filigrana per fogli di calcolo locali tramite l'SDK Cloud API Perl per Perl.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

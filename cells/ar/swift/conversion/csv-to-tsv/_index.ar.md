@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل CSV إلى TSV API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق TSV.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق TSV.
 url: /ar/swift/conversion/csv-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

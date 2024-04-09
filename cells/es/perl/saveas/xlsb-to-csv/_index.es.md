@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde XLSB como CSV usando Perl
+title:  Guarde XLSB como CSV usando Perl
 description:  Utilizando Aspose.Cells Cloud SDK para Perl para guardar el archivo en formato XLSB como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

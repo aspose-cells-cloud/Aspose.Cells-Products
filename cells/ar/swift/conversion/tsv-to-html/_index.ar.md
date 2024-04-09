@@ -10,7 +10,7 @@ url: /ar/swift/conversion/tsv-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى HTML في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TSV إلى HTML مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من TSV إلى HTML بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى ملفات HTML عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج HTML مثاليًا.
+يعد تحويل تنسيقات الملفات من TSV إلى HTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى HTML بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى ملفات HTML عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج HTML مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لتحويل TSV إلى تنسيق HTML" gistPath="" %}}

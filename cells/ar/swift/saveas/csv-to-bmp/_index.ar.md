@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV كـ BMP API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق BMP.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق BMP.
 url: /ar/swift/saveas/csv-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  HTML إلى XLSM تحويل API إلى Swift
+title: HTML إلى XLSM تحويل API إلى Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق HTML إلى ملف بتنسيق XLSM.
 url: /ar/swift/conversion/html-to-xlsm/
 ---

@@ -9,7 +9,7 @@ description:  Использование Aspose.Cells Cloud SDK для Go для
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS в формате CSV в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в формате CSV — сложная задача. Все переходы формата NUMBERS в формат CSV выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Go — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов CSV в Интернете. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод CSV.
+Сохранение форматов файлов из NUMBERS в формате CSV — сложная задача. Все переходы формата NUMBERS в формат CSV выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Go — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов CSV онлайн. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения ЧИСЕЛ в формате CSV с использованием REST API" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva CSV come FODS API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato CSV come file in formato FODS.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato CSV come file in formato FODS.
 url: /it/swift/saveas/csv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

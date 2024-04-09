@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift kullanarak koruyun
-description:  Aspose.Cells Cloud REST API, Swift kullanılarak şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler. SDK geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
+description: Aspose.Cells Cloud REST API, Swift kullanılarak şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler. SDK geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 url: /tr/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

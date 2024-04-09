@@ -88,7 +88,7 @@ url: /tr/cpp
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
-ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'lerini destekleyen herhangi bir platformda CPP için Aspose.Cells Cloud SDK'yı kullanmaya hazırsınız. Aspose.Cells Ruby için Cloud SDK, e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
+ ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'lerini destekleyen herhangi bir platformda CPP için Aspose.Cells Cloud SDK'yı kullanmaya hazırsınız. Aspose.Cells Ruby için Cloud SDK, e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
@@ -96,12 +96,12 @@ ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anah
  Microsoft Excel veya OpenOffice Calc elektronik tablosunu format dosyası türlerine dönüştürün.
     </h2>
     <p>
- CPP için Aspose.Cells Bulut SDK'sı, Excel çalışma kitabını CPP dilini kullanarak programlı bir şekilde format dosyası türlerine dönüştürmek için işlevsellik içerir. Microsoft Excel veya OpenOffice Calc elektronik tablo dönüşümü karmaşık bir işlemdir. Pek çok faktör karmaşıklığa katkıda bulunur ve bu nedenle dönüşüm süreci sırasında dikkate alınmalıdır. Excel dosyalarını bir formattan diğerine hassas profesyonel kalitede dönüştürme yeteneği, Aspose.Cells Cloud'un en önemli özelliğidir.
+CPP için Aspose.Cells Bulut SDK'sı, Excel çalışma kitabını CPP dilini kullanarak programlı bir şekilde format dosyası türlerine dönüştürmek için işlevsellik içerir. Microsoft Excel veya OpenOffice Calc elektronik tablo dönüşümü karmaşık bir işlemdir. Pek çok faktör karmaşıklığa katkıda bulunur ve bu nedenle dönüşüm süreci sırasında dikkate alınmalıdır. Excel dosyalarını bir formattan diğerine hassas profesyonel kalitede dönüştürme yeteneği, Aspose.Cells Cloud'un en önemli özelliğidir.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Microsoft Excel via CPP API'lerini koruyun
+ Microsoft Excel via CPP API'lerini koruyun
     </h2>
     <p>
  CPP için Aspose.Cells Bulut SDK'sı, CPP dilini kullanarak Excel çalışma kitabını programlı olarak korumaya yönelik işlevsellik içerir. Çalışma kitabını parolayla korumak ve korumayı kaldırmak gibi, çalışma kitabına dijital imza ekleyin.
@@ -112,13 +112,13 @@ Microsoft Excel via CPP API'lerini koruyun
  Birden fazla Microsoft Excel veya OpenOffice Calc elektronik tablosunu bir dosyada birleştirin.
     </h2>
     <p>
- Aspose.Cells CPP için Bulut SDK'sı, birden fazla Microsoft Excel veya OpenOffice Calc elektronik tablosunu CPP dilini kullanarak bir dosyada programlı olarak birleştirmek için işlevsellik içerir. Birden fazla format dosyası girişini destekleyin. Ve format çıktısı çeşitlerini destekleyin.
+Aspose.Cells CPP için Bulut SDK'sı, birden fazla Microsoft Excel veya OpenOffice Calc elektronik tablosunu CPP dilini kullanarak bir dosyada programlı olarak birleştirmek için işlevsellik içerir. Birden fazla format dosyası girişini destekleyin. Ve format çıktısı çeşitlerini destekleyin.
     </p>
     <h2 class="h2title">
  Metin Çalışma Kitaplarını Bul ve Değiştir
     </h2>
     <p>
-Aspose.Cells CPP için Bulut SDK'sı, CPP dil komutlarını kullanarak çalışma kitabındaki metinlerle çalışma desteği sağlamıştır. SDK, çalışma kitabındaki veya çalışma sayfasındaki metni arama ve değiştirme, çalışma sayfalarından metin öğeleri alma ve çok daha fazlası gibi metin arama ve bunları güncellemeyle ilgili çok yararlı özellikler sağlamıştır. Üstelik basit CPP komutlarıyla bir çalışma sayfasından metin, resim veya şekiller de çıkarabilirsiniz.
+ Aspose.Cells CPP için Bulut SDK'sı, CPP dil komutlarını kullanarak çalışma kitabındaki metinlerle çalışma desteği sağlamıştır. SDK, çalışma kitabındaki veya çalışma sayfasındaki metni arama ve değiştirme, çalışma sayfalarından metin öğeleri alma ve çok daha fazlası gibi metin arama ve bunları güncellemeyle ilgili çok yararlı özellikler sağlamıştır. Üstelik basit CPP komutlarıyla bir çalışma sayfasından metin, resim veya şekiller de çıkarabilirsiniz.
     </p>
     <p>
     </p>

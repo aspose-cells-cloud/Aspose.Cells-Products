@@ -1,5 +1,5 @@
 ﻿---
-title:  Aggiungi filigrana per la cartella di lavoro locale con NodeJS in Cloud
+title: Aggiungi filigrana per la cartella di lavoro locale con NodeJS in Cloud
 description:  API cloud e SDK per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con NodeJS. Aggiunta della filigrana per i fogli di calcolo locali tramite l'SDK Cells Cloud API per NodeJS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

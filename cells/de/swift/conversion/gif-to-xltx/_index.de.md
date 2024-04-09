@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF in XLTX konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer GIF-Formatdatei in eine XLTX-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer GIF-Formatdatei in eine XLTX-Formatdatei.
 url: /de/swift/conversion/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /de/swift/conversion/gif-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine GIF-Datei in Swift in XLTX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von GIF nach XLTX ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XLTX-Format werden von unserem Swift SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-GIF-Tabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von GIF- in XLTX-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLTX-Ausgabe.
+Das Konvertieren von Dateiformaten von GIF nach XLTX ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XLTX-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von GIF- in XLTX-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLTX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von GIF in das XLTX-Format" gistPath="" %}}

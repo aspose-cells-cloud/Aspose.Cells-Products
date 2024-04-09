@@ -1,6 +1,6 @@
 ﻿---
 title:  Aggiungi filigrana per la cartella di lavoro locale con Go in Cloud
-description: API cloud e SDK per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con Go. Aggiunta di filigrana per fogli di calcolo locali tramite Cells Cloud API SDK per Go.
+description:  API cloud e SDK per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con Go. Aggiunta di filigrana per fogli di calcolo locali tramite Cells Cloud API SDK per Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per aggiungere la filigrana per Microsoft locale Excel e il foglio di calcolo OpenOffice Calc" h2="Vai alla libreria per aggiungere la filigrana per Microsoft locale Excel e il foglio di calcolo OpenOffice Calc" p="Utilizzare Cells Filigrana REST API per aggiungere la filigrana per i flussi di lavoro dei fogli di calcolo locali Microsoft Excel e OpenOffice Calc in Go. Questa soluzione professionale aggiunge la filigrana per Microsoft Excel e il foglio di calcolo OpenOffice Calc online utilizzando Go." urlsection="background/Add-watermark/" >}}

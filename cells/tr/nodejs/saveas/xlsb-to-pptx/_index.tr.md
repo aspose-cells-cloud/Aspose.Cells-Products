@@ -1,18 +1,19 @@
 ﻿---
 title:  NodeJS kullanarak XLSB'yi PPTX olarak kaydedin
 description:  XLSB formatındaki dosyayı PPTX formatındaki dosya olarak kaydetmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Save XLSB as PPTX, REST, NodeJS
+howto: How to save XLSB as PPTX using Aspose.Cells Cloud NodeJS library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSB\'yi PPTX olarak kaydedin" h2="XLSB\'yi PPTX olarak kaydetmek için NodeJS kütüphanesi" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için SaveAs API of Cells Cloud\'u kullanın. Bu, XLSB\'yi NodeJS kullanarak çevrimiçi olarak PPTX ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xlsb-to-pptx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLSB\'yi PPTX olarak kaydedin" h2="XLSB\'yi PPTX olarak kaydetmek için NodeJS kütüphanesi" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için SaveAs API of Cells Cloud\'u kullanın. Bu, XLSB\'yi NodeJS kullanarak çevrimiçi olarak PPTX ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xlsb-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSB dosyasını NodeJS\'de PPTX olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section title="Bir XLSB dosyasını NodeJS\'de PPTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Dosya formatlarını XLSB'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm XLSB'den PPTX formatına geçişler, kaynak XLSB elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSB'yi çevrimiçi olarak PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıkışı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="REST API\'i kullanarak XLSB\'yi PPTX olarak kaydetmek için NodeJS Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="REST API\'i kullanarak XLSB\'yi PPTX olarak kaydetmek için NodeJS Kod Örneği" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -29,21 +30,15 @@ Dosya formatlarını XLSB'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm 
     });
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını PPTX olarak diğer XLSB formatlarında kaydetmek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud NodeJS kitaplığını kullanarak XLSB\'yi PPTX olarak nasıl kaydedeceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>NodeJS kütüphanesini kurun ve referansı projenize ekleyin (kütüphaneyi içe aktarın).</li>
+<li>Kaynak dosyayı JavaScript'te açın.</li>
 <li>Ortaya çıkan akışı almak için `PostWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>düğüm v6.17.1 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

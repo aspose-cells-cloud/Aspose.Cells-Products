@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XLSB mit NodeJS in CSV
-description:  Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Konvertieren einer XLSB-Formatdatei in eine CSV-Formatdatei.
+description: Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Konvertieren einer XLSB-Formatdatei in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLSB in CSV" h2="NodeJS-Bibliothek zum Konvertieren von XLSB in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSB in CSV und andere Dokumentformate mit NodeJS." urlsection="conversion/xlsb-to-csv/" >}}

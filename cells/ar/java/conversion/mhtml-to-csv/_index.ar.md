@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل MHTML إلى CSV باستخدام Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق MHTML إلى ملف بتنسيق CSV.
+description: استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق MHTML إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل MHTML إلى CSV" h2="مكتبة Java لتحويل MHTML إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل MHTML إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/mhtml-to-csv/" >}}

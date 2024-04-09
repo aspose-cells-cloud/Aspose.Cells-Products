@@ -1,18 +1,19 @@
 ﻿---
 title:  Exportieren Sie WORKBOOK nach ODS von Excel mit Cells Cloud SDK für PHP
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie WORKBOOK nach ODS von Excel" h2="PHP Bibliothek zum Exportieren von WORKBOOK in eine ODS-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in PHP zu exportieren. Dies ist eine professionelle Lösung, um WORKBOOK online aus einer Tabellenkalkulation in eine ODS-Formatdatei mit PHP zu exportieren." urlsection="export/workbook-to-ods/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie WORKBOOK nach ODS von Excel" h2="PHP Bibliothek zum Exportieren von WORKBOOK in eine ODS-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in PHP zu exportieren. Dies ist eine professionelle Lösung, um WORKBOOK online aus einer Tabellenkalkulation in eine ODS-Formatdatei mit PHP zu exportieren." urlsection="export/workbook-to-ods/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im ODS-Format mit dem Cloud SDK Cells für PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im ODS-Format mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in eine ODS-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKBOOK in das ODS-Format werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere Bibliothek PHP ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im ODS-Format. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von WORKBOOK aus der Tabellenkalkulation in das ODS-Format" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in PHP mit REST API zum Exportieren von WORKBOOK aus der Tabellenkalkulation in das ODS-Format" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,14 @@ Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in eine ODS-Datei ist
     fclose($ptr);
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Objekte aus Excel WORKBOOK nach ODS zu exportieren" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>PHP 7.4 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

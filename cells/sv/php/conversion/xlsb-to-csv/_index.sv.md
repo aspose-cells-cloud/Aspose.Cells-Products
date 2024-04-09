@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera XLSB till CSV med PHP
-description: Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i XLSB-format till en fil i CSV-format.
+description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i XLSB-format till en fil i CSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLSB till CSV" h2="PHP bibliotek för att konvertera XLSB till CSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera XLSB till CSV och andra dokumentformat online med PHP." urlsection="conversion/xlsb-to-csv/" >}}

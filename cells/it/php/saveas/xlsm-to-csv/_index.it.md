@@ -1,5 +1,5 @@
 ﻿---
-title: Salva XLSM come CSV utilizzando PHP
+title:  Salva XLSM come CSV utilizzando PHP
 description:  Utilizzando Aspose.Cells Cloud SDK per PHP per salvare il file in formato XLSM come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

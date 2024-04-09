@@ -1,18 +1,19 @@
 ﻿---
 title:  Сохраните XLTX как SXC, используя Ruby.
 description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLTX как файла формата SXC.
+kwords: Excel, Save XLTX as SXC, REST, Ruby
+howto: How to save XLTX as SXC using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLTX как SXC" h2="Библиотека Ruby для сохранения XLTX как SXC" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Ruby. Это профессиональное решение для сохранения XLTX в формате SXC и других форматов документов онлайн с использованием Ruby." urlsection="saveas/xltx-to-sxc/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Сохранить XLTX как SXC" h2="Библиотека Ruby для сохранения XLTX как SXC" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Ruby. Это профессиональное решение для сохранения XLTX в формате SXC и других форматов документов онлайн с использованием Ruby." urlsection="saveas/xltx-to-sxc/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как SXC в Ruby." >}}
+{{< blocks/products/cells/cells-cloud-section title="Сохраните файл XLTX как SXC в Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из XLTX в SXC — сложная задача. Все переходы формата XLTX в SXC выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLTX в формате SXC онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод SXC.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для сохранения XLTX как SXC с использованием REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Пример кода Ruby для сохранения XLTX как SXC с использованием REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -29,21 +30,15 @@ description:  Использование Aspose.Cells Cloud SDK для Ruby дл
     result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder+"/"+newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Ruby для сохранения файлов Excel в других форматах XLTX как SXC" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как сохранить XLTX как SXC с помощью библиотеки Cloud Ruby Cells." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку Ruby и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл в Ruby.</li>
 <li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>рубин 2.5 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

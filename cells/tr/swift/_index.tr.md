@@ -1,5 +1,5 @@
 ﻿---
-title: Swift Elektronik Tablo Oluşturucu ve Dönüştürücü (Cloud REST API)
+title:  Swift Elektronik Tablo Oluşturucu ve Dönüştürücü (Cloud REST API)
 description: REST API, bulutta Microsoft ve OpenOffice e-tablolarını almak, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için via Swift SDK
 weight: 130
 url: /tr/swift
@@ -111,7 +111,7 @@ url: /tr/swift
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Grafik açıklamasını alın, güncelleyin, gösterin veya gizleyin
+Grafik açıklamasını alın, güncelleyin, gösterin veya gizleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,7 +139,7 @@ url: /tr/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Excel dosyasında belirtilen yere bir ListObject ekleyin
+ Excel dosyasında belirtilen yere bir ListObject ekleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,12 +235,12 @@ Excel dosyasında belirtilen yere bir ListObject ekleyin
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
-ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'lerini destekleyen herhangi bir platformda Swift için Aspose.Cells Cloud SDK'yı kullanmaya hazırsınız. Aspose.Cells Swift için Bulut SDK'sı e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
+ ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'lerini destekleyen herhangi bir platformda Swift için Aspose.Cells Cloud SDK'yı kullanmaya hazırsınız. Aspose.Cells Swift için Bulut SDK'sı e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Çalışma Kitaplarını İşleme via Bulut SDK
+Çalışma Kitaplarını İşleme via Bulut SDK
     </h2>
     <p>
  Aspose.Cells Swift için Bulut SDK, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabındaki metin öğelerini okumanıza, gizli öğeleri göz ardı ederek çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı sağlamanıza olanak tanır uzunluk, çalışma kitabına veri aktarma, çalışma kitabındaki tüm formülleri hesaplama, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapma, akıllı işaretleyici kullanma, çalışma kitabını istek içeriğinden başka bir formata dönüştürme, içerik değişikliğine izin vermek için şifre uygulama.
@@ -262,7 +262,7 @@ Swift için Aspose.Cells Cloud SDK'yı kullanarak çalışma sayfasındaki belir
  Aspose.Cells Swift için Cloud SDK, çalışma sayfasına bir pivot tablo eklemenize, pivot tabloya pivot alanları eklemenize veya silmenize, pivot tablo dizini için pivot filtresi eklemenize veya kaldırmanıza, pivot tablo için hücre stilini güncellemenize ve pivot tablonun hücrelere ait verilerini hesaplamanıza olanak tanır.
     </p>
     <p>
-Aspose.Cells Swift için Cloud SDK aynı zamanda aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücrelerin listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, geçerli aralığı hedef aralığa taşımak, ayarlamak için de kullanılabilir. bir hücre aralığı etrafındaki kenarlığın ana hatlarını çizin, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasına kopyalayın.
+Aspose.Cells Swift için Cloud SDK ayrıca aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücrelerin listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, mevcut aralığı hedef aralığa taşımak, ayarlamak için de kullanılabilir. bir hücre aralığı etrafındaki kenarlığın ana hatlarını çizin, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasına kopyalayın.
     </p>
    </div>
   </div>

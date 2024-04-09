@@ -1,7 +1,7 @@
 ﻿---
-title:  Lösungen zur Tabellenverarbeitung (Desktop- und Cloud-REST-APIs)
-description:  On-Premise- und Cloud-APIs zur nahtlosen Erweiterung Ihrer nativen Web- und Cloud-Apps, um Tabellenkalkulationsverarbeitungsfunktionen bereitzustellen
-weight: 30
+title: Leichte Aspose.Cells-Cloud und lokale API für die Excel-Tabellenverarbeitung
+description: Aspose.Cells Cloud bietet eine Reihe von SDKs in verschiedenen Programmiersprachen, vereinfacht den Zugriff auf Aspose.Cells REST API und steigert die Leistung durch sein leichtes Design.
+weight: 50
 url: /de/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

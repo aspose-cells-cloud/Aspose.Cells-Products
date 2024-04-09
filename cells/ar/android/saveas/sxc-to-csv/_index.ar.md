@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ SXC كملف CSV باستخدام Android
+title:  احفظ SXC كملف CSV باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق SXC كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

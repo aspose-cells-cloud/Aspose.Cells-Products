@@ -1,9 +1,9 @@
 ﻿---
-title:  أضف علامة مائية للمصنف المحلي باستخدام Java في السحابة
+title: أضف علامة مائية للمصنف المحلي باستخدام Java في السحابة
 description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لإضافة علامة مائية لـ Microsoft Excel وOpenOffice Calc مع Java. إضافة علامة مائية لجداول البيانات المحلية بواسطة Cells Cloud API SDK for Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لإضافة العلامة المائية المحلية Microsoft Excel وجدول بيانات OpenOffice Calc" h2="مكتبة Java لإضافة علامة مائية محلية Microsoft Excel وجدول بيانات OpenOffice Calc" p="استخدم Cells REST Watermark API لإضافة علامة مائية لـ Microsoft Excel و OpenOffice CALC TRAPLOWWOWS في Java. هذا الحل المهني يضيف علامة مائية Microsoft Excel" urlsection="background/Add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لإضافة العلامة المائية المحلية Microsoft Excel وجدول بيانات OpenOffice Calc" h2="مكتبة Java لإضافة علامة مائية محلية Microsoft Excel وجدول بيانات OpenOffice Calc" p="استخدم Cells Watermark REST API لإضافة علامة مائية لـ Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Java. يضيف هذا الحل الاحترافي علامة مائية لـ Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام Java." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="أضف علامة مائية محلية Microsoft Excel وجدول بيانات OpenOffice Calc - Java REST API" >}}

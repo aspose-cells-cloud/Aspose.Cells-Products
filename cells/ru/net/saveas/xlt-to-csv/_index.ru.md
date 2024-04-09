@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLT как CSV, используя C#.
+title:  Сохраните XLT как CSV, используя C#.
 description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLT в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

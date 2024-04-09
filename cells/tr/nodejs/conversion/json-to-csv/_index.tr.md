@@ -12,7 +12,7 @@ description:  JSON formatındaki bir dosyayı CSV formatındaki bir dosyaya dön
 Dosya formatlarını JSON'dan CSV'ye dönüştürmek karmaşık bir iş olabilir. NodeJS SDK'mız, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm JSON'dan CSV formatına dönüşümleri gerçekleştirir. NodeJS kitaplığımız, JSON'u çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli CSV çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak JSON\'u CSV\'ye dönüştürmek için NodeJS Kod Örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak JSON\'u CSV\'ye dönüştürmek için NodeJS Kodu Örneği" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,7 +35,7 @@ Dosya formatlarını JSON'dan CSV'ye dönüştürmek karmaşık bir iş olabilir
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını JSON\'dan CSV\'ye diğer formatlara dönüştürmek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

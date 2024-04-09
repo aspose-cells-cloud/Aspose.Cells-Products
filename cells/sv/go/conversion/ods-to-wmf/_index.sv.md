@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertera ODS till WMF med Go
-description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en ODS-formatfil till en WMF-formatfil.
+description: Använda Aspose.Cells Cloud SDK för Go för att konvertera en ODS-formatfil till en WMF-formatfil.
+kwords: Excel, Convert ODS to WMF, REST, Go
+howto: How to convert ODS to WMF using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera ODS till WMF" h2="Gå bibliotek för att konvertera ODS till WMF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera ODS till WMF och andra dokumentformat online med Go." urlsection="conversion/ods-to-wmf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera ODS till WMF" h2="Gå bibliotek för att konvertera ODS till WMF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera ODS till WMF och andra dokumentformat online med Go." urlsection="conversion/ods-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera ODS till WMF med Cells Cloud SDK för Go" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera ODS till WMF med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Att konvertera filformat från ODS till WMF kan vara en komplex uppgift. Vår Go SDK hanterar alla ODS- till WMF-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-ODS-kalkylarket bevaras. Vårt Go-bibliotek tillhandahåller en professionell lösning för att konvertera ODS till WMF-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer WMF-utdata av hög kvalitet.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera ODS till WMF med Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Go Code Exempel för att konvertera ODS till WMF med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -44,21 +45,15 @@ Att konvertera filformat från ODS till WMF kan vara en komplex uppgift. Vår Go
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Go för att konvertera Excel-filer till andra format ODS till WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar ODS till WMF med hjälp av Cells Cloud Go-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera Go-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen på gång.</li>
 <li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>go version go1.13.0 eller senare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

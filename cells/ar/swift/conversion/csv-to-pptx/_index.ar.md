@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل CSV إلى PPTX API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق PPTX.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق PPTX.
 url: /ar/swift/conversion/csv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

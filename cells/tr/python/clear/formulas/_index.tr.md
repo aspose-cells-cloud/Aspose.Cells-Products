@@ -18,7 +18,7 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki formülleri tem
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Formülleri temizlemek için Python için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Çağrı postası_temizlemek_sonuçta ortaya çıkan akışı elde etmek için nesneler yöntemi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

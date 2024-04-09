@@ -10,7 +10,7 @@ url: /sv/swift/conversion/numbers-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en NUMBERS-fil till ODS i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från NUMBERS till ODS är en komplex uppgift. Alla NUMBERS till ODS format övergångar utförs av vår Swift SDK samtidigt som källkoden NUMBERS kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera NUMBERS till ODS-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt ODS-utdata.
+Att konvertera filformat från NUMBERS till ODS är en komplex uppgift. Alla NUMBERS- till ODS-formatövergångar utförs av vår Swift SDK samtidigt som källarket NUMBERS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera NUMBERS till ODS-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt ODS-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera NUMBERS till ODS-format" gistPath="" %}}

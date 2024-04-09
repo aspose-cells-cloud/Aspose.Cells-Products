@@ -16,14 +16,14 @@ otherformats: XML XLT XPS XLTM DIF XLSB TSV ODS SVG PDF XLSX MHTML XLSM TIFF MD 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Ruby ile FODS\'den CSV\'ye Dönüşüm" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını
 1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
 1. FODS dosyasını ```CellsApi.upload_file``` yöntemiyle varsayılan Cloud Storage'a yükleyin
 1. Ortaya çıkan CSV dosyasını almak için ```CellsApi.cells_save_as_post_document_save_as``` yöntemini çağırın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Excel API ve Ruby SDK\'yı Kullanmaya Başlayın" %}}
-Ruby kaynak kodu için Excel Cloud SDK'yı şu adresten edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) Alternatif indirme seçenekleri için.
+ Ruby kaynak kodu için Excel Cloud SDK'yı şu adresten edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) Alternatif indirme seçenekleri için.
 
  Ayrıca Swagger tabanlıya da bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

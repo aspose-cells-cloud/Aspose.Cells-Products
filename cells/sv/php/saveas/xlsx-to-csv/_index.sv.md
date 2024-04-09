@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLSX som CSV med PHP
+title:  Spara XLSX som CSV med PHP
 description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLSX-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

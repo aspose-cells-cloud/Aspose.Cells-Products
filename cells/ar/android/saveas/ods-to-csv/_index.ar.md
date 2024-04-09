@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ المواد المستنفدة للأوزون كملف CSV باستخدام Android
+title:  احفظ المواد المستنفدة للأوزون كملف CSV باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق ODS كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

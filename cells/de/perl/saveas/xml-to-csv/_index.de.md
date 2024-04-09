@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XML als CSV mit Perl
+title:  Speichern Sie XML als CSV mit Perl
 description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern der XML-Formatdatei als CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

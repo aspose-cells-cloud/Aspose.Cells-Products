@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV в HTML Преобразовать API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата HTML.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата HTML.
 url: /ru/swift/conversion/csv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

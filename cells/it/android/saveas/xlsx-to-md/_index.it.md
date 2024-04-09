@@ -1,5 +1,5 @@
 ﻿---
-title: Salva XLSX come MD utilizzando Android
+title:  Salva XLSX come MD utilizzando Android
 description:  Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

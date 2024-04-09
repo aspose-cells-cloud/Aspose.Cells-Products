@@ -10,7 +10,7 @@ url: /sv/swift/saveas/xlsb-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSB-fil som XML i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLSB som XML är en komplex uppgift. Alla XLSB till XML-formatövergångar utförs av vår Swift SDK samtidigt som källkodens XLSB-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLSB som XML-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XML-utdata.
+Att spara filformat från XLSB som XML är en komplex uppgift. Alla XLSB- till XML-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLSB-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLSB som XML-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XML-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att spara XLSB som XML-format" gistPath="" %}}

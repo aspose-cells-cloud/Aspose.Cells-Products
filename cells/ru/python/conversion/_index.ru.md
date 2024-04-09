@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование форматов файлов Excel с помощью Python
-description: Aspose.Cells Cloud REST API поддерживает преобразование формата файлов Excel с использованием Python и предлагает пакеты SDK для нескольких языков программирования.
+description:  Aspose.Cells Cloud REST API поддерживает преобразование формата файлов Excel с использованием Python и предлагает пакеты SDK для нескольких языков программирования.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразование форматов файлов Excel с помощью Python" h2="Aspose.Cells Cloud SDK поддерживает преобразование более чем в 30 форматов файлов." p="Aspose.Cells Cloud REST API поддерживает преобразование формата файлов Excel с использованием Python и предлагает пакеты SDK для нескольких языков программирования." urlsection="conversion/" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV in XML konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im CSV-Format in eine Datei im XML-Format.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im CSV-Format in eine Datei im XML-Format.
 url: /de/swift/conversion/csv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

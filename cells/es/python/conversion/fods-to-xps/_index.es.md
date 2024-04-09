@@ -1,56 +1,40 @@
 ﻿---
-title:  Convertir de Excel FODS a XPS via Python
-description: Cree, edite o convierta archivos Excel con REST API y Open Source Python SDK
-url: /es/python/conversion/fods-to-xps/
-family: cells
-platformtag: python
-feature: conversion
-informat: FODS
-outformat: XPS
-platform: Python
-otherformats: XLTM DIF PDF MD SVG TIFF HTML XLTX TSV XLS CSV FODS XLSX XML XLSB XPS 
+title: Convierta FODS a XPS usando Python
+description:  Utilizar el SDK de la nube Aspose.Cells para Python para convertir un archivo de formato FODS a un archivo de formato XPS.
+kwords: Excel, Convert FODS to XPS, REST, Python
+howto: How to convert FODS to XPS using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta FODS a XPS con Python" h2="Lea, edite y exporte datos de Excel a otros formatos con el SDK de nube de código abierto para Python" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS a XPS" h2="Biblioteca Python para convertir FODS a XPS" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Python proyectos. Esta es una solución profesional para convertir FODS a XPS y otros formatos de documentos en línea usando Python." urlsection="conversion/fods-to-xps/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversión de FODS a XPS con Python" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
-1. Cargue el archivo FODS al Cloud Storage predeterminado con el método ```CellsApi.upload_file```
-1. Llame al método ```CellsApi.cells_save_as_post_document_save_as``` para obtener el archivo XPS resultante
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta FODS a XPS usando Cells Cloud SDK para Python" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Convertir formatos de archivo de FODS a XPS puede ser una tarea compleja. Nuestro SDK Python maneja todas las conversiones de formato FODS a XPS y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo FODS de origen. Nuestra biblioteca Python proporciona una solución profesional para convertir archivos FODS a XPS en línea. Este SDK de nube brinda a los desarrolladores de Python una potente funcionalidad y garantiza resultados de XPS de alta calidad.
 
-{{% blocks/products/pf/agp/feature-section-col title="Comience con Excel API y Python SDK" %}}
- Obtenga Excel Cloud SDK para el código fuente Python de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- También eche un vistazo a Basado en Swagger[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Código Python para conversión de FODS a XPS" gistPath="" %}}
-```python
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
-import os
-import sys
-import asposecellscloud
-from asposecellscloud.apis.cells_api import CellsApi
-api  = asposecellscloud.apis.cells_api.CellsApi(os.getenv('CellsCloudClientId'), os.getenv('CellsCloudClientSecret'), "v3.0" ,os.getenv('CellsCloudApiBaseUrl'))
-
-name ='template.fods'    
-saveOptions = None
-newfilename = "output.xps"
-isAutoFitRows= True
-isAutoFitColumns= True
-folder = "temp"
-result = api.upload_file(folder + '/' + name,  "c:/TestData/" + name)
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Ejemplo de código para convertir FODS a XPS usando Cells Cloud SDK" gistPath="" %}}
  
-result = api.cells_save_as_post_document_save_as(name, save_options=saveOptions, newfilename=(folder +'/' + newfilename), is_auto_fit_rows=isAutoFitRows, is_auto_fit_columns=isAutoFitColumns, folder=folder)
+```python
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
+    import os
+    import shutil
+    from asposecellscloud.apis.cells_api import CellsApi
+    cells_api = CellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
+    file1 = cells_api.cells_workbook_put_convert_workbook("Book1.fods",format="xps")
+    shutil.move(file1, "destFile.xps")     
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir FODS a XPS usando la biblioteca Cells Cloud Python." >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Instale la biblioteca Python y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en Python.</li>
+<li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
+<li>Python 2.7 o más reciente</li>
+<li>Python 3.10 o más reciente</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

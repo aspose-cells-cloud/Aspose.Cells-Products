@@ -1,5 +1,5 @@
 ﻿---
-title:  Fügen Sie ein Wasserzeichen für die lokale Arbeitsmappe mit Python in der Cloud hinzu
+title: Fügen Sie ein Wasserzeichen für die lokale Arbeitsmappe mit Python in der Cloud hinzu
 description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit Python. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

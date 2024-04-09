@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل CSV إلى XLSM API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق XLSM.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق XLSM.
 url: /ar/swift/conversion/csv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

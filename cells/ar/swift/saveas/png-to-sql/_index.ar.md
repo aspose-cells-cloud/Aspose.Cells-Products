@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ SQL API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق PNG كملف تنسيق SQL.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق PNG كملف تنسيق SQL.
 url: /ar/swift/saveas/png-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

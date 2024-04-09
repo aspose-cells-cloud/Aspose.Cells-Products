@@ -1,6 +1,6 @@
 ﻿---
-title: Конвертировать JSON в MD API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата MD.
+title:  Конвертировать JSON в MD API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата MD.
 url: /ru/swift/conversion/json-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

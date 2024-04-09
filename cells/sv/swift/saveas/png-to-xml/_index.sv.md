@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som XML API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att spara PNG filformat som XML-formatfil.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara PNG filformat som XML-formatfil.
 url: /sv/swift/saveas/png-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

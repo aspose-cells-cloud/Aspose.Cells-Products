@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez PNG en tant que SQL API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG en tant que fichier au format SQL.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG en tant que fichier au format SQL.
 url: /fr/swift/saveas/png-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

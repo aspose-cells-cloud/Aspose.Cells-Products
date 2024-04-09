@@ -1,47 +1,48 @@
 ﻿---
-title:  تحويل FODS إلى XLS via .NET
-description: إنشاء أو تحرير أو تحويل ملفات Excel باستخدام Cloud API و Open Source .NET SDK
-url: /ar/net/conversion/fods-to-xls/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: XLS
-platform: .NET
-otherformats: ODS CSV XLT XLTX MD XLSM TIFF XLTM MHTML DIF XML SVG TXT XLSX FODS XPS 
+title:  تحويل FODS إلى XLS باستخدام C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق FODS إلى ملف تنسيق XLS.
+kwords: Excel, Convert FODS to XLS, REST, C#
+howto: How to convert FODS to XLS using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى XLS في السحابة" h2="Excel وتحويل جداول بيانات OpenOffice باستخدام Cloud SDK مفتوح المصدر for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل FODS إلى XLS" h2="C# مكتبة لتحويل FODS إلى XLS" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Net. يعد هذا حلاً احترافيًا لتحويل FODS إلى XLS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/fods-to-xls/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="تحويل FODS إلى XLS في تطبيقات .NET" %}}
-1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا
-1. تهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
-1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي بطريقة ```CellsApi.Upload```
-1. اتصل بطريقة ```CellsApi.CellsSaveAsPostDocumentSaveAs``` للحصول على ملف XLS الناتج
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل FODS إلى XLS باستخدام Cells Cloud SDK لـ C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+يمكن أن يكون تحويل تنسيقات الملفات من FODS إلى XLS مهمة معقدة. يتعامل SDK C# الخاص بنا مع جميع تحويلات تنسيق FODS إلى XLS مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات FODS المصدر. توفر مكتبتنا C# حلاً احترافيًا لتحويل ملفات FODS إلى ملفات XLS عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري C# من الحصول على وظائف قوية ويضمن إخراج XLS عالي الجودة.
 
-{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel ريست API" %}}
- احصل على Excel Cloud SDK for .NET كود المصدر من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET كود التحويل من FODS إلى XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# مثال على الكود لتحويل FODS إلى XLS باستخدام Cells Cloud SDK" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "xls";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.xls", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "xls";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.xls";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل FODS إلى XLS باستخدام مكتبة Cloud Net Cells." >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتثبيت مكتبة C# وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في C#</li>
+<li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
+<li>NET Framework 4.5.2 أو أحدث</li>
+<li>نت ستاندرد 2.0 أو أحدث</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

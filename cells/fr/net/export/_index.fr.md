@@ -1,103 +1,94 @@
 ﻿---
-title:  Exporter les objets Excel en utilisant C#
-description:  Aspose.Cells Cloud REST API prend en charge l'exportation de classeurs et d'objets internes vers tous types de formats à l'aide de C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title: Exportez les éléments internes Excel ou le classeur lui-même vers différents formats de fichiers.
+description: Aspose.Cells Cloud offre une prise en charge robuste pour l'exportation d'éléments internes Excel ou du classeur lui-même vers différents formats de fichiers, un processus connu pour sa complexité. Aspose.Cells Cloud prend en charge plus de 30 formats de fichiers, dont Excel, Pdf, Markdown, Json, XML, Csv, Html, etc.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter les objets Excel en utilisant C#" h2="Aspose.Cells Cloud SDK prend en charge l\'exportation de classeurs et d\'objets internes vers plus de 30 formats de fichiers." p="Aspose.Cells Cloud REST API prend en charge l\'exportation de classeurs et d\'objets internes vers tous types de formats à l\'aide de C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportez les éléments internes Excel ou le classeur lui-même vers différents formats de fichiers." h2="Aspose.Cells Cloud offre une prise en charge robuste pour l\'exportation d\'éléments internes Excel ou du classeur lui-même vers différents formats de fichiers, un processus connu pour sa complexité. Aspose.Cells Cloud prend en charge plus de 30 formats de fichiers, dont Excel, Pdf, Markdown, Json, XML, Csv, Html, etc." p="Aspose.Cells Cloud fournit REST API qui prend en charge l\'exportation d\'éléments internes Excel ou du classeur lui-même vers différents formats de fichiers et propose des SDK pour plusieurs langages de programmation. Ces langages de programmation incluent Net, Java, Go, NodeJS, Python, etc." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/export" %}}
-{{< /blocks/products/pf/agp/feature-section >}} 
-{{< blocks/products/cells/cells-cloud-api-template btName="Export" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/DataProcessing/PostExport" >}}  
-{{< blocks/products/cells/cells-cloud-upload >}}  
-	{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)." >}}
-	{{< blocks/products/cells/cells-cloud-parameters itName="objectType" required="true" prompt="workbook/worksheet/chart/comment/picture/shape/listobject/oleobject" >}}  
-{{% blocks/products/cells/cells-cloud-showcode %}}  
-               
-```cs
 
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/export" %}}
+
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResponseType="FilesResult" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/DataProcessing/PostExport" >}}
+{{< blocks/products/cells/cells-cloud-upload >}}
+
+{{< blocks/products/cells/cells-cloud-parameters itName="objectType" required="False" prompt="Exported object type:workbook/worksheet/chart/comment/picture/shape/listobject/oleobject." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="format" required="False" prompt="The conversion format(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="password" required="False" prompt="The password needed to open an Excel file." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction" required="False" prompt="Whether check restriction of excel file when user modify cells related objects." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="region" required="False" prompt="The regional settings for workbook." >}}
+{{< blocks/products/cells/cells-cloud-showparameters >}}
+{{% blocks/products/cells/cells-cloud-showcode request="objectType,format,password,checkExcelRestriction,region" requestvalue=",pdf,,true," %}}
+
+```cs
 	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Model;
 	using Aspose.Cells.Cloud.SDK.Request;
+	using Newtonsoft.Json;
 	using System;
 	using System.IO;
 	using System.Collections.Generic;
 	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-	string filePath = "test.txt";
-	PostExportRequest request = new PostExportRequest();
+	var request = new PostExportRequest();
 	request.File = new Dictionary<string, Stream>();
+	string filePath = "Book1.xlsx";
 	Stream fileStream = File.OpenRead(filePath);
 	request.File.Add(filePath, fileStream);
-    request.format = "xps";
-	request.objectType = "Background";
-	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostExport(request);
-	fileStream.Close();    
-	    
-```     
-{{% /blocks/products/cells/cells-cloud-showcode %}}   
-{{< /blocks/products/cells/cells-cloud-api-template >}}      
-
-{{< blocks/products/cells/cells-cloud-language-card title="Formats de fichiers pris en charge" >}}
-    {{< blocks/products/cells/cells-cloud-language-cardlist title="Format d\'entrée" >}}
-       <li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Bureau ouvert:</b> Ods, Fods, Ots</li>
-	<li><b>XML :</b>Feuille de calculML, XML</li>
-	<li><b>Texte:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>La toile:</b> HTML, HTML</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
-
-    
-
-     {{< blocks/products/cells/cells-cloud-language-cardlist title="Format de sortie" >}}
-        <li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Mot/PowerPoint :</b> Docx, PPTX</li>
-	<li><b>Bureau ouvert:</b> Ods, Fods, Ots</li>
-	<li><b>XML :</b>Feuille de calculML, XML</li>
-	<li><b>Texte:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>La toile:</b> HTML, HTML</li>
-	<li><b>Images:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
-	<li><b>Autre:</b> Pdf, Xps, Dif, Json, Markdown, SQL</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}    
+	request.objectType = "";
+	request.format = "pdf";
+	request.password = "";
+	request.checkExcelRestriction = true;
+	request.region = "";
+	var result = cellsApi.PostExport(request);
+	fileStream.Close();
 
 
-     
 
-{{< /blocks/products/cells/cells-cloud-language-card >}}
 
-{{< blocks/products/cells/product-card-row title="Fonctionne populaires" >}}
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Exporter le classeur au format PDF" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/export/workbook-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Go" title="Exporter le classeur vers Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/export/workbook-to-json/" >}}
+```
+{{% /blocks/products/cells/cells-cloud-showcode %}}
+{{< /blocks/products/cells/cells-cloud-api-template >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Exporter l\'objet de liste vers Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/java/export/listobject-to-csv/" >}}
+{{< blocks/products/pf/product-card-row title="Formats de fichiers pris en charge" >}}
+<div class="diagram1 d2  d1-cloud">
+<div class="d1-row">
+<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Format d'entrée</header><ul>
+<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+<li><b>Bureau ouvert:</b> Ods, Fods, Ots</li>
+<li><b>XML :</b>Feuille de calculML, XML</li>
+<li><b>Texte:</b> Csv, Tsv, Txt (TabDelimited)</li>
+<li><b>La toile:</b> HTML, HTML</li>
+<li><b>Images:</b> Png, Jpg, Gif, EMF</li>
+<li><b>Autre:</b> Pdf, Json, Markdown</li>
+</ul></div>
+<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Format de sortie</header><ul>
+<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+<li><b>Microsoft Mot/PowerPoint :</b> Docx, PPTX</li>
+<li><b>Bureau ouvert:</b> Ods, Fods, Ots</li>
+<li><b>XML :</b>Feuille de calculML, XML</li>
+<li><b>Texte:</b> Csv, Tsv, Txt (TabDelimited)</li>
+<li><b>La toile:</b> HTML, HTML</li>
+<li><b>Images:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
+<li><b>Autre:</b> Pdf, Xps, Dif, Json, Markdown, SQL</li>
+</ul></div>
+</div>
+<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
+</div>
+{{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Exporter le graphique au format Png" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/php/export/chart-to-png/" >}}
-
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="Exporter le classeur vers MD" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/export/workbook-to-md/" >}}
-
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Swift" title="Exporter la feuille au format PDF" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/swift/export/worksheet-to-pdf/" >}}
-{{< /blocks/products/cells/product-card-row >}}
-{{< blocks/products/cells/product-card-row title="Langues de développement prises en charge" >}}
-{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK pour Android" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
-
+{{< blocks/products/cells/cells-language-cloud-card-row title="Langues de développement prises en charge" >}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK pour Go" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Java" imgSrc="/cells/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK pour Net" imgSrc="/cells/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK pour nœud" imgSrc="/cells/sdk/aspose_cells-for-node.png" productLink="/cells/node/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK pour Perl" imgSrc="/cells/sdk/aspose_cells-for-perl.png" productLink="/cells/perl/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK pour PHP" imgSrc="/cells/sdk/aspose_cells-for-php.png" productLink="/cells/php/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK pour Python" imgSrc="/cells/sdk/aspose_cells-for-python.png" productLink="/cells/python/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK pour Ruby" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK pour Swift" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
-{{< /blocks/products/cells/product-card-row >}}
+{{< /blocks/products/cells/cells-language-cloud-card-row >}}
+
 
 {{< /blocks/products/pf/main-container >}}
 

@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSB как CSV, используя Python.
+title:  Сохраните XLSB как CSV, используя Python.
 description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLSB в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

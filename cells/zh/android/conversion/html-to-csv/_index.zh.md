@@ -6,7 +6,7 @@ description: 利用Aspose.Cells Cloud SDK for Android将HTML格式文件转换�
 {{< blocks/products/cells/cells-cloud-upper-banner h1="将 HTML 转换为 CSV" h2="用于将 HTML 转换为 CSV 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 HTML 转换为 CSV 和其他文档格式的专业解决方案。" urlsection="conversion/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用适用于 Android 的 Cells Cloud SDK 将 HTML 转换为 CSV" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Android 将 HTML 转换为 CSV" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 将文件格式从 HTML 转换为 CSV 可能是一项复杂的任务。我们的 Android SDK 处理所有 HTML 到 CSV 格式的转换，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的 Android 库提供了在线将 HTML 转换为 CSV 文件的专业解决方案。该Cloud SDK为Android开发人员提供了强大的功能，并确保高质量的CSV输出。

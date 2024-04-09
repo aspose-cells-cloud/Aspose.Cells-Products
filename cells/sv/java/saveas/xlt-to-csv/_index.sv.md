@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLT som CSV med Java
+title:  Spara XLT som CSV med Java
 description:  Använder Aspose.Cells Cloud SDK for Java för att spara XLT-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

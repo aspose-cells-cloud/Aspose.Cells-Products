@@ -1,18 +1,19 @@
 ﻿---
 title:  Java'i kullanarak XML'i XLSM olarak kaydedin
-description: XML formatındaki dosyayı XLSM formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
+description:  XML formatındaki dosyayı XLSM formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
+kwords: Excel, Save XML as XLSM, REST, Java
+howto: How to save XML as XLSM using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i XLSM olarak kaydet" h2="XML\'i XLSM olarak kaydetmek için Java kitaplığı" p="Java\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Java\'i kullanarak XML\'i XLSM ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-xlsm/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XML\'i XLSM olarak kaydet" h2="XML\'i XLSM olarak kaydetmek için Java kitaplığı" p="Java\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Java\'i kullanarak XML\'i XLSM ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-xlsm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını Java\'e XLSM olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section title="Bir XML dosyasını Java\'e XLSM olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Dosya formatlarını XML'den XLSM olarak kaydetmek karmaşık bir iştir. Tüm XML'den XLSM formatına geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, XML'i çevrimiçi XLSM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Java geliştiriciye güçlü işlevsellik ve mükemmel XLSM çıkışı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java REST API kullanarak XML\'i XLSM olarak kaydetmek için Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java REST API kullanarak XML\'i XLSM olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -31,22 +32,16 @@ Dosya formatlarını XML'den XLSM olarak kaydetmek karmaşık bir iştir. Tüm X
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud SDK for Java nasıl kullanılır? Excel dosyalarını diğer XML formatlarında XLSM olarak kaydetmek için" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Java kitaplığını kullanarak XML\'i XLSM olarak nasıl kaydedeceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Java kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı Java'de açın.</li>
 <li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Maven 2.2.0 veya daha yenisi</li>
 <li>Java(TM) SE Çalışma Zamanı Ortamı</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Удалите повторяющиеся строки из локальной книги, используя Java в облачной среде Aspose Cells.
-description:  Облачные API и SDK для очистки повторяющихся строк в Microsoft Excel и OpenOffice Calc с использованием Java. Удаляйте повторяющиеся строки в локальных таблицах с помощью Cells Cloud SDK for Java.
+description:  Облачные API и SDK для очистки повторяющихся строк в Microsoft Excel и OpenOffice Calc с помощью Java. Удаляйте повторяющиеся строки в локальных таблицах с помощью Cells Cloud SDK for Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление повторяющихся строк в локальных таблицах Microsoft Excel и OpenOffice Calc." h2="Java библиотека для удаления повторяющихся строк из локальных Microsoft Excel и электронных таблиц OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы удалить повторяющиеся строки из локальных Microsoft Excel и электронных таблиц OpenOffice Calc в рабочих процессах Java. Это профессиональное решение эффективно удаляет повторяющиеся строки из локальных Microsoft Excel и электронных таблиц OpenOffice Calc с использованием Java." urlsection="clear/Duplicate-rows/" >}}

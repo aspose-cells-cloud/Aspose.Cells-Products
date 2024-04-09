@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF in PPTX konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im GIF-Format in eine Datei im PPTX-Format.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im GIF-Format in eine Datei im PPTX-Format.
 url: /de/swift/conversion/gif-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

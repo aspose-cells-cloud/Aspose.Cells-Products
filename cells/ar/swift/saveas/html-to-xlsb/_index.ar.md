@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ XLSB API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق HTML كملف تنسيق XLSB.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق HTML كملف تنسيق XLSB.
 url: /ar/swift/saveas/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

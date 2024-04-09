@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS kullanarak XML'i CSV'ye dönüştürün
-description:  XML biçimindeki bir dosyayı CSV biçimindeki bir dosyaya dönüştürmek için NodeJS için Aspose.Cells Bulut SDK'sını kullanma.
+description: XML biçimindeki bir dosyayı CSV biçimindeki bir dosyaya dönüştürmek için NodeJS için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i CSV\'ye dönüştür" h2="XML\'i CSV\'ye dönüştürmek için NodeJS kütüphanesi" p="NodeJS projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, NodeJS kullanarak XML\'i CSV\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xml-to-csv/" >}}
@@ -35,7 +35,7 @@ Dosya formatlarını XML'den CSV'ye dönüştürmek karmaşık bir iş olabilir.
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını XML\'den CSV\'ye diğer formatlara dönüştürmek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

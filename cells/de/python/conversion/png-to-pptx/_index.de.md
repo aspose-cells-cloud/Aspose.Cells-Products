@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertieren Sie PNG mit Python in PPTX
 description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im PNG-Format in eine PPTX-Formatdatei.
+kwords: Excel, Convert PNG to PPTX, REST, Python
+howto: How to convert PNG to PPTX using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie PNG in PPTX" h2="Python-Bibliothek zum Konvertieren von PNG in PPTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Python in PPTX und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-pptx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie PNG in PPTX" h2="Python-Bibliothek zum Konvertieren von PNG in PPTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Python in PPTX und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie PNG in PPTX mit dem Cloud SDK Cells für Python" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie PNG in PPTX mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in PPTX kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle Konvertierungen von PNG in das PPTX-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG in PPTX-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PPTX-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel für die Konvertierung von PNG in PPTX mit Cells Cloud SDK" gistPath="" %}}
+Das Konvertieren von Dateiformaten von PNG in PPTX kann eine komplexe Aufgabe sein. Unser Python-SDK übernimmt alle Konvertierungen von PNG in das PPTX-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG in PPTX-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PPTX-Ausgabe.
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Codebeispiel für die Konvertierung von PNG in PPTX mit Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -24,22 +25,16 @@ Das Konvertieren von Dateiformaten von PNG in PPTX kann eine komplexe Aufgabe se
     shutil.move(file1, "destFile.pptx")     
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python zum Konvertieren von Excel-Dateien in andere Formate PNG in PPTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie PNG mit der Cells Cloud Python-Bibliothek in PPTX konvertieren." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Installieren Sie die Bibliothek Python und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in Python.</li>
 <li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Python 2.7 oder neuer</li>
 <li>Python 3.10 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

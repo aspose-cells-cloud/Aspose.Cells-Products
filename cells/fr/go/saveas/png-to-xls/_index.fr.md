@@ -1,18 +1,19 @@
 ﻿---
 title:  Enregistrez PNG au format XLS à l'aide de Go
 description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format PNG au format XLS.
+kwords: Excel, Save PNG as XLS, REST, Go
+howto: How to save PNG as XLS using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer PNG en tant que XLS" h2="Accédez à la bibliothèque pour enregistrer PNG au format XLS" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer PNG au format XLS et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/png-to-xls/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Enregistrer PNG en tant que XLS" h2="Accédez à la bibliothèque pour enregistrer PNG au format XLS" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer PNG au format XLS et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/png-to-xls/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier PNG au format XLS dans Go" >}}
+{{< blocks/products/cells/cells-cloud-section title="Enregistrer un fichier PNG au format XLS dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Enregistrer les formats de fichiers à partir de PNG au format XLS est une tâche complexe. Toutes les transitions du format PNG vers XLS sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque Go est une solution professionnelle pour enregistrer PNG sous forme de fichiers XLS en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLS parfaite.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go Exemple de code pour enregistrer PNG au format XLS en utilisant REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Go Exemple de code pour enregistrer PNG au format XLS en utilisant REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -27,21 +28,15 @@ Enregistrer les formats de fichiers à partir de PNG au format XLS est une tâch
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Go pour enregistrer les fichiers Excel sous d\'autres formats PNG au format XLS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment enregistrer PNG au format XLS à l\'aide de la bibliothèque Cloud Go Cells." >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Installez la bibliothèque Go et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source en go.</li>
 <li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>aller à la version go1.13.0 ou plus récente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

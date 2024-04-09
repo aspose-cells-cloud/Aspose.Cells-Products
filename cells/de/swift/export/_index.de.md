@@ -1,6 +1,6 @@
 ﻿---
 title:  Mit Swift exportieren
-description: Aspose.Cells Cloud REST API unterstützt den Export von Arbeitsmappen und internen Objekten in alle Arten von Formaten mit Swift. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Arbeitsmappen und internen Objekten in alle Arten von Formaten mit Swift. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

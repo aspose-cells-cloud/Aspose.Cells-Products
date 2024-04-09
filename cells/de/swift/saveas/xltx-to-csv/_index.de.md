@@ -13,7 +13,7 @@ url: /de/swift/saveas/xltx-to-csv/
 Das Speichern von Dateiformaten aus XLTX als CSV ist eine komplexe Aufgabe. Alle XLTX-zu-CSV-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTX-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLTX als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLTX im CSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLTX als CSV-Format" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

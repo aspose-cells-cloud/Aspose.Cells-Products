@@ -10,7 +10,7 @@ url: /de/swift/saveas/xlt-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als SQL in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XLT als SQL ist eine komplexe Aufgabe. Alle XLT-zu-SQL-Formatübergänge werden von unserem Swift SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLT-Quelltabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLT als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
+Das Speichern von Dateiformaten aus XLT als SQL ist eine komplexe Aufgabe. Alle XLT-zu-SQL-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLT als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLT im SQL-Format" gistPath="" %}}

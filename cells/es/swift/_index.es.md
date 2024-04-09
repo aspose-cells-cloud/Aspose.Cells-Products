@@ -1,5 +1,5 @@
 ﻿---
-title: Generador y convertidor de hojas de cálculo Swift (Cloud REST API)
+title:  Generador y convertidor de hojas de cálculo Swift (Cloud REST API)
 description: REST API para buscar, procesar, cifrar, convertir y exportar Microsoft y hojas de cálculo de OpenOffice en la nube via Swift SDK
 weight: 130
 url: /es/swift
@@ -12,7 +12,7 @@ url: /es/swift
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-swift.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK para Swift ayuda a los programadores a integrar perfectamente Microsoft Excel y funciones de visualización y procesamiento de hojas de cálculo de OpenOffice en sus aplicaciones basadas en la nube desarrolladas en Swift. Aspose.Cells Cloud SDK para Swift tiene licencia del MIT.</p>
+<p>Aspose.Cells Cloud SDK para Swift ayuda a los programadores a integrar perfectamente las funciones de visualización y procesamiento de hojas de cálculo de Microsoft Excel y OpenOffice en sus aplicaciones basadas en la nube desarrolladas en Swift. Aspose.Cells Cloud SDK para Swift tiene licencia del MIT.</p>
 <p>Aspose.Cells Cloud SDK para Swift permite que sus aplicaciones Swift recuperen hojas de cálculo, hojas de trabajo y libros almacenados en la nube, así como también generen nuevas hojas de cálculo. También puede modificar su código Swift para procesar y modificar formato condicional, gráficos, tareas, formas, filtros, OleObjects, rangos, ListObjects y tablas dinámicas, desde sus aplicaciones sin instalar ningún software de terceros.</p>
 <p>Utilice Aspose.Cells Cloud SDK para Swift para convertir hojas de trabajo Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) y OpenOffice (ODS) a otros formatos populares, como XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited). ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF y rebajas (MD). También puede trabajar con los formatos SXC y FODS utilizando Aspose.Cells Cloud SDK para Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -46,7 +46,7 @@ url: /es/swift
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> De entrada y salida</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Oficina abierta:</b> SAO</li>
 <li><b>Hoja de cálculoML:</b> XML</li>
-<li><b>Texto:</b> CSV, TSV, TXT (delimitado por tabuladores)</li>
+<li><b>Texto:</b> CSV, TSV, TXT (delimitado por tabulaciones)</li>
 <li><b>Web:</b> HTML, HTML</li>
 </ul></div>
 <!--/left-->
@@ -111,7 +111,7 @@ url: /es/swift
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Obtener, actualizar, mostrar u ocultar la leyenda del gráfico
+Obtener, actualizar, mostrar u ocultar la leyenda del gráfico
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,7 +139,7 @@ url: /es/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Agregue un ListObject en el lugar especificado en el archivo Excel
+ Agregue un ListObject en el lugar especificado en el archivo Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,12 +235,12 @@ Agregue un ListObject en el lugar especificado en el archivo Excel
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose para la nube
      </a>
- obtenga la información de su solicitud. Una vez que tenga la aplicación SID &amp; clave, está listo para usar Aspose.Cells Cloud SDK para Swift en cualquier plataforma que admita API REST. Aspose.Cells Cloud SDK para Swift le proporciona todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
+ y obtenga la información de su solicitud. Una vez que tenga la aplicación SID &amp; clave, está listo para usar Aspose.Cells Cloud SDK para Swift en cualquier plataforma que admita API REST. Aspose.Cells Cloud SDK para Swift le proporciona todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Procesamiento de libros de trabajo via SDK de nube
+Procesamiento de libros de trabajo via SDK de nube
     </h2>
     <p>
  Aspose.Cells Cloud SDK para Swift le permite crear, dividir, fusionar, buscar y reemplazar texto, proteger con contraseña, exportar a formato de archivo compatible, leer elementos de texto del libro, ajustar automáticamente las filas del libro mientras se ignoran los elementos ocultos, cifrar la contraseña del libro y proporcionar una clave de cifrado. longitud, importar datos al libro de trabajo, calcular todas las fórmulas en el libro de trabajo, establecer configuraciones de cálculo de fórmulas proporcionando una estrategia de precisión, etc., usar un marcador inteligente, convertir el libro de trabajo del contenido solicitado a otro formato, aplicar una contraseña para permitir la modificación del contenido.

@@ -1,5 +1,5 @@
 ﻿---
-title: Enregistrer XLSM au format CSV en utilisant Android
+title:  Enregistrer XLSM au format CSV en utilisant Android
 description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLSM au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

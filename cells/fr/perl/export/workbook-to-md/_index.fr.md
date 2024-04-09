@@ -1,18 +1,19 @@
 ﻿---
 title:  Exporter WORKBOOK vers MD à partir de Excel à l'aide du SDK Cloud Cells pour Perl
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter WORKBOOK vers MD à partir du Excel" h2="Bibliothèque Perl pour exporter WORKBOOK vers un fichier MD" p="Utilisez Export API de Cells Cloud pour exporter les flux de travail d\'objets internes du fichier Excel dans Perl. Il s\'agit d\'une solution professionnelle pour exporter un WORKBOOK vers un fichier au format MD à partir d\'une feuille de calcul en ligne à l\'aide de Perl." urlsection="export/workbook-to-md/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exporter WORKBOOK vers MD à partir du Excel" h2="Bibliothèque Perl pour exporter WORKBOOK vers un fichier MD" p="Utilisez Export API de Cells Cloud pour exporter les flux de travail d\'objets internes du fichier Excel dans Perl. Il s\'agit d\'une solution professionnelle pour exporter un WORKBOOK vers un fichier au format MD à partir d\'une feuille de calcul en ligne à l\'aide de Perl." urlsection="export/workbook-to-md/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportez l\'objet WORKBOOK vers un fichier au format MD à l\'aide du SDK Cloud Cells pour Perl." >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportez l\'objet WORKBOOK vers un fichier au format MD à l\'aide du SDK Cloud Cells pour Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Exporter un objet WORKBOOK vers un fichier MD à partir du fichier Excel est une tâche complexe. L'exportation des transitions au format WORKBOOK vers MD est effectuée par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKBOOK source. Notre bibliothèque Perl est une solution professionnelle pour exporter en ligne des objets WORKBOOK vers des fichiers au format MD. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie MD parfaite.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour exporter WORKBOOK au format MD à partir d\'une feuille de calcul" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Exemple de code dans Perl utilisant REST API pour exporter WORKBOOK au format MD à partir d\'une feuille de calcul" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -33,21 +34,14 @@ Exporter un objet WORKBOOK vers un fichier MD à partir du fichier Excel est une
     close $fh;
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Perl pour exporter des objets de Excel WORKBOOK vers MD" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
 <li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
 <li>Appelez la méthode post_export pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

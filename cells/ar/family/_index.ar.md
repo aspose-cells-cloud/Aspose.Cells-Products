@@ -4,7 +4,7 @@ weight: 10
 description: تمكّنك سحابة Aspose.Cells API من تنفيذ مجموعة واسعة من مهام معالجة المستندات على أي نظام أساسي، بما في ذلك إنشاء مستندات Excel ومعالجتها وتحويلها وعرضها في السحابة. باستخدام هذا API، يمكنك بسهولة تحويل Excel وOpenOffice وتنسيقات الملفات الأخرى إلى مجموعة متنوعة من تنسيقات الإخراج، بما في ذلك PDF وHTML وODS وXPS وCSV وJSON وMarkdown والمزيد.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="معالجة جداول البيانات Excel على منصات متعددة" h2="واجهات برمجة التطبيقات الأصلية لإنشاء ملفات Excel وتحريرها وتحويلها وتقديمها. تصدير جداول البيانات إلى تنسيقات متعددة على أي نظام أساسي." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="معالجة جداول البيانات Excel على منصات متعددة" h2="واجهات برمجة التطبيقات الأصلية لإنشاء ملفات Excel وتحريرها وتحويلها وعرضها. تصدير جداول البيانات إلى تنسيقات متعددة على أي نظام أساسي." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 

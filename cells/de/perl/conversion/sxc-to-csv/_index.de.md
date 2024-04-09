@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie SXC mit Perl in CSV
-description: Verwendung des Aspose.Cells Cloud SDK für Perl zum Konvertieren einer SXC-Formatdatei in eine CSV-Formatdatei.
+description:  Verwendung des Aspose.Cells Cloud SDK für Perl zum Konvertieren einer SXC-Formatdatei in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie SXC in CSV" h2="Perl Bibliothek zum Konvertieren von SXC in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von SXC in CSV und andere Dokumentformate unter Perl." urlsection="conversion/sxc-to-csv/" >}}

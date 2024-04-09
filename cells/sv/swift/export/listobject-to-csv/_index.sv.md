@@ -13,7 +13,7 @@ url: /sv/swift/export/listobject-to-csv/
 Exportera LISTOBJECT-objekt till CSV-fil från kalkylblad är en komplex uppgift. Export av LISTOBJECT till CSV-formatövergångar utförs av vår Swift SDK samtidigt som källbladets LISTOBJECT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att exportera LISTOBJECT-objekt till CSV-formatfiler online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att exportera LISTOBJECT till CSV-format från kalkylblad" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att exportera LISTOBJECT till CSV-format från kalkylark" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

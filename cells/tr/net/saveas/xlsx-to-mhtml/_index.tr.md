@@ -12,7 +12,7 @@ description:  XLSX formatındaki dosyayı MHTML formatındaki dosya olarak kayde
 Dosya formatlarını XLSX'ten MHTML olarak kaydetmek karmaşık bir iştir. Tüm XLSX'ten MHTML formatına geçişler, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, XLSX'i çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, C# geliştiriciye güçlü işlevsellik ve mükemmel MHTML çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# XLSX\'i REST kullanarak MHTML olarak kaydetmek için Kod Örneği API" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# REST API kullanarak XLSX\'i MHTML olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -27,7 +27,7 @@ Dosya formatlarını XLSX'ten MHTML olarak kaydetmek karmaşık bir iştir. Tüm
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer XLSX formatlarında MHTML olarak kaydetmek için Cells Cloud SDK for Net nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `PostWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

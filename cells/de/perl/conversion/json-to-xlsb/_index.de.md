@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertieren Sie JSON mit Perl in XLSB
 description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren einer Datei im JSON-Format in eine Datei im XLSB-Format.
+kwords: Excel, Convert JSON to XLSB, REST, Perl
+howto: How to convert JSON to XLSB using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie JSON in XLSB" h2="Perl Bibliothek zum Konvertieren von JSON in XLSB" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JSON in XLSB und andere Dokumentformate unter Verwendung von Perl." urlsection="conversion/json-to-xlsb/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie JSON in XLSB" h2="Perl Bibliothek zum Konvertieren von JSON in XLSB" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JSON in XLSB und andere Dokumentformate unter Verwendung von Perl." urlsection="conversion/json-to-xlsb/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie JSON in XLSB mit dem Cloud SDK Cells für Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie JSON in XLSB mit dem Cloud SDK Cells für Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von JSON in XLSB kann eine komplexe Aufgabe sein. Unser Perl SDK übernimmt alle Konvertierungen von JSON in das XLSB-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der JSON-Quelltabelle bei. Unsere Perl-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von JSON- in XLSB-Dateien. Dieses Cloud SDK bietet Perl-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSB-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel für die Konvertierung von JSON in XLSB mit Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Codebeispiel für die Konvertierung von JSON in XLSB mit Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -39,21 +40,15 @@ Das Konvertieren von Dateiformaten von JSON in XLSB kann eine komplexe Aufgabe s
     close $fh;
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das SDK Perl, um JSON in XLSB zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie JSON mithilfe der Cloud-Bibliothek Cells Perl in XLSB konvertieren." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Installieren Sie das Paket Perl und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in Perl.</li>
 <li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

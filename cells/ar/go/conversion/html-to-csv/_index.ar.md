@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل HTML إلى CSV باستخدام Go
-description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق HTML إلى ملف بتنسيق CSV.
+description: استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق HTML إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل HTML إلى CSV" h2="انتقل إلى المكتبة لتحويل HTML إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل HTML إلى ملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/html-to-csv/" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ JSON بتنسيق XLS باستخدام NodeJS
 description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق JSON كملف بتنسيق XLS.
+kwords: Excel, Save JSON as XLS, REST, NodeJS
+howto: How to save JSON as XLS using Aspose.Cells Cloud NodeJS library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ JSON بتنسيق XLS" h2="مكتبة NodeJS لحفظ JSON بتنسيق XLS" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في NodeJS. يعد هذا حلاً احترافيًا لحفظ JSON بتنسيق XLS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/json-to-xls/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ JSON بتنسيق XLS" h2="مكتبة NodeJS لحفظ JSON بتنسيق XLS" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في NodeJS. يعد هذا حلاً احترافيًا لحفظ JSON بتنسيق XLS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="saveas/json-to-xls/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON بتنسيق XLS في NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف JSON بتنسيق XLS في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من JSON بتنسيق XLS مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق JSON إلى XLS بواسطة NodeJS SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لحفظ JSON كملفات XLS عبر الإنترنت. يوفر Cloud SDK لمطوري NodeJS وظائف قوية ومخرجات XLS مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز NodeJS لحفظ JSON كـ XLS باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="مثال على رمز NodeJS لحفظ JSON كـ XLS باستخدام REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -29,21 +30,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف 
     });
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK للعقدة لحفظ ملفات Excel بتنسيقات أخرى JSON مثل XLS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ JSON بتنسيق XLS باستخدام مكتبة Cloud NodeJS Cells." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة NodeJS وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في جافا سكريبت.</li>
 <li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>العقدة v6.17.1 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

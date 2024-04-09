@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV в TIFF Преобразовать API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата TIFF.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата TIFF.
 url: /ru/swift/conversion/csv-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

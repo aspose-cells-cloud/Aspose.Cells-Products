@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertieren Sie PNG mit Java in BMP
 description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im Format PNG in eine Datei im Format BMP.
+kwords: Excel, Convert PNG to BMP, REST, Java
+howto: How to convert PNG to BMP using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie PNG in BMP" h2="Java-Bibliothek zum Konvertieren von PNG in BMP" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung, um PNG in BMP und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/png-to-bmp/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie PNG in BMP" h2="Java-Bibliothek zum Konvertieren von PNG in BMP" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung, um PNG in BMP und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/png-to-bmp/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie PNG in BMP mit Cells Cloud SDK for Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie PNG in BMP mit Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von PNG in BMP kann eine komplexe Aufgabe sein. Unser Java SDK verarbeitet alle Formatkonvertierungen von PNG in BMP und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG- in BMP-Dateien. Dieses Cloud SDK stellt Java-Entwicklern leistungsstarke Funktionen zur Verfügung und gewährleistet eine qualitativ hochwertige BMP-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel für die Konvertierung von PNG in BMP mithilfe des Cloud SDK Cells" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Codebeispiel für die Konvertierung von PNG in BMP mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -43,22 +44,16 @@ Das Konvertieren von Dateiformaten von PNG in BMP kann eine komplexe Aufgabe sei
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Konvertieren von Excel-Dateien in andere Formate PNG bis BMP" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie PNG mithilfe der Cells Cloud Java-Bibliothek in BMP konvertieren." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Installieren Sie die Bibliothek Java und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in Java.</li>
 <li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
 <li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как DIF API для Swift.
-description: Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата CSV как файла формата DIF.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата CSV как файла формата DIF.
 url: /ru/swift/saveas/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

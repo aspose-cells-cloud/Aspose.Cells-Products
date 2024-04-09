@@ -1,6 +1,6 @@
 ﻿---
 title:  Proteggiti utilizzando Swift
-description:  Aspose.Cells Cloud REST API supporta cartelle di lavoro con decrittografia, crittografia e firma digitale utilizzando Swift. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e Swift.
+description: Aspose.Cells Cloud REST API supporta cartelle di lavoro con decrittografia, crittografia e firma digitale utilizzando Swift. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e Swift.
 url: /it/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

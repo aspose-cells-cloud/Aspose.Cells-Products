@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX بتنسيق JSON باستخدام Android
+title:  احفظ XLSX بتنسيق JSON باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق JSON.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

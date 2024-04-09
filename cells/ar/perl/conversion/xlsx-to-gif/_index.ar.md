@@ -1,18 +1,19 @@
 ﻿---
 title:  تحويل XLSX إلى GIF باستخدام Perl
-description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق XLSX إلى ملف بتنسيق GIF.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق XLSX إلى ملف بتنسيق GIF.
+kwords: Excel, Convert XLSX to GIF, REST, Perl
+howto: How to convert XLSX to GIF using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSX إلى GIF" h2="مكتبة Perl لتحويل XLSX إلى GIF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل XLSX إلى GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsx-to-gif/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل XLSX إلى GIF" h2="مكتبة Perl لتحويل XLSX إلى GIF" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل XLSX إلى GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsx-to-gif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSX إلى GIF باستخدام Cells Cloud SDK لـ Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل XLSX إلى GIF باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 يمكن أن يكون تحويل تنسيقات الملفات من XLSX إلى GIF مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق XLSX إلى GIF مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XLSX إلى ملفات GIF عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن إخراج صور GIF عالية الجودة.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل XLSX إلى GIF باستخدام Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl مثال على الكود لتحويل XLSX إلى GIF باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -39,21 +40,15 @@ description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف
     close $fh;
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل XLSX إلى GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل XLSX إلى GIF باستخدام مكتبة Cells Cloud Perl." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت حزمة Perl وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في Perl.</li>
 <li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

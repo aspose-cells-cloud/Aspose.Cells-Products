@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie CSV als TIFF API für Swift
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im CSV-Format als Datei im Format TIFF zu speichern.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im CSV-Format als Datei im Format TIFF zu speichern.
 url: /de/swift/saveas/csv-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

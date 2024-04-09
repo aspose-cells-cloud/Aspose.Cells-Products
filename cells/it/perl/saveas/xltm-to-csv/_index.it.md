@@ -1,5 +1,5 @@
 ﻿---
-title: Salva XLTM come CSV utilizzando Perl
+title:  Salva XLTM come CSV utilizzando Perl
 description:  Utilizzando Aspose.Cells Cloud SDK per Perl per salvare il file in formato XLTM come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

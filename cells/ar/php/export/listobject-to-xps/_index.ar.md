@@ -1,18 +1,19 @@
 ﻿---
-title:  تصدير LISTOBJECT إلى XPS من Excel باستخدام Cells Cloud SDK لـ PHP
+title: تصدير LISTOBJECT إلى XPS من Excel باستخدام Cells Cloud SDK لـ PHP
 description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير LISTOBJECT إلى XPS من Excel" h2="مكتبة PHP لتصدير LISTOBJECT إلى ملف XPS" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في PHP. هذا حل احترافي لتصدير LISTOBJECT إلى ملف بتنسيق XPS من جدول البيانات عبر الإنترنت باستخدام PHP." urlsection="export/listobject-to-xps/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تصدير LISTOBJECT إلى XPS من Excel" h2="مكتبة PHP لتصدير LISTOBJECT إلى ملف XPS" p="استخدم تصدير API من Cells Cloud لتصدير سير عمل الكائن الداخلي للملف Excel في PHP. هذا حل احترافي لتصدير LISTOBJECT إلى ملف بتنسيق XPS من جدول البيانات عبر الإنترنت باستخدام PHP." urlsection="export/listobject-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن LISTOBJECT إلى ملف بتنسيق XPS باستخدام Cells Cloud SDK لـ PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="تصدير كائن LISTOBJECT إلى ملف بتنسيق XPS باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن LISTOBJECT إلى ملف XPS من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير LISTOBJECT إلى تنسيق XPS بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق XPS عبر الإنترنت. يمنح Cloud SDK هذا مطوري PHP وظائف قوية وإخراج XPS مثاليًا.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في PHP باستخدام REST API لتصدير LISTOBJECT إلى تنسيق XPS من جدول البيانات" gistPath="" %}}
+يعد تصدير كائن LISTOBJECT إلى ملف XPS من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير LISTOBJECT إلى XPS بواسطة PHP SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات LISTOBJECT المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتصدير كائنات LISTOBJECT إلى ملفات بتنسيق XPS عبر الإنترنت. يمنح Cloud SDK هذا مطوري PHP وظائف قوية وإخراج XPS مثاليًا.
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="مثال على الكود في PHP باستخدام REST API لتصدير LISTOBJECT إلى تنسيق XPS من جدول البيانات" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,14 @@ description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات ب�
     fclose($ptr);
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتصدير الكائنات من Excel LISTOBJECT إلى XPS" >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
 <li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>PHP 7.4 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

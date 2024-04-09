@@ -1,18 +1,19 @@
 ﻿---
 title:  Spara XLSB som DIF med NodeJS
 description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLSB-formatfil som DIF-formatfil.
+kwords: Excel, Save XLSB as DIF, REST, NodeJS
+howto: How to save XLSB as DIF using Aspose.Cells Cloud NodeJS library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSB som DIF" h2="NodeJS-bibliotek för att spara XLSB som DIF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara XLSB som DIF och andra dokumentformat online med NodeJS." urlsection="saveas/xlsb-to-dif/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara XLSB som DIF" h2="NodeJS-bibliotek för att spara XLSB som DIF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS. Detta är en professionell lösning för att spara XLSB som DIF och andra dokumentformat online med NodeJS." urlsection="saveas/xlsb-to-dif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSB-fil som DIF i NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="Spara en XLSB-fil som DIF i NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Att spara filformat från XLSB som DIF är en komplex uppgift. Alla XLSB- till DIF-formatövergångar utförs av vår NodeJS SDK samtidigt som käll-XLSB-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att spara XLSB som DIF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att spara XLSB som DIF med REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="NodeJS-kodexempel för att spara XLSB som DIF med REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -29,21 +30,15 @@ Att spara filformat från XLSB som DIF är en komplex uppgift. Alla XLSB- till D
     });
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att spara Excel filer som andra format XLSB som DIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du sparar XLSB som DIF med hjälp av Cells Cloud NodeJS-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera NodeJS-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i JavaScript.</li>
 <li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>nod v6.17.1 eller senare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

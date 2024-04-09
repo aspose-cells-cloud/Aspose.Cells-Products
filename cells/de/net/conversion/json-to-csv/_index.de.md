@@ -35,7 +35,7 @@ Das Konvertieren von Dateiformaten von JSON in CSV kann eine komplexe Aufgabe se
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in andere Formate, JSON in CSV, zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in andere Formate von JSON in CSV zu konvertieren" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>

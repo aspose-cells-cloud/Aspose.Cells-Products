@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som XPS API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att spara en fil i CSV-format som en fil i XPS-format.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara en fil i CSV-format som en fil i XPS-format.
 url: /sv/swift/saveas/csv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

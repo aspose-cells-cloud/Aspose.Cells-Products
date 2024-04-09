@@ -7,7 +7,7 @@ url: /ar/swift/clear/blank-columns/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API لمسح الأعمدة الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="Swift Clear لمسح الأعمدة الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأعمدة الفارغة في سير عمل Microsoft المحلي Excel وOpenOffice Calc في Swift. يقوم هذا الحل الاحترافي بمسح الأعمدة الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الأعمدة الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc - Swift REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الأعمدة الفارغة على Microsoft المحلي Excel وجدول بيانات OpenOffice Calc - Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
 يعد مسح الأعمدة الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc مهمة معقدة. يتم مسح الأعمدة الفارغة على Microsoft Excel المحلي وانتقالات جدول بيانات OpenOffice Calc بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لمسح الأعمدة الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وAPI مثاليًا.

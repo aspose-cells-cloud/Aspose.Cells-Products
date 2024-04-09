@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать GIF в WMF API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата WMF.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата WMF.
 url: /ru/swift/conversion/gif-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

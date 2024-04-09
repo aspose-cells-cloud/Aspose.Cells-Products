@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ SXC API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق HTML كملف تنسيق SXC.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق HTML كملف تنسيق SXC.
 url: /ar/swift/saveas/html-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

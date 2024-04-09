@@ -9,7 +9,7 @@ description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till MD-formatfil med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKBOOK-objekt till MD-fil från Excel-filen är en komplex uppgift. Export av WORKBOOK till MD formatövergångar utförs av vår Android SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till MD-formatfiler online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt MD-utgång.
+Exportera WORKBOOK-objekt till MD-fil från Excel-filen är en komplex uppgift. Export av WORKBOOK till MD-formatövergångar utförs av vår Android SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till MD-formatfiler online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt MD-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att exportera ARBETSBOK till MD-format från kalkylblad" gistPath="" %}}

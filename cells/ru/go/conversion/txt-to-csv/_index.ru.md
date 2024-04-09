@@ -1,5 +1,5 @@
 ﻿---
-title:  Конвертируйте TXT в CSV с помощью Go
+title: Конвертируйте TXT в CSV с помощью Go
 description:  Использование Cloud SDK Aspose.Cells для Go для преобразования файла формата TXT в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

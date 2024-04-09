@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF in TXT konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer GIF-Formatdatei in eine TXT-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer GIF-Formatdatei in eine TXT-Formatdatei.
 url: /de/swift/conversion/gif-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

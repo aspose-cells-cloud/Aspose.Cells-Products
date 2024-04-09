@@ -1,5 +1,5 @@
 ﻿---
-title: تحويل CSV إلى DIF API لـ Swift
+title:  تحويل CSV إلى DIF API لـ Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق DIF.
 url: /ar/swift/conversion/csv-to-dif/
 ---

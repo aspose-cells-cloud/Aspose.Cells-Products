@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertera XLS till CSV med Go
+title: Konvertera XLS till CSV med Go
 description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en XLS-fil till en CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

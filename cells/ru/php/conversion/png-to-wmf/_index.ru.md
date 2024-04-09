@@ -1,18 +1,19 @@
 ﻿---
 title:  Преобразуйте PNG в WMF, используя PHP.
-description: Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата PNG в файл формата WMF.
+description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата PNG в файл формата WMF.
+kwords: Excel, Convert PNG to WMF, REST, PHP
+howto: How to convert PNG to WMF using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать PNG в WMF" h2="PHP библиотека для конвертации PNG в WMF" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертации PNG в WMF и другие форматы документов с помощью PHP." urlsection="conversion/png-to-wmf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать PNG в WMF" h2="PHP библиотека для конвертации PNG в WMF" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертации PNG в WMF и другие форматы документов с помощью PHP." urlsection="conversion/png-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте PNG в WMF с помощью Cloud SDK Cells для PHP." >}}
+{{< blocks/products/cells/cells-cloud-section title="Преобразуйте PNG в WMF с помощью Cloud SDK Cells для PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов PNG в WMF может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования формата PNG в WMF, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека PHP предоставляет профессиональное решение для онлайн-конвертации PNG в файлы WMF. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный вывод WMF.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для преобразования PNG в WMF с помощью Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Пример кода для преобразования PNG в WMF с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,15 @@ description: Использование Cloud SDK Aspose.Cells для PHP для
     fclose($file);
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для преобразования файлов Excel в другие форматы PNG в WMF." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как преобразовать PNG в WMF с помощью библиотеки Cells Cloud PHP." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку PHP и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру PHP.</li>
 <li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>PHP 7.4 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

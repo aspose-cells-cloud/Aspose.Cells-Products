@@ -88,7 +88,7 @@ url: /es/cpp
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose para la nube
      </a>
- obtenga la información de su solicitud. Una vez que tenga la aplicación SID &amp; clave, está listo para usar Aspose.Cells Cloud SDK para CPP en cualquier plataforma que admita API REST. Aspose.Cells Cloud SDK para Ruby le proporciona todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
+ y obtenga la información de su solicitud. Una vez que tenga la aplicación SID &amp; clave, está listo para usar Aspose.Cells Cloud SDK para CPP en cualquier plataforma que admita API REST. Aspose.Cells Cloud SDK para Ruby le proporciona todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
     </p>
    </div>
    <div class="col-lg-12">
@@ -96,12 +96,12 @@ url: /es/cpp
  Convierta Microsoft Excel o la hoja de cálculo de OpenOffice Calc a tipos de archivos de formato.
     </h2>
     <p>
- Aspose.Cells Cloud SDK para CPP ha incluido una funcionalidad para convertir mediante programación el libro de trabajo Excel a tipos de archivos de formato utilizando el lenguaje CPP. Microsoft Excel o la conversión de hojas de cálculo de OpenOffice Calc es un proceso complejo. Muchos factores contribuyen a la complejidad y, por lo tanto, deben tenerse en cuenta durante el proceso de transformación. La capacidad de convertir archivos Excel de un formato a otro con calidad profesional precisa es una característica principal de Aspose.Cells Cloud.
+Aspose.Cells Cloud SDK para CPP ha incluido una funcionalidad para convertir mediante programación el libro de trabajo Excel a tipos de archivos de formato utilizando el lenguaje CPP. Microsoft Excel o la conversión de hojas de cálculo de OpenOffice Calc es un proceso complejo. Muchos factores contribuyen a la complejidad y, por lo tanto, deben tenerse en cuenta durante el proceso de transformación. La capacidad de convertir archivos Excel de un formato a otro con calidad profesional precisa es una característica principal de Aspose.Cells Cloud.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Proteger Microsoft Excel via API de CPP
+ Proteger Microsoft Excel via API de CPP
     </h2>
     <p>
  Aspose.Cells Cloud SDK para CPP ha incluido una funcionalidad para proteger mediante programación el libro de trabajo Excel utilizando el lenguaje CPP. Como proteger y desproteger el libro con contraseña, agregar firma digital al libro.
@@ -112,13 +112,13 @@ Proteger Microsoft Excel via API de CPP
  Combine varias hojas de cálculo Microsoft Excels u OpenOffice Calc en un archivo.
     </h2>
     <p>
- Aspose.Cells Cloud SDK para CPP ha incluido funcionalidad para fusionar mediante programación varias hojas de cálculo Microsoft Excels u OpenOffice Calc en un archivo usando el lenguaje CPP. Admite múltiples tipos de entrada de archivos de formato. Y admite tipos de formato de salida.
+Aspose.Cells Cloud SDK para CPP ha incluido funcionalidad para fusionar mediante programación varias hojas de cálculo Microsoft Excels u OpenOffice Calc en un archivo usando el lenguaje CPP. Admite múltiples tipos de entrada de archivos de formato. Y admite tipos de formato de salida.
     </p>
     <h2 class="h2title">
  Buscar y reemplazar libros de texto
     </h2>
     <p>
-Aspose.Cells Cloud SDK para CPP ha brindado soporte para trabajar con texto dentro de un libro usando comandos del lenguaje CPP. El SDK ha proporcionado funciones muy útiles relacionadas con la búsqueda de texto y su actualización, como buscar y reemplazar texto en un libro o en una hoja de trabajo, obtener elementos de texto de hojas de trabajo y muchas más. Además, también puedes extraer texto, imágenes o formas de una hoja de trabajo con comandos CPP simples.
+ Aspose.Cells Cloud SDK para CPP ha brindado soporte para trabajar con texto dentro de un libro usando comandos del lenguaje CPP. El SDK ha proporcionado funciones muy útiles relacionadas con la búsqueda de texto y su actualización, como buscar y reemplazar texto en un libro o en una hoja de trabajo, obtener elementos de texto de hojas de trabajo y muchas más. Además, también puedes extraer texto, imágenes o formas de una hoja de trabajo con comandos CPP simples.
     </p>
     <p>
     </p>

@@ -1,5 +1,5 @@
 ﻿---
-title: API pour l'analyse de la feuille de calcul Excel disponibles dans .NET, Java, Python, C++, PHP et Go.
+title: API pour l'analyse de feuille de calcul Excel disponibles dans .NET, Java, Python, C++, PHP et Go.
 weight: 10
 description: Le Aspose.Cells Cloud API vous permet d'exécuter un large éventail de tâches de traitement de documents sur n'importe quelle plate-forme, englobant la création, la manipulation, la conversion et le rendu de Excel documents dans le cloud. Avec ce API, vous pouvez facilement convertir Excel, OpenOffice et d'autres formats de fichiers dans une variété de formats de sortie, notamment PDF, HTML, ODS, XPS, CSV, JSON, Markdown, et plus encore.
 ---

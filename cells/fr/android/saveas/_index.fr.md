@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez le fichier Excel sous d’autres formats en utilisant Android
-description: Aspose.Cells Cloud REST API prend en charge l'enregistrement de fichiers Excel dans différents formats à l'aide d'Android et propose des SDK pour plusieurs langages de programmation.
+description:  Aspose.Cells Cloud REST API prend en charge l'enregistrement de fichiers Excel dans différents formats à l'aide d'Android et propose des SDK pour plusieurs langages de programmation.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrez le fichier Excel sous d’autres formats en utilisant Android" h2="Aspose.Cells Cloud SDK prend en charge l\'enregistrement des classeurs dans plus de 30 formats de fichiers différents." p="Aspose.Cells Cloud REST API prend en charge l\'enregistrement de fichiers Excel dans différents formats à l\'aide d\'Android et propose des SDK pour plusieurs langages de programmation." urlsection="saveas/" >}}

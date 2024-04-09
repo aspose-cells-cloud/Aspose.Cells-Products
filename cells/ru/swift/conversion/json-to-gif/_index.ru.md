@@ -1,6 +1,6 @@
 ﻿---
-title: Конвертировать JSON в GIF API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата GIF.
+title:  Конвертировать JSON в GIF API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата GIF.
 url: /ru/swift/conversion/json-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

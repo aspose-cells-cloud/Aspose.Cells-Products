@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON a SVG Convertir API para Swift
-description: Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato JSON a un archivo de formato SVG.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato JSON a un archivo de formato SVG.
 url: /es/swift/conversion/json-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

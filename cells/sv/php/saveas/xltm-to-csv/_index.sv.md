@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLTM som CSV med PHP
+title:  Spara XLTM som CSV med PHP
 description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLTM-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till PNG Konvertera API för Swift
-description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till PNG filformat.
+description:  Använda Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till PNG filformat.
 url: /sv/swift/conversion/html-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

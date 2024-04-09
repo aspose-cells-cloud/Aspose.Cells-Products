@@ -1,6 +1,6 @@
 ﻿---
-title: Excel® Programmation de feuilles de calcul API pour accélérer les tâches de gestion et de traitement des feuilles de calcul à l'aide de .Net
-description: API prend en charge la création d'applications multiplateformes ayant la capacité de générer, modifier, convertir, restituer et imprimer des feuilles de calcul. Il permet aux développeurs de gérer des feuilles de calcul, des lignes, des colonnes et des cellules, de créer du contenu et des styles de feuilles de calcul à partir de zéro, d'importer des données sur les feuilles de calcul à partir de différentes sources de données, d'ajouter des formules mathématiques, financières et textuelles courantes et complexes, de créer et de manipuler des tableaux croisés dynamiques, des graphiques. , hyperliens, commentaires, objets de dessin et bien plus encore.
+title: Gestion légère des feuilles de calcul | Nuage Excel et OpenOffice API
+description: Découvrez une solution conviviale et low-code pour gérer vos feuilles de calcul dans le cloud. Notre RESTful API vous permet de créer, lire, écrire, fusionner, diviser, crypter et convertir facilement des fichiers Excel et OpenOffice en ligne. Rationalisez votre flux de travail avec nos services cloud efficaces et légers.
 weight: 90
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -8,23 +8,23 @@ weight: 90
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .Net" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
- 
-{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}   
-    {{< blocks/products/cells/cells-cloud-language-content title="Aperçu" msglink="https://products.aspose.cloud/cells/family/" msg="Le SDK Cloud Aspose.Cells pour .Net facilite le développement rapide d\'applications cloud robustes pour les numéros Microsoft Excel, iWork office, les feuilles de calcul OpenOffice et d\'autres fichiers de format. Il fournit des fonctionnalités pour générer, lire, fusionner, diviser, crypter et convertir des fichiers dans le langage de programmation .Net. Ce SDK est construit sur le Cloud Aspose.Cells API et fonctionne sous la licence MIT." >}}
-    {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" msg="Le SDK Cloud Aspose.Cells pour .Net permet à vos applications .Net d\'accéder et de modifier divers éléments dans les feuilles de calcul cloud. Il permet la manipulation des filtres automatiques, des classeurs, des cellules, des colonnes, des lignes, des graphiques, des formes, des hyperliens, de la mise en forme conditionnelle, des OleObjects, des sauts de page, des ListObjects, des tableaux croisés dynamiques, des tâches et des plages. Ce SDK permet à votre programme .Net de convertir une variété de formats tels que XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS en DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV. , TXT, HTML et MHTML." >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}
+
+{{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="Aperçu" msg="Le SDK Cloud Aspose.Cells pour .Net facilite le développement rapide d\'applications cloud robustes pour les numéros Microsoft Excel, iWork office, les feuilles de calcul OpenOffice et d\'autres fichiers de format. Il fournit des fonctionnalités pour générer, lire, fusionner, diviser, crypter et convertir des fichiers dans le langage de programmation .Net. Ce SDK est construit sur le Cloud Aspose.Cells API et fonctionne sous la licence MIT." >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="Le SDK Cloud Aspose.Cells pour .Net permet à vos applications .Net d\'accéder et de modifier divers éléments dans les feuilles de calcul cloud. Il permet la manipulation des filtres automatiques, des classeurs, des cellules, des colonnes, des lignes, des graphiques, des formes, des hyperliens, de la mise en forme conditionnelle, des OleObjects, des sauts de page, des ListObjects, des tableaux croisés dynamiques, des tâches et des plages. Ce SDK permet à votre programme .Net de convertir une variété de formats tels que XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS en DIF, PDF, XPS, TIFF, SVG, Markdown, XML, SpreadsheetML, CSV, TSV. , TXT, HTML et MHTML." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
-  
+
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" imgalt="computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" title="Début du traitement de la feuille de calcul Excel avec le SDK .Net." msg="Pour commencer, commencez par installer la bibliothèque Cloud Aspose.Cells pour .Net puis créez un compte sur Aspose pour Cloud pour obtenir les identifiants de votre application. Une fois que vous disposez du SID et de la clé de l\'application, vous pouvez les exploiter sur n\'importe laquelle des plates-formes .Net prises en charge à l\'aide du SDK Cloud Aspose.Cells pour .Net. Ce SDK offre une gamme complète de fonctionnalités pour créer, modifier et convertir des feuilles de calcul. De plus, il vous permet d\'extraire des données de feuilles de calcul pour un traitement ou un stockage ultérieur." >}}
-{{< /blocks/products/cells/cells-cloud-language-layout >}}  
+    {{< blocks/products/cells/cells-cloud-language-content title="Début du traitement de la feuille de calcul Excel avec le SDK .Net." msg="Pour commencer, commencez par installer la bibliothèque Cloud Aspose.Cells pour .Net puis créez un compte sur Aspose pour Cloud pour obtenir les identifiants de votre application. Une fois que vous disposez du SID et de la clé de l\'application, vous pouvez les exploiter sur n\'importe laquelle des plates-formes .Net prises en charge à l\'aide du SDK Cloud Aspose.Cells pour .Net. Ce SDK offre une gamme complète de fonctionnalités pour créer, modifier et convertir des feuilles de calcul. De plus, il vous permet d\'extraire des données de feuilles de calcul pour un traitement ou un stockage ultérieur." >}}
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
 
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" imgalt="operatest.png" >}}
     {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Le SDK Cloud Aspose.Cells pour .Net facilite de nombreuses opérations telles que la création, le fractionnement, la fusion, la recherche et le remplacement de texte, l\'application d\'une protection par mot de passe, l\'exportation vers les formats de fichiers pris en charge, la lecture des éléments de texte du classeur, l\'ajustement automatique des lignes du classeur tout en ignorant les éléments masqués. éléments, chiffrement des mots de passe des classeurs avec des longueurs de clé de chiffrement variées, importation de données dans les classeurs, calcul de toutes les formules, définition d\'une stratégie de précision de calcul des formules, utilisation de marqueurs intelligents, conversion des classeurs entre formats et application de mots de passe pour permettre la modification du contenu.</p><p> vous pouvez effectuer diverses opérations telles que la suppression de lignes spécifiques ou de toutes les lignes d\'une feuille de calcul, l\'accès aux données des cellules de la feuille de calcul ou aux noms de cellules du style de cellule via, la récupération des données de ligne ou de colonne en fonction de leurs indices, le calcul des formules de cellule, l\'effacement du contenu des cellules, la copie des cellules. données dans une autre cellule, dupliquer des colonnes et des lignes de feuille de calcul, regrouper des lignes et des colonnes de feuille de calcul, masquer des lignes et des colonnes de feuille de calcul spécifiques, définir des styles pour les colonnes et des lignes de feuille de calcul, définir des valeurs de chaîne HTML dans les cellules, attribuer des valeurs à une plage de cellules et modifier diverses paramètres de la feuille de calcul.</p>" >}}
-{{< /blocks/products/cells/cells-cloud-language-layout >}}   
+{{< /blocks/products/cells/cells-cloud-language-layout >}}
 
-    
+
 {{< blocks/products/cells/cells-cloud-language-card title="Formats de fichiers pris en charge" title2="" >}}
     {{< blocks/products/cells/cells-cloud-language-cardlist title="Format d\'entrée" >}}
         <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
@@ -32,7 +32,7 @@ weight: 90
         <li><b>Langage de balisage extensible :</b> XML, Josn</li>
         <li><b>Texte:</b> CSV, TSV, TXT, démarque</li>
         <li><b>La toile:</b> HTML, HTML</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}
      {{< blocks/products/cells/cells-cloud-language-cardlist title="Format de sortie" >}}
         <li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, XLAM</li>
         <li><b>Ouvrir le Office :</b> SAO</li>
@@ -46,32 +46,32 @@ weight: 90
         <li><b>Format d'échange de données :</b> Diff</li>
         <li><b>Format de spécification du papier XML :</b> XPS</li>
         <li><b>Script de base de données :</b> SQL</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
+     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}
 {{< /blocks/products/cells/cells-cloud-language-card >}}
 
-  
+
 {{< blocks/products/cells/product-card-row title=" Fonctionnalités avancées de manipulation de feuilles de calcul" title2="" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Ajouter des filtres avec des critères personnalisés pour les listes" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="Filtre automatique" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Prise en charge de plusieurs types de filtres de liste" href="https://reference.aspose.cloud/cells/#/ListObjects" title="types de filtres de liste" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Obtenir des informations sur la bordure de la zone de graphique ou le format de remplissage" href="https://reference.aspose.cloud/cells/#/Conversion" title="conversion de cellules" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Ajouter, mettre à jour et supprimer des graphiques dans une feuille de calcul" href="https://reference.aspose.cloud/cells/#/Worksheets" title="feuille de calcul des cellules" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Obtenir, mettre à jour, afficher ou masquer la légende du graphique" href="https://reference.aspose.cloud/cells/#/Charts" title="graphique de cellules" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Obtenez, mettez à jour le titre du graphique et définissez sa visibilité" href="https://reference.aspose.cloud/cells/#/Charts" title="graphique de cellules" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Ajouter ou supprimer une zone de cellule pour la mise en forme conditionnelle" href="https://reference.aspose.cloud/cells/#/ConditionalFormattings" title="formatage des cellules" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Ajouter, mettre à jour et supprimer des hyperliens de feuille de calcul" href="https://reference.aspose.cloud/cells/#/Hypelinks" title="cellules-hyperliens" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Ajouter des filtres avec des critères personnalisés pour les listes" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Prise en charge de plusieurs types de filtres de liste" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Obtenir des informations sur la bordure de la zone de graphique ou le format de remplissage" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Ajouter, mettre à jour et supprimer des graphiques dans une feuille de calcul" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Obtenir, mettre à jour, afficher ou masquer la légende du graphique" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Obtenez, mettez à jour le titre du graphique et définissez sa visibilité" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-unlock" msg="Ajouter ou supprimer une zone de cellule pour la mise en forme conditionnelle" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg=" Ajouter, mettre à jour et supprimer des hyperliens de feuille de calcul" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg=" Ajouter un ListObject à l\'endroit spécifié dans le fichier Excel" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul" href="https://reference.aspose.cloud/cells/#/ListObjects" title="cellules-listeobjets" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convertir ListObject ou un tableau en une plage de cellules" href="https://reference.aspose.cloud/cells/#/ListObjects" title="cellules-listeobjets" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Résumer les données d\'un grand ListObject ou d\'un tableau avec un tableau croisé dynamique" href="https://reference.aspose.cloud/cells/#/ListObjects" title="cellules-listeobjets" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Ajouter des OleObjects à la feuille de calcul Excel" href="https://reference.aspose.cloud/cells/#/OleObjects" title="cellules-oleobjects" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de calcul" href="https://reference.aspose.cloud/cells/#/OleObjects" title="cellules-oleobjects" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insérer ou supprimer des sauts de page horizontaux ou verticaux" href="https://reference.aspose.cloud/cells/#/PageBreaks" title="cellules-casse" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipuler la mise en page, l\'en-tête et le pied de page" href="https://reference.aspose.cloud/cells/#/AutoFilter" title="cellules-manipuler" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Ajouter, mettre à jour, récupérer ou supprimer des images de feuille de calcul" href="https://reference.aspose.cloud/cells/#/Pictures" title="cellules-images" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Créer, mettre à jour, récupérer ou supprimer les propriétés du document" href="https://reference.aspose.cloud/cells/#/Properties" title="propriétés des cellules" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Récupérer la forme requise à partir de la feuille de calcul" href="https://reference.aspose.cloud/cells/#/Shapes" title="formes de cellules" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Ajouter, mettre à jour ou supprimer des formes d\'une feuille de calcul" href="https://reference.aspose.cloud/cells/#/Shapes" title="formes de cellules" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Ajouter, mettre à jour ou supprimer des validations pour les feuilles de calcul" href="https://reference.aspose.cloud/cells/#/WorksheetValidations" title="Feuille de travailValidations" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg=" Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="Convertir ListObject ou un tableau en une plage de cellules" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Résumer les données d\'un grand ListObject ou d\'un tableau avec un tableau croisé dynamique" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="Ajouter des OleObjects à la feuille de calcul Excel" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="Supprimer des OleObjects spécifiques ou tous les OleObjects de la feuille de calcul" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-th" msg="Insérer ou supprimer des sauts de page horizontaux ou verticaux" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-excel-o" msg="Manipuler la mise en page, l\'en-tête et le pied de page" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-file-o" msg="Ajouter, mettre à jour, récupérer ou supprimer des images de feuille de calcul" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="Créer, mettre à jour, récupérer ou supprimer les propriétés du document" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-copy" msg="Récupérer la forme requise à partir de la feuille de calcul" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-columns" msg="Ajouter, mettre à jour ou supprimer des formes d\'une feuille de calcul" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-shield" msg="Ajouter, mettre à jour ou supprimer des validations pour les feuilles de calcul" >}}
 {{< /blocks/products/cells/product-card-row >}}
 
 

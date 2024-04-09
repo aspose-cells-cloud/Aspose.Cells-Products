@@ -1,18 +1,19 @@
 ﻿---
 title: Exporter WORKBOOK vers XPS à partir de Excel à l'aide du SDK Cloud Cells for Java
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter WORKBOOK vers XPS à partir de Excel" h2="Bibliothèque Java pour exporter WORKBOOK vers le fichier XPS" p="Utilisez Export API de Cells Cloud pour exporter les flux de travail d\'objets internes du fichier Excel dans Java. Il s\'agit d\'une solution professionnelle pour exporter un WORKBOOK au format XPS à partir d\'une feuille de calcul en ligne à l\'aide de Java." urlsection="export/workbook-to-xps/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exporter WORKBOOK vers XPS à partir de Excel" h2="Bibliothèque Java pour exporter WORKBOOK vers le fichier XPS" p="Utilisez Export API de Cells Cloud pour exporter les flux de travail d\'objets internes du fichier Excel dans Java. Il s\'agit d\'une solution professionnelle pour exporter un WORKBOOK au format XPS à partir d\'une feuille de calcul en ligne à l\'aide de Java." urlsection="export/workbook-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKBOOK vers un fichier au format XPS à l\'aide du SDK Cloud Cells for Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exporter l\'objet WORKBOOK vers un fichier au format XPS à l\'aide du SDK Cloud Cells for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Exporter l'objet WORKBOOK vers le fichier XPS à partir du fichier Excel est une tâche complexe. Les transitions d’exportation du format WORKBOOK au format XPS sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKBOOK source. Notre bibliothèque Java est une solution professionnelle pour exporter des objets WORKBOOK vers des fichiers au format XPS en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie XPS parfaite.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour exporter WORKBOOK au format XPS à partir d\'une feuille de calcul" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Exemple de code dans Java utilisant REST API pour exporter WORKBOOK au format XPS à partir d\'une feuille de calcul" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,22 +48,15 @@ Exporter l'objet WORKBOOK vers le fichier XPS à partir du fichier Excel est une
     }
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells for Java pour exporter des objets de Excel WORKBOOK vers XPS" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
 <li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
 <li>Utilisez la méthode `postExport` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>Maven 2.2.0 ou version ultérieure</li>
 <li>Environnement d'exécution Java(TM) SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

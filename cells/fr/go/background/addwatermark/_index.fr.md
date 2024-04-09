@@ -1,6 +1,6 @@
 ﻿---
 title:  Ajouter un filigrane pour le classeur local avec Go dans Cloud
-description: API et SDK Cloud pour ajouter un filigrane pour Microsoft Excel et OpenOffice Calc avec Go. Ajout d'un filigrane pour les feuilles de calcul locales par le SDK Cells Cloud API pour Go.
+description:  API et SDK Cloud pour ajouter un filigrane pour Microsoft Excel et OpenOffice Calc avec Go. Ajout d'un filigrane pour les feuilles de calcul locales par le SDK Cells Cloud API pour Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Accédez au API pour ajouter un filigrane pour la feuille de calcul locale Microsoft Excel et OpenOffice Calc." h2="Accédez à la bibliothèque pour ajouter un filigrane pour la feuille de calcul locale Microsoft Excel et OpenOffice Calc." p="Utilisez Cells Watermark REST API pour ajouter un filigrane pour les workflows locaux Microsoft Excel et les feuilles de calcul OpenOffice Calc dans Go. Cette solution professionnelle ajoute un filigrane pour Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne à l\'aide de Go." urlsection="background/Add-watermark/" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  تحويل XLT إلى MD باستخدام Go
 description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق XLT إلى ملف بتنسيق MD.
+kwords: Excel, Convert XLT to MD, REST, Go
+howto: How to convert XLT to MD using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLT إلى MD" h2="انتقل إلى المكتبة لتحويل XLT إلى MD" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل XLT إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/xlt-to-md/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل XLT إلى MD" h2="انتقل إلى المكتبة لتحويل XLT إلى MD" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل XLT إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/xlt-to-md/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLT إلى MD باستخدام Cells Cloud SDK for Go" >}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل XLT إلى MD باستخدام Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 يمكن أن يكون تحويل تنسيقات الملفات من XLT إلى MD مهمة معقدة. يتعامل Go SDK الخاص بنا مع جميع تحويلات تنسيق XLT إلى MD مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. توفر مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات XLT إلى MD عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Go من الحصول على وظائف قوية ويضمن مخرجات MD عالية الجودة.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لتحويل XLT إلى MD باستخدام Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="اذهب إلى مثال الكود لتحويل XLT إلى MD باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -44,21 +45,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف 
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لتحويل ملفات Excel إلى تنسيقات أخرى من XLT إلى MD" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل XLT إلى MD باستخدام مكتبة Cells Cloud Go." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة Go وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في الذهاب.</li>
 <li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

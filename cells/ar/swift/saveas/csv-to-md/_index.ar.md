@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV باسم MD API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق MD.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق MD.
 url: /ar/swift/saveas/csv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

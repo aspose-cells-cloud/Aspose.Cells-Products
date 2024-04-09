@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie CSV als PNG API für Swift
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im CSV-Format als Datei im Format PNG zu speichern.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im CSV-Format als Datei im Format PNG zu speichern.
 url: /de/swift/saveas/csv-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

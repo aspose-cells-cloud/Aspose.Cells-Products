@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLTX в формате CSV, используя PHP.
+title:  Сохраните XLTX в формате CSV, используя PHP.
 description:  Использование Cloud SDK Aspose.Cells для PHP для сохранения файла формата XLTX в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSX в формате JPG, используя C#.
+title:  Сохраните XLSX в формате JPG, используя C#.
 description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSX в формате JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

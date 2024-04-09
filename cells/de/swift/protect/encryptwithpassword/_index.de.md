@@ -1,6 +1,6 @@
 ﻿---
 title:  Verschlüsseln Sie die lokale Tabelle mit einem Passwort mit Swift in der Cloud
-description: Cloud-APIs und SDKs zum Schutz von Microsoft Excel und OpenOffice Calc mit Swift. Verschlüsseln Sie lokale Tabellenkalkulationen mit einem Passwort mit dem Cells Cloud API SDK für Swift.
+description:  Cloud-APIs und SDKs zum Schutz von Microsoft Excel und OpenOffice Calc mit Swift. Verschlüsseln Sie lokale Tabellenkalkulationen mit einem Passwort mit dem Cells Cloud API SDK für Swift.
 url: /de/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

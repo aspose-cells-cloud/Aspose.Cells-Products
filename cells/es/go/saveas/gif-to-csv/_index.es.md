@@ -30,7 +30,7 @@ Guardar formatos de archivo GIF como CSV es una tarea compleja. Todas las transi
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para guardar archivos Excel en otros formatos GIF como CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Go para guardar archivos Excel como otros formatos GIF como CSV" >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
 <li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
 <li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>

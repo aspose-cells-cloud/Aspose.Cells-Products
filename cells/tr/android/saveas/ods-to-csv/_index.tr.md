@@ -1,12 +1,12 @@
 ﻿---
-title: Android kullanarak ODS'yi CSV olarak kaydedin
+title:  Android kullanarak ODS'yi CSV olarak kaydedin
 description:  ODS formatındaki dosyayı CSV formatındaki dosya olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="ODS\'yi CSV olarak kaydet" h2="ODS\'yi CSV olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Android kullanarak ODS\'yi CSV ve diğer belge formatları olarak çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/ods-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir ODS dosyasını Android\'de CSV olarak kaydetme" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir ODS dosyasını CSV olarak kaydetme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Dosya formatlarını ODS'den CSV olarak kaydetmek karmaşık bir iştir. Tüm ODS'den CSV formatına geçişler, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, ODS'yi çevrimiçi CSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
@@ -35,7 +35,7 @@ Dosya formatlarını ODS'den CSV olarak kaydetmek karmaşık bir iştir. Tüm OD
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer ODS formatlarını CSV olarak kaydetmek için Android için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -3,7 +3,7 @@ title:  Android kullanarak MHTML'yi CSV'ye dönüştürün
 description:  MHTML formatındaki bir dosyayı CSV formatındaki bir dosyaya dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="MHTML\'yi CSV\'ye dönüştür" h2="MHTML\'yi CSV\'ye dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak MHTML\'yi CSV\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/mhtml-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="MHTML\'yi CSV\'ye dönüştür" h2="MHTML\'yi CSV\'ye dönüştürmek için Android kütüphanesi" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak MHTML\'yi CSV\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/mhtml-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android için Cells Cloud SDK\'yı kullanarak MHTML\'yi CSV\'ye dönüştürün" >}}
@@ -47,7 +47,7 @@ Dosya formatlarını MHTML'den CSV'ye dönüştürmek karmaşık bir iş olabili
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır? MHTML\'den CSV\'ye" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

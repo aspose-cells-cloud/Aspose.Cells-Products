@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLTM som CSV med C#
+title:  Spara XLTM som CSV med C#
 description:  Använder Aspose.Cells Cloud SDK för C# för att spara XLTM-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

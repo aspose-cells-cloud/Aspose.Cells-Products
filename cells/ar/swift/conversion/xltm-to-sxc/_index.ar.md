@@ -10,7 +10,7 @@ url: /ar/swift/conversion/xltm-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف XLTM إلى SXC في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLTM إلى SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTM إلى SXC بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات XLTM إلى SXC عبر الإنترنت. يمنح Cloud SDK لمطوري Swift وظائف قوية ومخرجات SXC مثالية.
+يعد تحويل تنسيقات الملفات من XLTM إلى SXC مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLTM إلى SXC بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات XLTM إلى SXC عبر الإنترنت. يمنح Cloud SDK لمطوري Swift وظائف قوية ومخرجات SXC مثالية.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل تنسيق XLTM إلى تنسيق SXC" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come XLTX API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato HTML come file in formato XLTX.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato HTML come file in formato XLTX.
 url: /it/swift/saveas/html-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  Guarde CSV como PPTX usando PHP
 description:  Utilizando Aspose.Cells Cloud SDK para PHP para guardar el archivo en formato CSV como archivo en formato PPTX.
+kwords: Excel, Save CSV as PPTX, REST, PHP
+howto: How to save CSV as PPTX using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar CSV como PPTX" h2="Biblioteca PHP para guardar CSV como PPTX" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar CSV como PPTX y otros formatos de documentos en línea usando PHP." urlsection="saveas/csv-to-pptx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Guardar CSV como PPTX" h2="Biblioteca PHP para guardar CSV como PPTX" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar CSV como PPTX y otros formatos de documentos en línea usando PHP." urlsection="saveas/csv-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo CSV como PPTX en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="Guarde un archivo CSV como PPTX en PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Guardar formatos de archivo de CSV como PPTX es una tarea compleja. Todas las transiciones de formato CSV a PPTX se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca PHP es una solución profesional para guardar CSV como archivos PPTX en línea. Este SDK de nube ofrece a los desarrolladores de PHP una potente funcionalidad y una salida PPTX perfecta.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Ejemplo de código para guardar CSV como PPTX usando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Ejemplo de código para guardar CSV como PPTX usando REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -27,21 +28,15 @@ Guardar formatos de archivo de CSV como PPTX es una tarea compleja. Todas las tr
     $result = $apiInstance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename,$isAutoFitRows, $isAutoFitColumns, $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para guardar archivos Excel en otros formatos CSV como PPTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo guardar CSV como PPTX usando la biblioteca Cells Cloud PHP." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale la biblioteca PHP y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en PHP.</li>
 <li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>PHP 7.4 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

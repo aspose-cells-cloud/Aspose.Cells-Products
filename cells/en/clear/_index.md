@@ -8,10 +8,10 @@ description: Aspose.Cells Cloud REST API supports clearing inner objects in an E
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/clearobjects  %}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl="https://api.aspose.cloud/v3.0/cells/clearobjects"  %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Clear" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostClearObjects >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="Clear" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostClearObjects" >}}  
 {{< blocks/products/cells/cells-cloud-upload>}}  
  
 	{{< blocks/products/cells/cells-cloud-parameters itName="objecttype"  required="true" prompt="Please enter objecttype">}}

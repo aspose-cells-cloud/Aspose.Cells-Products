@@ -3,7 +3,7 @@ title:  Android için Cells Cloud SDK'yı kullanarak WORKSHEET'i Excel'den ODS'y
 description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA SAYFASINI Excel\'den ODS\'ye aktar" h2="WORKSHEET\'i ODS dosyasına aktarmak için Android kitaplığı" p="Android\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Android kullanarak çevrimiçi elektronik tablodan ÇALIŞMA SAYFASI\'nı ODS formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA SAYFASINI Excel\'den ODS\'ye aktar" h2="WORKSHEET\'i ODS dosyasına aktarmak için Android kütüphanesi" p="Android\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Android kullanarak çevrimiçi elektronik tablodan ÇALIŞMA SAYFASI\'nı ODS formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android için Cells Cloud SDK\'yı kullanarak WORKSHEET nesnesini ODS biçimindeki dosyaya aktarın" >}}
@@ -51,7 +51,7 @@ WORKSHEET nesnesini Excel dosyasından ODS dosyasına aktarmak karmaşık bir i�
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel WORKSHEET\'ten ODS\'ye aktarmak için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

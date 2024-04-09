@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva PNG come XLT API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato PNG come file in formato XLT.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato PNG come file in formato XLT.
 url: /it/swift/saveas/png-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

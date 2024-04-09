@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ ODS API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق HTML كملف تنسيق ODS.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق HTML كملف تنسيق ODS.
 url: /ar/swift/saveas/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

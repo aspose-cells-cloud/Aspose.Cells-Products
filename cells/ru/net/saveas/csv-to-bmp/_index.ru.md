@@ -1,18 +1,19 @@
 ﻿---
 title:  Сохраните CSV как BMP, используя C#.
 description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата CSV как файла формата BMP.
+kwords: Excel, Save CSV as BMP, REST, C#
+howto: How to save CSV as BMP using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить CSV как BMP" h2="C# библиотека для сохранения CSV как BMP" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Net. Это профессиональное решение для сохранения CSV как BMP и других форматов документов онлайн с использованием C#." urlsection="saveas/csv-to-bmp/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Сохранить CSV как BMP" h2="C# библиотека для сохранения CSV как BMP" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Net. Это профессиональное решение для сохранения CSV как BMP и других форматов документов онлайн с использованием C#." urlsection="saveas/csv-to-bmp/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как BMP в C#." >}}
+{{< blocks/products/cells/cells-cloud-section title="Сохраните файл CSV как BMP в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение формата файлов из CSV как BMP — сложная задача. Все переходы формата CSV в BMP выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека C# — это профессиональное решение для сохранения CSV-файлов в формате BMP в Интернете. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и идеальный результат BMP.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для сохранения CSV как BMP с использованием REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Пример кода для сохранения CSV как BMP с использованием REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -23,22 +24,16 @@ description:  Использование Aspose.Cells Cloud SDK для C# для
     SaveResponse saveResponse = cellsApi.CellsSaveAsPostDocumentSaveAs(name, null, newfilename, null,null,folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Net для сохранения файлов Excel в других форматах CSV как BMP" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как сохранить CSV как BMP, используя библиотеку Cloud Net Cells." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку C# и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру C#.</li>
 <li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>NET Framework 4.5.2 или новее</li>
 <li>Net Standard 2.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

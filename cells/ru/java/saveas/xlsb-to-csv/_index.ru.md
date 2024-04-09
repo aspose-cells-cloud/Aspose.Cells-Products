@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSB как CSV, используя Java.
+title:  Сохраните XLSB как CSV, используя Java.
 description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLSB в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

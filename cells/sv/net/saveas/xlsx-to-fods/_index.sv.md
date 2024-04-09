@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLSX som FODS med C#
+title:  Spara XLSX som FODS med C#
 description:  Använder Aspose.Cells Cloud SDK för C# för att spara XLSX-formatfil som FODS-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

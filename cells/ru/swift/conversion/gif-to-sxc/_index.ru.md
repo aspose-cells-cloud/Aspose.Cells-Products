@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать GIF в SXC API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата SXC.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата SXC.
 url: /ru/swift/conversion/gif-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

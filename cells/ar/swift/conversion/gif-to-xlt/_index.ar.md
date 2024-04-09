@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل GIF إلى XLT API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق XLT.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق XLT.
 url: /ar/swift/conversion/gif-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

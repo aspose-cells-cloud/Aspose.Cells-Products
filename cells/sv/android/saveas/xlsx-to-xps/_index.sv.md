@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSX som XPS med Android
-description: Använder Aspose.Cells Cloud SDK för Android för att spara XLSX-formatfil som XPS-fil.
+description:  Använder Aspose.Cells Cloud SDK för Android för att spara XLSX-formatfil som XPS-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSX som XPS" h2="Android-bibliotek för att spara XLSX som XPS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara XLSX som XPS och andra dokumentformat online med Android." urlsection="saveas/xlsx-to-xps/" >}}

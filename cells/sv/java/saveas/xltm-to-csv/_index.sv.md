@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLTM som CSV med Java
+title:  Spara XLTM som CSV med Java
 description:  Använder Aspose.Cells Cloud SDK for Java för att spara XLTM-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

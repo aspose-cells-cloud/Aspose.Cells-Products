@@ -1,18 +1,19 @@
 ﻿---
 title:  تحويل CSV إلى XML باستخدام PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق CSV إلى ملف بتنسيق XML.
+description: استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بتنسيق CSV إلى ملف بتنسيق XML.
+kwords: Excel, Convert CSV to XML, REST, PHP
+howto: How to convert CSV to XML using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل CSV إلى XML" h2="مكتبة PHP لتحويل CSV إلى XML" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل CSV إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/csv-to-xml/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل CSV إلى XML" h2="مكتبة PHP لتحويل CSV إلى XML" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل CSV إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/csv-to-xml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل CSV إلى XML باستخدام Cells Cloud SDK لـ PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل CSV إلى XML باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 يمكن أن يكون تحويل تنسيقات الملفات من CSV إلى XML مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق CSV إلى XML مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CSV المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات CSV إلى ملفات XML عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج XML عالي الجودة.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل CSV إلى XML باستخدام Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP مثال على الكود لتحويل CSV إلى XML باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف
     fclose($file);
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى من CSV إلى XML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل CSV إلى XML باستخدام مكتبة Cells Cloud PHP." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة PHP وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في PHP.</li>
 <li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>PHP 7.4 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

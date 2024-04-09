@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som PPTX API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att spara HTML filformat som PPTX format fil.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara HTML filformat som PPTX format fil.
 url: /sv/swift/saveas/html-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

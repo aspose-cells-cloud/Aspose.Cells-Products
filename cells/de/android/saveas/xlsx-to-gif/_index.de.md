@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLSX als GIF mit Android
+title:  Speichern Sie XLSX als GIF mit Android
 description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLSX-Formatdateien als GIF-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

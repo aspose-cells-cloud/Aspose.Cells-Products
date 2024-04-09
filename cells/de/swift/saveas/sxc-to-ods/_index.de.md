@@ -4,7 +4,7 @@ description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von 
 url: /de/swift/saveas/sxc-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um SXC als ODS zu speichern" h2="Swift-Bibliothek zum Speichern von SXC als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um SXC als ODS und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/sxc-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um SXC als ODS zu speichern" h2="Swift-Bibliothek zum Speichern von SXC als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als ODS und anderen Dokumentformaten mit Swift." urlsection="saveas/sxc-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als ODS in Swift" >}}

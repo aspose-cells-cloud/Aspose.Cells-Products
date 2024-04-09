@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva PNG come ODS API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato PNG come file in formato ODS.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per salvare il file in formato PNG come file in formato ODS.
 url: /it/swift/saveas/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

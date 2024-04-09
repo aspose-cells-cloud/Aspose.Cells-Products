@@ -1,6 +1,6 @@
 ﻿---
 title:  دمج ملفات Excel باستخدام روبي
-description: Aspose.Cells Cloud REST API يدعم دمج ملفات Excel المتعددة في ملف Excel واحد باستخدام Ruby، ويقدم مجموعات SDK لمختلف لغات البرمجة.
+description:  Aspose.Cells Cloud REST API يدعم دمج ملفات Excel المتعددة في ملف Excel واحد باستخدام Ruby، ويقدم مجموعات SDK لمختلف لغات البرمجة.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="دمج ملفات Excel باستخدام روبي" h2="يدعم Aspose.Cells Cloud SDK دمج ملفات Excel المتعددة في ملف Excel واحد." p="Aspose.Cells Cloud REST API يدعم دمج ملفات Excel المتعددة في ملف Excel واحد باستخدام Ruby، ويقدم مجموعات SDK لمختلف لغات البرمجة." urlsection="merge/" >}}

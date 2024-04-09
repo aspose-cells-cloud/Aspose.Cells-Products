@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLTX в формате CSV, используя Java.
+title:  Сохраните XLTX в формате CSV, используя Java.
 description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLTX в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

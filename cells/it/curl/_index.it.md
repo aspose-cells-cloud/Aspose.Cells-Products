@@ -110,7 +110,7 @@ url: /it/curl
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ottieni, aggiorna, mostra o nascondi la legenda del grafico
+Ottieni, aggiorna, mostra o nascondi la legenda del grafico
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ url: /it/curl
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Elimina specifici o tutti gli OleObject dal foglio di lavoro
+ Elimina specifici o tutti gli OleObject dal foglio di lavoro
     </p>
    </div>
    <div class="col-lg-4">
@@ -227,14 +227,14 @@ Elimina specifici o tutti gli OleObject dal foglio di lavoro
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Inizia con Excel Elaborazione foglio di calcolo REST API
+Inizia con Excel Elaborazione foglio di calcolo REST API
     </h2>
     <p>
  Per iniziare con Aspose.Cells Cloud per cURL non è necessario installare nulla. Tutto quello che devi fare è creare un account su
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose per Nuvola
      </a>
- ottieni le informazioni sulla tua richiesta. Una volta che hai l'App SID &amp; chiave, sei pronto per utilizzare Aspose.Cells Cloud per cURL su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud per cURL ti offre tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre dati dai fogli di calcolo per ulteriore elaborazione o archiviazione.
+ e ottieni le informazioni sulla tua richiesta. Una volta che hai l'App SID &amp; chiave, sei pronto per utilizzare Aspose.Cells Cloud per cURL su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud per cURL ti offre tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre dati dai fogli di calcolo per ulteriore elaborazione o archiviazione.
     </p>
    </div>
    <div class="col-lg-12">
@@ -242,15 +242,15 @@ Elimina specifici o tutti gli OleObject dal foglio di lavoro
  Elaborazione cartelle di lavoro via Cloud REST API
     </h2>
     <p>
- Aspose.Cells Cloud per cURL consente di creare, dividere, unire, cercare e sostituire testo, protezione con password, esportare in formati file supportati, leggere elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire la lunghezza della chiave di crittografia , importare dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare un marcatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
+Aspose.Cells Cloud per cURL consente di creare, dividere, unire, cercare e sostituire testo, protezione con password, esportare in formati di file supportati, leggere elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire la lunghezza della chiave di crittografia , importare dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare un marcatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Cloud API per elaborare fogli di lavoro
+ Cloud API per elaborare fogli di lavoro
     </h2>
     <p>
- Utilizzando Aspose.Cells Cloud per cURL è possibile eliminare una riga specifica o tutte le righe nel foglio di lavoro, recuperare i dati della cella del foglio di lavoro o lo stile della cella in base al nome della cella, leggere i dati della riga o della colonna del foglio di lavoro in base al relativo indice, calcolare la formula della cella, cancellare il contenuto della cella, copiare la cella in un'altra cella, copiare colonne e righe del foglio di lavoro, raggruppare righe e colonne del foglio di lavoro, nascondere righe e colonne del foglio di lavoro, impostare colonne e stili di riga del foglio di lavoro, impostare il valore HTMLSTRING nella cella, impostare il valore dell'intervallo di celle e modificare molte altre impostazioni del foglio di lavoro.
+Utilizzando Aspose.Cells Cloud per cURL è possibile eliminare una riga specifica o tutte le righe nel foglio di lavoro, recuperare i dati della cella del foglio di lavoro o lo stile della cella in base al nome della cella, leggere i dati della riga o della colonna del foglio di lavoro in base al relativo indice, calcolare la formula della cella, cancellare il contenuto della cella, copiare la cella in un'altra cella, copiare colonne e righe del foglio di lavoro, raggruppare righe e colonne del foglio di lavoro, nascondere righe e colonne del foglio di lavoro, impostare colonne e stili di riga del foglio di lavoro, impostare il valore HTMLSTRING nella cella, impostare il valore dell'intervallo di celle e modificare molte altre impostazioni del foglio di lavoro.
     </p>
    </div>
    <div class="col-lg-12">

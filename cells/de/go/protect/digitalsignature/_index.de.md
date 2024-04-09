@@ -3,7 +3,7 @@ title:  Digitale Signatur von Cloud-Tabellen in der Cloud
 description:  Cloud-APIs und SDKs für Microsoft Excel und digitale OpenOffice Calc-Signatur. Digitale Signatur von Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API zur Cloud für digitale Signaturen Microsoft Excel und zur OpenOffice Calc-Tabelle mit Passwort und digitaler Signaturdatei" h2="Gehen Sie zur Bibliothek für digitale Signaturen Microsoft Excel und zur OpenOffice Calc-Tabelle mit Passwort und digitaler Signaturdatei" p="Verwenden Sie Cells Digital Signature REST API für die digitale Signatur-Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort und digitale Signaturdatei-Workflows in Go. Diese professionelle Lösung für digitale Signaturen Cloud Microsoft Excel und OpenOffice Calc-Tabelle online mit Passwörtern und digitaler Signaturdatei mit Go." urlsection="protect/Digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie unter API zur Cloud für digitale Signaturen Microsoft Excel und öffnen Sie die OpenOffice Calc-Tabelle mit Passwort und digitaler Signaturdatei" h2="Gehen Sie zur Bibliothek für digitale Signaturen Microsoft Excel und zur OpenOffice Calc-Tabelle mit Passwort und digitaler Signaturdatei" p="Verwenden Sie Cells Digital Signature REST API für die digitale Signatur-Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort und digitale Signaturdatei-Workflows in Go. Diese professionelle Lösung für digitale Signaturen Cloud Microsoft Excel und OpenOffice Calc-Tabelle online mit Passwörtern und digitaler Signaturdatei mit Go." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cloud für digitale Signaturen Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort – Go REST API" >}}
@@ -20,7 +20,7 @@ Die digitale Signatur einer Cloud-Tabelle mit einem Passwort und einer digitalen
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Go, um eine Excel-Datei digital zu signieren." >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die Methode „CellsWorkbookPostDigitalSignature“ auf, um den resultierenden Stream abzurufen</li>
+<li>Rufen Sie die CellsWorkbookPostDigitalSignature-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

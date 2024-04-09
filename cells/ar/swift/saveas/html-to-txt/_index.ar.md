@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ TXT API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق HTML كملف تنسيق TXT.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق HTML كملف تنسيق TXT.
 url: /ar/swift/saveas/html-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

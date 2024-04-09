@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى JSON تحويل API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق JSON.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق JSON.
 url: /ar/swift/conversion/gif-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

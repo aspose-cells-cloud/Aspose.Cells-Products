@@ -11,11 +11,11 @@ url: /conversion/
 
 <!-- {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook  apimethod=PUT  apiname="Conversion" %}}  -->
 
-{{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT"  apiurl=https://api.aspose.cloud/v3.0/cells/convert  %}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT"  apiurl="https://api.aspose.cloud/v3.0/cells/convert"  %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Convert" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook >}}
+{{< blocks/products/cells/cells-cloud-api-template btName="Convert" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" >}}
 
 {{< blocks/products/cells/cells-cloud-upload>}}
 {{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="format">}}

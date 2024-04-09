@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSM كملف CSV باستخدام C#
+title:  احفظ XLSM كملف CSV باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLSM كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

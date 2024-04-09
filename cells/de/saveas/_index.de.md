@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie die Datei Excel als andere Formatdatei
+title: Speichern Sie die Datei Excel als andere Formatdatei
 description:  Aspose.Cells Cloud REST API ermöglicht das Speichern von Excel Dateien in verschiedenen Formaten und stellt SDKs für mehrere Programmiersprachen bereit, darunter Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

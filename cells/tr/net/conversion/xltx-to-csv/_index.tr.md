@@ -1,6 +1,6 @@
 ﻿---
 title:  C#'i kullanarak XLTX'i CSV'ye dönüştürün
-description: XLTX biçimindeki bir dosyayı CSV biçimindeki bir dosyaya dönüştürmek için C# için Aspose.Cells Bulut SDK'sını kullanma.
+description:  XLTX biçimindeki bir dosyayı CSV biçimindeki bir dosyaya dönüştürmek için C# için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'yi CSV\'ye dönüştür" h2="XLTX\'i CSV\'ye dönüştürmek için C# kitaplığı" p="Net projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, C# numaralı telefonu kullanarak XLTX\'i çevrimiçi olarak CSV\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltx-to-csv/" >}}
@@ -36,7 +36,7 @@ Dosya formatlarını XLTX'ten CSV'ye dönüştürmek karmaşık bir iş olabilir
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara XLTX\'den CSV\'ye dönüştürmek için Cells Cloud SDK for Net nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

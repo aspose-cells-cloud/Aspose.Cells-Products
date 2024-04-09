@@ -1,18 +1,19 @@
 ﻿---
 title:  تحويل الأرقام إلى BMP باستخدام Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق BMP.
+kwords: Excel, Convert NUMBERS to BMP, REST, Java
+howto: How to convert NUMBERS to BMP using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى BMP" h2="مكتبة Java لتحويل الارقام الى BMP" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى BMP وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-bmp/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل الأرقام إلى BMP" h2="مكتبة Java لتحويل الارقام الى BMP" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى BMP وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-bmp/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل الأرقام إلى BMP باستخدام Cells Cloud SDK for Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل الأرقام إلى BMP باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 يمكن أن يكون تحويل تنسيقات الملفات من NUMBERS إلى BMP مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى BMP مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل NUMBERS إلى BMP ملفًا عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java بوظائف قوية ويضمن إخراج BMP عالي الجودة.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لتحويل الأرقام إلى BMP باستخدام Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java مثال على الكود لتحويل الأرقام إلى BMP باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -43,22 +44,16 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لتحويل ملفات Excel إلى تنسيقات أخرى NUMBERS إلى BMP" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل الأرقام إلى BMP باستخدام مكتبة Cells السحابية Java." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة Java وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في Java.</li>
 <li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
 <li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

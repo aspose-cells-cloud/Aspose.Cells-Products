@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ TXT API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق PNG كملف تنسيق TXT.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق PNG كملف تنسيق TXT.
 url: /ar/swift/saveas/png-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

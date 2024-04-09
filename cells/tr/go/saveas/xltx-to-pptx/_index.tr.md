@@ -1,18 +1,19 @@
 ﻿---
 title:  Go'yu kullanarak XLTX'i PPTX olarak kaydedin
 description:  XLTX formatındaki dosyayı PPTX formatındaki dosya olarak kaydetmek için Go için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Save XLTX as PPTX, REST, Go
+howto: How to save XLTX as PPTX using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i PPTX olarak kaydet" h2="XLTX\'i PPTX olarak kaydetmek için kütüphaneye gidin" p="Go\'da özelleştirilmiş elektronik tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, XLTX\'i Go kullanarak çevrimiçi olarak PPTX ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltx-to-pptx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLTX\'i PPTX olarak kaydet" h2="XLTX\'i PPTX olarak kaydetmek için kütüphaneye gidin" p="Go\'da özelleştirilmiş elektronik tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, XLTX\'i Go kullanarak çevrimiçi olarak PPTX ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltx-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="XLTX dosyasını Go\'da PPTX olarak kaydetme" >}}
+{{< blocks/products/cells/cells-cloud-section title="XLTX dosyasını Go\'da PPTX olarak kaydetme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Dosya formatlarını XLTX'ten PPTX olarak kaydetmek karmaşık bir iştir. Tüm XLTX'ten PPTX'e format geçişleri, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLTX'i çevrimiçi olarak PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıkışı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="REST API\'i kullanarak XLTX\'i PPTX olarak kaydetmek için Kod Örneğine gidin" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="REST API\'i kullanarak XLTX\'i PPTX olarak kaydetmek için Kod Örneğine gidin" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -27,21 +28,15 @@ Dosya formatlarını XLTX'ten PPTX olarak kaydetmek karmaşık bir iştir. Tüm 
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer XLTX formatlarında PPTX olarak kaydetmek için Cells Cloud SDK for Go nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Go kitaplığını kullanarak XLTX\'i PPTX olarak nasıl kaydedeceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Go kütüphanesini kurun ve referansı projenize ekleyin (kütüphaneyi içe aktarın).</li>
+<li>Kaynak dosyayı go'da açın.</li>
 <li>Ortaya çıkan akışı almak için `PostWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>go sürümü go1.13.0 veya daha yeni</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

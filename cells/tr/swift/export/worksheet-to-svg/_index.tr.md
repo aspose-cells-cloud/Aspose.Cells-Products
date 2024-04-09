@@ -10,7 +10,7 @@ url: /tr/swift/export/worksheet-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKSHEET nesnesini Swift\'de SVG formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-WORKSHEET nesnesini e-tablodan SVG dosyasına aktarmak karmaşık bir iştir. WORKSHEET'i SVG'e dışa aktar format geçişleri Swift SDK'mız tarafından gerçekleştirilir ve kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak SVG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıktısı sağlar.
+WORKSHEET nesnesini e-tablodan SVG dosyasına aktarmak karmaşık bir iştir. WORKSHEET'i SVG'e aktar format geçişleri Swift SDK'mız tarafından gerçekleştirilir ve kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak SVG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA SAYFASI\'nı e-tablodan SVG biçimine aktarmak için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
@@ -56,7 +56,7 @@ WORKSHEET nesnesini e-tablodan SVG dosyasına aktarmak karmaşık bir iştir. WO
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="WORKSHEET\'i SVG\'e aktarmak için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

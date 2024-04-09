@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG in MHTML Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine MHTML-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine MHTML-Formatdatei.
 url: /de/swift/conversion/png-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

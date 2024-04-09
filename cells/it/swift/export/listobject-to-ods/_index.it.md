@@ -1,5 +1,5 @@
 ﻿---
-title:  Esporta LISTOBJECT in ODS dal foglio di calcolo utilizzando Swift API
+title: Esporta LISTOBJECT in ODS dal foglio di calcolo utilizzando Swift API
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
 url: /it/swift/export/listobject-to-ods/
 ---

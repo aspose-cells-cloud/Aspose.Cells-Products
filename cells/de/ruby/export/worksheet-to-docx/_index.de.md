@@ -1,18 +1,19 @@
 ﻿---
 title:  Exportieren Sie ARBEITSBLATT nach DOCX von Excel mit Cells Cloud SDK für Ruby
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie ARBEITSBLATT von Excel nach DOCX" h2="Ruby-Bibliothek zum Exportieren von WORKSHEET in eine DOCX-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine DOCX-Formatdatei aus einer Tabellenkalkulation online mit Ruby." urlsection="export/worksheet-to-docx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie ARBEITSBLATT von Excel nach DOCX" h2="Ruby-Bibliothek zum Exportieren von WORKSHEET in eine DOCX-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine DOCX-Formatdatei aus einer Tabellenkalkulation online mit Ruby." urlsection="export/worksheet-to-docx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im DOCX-Format mit dem Cloud SDK Cells für Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im DOCX-Format mit dem Cloud SDK Cells für Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in eine DOCX-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das DOCX-Format werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im DOCX-Format. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte DOCX-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Exportieren von WORKSHEET in das DOCX-Format aus einer Tabellenkalkulation" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Ruby mit REST API zum Exportieren von WORKSHEET in das DOCX-Format aus einer Tabellenkalkulation" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -31,21 +32,14 @@ Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in eine DOCX-Datei i
     end
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Objekte aus Excel WORKSHEET nach DOCX zu exportieren" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Ruby 2.5 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

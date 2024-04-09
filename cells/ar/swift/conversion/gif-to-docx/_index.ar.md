@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل GIF إلى DOCX API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق DOCX.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق DOCX.
 url: /ar/swift/conversion/gif-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

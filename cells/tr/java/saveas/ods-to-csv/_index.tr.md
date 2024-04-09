@@ -1,6 +1,6 @@
 ﻿---
 title:  Java'i kullanarak ODS'yi CSV olarak kaydedin
-description: ODS formatındaki dosyayı CSV formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
+description:  ODS formatındaki dosyayı CSV formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="ODS\'yi CSV olarak kaydet" h2="ODS\'yi CSV olarak kaydetmek için Java kitaplığı" p="Java\'de özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulut\'un API\'i Kaydet\'i kullanın. Bu, Java\'i kullanarak ODS\'yi CSV ve diğer belge formatları olarak çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/ods-to-csv/" >}}
@@ -35,7 +35,7 @@ Dosya formatlarını ODS'den CSV olarak kaydetmek karmaşık bir iştir. Tüm OD
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer ODS formatlarını CSV olarak kaydetmek için Cells Cloud SDK for Java nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

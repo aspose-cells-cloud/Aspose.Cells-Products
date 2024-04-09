@@ -88,7 +88,7 @@ url: /it/cpp
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose per Nuvola
      </a>
- ottieni le informazioni sulla tua richiesta. Una volta che hai l'App SID &amp; chiave, sei pronto per utilizzare Aspose.Cells Cloud SDK per CPP su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud SDK per Ruby fornisce tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre dati dai fogli di calcolo per ulteriore elaborazione o archiviazione.
+ e ottieni le informazioni sulla tua richiesta. Una volta che hai l'App SID &amp; chiave, sei pronto per utilizzare Aspose.Cells Cloud SDK per CPP su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud SDK per Ruby fornisce tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre dati dai fogli di calcolo per ulteriore elaborazione o archiviazione.
     </p>
    </div>
    <div class="col-lg-12">
@@ -96,12 +96,12 @@ url: /it/cpp
  Converti il foglio di calcolo Microsoft Excel o OpenOffice Calc in tipi di file di formato.
     </h2>
     <p>
- Aspose.Cells Cloud SDK per CPP ha incluso la funzionalità per convertire a livello di codice la cartella di lavoro Excel in tipi di file di formato utilizzando il linguaggio CPP. Microsoft Excel o la conversione del foglio di calcolo OpenOffice Calc è un processo complesso. Molti fattori contribuiscono alla complessità e pertanto dovrebbero essere presi in considerazione durante il processo di trasformazione. La capacità di convertire file Excel da un formato all'altro con una qualità professionale precisa è una caratteristica principale di Aspose.Cells Cloud.
+Aspose.Cells Cloud SDK per CPP ha incluso la funzionalità per convertire a livello di codice la cartella di lavoro Excel in tipi di file di formato utilizzando il linguaggio CPP. Microsoft Excel o la conversione del foglio di calcolo OpenOffice Calc è un processo complesso. Molti fattori contribuiscono alla complessità e pertanto dovrebbero essere presi in considerazione durante il processo di trasformazione. La capacità di convertire file Excel da un formato all'altro con una qualità professionale precisa è una caratteristica principale di Aspose.Cells Cloud.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Proteggi Microsoft Excel via API CPP
+ Proteggi Microsoft Excel via API CPP
     </h2>
     <p>
  Aspose.Cells Cloud SDK per CPP ha incluso la funzionalità per proteggere a livello di codice la cartella di lavoro Excel utilizzando il linguaggio CPP. Ad esempio, proteggere e rimuovere la protezione della cartella di lavoro con password, aggiungere la firma digitale per la cartella di lavoro.
@@ -112,13 +112,13 @@ Proteggi Microsoft Excel via API CPP
  Unisci più fogli di calcolo Excel o OpenOffice Calc Microsoft in un file.
     </h2>
     <p>
- Aspose.Cells Cloud SDK per CPP ha incluso la funzionalità per unire a livello di codice più fogli di calcolo Microsoft Excel o OpenOffice Calc in un file utilizzando il linguaggio CPP. Supporta più tipi di input di file di formato. E supporta tipi di output in formato.
+Aspose.Cells Cloud SDK per CPP ha incluso la funzionalità per unire a livello di codice più fogli di calcolo Microsoft Excel o OpenOffice Calc in un file utilizzando il linguaggio CPP. Supporta più tipi di input di file di formato. E supporta tipi di output in formato.
     </p>
     <h2 class="h2title">
  Trova e sostituisci cartelle di lavoro di testo
     </h2>
     <p>
-Aspose.Cells Cloud SDK per CPP ha fornito supporto per l'utilizzo del testo all'interno di una cartella di lavoro utilizzando i comandi del linguaggio CPP. L'SDK ha fornito funzionalità molto utili relative alla ricerca e all'aggiornamento del testo, come cercare e sostituire il testo in una cartella di lavoro o in un foglio di lavoro, ottenere elementi di testo dai fogli di lavoro e molto altro. Inoltre, puoi anche estrarre testo, immagini o forme da un foglio di lavoro con semplici comandi CPP.
+ Aspose.Cells Cloud SDK per CPP ha fornito supporto per l'utilizzo del testo all'interno di una cartella di lavoro utilizzando i comandi del linguaggio CPP. L'SDK ha fornito funzionalità molto utili relative alla ricerca e all'aggiornamento del testo, come cercare e sostituire il testo in una cartella di lavoro o in un foglio di lavoro, ottenere elementi di testo dai fogli di lavoro e molto altro. Inoltre, puoi anche estrarre testo, immagini o forme da un foglio di lavoro con semplici comandi CPP.
     </p>
     <p>
     </p>

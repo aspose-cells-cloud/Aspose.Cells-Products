@@ -1,5 +1,5 @@
 ﻿---
-title: Salva TSV come CSV utilizzando Perl
+title:  Salva TSV come CSV utilizzando Perl
 description:  Utilizzando Aspose.Cells Cloud SDK per Perl per salvare il file in formato TSV come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,47 +1,48 @@
 ﻿---
-title:  Konvertieren Sie FODS in XPS via .NET
-description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit Cloud API und Open Source .NET SDK
-url: /de/net/conversion/fods-to-xps/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: XPS
-platform: .NET
-otherformats: MD XML SVG TSV XPS XLSM PDF TXT FODS TIFF XLSB XLTM XLSX HTML DIF MHTML 
+title: Konvertieren Sie FODS mit C# in XPS
+description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer FODS-Formatdatei in eine XPS-Formatdatei.
+kwords: Excel, Convert FODS to XPS, REST, C#
+howto: How to convert FODS to XPS using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS in der Cloud in XPS" h2="Excel & OpenOffice-Tabellenkonvertierung mit Open-Source-Cloud-SDK for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie FODS in XPS" h2="C#-Bibliothek zur Konvertierung von FODS in XPS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von FODS in XPS und andere Dokumentformate online mit C#." urlsection="conversion/fods-to-xps/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS zu XPS Konvertierung in .NET Apps" %}}
-1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten
-1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und Version API
-1. Laden Sie die FODS-Datei mit der Methode ```CellsApi.Upload``` in den Standard-Cloud-Speicher hoch
-1. Rufen Sie die Methode ```CellsApi.CellsSaveAsPostDocumentSaveAs``` auf, um die resultierende Datei XPS zu erhalten
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie FODS in XPS mit dem Cloud SDK Cells für C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Das Konvertieren von Dateiformaten von FODS in XPS kann eine komplexe Aufgabe sein. Unser C# SDK verarbeitet alle Konvertierungen des FODS-Formats in das XPS-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-FODS-Tabelle bei. Unsere C#-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von FODS-Dateien in XPS-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XPS-Ausgabe.
 
-{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit Excel REST API" %}}
- Holen Sie sich den Quellcode Excel Cloud SDK for .NET von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET Code für FODS in XPS Konvertierung" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Codebeispiel für die Konvertierung von FODS in XPS mithilfe des Cloud SDK Cells" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "xps";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.xps", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "xps";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.xps";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie FODS mithilfe der Cloud Net-Bibliothek Cells in XPS konvertieren." >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Installieren Sie die Bibliothek C# und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in C#</li>
+<li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
+<li>NET Framework 4.5.2 oder neuer</li>
+<li>Net Standard 2.0 oder neuer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Agregue una marca de agua para el libro de trabajo local con NodeJS en la nube
+title: Agregue una marca de agua para el libro de trabajo local con NodeJS en la nube
 description:  API y SDK en la nube para agregar marcas de agua para Microsoft Excel y OpenOffice Calc con NodeJS. Agregar marca de agua para hojas de cálculo locales mediante el SDK Cells Cloud API para NodeJS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

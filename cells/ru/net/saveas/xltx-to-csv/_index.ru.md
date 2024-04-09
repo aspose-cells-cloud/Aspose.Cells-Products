@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLTX в формате CSV, используя C#.
+title:  Сохраните XLTX в формате CSV, используя C#.
 description:  Использование Cloud SDK Aspose.Cells для C# для сохранения файла формата XLTX в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

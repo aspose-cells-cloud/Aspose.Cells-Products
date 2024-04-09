@@ -10,7 +10,7 @@ url: /ar/swift/saveas/tsv-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV باسم BMP في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TSV بالرقم BMP مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من TSV إلى BMP بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ TSV كملفات BMP عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج BMP مثاليًا.
+يعد حفظ تنسيقات الملفات من TSV بالرقم BMP مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى BMP بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ TSV كملفات BMP عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج BMP مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لحفظ TSV بتنسيق BMP" gistPath="" %}}

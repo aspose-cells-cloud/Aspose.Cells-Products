@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل GIF إلى XML API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق XML.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق XML.
 url: /ar/swift/conversion/gif-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

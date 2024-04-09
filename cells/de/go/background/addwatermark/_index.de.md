@@ -1,6 +1,6 @@
 ﻿---
 title:  Fügen Sie mit Go in Cloud ein Wasserzeichen für die lokale Arbeitsmappe hinzu
-description: Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit Go. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für Go.
+description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit Go. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um Wasserzeichen für die lokale Microsoft Excel und OpenOffice Calc-Tabelle hinzuzufügen" h2="Gehen Sie zur Bibliothek, um Wasserzeichen für die lokale Microsoft Excel und OpenOffice Calc-Tabelle hinzuzufügen" p="Verwenden Sie Cells Watermark REST API, um Wasserzeichen für lokale Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Go hinzuzufügen. Diese professionelle Lösung fügt Wasserzeichen für Microsoft Excel und OpenOffice Calc-Tabellen online mit Go hinzu." urlsection="background/Add-watermark/" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertieren Sie PNG mit NodeJS in XML
-description:  Verwendung des Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im PNG-Format in eine XML-Formatdatei.
+description: Verwendung des Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im PNG-Format in eine XML-Formatdatei.
+kwords: Excel, Convert PNG to XML, REST, NodeJS
+howto: How to convert PNG to XML using Aspose.Cells Cloud NodeJS library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie PNG in XML" h2="NodeJS-Bibliothek zum Konvertieren von PNG in XML" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in XML und andere Dokumentformate mit NodeJS." urlsection="conversion/png-to-xml/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie PNG in XML" h2="NodeJS-Bibliothek zum Konvertieren von PNG in XML" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in XML und andere Dokumentformate mit NodeJS." urlsection="conversion/png-to-xml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie PNG in XML mit dem Cloud SDK Cells für NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie PNG in XML mit dem Cloud SDK Cells für NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von PNG in XML kann eine komplexe Aufgabe sein. Unser NodeJS SDK übernimmt alle Konvertierungen von PNG in das XML-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere NodeJS-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG in XML-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und gewährleistet eine qualitativ hochwertige XML-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Codebeispiel für die Konvertierung von PNG in XML mithilfe des Cloud SDK Cells" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="NodeJS-Codebeispiel für die Konvertierung von PNG in XML mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -31,21 +32,15 @@ Das Konvertieren von Dateiformaten von PNG in XML kann eine komplexe Aufgabe sei
     });
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Node, um Excel-Dateien in andere Formate PNG in XML zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie PNG mithilfe der Cloud NodeJS-Bibliothek Cells in XML konvertieren." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Installieren Sie die NodeJS-Bibliothek und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in JavaScript.</li>
 <li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Knoten v6.17.1 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

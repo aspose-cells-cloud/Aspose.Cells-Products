@@ -1,51 +1,47 @@
 ﻿---
-title:  Bulutta FODS'yi SVG'e dönüştürün via PHP
-description: REST API ve Açık Kaynak PHP SDK ile Excel dosyalarını oluşturun, düzenleyin veya dönüştürün
-url: /tr/php/conversion/fods-to-svg/
-family: cells
-platformtag: php
-feature: conversion
-informat: FODS
-outformat: SVG
-platform: PHP
-otherformats: DIF XPS XLSM HTML TIFF TSV FODS PDF XLT XML TXT XLSB XLTM CSV XLTX MHTML 
+title: PHP'i kullanarak FODS'yi SVG'e dönüştürün
+description:  FODS formatındaki bir dosyayı SVG formatındaki bir dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Convert FODS to SVG, REST, PHP
+howto: How to convert FODS to SVG using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="FODS\'yi PHP ile SVG\'e dönüştürün" h2="Excel için açık kaynak Cloud SDK ile Excel ve OpenOffice dosya dönüştürmeyi otomatikleştirin" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="FODS\'yi SVG\'e dönüştür" h2="FODS\'yi SVG\'e dönüştürmek için PHP kütüphanesi" p="PHP projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, PHP\'i kullanarak FODS\'yi SVG\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/fods-to-svg/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS\'yi hızla SVG via PHP\'e dönüştürün" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
-1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
-1. FODS dosyasını ```CellsApi.uploadFile``` yöntemiyle varsayılan Cloud Storage'a yükleyin
-1. Ortaya çıkan SVG dosyasını almak için ```CellsApi.cellsSaveAsPostDocumentSaveAs```'i arayın
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="PHP için Cells Cloud SDK\'yı kullanarak FODS\'yi SVG\'e dönüştürün" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Dosya formatlarını FODS'den SVG'e dönüştürmek karmaşık bir iş olabilir. PHP SDK'mız, kaynak FODS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm FODS'den SVG formatına dönüşümleri gerçekleştirir. PHP kitaplığımız, FODS'yi çevrimiçi olarak SVG dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, PHP geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli SVG çıkışı sağlar.
 
-{{% blocks/products/pf/agp/feature-section-col title="Excel API ve PHP SDK\'yı Kullanmaya Başlayın" %}}
- PHP kaynak kodu için Excel Cloud SDK'yı şu adresten edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) Alternatif indirme seçenekleri için.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Ayrıca Swagger tabanlıya da bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="PHP FODS kodunu SVG\'e dönüştürme" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Cells Cloud SDK\'yı kullanarak FODS\'yi SVG\'e dönüştürmek için Kod Örneği" gistPath="" %}}
+ 
 ```php
-
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php
-
-$name ='template.fods';    
-$saveOptions = null;
-$newfilename = "output.svg";
-$isAutoFitRows= 'true';
-$isAutoFitColumns= 'true';
-$folder = "Temp";
-CellsApi::ready( $this->instance, $name, $folder );
-$result = $this->instance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename, $isAutoFitRows, $isAutoFitColumns, $folder);
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
+    <?php
+    require_once('vendor\autoload.php');
+    use \Aspose\Cells\Cloud\Api\CellsApi;
+    $instance = new CellsApi(getenv("ProductClientId"),getenv("ProductClientSecret"));
+    $path ='Book1.fods';    
+    $format ='svg';
+    $password = null;
+    $outPath = null;      
+    $result = $this->instance->cellsWorkbookPutConvertWorkBook($path ,$format, $password,  $outPath);
+    $size = $result->getSize();
+    $content  = $result->fread($size);
+    $file = fopen("destfile.svg", 'w');
+    fwrite($file,$content);
+    fclose($file);
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud PHP kitaplığını kullanarak FODS\'yi SVG\'e nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>PHP kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı PHP'de açın.</li>
+<li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
+<li>PHP 7.4 veya daha yenisi</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

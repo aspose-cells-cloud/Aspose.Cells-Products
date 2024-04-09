@@ -1,51 +1,47 @@
 ﻿---
-title:  Convertir FODS en XLTM dans le Cloud via PHP
-description: Créez, modifiez ou convertissez des fichiers Excel avec le SDK REST API et Open Source PHP
-url: /fr/php/conversion/fods-to-xltm/
-family: cells
-platformtag: php
-feature: conversion
-informat: FODS
-outformat: XLTM
-platform: PHP
-otherformats: XML PDF MHTML SVG FODS MD XLS DIF XLSM XLT CSV TXT XLTM TSV TIFF XLSX 
+title:  Convertissez FODS en XLTM en utilisant PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir un fichier au format FODS en fichier au format XLTM.
+kwords: Excel, Convert FODS to XLTM, REST, PHP
+howto: How to convert FODS to XLTM using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertissez FODS en XLTM avec PHP" h2="Automatisez la conversion de fichiers Excel et OpenOffice avec le SDK Cloud open source pour PHP" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS en XLTM" h2="Bibliothèque PHP pour convertir FODS en XLTM" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets PHP. Il s\'agit d\'une solution professionnelle pour convertir FODS en XLTM et d\'autres formats de documents en ligne en utilisant le PHP." urlsection="conversion/fods-to-xltm/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Convertissez rapidement FODS en XLTM via PHP" %}}
-1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
-1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
-1. Téléchargez le fichier FODS sur Cloud Storage par défaut avec la méthode ```CellsApi.uploadFile```
-1. Appelez le ```CellsApi.cellsSaveAsPostDocumentSaveAs``` pour obtenir le fichier XLTM résultant
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convertissez FODS en XLTM à l\'aide du SDK Cloud Cells pour PHP" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+La conversion des formats de fichiers de FODS en XLTM peut être une tâche complexe. Notre SDK PHP gère toutes les conversions du format FODS vers XLTM tout en préservant le contenu structurel et logique principal de la feuille de calcul FODS source. Notre bibliothèque PHP fournit une solution professionnelle pour convertir en ligne des fichiers FODS en XLTM. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et garantit une sortie XLTM de haute qualité.
 
-{{% blocks/products/pf/agp/feature-section-col title="Premiers pas avec les SDK Excel, API et PHP" %}}
- Obtenez le SDK Cloud Excel pour le code source PHP à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) pour compiler le SDK vous-même ou rendez-vous sur[Sorties](https://releases.aspose.cloud/) pour des options de téléchargement alternatives.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Jetez également un œil à Swagger-based[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur le[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="PHP Code pour la conversion FODS en XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Exemple de code pour convertir FODS en XLTM à l\'aide du SDK Cloud Cells" gistPath="" %}}
+ 
 ```php
-
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php
-
-$name ='template.fods';    
-$saveOptions = null;
-$newfilename = "output.xltm";
-$isAutoFitRows= 'true';
-$isAutoFitColumns= 'true';
-$folder = "Temp";
-CellsApi::ready( $this->instance, $name, $folder );
-$result = $this->instance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename, $isAutoFitRows, $isAutoFitColumns, $folder);
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
+    <?php
+    require_once('vendor\autoload.php');
+    use \Aspose\Cells\Cloud\Api\CellsApi;
+    $instance = new CellsApi(getenv("ProductClientId"),getenv("ProductClientSecret"));
+    $path ='Book1.fods';    
+    $format ='xltm';
+    $password = null;
+    $outPath = null;      
+    $result = $this->instance->cellsWorkbookPutConvertWorkBook($path ,$format, $password,  $outPath);
+    $size = $result->getSize();
+    $content  = $result->fread($size);
+    $file = fopen("destfile.xltm", 'w');
+    fwrite($file,$content);
+    fclose($file);
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment convertir FODS en XLTM à l\'aide de la bibliothèque Cells Cloud PHP." >}}
+<li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
+<li>Installez la bibliothèque PHP et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source en PHP.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
+<li>PHP 7.4 ou plus récent</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Kryptera lokalt kalkylblad med lösenord med Swift in Cloud
-description: Cloud API och SDK för att skydda Microsoft Excel & OpenOffice Calc med Swift. Kryptera lokala kalkylblad med lösenord med Cells Cloud API SDK för Swift.
+description:  Cloud API och SDK för att skydda Microsoft Excel & OpenOffice Calc med Swift. Kryptera lokala kalkylblad med lösenord med Cells Cloud API SDK för Swift.
 url: /sv/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

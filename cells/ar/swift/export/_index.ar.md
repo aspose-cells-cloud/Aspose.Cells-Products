@@ -1,6 +1,6 @@
 ﻿---
 title:  التصدير باستخدام سويفت
-description: Aspose.Cells Cloud REST API يدعم تصدير المصنفات والكائنات الداخلية إلى جميع أنواع التنسيقات باستخدام Swift. يدعم SDK لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
+description:  Aspose.Cells Cloud REST API يدعم تصدير المصنفات والكائنات الداخلية إلى جميع أنواع التنسيقات باستخدام Swift. يدعم SDK لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 url: /ar/swift/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

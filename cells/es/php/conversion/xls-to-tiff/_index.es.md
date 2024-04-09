@@ -1,18 +1,19 @@
 ﻿---
 title:  Convierta XLS a TIFF usando PHP
 description:  Utilizar el SDK de la nube Aspose.Cells para PHP para convertir un archivo de formato XLS a un archivo de formato TIFF.
+kwords: Excel, Convert XLS to TIFF, REST, PHP
+howto: How to convert XLS to TIFF using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLS a TIFF" h2="Biblioteca PHP para convertir XLS a TIFF" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en PHP proyectos. Esta es una solución profesional para convertir XLS a TIFF y otros formatos de documentos en línea usando PHP." urlsection="conversion/xls-to-tiff/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir XLS a TIFF" h2="Biblioteca PHP para convertir XLS a TIFF" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en PHP proyectos. Esta es una solución profesional para convertir XLS a TIFF y otros formatos de documentos en línea usando PHP." urlsection="conversion/xls-to-tiff/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLS a TIFF usando Cells Cloud SDK para PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta XLS a TIFF usando Cells Cloud SDK para PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de XLS a TIFF puede ser una tarea compleja. Nuestro SDK PHP maneja todas las conversiones de formato XLS a TIFF y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca PHP proporciona una solución profesional para convertir archivos XLS a TIFF en línea. Este SDK de nube brinda a los desarrolladores de PHP una potente funcionalidad y garantiza resultados de TIFF de alta calidad.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Ejemplo de código para convertir XLS a TIFF usando Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Ejemplo de código para convertir XLS a TIFF usando Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,15 @@ Convertir formatos de archivo de XLS a TIFF puede ser una tarea compleja. Nuestr
     fclose($file);
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para convertir archivos Excel a otros formatos XLS a TIFF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir XLS a TIFF usando la biblioteca Cells Cloud PHP." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale la biblioteca PHP y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en PHP.</li>
 <li>Utilice el método `putConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>PHP 7.4 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

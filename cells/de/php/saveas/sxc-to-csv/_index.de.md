@@ -1,6 +1,6 @@
 ﻿---
-title: Speichern Sie SXC als CSV mit PHP
-description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern der SXC-Formatdatei als CSV-Formatdatei.
+title:  Speichern Sie SXC als CSV mit PHP
+description: Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern der SXC-Formatdatei als CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie SXC als CSV" h2="PHP Bibliothek zum Speichern von SXC als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um SXC als CSV und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/sxc-to-csv/" >}}

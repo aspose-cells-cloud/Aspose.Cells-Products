@@ -1,18 +1,19 @@
 ﻿---
 title:  Cells Cloud SDK for Java'i kullanarak LISTOBJECT'i Excel'den TXT'ye aktarın
 description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i Excel\'den TXT\'ye aktar" h2="LISTOBJECT\'i TXT dosyasına aktarmak için Java kitaplığı" p="Java\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Java\'i kullanarak elektronik tablodan LISTOBJECT\'i TXT biçimindeki dosyaya çevrimiçi olarak dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-txt/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="LISTOBJECT\'i Excel\'den TXT\'ye aktar" h2="LISTOBJECT\'i TXT dosyasına aktarmak için Java kitaplığı" p="Java\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Java\'i kullanarak elektronik tablodan LISTOBJECT\'i TXT biçimindeki dosyaya çevrimiçi olarak dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-txt/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Cells Cloud SDK for Java kullanarak TXT biçimindeki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section title="LISTOBJECT nesnesini Cells Cloud SDK for Java kullanarak TXT biçimindeki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 LISTOBJECT nesnesini Excel dosyasından TXT dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i TXT'ye dışa aktarma formatı geçişleri Java SDK'mız tarafından gerçekleştirilir ve kaynak LISTOBJECT elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak TXT formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Java geliştiriciye güçlü işlevsellik ve mükemmel TXT çıkışı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i elektronik tablodan TXT formatına aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="LISTOBJECT\'i elektronik tablodan TXT formatına aktarmak için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,22 +48,15 @@ LISTOBJECT nesnesini Excel dosyasından TXT dosyasına aktarmak karmaşık bir i
     }
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel LISTOBJECT\'ten TXT\'ye aktarmak için Cells Cloud SDK for Java nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Maven 2.2.0 veya daha yenisi</li>
 <li>Java(TM) SE Çalışma Zamanı Ortamı</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

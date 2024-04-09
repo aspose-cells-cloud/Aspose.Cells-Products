@@ -1,56 +1,40 @@
 ﻿---
-title:  Konvertera från Excel FODS till TIFF via Python
-description: Skapa, redigera eller konvertera Excel-filer med REST API & Open Source Python SDK
-url: /sv/python/conversion/fods-to-tiff/
-family: cells
-platformtag: python
-feature: conversion
-informat: FODS
-outformat: TIFF
-platform: Python
-otherformats: XML CSV TSV DIF XLSM SVG XLSX MD HTML FODS MHTML XLTX PDF XLSB TXT TIFF 
+title: Konvertera FODS till TIFF med Python
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera en fil i FODS-format till en fil i TIFF-format.
+kwords: Excel, Convert FODS to TIFF, REST, Python
+howto: How to convert FODS to TIFF using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera FODS till TIFF med Python" h2="Läs, redigera och exportera Excel-data till andra format med open source Cloud SDK för Python" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera FODS till TIFF" h2="Python bibliotek för att konvertera FODS till TIFF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python projekt. Detta är en professionell lösning för att konvertera FODS till TIFF och andra dokumentformat online med Python." urlsection="conversion/fods-to-tiff/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS till TIFF Konvertering med Python" %}}
-1.  Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation
-1. Initiera ```CellsApi``` med klient-id, klienthemlighet, basadress och API-version
-1. Ladda upp FODS-fil till standardmolnlagring med metoden ```CellsApi.upload_file```
-1. Ring ```CellsApi.cells_save_as_post_document_save_as```-metoden för att få den resulterande TIFF-filen
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera FODS till TIFF med Cells Cloud SDK för Python" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Att konvertera filformat från FODS till TIFF kan vara en komplex uppgift. Vår Python SDK hanterar alla FODS- till TIFF-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i FODS-källbladet bevaras. Vårt Python-bibliotek tillhandahåller en professionell lösning för att konvertera FODS till TIFF-filer online. Denna Cloud SDK ger Python-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TIFF-utdata.
 
-{{% blocks/products/pf/agp/feature-section-col title="Kom igång med Excel API & Python SDK" %}}
- Hämta Excel Cloud SDK för Python källkod från[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) för att kompilera SDK själv eller gå till[Släpps](https://releases.aspose.cloud/) för alternativa nedladdningsalternativ.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Ta också en titt på Swagger-baserad[API Referens](https://apireference.aspose.cloud/cells/) att veta mer om[Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Python Kod för FODS till TIFF Konvertering" gistPath="" %}}
-```python
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
-import os
-import sys
-import asposecellscloud
-from asposecellscloud.apis.cells_api import CellsApi
-api  = asposecellscloud.apis.cells_api.CellsApi(os.getenv('CellsCloudClientId'), os.getenv('CellsCloudClientSecret'), "v3.0" ,os.getenv('CellsCloudApiBaseUrl'))
-
-name ='template.fods'    
-saveOptions = None
-newfilename = "output.tiff"
-isAutoFitRows= True
-isAutoFitColumns= True
-folder = "temp"
-result = api.upload_file(folder + '/' + name,  "c:/TestData/" + name)
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Kod Exempel för att konvertera FODS till TIFF med Cells Cloud SDK" gistPath="" %}}
  
-result = api.cells_save_as_post_document_save_as(name, save_options=saveOptions, newfilename=(folder +'/' + newfilename), is_auto_fit_rows=isAutoFitRows, is_auto_fit_columns=isAutoFitColumns, folder=folder)
+```python
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
+    import os
+    import shutil
+    from asposecellscloud.apis.cells_api import CellsApi
+    cells_api = CellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
+    file1 = cells_api.cells_workbook_put_convert_workbook("Book1.fods",format="tiff")
+    shutil.move(file1, "destFile.tiff")     
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar FODS till TIFF med hjälp av Cells Cloud Python-biblioteket." >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Installera Python-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i Python.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
+<li>Python 2.7 eller nyare</li>
+<li>Python 3.10 eller nyare</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

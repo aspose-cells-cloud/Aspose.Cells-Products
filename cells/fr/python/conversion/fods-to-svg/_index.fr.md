@@ -1,56 +1,40 @@
 ﻿---
-title:  Convertir de Excel FODS à SVG via Python
-description: Créez, modifiez ou convertissez des fichiers Excel avec le SDK REST API et Open Source Python
-url: /fr/python/conversion/fods-to-svg/
-family: cells
-platformtag: python
-feature: conversion
-informat: FODS
-outformat: SVG
-platform: Python
-otherformats: TIFF XLTM XLSB XLSX ODS SVG XLTX XML XPS MD MHTML TSV FODS DIF PDF TXT 
+title: Convertissez FODS en SVG en utilisant Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir un fichier au format FODS en fichier au format SVG.
+kwords: Excel, Convert FODS to SVG, REST, Python
+howto: How to convert FODS to SVG using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertissez FODS en SVG avec Python" h2="Lisez, modifiez et exportez les données Excel vers d\'autres formats avec le SDK Cloud open source pour Python" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS en SVG" h2="Bibliothèque Python pour convertir FODS en SVG" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Python. Il s\'agit d\'une solution professionnelle pour convertir FODS en SVG et d\'autres formats de documents en ligne en utilisant Python." urlsection="conversion/fods-to-svg/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion FODS en SVG avec Python" %}}
-1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
-1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
-1. Téléchargez le fichier FODS sur Cloud Storage par défaut avec la méthode ```CellsApi.upload_file```
-1. Appelez la méthode ```CellsApi.cells_save_as_post_document_save_as``` pour obtenir le fichier SVG résultant
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convertissez FODS en SVG à l\'aide du SDK Cloud Cells pour Python" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+La conversion des formats de fichiers de FODS en SVG peut être une tâche complexe. Notre SDK Python gère toutes les conversions du format FODS au format SVG tout en préservant le contenu structurel et logique principal de la feuille de calcul FODS source. Notre bibliothèque Python fournit une solution professionnelle pour convertir en ligne FODS en fichiers SVG. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et garantit une sortie SVG de haute qualité.
 
-{{% blocks/products/pf/agp/feature-section-col title="Premiers pas avec les SDK Excel, API et Python" %}}
- Obtenez le SDK Cloud Excel pour le code source Python à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) pour compiler le SDK vous-même ou rendez-vous sur[Sorties](https://releases.aspose.cloud/) pour des options de téléchargement alternatives.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Jetez également un œil à Swagger-based[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur le[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Python Code pour la conversion FODS en SVG" gistPath="" %}}
-```python
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
-import os
-import sys
-import asposecellscloud
-from asposecellscloud.apis.cells_api import CellsApi
-api  = asposecellscloud.apis.cells_api.CellsApi(os.getenv('CellsCloudClientId'), os.getenv('CellsCloudClientSecret'), "v3.0" ,os.getenv('CellsCloudApiBaseUrl'))
-
-name ='template.fods'    
-saveOptions = None
-newfilename = "output.svg"
-isAutoFitRows= True
-isAutoFitColumns= True
-folder = "temp"
-result = api.upload_file(folder + '/' + name,  "c:/TestData/" + name)
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Exemple de code pour convertir FODS en SVG à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
-result = api.cells_save_as_post_document_save_as(name, save_options=saveOptions, newfilename=(folder +'/' + newfilename), is_auto_fit_rows=isAutoFitRows, is_auto_fit_columns=isAutoFitColumns, folder=folder)
+```python
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
+    import os
+    import shutil
+    from asposecellscloud.apis.cells_api import CellsApi
+    cells_api = CellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
+    file1 = cells_api.cells_workbook_put_convert_workbook("Book1.fods",format="svg")
+    shutil.move(file1, "destFile.svg")     
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment convertir FODS en SVG à l\'aide de la bibliothèque Cells Cloud Python." >}}
+<li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
+<li>Installez la bibliothèque Python et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source en Python.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
+<li>Python 2.7 ou plus récent</li>
+<li>Python 3.10 ou plus récent</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

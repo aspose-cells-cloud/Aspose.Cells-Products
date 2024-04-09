@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için GIF'i SVG'e dönüştürün API'i dönüştürün
-description: GIF formatındaki dosyayı SVG formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
+description:  GIF formatındaki dosyayı SVG formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/conversion/gif-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/gif-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir GIF dosyasını SVG\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını GIF'ten SVG'e dönüştürmek karmaşık bir iştir. GIF'ten SVG'e tüm format geçişleri, kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, GIF'i çevrimiçi olarak SVG dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıktısı sağlar.
+Dosya formatlarını GIF'ten SVG'e dönüştürmek karmaşık bir iştir. GIF'ten SVG'e tüm format geçişleri Swift SDK'mız tarafından gerçekleştirilir ve kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, GIF'i çevrimiçi olarak SVG dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Swift\'de GIF\'i SVG biçimine dönüştürmek için REST API\'i kullanan kod örneği" gistPath="" %}}
@@ -66,7 +66,7 @@ Dosya formatlarını GIF'ten SVG'e dönüştürmek karmaşık bir iştir. GIF'te
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="GIF\'i SVG\'e dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

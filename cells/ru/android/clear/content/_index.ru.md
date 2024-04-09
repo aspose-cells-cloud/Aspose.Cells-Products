@@ -17,7 +17,7 @@ description: Облачные API и SDK для очистки контента 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для очистки контента" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Android для очистки контента" >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
 <li>Вызовите метод postClearObjects, чтобы получить результирующий поток.</li>

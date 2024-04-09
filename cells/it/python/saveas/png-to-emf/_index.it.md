@@ -1,18 +1,19 @@
 ﻿---
 title:  Salva PNG come EMF utilizzando Python
 description:  Utilizzando Aspose.Cells Cloud SDK per Python per salvare il file in formato PNG come file in formato EMF.
+kwords: Excel, Save PNG as EMF, REST, Python
+howto: How to save PNG as EMF using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva PNG come EMF" h2="Libreria Python per salvare PNG come EMF" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Python. Si tratta di una soluzione professionale per salvare PNG come EMF e altri formati di documenti online utilizzando Python." urlsection="saveas/png-to-emf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Salva PNG come EMF" h2="Libreria Python per salvare PNG come EMF" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Python. Si tratta di una soluzione professionale per salvare PNG come EMF e altri formati di documenti online utilizzando Python." urlsection="saveas/png-to-emf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file PNG come EMF in Python" >}}
+{{< blocks/products/cells/cells-cloud-section title="Salva un file PNG come EMF in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Salvare i formati di file da PNG come EMF è un compito complesso. Tutte le transizioni di formato da PNG a EMF vengono eseguite dal nostro SDK Python mantenendo il contenuto strutturale e logico principale del foglio di calcolo sorgente PNG. La nostra libreria Python è una soluzione professionale per salvare PNG come file EMF online. Questo Cloud SDK offre agli sviluppatori Python funzionalità potenti e un output EMF perfetto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python Codice Esempio per salvare PNG come EMF utilizzando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Codice Esempio per salvare PNG come EMF utilizzando REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -26,22 +27,16 @@ Salvare i formati di file da PNG come EMF è un compito complesso. Tutte le tran
     saveResponse = cells_api.cells_save_as_post_document_save_as(name,save_options=saveOptions, newfilename=(folder +'/' + newfilename),folder=folder)
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Python per salvare i file Excel in altri formati PNG come EMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come salvare PNG come EMF utilizzando la libreria Cells Cloud Python." >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
-<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Installa la libreria Python e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in Python.</li>
 <li>Utilizza il metodo `post_workbook_save_as` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>Python 2.7 o successiva</li>
 <li>Python 3.10 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

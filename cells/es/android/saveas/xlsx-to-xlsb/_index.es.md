@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLSX como XLSB usando Android
-description: Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo en formato XLSX como archivo en formato XLSB.
+description:  Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo en formato XLSX como archivo en formato XLSB.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XLSX como XLSB" h2="Biblioteca de Android para guardar XLSX como XLSB" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Android. Esta es una solución profesional para guardar XLSX como XLSB y otros formatos de documentos en línea usando Android." urlsection="saveas/xlsx-to-xlsb/" >}}

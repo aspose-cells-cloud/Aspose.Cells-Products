@@ -1,6 +1,6 @@
 ﻿---
 title:  Go'yu kullanarak HTML'i CSV'ye dönüştürün
-description:  HTML formatındaki bir dosyayı CSV formatındaki bir dosyaya dönüştürmek için Go için Aspose.Cells Cloud SDK'yı kullanma.
+description: HTML formatındaki bir dosyayı CSV formatındaki bir dosyaya dönüştürmek için Go için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i CSV\'ye dönüştür" h2="HTML\'i CSV\'ye dönüştürmek için kitaplığa gidin" p="Go projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Go\'yu kullanarak çevrimiçi olarak HTML\'i CSV\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/html-to-csv/" >}}
@@ -9,7 +9,7 @@ description:  HTML formatındaki bir dosyayı CSV formatındaki bir dosyaya dön
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Go için Cells Cloud SDK\'yı kullanarak HTML\'i CSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını HTML'den CSV'ye dönüştürmek karmaşık bir iş olabilir. Go SDK'mız, kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm HTML'den CSV formatına dönüşümleri gerçekleştirir. Go kitaplığımız, HTML'i çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli CSV çıktısı sağlar.
+Dosya formatlarını HTML'den CSV'ye dönüştürmek karmaşık bir iş olabilir. Go SDK'mız, kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm HTML'den CSV formatına dönüşümleri gerçekleştirir. Go kitaplığımız, HTML'i çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="HTML Cloud SDK\'yı kullanarak HTML\'i CSV\'ye dönüştürmek için Kod Örneğine gidin" gistPath="" %}}
@@ -48,7 +48,7 @@ Dosya formatlarını HTML'den CSV'ye dönüştürmek karmaşık bir iş olabilir
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara HTML CSV\'ye dönüştürmek için Cells Cloud SDK for Go nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

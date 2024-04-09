@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversion GIF en DIF API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format GIF en fichier au format DIF.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format GIF en fichier au format DIF.
 url: /fr/swift/conversion/gif-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

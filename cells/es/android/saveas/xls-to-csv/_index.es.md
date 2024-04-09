@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde XLS como CSV usando Android
+title:  Guarde XLS como CSV usando Android
 description:  Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo en formato XLS como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

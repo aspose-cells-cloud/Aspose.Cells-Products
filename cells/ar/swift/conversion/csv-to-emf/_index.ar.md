@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV إلى EMF تحويل API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق EMF.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق EMF.
 url: /ar/swift/conversion/csv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

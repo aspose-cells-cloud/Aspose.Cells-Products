@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить PNG как SXC API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата PNG как файла формата SXC.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата PNG как файла формата SXC.
 url: /ru/swift/saveas/png-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

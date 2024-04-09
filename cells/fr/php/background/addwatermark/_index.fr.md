@@ -1,5 +1,5 @@
 ﻿---
-title:  Ajouter un filigrane pour le classeur local avec PHP dans Cloud
+title: Ajouter un filigrane pour le classeur local avec PHP dans Cloud
 description:  API et SDK Cloud pour ajouter un filigrane pour Microsoft Excel et OpenOffice Calc avec PHP. Ajout d'un filigrane pour les feuilles de calcul locales par le SDK Cloud Cells API pour PHP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Agregue una marca de agua para el libro de trabajo local con Java en la nube
+title: Agregue una marca de agua para el libro de trabajo local con Java en la nube
 description:  API y SDK de la nube para agregar marcas de agua para Microsoft Excel y OpenOffice Calc con Java. Agregar marcas de agua para hojas de cálculo locales mediante Cells Cloud API SDK for Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

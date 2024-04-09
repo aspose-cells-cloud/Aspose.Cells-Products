@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez PNG sous XLS API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG au format XLS.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG au format XLS.
 url: /fr/swift/saveas/png-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez HTML sous le nom PPTX API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML en tant que fichier au format PPTX.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML en tant que fichier au format PPTX.
 url: /fr/swift/saveas/html-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для Swift дл
 url: /ru/swift/conversion/xls-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в EMF" h2="Библиотека Swift для преобразования XLS в EMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации XLS в EMF и другие форматы документов с помощью Swift." urlsection="conversion/xls-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в EMF" h2="Библиотека Swift для преобразования XLS в EMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для конвертации XLS в EMF и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xls-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLS в EMF в Swift" >}}

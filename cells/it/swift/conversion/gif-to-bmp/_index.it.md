@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF in BMP Converti API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato GIF nel file in formato BMP.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato GIF nel file in formato BMP.
 url: /it/swift/conversion/gif-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

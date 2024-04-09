@@ -1,5 +1,5 @@
 ﻿---
-title: Salva XLTX come CSV utilizzando Python
+title:  Salva XLTX come CSV utilizzando Python
 description:  Utilizzando Aspose.Cells Cloud SDK per Python per salvare il file in formato XLTX come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

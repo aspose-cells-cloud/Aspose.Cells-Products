@@ -1,6 +1,6 @@
 ﻿---
-title: HTML إلى ODS تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق HTML إلى ملف تنسيق ODS.
+title:  HTML إلى ODS تحويل API لـ Swift
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق HTML إلى ملف تنسيق ODS.
 url: /ar/swift/conversion/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -3,7 +3,7 @@ title:  Bulutta bulut e-tabloları dijital imza
 description:  Microsoft Excel ve OpenOffice Calc dijital imzası için Bulut API'leri ve SDK'lar. Cells Bulut API ile elektronik tablolar dijital imza. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyası içeren OpenOffice Calc elektronik tablosuna" h2="Perl kitaplıktan dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyası içeren OpenOffice Calc elektronik tablosu" p="Cells Dijital imza REST API\'i dijital imza bulutu Microsoft Excel\'e ve Perl\'deki şifre ve dijital imza dosyası iş akışlarıyla birlikte OpenOffice Calc elektronik tablosuna kullanın. Bu profesyonel çözüm dijital imza bulutu Microsoft Excel ve şifreler ve dijital imza dosyası içeren çevrimiçi OpenOffice Calc elektronik tablosu Perl." urlsection="protect/Digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyası içeren OpenOffice Calc elektronik tablosuna" h2="Perl kitaplıktan dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyası içeren OpenOffice Calc elektronik tablosu" p="Cells Dijital imza REST API\'i dijital imza bulutu Microsoft Excel\'e ve Perl\'deki şifre ve dijital imza dosyası iş akışlarıyla birlikte OpenOffice Calc elektronik tablosuna kullanın. Bu profesyonel çözüm dijital imza bulutu Microsoft Excel ve 07 kullanarak şifreler ve dijital imza dosyası içeren çevrimiçi OpenOffice Calc elektronik tablosu 6173481." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Dijital imza bulutu Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu - Perl REST API" >}}
@@ -18,7 +18,7 @@ Bir bulut e-tablosunun parola ve dijital imza dosyasıyla dijital imzalanması k
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Bir Excel dosyasını dijital olarak imzalamak için Perl için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Çağrı hücreleri_çalışma kitabı_postalamak_dijital_ortaya çıkan akışı elde etmek için imza yöntemi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

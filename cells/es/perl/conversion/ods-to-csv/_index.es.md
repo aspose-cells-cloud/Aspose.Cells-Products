@@ -1,6 +1,6 @@
 ﻿---
 title:  Convierta ODS a CSV usando Perl
-description: Utilizar el SDK de la nube Aspose.Cells para Perl para convertir un archivo en formato ODS a un archivo en formato CSV.
+description:  Utilizar el SDK de la nube Aspose.Cells para Perl para convertir un archivo en formato ODS a un archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir ODS a CSV" h2="Biblioteca Perl para convertir ODS a CSV" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Perl proyectos. Esta es una solución profesional para convertir ODS a CSV y otros formatos de documentos en línea usando Perl." urlsection="conversion/ods-to-csv/" >}}

@@ -1,55 +1,59 @@
 ﻿---
-title:  تحويل FODS إلى TSV في السحابة via Java
-description: إنشاء أو تحرير أو تحويل ملفات Excel باستخدام REST API ومفتوح المصدر Java SDK
-url: /ar/java/conversion/fods-to-tsv/
-family: cells
-platformtag: java
-feature: conversion
-informat: FODS
-outformat: TSV
-platform: Java
-otherformats: DIF XPS XML PDF XLTM XLSB TSV CSV TXT XLSX FODS XLSM MHTML TIFF SVG MD 
+title:  تحويل FODS إلى TSV باستخدام Java
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق FODS إلى ملف تنسيق TSV.
+kwords: Excel, Convert FODS to TSV, REST, Java
+howto: How to convert FODS to TSV using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى TSV مع Java" h2="أتمتة Excel وتحويل ملفات OpenOffice باستخدام Cloud SDK مفتوح المصدر for Java" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل FODS إلى TSV" h2="Java مكتبة لتحويل FODS إلى TSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل FODS إلى TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/fods-to-tsv/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS بسيط لتحويل TSV" %}}
-1.  قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا
-1. تهيئة ```CellsApi``` بمعرف العميل وسر العميل وعنوان URL الأساسي وإصدار API
-1. قم بتحميل ملف FODS إلى التخزين السحابي الافتراضي بطريقة ```CellsApi.Upload```
-1. اتصل بالرقم ```CellsApi.cellsWorkbookGetWorkbook``` للحصول على ملف TSV الناتج
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل FODS إلى TSV باستخدام Cells Cloud SDK for Java" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+يمكن أن يكون تحويل تنسيقات الملفات من FODS إلى TSV مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق FODS إلى TSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات FODS المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل ملفات FODS إلى ملفات TSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من خلال وظائف قوية ويضمن إخراج TSV عالي الجودة.
 
-{{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel API و Java SDK" %}}
- احصل على Excel Cloud SDK for Java كود المصدر من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Java كود تحويل FODS إلى TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java مثال على الكود لتحويل FODS إلى TSV باستخدام Cells Cloud SDK" gistPath="" %}}
+ 
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-try {
-    CellsApi api = new CellsApi(System.getenv("CellsCloudTestClientId"), System.getenv("CellsCloudTestClientSecret"), "v3.0", System.getenv("CellsCloudTestApiBaseUrl"));
-    String name = BOOK1;
-    String password = null;
-    Boolean isAutoFit = true;
-    Boolean onlySaveTable = true;
-    String format = "TSV";
-    String folder = TEMPFOLDER;
-    api.uploadFile( folder +"/"+ name, new File("c:\\TestData\\" + name) , null);
-    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
-}
-catch (Exception e) {
-    e.printStackTrace();
-}
+    import java.io.File;
+    import com.aspose.cloud.cells.api.*;
+    public class Conversion {
+        public static void main(String[] args) {
+            String name =  "Book1.fods";
+            String format = "tsv";
+            String password = null;
+            String outPath = null;
+            String destFile = "DestFile.tsv";
+            try {
+                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                if(response.canRead())
+                {
+                    if(response.exists()){
+                        response.renameTo(new File(destFile));
+                    }                
+                }
+            }
+            catch(Exception exception )
+            {
+                System.out.print(exception);
+            }
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل FODS إلى TSV باستخدام مكتبة Cells Cloud Java." >}}
+<li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
+<li>قم بتثبيت مكتبة Java وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في Java.</li>
+<li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
+<li>Maven 2.2.0 أو أحدث</li>
+<li>Java(TM) بيئة التشغيل SE</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

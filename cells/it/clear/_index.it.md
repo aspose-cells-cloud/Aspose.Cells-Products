@@ -1,6 +1,6 @@
 ﻿---
 title:  Cancella oggetti allo Excel
-description:  Aspose.Cells Cloud REST API Supporta la cancellazione di oggetti interni in un file Excel e fornisce SDK per vari linguaggi di programmazione, tra cui Android, C#, GO, Java, NODEJS, Perl, 07616481, 07617341, ruby, ruby, ruby, ruby, ruby, ruby, ruby.
+description:  Aspose.Cells Cloud REST API supporta la cancellazione degli oggetti interni in un file Excel e fornisce SDK per vari linguaggi di programmazione, tra cui Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Cancella oggetti allo Excel" h2="Aspose.Cells Cloud SDK supporta la cancellazione di contenuto, stile, grafici, tabelle, sfondi e altro nei file Excel." p="Aspose.Cells Cloud REST API supporta la cancellazione degli oggetti interni in un file Excel e fornisce SDK per vari linguaggi di programmazione, tra cui Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e Swift." urlsection="" >}}

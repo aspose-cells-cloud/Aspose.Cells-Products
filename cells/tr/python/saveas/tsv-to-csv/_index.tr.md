@@ -1,5 +1,5 @@
 ﻿---
-title: Python'i kullanarak TSV'yi CSV olarak kaydedin
+title:  Python'i kullanarak TSV'yi CSV olarak kaydedin
 description:  TSV formatındaki dosyayı CSV formatındaki dosya olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -30,7 +30,7 @@ Dosya formatlarını TSV'den CSV olarak kaydetmek karmaşık bir iştir. TSV'den
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda TSV olarak CSV olarak kaydetmek için Python için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

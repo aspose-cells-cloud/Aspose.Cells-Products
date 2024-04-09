@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde XLSX como DOCX usando Android
+title:  Guarde XLSX como DOCX usando Android
 description:  Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo en formato XLSX como archivo en formato DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

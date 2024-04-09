@@ -10,7 +10,7 @@ url: /ru/swift/export/workbook-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата XPS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл XPS из электронной таблицы — сложная задача. Экспорт WORKBOOK в формат переходов XPS выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для экспорта объектов WORKBOOK в файлы формата XPS онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
+Экспорт объекта WORKBOOK в файл XPS из электронной таблицы — сложная задача. Экспорт WORKBOOK в формат переходов XPS выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для экспорта объектов WORKBOOK в файлы формата XPS онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта WORKBOOK в формат XPS из электронной таблицы" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ar/swift/saveas/xltm-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM باسم SXC في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLTM كـ SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTM إلى SXC بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLTM كملفات SXC عبر الإنترنت. يمنح Cloud SDK لمطوري Swift وظائف قوية ومخرجات SXC مثالية.
+يعد حفظ تنسيقات الملفات من XLTM كـ SXC مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLTM إلى SXC بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLTM كملفات SXC عبر الإنترنت. يمنح Cloud SDK لمطوري Swift وظائف قوية ومخرجات SXC مثالية.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLTM بتنسيق SXC" gistPath="" %}}

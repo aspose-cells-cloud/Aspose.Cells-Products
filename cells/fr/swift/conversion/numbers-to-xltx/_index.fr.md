@@ -1,5 +1,5 @@
 ﻿---
-title:  NUMBERS en XLTX Convertir API pour Swift
+title:  NUMÉROS en XLTX Convertir API pour Swift
 description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format NUMBERS en fichier au format XLTX.
 url: /fr/swift/conversion/numbers-to-xltx/
 ---

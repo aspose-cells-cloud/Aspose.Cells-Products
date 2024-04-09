@@ -13,7 +13,7 @@ url: /it/swift/conversion/xml-to-sxc/
 La conversione dei formati di file da XML a SXC è un compito complesso. Tutte le transizioni dal formato XML al formato SXC vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo XML di origine. La nostra libreria Swift è una soluzione professionale per convertire file XML in SXC online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output SXC perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift che utilizza REST API per convertire XML nel formato SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per convertire XML nel formato SXC" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

@@ -1,18 +1,19 @@
 ﻿---
 title:  Perl'i kullanarak NUMBERS'ı PNG'e dönüştürün
 description:  NUMBERS biçimindeki bir dosyayı PNG biçimindeki bir dosyaya dönüştürmek için Perl için Aspose.Cells Bulut SDK'sını kullanma.
+kwords: Excel, Convert NUMBERS to PNG, REST, Perl
+howto: How to convert NUMBERS to PNG using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı PNG\'e dönüştür" h2="NUMBERS\'ı PNG\'e dönüştürmek için Perl kitaplığı" p="Perl projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, NUMBERS\'ı PNG\'e ve Perl\'i kullanarak çevrimiçi olarak diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-png/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="NUMBERS\'ı PNG\'e dönüştür" h2="NUMBERS\'ı PNG\'e dönüştürmek için Perl kitaplığı" p="Perl projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, NUMBERS\'ı PNG\'e ve Perl\'i kullanarak çevrimiçi olarak diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-png/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Perl için Cells Cloud SDK\'yı kullanarak NUMBERS\'ı PNG\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section title="Perl için Cells Cloud SDK\'yı kullanarak NUMBERS\'ı PNG\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Dosya formatlarını NUMBERS'tan PNG'e dönüştürmek karmaşık bir iş olabilir. Perl SDK'mız, kaynak NUMBERS e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm NUMBERS'dan PNG'e format dönüşümlerini gerçekleştirir. Perl kitaplığımız, NUMBERS'ı çevrimiçi olarak PNG dosyalara dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Perl geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli PNG çıkışı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl NUMBERS\'ı Cells Cloud SDK kullanarak PNG\'e dönüştürmek için Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl NUMBERS\'ı Cells Cloud SDK kullanarak PNG\'e dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -39,21 +40,15 @@ Dosya formatlarını NUMBERS'tan PNG'e dönüştürmek karmaşık bir iş olabil
     close $fh;
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="NUMBERS\'ı PNG\'e dönüştürmek için Perl SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Perl kitaplığını kullanarak NUMBERS\'ı PNG\'e nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Perl paketini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı Perl'de açın.</li>
 <li>Ortaya çıkan akışı almak için `put_convert_workbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

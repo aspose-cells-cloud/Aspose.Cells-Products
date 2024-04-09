@@ -1,6 +1,6 @@
 ﻿---
 title:  Effacer les tableaux croisés dynamiques sur le classeur local dans Cloud
-description: API et SDK Cloud pour effacer les tableaux croisés dynamiques sur Microsoft Excel et OpenOffice Calc. Effacer les tableaux croisés dynamiques sur les feuilles de calcul locales par le Cloud Cells API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+description: API et SDK Cloud pour effacer les tableaux croisés dynamiques sur Microsoft Excel et OpenOffice Calc. Effacez les tableaux croisés dynamiques sur les feuilles de calcul locales par le Cloud Cells API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/swift/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,18 +1,19 @@
 ﻿---
-title: Konvertera CSV till MHTML med Go
+title:  Konvertera CSV till MHTML med Go
 description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en fil i CSV-format till en fil i MHTML-format.
+kwords: Excel, Convert CSV to MHTML, REST, Go
+howto: How to convert CSV to MHTML using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera CSV till MHTML" h2="Gå bibliotek för att konvertera CSV till MHTML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera CSV till MHTML och andra dokumentformat online med Go." urlsection="conversion/csv-to-mhtml/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera CSV till MHTML" h2="Gå bibliotek för att konvertera CSV till MHTML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Go-projekt. Detta är en professionell lösning för att konvertera CSV till MHTML och andra dokumentformat online med Go." urlsection="conversion/csv-to-mhtml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera CSV till MHTML med Cells Cloud SDK för Go" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera CSV till MHTML med Cells Cloud SDK för Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Att konvertera filformat från CSV till MHTML kan vara en komplicerad uppgift. Vår Go SDK hanterar alla konverteringar av CSV- till MHTML-format samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-CSV-kalkylarket bevaras. Vårt Go-bibliotek tillhandahåller en professionell lösning för att konvertera CSV till MHTML-filer online. Denna Cloud SDK ger Go-utvecklare kraftfull funktionalitet och säkerställer MHTML-utdata av hög kvalitet.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go Code Exempel för att konvertera CSV till MHTML med Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Go Code Exempel för att konvertera CSV till MHTML med Cells Cloud SDK" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -44,21 +45,15 @@ Att konvertera filformat från CSV till MHTML kan vara en komplicerad uppgift. V
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Go för att konvertera Excel-filer till andra format CSV till MHTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar CSV till MHTML med hjälp av Cells Cloud Go-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera Go-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen på gång.</li>
 <li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>go version go1.13.0 eller senare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

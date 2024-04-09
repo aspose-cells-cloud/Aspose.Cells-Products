@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV إلى HTML تحويل API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق HTML.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق HTML.
 url: /ar/swift/conversion/csv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  Конвертируйте XLS в TXT, используя PHP.
-description: Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата XLS в файл формата TXT.
+description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата XLS в файл формата TXT.
+kwords: Excel, Convert XLS to TXT, REST, PHP
+howto: How to convert XLS to TXT using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLS в TXT" h2="PHP библиотека для конвертации XLS в TXT" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертации XLS в TXT и другие форматы документов с использованием номера PHP." urlsection="conversion/xls-to-txt/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать XLS в TXT" h2="PHP библиотека для конвертации XLS в TXT" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертации XLS в TXT и другие форматы документов с использованием номера PHP." urlsection="conversion/xls-to-txt/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте XLS в TXT с помощью Cloud SDK Cells для PHP." >}}
+{{< blocks/products/cells/cells-cloud-section title="Конвертируйте XLS в TXT с помощью Cloud SDK Cells для PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XLS в TXT может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования форматов XLS в TXT, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLS. Наша библиотека PHP предоставляет профессиональное решение для онлайн-конвертирования файлов XLS в TXT. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный вывод TXT.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Пример кода для преобразования XLS в TXT с помощью Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Пример кода для преобразования XLS в TXT с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,15 @@ description: Использование Cloud SDK Aspose.Cells для PHP для
     fclose($file);
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для PHP для преобразования файлов Excel в другие форматы XLS в TXT." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как конвертировать XLS в TXT с помощью библиотеки Cells Cloud PHP." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку PHP и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру PHP.</li>
 <li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>PHP 7.4 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

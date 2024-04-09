@@ -1,6 +1,6 @@
 ﻿---
-title: HTML en ODS Convertir API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format HTML en fichier au format ODS.
+title:  HTML en ODS Convertir API pour Swift
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format HTML en fichier au format ODS.
 url: /fr/swift/conversion/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

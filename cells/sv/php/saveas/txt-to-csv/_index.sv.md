@@ -1,6 +1,6 @@
 ﻿---
-title: Spara TXT som CSV med PHP
-description:  Använder Aspose.Cells Cloud SDK för PHP för att spara TXT-formatfil som CSV-fil.
+title:  Spara TXT som CSV med PHP
+description: Använder Aspose.Cells Cloud SDK för PHP för att spara TXT-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Spara TXT som CSV" h2="PHP bibliotek för att spara TXT som CSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i PHP. Detta är en professionell lösning för att spara TXT som CSV och andra dokumentformat online med PHP." urlsection="saveas/txt-to-csv/" >}}

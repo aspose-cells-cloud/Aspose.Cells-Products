@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ PPTX API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق PNG كملف تنسيق PPTX.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق PNG كملف تنسيق PPTX.
 url: /ar/swift/saveas/png-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

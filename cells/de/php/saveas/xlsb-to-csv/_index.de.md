@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLSB als CSV mit PHP
+title:  Speichern Sie XLSB als CSV mit PHP
 description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern der XLSB-Formatdatei als CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -30,7 +30,7 @@ Das Speichern von Dateiformaten aus XLSB als CSV ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für PHP, um Excel-Dateien in anderen Formaten, XLSB und CSV zu speichern" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für PHP, um Excel-Dateien in anderen Formaten, XLSB und CSV zu speichern" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>

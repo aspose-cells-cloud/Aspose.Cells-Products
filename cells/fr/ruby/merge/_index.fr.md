@@ -1,6 +1,6 @@
 ﻿---
 title:  Fusionner les fichiers Excel à l'aide de Ruby
-description: Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel à l'aide de Ruby et propose des SDK pour divers langages de programmation.
+description:  Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel à l'aide de Ruby et propose des SDK pour divers langages de programmation.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionner les fichiers Excel à l\'aide de Ruby" h2="Aspose.Cells Cloud SDK prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel." p="Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel à l\'aide de Ruby et propose des SDK pour divers langages de programmation." urlsection="merge/" >}}

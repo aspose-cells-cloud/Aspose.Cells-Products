@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti CSV in PPTX API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato CSV in un file in formato PPTX.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato CSV in un file in formato PPTX.
 url: /it/swift/conversion/csv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/swift/conversion/csv-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file CSV in PPTX in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da CSV a PPTX è un compito complesso. Tutte le transizioni dal formato CSV a PPTX vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Swift è una soluzione professionale per convertire file CSV in PPTX online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output PPTX perfetto.
+La conversione dei formati di file da CSV a PPTX è un compito complesso. Tutte le transizioni dal formato CSV al formato PPTX vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Swift è una soluzione professionale per convertire file CSV in PPTX online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output PPTX perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per convertire il formato CSV in PPTX" gistPath="" %}}

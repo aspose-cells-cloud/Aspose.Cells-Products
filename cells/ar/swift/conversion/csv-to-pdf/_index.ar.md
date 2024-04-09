@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV إلى PDF تحويل API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق PDF.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق PDF.
 url: /ar/swift/conversion/csv-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

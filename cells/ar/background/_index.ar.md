@@ -3,7 +3,7 @@ title:  تعيين الخلفية في ملف Excel
 description:  Aspose.Cells Cloud REST API يدعم تعيين الخلفيات لملفات Excel ويوفر SDKs لمختلف لغات البرمجة، بما في ذلك Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وSwift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تعيين الخلفية في ملف Excel" h2="Aspose.Cells يدعم Cloud SDK إعداد الخلفيات أو العلامات المائية لملفات Excel." p="Aspose.Cells Cloud REST API يدعم إعداد الخلفيات لملفات Excel ويوفر SDKs لمختلف لغات البرمجة، بما في ذلك Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وSwift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تعيين الخلفية في ملف Excel" h2="Aspose.Cells يدعم Cloud SDK إعداد الخلفيات أو العلامات المائية لملفات Excel." p="Aspose.Cells Cloud REST API يدعم تعيين الخلفيات لملفات Excel ويوفر SDKs لمختلف لغات البرمجة، بما في ذلك Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وSwift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

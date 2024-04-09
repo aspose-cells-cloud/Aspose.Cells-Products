@@ -10,7 +10,7 @@ url: /ru/swift/conversion/xlt-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в XML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в XML — сложная задача. Все переходы формата XLT в XML выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLT в XML. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из XLT в XML — сложная задача. Все переходы формата XLT в XML выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов XLT в XML. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLT в формат XML" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Spara TXT som CSV med Perl
-description:  Använder Aspose.Cells Cloud SDK för Perl för att spara TXT-formatfil som CSV-fil.
+title:  Spara TXT som CSV med Perl
+description: Använder Aspose.Cells Cloud SDK för Perl för att spara TXT-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Spara TXT som CSV" h2="Perl bibliotek för att spara TXT som CSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Perl. Detta är en professionell lösning för att spara TXT som CSV och andra dokumentformat online med Perl." urlsection="saveas/txt-to-csv/" >}}

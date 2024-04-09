@@ -10,7 +10,7 @@ url: /ru/swift/conversion/mhtml-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в WMF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов MHTML в WMF. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате WMF.
+Преобразование форматов файлов из MHTML в WMF — сложная задача. Все переходы формата MHTML в WMF выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов MHTML в WMF. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования MHTML в формат WMF" gistPath="" %}}

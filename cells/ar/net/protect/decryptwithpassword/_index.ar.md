@@ -3,7 +3,7 @@ title:  فك تشفير جداول البيانات المحلية بكلمة م
 description:  فتح واجهات برمجة التطبيقات السحابية وحزم SDK لـ Microsoft Excel وOpenOffice Calc. يتم فك تشفير جداول البيانات بواسطة السحابة Cells API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لفك التشفير المحلي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة C# لفك التشفير المحلي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells فك تشفير REST API لفك تشفير Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور في C#. يقوم هذا الحل الاحترافي بفك تشفير Microsoft المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات المرور باستخدام 0761734 81." urlsection="protect/Decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لفك التشفير المحلي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة المرور" h2="مكتبة C# لفك التشفير المحلي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells فك تشفير REST API لفك تشفير Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور في C#. يقوم هذا الحل الاحترافي بفك تشفير Microsoft المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات المرور باستخدام C# ." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="فك تشفير محلي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - C# REST API" >}}

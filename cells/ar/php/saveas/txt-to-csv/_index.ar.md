@@ -1,6 +1,6 @@
 ﻿---
-title: احفظ TXT كملف CSV باستخدام PHP
-description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق TXT كملف بتنسيق CSV.
+title:  احفظ TXT كملف CSV باستخدام PHP
+description: استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق TXT كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TXT كملف CSV" h2="مكتبة PHP لحفظ TXT بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في PHP. يعد هذا حلاً احترافيًا لحفظ TXT كملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/txt-to-csv/" >}}

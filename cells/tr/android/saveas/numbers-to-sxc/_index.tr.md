@@ -1,18 +1,19 @@
 ﻿---
 title:  NUMBERS'ı Android kullanarak SXC olarak kaydedin
 description:  NUMBERS biçimindeki dosyayı SXC biçimindeki dosya olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Save NUMBERS as SXC, REST, Android
+howto: How to save NUMBERS as SXC using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı SXC olarak kaydet" h2="NUMBERS\'ı SXC olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, NUMBERS\'ı Android kullanarak çevrimiçi olarak SXC ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/numbers-to-sxc/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="NUMBERS\'ı SXC olarak kaydet" h2="NUMBERS\'ı SXC olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, NUMBERS\'ı Android kullanarak çevrimiçi olarak SXC ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/numbers-to-sxc/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir NUMBERS dosyasını SXC olarak kaydedin" >}}
+{{< blocks/products/cells/cells-cloud-section title="Android\'de bir NUMBERS dosyasını SXC olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 NUMBERS dosyasındaki dosya formatlarını SXC olarak kaydetmek karmaşık bir iştir. NUMBERS'tan SXC'ye tüm format geçişleri, kaynak NUMBERS e-tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, NUMBERS'ı çevrimiçi olarak SXC dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıkışı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="REST API\'i kullanarak NUMBERS\'ı SXC olarak kaydetmek için Android Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="REST API\'i kullanarak NUMBERS\'ı SXC olarak kaydetmek için Android Kod Örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -31,22 +32,15 @@ NUMBERS dosyasındaki dosya formatlarını SXC olarak kaydetmek karmaşık bir i
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyasını diğer formatlarda NUMBERS olarak SXC olarak kaydetmek için Android için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda kaydetmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Android 7 veya daha yenisi</li>
 <li>Java(TM) SE Çalışma Zamanı Ortamı</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

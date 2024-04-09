@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde TXT como CSV usando Java
+title:  Guarde TXT como CSV usando Java
 description:  Utilizando Aspose.Cells Cloud SDK for Java para guardar el archivo en formato TXT como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

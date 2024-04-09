@@ -3,7 +3,7 @@ title:  امسح كائنات القائمة في المصنف المحلي في
 description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح كائنات القائمة على Microsoft Excel وOpenOffice Calc. قم بمسح كائنات القائمة في جداول البيانات المحلية بواسطة Cells Cloud API. يدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة كائنات القائمة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح كائنات القائمة على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Android. يقوم هذا الحل الاحترافي بمسح الكائنات الموجودة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/List-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة كائنات القائمة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح كائنات القائمة على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Android. يقوم هذا الحل الاحترافي بمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح كائنات القائمة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc - Android REST API" >}}

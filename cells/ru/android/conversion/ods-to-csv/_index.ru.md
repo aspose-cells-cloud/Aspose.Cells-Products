@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертируйте ODS в CSV с помощью Android
-description: Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата ODS в файл формата CSV.
+description:  Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата ODS в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать ODS в CSV" h2="Библиотека Android для преобразования ODS в CSV" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертирования ODS в CSV и другие форматы документов с помощью Android." urlsection="conversion/ods-to-csv/" >}}
@@ -9,7 +9,7 @@ description: Использование Cloud SDK Aspose.Cells для Android д
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование ODS в CSV с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в CSV может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов ODS в CSV, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов ODS в CSV. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
+Преобразование форматов файлов из ODS в CSV может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов ODS в CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы ODS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов ODS в CSV. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования ODS в CSV с использованием Cloud SDK Cells" gistPath="" %}}

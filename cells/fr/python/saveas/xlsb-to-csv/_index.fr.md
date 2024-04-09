@@ -1,5 +1,5 @@
 ﻿---
-title: Enregistrez XLSB au format CSV en utilisant Python
+title:  Enregistrez XLSB au format CSV en utilisant Python
 description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XLSB au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

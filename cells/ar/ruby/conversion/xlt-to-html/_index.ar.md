@@ -1,18 +1,19 @@
 ﻿---
-title:  تحويل XLT إلى HTML باستخدام روبي
-description: استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف بتنسيق XLT إلى ملف بتنسيق HTML.
+title: تحويل XLT إلى HTML باستخدام روبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف بتنسيق XLT إلى ملف بتنسيق HTML.
+kwords: Excel, Convert XLT to HTML, REST, Ruby
+howto: How to convert XLT to HTML using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLT إلى HTML" h2="مكتبة روبي لتحويل XLT إلى HTML" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Ruby. يعد هذا حلاً احترافيًا لتحويل XLT إلى HTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/xlt-to-html/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل XLT إلى HTML" h2="مكتبة روبي لتحويل XLT إلى HTML" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Ruby. يعد هذا حلاً احترافيًا لتحويل XLT إلى HTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/xlt-to-html/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLT إلى HTML باستخدام Cells Cloud SDK لروبي" >}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل XLT إلى HTML باستخدام Cells Cloud SDK لروبي" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 يمكن أن يكون تحويل تنسيقات الملفات من XLT إلى HTML مهمة معقدة. يتعامل Ruby SDK الخاص بنا مع جميع تحويلات تنسيق XLT إلى HTML مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. توفر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات XLT إلى HTML عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Ruby من خلال وظائف قوية ويضمن إخراج HTML عالي الجودة.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز روبي لتحويل XLT إلى HTML باستخدام Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="مثال رمز روبي لتحويل XLT إلى HTML باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -26,21 +27,15 @@ description: استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف
     end
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لتحويل ملفات Excel إلى تنسيقات أخرى XLT إلى HTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل XLT إلى HTML باستخدام مكتبة Cloud Ruby Cells." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة روبي وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في روبي.</li>
 <li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>روبي 2.5 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

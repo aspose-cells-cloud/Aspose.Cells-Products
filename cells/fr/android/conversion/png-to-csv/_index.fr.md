@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir PNG en CSV en utilisant Android
-description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format PNG en fichier au format CSV.
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format PNG en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir PNG en CSV" h2="Bibliothèque Android pour convertir PNG en CSV" p="Utilisez la conversion API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans des projets Android. Il s\'agit d\'une solution professionnelle pour convertir PNG en CSV et autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/png-to-csv/" >}}

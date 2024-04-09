@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON a BMP Convertir API para Swift
-description: Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato JSON a un archivo de formato BMP.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato JSON a un archivo de formato BMP.
 url: /es/swift/conversion/json-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

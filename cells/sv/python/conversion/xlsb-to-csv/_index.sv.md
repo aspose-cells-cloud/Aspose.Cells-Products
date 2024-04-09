@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera XLSB till CSV med Python
-description: Använda Aspose.Cells Cloud SDK för Python för att konvertera en fil i XLSB-format till en fil i CSV-format.
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera en fil i XLSB-format till en fil i CSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLSB till CSV" h2="Python bibliotek för att konvertera XLSB till CSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Python projekt. Detta är en professionell lösning för att konvertera XLSB till CSV och andra dokumentformat online med Python." urlsection="conversion/xlsb-to-csv/" >}}

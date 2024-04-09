@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XML als CSV mit PHP
+title:  Speichern Sie XML als CSV mit PHP
 description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern der XML-Formatdatei als CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

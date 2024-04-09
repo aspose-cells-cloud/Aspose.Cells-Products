@@ -10,7 +10,7 @@ url: /tr/swift/conversion/ods-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir ODS dosyasını DIF\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını ODS'den DIF'ye dönüştürmek karmaşık bir iştir. Tüm ODS'den DIF formatına geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, ODS'yi çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
+Dosya formatlarını ODS'den DIF'ye dönüştürmek karmaşık bir iştir. Tüm ODS'den DIF formatına geçişler, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, ODS'yi çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ODS\'yi DIF formatına dönüştürmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
@@ -66,7 +66,7 @@ Dosya formatlarını ODS'den DIF'ye dönüştürmek karmaşık bir iştir. Tüm 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="ODS\'yi DIF\'ye dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

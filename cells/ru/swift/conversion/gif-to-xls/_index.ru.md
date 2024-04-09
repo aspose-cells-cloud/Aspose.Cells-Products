@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать GIF в XLS API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата XLS.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата XLS.
 url: /ru/swift/conversion/gif-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

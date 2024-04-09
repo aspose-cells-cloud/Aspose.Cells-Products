@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как HTML API для Swift.
-description: Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата CSV как файла формата HTML.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата CSV как файла формата HTML.
 url: /ru/swift/saveas/csv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

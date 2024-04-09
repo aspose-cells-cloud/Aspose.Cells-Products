@@ -1,66 +1,41 @@
 ﻿---
-title: Konvertera från Excel FODS till SXC via Ruby
-description: Skapa, redigera eller konvertera Excel-filer med REST API & Open Source Ruby SDK
-url: /sv/ruby/conversion/fods-to-sxc/
-family: cells
-platformtag: ruby
-feature: conversion
-informat: FODS
-outformat: SXC
-platform: Ruby
-otherformats: XLSB SVG TIFF PDF XPS DIF XLSM XLTM ODS MHTML TSV CSV XML FODS MD XLSX 
+title:  Konvertera FODS till SXC med Ruby
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att konvertera en fil i FODS-format till en fil i SXC-format.
+kwords: Excel, Convert FODS to SXC, REST, Ruby
+howto: How to convert FODS to SXC using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera FODS till SXC med Ruby" h2="Läs, redigera och exportera Excel data till andra format med open source Cloud SDK för Ruby" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera FODS till SXC" h2="Ruby-bibliotek för att konvertera FODS till SXC" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby-projekt. Detta är en professionell lösning för att konvertera FODS till SXC och andra dokumentformat online med Ruby." urlsection="conversion/fods-to-sxc/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS till SXC-konvertering med Ruby" %}}
-1.  Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation
-1. Initiera ```CellsApi``` med klient-id, klienthemlighet, basadress och API-version
-1. Ladda upp FODS-fil till standardmolnlagring med metoden ```CellsApi.upload_file```
-1. Ring ```CellsApi.cells_save_as_post_document_save_as```-metoden för att få den resulterande SXC-filen
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera FODS till SXC med Cells Cloud SDK för Ruby" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Att konvertera filformat från FODS till SXC kan vara en komplex uppgift. Vår Ruby SDK hanterar alla FODS- till SXC-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i FODS-källbladet bevaras. Vårt Ruby-bibliotek tillhandahåller en professionell lösning för att konvertera FODS till SXC-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och säkerställer SXC-utdata av hög kvalitet.
 
-{{% blocks/products/pf/agp/feature-section-col title="Kom igång med Excel API & Ruby SDK" %}}
-Få Excel Cloud SDK för Ruby källkod från[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) för att kompilera SDK själv eller gå till[Släpps](https://releases.aspose.cloud/) för alternativa nedladdningsalternativ.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Ta också en titt på Swagger-baserad[API Referens](https://apireference.aspose.cloud/cells/) att veta mer om[Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Rubykod för FODS till SXC-konvertering" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Ruby Code Exempel för att konvertera FODS till SXC med Cells Cloud SDK" gistPath="" %}}
+ 
 ```ruby
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
-
-require 'aspose_cells_cloud'
-
-class Workbook
-  include AsposeCellsCloud
-  def initialize
-    @instance =  AsposeCellsCloud::CellsApi.new($client_id, $client_secret, $api_version, $baseurl) 
-  end
-  
-  # Convert document and save result to storage
-  def post_document_save_as
-    name = $BOOK1
-    save_options = nil
-    newfilename = 'output.sxc'
-    is_auto_fit_rows = true
-    is_auto_fit_columns = true
-    folder = $TEMPFOLDER
-    result = @instance.upload_file( folder + "/" + name, ::File.open(File.expand_path("data/" + name), "r") {|io| io.read(io.size) })
-    expect(result.uploaded.size).to  be > 0
-    result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder + "/" + newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
-  end
-end
-
-workbook = Workbook.new()
-puts workbook.post_document_save_as
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
+    describe 'cells_save_as_post_document_save_as test' do
+        it "should work" do
+            @instance = AsposeCellsCloud::CellsApi.new($client_id,$client_secret,"v3.0","https://api.aspose.cloud/")
+            name = "BOOK1.fods"
+            format = 'sxc'
+            @instance.cells_workbook_put_convert_workbook( ::File.open(File.expand_path("data/"+name),"r")  {|io| io.read(io.size) },{:format=>format})     
+        end
+    end
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar FODS till SXC med hjälp av Cells Cloud Ruby-biblioteket." >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Installera Ruby-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i Ruby.</li>
+<li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
+<li>ruby 2.5 eller nyare</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

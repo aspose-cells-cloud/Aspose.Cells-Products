@@ -10,7 +10,7 @@ url: /it/swift/export/worksheet-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto FOGLIO DI LAVORO nel file in formato JSON in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare un oggetto WORKSHEET in un file JSON dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di FOGLIO DI LAVORO in formato JSON viene eseguita dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo di FOGLIO DI LAVORO di origine. La nostra libreria Swift è una soluzione professionale per esportare oggetti WORKSHEET in file in formato JSON online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output JSON perfetto.
+Esportare un oggetto WORKSHEET in un file JSON dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni del formato WORKSHEET nel formato JSON viene eseguita dal nostro Swift SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo WORKSHEET di origine. La nostra libreria Swift è una soluzione professionale per esportare oggetti WORKSHEET in file in formato JSON online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output JSON perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per esportare FOGLIO DI LAVORO in formato JSON dal foglio di calcolo" gistPath="" %}}

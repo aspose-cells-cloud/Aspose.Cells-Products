@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLSX som JSON med Android
+title:  Spara XLSX som JSON med Android
 description:  Använder Aspose.Cells Cloud SDK för Android för att spara XLSX-formatfil som JSON-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

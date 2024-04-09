@@ -1,18 +1,19 @@
 ﻿---
 title:  Конвертируйте SXC в JPG, используя Perl
 description:  Использование Cloud SDK Aspose.Cells для Perl для преобразования файла формата SXC в файл формата JPG.
+kwords: Excel, Convert SXC to JPG, REST, Perl
+howto: How to convert SXC to JPG using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать SXC в JPG" h2="Perl библиотека для конвертации SXC в JPG" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Perl. Это профессиональное решение для онлайн-конвертирования SXC в JPG и другие форматы документов с использованием номера Perl." urlsection="conversion/sxc-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать SXC в JPG" h2="Perl библиотека для конвертации SXC в JPG" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Perl. Это профессиональное решение для онлайн-конвертирования SXC в JPG и другие форматы документов с использованием номера Perl." urlsection="conversion/sxc-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте SXC в JPG с помощью Cloud SDK Cells для Perl." >}}
+{{< blocks/products/cells/cells-cloud-section title="Конвертируйте SXC в JPG с помощью Cloud SDK Cells для Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из SXC в JPG может оказаться сложной задачей. Наш SDK Perl обрабатывает все преобразования формата SXC в JPG, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Perl предоставляет профессиональное решение для онлайн-конвертирования файлов SXC в JPG. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и обеспечивает высококачественный вывод в формате JPG.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для преобразования SXC в JPG с помощью Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Пример кода для преобразования SXC в JPG с помощью Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -39,21 +40,15 @@ description:  Использование Cloud SDK Aspose.Cells для Perl дл
     close $fh;
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl SDK для преобразования SXC в JPG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как конвертировать SXC в JPG с помощью библиотеки Cells Cloud Perl." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите пакет Perl и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру Perl.</li>
 <li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

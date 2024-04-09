@@ -1,5 +1,5 @@
 ﻿---
-title:  Экспортируйте ИЗОБРАЖЕНИЕ в TIFF из электронной таблицы с помощью Swift API.
+title: Экспортируйте ИЗОБРАЖЕНИЕ в TIFF из электронной таблицы с помощью Swift API.
 description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 url: /ru/swift/export/picture-to-tiff/
 ---

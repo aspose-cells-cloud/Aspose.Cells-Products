@@ -1,6 +1,6 @@
 ﻿---
 title:  Установите фон с помощью Swift
-description: Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с помощью Swift. SDK поддерживает несколько языков разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
+description:  Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с помощью Swift. SDK поддерживает несколько языков разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 url: /ru/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

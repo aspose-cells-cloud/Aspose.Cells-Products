@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XML en CSV à l'aide de Perl
-description: Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir un fichier au format XML en fichier au format CSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir un fichier au format XML en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XML en CSV" h2="Bibliothèque Perl pour convertir XML en CSV" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Perl. Il s\'agit d\'une solution professionnelle pour convertir du XML en CSV et d\'autres formats de documents en ligne à l\'aide du Perl." urlsection="conversion/xml-to-csv/" >}}

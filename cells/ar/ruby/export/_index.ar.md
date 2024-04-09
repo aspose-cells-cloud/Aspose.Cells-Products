@@ -1,6 +1,6 @@
 ﻿---
 title:  تصدير كائنات Excel باستخدام روبي
-description: Aspose.Cells Cloud REST API يدعم تصدير المصنفات والكائنات الداخلية إلى جميع أنواع التنسيقات باستخدام Ruby. يدعم SDK لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
+description:  Aspose.Cells Cloud REST API يدعم تصدير المصنفات والكائنات الداخلية إلى جميع أنواع التنسيقات باستخدام Ruby. يدعم SDK لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير كائنات Excel باستخدام روبي" h2="Aspose.Cells يدعم Cloud SDK تصدير المصنفات والكائنات الداخلية إلى أكثر من 30 تنسيق ملف." p="Aspose.Cells Cloud REST API يدعم تصدير المصنفات والكائنات الداخلية إلى جميع أنواع التنسيقات باستخدام Ruby. يدعم SDK لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift." urlsection="export/" >}}

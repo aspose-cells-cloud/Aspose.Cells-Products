@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione dei formati di file Excel utilizzando Go
-description:  Aspose.Cells Cloud REST API supporta la conversione del formato file Excel utilizzando Go e offre SDK per più linguaggi di programmazione.
+description: Aspose.Cells Cloud REST API supporta la conversione del formato file Excel utilizzando Go e offre SDK per più linguaggi di programmazione.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Conversione dei formati di file Excel utilizzando Go" h2="Aspose.Cells Cloud SDK supporta la conversione tra oltre 30 formati di file." p="Aspose.Cells Cloud REST API supporta la conversione del formato file Excel utilizzando Go e offre SDK per più linguaggi di programmazione." urlsection="conversion/" >}}

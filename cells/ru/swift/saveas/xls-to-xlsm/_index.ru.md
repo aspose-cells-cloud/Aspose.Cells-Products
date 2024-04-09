@@ -13,7 +13,7 @@ url: /ru/swift/saveas/xls-to-xlsm/
 Сохранение форматов файлов из XLS в XLSM — сложная задача. Все переходы формата XLS в XLSM выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLS в формате XLSM онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLS как формата XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLS в формате XLSM" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

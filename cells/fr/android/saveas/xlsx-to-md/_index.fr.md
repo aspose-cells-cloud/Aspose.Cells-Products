@@ -1,5 +1,5 @@
 ﻿---
-title: Enregistrer XLSX en tant que MD en utilisant Android
+title:  Enregistrer XLSX en tant que MD en utilisant Android
 description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLSX en tant que fichier au format MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

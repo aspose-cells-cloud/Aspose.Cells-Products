@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie TSV als CSV mit Android
+title:  Speichern Sie TSV als CSV mit Android
 description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von TSV-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

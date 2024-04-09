@@ -19,7 +19,7 @@ Bir bulut e-tablosunun parola ve dijital imza dosyasıyla dijital imzalanması k
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Swift API dijital imzaya nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li> Swift SDK API artık dijital imzayı desteklemiyor.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

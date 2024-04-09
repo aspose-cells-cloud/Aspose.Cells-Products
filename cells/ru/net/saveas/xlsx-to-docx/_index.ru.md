@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSX как DOCX, используя C#.
+title:  Сохраните XLSX как DOCX, используя C#.
 description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSX как файла формата DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV كـ HTML API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق HTML.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق HTML.
 url: /ar/swift/saveas/csv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

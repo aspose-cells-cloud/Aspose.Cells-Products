@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ MHTML كـ WMF باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق MHTML كملف بتنسيق WMF.
+kwords: Excel, Save MHTML as WMF, REST, Android
+howto: How to save MHTML as WMF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ MHTML باسم WMF" h2="مكتبة Android لحفظ MHTML كـ WMF" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ MHTML بتنسيق WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/mhtml-to-wmf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ MHTML باسم WMF" h2="مكتبة Android لحفظ MHTML كـ WMF" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ MHTML بتنسيق WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/mhtml-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML بتنسيق WMF في Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف MHTML بتنسيق WMF في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من MHTML بتنسيق WMF مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق MHTML إلى WMF بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ MHTML كملفات WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات WMF مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لحفظ MHTML كـ WMF باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="مثال على رمز Android لحفظ MHTML كـ WMF باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -31,22 +32,15 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى MHTML مثل WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى" >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
 <li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>أندرويد 7 أو الأحدث</li>
 <li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

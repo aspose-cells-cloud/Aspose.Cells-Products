@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLSX sous TIFF en utilisant Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLSX au format TIFF.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLSX au format TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLSX sous le numéro TIFF" h2="Bibliothèque Android pour enregistrer XLSX sous TIFF" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLSX sous le numéro TIFF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xlsx-to-tiff/" >}}

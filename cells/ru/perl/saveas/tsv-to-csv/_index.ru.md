@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните TSV как CSV, используя Perl.
+title:  Сохраните TSV как CSV, используя Perl.
 description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата TSV в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

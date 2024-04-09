@@ -1,18 +1,19 @@
 ﻿---
 title:  تحويل المواد المستنفدة للأوزون إلى SXC باستخدام Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق ODS إلى ملف تنسيق SXC.
+kwords: Excel, Convert ODS to SXC, REST, Java
+howto: How to convert ODS to SXC using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل المواد المستنفدة للأوزون إلى SXC" h2="مكتبة Java لتحويل المواد المستنفدة للأوزون إلى SXC" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل ODS إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/ods-to-sxc/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل المواد المستنفدة للأوزون إلى SXC" h2="مكتبة Java لتحويل المواد المستنفدة للأوزون إلى SXC" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل ODS إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/ods-to-sxc/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ODS إلى SXC باستخدام Cells Cloud SDK for Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل ODS إلى SXC باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 يمكن أن يكون تحويل تنسيقات الملفات من ODS إلى SXC مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق ODS إلى SXC مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل ملفات ODS إلى ملفات SXC عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من الحصول على وظائف قوية ويضمن إخراج SXC عالي الجودة.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لتحويل ODS إلى SXC باستخدام Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java مثال على الكود لتحويل ODS إلى SXC باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -43,22 +44,16 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لتحويل ملفات Excel إلى تنسيقات أخرى ODS إلى SXC" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل ODS إلى SXC باستخدام مكتبة Cells Cloud Java." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة Java وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في Java.</li>
 <li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
 <li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

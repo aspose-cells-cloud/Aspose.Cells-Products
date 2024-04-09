@@ -9,7 +9,7 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML в формате CSV в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение файлов формата HTML в формате CSV — сложная задача. Все переходы формата HTML в формат CSV выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов CSV в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и идеальный вывод в формате CSV.
+Сохранение файлов формата HTML в формате CSV — сложная задача. Все переходы формата HTML в формат CSV выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов CSV в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и идеальный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для сохранения HTML в формате CSV с использованием REST API" gistPath="" %}}

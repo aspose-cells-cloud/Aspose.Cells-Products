@@ -1,6 +1,6 @@
 ﻿---
 title:  Hintergrund mit Swift festlegen
-description: Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit Swift. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit Swift. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

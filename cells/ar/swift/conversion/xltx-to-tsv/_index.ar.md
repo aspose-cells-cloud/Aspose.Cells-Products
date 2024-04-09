@@ -13,7 +13,7 @@ url: /ar/swift/conversion/xltx-to-tsv/
 يعد تحويل تنسيقات الملفات من XLTX إلى TSV مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLTX إلى TSV بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTX المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات XLTX إلى ملفات TSV عبر الإنترنت. يمنح Cloud SDK لمطوري Swift وظائف قوية ومخرجات TSV مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال للتعليمات البرمجية في Swift باستخدام REST API لتحويل تنسيق XLTX إلى تنسيق TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل تنسيق XLTX إلى تنسيق TSV" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

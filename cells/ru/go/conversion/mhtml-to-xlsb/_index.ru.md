@@ -1,18 +1,19 @@
 ﻿---
 title:  Преобразование MHTML в XLSB с помощью Go
 description:  Использование Cloud SDK для Go Aspose.Cells для преобразования файла формата MHTML в файл формата XLSB.
+kwords: Excel, Convert MHTML to XLSB, REST, Go
+howto: How to convert MHTML to XLSB using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать MHTML в XLSB" h2="Библиотека Go для преобразования MHTML в XLSB" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для онлайн-конвертирования MHTML в XLSB и другие форматы документов с помощью Go." urlsection="conversion/mhtml-to-xlsb/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать MHTML в XLSB" h2="Библиотека Go для преобразования MHTML в XLSB" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для онлайн-конвертирования MHTML в XLSB и другие форматы документов с помощью Go." urlsection="conversion/mhtml-to-xlsb/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование MHTML в XLSB с помощью Cloud SDK Cells для Go" >}}
+{{< blocks/products/cells/cells-cloud-section title="Преобразование MHTML в XLSB с помощью Cloud SDK Cells для Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из MHTML в XLSB может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования форматов MHTML в XLSB, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования файлов MHTML в XLSB. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод XLSB.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования MHTML в XLSB с использованием Cloud SDK Cells" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Пример кода Go для преобразования MHTML в XLSB с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -44,21 +45,15 @@ description:  Использование Cloud SDK для Go Aspose.Cells для
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Go для преобразования файлов Excel в другие форматы MHTML в XLSB." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как преобразовать MHTML в XLSB с помощью библиотеки Cloud Go Cells." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку Go и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл в go.</li>
 <li>Используйте метод `PutConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>версия go go1.13.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

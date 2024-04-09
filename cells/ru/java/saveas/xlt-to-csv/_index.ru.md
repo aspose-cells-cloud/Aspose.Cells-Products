@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLT как CSV, используя Java.
+title:  Сохраните XLT как CSV, используя Java.
 description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLT в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

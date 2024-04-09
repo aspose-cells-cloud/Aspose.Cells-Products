@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLS som CSV med C#
+title:  Spara XLS som CSV med C#
 description:  Använder Aspose.Cells Cloud SDK för C# för att spara XLS-formatfil som CSV-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

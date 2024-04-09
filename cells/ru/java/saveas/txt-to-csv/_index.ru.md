@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните TXT в формате CSV, используя Java.
+title:  Сохраните TXT в формате CSV, используя Java.
 description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата TXT в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -34,7 +34,7 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах TXT как CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах TXT как CSV." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
 <li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>

@@ -1,18 +1,19 @@
 ﻿---
 title:  Android'i kullanarak NUMBERS'ı JSON'a dönüştürün
-description:  NUMBERS biçimindeki bir dosyayı JSON biçimindeki bir dosyaya dönüştürmek için Android için Aspose.Cells Bulut SDK'sını kullanma.
+description: NUMBERS biçimindeki bir dosyayı JSON biçimindeki bir dosyaya dönüştürmek için Android için Aspose.Cells Bulut SDK'sını kullanma.
+kwords: Excel, Convert NUMBERS to JSON, REST, Android
+howto: How to convert NUMBERS to JSON using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'i JSON\'ye dönüştür" h2="NUMBERS\'ı JSON\'a dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak NUMBERS\'ı JSON\'a ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-json/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="NUMBERS\'i JSON\'ye dönüştür" h2="NUMBERS\'ı JSON\'a dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak NUMBERS\'ı JSON\'a ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android için Cells Cloud SDK\'yı kullanarak NUMBERS\'ı JSON\'a dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section title="Android için Cells Cloud SDK\'yı kullanarak NUMBERS\'ı JSON\'a dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Dosya formatlarını NUMBERS'tan JSON'a dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak NUMBERS e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm NUMBERS'dan JSON formatına dönüşümleri gerçekleştirir. Android kitaplığımız, NUMBERS'ı çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli JSON çıktısı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak NUMBERS\'ı JSON\'a dönüştürmek için Android Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Cells Cloud SDK\'yı kullanarak NUMBERS\'ı JSON\'a dönüştürmek için Android Kod Örneği" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -43,22 +44,15 @@ Dosya formatlarını NUMBERS'tan JSON'a dönüştürmek karmaşık bir iş olabi
         }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara NUMBERS\'den JSON\'a dönüştürmek için Android için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Android 7 veya daha yenisi</li>
 <li>Java(TM) SE Çalışma Zamanı Ortamı</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSX как TSV с помощью Android
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX как файла формата TSV.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX как файла формата TSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSX как TSV" h2="Библиотека Android для сохранения XLSX как TSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения XLSX в формате TSV и других форматов документов онлайн с помощью Android." urlsection="saveas/xlsx-to-tsv/" >}}
@@ -9,7 +9,7 @@ description: Использование Aspose.Cells Cloud SDK для Android д
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как TSV на Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в TSV — сложная задача. Все переходы формата XLSX в TSV выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Android — это профессиональное решение для сохранения файлов XLSX в формате TSV онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TSV.
+Сохранение форматов файлов из XLSX в TSV — сложная задача. Все переходы формата XLSX в TSV выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы XLSX. Наша библиотека Android — это профессиональное решение для сохранения файлов XLSX в формате TSV онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для сохранения XLSX как TSV с использованием REST API" gistPath="" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde XLSX como DIF usando C#
+title:  Guarde XLSX como DIF usando C#
 description:  Utilizando Aspose.Cells Cloud SDK para C# para guardar el archivo en formato XLSX como archivo en formato DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

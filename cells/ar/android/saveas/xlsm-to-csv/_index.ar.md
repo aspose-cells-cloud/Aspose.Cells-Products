@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSM كملف CSV باستخدام Android
+title:  احفظ XLSM كملف CSV باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSM كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

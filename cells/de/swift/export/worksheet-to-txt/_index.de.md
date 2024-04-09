@@ -13,7 +13,7 @@ url: /de/swift/export/worksheet-to-txt/
 Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine TXT-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das TXT-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im TXT-Format. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von WORKSHEET in das TXT-Format aus der Tabellenkalkulation" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von WORKSHEET in das TXT-Format aus einer Tabellenkalkulation" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

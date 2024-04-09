@@ -1,18 +1,19 @@
 ﻿---
-title: Exportera BILD till PNG från Excel med Cells Cloud SDK för Ruby
+title:  Exportera BILD till PNG från Excel med Cells Cloud SDK för Ruby
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportera BILD till PNG från Excel" h2="Ruby-bibliotek för att exportera BILD till PNG-fil" p="Använd Exportera API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Ruby. Detta är en professionell lösning för att exportera BILD till PNG filformat från kalkylblad online med Ruby." urlsection="export/picture-to-png/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exportera BILD till PNG från Excel" h2="Ruby-bibliotek för att exportera BILD till PNG-fil" p="Använd Exportera API av Cells Cloud för att exportera Excel filinterna objektarbetsflöden i Ruby. Detta är en professionell lösning för att exportera BILD till PNG filformat från kalkylblad online med Ruby." urlsection="export/picture-to-png/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera PICTURE-objekt till fil i PNG-format med Cells Cloud SDK för Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportera PICTURE-objekt till fil i PNG-format med Cells Cloud SDK för Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Exportera PICTURE-objekt till PNG-filen från Excel-filen är en komplex uppgift. Exportera PICTURE till PNG formatövergångar utförs av vår Ruby SDK samtidigt som källkoden PICTURE-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att exportera BILDobjekt till filer i PNG-format online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt PNG-utgång.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att exportera BILD till PNG-format från kalkylark" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Kodexempel i Ruby med REST API för att exportera BILD till PNG-format från kalkylark" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -31,21 +32,14 @@ Exportera PICTURE-objekt till PNG-filen från Excel-filen är en komplex uppgift
     end
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att exportera objekt från Excel BILD till PNG" >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Anrop post_export-metoden för att hämta den resulterande strömmen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>ruby 2.5 eller nyare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

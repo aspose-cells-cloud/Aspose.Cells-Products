@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde XLT como CSV usando Python
+title:  Guarde XLT como CSV usando Python
 description:  Utilizando Aspose.Cells Cloud SDK para Python para guardar el archivo en formato XLT como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

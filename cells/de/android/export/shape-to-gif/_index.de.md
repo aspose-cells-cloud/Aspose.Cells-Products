@@ -9,7 +9,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt mit dem Cloud SDK Cells für Android in eine GIF-Formatdatei" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines SHAPE-Objekts aus der Datei Excel in eine GIF-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von SHAPE in das GIF-Format wird von unserem Android SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der Quell-SHAPE-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in Dateien im GIF-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
+Das Exportieren eines SHAPE-Objekts aus der Datei Excel in eine GIF-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von SHAPE in das GIF-Format wird von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SHAPE-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in Dateien im GIF-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von SHAPE aus einer Tabellenkalkulation in das GIF-Format" gistPath="" %}}

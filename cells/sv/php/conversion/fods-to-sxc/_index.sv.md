@@ -1,51 +1,47 @@
 ﻿---
-title:  Konvertera FODS till SXC i molnet via PHP
-description: Skapa, redigera eller konvertera Excel-filer med REST API & Open Source PHP SDK
-url: /sv/php/conversion/fods-to-sxc/
-family: cells
-platformtag: php
-feature: conversion
-informat: FODS
-outformat: SXC
-platform: PHP
-otherformats: XLTX DIF XML PDF ODS MD XLSX TSV MHTML XLSB SVG TXT XLSM CSV XLTM TIFF 
+title:  Konvertera FODS till SXC med PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera en fil i FODS-format till en fil i SXC-format.
+kwords: Excel, Convert FODS to SXC, REST, PHP
+howto: How to convert FODS to SXC using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera FODS till SXC med PHP" h2="Automatisera Excel & OpenOffice-filkonvertering med open source Cloud SDK för PHP" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera FODS till SXC" h2="PHP bibliotek för att konvertera FODS till SXC" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera FODS till SXC och andra dokumentformat online med PHP." urlsection="conversion/fods-to-sxc/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Konvertera snabbt FODS till SXC via PHP" %}}
-1.  Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation
-1. Initiera ```CellsApi``` med klient-id, klienthemlighet, basadress och API-version
-1. Ladda upp FODS-fil till standardmolnlagring med metoden ```CellsApi.uploadFile```
-1. Ring ```CellsApi.cellsSaveAsPostDocumentSaveAs``` för att få den resulterande SXC-filen
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera FODS till SXC med Cells Cloud SDK för PHP" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Att konvertera filformat från FODS till SXC kan vara en komplex uppgift. Vår PHP SDK hanterar alla FODS- till SXC-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i FODS-källbladet bevaras. Vårt PHP-bibliotek tillhandahåller en professionell lösning för att konvertera FODS till SXC-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer SXC-utdata av hög kvalitet.
 
-{{% blocks/products/pf/agp/feature-section-col title="Kom igång med Excel API & PHP SDK" %}}
- Hämta Excel Cloud SDK för PHP källkod från[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) för att kompilera SDK själv eller gå till[Släpps](https://releases.aspose.cloud/) för alternativa nedladdningsalternativ.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Ta också en titt på Swagger-baserad[API Referens](https://apireference.aspose.cloud/cells/) att veta mer om[Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="PHP Kod för FODS till SXC-konvertering" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Kodexempel för att konvertera FODS till SXC med Cells Cloud SDK" gistPath="" %}}
+ 
 ```php
-
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php
-
-$name ='template.fods';    
-$saveOptions = null;
-$newfilename = "output.sxc";
-$isAutoFitRows= 'true';
-$isAutoFitColumns= 'true';
-$folder = "Temp";
-CellsApi::ready( $this->instance, $name, $folder );
-$result = $this->instance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename, $isAutoFitRows, $isAutoFitColumns, $folder);
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
+    <?php
+    require_once('vendor\autoload.php');
+    use \Aspose\Cells\Cloud\Api\CellsApi;
+    $instance = new CellsApi(getenv("ProductClientId"),getenv("ProductClientSecret"));
+    $path ='Book1.fods';    
+    $format ='sxc';
+    $password = null;
+    $outPath = null;      
+    $result = $this->instance->cellsWorkbookPutConvertWorkBook($path ,$format, $password,  $outPath);
+    $size = $result->getSize();
+    $content  = $result->fread($size);
+    $file = fopen("destfile.sxc", 'w');
+    fwrite($file,$content);
+    fclose($file);
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar FODS till SXC med hjälp av Cells Cloud PHP-biblioteket." >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Installera PHP-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i PHP.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
+<li>PHP 7.4 eller nyare</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

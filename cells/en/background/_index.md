@@ -8,10 +8,10 @@ description: Aspose.Cells Cloud REST API supports setting backgrounds for Excel 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl=https://api.aspose.cloud/v3.0/cells/watermark  %}}  
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST"  apiurl="https://api.aspose.cloud/v3.0/cells/watermark"  %}}  
 {{< /blocks/products/pf/agp/feature-section >}}    
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Background" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/LightCells/PostWatermark >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="Background" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostWatermark" >}}  
 
 	{{< blocks/products/cells/cells-cloud-upload>}}  
 	{{< blocks/products/cells/cells-cloud-parameters itName="color"  required="true" prompt="color">}}

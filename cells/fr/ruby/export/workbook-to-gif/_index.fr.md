@@ -1,18 +1,19 @@
 ﻿---
-title:  Exporter WORKBOOK au format GIF à partir de Excel à l'aide du SDK Cloud Cells pour Ruby
+title: Exporter WORKBOOK au format GIF à partir de Excel à l'aide du SDK Cloud Cells pour Ruby
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter un Cahier de Travail vers GIF à partir de Excel" h2="Bibliothèque Ruby pour exporter WORKBOOK vers un fichier GIF" p="Utilisez Export API de Cells Cloud pour exporter les workflows d\'objets internes du fichier Excel dans Ruby. Il s\'agit d\'une solution professionnelle pour exporter un WORKBOOK vers un fichier au format GIF à partir d\'une feuille de calcul en ligne à l\'aide de Ruby." urlsection="export/workbook-to-gif/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exporter un Cahier de Travail vers GIF à partir de Excel" h2="Bibliothèque Ruby pour exporter WORKBOOK vers un fichier GIF" p="Utilisez Export API de Cells Cloud pour exporter les workflows d\'objets internes du fichier Excel dans Ruby. Il s\'agit d\'une solution professionnelle pour exporter un WORKBOOK vers un fichier au format GIF à partir d\'une feuille de calcul en ligne à l\'aide de Ruby." urlsection="export/workbook-to-gif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKBOOK vers un fichier au format GIF à l\'aide du SDK Cloud Cells pour Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exporter l\'objet WORKBOOK vers un fichier au format GIF à l\'aide du SDK Cloud Cells pour Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Exporter un objet WORKBOOK vers un fichier GIF à partir du fichier Excel est une tâche complexe. L'exportation des transitions au format WORKBOOK au format GIF est effectuée par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul WORKBOOK source. Notre bibliothèque Ruby est une solution professionnelle pour exporter des objets WORKBOOK vers des fichiers au format GIF en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie GIF parfaite.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour exporter WORKBOOK au format GIF à partir d\'une feuille de calcul" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Exemple de code dans Ruby utilisant REST API pour exporter WORKBOOK au format GIF à partir d\'une feuille de calcul" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -31,21 +32,14 @@ Exporter un objet WORKBOOK vers un fichier GIF à partir du fichier Excel est un
     end
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Ruby pour exporter des objets de Excel WORKBOOK vers GIF" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
 <li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
 <li>Appelez la méthode post_export pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>rubis 2.5 ou plus récent</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

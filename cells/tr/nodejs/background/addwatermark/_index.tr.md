@@ -1,5 +1,5 @@
 ﻿---
-title:  Bulutta NodeJS ile yerel çalışma kitabına filigran ekleyin
+title: Bulutta NodeJS ile yerel çalışma kitabına filigran ekleyin
 description:  Microsoft Excel ve NodeJS ile OpenOffice Calc için filigran eklemeye yönelik Bulut API'leri ve SDK'lar. NodeJS için Cells Cloud API SDK ile yerel e-tablolara filigran ekleme.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -18,7 +18,7 @@ NodeJS ile yerel bir elektronik tabloya filigran eklemek karmaşık bir iştir. 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyasına filigran eklemek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postWatermark yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

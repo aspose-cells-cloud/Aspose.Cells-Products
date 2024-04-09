@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSM كملف CSV باستخدام Java
+title:  احفظ XLSM كملف CSV باستخدام Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSM كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

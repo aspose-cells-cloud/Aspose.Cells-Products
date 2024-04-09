@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertera JSON till DOCX med Ruby
 description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera en fil i JSON-format till en fil i DOCX-format.
+kwords: Excel, Convert JSON to DOCX, REST, Ruby
+howto: How to convert JSON to DOCX using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera JSON till DOCX" h2="Ruby-bibliotek för att konvertera JSON till DOCX" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby-projekt. Detta är en professionell lösning för att konvertera JSON till DOCX och andra dokumentformat online med Ruby." urlsection="conversion/json-to-docx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera JSON till DOCX" h2="Ruby-bibliotek för att konvertera JSON till DOCX" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby-projekt. Detta är en professionell lösning för att konvertera JSON till DOCX och andra dokumentformat online med Ruby." urlsection="conversion/json-to-docx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera JSON till DOCX med Cells Cloud SDK för Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera JSON till DOCX med Cells Cloud SDK för Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från JSON till DOCX kan vara en komplex uppgift. Vår Ruby SDK hanterar alla konverteringar av JSON till DOCX-format samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-JSON-kalkylarket bevaras. Vårt Ruby-bibliotek tillhandahåller en professionell lösning för att konvertera JSON till DOCX-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och säkerställer DOCX-utdata av hög kvalitet.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Exempel för att konvertera JSON till DOCX med Cells Cloud SDK" gistPath="" %}}
+Att konvertera filformat från JSON till DOCX kan vara en komplex uppgift. Vår Ruby SDK hanterar alla JSON- till DOCX-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-JSON-kalkylarket bevaras. Vårt Ruby-bibliotek tillhandahåller en professionell lösning för att konvertera JSON till DOCX-filer online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och säkerställer DOCX-utdata av hög kvalitet.
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Ruby Code Exempel för att konvertera JSON till DOCX med Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -26,21 +27,15 @@ Att konvertera filformat från JSON till DOCX kan vara en komplex uppgift. Vår 
     end
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Ruby för att konvertera Excel-filer till andra format JSON till DOCX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar JSON till DOCX med hjälp av Cells Cloud Ruby-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera Ruby-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i Ruby.</li>
 <li>Använd metoden `put_convert_workbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>ruby 2.5 eller nyare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

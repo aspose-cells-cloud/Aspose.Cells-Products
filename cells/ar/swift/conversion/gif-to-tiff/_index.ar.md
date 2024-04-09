@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى TIFF تحويل API إلى Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق TIFF.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق GIF إلى ملف بتنسيق TIFF.
 url: /ar/swift/conversion/gif-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

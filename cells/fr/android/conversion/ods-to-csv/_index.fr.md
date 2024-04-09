@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir ODS en CSV avec Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format ODS en fichier au format CSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format ODS en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir ODS en CSV" h2="Bibliothèque Android pour convertir ODS en CSV" p="Utilisez la conversion API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans des projets Android. Il s\'agit d\'une solution professionnelle pour convertir des ODS en CSV et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/ods-to-csv/" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde XLT como CSV usando PHP
+title:  Guarde XLT como CSV usando PHP
 description:  Utilizando Aspose.Cells Cloud SDK para PHP para guardar el archivo en formato XLT como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

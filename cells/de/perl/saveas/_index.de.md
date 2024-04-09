@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie die Datei Excel als andere Formate unter Verwendung von Perl
-description: Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-Dateien in verschiedenen Formaten mit Perl und bietet SDKs für mehrere Programmiersprachen.
+description:  Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-Dateien in verschiedenen Formaten mit Perl und bietet SDKs für mehrere Programmiersprachen.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie die Datei Excel als andere Formate unter Verwendung von Perl" h2="Aspose.Cells Cloud SDK unterstützt das Speichern von Arbeitsmappen in über 30 verschiedenen Dateiformaten." p="Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-Dateien in verschiedenen Formaten mit Perl und bietet SDKs für mehrere Programmiersprachen." urlsection="saveas/" >}}

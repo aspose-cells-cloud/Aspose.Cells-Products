@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل CSV إلى MD API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق MD.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق CSV إلى ملف بتنسيق MD.
 url: /ar/swift/conversion/csv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

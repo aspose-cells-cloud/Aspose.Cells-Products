@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните файл Excel в других форматах, используя C#.
-description: Aspose.Cells Cloud REST API поддерживает сохранение файлов Excel в различных форматах с использованием C# и предлагает SDK для нескольких языков программирования.
+description:  Aspose.Cells Cloud REST API поддерживает сохранение файлов Excel в различных форматах с использованием C# и предлагает SDK для нескольких языков программирования.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Сохраните файл Excel в других форматах, используя C#." h2="Aspose.Cells Cloud SDK поддерживает сохранение книг в более чем 30 различных форматах файлов." p="Aspose.Cells Cloud REST API поддерживает сохранение файлов Excel в различных форматах с использованием C# и предлагает SDK для нескольких языков программирования." urlsection="saveas/" >}}

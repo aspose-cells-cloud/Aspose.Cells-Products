@@ -1,5 +1,5 @@
 ﻿---
-title: TSV als CSV mit Python speichern
+title:  TSV als CSV mit Python speichern
 description:  Verwendung von Aspose.Cells Cloud SDK für Python zum Speichern von TSV-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

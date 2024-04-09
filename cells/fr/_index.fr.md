@@ -1,7 +1,7 @@
 ﻿---
-title:  Solutions de traitement de feuilles de calcul (API REST Desktop et Cloud)
-description:  API sur site et cloud pour améliorer de manière transparente vos applications natives, Web et cloud afin de fournir une fonctionnalité de traitement de feuilles de calcul
-weight: 30
+title: Cloud Aspose.Cells léger et API sur site pour le traitement des tables Excel
+description: Aspose.Cells Cloud propose une gamme de SDK dans divers langages de programmation, simplifie l'accès à Aspose.Cells REST API et améliore les performances grâce à sa conception légère.
+weight: 50
 url: /fr/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -13,7 +13,7 @@ url: /ar/swift/saveas/xlsx-to-svg/
 يعد حفظ تنسيقات الملفات من XLSX كـ SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى SVG بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSX كملفات SVG عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج SVG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق SVG" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

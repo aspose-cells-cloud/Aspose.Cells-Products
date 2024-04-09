@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLSB als CSV mit C#
+title:  Speichern Sie XLSB als CSV mit C#
 description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der XLSB-Formatdatei als CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

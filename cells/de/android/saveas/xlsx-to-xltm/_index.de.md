@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSX als XLTM mit Android
-description: Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von XLSX-Formatdateien als XLTM-Formatdateien.
+description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von XLSX-Formatdateien als XLTM-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLSX als XLTM" h2="Android-Bibliothek zum Speichern von XLSX als XLTM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSX als XLTM und anderen Dokumentformaten mit Android." urlsection="saveas/xlsx-to-xltm/" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  Spara SXC som FODS med Java
-description: Använder Aspose.Cells Cloud SDK for Java för att spara SXC-formatfil som FODS-formatfil.
+description:  Använder Aspose.Cells Cloud SDK for Java för att spara SXC-formatfil som FODS-formatfil.
+kwords: Excel, Save SXC as FODS, REST, Java
+howto: How to save SXC as FODS using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara SXC som FODS" h2="Java bibliotek för att spara SXC som FODS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara SXC som FODS och andra dokumentformat online med Java." urlsection="saveas/sxc-to-fods/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara SXC som FODS" h2="Java bibliotek för att spara SXC som FODS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara SXC som FODS och andra dokumentformat online med Java." urlsection="saveas/sxc-to-fods/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en SXC-fil som FODS i Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="Spara en SXC-fil som FODS i Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Att spara filformat från SXC som FODS är en komplex uppgift. Alla SXC- till FODS-formatövergångar utförs av vår Java SDK samtidigt som käll-SXC-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara SXC som FODS-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt FODS-utgång.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att spara SXC som FODS med REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Kod Exempel för att spara SXC som FODS med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -31,22 +32,16 @@ Att spara filformat från SXC som FODS är en komplex uppgift. Alla SXC- till FO
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK for Java för att spara Excel filer som andra format SXC som FODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du sparar SXC som FODS med hjälp av Cells Cloud Java-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera Java-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i Java.</li>
 <li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>Maven 2.2.0 eller nyare</li>
 <li>Java(TM) SE Runtime Environment</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

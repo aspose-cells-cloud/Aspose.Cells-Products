@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için PNG'i XLT API olarak kaydet
-description: PNG formatındaki dosyayı XLT formatındaki dosya olarak kaydetmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
+description:  PNG formatındaki dosyayı XLT formatındaki dosya olarak kaydetmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/saveas/png-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -55,7 +55,7 @@ PNG numaralı dosya formatlarını XLT olarak kaydetmek karmaşık bir iştir. P
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="PNG\'i XLT olarak kaydetmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

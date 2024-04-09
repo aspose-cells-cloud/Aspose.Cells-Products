@@ -9,7 +9,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie ein CHART-Objekt in eine Datei im JPG-Format mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines CHART-Objekts aus der Datei Excel in eine JPG-Datei ist eine komplexe Aufgabe. Der Export von Übergängen im CHART-Format in das JPG-Format wird von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von CHART-Objekten in Dateien im JPG-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte JPG-Ausgabe.
+Das Exportieren eines CHART-Objekts aus der Datei Excel in eine JPG-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von CHART in das JPG-Format wird von unserem Android SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der CHART-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von CHART-Objekten in Dateien im JPG-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte JPG-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von CHART aus einer Tabellenkalkulation in das JPG-Format" gistPath="" %}}

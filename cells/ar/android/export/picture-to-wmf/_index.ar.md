@@ -12,7 +12,7 @@ description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات ب�
 يعد تصدير كائن PICTURE إلى ملف WMF من ملف Excel مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير PICTURE إلى WMF بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات WMF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على الكود في Android باستخدام REST API لتصدير PICTURE إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Android باستخدام REST API لتصدير PICTURE إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

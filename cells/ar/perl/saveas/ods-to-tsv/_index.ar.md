@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ ODS كـ TSV باستخدام Perl
 description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق ODS كملف بتنسيق TSV.
+kwords: Excel, Save ODS as TSV, REST, Perl
+howto: How to save ODS as TSV using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ المواد المستنفدة للأوزون كـ TSV" h2="Perl مكتبة لحفظ المواد المستنفدة للأوزون بصيغة TSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/ods-to-tsv/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="حفظ المواد المستنفدة للأوزون كـ TSV" h2="Perl مكتبة لحفظ المواد المستنفدة للأوزون بصيغة TSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/ods-to-tsv/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS باسم TSV في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف ODS باسم TSV في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من ODS بتنسيق TSV مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق ODS إلى TSV بواسطة Perl SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبتنا Perl حلاً احترافيًا لحفظ المواد المستنفدة للأوزون كملفات TSV عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Perl وظائف قوية ومخرجات TSV مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لحفظ المواد المستنفدة للأوزون كـ TSV باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl مثال على الكود لحفظ المواد المستنفدة للأوزون كـ TSV باستخدام REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -25,21 +26,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف ب
     $result = $instance->cells_save_as_post_document_save_as(name => $name,save_options => $save_options, newfilename => $newfilename, folder => $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لحفظ ملفات Excel بتنسيقات ODS أخرى مثل TSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ المواد المستنفدة للأوزون كـ TSV باستخدام مكتبة Cells Cloud Perl." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة Perl وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في Perl.</li>
 <li>اتصل بالبريد_دفتر العمل_طريقة save_as للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

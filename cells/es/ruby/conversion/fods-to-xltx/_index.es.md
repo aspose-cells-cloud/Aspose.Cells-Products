@@ -1,66 +1,41 @@
 ﻿---
-title:  Convertir de Excel FODS a XLTX via Rubí
-description: Cree, edite o convierta archivos Excel con REST API y Ruby SDK de código abierto
-url: /es/ruby/conversion/fods-to-xltx/
-family: cells
-platformtag: ruby
-feature: conversion
-informat: FODS
-outformat: XLTX
-platform: Ruby
-otherformats: DIF XPS MHTML CSV SVG XLS XLSX XLT TIFF PDF XLSM TXT MD FODS XLTX XML 
+title:  Convierta FODS a XLTX usando Ruby
+description:  Utilizar el SDK de Cloud Aspose.Cells para Ruby para convertir un archivo de formato FODS a un archivo de formato XLTX.
+kwords: Excel, Convert FODS to XLTX, REST, Ruby
+howto: How to convert FODS to XLTX using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir FODS a XLTX con Ruby" h2="Lea, edite y exporte datos Excel a otros formatos con Cloud SDK de código abierto para Ruby" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS a XLTX" h2="Biblioteca Ruby para convertir FODS a XLTX" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Ruby. Esta es una solución profesional para convertir FODS a XLTX y otros formatos de documentos en línea usando Ruby." urlsection="conversion/fods-to-xltx/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversión de FODS a XLTX con Ruby" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
-1. Cargue el archivo FODS al Cloud Storage predeterminado con el método ```CellsApi.upload_file```
-1. Llame al método ```CellsApi.cells_save_as_post_document_save_as``` para obtener el archivo XLTX resultante
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta FODS a XLTX usando Cells Cloud SDK para Ruby" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Convertir formatos de archivo de FODS a XLTX puede ser una tarea compleja. Nuestro Ruby SDK maneja todas las conversiones de formato FODS a XLTX mientras preserva el contenido estructural y lógico principal de la hoja de cálculo FODS de origen. Nuestra biblioteca Ruby proporciona una solución profesional para convertir archivos FODS a XLTX en línea. Este Cloud SDK brinda a los desarrolladores de Ruby una potente funcionalidad y garantiza una salida XLTX de alta calidad.
 
-{{% blocks/products/pf/agp/feature-section-col title="Comience con Excel API y Ruby SDK" %}}
-Obtenga Excel Cloud SDK para el código fuente de Ruby de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- También eche un vistazo a Basado en Swagger[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Código Ruby para conversión de FODS a XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Ejemplo de código Ruby para convertir FODS a XLTX usando Cells Cloud SDK" gistPath="" %}}
+ 
 ```ruby
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
-
-require 'aspose_cells_cloud'
-
-class Workbook
-  include AsposeCellsCloud
-  def initialize
-    @instance =  AsposeCellsCloud::CellsApi.new($client_id, $client_secret, $api_version, $baseurl) 
-  end
-  
-  # Convert document and save result to storage
-  def post_document_save_as
-    name = $BOOK1
-    save_options = nil
-    newfilename = 'output.xltx'
-    is_auto_fit_rows = true
-    is_auto_fit_columns = true
-    folder = $TEMPFOLDER
-    result = @instance.upload_file( folder + "/" + name, ::File.open(File.expand_path("data/" + name), "r") {|io| io.read(io.size) })
-    expect(result.uploaded.size).to  be > 0
-    result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder + "/" + newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
-  end
-end
-
-workbook = Workbook.new()
-puts workbook.post_document_save_as
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
+    describe 'cells_save_as_post_document_save_as test' do
+        it "should work" do
+            @instance = AsposeCellsCloud::CellsApi.new($client_id,$client_secret,"v3.0","https://api.aspose.cloud/")
+            name = "BOOK1.fods"
+            format = 'xltx'
+            @instance.cells_workbook_put_convert_workbook( ::File.open(File.expand_path("data/"+name),"r")  {|io| io.read(io.size) },{:format=>format})     
+        end
+    end
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir FODS a XLTX usando la biblioteca Cells Cloud Ruby." >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Instale la biblioteca Ruby y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en Ruby.</li>
+<li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
+<li>rubí 2.5 o más reciente</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

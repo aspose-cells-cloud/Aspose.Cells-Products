@@ -1,6 +1,6 @@
 ﻿---
-title: PNG in ODS Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine ODS-Formatdatei.
+title:  PNG in ODS Konvertieren Sie API für Swift
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine ODS-Formatdatei.
 url: /de/swift/conversion/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

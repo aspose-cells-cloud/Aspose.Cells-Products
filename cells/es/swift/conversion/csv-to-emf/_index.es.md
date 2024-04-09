@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV a EMF Convertir API para Swift
-description: Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato CSV a un archivo de formato EMF.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato CSV a un archivo de formato EMF.
 url: /es/swift/conversion/csv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

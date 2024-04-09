@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ TSV كملف CSV باستخدام Python
+title:  احفظ TSV كملف CSV باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق TSV كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

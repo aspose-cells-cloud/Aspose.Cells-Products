@@ -1,5 +1,5 @@
 ﻿---
-title: Enregistrer XLT au format CSV avec Android
+title:  Enregistrer XLT au format CSV avec Android
 description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLT au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

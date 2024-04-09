@@ -9,7 +9,7 @@ description:  Использование Cloud SDK Aspose.Cells для C# для
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте HTML в CSV с помощью Cloud SDK Cells для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в CSV может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования формата HTML в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертирования HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод в формате CSV.
+Преобразование форматов файлов из HTML в CSV может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования формата HTML в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертации HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для преобразования HTML в CSV с помощью Cells Cloud SDK" gistPath="" %}}

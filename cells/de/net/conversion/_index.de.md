@@ -1,117 +1,107 @@
 ﻿---
-title: Konvertieren von Excel-Dateiformaten mit C#
-description:  Aspose.Cells Cloud REST API unterstützt die Dateiformatkonvertierung Excel mit C# und bietet SDKs für mehrere Programmiersprachen.
+title: Konvertieren Sie Excel-Dateien in andere Formate.
+description: Aspose.Cells Cloud bietet robuste Unterstützung für die Excel-Dateiformatkonvertierung, ein Prozess, der für seine Komplexität bekannt ist. Aspose.Cells Cloud unterstützt über 30 Dateiformate, darunter Excel, PDF, Markdown, Json, XML, Csv, Html und so weiter.
 ---
+{{< blocks/products/cells/cells-cloud-ai-mask >}}
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren von Excel-Dateiformaten mit C#" h2="Aspose.Cells Cloud SDK unterstützt die Konvertierung zwischen über 30 Dateiformaten." p="Aspose.Cells Cloud REST API unterstützt die Dateiformatkonvertierung Excel mit C# und bietet SDKs für mehrere Programmiersprachen." urlsection="conversion/" >}}
+
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie Excel-Dateien in andere Formate." h2="Aspose.Cells Cloud bietet robuste Unterstützung für die Excel-Dateiformatkonvertierung, ein Prozess, der für seine Komplexität bekannt ist. Aspose.Cells Cloud unterstützt über 30 Dateiformate, darunter Excel, PDF, Markdown, Json, XML, Csv, Html und so weiter." p="Aspose.Cells Cloud bietet REST API, das die Konvertierung von Excel-Dateien in verschiedene Formate unterstützt und SDKs für mehrere Programmiersprachen bietet. Zu diesen Programmiersprachen gehören Net, Java, Go, NodeJS, Python usw. ." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT" apiurl="https://api.aspose.cloud/v3.0/cells/convert" %}}
-   
-{{< /blocks/products/pf/agp/feature-section >}}  
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Convert" OutResultType="File" OutResultDataType="Stream" ResultPosition="stream" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" >}}  
-{{< blocks/products/cells/cells-cloud-upload >}}                 
-{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)." >}}
-{{< blocks/products/cells/cells-cloud-parameters itName="streamFormat" required="true" prompt="The format of the input file stream." >}}
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Stream" ResponseType="Stream" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" >}}
+{{< blocks/products/cells/cells-cloud-upload >}}
 
-{{% blocks/products/cells/cells-cloud-showcode %}}  
- 
-                     
+{{< blocks/products/cells/cells-cloud-parameters itName="format" required="False" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="password" required="False" prompt="The password needed to open an Excel file." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="outPath" required="False" prompt="Path to save the result. If it\'s a single file, the `outPath` should encompass both the filename and extension. In the case of multiple files, the `outPath` should only include the folder." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="storageName" required="False" prompt="The storage name where the file is situated." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction" required="False" prompt="Whether check restriction of excel file when user modify cells related objects." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="streamFormat" required="False" prompt="The format of the input file stream. " >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="region" required="False" prompt="The regional settings for workbook." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="pageWideFitOnPerSheet" required="False" prompt="The page wide fit on worksheet." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="pageTallFitOnPerSheet" required="False" prompt="The page tall fit on worksheet." >}}
+{{< blocks/products/cells/cells-cloud-showparameters >}}
+{{% blocks/products/cells/cells-cloud-showcode request="format,password,outPath,storageName,checkExcelRestriction,streamFormat,region,pageWideFitOnPerSheet,pageTallFitOnPerSheet" requestvalue="pdf,,,,true,,,true,true" %}}
+
 ```cs
-
 	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Model;
 	using Aspose.Cells.Cloud.SDK.Request;
+	using Newtonsoft.Json;
 	using System;
 	using System.IO;
 	using System.Collections.Generic;
 	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-	string filePath = "test.txt";
-	PutConvertWorkbookRequest request = new PutConvertWorkbookRequest();
+	var request = new PutConvertWorkbookRequest();
 	request.File = new Dictionary<string, Stream>();
+	string filePath = "Book1.xlsx";
 	Stream fileStream = File.OpenRead(filePath);
 	request.File.Add(filePath, fileStream);
-	request.format = "xps";
-	request.streamFormat = "html";
-	Stream stream = cellsApi.PutConvertWorkbook(request);
-	fileStream.Close();    
-	      
-``` 
-{{% /blocks/products/cells/cells-cloud-showcode %}}    
- {{< /blocks/products/cells/cells-cloud-api-template >}}  
+	request.format = "pdf";
+	request.password = "";
+	request.outPath = "";
+	request.storageName = "";
+	request.checkExcelRestriction = true;
+	request.streamFormat = "";
+	request.region = "";
+	request.pageWideFitOnPerSheet = true;
+	request.pageTallFitOnPerSheet = true;
+	var result = cellsApi.PutConvertWorkbook(request);
+	fileStream.Close();
 
 
 
 
-{{< blocks/products/cells/cells-cloud-language-card title="Unterstützte Dateiformate" >}}
-    {{< blocks/products/cells/cells-cloud-language-cardlist title="Eingabeformat" >}}
-        <li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>OpenOffice:</b> Odds, Fods, Ots</li>
-	<li><b>XML:</b>TabellenkalkulationML, XML</li>
-	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>Netz:</b> HTML, Mhtml</li>
-	<li><b>Bilder:</b> Png, Jpg, Gif, EMF</li>
-	<li><b>Andere:</b> PDF, Json, Markdown</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
-
-    
-
-     {{< blocks/products/cells/cells-cloud-language-cardlist title="Ausgabeformat" >}}
-        <li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Wort/PowerPoint:</b> Docx, Pptx</li>
-	<li><b>OpenOffice:</b> Odds, Fods, Ots</li>
-	<li><b>XML:</b>TabellenkalkulationML, XML</li>
-	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>Netz:</b> HTML, Mhtml</li>
-	<li><b>Bilder:</b> Png, Jpg, Gif, EMF, Svg, Tiff</li>
-	<li><b>Andere:</b> PDF, XPS, Dif, Json, Markdown, SQL</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}    
-
-
-     
-
-{{< /blocks/products/cells/cells-cloud-language-card >}}
 
 
 
 
-	{{< blocks/products/cells/product-card-row title="Beliebte Operationen" >}}
-    
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Konvertierung von Xlsx in PDF" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Konvertierung von Xlsx in Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-json/" >}}
+```
+{{% /blocks/products/cells/cells-cloud-showcode %}}
+{{< /blocks/products/cells/cells-cloud-api-template >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Konvertierung von Xlsx in Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-csv/" >}}
+{{< blocks/products/pf/product-card-row title="Unterstützte Dateiformate" >}}
+<div class="diagram1 d2  d1-cloud">
+<div class="d1-row">
+<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Eingabeformat</header><ul>
+<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+<li><b>OpenOffice:</b> Odds, Fods, Ots</li>
+<li><b>XML:</b>TabellenkalkulationML, XML</li>
+<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
+<li><b>Netz:</b> HTML, Mhtml</li>
+<li><b>Bilder:</b> Png, Jpg, Gif, EMF</li>
+<li><b>Andere:</b> PDF, Json, Markdown</li>
+</ul></div>
+<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Ausgabeformat</header><ul>
+<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+<li><b>Microsoft Wort/PowerPoint:</b> Docx, Pptx</li>
+<li><b>OpenOffice:</b> Odds, Fods, Ots</li>
+<li><b>XML:</b>TabellenkalkulationML, XML</li>
+<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
+<li><b>Netz:</b> HTML, Mhtml</li>
+<li><b>Bilder:</b> Png, Jpg, Gif, EMF, Svg, Tiff</li>
+<li><b>Andere:</b> PDF, XPS, Dif, Json, Markdown, SQL</li>
+</ul></div>
+</div>
+<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
+</div>
+{{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="Konvertierung von Xlsx in PDF" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-pdf/" >}}
-
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="Konvertierung von Xlsx in Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-json/" >}}
-
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="Konvertierung von Xlsx in Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-csv/" >}}
-{{< /blocks/products/cells/product-card-row >}}
-
-{{< blocks/products/cells/product-card-row title="Unterstützte Entwicklungssprachen" >}}
-{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Android" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
-
+{{< blocks/products/cells/cells-language-cloud-card-row title="Unterstützte Entwicklungssprachen" >}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Go" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Java" imgSrc="/cells/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Net" imgSrc="/cells/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Node" imgSrc="/cells/sdk/aspose_cells-for-node.png" productLink="/cells/node/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Perl" imgSrc="/cells/sdk/aspose_cells-for-perl.png" productLink="/cells/perl/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für PHP" imgSrc="/cells/sdk/aspose_cells-for-php.png" productLink="/cells/php/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Python" imgSrc="/cells/sdk/aspose_cells-for-python.png" productLink="/cells/python/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Ruby" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK für Swift" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
-{{< /blocks/products/cells/product-card-row >}}
+{{< /blocks/products/cells/cells-language-cloud-card-row >}}
 
 
 {{< /blocks/products/pf/main-container >}}

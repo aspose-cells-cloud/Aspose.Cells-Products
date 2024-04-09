@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde XML como CSV usando C#
+title:  Guarde XML como CSV usando C#
 description:  Utilizando Aspose.Cells Cloud SDK para C# para guardar el archivo en formato XML como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

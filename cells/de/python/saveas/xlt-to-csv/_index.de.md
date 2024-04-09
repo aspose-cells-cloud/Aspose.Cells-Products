@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLT als CSV mit Python
+title:  Speichern Sie XLT als CSV mit Python
 description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern von XLT-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

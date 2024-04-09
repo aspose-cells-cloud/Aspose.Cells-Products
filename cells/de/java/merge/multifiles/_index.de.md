@@ -3,7 +3,7 @@ title:  Führen Sie mehrere Excel-Dateien mit Java zu einer einzigen Datei zusam
 description:  Cloud-APIs und SDKs zum Zusammenführen mehrerer Excel-Dateien mit Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK for Java zum Zusammenführen mehrerer Excel Dateien in einer einzigen Datei." h2="Java-Bibliothek zum Zusammenführen mehrerer Excel-Dateien in einer einzigen Datei." p="Nutzen Sie Cells Cloud SDK, um mehrere Excel-Dateien in einer einzigen Datei in Java zusammenzuführen. Mit dieser professionellen Lösung können Sie mehrere Excel-Dateien in einer Microsoft Excel- oder OpenOffice Calc-Tabelle mit Java kombinieren." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK for Java zum Zusammenführen mehrerer Excel Dateien in einer einzigen Datei." h2="Java-Bibliothek zum Zusammenführen mehrerer Excel-Dateien in einer einzigen Datei." p="Verwenden Sie das Cloud SDK Cells, um mehrere Excel-Dateien in einer einzigen Datei in Java zusammenzuführen. Mit dieser professionellen Lösung können Sie mehrere Excel-Dateien in einer Microsoft Excel- oder OpenOffice Calc-Tabelle mit Java kombinieren." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Führen Sie mehrere Excel-Dateien mit dem Cells Cloud SDK for Java zu einer einzigen Datei zusammen." >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertieren Sie NUMBERS mit Java in HTML
 description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im HTML-Format.
+kwords: Excel, Convert NUMBERS to HTML, REST, Java
+howto: How to convert NUMBERS to HTML using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie NUMBERS in HTML" h2="Java-Bibliothek zum Konvertieren von NUMBERS in HTML" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von NUMBERS in HTML und andere Dokumentformate unter Verwendung von Java." urlsection="conversion/numbers-to-html/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie NUMBERS in HTML" h2="Java-Bibliothek zum Konvertieren von NUMBERS in HTML" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von NUMBERS in HTML und andere Dokumentformate unter Verwendung von Java." urlsection="conversion/numbers-to-html/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie NUMBERS mit Cells Cloud SDK for Java in HTML" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie NUMBERS mit Cells Cloud SDK for Java in HTML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von NUMBERS in HTML kann eine komplexe Aufgabe sein. Unser Java SDK verarbeitet alle NUMBERS-Formatkonvertierungen in das HTML-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-NUMBERS-Tabelle bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von NUMBERS-Dateien in HTML-Dateien. Dieses Cloud SDK bietet Java-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige HTML-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel für die Konvertierung von NUMBERS in HTML mithilfe des Cloud SDK Cells" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Codebeispiel für die Konvertierung von NUMBERS in HTML mithilfe des Cloud SDK Cells" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -43,22 +44,16 @@ Das Konvertieren von Dateiformaten von NUMBERS in HTML kann eine komplexe Aufgab
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Konvertieren von Excel-Dateien in andere Formate. NUMBERS zu HTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie NUMBERS mit der Cells Cloud Java-Bibliothek in HTML konvertieren." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Installieren Sie die Bibliothek Java und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in Java.</li>
 <li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
 <li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

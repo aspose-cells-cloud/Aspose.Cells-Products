@@ -3,7 +3,7 @@ title:  قم بإزالة الصفوف المكررة من المصنف المح
 description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الصفوف المكررة في Microsoft Excel وOpenOffice Calc باستخدام Perl. امسح الصفوف المكررة في جداول البيانات المحلية باستخدام Cells Cloud SDK لـ Perl.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الصفوف المكررة في جداول بيانات Microsoft Excel المحلية وOpenOffice Calc." h2="مكتبة Perl لإزالة الصفوف المكررة من Microsoft المحلية وExcel وجداول بيانات OpenOffice Calc." p="استخدم Cells Clear REST API لإزالة الصفوف المكررة من Microsoft المحلية وجداول بيانات OpenOffice Calc ضمن سير عمل Perl. يقوم هذا الحل الاحترافي بمسح الصفوف المكررة بكفاءة من Microsoft Excel وجداول بيانات OpenOffice Calc المحلية باستخدام Perl." urlsection="clear/Duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الصفوف المكررة في جداول بيانات Microsoft Excel المحلية وOpenOffice Calc." h2="مكتبة Perl لإزالة الصفوف المكررة من Microsoft Excel وجداول بيانات OpenOffice Calc المحلية." p="استخدم Cells Clear REST API لإزالة الصفوف المكررة من Microsoft المحلية وجداول بيانات OpenOffice Calc ضمن سير عمل Perl. يقوم هذا الحل الاحترافي بمسح الصفوف المكررة بكفاءة من Microsoft Excel وجداول بيانات OpenOffice Calc المحلية باستخدام Perl." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الصفوف المكررة في Microsoft Excel وجداول بيانات OpenOffice Calc المحلية باستخدام Cells Cloud SDK لـ Perl." >}}

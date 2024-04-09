@@ -1,6 +1,6 @@
 ﻿---
 title:  Unisci i file Excel usando Ruby
-description: Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un singolo file Excel utilizzando Ruby e offre SDK per vari linguaggi di programmazione.
+description:  Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un singolo file Excel utilizzando Ruby e offre SDK per vari linguaggi di programmazione.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Unisci i file Excel usando Ruby" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un unico file Excel." p="Aspose.Cells Cloud REST API supporta l\'unione di più file Excel in un singolo file Excel utilizzando Ruby e offre SDK per vari linguaggi di programmazione." urlsection="merge/" >}}

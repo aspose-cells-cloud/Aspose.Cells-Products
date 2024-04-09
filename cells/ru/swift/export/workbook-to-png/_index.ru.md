@@ -10,7 +10,7 @@ url: /ru/swift/export/workbook-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата PNG в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл PNG из электронной таблицы — сложная задача. Экспорт WORKBOOK в формат переходов PNG выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для экспорта объектов WORKBOOK в файлы формата PNG онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PNG.
+Экспорт объекта WORKBOOK в файл PNG из электронной таблицы — сложная задача. Экспорт WORKBOOK в формат переходов PNG выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для экспорта объектов WORKBOOK в файлы формата PNG онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта WORKBOOK в формат PNG из электронной таблицы" gistPath="" %}}

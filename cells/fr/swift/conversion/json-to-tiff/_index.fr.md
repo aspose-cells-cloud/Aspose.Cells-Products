@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON en TIFF Convertir API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format JSON en fichier au format TIFF.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format JSON en fichier au format TIFF.
 url: /fr/swift/conversion/json-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

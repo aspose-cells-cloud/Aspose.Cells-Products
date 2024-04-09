@@ -1,18 +1,19 @@
 ﻿---
 title:  Конвертируйте ЧИСЛА в PPTX с помощью Android
-description: Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата NUMBERS в файл формата PPTX.
+description:  Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата NUMBERS в файл формата PPTX.
+kwords: Excel, Convert NUMBERS to PPTX, REST, Android
+howto: How to convert NUMBERS to PPTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать ЧИСЛА в PPTX" h2="Библиотека Android для преобразования ЧИСЕЛ в PPTX" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертации ЧИСЕЛ в PPTX и другие форматы документов с помощью Android." urlsection="conversion/numbers-to-pptx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать ЧИСЛА в PPTX" h2="Библиотека Android для преобразования ЧИСЕЛ в PPTX" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертации ЧИСЕЛ в PPTX и другие форматы документов с помощью Android." urlsection="conversion/numbers-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте ЧИСЛА в PPTX с помощью Cells Cloud SDK для Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Преобразуйте ЧИСЛА в PPTX с помощью Cells Cloud SDK для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из NUMBERS в PPTX может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата NUMBERS в формат PPTX, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования ЧИСЕЛ в файлы PPTX. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод PPTX.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования ЧИСЕЛ в PPTX с использованием Cloud SDK Cells" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Пример кода Android для преобразования ЧИСЕЛ в PPTX с использованием Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -43,22 +44,15 @@ description: Использование Cloud SDK Aspose.Cells для Android д
         }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для преобразования файлов Excel в другие форматы NUMBERS в PPTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для преобразования файлов Excel в другие форматы" >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
 <li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>Android 7 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  Speichern Sie GIF unter PNG mit Perl
 description:  Verwendung des Aspose.Cells Cloud SDK für Perl zum Speichern der GIF-Formatdatei als PNG-Formatdatei.
+kwords: Excel, Save GIF as PNG, REST, Perl
+howto: How to save GIF as PNG using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF unter PNG speichern" h2="Perl-Bibliothek zum Speichern von GIF unter PNG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um GIF als PNG und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/gif-to-png/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="GIF unter PNG speichern" h2="Perl-Bibliothek zum Speichern von GIF unter PNG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um GIF als PNG und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/gif-to-png/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei unter PNG in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine GIF-Datei unter PNG in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Das Speichern von GIF-Dateiformaten als PNG ist eine komplexe Aufgabe. Alle GIF-Formatübergänge in das PNG-Format werden von unserem Perl-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um GIF als PNG-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel zum Speichern von GIF als PNG mit REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Codebeispiel zum Speichern von GIF als PNG mit REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -25,21 +26,15 @@ Das Speichern von GIF-Dateiformaten als PNG ist eine komplexe Aufgabe. Alle GIF-
     $result = $instance->cells_save_as_post_document_save_as(name => $name,save_options => $save_options, newfilename => $newfilename, folder => $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Perl, um Excel-Dateien in anderen GIF-Formaten als PNG zu speichern" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie GIF mit der Cells Cloud Perl-Bibliothek als PNG speichern." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Installieren Sie die Bibliothek Perl und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in Perl.</li>
 <li>Beitrag anrufen_Arbeitsmappe_save_as-Methode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

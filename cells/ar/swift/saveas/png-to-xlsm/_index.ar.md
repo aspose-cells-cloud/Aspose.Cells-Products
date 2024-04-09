@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ XLSM API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق PNG كملف تنسيق XLSM.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق PNG كملف تنسيق XLSM.
 url: /ar/swift/saveas/png-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

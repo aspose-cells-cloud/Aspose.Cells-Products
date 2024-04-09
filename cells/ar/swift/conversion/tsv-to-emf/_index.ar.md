@@ -10,7 +10,7 @@ url: /ar/swift/conversion/tsv-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى EMF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TSV إلى EMF مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من TSV إلى EMF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى ملفات EMF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج EMF مثاليًا.
+يعد تحويل تنسيقات الملفات من TSV إلى EMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى EMF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى ملفات EMF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج EMF مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لتحويل TSV إلى تنسيق EMF" gistPath="" %}}

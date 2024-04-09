@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLTX als CSV mit Python
+title:  Speichern Sie XLTX als CSV mit Python
 description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern von XLTX-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

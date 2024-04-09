@@ -1,5 +1,5 @@
 ﻿---
-title: Salva XLSX come FODS utilizzando C#
+title:  Salva XLSX come FODS utilizzando C#
 description:  Utilizzando Aspose.Cells Cloud SDK per C# per salvare il file in formato XLSX come file in formato FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

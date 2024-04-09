@@ -1,9 +1,9 @@
 ﻿---
-title:  Добавьте водяной знак для локальной книги с номером C# в облаке.
+title: Добавьте водяной знак для локальной книги с номером C# в облаке.
 description:  Облачные API и SDK для добавления водяных знаков для Microsoft Excel и OpenOffice Calc с C#. Добавление водяных знаков для локальных таблиц с помощью облачного SDK Cells API для C#.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы добавить водяной знак для локального Microsoft Excel и электронной таблицы OpenOffice Calc." h2="Библиотека C# для добавления водяных знаков для локальных Microsoft Excel и электронных таблиц OpenOffice Calc." p="Используйте Cells Watermark REST API, чтобы добавить водяной знак для локального Microsoft Excel и OpenOffice Calc Spreadship Workflows в C#. Это профессиональное решение добавить ватермарку для Microsoft Excel и Open Open Open Openfoff Calcfile Callshile Calcleef с использованием онлайн -07617481." urlsection="background/Add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы добавить водяной знак для локального Microsoft Excel и электронной таблицы OpenOffice Calc." h2="Библиотека C# для добавления водяных знаков для локальных Microsoft Excel и электронных таблиц OpenOffice Calc." p="Используйте водяной знак Cells REST API, чтобы добавить водяной знак для локальных рабочих процессов электронных таблиц Microsoft Excel и OpenOffice Calc в C#. Это профессиональное решение добавляет водяной знак для Microsoft Excel и электронных таблиц OpenOffice Calc онлайн с помощью C#." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Добавьте водяной знак для локальной таблицы Microsoft Excel и таблицы OpenOffice Calc — C# REST API." >}}

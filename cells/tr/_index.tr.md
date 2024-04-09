@@ -1,7 +1,7 @@
 ﻿---
-title:  Elektronik Tablo İşleme Çözümleri (Masaüstü ve Bulut REST API'leri)
-description:  Elektronik tablo işleme işlevselliği sağlamak amacıyla yerel, web ve bulut uygulamalarınızı sorunsuz bir şekilde geliştirmek için şirket içi ve Bulut API'leri
-weight: 30
+title: Excel tablo işleme için hafif Aspose.Cells bulut ve şirket içi API
+description: Aspose.Cells Cloud, çeşitli programlama dillerinde bir dizi SDK sunar, Aspose.Cells REST API'e erişimi kolaylaştırır ve hafif tasarımı sayesinde performansı artırır.
+weight: 50
 url: /tr/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

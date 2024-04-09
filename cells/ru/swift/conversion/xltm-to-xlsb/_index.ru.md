@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для Swift дл
 url: /ru/swift/conversion/xltm-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLTM в XLSB" h2="Библиотека Swift для преобразования XLTM в XLSB" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования XLTM в XLSB и другие форматы документов с помощью Swift." urlsection="conversion/xltm-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLTM в XLSB" h2="Библиотека Swift для преобразования XLTM в XLSB" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для конвертации XLTM в XLSB и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xltm-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLTM в XLSB в Swift" >}}

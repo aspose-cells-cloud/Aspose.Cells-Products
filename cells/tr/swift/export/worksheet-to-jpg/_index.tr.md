@@ -1,5 +1,5 @@
 ﻿---
-title: Swift API'i kullanarak WORKSHEET'i e-tablodan JPG'ye aktarın
+title:  Swift API'i kullanarak WORKSHEET'i e-tablodan JPG'ye aktarın
 description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 url: /tr/swift/export/worksheet-to-jpg/
 ---
@@ -10,7 +10,7 @@ url: /tr/swift/export/worksheet-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKSHEET nesnesini Swift\'de JPG formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-WORKSHEET nesnesini e-tablodan JPG dosyasına aktarmak karmaşık bir iştir. WORKSHEET'i JPG formatına aktarma geçişleri, kaynak WORKSHEET elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak JPG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
+WORKSHEET nesnesini e-tablodan JPG dosyasına aktarmak karmaşık bir iştir. WORKSHEET'i JPG formatına aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak JPG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i e-tablodan JPG formatına aktarmak için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
@@ -56,7 +56,7 @@ WORKSHEET nesnesini e-tablodan JPG dosyasına aktarmak karmaşık bir iştir. WO
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="ÇALIŞMA SAYFASINI JPG\'ye dışa aktarmak için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

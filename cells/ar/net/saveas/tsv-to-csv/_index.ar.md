@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ TSV كملف CSV باستخدام C#
+title:  احفظ TSV كملف CSV باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق TSV كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

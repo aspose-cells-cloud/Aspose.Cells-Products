@@ -1,18 +1,19 @@
 ﻿---
 title:  Converti PNG in JSON utilizzando NodeJS
-description: Utilizzando Aspose.Cells Cloud SDK per NodeJS per convertire un file in formato PNG in un file in formato JSON.
+description:  Utilizzando Aspose.Cells Cloud SDK per NodeJS per convertire un file in formato PNG in un file in formato JSON.
+kwords: Excel, Convert PNG to JSON, REST, NodeJS
+howto: How to convert PNG to JSON using Aspose.Cells Cloud NodeJS library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti PNG in JSON" h2="Libreria NodeJS per la conversione di PNG in JSON" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo nei progetti NodeJS. Questa è una soluzione professionale per convertire PNG in JSON e altri formati di documenti online utilizzando NodeJS." urlsection="conversion/png-to-json/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Converti PNG in JSON" h2="Libreria NodeJS per la conversione di PNG in JSON" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo nei progetti NodeJS. Questa è una soluzione professionale per convertire PNG in JSON e altri formati di documenti online utilizzando NodeJS." urlsection="conversion/png-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti PNG in JSON utilizzando Cells Cloud SDK per NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="Converti PNG in JSON utilizzando Cells Cloud SDK per NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversione dei formati di file da PNG a JSON può essere un compito complesso. Il nostro SDK NodeJS gestisce tutte le conversioni dal formato PNG a JSON preservando il contenuto strutturale e logico principale del foglio di calcolo di origine PNG. La nostra libreria NodeJS fornisce una soluzione professionale per convertire PNG in file JSON online. Questo Cloud SDK offre agli sviluppatori NodeJS funzionalità potenti e garantisce output JSON di alta qualità.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice NodeJS per convertire PNG in JSON utilizzando Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Esempio di codice NodeJS per convertire PNG in JSON utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -31,21 +32,15 @@ La conversione dei formati di file da PNG a JSON può essere un compito compless
     });
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Node per convertire i file Excel in altri formati PNG in JSON" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come convertire PNG in JSON utilizzando la libreria Cells Cloud NodeJS." >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
-<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Installa la libreria NodeJS e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in JavaScript.</li>
 <li>Utilizza il metodo `putConvertWorkbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>nodo v6.17.1 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

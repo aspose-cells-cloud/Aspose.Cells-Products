@@ -30,7 +30,7 @@ description: 利用Aspose.Cells Cloud SDK for PHP将XML格式文件保存为CSV�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for PHP将Excel文件保存为其他格式XML为CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud SDK for PHP 将 Excel 文件保存为其他格式 XML 为 CSV" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
 <li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>

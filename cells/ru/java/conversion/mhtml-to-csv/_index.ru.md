@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертируйте MHTML в CSV, используя Java.
-description:  Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата MHTML в файл формата CSV.
+description: Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата MHTML в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать MHTML в CSV" h2="Java библиотека для конвертации MHTML в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертирования MHTML в CSV и другие форматы документов с использованием номера Java." urlsection="conversion/mhtml-to-csv/" >}}

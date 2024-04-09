@@ -1,5 +1,5 @@
 ﻿---
-title:  Aggiungi filigrana per la cartella di lavoro locale con C# nel Cloud
+title: Aggiungi filigrana per la cartella di lavoro locale con C# nel Cloud
 description:  API e SDK cloud per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con C#. Aggiunta di filigrana per fogli di calcolo locali tramite l'SDK Cloud API C# per C#.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

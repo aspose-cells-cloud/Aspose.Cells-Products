@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift kullanarak dışa aktarma
-description: Aspose.Cells Cloud REST API, Swift kullanarak çalışma kitabını ve dahili nesneleri her türlü formatta dışa aktarmayı destekler. SDK geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
+description:  Aspose.Cells Cloud REST API, Swift kullanarak çalışma kitabını ve dahili nesneleri her türlü formatta dışa aktarmayı destekler. SDK geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 url: /tr/swift/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

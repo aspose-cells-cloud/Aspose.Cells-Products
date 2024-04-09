@@ -1,10 +1,10 @@
 ﻿---
-title:  Salva con nome utilizzando Swift
+title:  Salva con nome usando Swift
 description:  Aspose.Cells Cloud REST API supporta il salvataggio di file Excel come tipi di file di formato utilizzando Swift. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e Swift.
 url: /it/swift/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva con nome utilizzando Swift" h2="Aspose.Cells Cloud SDK supporta il salvataggio delle cartelle di lavoro in altri formati. I formati di file supportati hanno più di 30+ formati di file." p="Aspose.Cells Cloud REST API supporta il salvataggio di file Excel come tipi di file di formato utilizzando Swift. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e Swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva con nome usando Swift" h2="Aspose.Cells Cloud SDK supporta il salvataggio delle cartelle di lavoro in altri formati. I formati di file supportati hanno più di 30+ formati di file." p="Aspose.Cells Cloud REST API supporta il salvataggio di file Excel come tipi di file di formato utilizzando Swift. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e Swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

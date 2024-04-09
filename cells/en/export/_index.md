@@ -8,9 +8,9 @@ description: Aspose.Cells Cloud REST API facilitates exporting workbooks and the
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST  apiname="Export" %}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport"  apimethod="POST"  apiname="Export" %}}
 {{< /blocks/products/pf/agp/feature-section >}}  
-{{< blocks/products/cells/cells-cloud-api-template btName="Export" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/DataProcessing/PostExport >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="Export" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/DataProcessing/PostExport" >}}  
 {{< blocks/products/cells/cells-cloud-upload>}}  
 	{{< blocks/products/cells/cells-cloud-parameters itName="format"  required="true" prompt="Please enter format">}}
 	{{< blocks/products/cells/cells-cloud-parameters itName="objectType"  required="true" prompt="Please enter objectType">}}

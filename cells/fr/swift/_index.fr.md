@@ -1,5 +1,5 @@
 ﻿---
-title: Générateur et convertisseur de feuilles de calcul Swift (Cloud REST API)
+title:  Générateur et convertisseur de feuilles de calcul Swift (Cloud REST API)
 description: REST API pour récupérer, traiter, chiffrer, convertir et exporter des feuilles de calcul Microsoft et OpenOffice sur le cloud via SDK Swift
 weight: 130
 url: /fr/swift
@@ -111,7 +111,7 @@ url: /fr/swift
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Obtenir, mettre à jour, afficher ou masquer la légende du graphique
+Obtenir, mettre à jour, afficher ou masquer la légende du graphique
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,7 +139,7 @@ url: /fr/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ajouter un ListObject à l'endroit spécifié dans le fichier Excel
+ Ajouter un ListObject à l'endroit spécifié dans le fichier Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,12 +235,12 @@ Ajouter un ListObject à l'endroit spécifié dans le fichier Excel
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose pour le Cloud
      </a>
-et obtenez les informations relatives à votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour Swift sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Cloud SDK pour Swift vous offre toutes les fonctionnalités nécessaires pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
+ et obtenez les informations relatives à votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour Swift sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Cloud SDK pour Swift vous offre toutes les fonctionnalités nécessaires pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Classeurs de traitement via SDK Cloud
+Classeurs de traitement via SDK Cloud
     </h2>
     <p>
  Aspose.Cells Cloud SDK pour Swift vous permet de créer, diviser, fusionner, rechercher et remplacer du texte, protéger par mot de passe, exporter vers un format de fichier pris en charge, lire les éléments de texte du classeur, ajuster automatiquement les lignes du classeur tout en ignorant les éléments cachés, chiffrer le mot de passe du classeur et fournir une clé de chiffrement. longueur, importer des données dans un classeur, calculer toutes les formules du classeur, définir les paramètres de calcul de formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande vers un autre format, appliquer un mot de passe pour permettre la modification du contenu.

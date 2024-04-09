@@ -9,7 +9,7 @@ description:  Использование Cloud SDK Aspose.Cells для C# для
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как WMF по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в формате WMF — сложная задача. Все переходы формата XLSX в WMF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека C# — это профессиональное решение для сохранения XLSX в виде файлов WMF онлайн. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и отличный результат в формате WMF.
+Сохранение форматов файлов из XLSX в формате WMF — сложная задача. Все переходы формата XLSX в WMF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека C# — это профессиональное решение для сохранения XLSX в виде файлов WMF онлайн. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для сохранения XLSX как WMF с использованием REST API" gistPath="" %}}

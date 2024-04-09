@@ -1,5 +1,5 @@
 ﻿---
-title: Generatore e convertitore di fogli di calcolo Swift (Cloud REST API)
+title:  Generatore e convertitore di fogli di calcolo Swift (Cloud REST API)
 description: REST API per recuperare, elaborare, crittografare, convertire ed esportare Microsoft e fogli di calcolo OpenOffice sul cloud via Swift SDK
 weight: 130
 url: /it/swift
@@ -13,7 +13,7 @@ url: /it/swift
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK per Swift aiuta i programmatori a integrare perfettamente Microsoft Excel e le funzionalità di visualizzazione ed elaborazione dei fogli di calcolo di OpenOffice nelle loro applicazioni basate su cloud sviluppate in Swift. Aspose.Cells Cloud SDK per Swift è concesso in licenza dal MIT.</p>
-<p>Aspose.Cells Cloud SDK per Swift consente alle tue app Swift di recuperare fogli di calcolo, fogli di lavoro e cartelle di lavoro archiviati nel cloud, nonché di generare nuovi fogli di calcolo. Puoi anche ottimizzare il codice Swift per elaborare e modificare formattazione condizionale, grafici, attività, forme, filtri, OleObject, intervalli, ListObject e tabelle pivot, dall'interno delle tue applicazioni senza installare software di terze parti.</p>
+<p>Aspose.Cells Cloud SDK per Swift consente alle tue app Swift di recuperare fogli di calcolo, fogli di lavoro e cartelle di lavoro archiviati nel cloud, nonché di generare nuovi fogli di calcolo. Puoi anche ottimizzare il codice Swift per elaborare e modificare formattazione condizionale, grafici, attività, forme, filtri, OleObject, intervalli, ListObject e tabelle pivot, dall'interno delle tue applicazioni senza installare alcun software di terze parti.</p>
 <p>Utilizza Aspose.Cells Cloud SDK per Swift per convertire i fogli di lavoro Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) e OpenOffice (ODS) in altri formati popolari, come XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF e Ribasso (MD). Puoi anche lavorare con i formati SXC e FODS utilizzando Aspose.Cells Cloud SDK per Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -111,7 +111,7 @@ url: /it/swift
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ottieni, aggiorna, mostra o nascondi la legenda del grafico
+Ottieni, aggiorna, mostra o nascondi la legenda del grafico
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,7 +139,7 @@ url: /it/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Aggiungi un ListObject nella posizione specificata nel file Excel
+ Aggiungi un ListObject nella posizione specificata nel file Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,12 +235,12 @@ Aggiungi un ListObject nella posizione specificata nel file Excel
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose per Nuvola
      </a>
- ottieni le informazioni sulla tua richiesta. Una volta che hai l'App SID &amp; chiave, sei pronto per utilizzare Aspose.Cells Cloud SDK for Swift su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud SDK per Swift fornisce tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre dati dai fogli di calcolo per ulteriore elaborazione o archiviazione.
+ e ottieni le informazioni sulla tua richiesta. Una volta che hai l'App SID &amp; chiave, sei pronto per utilizzare Aspose.Cells Cloud SDK for Swift su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud SDK per Swift fornisce tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre dati dai fogli di calcolo per ulteriore elaborazione o archiviazione.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Elaborazione cartelle di lavoro via Cloud SDK
+Elaborazione cartelle di lavoro via Cloud SDK
     </h2>
     <p>
  Aspose.Cells Cloud SDK per Swift consente di creare, dividere, unire, cercare e sostituire testo, protezione tramite password, esportare in formati di file supportati, leggere elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire una chiave di crittografia lunghezza, importare dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare un marcatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.

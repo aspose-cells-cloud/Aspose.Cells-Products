@@ -1,18 +1,19 @@
 ﻿---
 title:  Esporta IMMAGINE in JPG da Excel utilizzando Cells Cloud SDK per NodeJS
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta IMMAGINE in JPG da Excel" h2="Libreria NodeJS per esportare IMMAGINI in file JPG" p="Utilizza Export API of Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in NodeJS. Questa è una soluzione professionale per esportare IMMAGINI in file in formato JPG da un foglio di calcolo online utilizzando NodeJS." urlsection="export/picture-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Esporta IMMAGINE in JPG da Excel" h2="Libreria NodeJS per esportare IMMAGINI in file JPG" p="Utilizza Export API of Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in NodeJS. Questa è una soluzione professionale per esportare IMMAGINI in file in formato JPG da un foglio di calcolo online utilizzando NodeJS." urlsection="export/picture-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto IMMAGINE in un file in formato JPG utilizzando Cells Cloud SDK per NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="Esporta l\'oggetto IMMAGINE in un file in formato JPG utilizzando Cells Cloud SDK per NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Esportare un oggetto IMMAGINE in un file JPG dal file Excel è un compito complesso. L'esportazione delle transizioni in formato PICTURE in formato JPG viene eseguita dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo PICTURE di origine. La nostra libreria NodeJS è una soluzione professionale per esportare online oggetti IMMAGINE in file in formato JPG. Questo Cloud SDK offre agli sviluppatori NodeJS funzionalità potenti e un output JPG perfetto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per esportare IMMAGINE in formato JPG dal foglio di calcolo" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Esempio di codice in NodeJS utilizzando REST API per esportare IMMAGINE in formato JPG dal foglio di calcolo" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -37,21 +38,14 @@ Esportare un oggetto IMMAGINE in un file JPG dal file Excel è un compito comple
     });
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK for Node per esportare oggetti da Excel IMMAGINE a JPG" >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
 <li>Utilizza il metodo `postExport` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>nodo v6.17.1 o successivo</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

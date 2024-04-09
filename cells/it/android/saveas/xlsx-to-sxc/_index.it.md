@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSX come SXC utilizzando Android
-description: Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato SXC.
+description:  Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato SXC.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLSX come SXC" h2="Libreria Android per salvare XLSX come SXC" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Android. Questa è una soluzione professionale per salvare XLSX come SXC e altri formati di documenti online utilizzando Android." urlsection="saveas/xlsx-to-sxc/" >}}

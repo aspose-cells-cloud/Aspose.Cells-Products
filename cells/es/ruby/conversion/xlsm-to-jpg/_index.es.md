@@ -1,18 +1,19 @@
 ﻿---
 title:  Convertir XLSM a JPG usando Ruby
-description: Utilizar el SDK de Cloud Aspose.Cells para Ruby para convertir un archivo de formato XLSM a un archivo de formato JPG.
+description:  Utilizar el SDK de Cloud Aspose.Cells para Ruby para convertir un archivo de formato XLSM a un archivo de formato JPG.
+kwords: Excel, Convert XLSM to JPG, REST, Ruby
+howto: How to convert XLSM to JPG using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSM a JPG" h2="Biblioteca Ruby para convertir XLSM a JPG" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Ruby. Esta es una solución profesional para convertir XLSM a JPG y otros formatos de documentos en línea usando Ruby." urlsection="conversion/xlsm-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir XLSM a JPG" h2="Biblioteca Ruby para convertir XLSM a JPG" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Ruby. Esta es una solución profesional para convertir XLSM a JPG y otros formatos de documentos en línea usando Ruby." urlsection="conversion/xlsm-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLSM a JPG usando Cells Cloud SDK para Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta XLSM a JPG usando Cells Cloud SDK para Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLSM a JPG puede ser una tarea compleja. Nuestro Ruby SDK maneja todas las conversiones de formato XLSM a JPG mientras preserva el contenido estructural y lógico principal de la hoja de cálculo XLSM de origen. Nuestra biblioteca Ruby proporciona una solución profesional para convertir archivos XLSM a JPG en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una potente funcionalidad y garantiza una salida JPG de alta calidad.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código Ruby para convertir XLSM a JPG usando Cells Cloud SDK" gistPath="" %}}
+Convertir formatos de archivo de XLSM a JPG puede ser una tarea compleja. Nuestro SDK de Ruby maneja todas las conversiones de formato XLSM a JPG preservando al mismo tiempo el contenido estructural y lógico principal de la hoja de cálculo XLSM de origen. Nuestra biblioteca Ruby proporciona una solución profesional para convertir archivos XLSM a JPG en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una potente funcionalidad y garantiza una salida JPG de alta calidad.
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Ejemplo de código Ruby para convertir XLSM a JPG usando Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -26,21 +27,15 @@ Convertir formatos de archivo de XLSM a JPG puede ser una tarea compleja. Nuestr
     end
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Ruby para convertir archivos Excel a otros formatos XLSM a JPG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir XLSM a JPG usando la biblioteca Cells Cloud Ruby." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale la biblioteca Ruby y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en Ruby.</li>
 <li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>rubí 2.5 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

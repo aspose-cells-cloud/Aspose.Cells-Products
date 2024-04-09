@@ -1,18 +1,19 @@
 ﻿---
 title:  Converti TSV in WMF utilizzando Perl
-description: Utilizzando Aspose.Cells Cloud SDK per Perl per convertire un file in formato TSV in un file in formato WMF.
+description:  Utilizzando Aspose.Cells Cloud SDK per Perl per convertire un file in formato TSV in un file in formato WMF.
+kwords: Excel, Convert TSV to WMF, REST, Perl
+howto: How to convert TSV to WMF using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Converti TSV in WMF" h2="Libreria Perl per convertire TSV in WMF" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Perl. Questa è una soluzione professionale per convertire TSV in WMF e altri formati di documenti online utilizzando Perl." urlsection="conversion/tsv-to-wmf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Converti TSV in WMF" h2="Libreria Perl per convertire TSV in WMF" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Perl. Questa è una soluzione professionale per convertire TSV in WMF e altri formati di documenti online utilizzando Perl." urlsection="conversion/tsv-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti TSV in WMF utilizzando Cells Cloud SDK per Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="Converti TSV in WMF utilizzando Cells Cloud SDK per Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversione dei formati di file da TSV a WMF può essere un compito complesso. Il nostro SDK Perl gestisce tutte le conversioni del formato TSV in WMF preservando il contenuto strutturale e logico principale del foglio di calcolo TSV di origine. La nostra libreria Perl fornisce una soluzione professionale per convertire online file TSV in WMF. Questo Cloud SDK offre agli sviluppatori Perl funzionalità potenti e garantisce output WMF di alta qualità.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Esempio di codice per convertire TSV in WMF utilizzando Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Esempio di codice per convertire TSV in WMF utilizzando Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -39,21 +40,15 @@ La conversione dei formati di file da TSV a WMF può essere un compito complesso
     close $fh;
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare l\'SDK Perl per convertire TSV in WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come convertire TSV in WMF utilizzando la libreria Cells Cloud Perl." >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
-<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Installa il pacchetto Perl e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in Perl.</li>
 <li>Utilizza il metodo `put_convert_workbook` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

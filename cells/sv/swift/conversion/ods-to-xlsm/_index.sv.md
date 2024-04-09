@@ -10,7 +10,7 @@ url: /sv/swift/conversion/ods-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en ODS-fil till XLSM i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från ODS till XLSM är en komplex uppgift. Alla ODS- till XLSM-formatövergångar utförs av vår Swift SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera ODS till XLSM-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XLSM-utgång.
+Att konvertera filformat från ODS till XLSM är en komplex uppgift. Alla ODS- till XLSM-formatövergångar utförs av vår Swift SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera ODS till XLSM-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XLSM-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera ODS till XLSM-format" gistPath="" %}}

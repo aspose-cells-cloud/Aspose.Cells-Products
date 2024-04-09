@@ -3,7 +3,7 @@ title:  Speichern Sie SXC als CSV mit Go
 description:  Verwendung von Aspose.Cells Cloud SDK für Go zum Speichern von SXC-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie SXC als CSV" h2="Go-Bibliothek zum Speichern von SXC als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um SXC als CSV und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/sxc-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie SXC als CSV" h2="Go-Bibliothek zum Speichern von SXC als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als CSV und anderen Dokumentformaten mit Go." urlsection="saveas/sxc-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als CSV in Go" >}}

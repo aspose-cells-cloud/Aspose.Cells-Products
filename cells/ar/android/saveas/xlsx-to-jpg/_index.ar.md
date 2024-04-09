@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX بصيغة JPG باستخدام Android
+title:  احفظ XLSX بصيغة JPG باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

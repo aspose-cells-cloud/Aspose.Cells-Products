@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie TXT als CSV mit Android
+title:  Speichern Sie TXT als CSV mit Android
 description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von TXT-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

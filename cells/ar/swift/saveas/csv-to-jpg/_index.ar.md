@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV بتنسيق JPG API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق JPG.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق CSV كملف بتنسيق JPG.
 url: /ar/swift/saveas/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

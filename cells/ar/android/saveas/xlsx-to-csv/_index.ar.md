@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX كملف CSV باستخدام Android
+title:  احفظ XLSX كملف CSV باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

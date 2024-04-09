@@ -1,9 +1,9 @@
 ﻿---
-title: Enregistrez TSV au format CSV en utilisant PHP
+title:  Enregistrez TSV au format CSV en utilisant PHP
 description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format TSV au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer le TSV au format CSV" h2="Bibliothèque PHP pour enregistrer TSV au format CSV" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer TSV au format CSV et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/tsv-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer le TSV au format CSV" h2="Bibliothèque PHP pour enregistrer TSV au format CSV" p="Utilisez SaveAs API de Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer TSV au format CSV et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/tsv-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier TSV au format CSV dans PHP" >}}

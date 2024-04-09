@@ -12,7 +12,7 @@ description: 用于使用 Java 合并多个 Excel 文件的云 API 和 SDK。
 将多个 Excel 文件合并为一个文件可能是一项复杂的任务。我们的 Java SDK 处理此过程，确保保留源电子表格的主要结构和逻辑内容。我们的 Java 库是一种在线将多个 Excel 文件合并为一个的专业解决方案。该云SDK为Java开发者提供了强大的功能和强大的API。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java 中的代码示例使用 REST API 将多个 Excel 文件合并为单个文件。" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-PostMerge.java" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java 中的代码示例使用 REST API 将多个 Excel 文件合并到单个文件中。" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-PostMerge.java" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

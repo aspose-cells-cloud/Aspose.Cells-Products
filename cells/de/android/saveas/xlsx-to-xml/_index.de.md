@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSX als XML mit Android
-description: Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLSX-Formatdateien als XML-Formatdateien.
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLSX-Formatdateien als XML-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX als XML speichern" h2="Android-Bibliothek zum Speichern von XLSX als XML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSX als XML und anderen Dokumentformaten mit Android." urlsection="saveas/xlsx-to-xml/" >}}

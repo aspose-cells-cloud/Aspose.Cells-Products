@@ -3,7 +3,7 @@ title:  Löschen Sie Diagramme in der lokalen Arbeitsmappe in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Diagrammen unter Microsoft Excel und OpenOffice Calc. Klare Diagramme in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen von Diagrammen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle" h2="Python Löschen, um Diagramme auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in Python zu löschen. Diese professionelle Lösung löscht Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows mit Python." urlsection="clear/Charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen von Diagrammen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle" h2="Python Löschen, um Diagramme auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Python zu löschen. Diese professionelle Lösung löscht Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows mit Python." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klare Diagramme auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Python REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в XLSB API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата XLSB.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата XLSB.
 url: /ru/swift/conversion/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

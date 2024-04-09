@@ -1,5 +1,5 @@
 ﻿---
-title: TSV als CSV mit Java speichern
+title:  TSV als CSV mit Java speichern
 description:  Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern von TSV-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

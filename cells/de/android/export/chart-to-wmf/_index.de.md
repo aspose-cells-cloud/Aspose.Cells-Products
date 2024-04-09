@@ -9,7 +9,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie ein CHART-Objekt in eine Datei im WMF-Format mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines CHART-Objekts aus der Datei Excel in eine WMF-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von CHART in das WMF-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der CHART-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von CHART-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Exportieren eines CHART-Objekts aus der Datei Excel in eine WMF-Datei ist eine komplexe Aufgabe. Der Export von CHART- in das WMF-Format erfolgt durch unser Android SDK unter Beibehaltung der wichtigsten strukturellen und logischen Inhalte der CHART-Quelltabelle. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von CHART-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von CHART aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}

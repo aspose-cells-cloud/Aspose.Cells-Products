@@ -1,5 +1,5 @@
 ﻿---
-title:  PNG a XLSM Convertir API para Swift
+title: PNG a XLSM Convertir API para Swift
 description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato PNG a un archivo de formato XLSM.
 url: /es/swift/conversion/png-to-xlsm/
 ---

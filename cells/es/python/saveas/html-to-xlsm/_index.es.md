@@ -1,18 +1,19 @@
 ﻿---
 title:  Guarde HTML como XLSM usando Python
 description:  Utilizando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato HTML como archivo de formato XLSM.
+kwords: Excel, Save HTML as XLSM, REST, Python
+howto: How to save HTML as XLSM using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar HTML como XLSM" h2="Biblioteca Python para guardar HTML como XLSM" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para guardar HTML como XLSM y otros formatos de documentos en línea usando Python." urlsection="saveas/html-to-xlsm/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Guardar HTML como XLSM" h2="Biblioteca Python para guardar HTML como XLSM" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para guardar HTML como XLSM y otros formatos de documentos en línea usando Python." urlsection="saveas/html-to-xlsm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como XLSM en Python" >}}
+{{< blocks/products/cells/cells-cloud-section title="Guarde un archivo HTML como XLSM en Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Guardar formatos de archivo de HTML como XLSM es una tarea compleja. Todas las transiciones de formato HTML a XLSM se realizan mediante nuestro SDK Python manteniendo el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Python es una solución profesional para guardar HTML como archivos XLSM en línea. Este SDK de nube ofrece a los desarrolladores de Python una funcionalidad potente y una salida XLSM perfecta.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python Ejemplo de código para guardar HTML como XLSM usando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Ejemplo de código para guardar HTML como XLSM usando REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -26,22 +27,16 @@ Guardar formatos de archivo de HTML como XLSM es una tarea compleja. Todas las t
     saveResponse = cells_api.cells_save_as_post_document_save_as(name,save_options=saveOptions, newfilename=(folder +'/' + newfilename),folder=folder)
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para Python para guardar archivos Excel en otros formatos HTML como XLSM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo guardar HTML como XLSM usando la biblioteca Cells Cloud Python." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale la biblioteca Python y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en Python.</li>
 <li>Utilice el método `post_workbook_save_as` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Python 2.7 o más reciente</li>
 <li>Python 3.10 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

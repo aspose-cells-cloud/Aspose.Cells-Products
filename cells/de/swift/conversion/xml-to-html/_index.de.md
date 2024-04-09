@@ -13,7 +13,7 @@ url: /de/swift/conversion/xml-to-html/
 Das Konvertieren von Dateiformaten von XML nach HTML ist eine komplexe Aufgabe. Alle XML-Formatübergänge in das HTML-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML in HTML-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte HTML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XML in das HTML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XML in das Format HTML" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

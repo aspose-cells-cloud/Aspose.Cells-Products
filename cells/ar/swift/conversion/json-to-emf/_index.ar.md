@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON إلى EMF تحويل API إلى Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق JSON إلى ملف تنسيق EMF.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق JSON إلى ملف تنسيق EMF.
 url: /ar/swift/conversion/json-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

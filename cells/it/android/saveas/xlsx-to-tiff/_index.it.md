@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSX come TIFF utilizzando Android
-description: Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato TIFF.
+description:  Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato TIFF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLSX come TIFF" h2="Libreria Android per salvare XLSX come TIFF" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Android. Questa è una soluzione professionale per salvare XLSX come TIFF e altri formati di documenti online utilizzando Android." urlsection="saveas/xlsx-to-tiff/" >}}

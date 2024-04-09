@@ -12,7 +12,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل م�
 يمكن أن يكون تحويل تنسيقات الملفات من PNG إلى CSV مهمة معقدة. يتعامل NodeJS SDK الخاص بنا مع جميع تحويلات تنسيق PNG إلى تنسيق CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. توفر مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل PNG إلى ملفات CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري NodeJS بوظائف قوية ويضمن إخراج CSV عالي الجودة.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز NodeJS لتحويل PNG إلى CSV باستخدام Cells Cloud SDK" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود NodeJS لتحويل PNG إلى CSV باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

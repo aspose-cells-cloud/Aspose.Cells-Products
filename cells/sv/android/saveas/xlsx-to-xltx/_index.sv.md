@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSX som XLTX med Android
-description: Använder Aspose.Cells Cloud SDK för Android för att spara XLSX-formatfil som XLTX-formatfil.
+description:  Använder Aspose.Cells Cloud SDK för Android för att spara XLSX-formatfil som XLTX-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSX som XLTX" h2="Android-bibliotek för att spara XLSX som XLTX" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara XLSX som XLTX och andra dokumentformat online med Android." urlsection="saveas/xlsx-to-xltx/" >}}
@@ -9,7 +9,7 @@ description: Använder Aspose.Cells Cloud SDK för Android för att spara XLSX-f
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSX-fil som XLTX i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLSX som XLTX är en komplex uppgift. Alla XLSX- till XLTX-formatövergångar utförs av vår Android SDK samtidigt som käll XLSX-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLSX som XLTX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLTX-utgång.
+Att spara filformat från XLSX som XLTX är en komplex uppgift. Alla XLSX- till XLTX-formatövergångar utförs av vår Android-SDK samtidigt som käll XLSX-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLSX som XLTX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLTX-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att spara XLSX som XLTX med REST API" gistPath="" %}}

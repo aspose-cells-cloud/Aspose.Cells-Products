@@ -1,6 +1,6 @@
 ﻿---
 title:  Convierta XML a CSV usando Python
-description: Utilizar el SDK de Cloud Aspose.Cells para Python para convertir un archivo de formato XML a un archivo de formato CSV.
+description:  Utilizar el SDK de Cloud Aspose.Cells para Python para convertir un archivo de formato XML a un archivo de formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XML a CSV" h2="Biblioteca Python para convertir XML a CSV" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Python proyectos. Esta es una solución profesional para convertir XML a CSV y otros formatos de documentos en línea usando Python." urlsection="conversion/xml-to-csv/" >}}

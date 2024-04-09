@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez HTML sous le nom TSV API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML au format TSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML au format TSV.
 url: /fr/swift/saveas/html-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

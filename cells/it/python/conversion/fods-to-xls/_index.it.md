@@ -1,56 +1,40 @@
 ﻿---
-title: Convertire da Excel FODS a XLS via Python
-description: Crea, modifica o converti file Excel con REST API e SDK Open Source Python
-url: /it/python/conversion/fods-to-xls/
-family: cells
-platformtag: python
-feature: conversion
-informat: FODS
-outformat: XLS
-platform: Python
-otherformats: TSV XLTM SVG CSV DIF MHTML MD ODS FODS XML XLTX XLSB XPS TIFF PDF XLSX 
+title:  Converti FODS in XLS utilizzando Python
+description:  Utilizzando Aspose.Cells Cloud SDK per Python per convertire un file in formato FODS in un file in formato XLS.
+kwords: Excel, Convert FODS to XLS, REST, Python
+howto: How to convert FODS to XLS using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti FODS in XLS con Python" h2="Leggi, modifica ed esporta i dati Excel in altri formati con Cloud SDK open source per Python" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Converti FODS in XLS" h2="Python libreria per la conversione da FODS a XLS" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Python. Questa è una soluzione professionale per convertire FODS in XLS e altri formati di documenti online utilizzando Python." urlsection="conversion/fods-to-xls/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversione da FODS a XLS con Python" %}}
-1.  Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione
-1. Inizializza ```CellsApi``` con ID client, segreto client, URL di base e versione API
-1. Carica il file FODS sul Cloud Storage predefinito con il metodo ```CellsApi.upload_file```
-1. Chiama il metodo ```CellsApi.cells_save_as_post_document_save_as``` per ottenere il file XLS risultante
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Converti FODS in XLS utilizzando Cells Cloud SDK per Python" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+La conversione dei formati di file da FODS a XLS può essere un compito complesso. Il nostro SDK Python gestisce tutte le conversioni dal formato FODS a XLS preservando il contenuto strutturale e logico principale del foglio di calcolo FODS di origine. La nostra libreria Python fornisce una soluzione professionale per convertire online file FODS in XLS. Questo Cloud SDK offre agli sviluppatori Python potenti funzionalità e garantisce output XLS di alta qualità.
 
-{{% blocks/products/pf/agp/feature-section-col title="Inizia con Excel API e Python SDK" %}}
- Ottieni Excel Cloud SDK per il codice sorgente Python da[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) per compilare tu stesso l'SDK o vai al file[Rilasci](https://releases.aspose.cloud/) per opzioni di download alternative.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Dai un'occhiata anche a Swagger-based[API Riferimento](https://apireference.aspose.cloud/cells/) per saperne di più su[Excel RESTO API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Python Codice per Conversione da FODS a XLS" gistPath="" %}}
-```python
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
-import os
-import sys
-import asposecellscloud
-from asposecellscloud.apis.cells_api import CellsApi
-api  = asposecellscloud.apis.cells_api.CellsApi(os.getenv('CellsCloudClientId'), os.getenv('CellsCloudClientSecret'), "v3.0" ,os.getenv('CellsCloudApiBaseUrl'))
-
-name ='template.fods'    
-saveOptions = None
-newfilename = "output.xls"
-isAutoFitRows= True
-isAutoFitColumns= True
-folder = "temp"
-result = api.upload_file(folder + '/' + name,  "c:/TestData/" + name)
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Esempio di codice per convertire FODS in XLS utilizzando Cells Cloud SDK" gistPath="" %}}
  
-result = api.cells_save_as_post_document_save_as(name, save_options=saveOptions, newfilename=(folder +'/' + newfilename), is_auto_fit_rows=isAutoFitRows, is_auto_fit_columns=isAutoFitColumns, folder=folder)
+```python
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
+    import os
+    import shutil
+    from asposecellscloud.apis.cells_api import CellsApi
+    cells_api = CellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
+    file1 = cells_api.cells_workbook_put_convert_workbook("Book1.fods",format="xls")
+    shutil.move(file1, "destFile.xls")     
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come convertire FODS in XLS utilizzando la libreria Cells Cloud Python." >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Installa la libreria Python e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in Python.</li>
+<li>Utilizza il metodo `put_convert_workbook` per recuperare il flusso risultante.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
+<li>Python 2.7 o successiva</li>
+<li>Python 3.10 o successiva</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

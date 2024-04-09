@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX بتنسيق DIF باستخدام Android
+title:  احفظ XLSX بتنسيق DIF باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

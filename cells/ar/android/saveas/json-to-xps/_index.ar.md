@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ JSON كـ XPS باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق JSON كملف بتنسيق XPS.
+kwords: Excel, Save JSON as XPS, REST, Android
+howto: How to save JSON as XPS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ JSON كـ XPS" h2="مكتبة Android لحفظ JSON كـ XPS" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ JSON كـ XPS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/json-to-xps/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ JSON كـ XPS" h2="مكتبة Android لحفظ JSON كـ XPS" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ JSON كـ XPS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/json-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON باسم XPS في Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف JSON باسم XPS في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من JSON كـ XPS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى XPS بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ ملفات JSON كملفات XPS عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراجًا مثاليًا XPS.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لحفظ JSON كـ XPS باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="مثال على رمز Android لحفظ JSON كـ XPS باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -31,22 +32,15 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى JSON كـ XPS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى" >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
 <li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>أندرويد 7 أو الأحدث</li>
 <li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

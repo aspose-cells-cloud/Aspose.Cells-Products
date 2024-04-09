@@ -1,5 +1,5 @@
 ﻿---
-title:  PNG إلى PPTX تحويل API لـ Swift
+title: PNG إلى PPTX تحويل API لـ Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق PNG إلى ملف بتنسيق PPTX.
 url: /ar/swift/conversion/png-to-pptx/
 ---

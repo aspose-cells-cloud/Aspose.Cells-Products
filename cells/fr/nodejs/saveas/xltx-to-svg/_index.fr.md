@@ -1,18 +1,19 @@
 ﻿---
 title:  Enregistrez XLTX sous SVG à l'aide de NodeJS
 description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format XLTX au format SVG.
+kwords: Excel, Save XLTX as SVG, REST, NodeJS
+howto: How to save XLTX as SVG using Aspose.Cells Cloud NodeJS library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLTX sous le numéro SVG" h2="Bibliothèque NodeJS pour enregistrer XLTX sous SVG" p="Utilisez SaveAs API sur Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX sous le numéro SVG et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/xltx-to-svg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Enregistrer XLTX sous le numéro SVG" h2="Bibliothèque NodeJS pour enregistrer XLTX sous SVG" p="Utilisez SaveAs API sur Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX sous le numéro SVG et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/xltx-to-svg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLTX sous SVG dans NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="Enregistrez un fichier XLTX sous SVG dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Enregistrer les formats de fichiers de XLTX sous le nom SVG est une tâche complexe. Toutes les transitions du format XLTX vers SVG sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer XLTX sous forme de fichiers SVG en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie SVG parfaite.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code NodeJS pour enregistrer XLTX sous SVG à l\'aide de REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Exemple de code NodeJS pour enregistrer XLTX sous SVG à l\'aide de REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -29,21 +30,15 @@ Enregistrer les formats de fichiers de XLTX sous le nom SVG est une tâche compl
     });
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Node pour enregistrer les fichiers Excel sous d\'autres formats XLTX sous le nom SVG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment enregistrer XLTX sous le nom SVG à l\'aide de la bibliothèque Cloud NodeJS Cells." >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Installez la bibliothèque NodeJS et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source en JavaScript.</li>
 <li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>nœud v6.17.1 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

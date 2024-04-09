@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLSX als JPG mit C#
+title:  Speichern Sie XLSX als JPG mit C#
 description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern von XLSX-Formatdateien als JPG-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

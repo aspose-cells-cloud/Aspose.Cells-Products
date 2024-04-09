@@ -1,5 +1,5 @@
 ﻿---
-title: Spara TXT som CSV med Java
+title:  Spara TXT som CSV med Java
 description:  Använder Aspose.Cells Cloud SDK for Java för att spara TXT-formatfilen som CSV-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

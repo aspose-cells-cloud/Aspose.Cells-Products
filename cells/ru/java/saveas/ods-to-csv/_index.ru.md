@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните ODS в формате CSV, используя Java.
-description: Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата ODS в формате CSV.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата ODS в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ODS в формате CSV" h2="Java библиотека для сохранения ODS в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения ODS в формате CSV и других форматов документов в Интернете с помощью Java." urlsection="saveas/ods-to-csv/" >}}

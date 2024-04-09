@@ -1,18 +1,19 @@
 ﻿---
 title:  Enregistrez XLS en tant que XLT en utilisant Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XLS en tant que fichier au format XLT.
+description: Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XLS en tant que fichier au format XLT.
+kwords: Excel, Save XLS as XLT, REST, Perl
+howto: How to save XLS as XLT using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLS en tant que XLT" h2="Bibliothèque Perl pour enregistrer XLS au format XLT" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLS au format XLT et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/xls-to-xlt/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Enregistrer XLS en tant que XLT" h2="Bibliothèque Perl pour enregistrer XLS au format XLT" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLS au format XLT et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/xls-to-xlt/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLS au format XLT dans Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="Enregistrez un fichier XLS au format XLT dans Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Enregistrer les formats de fichiers XLS au format XLT est une tâche complexe. Toutes les transitions du format XLS vers XLT sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer XLS sous forme de fichiers XLT en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie XLT parfaite.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour enregistrer XLS en tant que XLT à l\'aide de REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Exemple de code pour enregistrer XLS en tant que XLT à l\'aide de REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -25,21 +26,15 @@ Enregistrer les formats de fichiers XLS au format XLT est une tâche complexe. T
     $result = $instance->cells_save_as_post_document_save_as(name => $name,save_options => $save_options, newfilename => $newfilename, folder => $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Perl pour enregistrer les fichiers Excel sous d\'autres formats XLS comme XLT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment enregistrer XLS au format XLT à l\'aide de la bibliothèque Cells Cloud Perl." >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Installez la bibliothèque Perl et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source en Perl.</li>
 <li>Poste d'appel_classeur_méthode save_as pour obtenir le flux résultant</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

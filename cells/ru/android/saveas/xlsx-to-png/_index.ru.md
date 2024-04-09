@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSX как PNG с помощью Android.
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX как файла формата PNG.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX как файла формата PNG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSX как PNG." h2="Библиотека Android для сохранения XLSX как PNG" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения XLSX как PNG и других форматов документов онлайн с помощью Android." urlsection="saveas/xlsx-to-png/" >}}

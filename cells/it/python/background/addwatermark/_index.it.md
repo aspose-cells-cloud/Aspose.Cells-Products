@@ -1,5 +1,5 @@
 ﻿---
-title:  Aggiungi filigrana per la cartella di lavoro locale con Python nel Cloud
+title: Aggiungi filigrana per la cartella di lavoro locale con Python nel Cloud
 description:  API e SDK cloud per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con Python. Aggiunta di filigrana per fogli di calcolo locali tramite l'SDK Cloud API Python per Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

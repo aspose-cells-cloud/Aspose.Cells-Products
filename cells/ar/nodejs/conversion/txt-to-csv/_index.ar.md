@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل TXT إلى CSV باستخدام NodeJS
-description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف بتنسيق TXT إلى ملف بتنسيق CSV.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف بتنسيق TXT إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل TXT إلى CSV" h2="مكتبة NodeJS لتحويل TXT إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع NodeJS. يعد هذا حلاً احترافيًا لتحويل TXT إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="conversion/txt-to-csv/" >}}

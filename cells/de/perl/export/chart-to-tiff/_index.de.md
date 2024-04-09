@@ -1,18 +1,19 @@
 ﻿---
-title:  Exportieren Sie CHART von Excel nach TIFF mit dem Cloud SDK Cells für Perl
+title: Exportieren Sie CHART von Excel nach TIFF mit dem Cloud SDK Cells für Perl
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Diagramm von Excel nach TIFF exportieren" h2="Perl-Bibliothek zum Exportieren von CHART in die TIFF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel-Datei-interne Objekt-Workflows in Perl zu exportieren. Dies ist eine professionelle Lösung, um CHART in eine TIFF-Formatdatei aus einer Tabellenkalkulation online mit Perl zu exportieren." urlsection="export/chart-to-tiff/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Diagramm von Excel nach TIFF exportieren" h2="Perl-Bibliothek zum Exportieren von CHART in die TIFF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel-Datei-interne Objekt-Workflows in Perl zu exportieren. Dies ist eine professionelle Lösung, um CHART in eine TIFF-Formatdatei aus einer Tabellenkalkulation online mit Perl zu exportieren." urlsection="export/chart-to-tiff/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in eine Datei im Format TIFF mit dem Cloud SDK Cells für Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das CHART-Objekt in eine Datei im Format TIFF mit dem Cloud SDK Cells für Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Das Exportieren eines CHART-Objekts aus der Datei Excel in die Datei TIFF ist eine komplexe Aufgabe. Übergänge beim Exportieren von CHART in das TIFF-Format werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um CHART-Objekte online in Dateien im TIFF-Format zu exportieren. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von CHART in das Format TIFF aus der Tabellenkalkulation" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Perl mit REST API zum Exportieren von CHART in das Format TIFF aus der Tabellenkalkulation" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -33,21 +34,14 @@ Das Exportieren eines CHART-Objekts aus der Datei Excel in die Datei TIFF ist ei
     close $fh;
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Perl, um Objekte von Excel CHART nach TIFF zu exportieren" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

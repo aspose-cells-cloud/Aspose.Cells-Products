@@ -1,18 +1,19 @@
 ﻿---
 title:  HTML'i Java'i kullanarak JPG'ye dönüştürün
 description:  Aspose.Cells Bulut SDK for Java'i kullanarak HTML formatındaki bir dosyayı JPG formatındaki bir dosyaya dönüştürmek.
+kwords: Excel, Convert HTML to JPG, REST, Java
+howto: How to convert HTML to JPG using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i JPG\'ye dönüştür" h2="HTML\'i JPG\'ye dönüştürmek için Java kütüphanesi" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, HTML\'i Java\'i kullanarak çevrimiçi olarak JPG\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/html-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="HTML\'i JPG\'ye dönüştür" h2="HTML\'i JPG\'ye dönüştürmek için Java kütüphanesi" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, HTML\'i Java\'i kullanarak çevrimiçi olarak JPG\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/html-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="HTML\'i, Cells Cloud SDK for Java\'i kullanarak JPG\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section title="HTML\'i, Cells Cloud SDK for Java\'i kullanarak JPG\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Dosya formatlarını HTML'den JPG'ye dönüştürmek karmaşık bir iş olabilir. Java SDK'mız, kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriğini korurken, HTML'den JPG formatına tüm dönüşümleri gerçekleştirir. Java kitaplığımız, HTML'i çevrimiçi olarak JPG dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Java geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli JPG çıktısı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Cells Cloud SDK\'yı kullanarak HTML\'i JPG\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Cells Cloud SDK\'yı kullanarak HTML\'i JPG\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -43,22 +44,16 @@ Dosya formatlarını HTML'den JPG'ye dönüştürmek karmaşık bir iş olabilir
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Cells Cloud SDK for Java nasıl kullanılır? HTML\'i JPG\'ye dönüştürmek" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Java kitaplığını kullanarak HTML\'i JPG\'ye nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Java kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı Java'de açın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Maven 2.2.0 veya daha yenisi</li>
 <li>Java(TM) SE Çalışma Zamanı Ortamı</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

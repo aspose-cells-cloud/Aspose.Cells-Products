@@ -1,5 +1,5 @@
 ﻿---
-title: Enregistrez XML au format CSV en utilisant Java
+title:  Enregistrez XML au format CSV en utilisant Java
 description:  Utilisation du SDK Cloud Aspose.Cells for Java pour enregistrer le fichier au format XML au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

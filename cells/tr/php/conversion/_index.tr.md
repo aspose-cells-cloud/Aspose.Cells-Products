@@ -1,6 +1,6 @@
 ﻿---
 title:  Excel dosya formatını PHP kullanarak dönüştürme
-description: Aspose.Cells Cloud REST API, PHP'i kullanarak Excel dosya formatı dönüştürmeyi destekler ve birden fazla programlama dili için SDK'lar sunar.
+description:  Aspose.Cells Cloud REST API, PHP'i kullanarak Excel dosya formatı dönüştürmeyi destekler ve birden fazla programlama dili için SDK'lar sunar.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Excel dosya formatını PHP kullanarak dönüştürme" h2="Aspose.Cells Cloud SDK, 30\'dan fazla dosya formatı arasında dönüştürmeyi destekler." p="Aspose.Cells Cloud REST API, PHP\'i kullanarak Excel dosya formatı dönüştürmeyi destekler ve birden fazla programlama dili için SDK\'lar sunar." urlsection="conversion/" >}}

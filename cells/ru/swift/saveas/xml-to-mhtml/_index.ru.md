@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Swift д�
 url: /ru/swift/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения XML как MHTML" h2="Библиотека Swift для сохранения XML как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XML в формате MHTML и других форматов документов онлайн с помощью Swift." urlsection="saveas/xml-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XML как MHTML" h2="Библиотека Swift для сохранения XML как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для сохранения XML в формате MHTML и других форматов документов онлайн с помощью Swift." urlsection="saveas/xml-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл как MHTML в Swift" >}}

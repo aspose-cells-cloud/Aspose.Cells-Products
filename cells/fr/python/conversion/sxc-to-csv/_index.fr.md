@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertissez SXC en CSV en utilisant Python
-description: Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir un fichier au format SXC en fichier au format CSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir un fichier au format SXC en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir SXC en CSV" h2="Bibliothèque Python pour convertir SXC en CSV" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Python. Il s\'agit d\'une solution professionnelle pour convertir SXC en CSV et d\'autres formats de documents en ligne en utilisant le Python." urlsection="conversion/sxc-to-csv/" >}}

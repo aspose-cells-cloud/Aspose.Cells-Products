@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV in XLTX Converti API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato CSV in un file in formato XLTX.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato CSV in un file in formato XLTX.
 url: /it/swift/conversion/csv-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

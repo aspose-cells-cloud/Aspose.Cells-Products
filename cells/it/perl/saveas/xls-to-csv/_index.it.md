@@ -1,5 +1,5 @@
 ﻿---
-title: Salva XLS come CSV utilizzando Perl
+title:  Salva XLS come CSV utilizzando Perl
 description:  Utilizzando Aspose.Cells Cloud SDK per Perl per salvare il file in formato XLS come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

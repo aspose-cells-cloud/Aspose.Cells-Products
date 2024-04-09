@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ الأرقام كملف CSV باستخدام Android
-description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق NUMBERS كملف بتنسيق CSV.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق NUMBERS كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ الأرقام كملف CSV" h2="مكتبة Android لحفظ الأرقام بتنسيق CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ NUMBERS كملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/numbers-to-csv/" >}}

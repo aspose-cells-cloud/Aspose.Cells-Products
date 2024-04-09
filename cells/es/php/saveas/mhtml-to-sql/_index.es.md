@@ -1,18 +1,19 @@
 ﻿---
 title:  Guarde MHTML como SQL usando PHP
 description:  Utilizando Aspose.Cells Cloud SDK para PHP para guardar el archivo en formato MHTML como archivo en formato SQL.
+kwords: Excel, Save MHTML as SQL, REST, PHP
+howto: How to save MHTML as SQL using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Guarde MHTML como SQL" h2="Biblioteca PHP para guardar MHTML como SQL" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar MHTML como SQL y otros formatos de documentos en línea usando PHP." urlsection="saveas/mhtml-to-sql/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Guarde MHTML como SQL" h2="Biblioteca PHP para guardar MHTML como SQL" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar MHTML como SQL y otros formatos de documentos en línea usando PHP." urlsection="saveas/mhtml-to-sql/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo MHTML como SQL en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="Guarde un archivo MHTML como SQL en PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de MHTML como SQL es una tarea compleja. Todas las transiciones de formato MHTML a SQL se realizan mediante nuestro SDK PHP manteniendo el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca PHP es una solución profesional para guardar MHTML como archivos SQL en línea. Este SDK de Cloud ofrece a los desarrolladores de PHP una funcionalidad potente y una salida SQL perfecta.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Ejemplo de código para guardar MHTML como SQL usando REST API" gistPath="" %}}
+Guardar formatos de archivo de MHTML como SQL es una tarea compleja. Todas las transiciones de formato MHTML a SQL se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca PHP es una solución profesional para guardar MHTML como archivos SQL en línea. Este SDK de Cloud ofrece a los desarrolladores de PHP una funcionalidad potente y una salida SQL perfecta.
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Ejemplo de código para guardar MHTML como SQL usando REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -27,21 +28,15 @@ Guardar formatos de archivo de MHTML como SQL es una tarea compleja. Todas las t
     $result = $apiInstance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename,$isAutoFitRows, $isAutoFitColumns, $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para guardar archivos Excel en otros formatos MHTML como SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo guardar MHTML como SQL usando la biblioteca Cells Cloud PHP." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale la biblioteca PHP y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en PHP.</li>
 <li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>PHP 7.4 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

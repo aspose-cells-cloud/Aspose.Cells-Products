@@ -1,5 +1,5 @@
 ﻿---
-title: Legen Sie mit NodeJS einen Hintergrund für Excel-Dateien fest
+title:  Legen Sie mit NodeJS einen Hintergrund für Excel-Dateien fest
 description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für Excel-Dateien mithilfe von NodeJS und bietet SDKs für verschiedene Programmiersprachen.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

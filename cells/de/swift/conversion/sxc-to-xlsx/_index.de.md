@@ -10,7 +10,7 @@ url: /de/swift/conversion/sxc-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine SXC-Datei in Swift in XLSX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von SXC in XLSX ist eine komplexe Aufgabe. Alle SXC-zu-XLSX-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von SXC- in XLSX-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLSX-Ausgabe.
+Das Konvertieren von Dateiformaten von SXC nach XLSX ist eine komplexe Aufgabe. Alle SXC-zu-XLSX-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von SXC- in XLSX-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLSX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von SXC in das XLSX-Format" gistPath="" %}}

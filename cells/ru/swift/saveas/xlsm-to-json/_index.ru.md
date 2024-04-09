@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSM как JSON API для Swift.
-description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLSM в формате JSON.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLSM как файла формата JSON.
 url: /ru/swift/saveas/xlsm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /tr/swift/export/workbook-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini Swift\'de GIF formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-WORKBOOK nesnesini elektronik tablodan GIF dosyasına aktarmak karmaşık bir iştir. WORKBOOK'u GIF formatına aktarma geçişleri Swift SDK'mız tarafından gerçekleştirilirken, kaynak WORKBOOK e-tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, ÇALIŞMA KİTABI nesnelerini çevrimiçi olarak GIF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel GIF çıkışı sağlar.
+WORKBOOK nesnesini elektronik tablodan GIF dosyasına aktarmak karmaşık bir iştir. WORKBOOK'u GIF formatına aktarma geçişleri, kaynak WORKBOOK e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, ÇALIŞMA KİTABI nesnelerini çevrimiçi olarak GIF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel GIF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan GIF formatına aktarmak için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
@@ -56,7 +56,7 @@ WORKBOOK nesnesini elektronik tablodan GIF dosyasına aktarmak karmaşık bir i�
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="ÇALIŞMA KİTABI\'nı GIF\'e aktarmak için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

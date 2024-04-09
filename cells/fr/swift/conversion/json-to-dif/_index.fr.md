@@ -1,6 +1,6 @@
 ﻿---
-title: Conversion JSON en DIF API pour Swift
-description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format JSON en fichier au format DIF.
+title:  Conversion JSON en DIF API pour Swift
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format JSON en fichier au format DIF.
 url: /fr/swift/conversion/json-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF в PNG Конвертировать API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата PNG.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата PNG.
 url: /ru/swift/conversion/gif-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,66 +1,41 @@
 ﻿---
-title: 从 Excel FODS 转换 为 XLS via 红宝石
-description: 使用 REST API 和开源 Ruby SDK 创建、编辑或转换 Excel 文件
-url: /zh/ruby/conversion/fods-to-xls/
-family: cells
-platformtag: ruby
-feature: conversion
-informat: FODS
-outformat: XLS
-platform: Ruby
-otherformats: TSV XLTM SVG XPS XLSM TXT XML DIF CSV XLTX ODS TIFF FODS XLSB MD MHTML 
+title: 使用 Ruby 将 FODS 转换为 XLS
+description: 使用Aspose.Cells Cloud SDK for Ruby将FODS格式文件转换为XLS格式文件。
+kwords: Excel, Convert FODS to XLS, REST, Ruby
+howto: How to convert FODS to XLS using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="使用 Ruby 将 FODS 转换为 XLS" h2="使用开源 Cloud SDK for Ruby 读取、编辑 Excel 数据并将其导出为其他格式" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 FODS 转换为 XLS" h2="用于将 FODS 转换为 XLS 的 Ruby 库" p="使用 Cells Cloud 的 Conversion API 在 Ruby 项目中创建自定义电子表格工作流程。这是使用 Ruby 在线将 FODS 转换为 XLS 和其他文档格式的专业解决方案。" urlsection="conversion/fods-to-xls/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="使用 Ruby 将 FODS 转换为 XLS" %}}
-1. 创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息
-1. 使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 ```CellsApi```
-1. 使用 ```CellsApi.upload_file``` 方法将 FODS 文件上传到默认云存储
-1. 调用```CellsApi.cells_save_as_post_document_save_as```方法获取生成的XLS文件
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Ruby 将 FODS 转换为 XLS" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+将文件格式从 FODS 转换为 XLS 可能是一项复杂的任务。我们的 Ruby SDK 处理所有 FODS 到 XLS 格式的转换，同时保留源 FODS 电子表格的主要结构和逻辑内容。我们的 Ruby 库提供了在线将 FODS 转换为 XLS 文件的专业解决方案。该 Cloud SDK 为 Ruby 开发人员提供了强大的功能，并确保高质量的 XLS 输出。
 
-{{% blocks/products/pf/agp/feature-section-col title="开始使用 Excel API 和 Ruby SDK" %}}
-从以下位置获取 Excel Cloud SDK for Ruby 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby)自己编译 SDK 或前往[发布](https://releases.aspose.cloud/)以获得替代下载选项。
+{{< /blocks/products/cells/cells-cloud-section >}}
 
-另请查看基于 Swagger 的[API 参考](https://apireference.aspose.cloud/cells/)了解更多关于[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="用于 FODS 到 XLS 转换的 Ruby 代码" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="使用 Cells Cloud SDK 将 FODS 转换为 XLS 的 Ruby 代码示例" gistPath="" %}}
+ 
 ```ruby
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
-
-require 'aspose_cells_cloud'
-
-class Workbook
-  include AsposeCellsCloud
-  def initialize
-    @instance =  AsposeCellsCloud::CellsApi.new($client_id, $client_secret, $api_version, $baseurl) 
-  end
-  
-  # Convert document and save result to storage
-  def post_document_save_as
-    name = $BOOK1
-    save_options = nil
-    newfilename = 'output.xls'
-    is_auto_fit_rows = true
-    is_auto_fit_columns = true
-    folder = $TEMPFOLDER
-    result = @instance.upload_file( folder + "/" + name, ::File.open(File.expand_path("data/" + name), "r") {|io| io.read(io.size) })
-    expect(result.uploaded.size).to  be > 0
-    result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder + "/" + newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
-  end
-end
-
-workbook = Workbook.new()
-puts workbook.post_document_save_as
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
+    describe 'cells_save_as_post_document_save_as test' do
+        it "should work" do
+            @instance = AsposeCellsCloud::CellsApi.new($client_id,$client_secret,"v3.0","https://api.aspose.cloud/")
+            name = "BOOK1.fods"
+            format = 'xls'
+            @instance.cells_workbook_put_convert_workbook( ::File.open(File.expand_path("data/"+name),"r")  {|io| io.read(io.size) },{:format=>format})     
+        end
+    end
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="了解如何使用 Cells Cloud Ruby 库将 FODS 转换为 XLS。" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>安装 Ruby 库并将引用（导入库）添加到您的项目中。</li>
+<li>在 Ruby 中打开源文件。</li>
+<li>使用 `put_convert_workbook` 方法检索结果流。</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
+<li>红宝石 2.5 或更新版本</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

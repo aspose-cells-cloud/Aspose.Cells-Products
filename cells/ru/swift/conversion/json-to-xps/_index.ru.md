@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON в XPS Преобразовать API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата XPS.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата XPS.
 url: /ru/swift/conversion/json-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

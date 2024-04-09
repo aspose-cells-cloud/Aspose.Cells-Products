@@ -1,51 +1,47 @@
 ﻿---
-title:  Преобразование FODS в SXC в облаке via PHP
-description: Создавайте, редактируйте или конвертируйте файлы Excel с помощью REST API и SDK с открытым исходным кодом PHP.
-url: /ru/php/conversion/fods-to-sxc/
-family: cells
-platformtag: php
-feature: conversion
-informat: FODS
-outformat: SXC
-platform: PHP
-otherformats: XLTX DIF XML PDF ODS MD XLSX TSV MHTML XLSB SVG TXT XLSM CSV XLTM TIFF 
+title:  Преобразуйте FODS в SXC, используя PHP.
+description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата FODS в файл формата SXC.
+kwords: Excel, Convert FODS to SXC, REST, PHP
+howto: How to convert FODS to SXC using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Конвертируйте FODS в SXC с помощью PHP" h2="Автоматизируйте преобразование файлов Excel и OpenOffice с помощью Cloud SDK с открытым исходным кодом для PHP." >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать FODS в SXC" h2="PHP библиотека для конвертации FODS в SXC" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертирования FODS в SXC и другие форматы документов с использованием номера PHP." urlsection="conversion/fods-to-sxc/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Быстро конвертируйте FODS в SXC via PHP" %}}
-1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API
-1. Инициализируйте ```CellsApi```, используя идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.
-1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.uploadFile```.
-1. Позвоните по номеру ```CellsApi.cellsSaveAsPostDocumentSaveAs```, чтобы получить полученный файл SXC.
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Преобразуйте FODS в SXC с помощью Cloud SDK Cells для PHP." >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Преобразование форматов файлов из FODS в SXC может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования формата FODS в формат SXC, сохраняя при этом основное структурное и логическое содержимое исходной таблицы FODS. Наша библиотека PHP предоставляет профессиональное решение для онлайн-конвертирования FODS в файлы SXC. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный вывод SXC.
 
-{{% blocks/products/pf/agp/feature-section-col title="Начало работы с Excel, API и PHP SDK" %}}
- Получите Excel Cloud SDK для исходного кода PHP с сайта[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="PHP Код для преобразования FODS в SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Пример кода для преобразования FODS в SXC с помощью Cells Cloud SDK" gistPath="" %}}
+ 
 ```php
-
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php
-
-$name ='template.fods';    
-$saveOptions = null;
-$newfilename = "output.sxc";
-$isAutoFitRows= 'true';
-$isAutoFitColumns= 'true';
-$folder = "Temp";
-CellsApi::ready( $this->instance, $name, $folder );
-$result = $this->instance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename, $isAutoFitRows, $isAutoFitColumns, $folder);
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
+    <?php
+    require_once('vendor\autoload.php');
+    use \Aspose\Cells\Cloud\Api\CellsApi;
+    $instance = new CellsApi(getenv("ProductClientId"),getenv("ProductClientSecret"));
+    $path ='Book1.fods';    
+    $format ='sxc';
+    $password = null;
+    $outPath = null;      
+    $result = $this->instance->cellsWorkbookPutConvertWorkBook($path ,$format, $password,  $outPath);
+    $size = $result->getSize();
+    $content  = $result->fread($size);
+    $file = fopen("destfile.sxc", 'w');
+    fwrite($file,$content);
+    fclose($file);
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как конвертировать FODS в SXC с помощью библиотеки Cells Cloud PHP." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Установите библиотеку PHP и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру PHP.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
+<li>PHP 7.4 или новее</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  C#'i kullanarak NUMBERS'ı EMF'e dönüştürün
 description:  NUMBERS biçimindeki bir dosyayı EMF biçimindeki bir dosyaya dönüştürmek için C# için Aspose.Cells Bulut SDK'sını kullanma.
+kwords: Excel, Convert NUMBERS to EMF, REST, C#
+howto: How to convert NUMBERS to EMF using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı EMF\'e dönüştür" h2="NUMBERS\'ı EMF\'e dönüştürmek için C# kitaplığı" p="Net projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, NUMBERS\'ı EMF\'e ve C#\'i kullanarak çevrimiçi olarak diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-emf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="NUMBERS\'ı EMF\'e dönüştür" h2="NUMBERS\'ı EMF\'e dönüştürmek için C# kitaplığı" p="Net projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, NUMBERS\'ı EMF\'e ve C#\'i kullanarak çevrimiçi olarak diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-emf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="C# için Cells Cloud SDK\'yı kullanarak NUMBERS\'ı EMF\'e dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section title="C# için Cells Cloud SDK\'yı kullanarak NUMBERS\'ı EMF\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Dosya formatlarını NUMBERS'tan EMF'e dönüştürmek karmaşık bir iş olabilir. C# SDK'mız, kaynak NUMBERS e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm NUMBERS'dan EMF'e format dönüşümlerini gerçekleştirir. C# kitaplığımız, NUMBERS'ı çevrimiçi olarak EMF dosyalara dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, C# geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli EMF çıkışı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# NUMBERS\'ı Cells Cloud SDK kullanarak EMF\'e dönüştürmek için Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# NUMBERS\'ı Cells Cloud SDK kullanarak EMF\'e dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -32,22 +33,16 @@ Dosya formatlarını NUMBERS'tan EMF'e dönüştürmek karmaşık bir iş olabil
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara (NUMBERS) - EMF\'e dönüştürmek için Cells Cloud SDK for Net nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Net kitaplığını kullanarak NUMBERS\'ı EMF\'e nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>C# kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı C#'de açın</li>
 <li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>NET Framework 4.5.2 veya daha yenisi</li>
 <li>Net Standardı 2.0 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -9,7 +9,7 @@ url: /tr/perl/export/ods-to-xlsx/
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=" Perl için Cloud SDK\'da ODS\'yi XLSX dosyasına aktarın" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını
 1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
 1. Ortaya çıkan XLSX akışını almak için ```cells_workbook_put_convert_workbook``` yöntemini çağırın
 {{% /blocks/products/pf/agp/feature-section-col %}}

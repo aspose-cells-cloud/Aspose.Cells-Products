@@ -1,7 +1,7 @@
 ﻿---
-title:  Lösningar för bearbetning av kalkylark (Desktop & Cloud REST APIs)
-description: " Lokala och moln-API:er för att sömlöst förbättra dina inbyggda appar, webb- och molnappar för att tillhandahålla kalkylbladsbehandlingsfunktioner"
-weight: 30
+title: Lättvikt Aspose.Cells moln och lokal API för Excel bordsbehandling
+description: "Aspose.Cells Cloud erbjuder en rad SDK:er i olika programmeringsspråk, förenklar åtkomsten till Aspose.Cells REST API och förbättrar prestandan genom sin lätta design."
+weight: 50
 url: /sv/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -33,7 +33,7 @@ Påskynda utvecklingen av webbaserade eller stationära applikationer för hante
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="/product-logos/aspose_cells-for-java.svg" productLink="https://products.aspose.com/cells/java" >}}
-Java API bibliotek för att bygga inbyggda appar för att generera, konvertera, skydda och skriva ut Excel & OpenOffice-kalkylblad.
+Java API bibliotek för att skapa inbyggda appar för att generera, konvertera, skydda och skriva ut Excel och OpenOffice-kalkylblad.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="/product-logos/aspose_cells-for-cpp.svg" productLink="https://products.aspose.com/cells/cpp/" >}}

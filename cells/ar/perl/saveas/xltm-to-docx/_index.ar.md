@@ -1,18 +1,19 @@
 ﻿---
-title: احفظ XLTM كـ DOCX باستخدام Perl
+title:  احفظ XLTM كـ DOCX باستخدام Perl
 description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLTM كملف بتنسيق DOCX.
+kwords: Excel, Save XLTM as DOCX, REST, Perl
+howto: How to save XLTM as DOCX using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ ملف XLTM بصيغة DOCX" h2="Perl مكتبة لحفظ XLTM بصيغة DOCX" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ XLTM بتنسيق DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xltm-to-docx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ ملف XLTM بصيغة DOCX" h2="Perl مكتبة لحفظ XLTM بصيغة DOCX" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ XLTM بتنسيق DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xltm-to-docx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM بتنسيق DOCX في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف XLTM بتنسيق DOCX في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من XLTM بصيغة DOCX مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق XLTM إلى DOCX بواسطة Perl SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبتنا Perl حلاً احترافيًا لحفظ XLTM كملفات DOCX عبر الإنترنت. يوفر Cloud SDK لمطوري Perl وظائف قوية ومخرجات DOCX مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لحفظ XLTM بصيغة DOCX باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl مثال على الكود لحفظ XLTM بصيغة DOCX باستخدام REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -25,21 +26,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف ب
     $result = $instance->cells_save_as_post_document_save_as(name => $name,save_options => $save_options, newfilename => $newfilename, folder => $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Perl لحفظ ملفات Excel بتنسيقات أخرى XLTM مثل DOCX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ XLTM كـ DOCX باستخدام مكتبة Cells Cloud Perl." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة Perl وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في Perl.</li>
 <li>اتصل بالبريد_دفتر العمل_طريقة save_as للحصول على الدفق الناتج</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

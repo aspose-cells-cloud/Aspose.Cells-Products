@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez PNG sous le nom XLSB API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG au format XLSB.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG au format XLSB.
 url: /fr/swift/saveas/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

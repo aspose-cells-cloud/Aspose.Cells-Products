@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLS als CSV mit Python
+title:  Speichern Sie XLS als CSV mit Python
 description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern von XLS-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -9,7 +9,7 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern vo
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLS-Datei als CSV unter Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XLS als CSV ist eine komplexe Aufgabe. Alle XLS-zu-CSV-Formatübergänge werden von unserem SDK Python durchgeführt, während der strukturelle und logische Hauptinhalt der XLS-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um XLS als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
+Das Speichern von Dateiformaten aus XLS als CSV ist eine komplexe Aufgabe. Alle XLS-zu-CSV-Formatübergänge werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLS-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um XLS als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel zum Speichern von XLS als CSV mit REST API" gistPath="" %}}

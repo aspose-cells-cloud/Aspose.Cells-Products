@@ -1,6 +1,6 @@
 ﻿---
 title:  تشفير جدول البيانات المحلي بكلمة مرور باستخدام Swift in Cloud
-description: واجهات برمجة التطبيقات السحابية ومجموعات SDK للحماية Microsoft Excel وOpenOffice Calc مع Swift. قم بتشفير جداول البيانات المحلية بكلمة مرور بواسطة Cells Cloud API SDK for Swift.
+description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK للحماية Microsoft Excel وOpenOffice Calc مع Swift. قم بتشفير جداول البيانات المحلية بكلمة مرور بواسطة Cells Cloud API SDK for Swift.
 url: /ar/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ MHTML بتنسيق SQL باستخدام Go
 description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق MHTML كملف تنسيق SQL.
+kwords: Excel, Save MHTML as SQL, REST, Go
+howto: How to save MHTML as SQL using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ MHTML بتنسيق SQL" h2="انتقل إلى المكتبة لحفظ MHTML بتنسيق SQL" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ MHTML بتنسيق SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/mhtml-to-sql/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ MHTML بتنسيق SQL" h2="انتقل إلى المكتبة لحفظ MHTML بتنسيق SQL" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ MHTML بتنسيق SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/mhtml-to-sql/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML بتنسيق SQL في Go" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف MHTML بتنسيق SQL في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من MHTML بتنسيق SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى SQL بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ MHTML كملفات SQL عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية ومخرجات SQL مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="انتقل إلى مثال التعليمات البرمجية لحفظ MHTML كـ SQL باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="انتقل إلى مثال التعليمات البرمجية لحفظ MHTML كـ SQL باستخدام REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -27,21 +28,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تن
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لحفظ ملفات Excel بتنسيقات أخرى MHTML مثل SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ MHTML بتنسيق SQL باستخدام مكتبة Cells Cloud Go." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة Go وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في الذهاب.</li>
 <li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

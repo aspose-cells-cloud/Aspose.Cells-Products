@@ -1,5 +1,5 @@
 ﻿---
-title: Perl'i kullanarak XLT'yi CSV olarak kaydedin
+title:  Perl'i kullanarak XLT'yi CSV olarak kaydedin
 description:  XLT formatındaki dosyayı CSV formatındaki dosya olarak kaydetmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -29,7 +29,7 @@ Dosya formatlarını XLT'den CSV olarak kaydetmek karmaşık bir iştir. Tüm XL
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlardaki XLT\'yi CSV olarak kaydetmek için Perl için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Çağrı postası_çalışma kitabı_Ortaya çıkan akışı almak için save_as yöntemi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

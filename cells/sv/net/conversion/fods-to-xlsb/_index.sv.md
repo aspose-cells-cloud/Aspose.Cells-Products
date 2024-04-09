@@ -1,47 +1,48 @@
 ﻿---
-title:  Konvertera FODS till XLSB via .NET
-description: Skapa, redigera eller konvertera Excel-filer med Cloud API & Open Source .NET SDK
-url: /sv/net/conversion/fods-to-xlsb/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: XLSB
-platform: .NET
-otherformats: DIF XLSX TSV XLT XLSB MD TXT XML PDF SVG ODS TIFF XPS XLTX MHTML CSV 
+title:  Konvertera FODS till XLSB med C#
+description:  Använda Aspose.Cells Cloud SDK för C# för att konvertera en fil i FODS-format till en fil i XLSB-format.
+kwords: Excel, Convert FODS to XLSB, REST, C#
+howto: How to convert FODS to XLSB using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera FODS till XLSB i molnet" h2="Excel & OpenOffice kalkylarkskonvertering med open source Cloud SDK for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera FODS till XLSB" h2="C# bibliotek för konvertering av FODS till XLSB" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera FODS till XLSB och andra dokumentformat online med C#." urlsection="conversion/fods-to-xlsb/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS till XLSB-konvertering i .NET-appar" %}}
-1.  Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation
-1. Initiera ```CellsApi``` med klient-id, klienthemlighet, basadress och API-version
-1. Ladda upp FODS-fil till standardmolnlagring med metoden ```CellsApi.Upload```
-1. Ring ```CellsApi.CellsSaveAsPostDocumentSaveAs```-metoden för att få den resulterande XLSB-filen
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera FODS till XLSB med Cells Cloud SDK för C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Att konvertera filformat från FODS till XLSB kan vara en komplex uppgift. Vår C# SDK hanterar alla FODS- till XLSB-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i FODS-källbladet bevaras. Vårt C#-bibliotek tillhandahåller en professionell lösning för att konvertera FODS till XLSB-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och säkerställer XLSB-utdata av hög kvalitet.
 
-{{% blocks/products/pf/agp/feature-section-col title="Kom igång med Excel REST API" %}}
- Få Excel Cloud SDK for .NET källkod från[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) för att kompilera SDK själv eller gå till[Släpps](https://releases.aspose.cloud/) för alternativa nedladdningsalternativ.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Ta också en titt på Swagger-baserad[API Referens](https://apireference.aspose.cloud/cells/) att veta mer om[Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET Kod för FODS till XLSB-konvertering" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Kodexempel för att konvertera FODS till XLSB med Cells Cloud SDK" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "xlsb";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.xlsb", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "xlsb";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.xlsb";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar FODS till XLSB med hjälp av Cells Cloud Net-biblioteket." >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Installera C#-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i C#</li>
+<li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
+<li>NET Framework 4.5.2 eller senare</li>
+<li>Net Standard 2.0 eller senare</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

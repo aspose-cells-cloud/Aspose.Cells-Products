@@ -1,6 +1,6 @@
 ﻿---
 title:  Ställ in bakgrunden med Swift
-description: Aspose.Cells Cloud REST API stöder inställd bakgrund för Excel-fil med Swift. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description:  Aspose.Cells Cloud REST API stöder inställd bakgrund för Excel-fil med Swift. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

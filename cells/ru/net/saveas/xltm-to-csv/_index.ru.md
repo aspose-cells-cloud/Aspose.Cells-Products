@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLTM как CSV, используя C#.
+title:  Сохраните XLTM как CSV, используя C#.
 description:  Использование Cloud SDK Aspose.Cells для C# для сохранения файла формата XLTM в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

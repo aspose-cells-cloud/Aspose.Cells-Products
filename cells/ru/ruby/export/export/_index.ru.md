@@ -16,7 +16,7 @@ url: /ru/ruby/export/export/
 
 {{% blocks/products/pf/agp/feature-section-col title="Начните с Excel REST API" %}}
  Получите исходный код Excel Cloud SDK for .NET с сайта[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) скомпилировать SDK самостоятельно или перейти к[Релизы](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/releases) альтернативные варианты загрузки.
- Взгляните на[руководство разработчика](https://docs.aspose.cloud/cells/developer-guide/) API Ссылка, чтобы узнать больше о[]().
+ Взгляните на[руководство для разработчиков](https://docs.aspose.cloud/cells/developer-guide/) API Ссылка, чтобы узнать больше о[]().
  Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

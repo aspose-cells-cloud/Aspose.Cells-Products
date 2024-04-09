@@ -1,47 +1,48 @@
 ﻿---
-title:  Convertir FODS a XPS via .NET
-description: Cree, edite o convierta archivos Excel con Cloud API y Open Source .NET SDK
-url: /es/net/conversion/fods-to-xps/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: XPS
-platform: .NET
-otherformats: MD XML SVG TSV XPS XLSM PDF TXT FODS TIFF XLSB XLTM XLSX HTML DIF MHTML 
+title: Convierta FODS a XPS usando C#
+description:  Utilizar el SDK de la nube Aspose.Cells para C# para convertir un archivo de formato FODS a un archivo de formato XPS.
+kwords: Excel, Convert FODS to XPS, REST, C#
+howto: How to convert FODS to XPS using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta FODS a XPS en la nube" h2="Excel y conversión de hojas de cálculo de OpenOffice con Cloud SDK de código abierto for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS a XPS" h2="Biblioteca C# para convertir FODS a XPS" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Net. Esta es una solución profesional para convertir FODS a XPS y otros formatos de documentos en línea usando C#." urlsection="conversion/fods-to-xps/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversión de FODS a XPS en aplicaciones .NET" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
-1. Cargue el archivo FODS al Cloud Storage predeterminado con el método ```CellsApi.Upload```
-1. Llame al método ```CellsApi.CellsSaveAsPostDocumentSaveAs``` para obtener el archivo XPS resultante
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta FODS a XPS usando Cells Cloud SDK para C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Convertir formatos de archivo de FODS a XPS puede ser una tarea compleja. Nuestro SDK C# maneja todas las conversiones de formato FODS a XPS y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo FODS de origen. Nuestra biblioteca C# proporciona una solución profesional para convertir archivos FODS a XPS en línea. Este SDK de nube brinda a los desarrolladores de C# una potente funcionalidad y garantiza resultados de XPS de alta calidad.
 
-{{% blocks/products/pf/agp/feature-section-col title="Comience con Excel DESCANSO API" %}}
- Obtenga el código fuente Excel Cloud SDK for .NET de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- También eche un vistazo a Basado en Swagger[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET Código para conversión de FODS a XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Ejemplo de código para convertir FODS a XPS usando Cells Cloud SDK" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "xps";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.xps", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "xps";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.xps";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir FODS a XPS usando la biblioteca Cells Cloud Net." >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Instale la biblioteca C# y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en C#</li>
+<li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
+<li>NET Framework 4.5.2 o más reciente</li>
+<li>Net Standard 2.0 o posterior</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

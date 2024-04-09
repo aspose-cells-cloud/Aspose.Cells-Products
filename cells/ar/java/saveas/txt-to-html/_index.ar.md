@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ TXT كـ HTML باستخدام Java
-description: استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق TXT كملف بتنسيق HTML.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق TXT كملف بتنسيق HTML.
+kwords: Excel, Save TXT as HTML, REST, Java
+howto: How to save TXT as HTML using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TXT كـ HTML" h2="مكتبة Java لحفظ TXT برقم HTML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ TXT كـ HTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/txt-to-html/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ TXT كـ HTML" h2="مكتبة Java لحفظ TXT برقم HTML" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ TXT كـ HTML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/txt-to-html/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT كـ HTML في Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف TXT كـ HTML في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من TXT كـ HTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى HTML بواسطة Java SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبتنا Java حلاً احترافيًا لحفظ TXT كملفات HTML عبر الإنترنت. يمنح Cloud SDK هذا مطوري Java وظائف قوية وإخراج HTML مثاليًا.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لحفظ TXT كـ HTML باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java مثال على الكود لحفظ TXT كـ HTML باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -31,22 +32,16 @@ description: استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بت
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Java لحفظ ملفات Excel بتنسيقات أخرى TXT كـ HTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ TXT كـ HTML باستخدام مكتبة Cells Cloud Java." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة Java وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في Java.</li>
 <li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Maven 2.2.0 أو أحدث</li>
 <li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,56 +1,40 @@
 ﻿---
-title:  Konvertieren von Excel FODS zu TIFF via Python
-description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API und Open Source Python SDK
-url: /de/python/conversion/fods-to-tiff/
-family: cells
-platformtag: python
-feature: conversion
-informat: FODS
-outformat: TIFF
-platform: Python
-otherformats: XML CSV TSV DIF XLSM SVG XLSX MD HTML FODS MHTML XLTX PDF XLSB TXT TIFF 
+title: Konvertieren Sie FODS mit Python in TIFF
+description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer FODS-Formatdatei in eine TIFF-Formatdatei.
+kwords: Excel, Convert FODS to TIFF, REST, Python
+howto: How to convert FODS to TIFF using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS mit Python in TIFF" h2="Lesen, bearbeiten und exportieren Sie Excel-Daten in andere Formate mit dem Open-Source-Cloud-SDK für Python" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie FODS in TIFF" h2="Python-Bibliothek zur Konvertierung von FODS in TIFF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von FODS in TIFF und andere Dokumentformate unter Verwendung von Python." urlsection="conversion/fods-to-tiff/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS zu TIFF Umstellung mit Python" %}}
-1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten
-1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und Version API
-1. Laden Sie die FODS-Datei mit der Methode ```CellsApi.upload_file``` in den Standard-Cloud-Speicher hoch
-1. Rufen Sie die Methode ```CellsApi.cells_save_as_post_document_save_as``` auf, um die resultierende Datei TIFF zu erhalten
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie FODS in TIFF mit dem Cloud SDK Cells für Python" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Das Konvertieren von Dateiformaten von FODS in TIFF kann eine komplexe Aufgabe sein. Unser Python SDK verarbeitet alle Konvertierungen des FODS-Formats in das TIFF-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-FODS-Tabelle bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von FODS-Dateien in TIFF-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TIFF-Ausgabe.
 
-{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit dem SDK Excel, API und Python" %}}
- Holen Sie sich das Excel Cloud SDK für den Python-Quellcode von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Python-Code für die Konvertierung von FODS in TIFF" gistPath="" %}}
-```python
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
-import os
-import sys
-import asposecellscloud
-from asposecellscloud.apis.cells_api import CellsApi
-api  = asposecellscloud.apis.cells_api.CellsApi(os.getenv('CellsCloudClientId'), os.getenv('CellsCloudClientSecret'), "v3.0" ,os.getenv('CellsCloudApiBaseUrl'))
-
-name ='template.fods'    
-saveOptions = None
-newfilename = "output.tiff"
-isAutoFitRows= True
-isAutoFitColumns= True
-folder = "temp"
-result = api.upload_file(folder + '/' + name,  "c:/TestData/" + name)
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Codebeispiel für die Konvertierung von FODS in TIFF mithilfe des Cloud SDK Cells" gistPath="" %}}
  
-result = api.cells_save_as_post_document_save_as(name, save_options=saveOptions, newfilename=(folder +'/' + newfilename), is_auto_fit_rows=isAutoFitRows, is_auto_fit_columns=isAutoFitColumns, folder=folder)
+```python
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
+    import os
+    import shutil
+    from asposecellscloud.apis.cells_api import CellsApi
+    cells_api = CellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
+    file1 = cells_api.cells_workbook_put_convert_workbook("Book1.fods",format="tiff")
+    shutil.move(file1, "destFile.tiff")     
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie FODS mit der Cells Cloud Python-Bibliothek in TIFF konvertieren." >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Installieren Sie die Bibliothek Python und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in Python.</li>
+<li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
+<li>Python 2.7 oder neuer</li>
+<li>Python 3.10 oder neuer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

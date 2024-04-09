@@ -1,18 +1,19 @@
 ﻿---
-title:  Exportieren Sie CHART nach WMF von Excel mit Cells Cloud SDK for Java
+title: Exportieren Sie CHART nach WMF von Excel mit Cells Cloud SDK for Java
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie CHART nach WMF von Excel" h2="Java-Bibliothek zum Exportieren von CHART in eine WMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um CHART online aus einer Tabellenkalkulation in eine WMF-Formatdatei mit Java zu exportieren." urlsection="export/chart-to-wmf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie CHART nach WMF von Excel" h2="Java-Bibliothek zum Exportieren von CHART in eine WMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um CHART online aus einer Tabellenkalkulation in eine WMF-Formatdatei mit Java zu exportieren." urlsection="export/chart-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in eine WMF-Formatdatei mit Cells Cloud SDK for Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das CHART-Objekt in eine WMF-Formatdatei mit Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Das Exportieren eines CHART-Objekts aus der Datei Excel in eine WMF-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von CHART in das WMF-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere Bibliothek Java ist eine professionelle Lösung zum Online-Export von CHART-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Exportieren von CHART aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Java mit REST API zum Exportieren von CHART aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,22 +48,15 @@ Das Exportieren eines CHART-Objekts aus der Datei Excel in eine WMF-Datei ist ei
     }
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Exportieren von Objekten aus Excel CHART nach WMF" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
 <li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

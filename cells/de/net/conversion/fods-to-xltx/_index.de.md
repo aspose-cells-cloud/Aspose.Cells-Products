@@ -1,47 +1,48 @@
 ﻿---
-title:  Konvertieren Sie FODS in XLTX via .NET
-description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit Cloud API und Open Source .NET SDK
-url: /de/net/conversion/fods-to-xltx/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: XLTX
-platform: .NET
-otherformats: XLS MHTML XML XLTX XLSM ODS MD SVG XLTM DIF TIFF XLSB XPS PDF TXT XLSX 
+title:  Konvertieren Sie FODS mit C# in XLTX
+description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im FODS-Format in eine Datei im XLTX-Format.
+kwords: Excel, Convert FODS to XLTX, REST, C#
+howto: How to convert FODS to XLTX using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS in XLTX in der Cloud" h2="Excel & OpenOffice-Tabellenkonvertierung mit Open-Source-Cloud-SDK for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie FODS in XLTX" h2="C# Bibliothek zur Konvertierung von FODS in XLTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von FODS in XLTX und andere Dokumentformate unter C#." urlsection="conversion/fods-to-xltx/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Konvertierung von FODS in XLTX in .NET Apps" %}}
-1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten
-1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und Version API
-1. Laden Sie die FODS-Datei mit der Methode ```CellsApi.Upload``` in den Standard-Cloud-Speicher hoch
-1. Rufen Sie die Methode ```CellsApi.CellsSaveAsPostDocumentSaveAs``` auf, um die resultierende XLTX-Datei zu erhalten
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie FODS in XLTX mit dem Cloud SDK Cells für C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Das Konvertieren von Dateiformaten von FODS in XLTX kann eine komplexe Aufgabe sein. Unser C# SDK übernimmt alle Konvertierungen von FODS in das XLTX-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-FODS-Tabelle bei. Unsere C#-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von FODS- in XLTX-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLTX-Ausgabe.
 
-{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit Excel REST API" %}}
- Holen Sie sich den Quellcode Excel Cloud SDK for .NET von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET Code für die Konvertierung von FODS in XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Codebeispiel für die Konvertierung von FODS in XLTX mit Cells Cloud SDK" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "xltx";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.xltx", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "xltx";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.xltx";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie FODS mithilfe der Cloud Net-Bibliothek Cells in XLTX konvertieren." >}}
+<li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Installieren Sie die Bibliothek C# und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in C#</li>
+<li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
+<li>NET Framework 4.5.2 oder neuer</li>
+<li>Net Standard 2.0 oder neuer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

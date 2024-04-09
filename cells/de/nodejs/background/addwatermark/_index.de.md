@@ -1,5 +1,5 @@
 ﻿---
-title:  Fügen Sie mit NodeJS in der Cloud ein Wasserzeichen für die lokale Arbeitsmappe hinzu
+title: Fügen Sie mit NodeJS in der Cloud ein Wasserzeichen für die lokale Arbeitsmappe hinzu
 description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit NodeJS. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für NodeJS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

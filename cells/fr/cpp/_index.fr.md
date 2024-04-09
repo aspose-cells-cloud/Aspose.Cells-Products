@@ -88,7 +88,7 @@ url: /fr/cpp
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose pour le Cloud
      </a>
-et obtenez les informations relatives à votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour CPP sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Cloud SDK pour Ruby vous offre toutes les fonctionnalités nécessaires pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
+ et obtenez les informations relatives à votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour CPP sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Cloud SDK pour Ruby vous offre toutes les fonctionnalités nécessaires pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
     </p>
    </div>
    <div class="col-lg-12">
@@ -96,12 +96,12 @@ et obtenez les informations relatives à votre candidature. Une fois que vous av
  Convertissez Microsoft Excel ou une feuille de calcul OpenOffice Calc en types de fichiers de format.
     </h2>
     <p>
- Le SDK Cloud Aspose.Cells pour CPP inclut une fonctionnalité permettant de convertir par programmation le classeur Excel en types de fichiers de format à l'aide du langage CPP. La conversion de feuilles de calcul Microsoft Excel ou OpenOffice Calc est un processus complexe. De nombreux facteurs contribuent à cette complexité et doivent donc être pris en compte lors du processus de transformation. La possibilité de convertir des fichiers Excel d'un format à un autre avec une qualité professionnelle précise est l'une des principales fonctionnalités de Aspose.Cells Cloud.
+Le SDK Cloud Aspose.Cells pour CPP inclut une fonctionnalité permettant de convertir par programmation le classeur Excel en types de fichiers de format à l'aide du langage CPP. La conversion de feuilles de calcul Microsoft Excel ou OpenOffice Calc est un processus complexe. De nombreux facteurs contribuent à cette complexité et doivent donc être pris en compte lors du processus de transformation. La possibilité de convertir des fichiers Excel d'un format à un autre avec une qualité professionnelle précise est l'une des principales fonctionnalités de Aspose.Cells Cloud.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Protéger les API Microsoft Excel via du RPC
+ Protéger les API Microsoft Excel via du RPC
     </h2>
     <p>
  Le SDK Cloud Aspose.Cells pour CPP inclut une fonctionnalité permettant de protéger par programmation le classeur Excel à l'aide du langage CPP. Par exemple, protéger et déprotéger le classeur avec un mot de passe, ajouter une signature numérique pour le classeur.
@@ -112,13 +112,13 @@ Protéger les API Microsoft Excel via du RPC
  Fusionnez plusieurs feuilles de calcul Excels Microsoft ou OpenOffice Calc dans un fichier.
     </h2>
     <p>
- Aspose.Cells Cloud SDK pour CPP inclut une fonctionnalité permettant de fusionner par programme plusieurs feuilles de calcul Microsoft Excel ou OpenOffice Calc dans un fichier à l'aide du langage CPP. Prend en charge plusieurs types d'entrée de fichier de format. Et prend en charge les types de sortie de format.
+Aspose.Cells Cloud SDK pour CPP inclut une fonctionnalité permettant de fusionner par programme plusieurs feuilles de calcul Microsoft Excel ou OpenOffice Calc dans un fichier à l'aide du langage CPP. Prend en charge plusieurs types d'entrée de fichier de format. Et prend en charge les types de sortie de format.
     </p>
     <h2 class="h2title">
  Rechercher et remplacer des classeurs de texte
     </h2>
     <p>
-Aspose.Cells Le SDK Cloud pour CPP prend en charge l'utilisation de texte dans un classeur à l'aide des commandes du langage CPP. Le SDK a fourni des fonctionnalités très utiles liées à la recherche et à la mise à jour de texte, telles que la recherche et le remplacement de texte dans un classeur ou dans une feuille de calcul, l'obtention d'éléments de texte à partir de feuilles de calcul, et bien d'autres encore. De plus, vous pouvez également extraire du texte, des images ou des formes d'une feuille de calcul avec de simples commandes CPP.
+ Aspose.Cells Le SDK Cloud pour CPP prend en charge l'utilisation de texte dans un classeur à l'aide des commandes du langage CPP. Le SDK a fourni des fonctionnalités très utiles liées à la recherche et à la mise à jour de texte, telles que la recherche et le remplacement de texte dans un classeur ou dans une feuille de calcul, l'obtention d'éléments de texte à partir de feuilles de calcul, et bien d'autres encore. De plus, vous pouvez également extraire du texte, des images ou des formes d'une feuille de calcul avec de simples commandes CPP.
     </p>
     <p>
     </p>

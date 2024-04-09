@@ -1,18 +1,19 @@
 ﻿---
 title:  Python için Cells Cloud SDK'yı kullanarak SHAPE'i Excel'den WMF'ye aktarın
 description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SHAPE\'i Excel\'den WMF\'ye aktar" h2="SHAPE\'i WMF dosyasına aktarmak için Python kitaplığı" p="Python\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Python\'i kullanarak elektronik tablodan SHAPE\'i WMF formatındaki dosyaya çevrimiçi olarak dışa aktarmak için profesyonel bir çözümdür." urlsection="export/shape-to-wmf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="SHAPE\'i Excel\'den WMF\'ye aktar" h2="SHAPE\'i WMF dosyasına aktarmak için Python kitaplığı" p="Python\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Python\'i kullanarak elektronik tablodan SHAPE\'i WMF formatındaki dosyaya çevrimiçi olarak dışa aktarmak için profesyonel bir çözümdür." urlsection="export/shape-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Python için Cells Cloud SDK\'yı kullanarak SHAPE nesnesini WMF biçimindeki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section title="Python için Cells Cloud SDK\'yı kullanarak SHAPE nesnesini WMF biçimindeki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 SHAPE nesnesini Excel dosyasından WMF dosyasına aktarmak karmaşık bir iştir. SHAPE'i WMF'ye aktarma formatı geçişleri Python SDK'mız tarafından gerçekleştirilir ve kaynak SHAPE elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, SHAPE nesnelerini çevrimiçi olarak WMF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK'sı, Python geliştiriciye güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="SHAPE\'i e-tablodan WMF formatına aktarmak için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="SHAPE\'i e-tablodan WMF formatına aktarmak için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -33,22 +34,15 @@ SHAPE nesnesini Excel dosyasından WMF dosyasına aktarmak karmaşık bir iştir
     f.close()    
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel SHAPE\'den WMF\'ye aktarmak için Python için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için post_export yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Python 2.7 veya daha yenisi</li>
 <li>Python 3.10 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

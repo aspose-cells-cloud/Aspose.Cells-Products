@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XML som CSV med Python
+title:  Spara XML som CSV med Python
 description:  Använder Aspose.Cells Cloud SDK för Python för att spara XML-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

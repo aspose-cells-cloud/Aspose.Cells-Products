@@ -1,18 +1,19 @@
 ﻿---
 title:  Convierta NÚMEROS a XML usando Perl
-description: Utilizar el SDK de la nube Aspose.Cells para Perl para convertir un archivo en formato NÚMEROS a un archivo en formato XML.
+description:  Utilizar el SDK de la nube Aspose.Cells para Perl para convertir un archivo en formato NÚMEROS a un archivo en formato XML.
+kwords: Excel, Convert NUMBERS to XML, REST, Perl
+howto: How to convert NUMBERS to XML using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir NÚMEROS a XML" h2="Biblioteca Perl para convertir NÚMEROS a XML" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Perl proyectos. Esta es una solución profesional para convertir NÚMEROS a XML y otros formatos de documentos en línea usando Perl." urlsection="conversion/numbers-to-xml/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir NÚMEROS a XML" h2="Biblioteca Perl para convertir NÚMEROS a XML" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Perl proyectos. Esta es una solución profesional para convertir NÚMEROS a XML y otros formatos de documentos en línea usando Perl." urlsection="conversion/numbers-to-xml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta NÚMEROS a XML usando Cells Cloud SDK para Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta NÚMEROS a XML usando Cells Cloud SDK para Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de NUMBERS a XML puede ser una tarea compleja. Nuestro SDK Perl maneja todas las conversiones de formato NUMBERS a XML y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Perl proporciona una solución profesional para convertir NÚMEROS a archivos XML en línea. Este SDK de nube brinda a los desarrolladores Perl una potente funcionalidad y garantiza una salida XML de alta calidad.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Ejemplo de código para convertir NÚMEROS a XML usando Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Ejemplo de código para convertir NÚMEROS a XML usando Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -39,21 +40,15 @@ Convertir formatos de archivo de NUMBERS a XML puede ser una tarea compleja. Nue
     close $fh;
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar el SDK Perl para convertir NÚMEROS a XML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda a convertir NÚMEROS a XML utilizando la biblioteca Cells Cloud Perl." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale el paquete Perl y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en Perl.</li>
 <li>Utilice el método `put_convert_workbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

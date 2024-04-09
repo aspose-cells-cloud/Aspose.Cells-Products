@@ -1,7 +1,7 @@
 ﻿---
-title:  Soluzioni per l'elaborazione di fogli di calcolo (API REST desktop e cloud)
-description:  API on-premise e cloud per migliorare senza problemi le tue app native, web e cloud per fornire funzionalità di elaborazione dei fogli di calcolo
-weight: 30
+title: Leggero Aspose.Cells cloud e on-premise API per l'elaborazione della tabella Excel
+description: Aspose.Cells Cloud offre una gamma di SDK in vari linguaggi di programmazione, semplifica l'accesso a Aspose.Cells REST API e migliora le prestazioni grazie al suo design leggero.
+weight: 50
 url: /it/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

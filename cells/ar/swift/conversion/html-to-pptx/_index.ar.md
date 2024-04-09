@@ -1,5 +1,5 @@
 ﻿---
-title:  HTML إلى PPTX تحويل API لـ Swift
+title: HTML إلى PPTX تحويل API لـ Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق HTML إلى ملف بتنسيق PPTX.
 url: /ar/swift/conversion/html-to-pptx/
 ---

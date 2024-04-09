@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/swift/export/picture-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von BILD in eine WMF-Datei" h2="Swift-Bibliothek zum Exportieren von PICTURE in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von PICTURE in eine WMF-Formatdatei aus einer Tabellenkalkulation mit Swift." urlsection="export/picture-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von BILD in eine WMF-Datei" h2="Swift-Bibliothek zum Exportieren von PICTURE in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von PICTURE in eine WMF-Formatdatei aus einer Tabellenkalkulation online mit Swift." urlsection="export/picture-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in Swift in eine WMF-Formatdatei" >}}

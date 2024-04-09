@@ -65,7 +65,7 @@ url: /ru/swift/conversion/xltm-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для конвертации XLTM в ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для преобразования XLTM в ODS" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Инициализируйте CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод cellWorkbookPutConvertWorkbook, чтобы получить результирующий поток.</li>

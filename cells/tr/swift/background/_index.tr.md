@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift kullanarak arka planı ayarlayın
-description: Aspose.Cells Cloud REST API, Swift kullanılarak Excel dosyası için ayarlanan arka planı destekler. SDK birden fazla geliştirme dilini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
+description:  Aspose.Cells Cloud REST API, Swift kullanılarak Excel dosyası için ayarlanan arka planı destekler. SDK birden fazla geliştirme dilini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 url: /tr/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XML как CSV с помощью Android
+title:  Сохраните XML как CSV с помощью Android
 description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XML в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

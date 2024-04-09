@@ -12,7 +12,7 @@ description: 用于使用 Perl 合并多个 Excel 文件的云 API 和 SDK。
 将多个 Excel 文件合并为一个文件可能是一项复杂的任务。我们的 Perl SDK 处理此过程，确保保留源电子表格的主要结构和逻辑内容。我们的 Perl 库是一种在线将多个 Excel 文件合并为一个的专业解决方案。该云SDK为Perl开发者提供了强大的功能和强大的API。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl 中的代码示例使用 REST API 将多个 Excel 文件合并为单个文件。" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-PostMerge.pl" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl 中的代码示例使用 REST API 将多个 Excel 文件合并到单个文件中。" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-PostMerge.pl" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

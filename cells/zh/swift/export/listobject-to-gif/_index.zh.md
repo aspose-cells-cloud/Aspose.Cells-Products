@@ -1,5 +1,5 @@
 ﻿---
-title: 使用 Swift 将 LISTOBJECT 从电子表格导出为 GIF API
+title: 使用 Swift 将 LISTOBJECT 从电子表格导出到 GIF API
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
 url: /zh/swift/export/listobject-to-gif/
 ---
@@ -57,7 +57,7 @@ url: /zh/swift/export/listobject-to-gif/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Swift API 将 LISTOBJECT 导出为 GIF" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 postExport 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer le CSV sous le nom MD API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV en tant que fichier au format MD.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV en tant que fichier au format MD.
 url: /fr/swift/saveas/csv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

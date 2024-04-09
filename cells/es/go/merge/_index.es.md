@@ -1,9 +1,9 @@
 ﻿---
 title:  Fusionar archivos Excel usando Go
-description:  Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un único archivo Excel mediante Go y ofrece SDK para varios lenguajes de programación.
+description:  Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un solo archivo Excel mediante Go y ofrece SDK para varios lenguajes de programación.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionar archivos Excel usando Go" h2="Aspose.Cells Cloud SDK admite la combinación de varios archivos Excel en un solo archivo Excel." p="Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un único archivo Excel mediante Go y ofrece SDK para varios lenguajes de programación." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionar archivos Excel usando Go" h2="Aspose.Cells Cloud SDK admite la combinación de varios archivos Excel en un solo archivo Excel." p="Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un solo archivo Excel mediante Go y ofrece SDK para varios lenguajes de programación." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -14,7 +14,7 @@ description:  Aspose.Cells Cloud REST API admite la combinación de varios archi
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Otro:</b> Pdf, Json, rebajas</li>
@@ -24,7 +24,7 @@ description:  Aspose.Cells Cloud REST API admite la combinación de varios archi
 	<li><b>Microsoft Palabra/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Otro:</b> Pdf, Xps, Dif, Json, Rebaja, Sql</li>

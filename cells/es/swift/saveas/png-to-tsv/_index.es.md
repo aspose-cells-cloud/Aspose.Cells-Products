@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde PNG como TSV API para Swift
-description: Uso de Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato PNG como archivo de formato TSV.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato PNG como archivo de formato TSV.
 url: /es/swift/saveas/png-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

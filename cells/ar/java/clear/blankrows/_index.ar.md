@@ -3,13 +3,13 @@ title:  امسح الصفوف الفارغة في المصنف المحلي في
 description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الصفوف الفارغة على Microsoft Excel وOpenOffice Calc. مسح الصفوف الفارغة في جداول البيانات المحلية بواسطة Cells Cloud API. يدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الصفوف الفارغة على Microsoft المحلي وجدول بيانات OpenOffice Calc" h2="Java مسح لمسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصفوف الفارغة على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Java. يقوم هذا الحل الاحترافي بمسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc باستخدام Java ." urlsection="clear/Blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الصفوف الفارغة على Microsoft المحلي وجدول بيانات OpenOffice Calc" h2="Java مسح لمسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصفوف الفارغة على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Java. يقوم هذا الحل الاحترافي بمسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc باستخدام Java." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc - Java REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc مهمة معقدة. يتم مسح الصفوف الفارغة على Microsoft Excel المحلي وانتقالات جدول بيانات OpenOffice Calc بواسطة Java SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا Java حلاً احترافيًا لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يمنح Cloud SDK هذا Java للمطورين وظائف قوية وAPI مثالية.
+يعد مسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc مهمة معقدة. يتم مسح الصفوف الفارغة على Microsoft المحلي Excel وانتقالات جدول بيانات OpenOffice Calc بواسطة Java SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا Java حلاً احترافيًا لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يمنح Cloud SDK هذا Java للمطورين وظائف قوية وAPI مثالية.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="كود Java لمسح الصفوف الفارغة في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-Clear-BlankRows.java" %}}

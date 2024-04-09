@@ -1,18 +1,19 @@
 ﻿---
 title:  Go'yu kullanarak PNG'i JSON'a dönüştürün
-description:  PNG biçimindeki bir dosyayı JSON biçimindeki bir dosyaya dönüştürmek için Go için Aspose.Cells Cloud SDK'yı kullanma.
+description: PNG biçimindeki bir dosyayı JSON biçimindeki bir dosyaya dönüştürmek için Go için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Convert PNG to JSON, REST, Go
+howto: How to convert PNG to JSON using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i JSON\'a dönüştür" h2="PNG\'i JSON\'a dönüştürmek için kitaplığa gidin" p="Go projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Go\'yu kullanarak PNG\'i JSON\'a ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-json/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="PNG\'i JSON\'a dönüştür" h2="PNG\'i JSON\'a dönüştürmek için kitaplığa gidin" p="Go projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Go\'yu kullanarak PNG\'i JSON\'a ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Go için Cells Cloud SDK\'yı kullanarak PNG\'i JSON\'a dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section title="Go için Cells Cloud SDK\'yı kullanarak PNG\'i JSON\'a dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Dosya formatlarını PNG'den JSON'a dönüştürmek karmaşık bir iş olabilir. Go SDK'mız, kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm PNG'den JSON formatına dönüşümleri gerçekleştirir. Go kitaplığımız, PNG'i çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli JSON çıktısı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PNG Cloud SDK\'yı kullanarak PNG\'i JSON\'a dönüştürmek için Kod Örneğine gidin" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PNG Cloud SDK\'yı kullanarak PNG\'i JSON\'a dönüştürmek için Kod Örneğine gidin" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -44,21 +45,15 @@ Dosya formatlarını PNG'den JSON'a dönüştürmek karmaşık bir iş olabilir.
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara (PNG) JSON\'a dönüştürmek için Cells Cloud SDK for Go nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Go kitaplığını kullanarak PNG\'i JSON\'a nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Go kütüphanesini kurun ve referansı projenize ekleyin (kütüphaneyi içe aktarın).</li>
+<li>Kaynak dosyayı go'da açın.</li>
 <li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>go sürümü go1.13.0 veya daha yeni</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

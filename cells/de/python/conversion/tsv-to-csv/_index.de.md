@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie TSV mit Python in CSV
-description: Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im TSV-Format in eine Datei im CSV-Format.
+description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im TSV-Format in eine Datei im CSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie TSV in CSV" h2="Python Bibliothek zum Konvertieren von TSV in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TSV in CSV und andere Dokumentformate unter Python." urlsection="conversion/tsv-to-csv/" >}}
@@ -27,7 +27,7 @@ Das Konvertieren von Dateiformaten von TSV in CSV kann eine komplexe Aufgabe sei
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Python, um Excel-Dateien in andere Formate von TSV in CSV zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Python, um Excel-Dateien in andere Formate, TSV in CSV, zu konvertieren" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>

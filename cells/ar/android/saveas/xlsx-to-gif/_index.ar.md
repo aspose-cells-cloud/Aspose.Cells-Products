@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX بصيغة GIF باستخدام Android
+title:  احفظ XLSX بصيغة GIF باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

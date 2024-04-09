@@ -1,5 +1,5 @@
 ﻿---
-title:  Удалите пустые столбцы из локальной книги с помощью Cells Cloud SDK для Go.
+title:  Удалите пустые столбцы из локальной книги с помощью Cells Cloud SDK for Go.
 description: Облачные API и SDK для очистки пустых столбцов на телефонах Microsoft и OpenOffice Calc. Очистите пустые столбцы в локальных таблицах с помощью облака Cells. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

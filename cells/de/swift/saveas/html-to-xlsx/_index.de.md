@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als XLSX API für Swift
-description: Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im HTML-Format als XLSX-Formatdatei zu speichern.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im HTML-Format als XLSX-Formatdatei zu speichern.
 url: /de/swift/saveas/html-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

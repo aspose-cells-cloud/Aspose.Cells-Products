@@ -1,5 +1,5 @@
 ﻿---
-title:  Converti XLTX in CSV utilizzando Android
+title: Converti XLTX in CSV utilizzando Android
 description:  Utilizzando Aspose.Cells Cloud SDK per Android per convertire un file in formato XLTX in un file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

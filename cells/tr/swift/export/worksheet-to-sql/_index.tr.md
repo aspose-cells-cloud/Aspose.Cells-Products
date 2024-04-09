@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1
 url: /tr/swift/export/worksheet-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA SAYFASI\'nı SQL dosyasına aktarmak için Swift API" h2="WORKSHEET\'i SQL dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells REST\'i Dışa Aktar API\'i kullanın. Bu, Swift kullanarak çevrimiçi elektronik tablodan ÇALIŞMA SAYFASI\'nı SQL formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA SAYFASI\'nı SQL dosyasına aktarmak için Swift API" h2="WORKSHEET\'i SQL dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de e-tablo dahili nesne iş akışlarını dışa aktarmak için Cells REST\'i Dışa Aktar API\'i kullanın. Bu, Swift kullanarak çevrimiçi elektronik tablodan WORKSHEET\'i SQL formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKSHEET nesnesini Swift\'de SQL formatındaki dosyaya aktarın" >}}
@@ -56,7 +56,7 @@ WORKSHEET nesnesini elektronik tablodan SQL dosyasına aktarmak karmaşık bir i
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="WORKSHEET\'i SQL\'e aktarmak için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

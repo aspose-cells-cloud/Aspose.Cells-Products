@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF в PDF Конвертировать API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата PDF.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата PDF.
 url: /ru/swift/conversion/gif-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -13,7 +13,7 @@ url: /ar/swift/saveas/xlsx-to-bmp/
 يعد حفظ تنسيقات الملفات من XLSX كـ BMP مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى BMP بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSX كملفات BMP عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج BMP مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق BMP" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

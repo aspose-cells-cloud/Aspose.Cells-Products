@@ -1,18 +1,19 @@
 ﻿---
 title:  Сохраните XLT как DIF, используя Perl.
 description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLT как файла формата DIF.
+kwords: Excel, Save XLT as DIF, REST, Perl
+howto: How to save XLT as DIF using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLT как DIF" h2="Perl библиотека для сохранения XLT в формате DIF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения XLT в формате DIF и других форматов документов в Интернете с помощью Perl." urlsection="saveas/xlt-to-dif/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Сохранить XLT как DIF" h2="Perl библиотека для сохранения XLT в формате DIF" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения XLT в формате DIF и других форматов документов в Интернете с помощью Perl." urlsection="saveas/xlt-to-dif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как DIF в номере Perl." >}}
+{{< blocks/products/cells/cells-cloud-section title="Сохраните файл XLT как DIF в номере Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из XLT в формате DIF — сложная задача. Все переходы формата XLT в DIF выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной таблицы XLT. Наша библиотека Perl — это профессиональное решение для сохранения XLT в виде файлов DIF онлайн. Этот Cloud SDK предоставляет разработчикам Perl мощные функциональные возможности и идеальный вывод в формате DIF.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Пример кода для сохранения XLT как DIF с использованием REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Пример кода для сохранения XLT как DIF с использованием REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -25,21 +26,15 @@ description:  Использование Aspose.Cells Cloud SDK для Perl дл
     $result = $instance->cells_save_as_post_document_save_as(name => $name,save_options => $save_options, newfilename => $newfilename, folder => $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl для сохранения файлов Excel в других форматах XLT как DIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как сохранить XLT в формате DIF, используя библиотеку Cells Cloud Perl." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку Perl и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру Perl.</li>
 <li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

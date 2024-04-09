@@ -1,47 +1,48 @@
 ﻿---
-title:  FODS'yi XLTM'ye dönüştürün via .NET
-description: Cloud API ve Açık Kaynak .NET SDK ile Excel dosyalarını Oluşturun, Düzenleyin veya Dönüştürün
-url: /tr/net/conversion/fods-to-xltm/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: XLTM
-platform: .NET
-otherformats: XLTX XML XPS XLTM XLSM TXT MHTML TIFF ODS CSV SVG MD XLSB TSV PDF FODS 
+title:  C#'i kullanarak FODS'yi XLTM'ye dönüştürün
+description:  FODS formatındaki bir dosyayı XLTM formatındaki bir dosyaya dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Convert FODS to XLTM, REST, C#
+howto: How to convert FODS to XLTM using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Bulutta FODS\'yi XLTM\'ye dönüştürün" h2="Excel ve açık kaynak Cloud SDK ile OpenOffice elektronik tablo dönüşümü for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="FODS\'yi XLTM\'ye dönüştür" h2="FODS\'yi XLTM\'ye dönüştürmek için C# kütüphane" p="Net projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, C#\'i kullanarak FODS\'yi XLTM\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/fods-to-xltm/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=".NET Uygulamalarında FODS\'den XLTM\'ye Dönüşüm" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
-1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
-1. FODS dosyasını ```CellsApi.Upload``` yöntemiyle varsayılan Cloud Storage'a yükleyin
-1. Ortaya çıkan XLTM dosyasını almak için ```CellsApi.CellsSaveAsPostDocumentSaveAs``` yöntemini çağırın
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="C# için Cells Cloud SDK\'yı kullanarak FODS\'yi XLTM\'ye dönüştürün" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Dosya formatlarını FODS'den XLTM'ye dönüştürmek karmaşık bir iş olabilir. C# SDK'mız, kaynak FODS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm FODS'den XLTM formatına dönüşümleri gerçekleştirir. C# kitaplığımız, FODS'yi çevrimiçi olarak XLTM dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, C# geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli XLTM çıktısı sağlar.
 
-{{% blocks/products/pf/agp/feature-section-col title="Excel REST API ile Başlayın" %}}
- Excel Cloud SDK for .NET kaynak kodunu şu adresten alın:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) Alternatif indirme seçenekleri için.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Ayrıca Swagger tabanlıya da bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET FODS\'den XLTM\'ye Dönüşüm Kodu" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Cells Bulut SDK\'yı kullanarak FODS\'yi XLTM\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "xltm";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.xltm", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "xltm";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.xltm";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Net kitaplığını kullanarak FODS\'yi XLTM\'ye nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>C# kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı C#'de açın</li>
+<li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
+<li>NET Framework 4.5.2 veya daha yenisi</li>
+<li>Net Standardı 2.0 veya daha yenisi</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

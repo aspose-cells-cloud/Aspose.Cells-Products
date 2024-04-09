@@ -1,5 +1,5 @@
 ﻿---
-title: Spara SXC som CSV med Java
+title:  Spara SXC som CSV med Java
 description:  Använder Aspose.Cells Cloud SDK for Java för att spara SXC-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

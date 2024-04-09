@@ -1,18 +1,19 @@
 ﻿---
 title:  Сохраните XLSB как TXT с помощью Go.
 description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLSB как файла формата TXT.
+kwords: Excel, Save XLSB as TXT, REST, Go
+howto: How to save XLSB as TXT using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSB как TXT" h2="Библиотека Go для сохранения XLSB как TXT" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения XLSB в формате TXT и других форматов документов онлайн с помощью Go." urlsection="saveas/xlsb-to-txt/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Сохранить XLSB как TXT" h2="Библиотека Go для сохранения XLSB как TXT" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Go. Это профессиональное решение для сохранения XLSB в формате TXT и других форматов документов онлайн с помощью Go." urlsection="saveas/xlsb-to-txt/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как TXT в Go." >}}
+{{< blocks/products/cells/cells-cloud-section title="Сохраните файл XLSB как TXT в Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из XLSB в формате TXT — сложная задача. Все переходы формата XLSB в TXT выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для сохранения файлов XLSB в формате TXT онлайн. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод TXT.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для сохранения XLSB как TXT с использованием REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Пример кода Go для сохранения XLSB как TXT с использованием REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -27,21 +28,15 @@ description:  Использование Aspose.Cells Cloud SDK для Go для
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Go для сохранения файлов Excel в других форматах XLSB как TXT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как сохранить XLSB в формате TXT, используя библиотеку Cloud Go Cells." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку Go и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл в go.</li>
 <li>Используйте метод `PostWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>версия go go1.13.0 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,9 +1,9 @@
 ﻿---
-title:  Guarde el archivo Excel como archivo de otro formato
-description:  Aspose.Cells Cloud REST API habilita los archivos Excel que se guardan en varios formatos y proporcionan SDK para múltiples lenguajes de programación, incluido Android, C#, Go, Java, NodeJs, Perl, PHP, 0761717341, Ruby, y Ruby.
+title: Guarde el archivo Excel como archivo de otro formato
+description:  Aspose.Cells Cloud REST API permite guardar archivos Excel en varios formatos y proporciona SDK para múltiples lenguajes de programación, incluidos Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Guarde el archivo Excel como archivo de otro formato" h2="Aspose.Cells Cloud SDK admite guardar libros en más de 30 formatos de archivo diferentes." p="Aspose.Cells Cloud REST API habilita los archivos Excel que se guardan en varios formatos y proporcionan SDK para múltiples lenguajes de programación, incluido Android, C#, Go, Java, NodeJs, Perl, PHP, 0761717341, Ruby, y Ruby." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guarde el archivo Excel como archivo de otro formato" h2="Aspose.Cells Cloud SDK admite guardar libros en más de 30 formatos de archivo diferentes." p="Aspose.Cells Cloud REST API permite guardar archivos Excel en varios formatos y proporciona SDK para múltiples lenguajes de programación, incluidos Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -17,7 +17,7 @@ description:  Aspose.Cells Cloud REST API habilita los archivos Excel que se gua
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Otro:</b> Pdf, Json, rebajas</li>
@@ -27,7 +27,7 @@ description:  Aspose.Cells Cloud REST API habilita los archivos Excel que se gua
 	<li><b>Microsoft Palabra/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Otro:</b> Pdf, Xps, Dif, Json, Rebaja, Sql</li>

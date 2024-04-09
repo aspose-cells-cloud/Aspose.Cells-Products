@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните ODS в формате CSV с помощью Android
+title:  Сохраните ODS в формате CSV с помощью Android
 description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата ODS в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

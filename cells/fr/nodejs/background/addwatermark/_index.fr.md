@@ -1,5 +1,5 @@
 ﻿---
-title:  Ajouter un filigrane pour le classeur local avec NodeJS dans le Cloud
+title: Ajouter un filigrane pour le classeur local avec NodeJS dans le Cloud
 description:  API et SDK Cloud pour ajouter un filigrane pour Microsoft Excel et OpenOffice Calc avec NodeJS. Ajout d'un filigrane pour les feuilles de calcul locales par le SDK Cells Cloud API pour NodeJS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

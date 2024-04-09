@@ -1,5 +1,5 @@
 ﻿---
-title: قم بتعيين خلفية لملفات Excel باستخدام NodeJS
+title:  قم بتعيين خلفية لملفات Excel باستخدام NodeJS
 description:  Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملفات Excel باستخدام NodeJS، ويقدم مجموعات SDK لمختلف لغات البرمجة.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

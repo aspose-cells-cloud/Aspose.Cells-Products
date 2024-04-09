@@ -1,5 +1,5 @@
 ﻿---
-title: MHTML إلى DIF تحويل API لسويفت
+title: تحويل MHTML إلى DIF API لـ Swift
 description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق MHTML إلى ملف تنسيق DIF.
 url: /ar/swift/conversion/mhtml-to-dif/
 ---

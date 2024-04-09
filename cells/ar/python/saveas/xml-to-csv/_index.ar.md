@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XML بتنسيق CSV باستخدام Python
+title:  احفظ XML بتنسيق CSV باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XML كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

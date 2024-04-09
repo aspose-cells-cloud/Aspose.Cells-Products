@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل NUMBERS إلى CSV باستخدام Android
-description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق CSV.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى CSV" h2="مكتبة Android لتحويل NUMBERS إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Android. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/numbers-to-csv/" >}}

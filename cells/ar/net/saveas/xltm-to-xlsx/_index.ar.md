@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ XLTM كـ XLSX باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLTM كملف بتنسيق XLSX.
+kwords: Excel, Save XLTM as XLSX, REST, C#
+howto: How to save XLTM as XLSX using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ XLTM كـ XLSX" h2="مكتبة C# لحفظ XLTM بصيغة XLSX" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Net. يعد هذا حلاً احترافيًا لحفظ XLTM بتنسيق XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="saveas/xltm-to-xlsx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ XLTM كـ XLSX" h2="مكتبة C# لحفظ XLTM بصيغة XLSX" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Net. يعد هذا حلاً احترافيًا لحفظ XLTM بتنسيق XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="saveas/xltm-to-xlsx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM بتنسيق XLSX في C#" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف XLTM بتنسيق XLSX في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من XLTM بتنسيق XLSX مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLTM إلى XLSX بواسطة C# SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبتنا C# حلاً احترافيًا لحفظ XLTM كملفات XLSX عبر الإنترنت. يوفر Cloud SDK هذا لمطوري C# وظائف قوية ومخرجات XLSX مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# مثال على الكود لحفظ XLTM كـ XLSX باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# مثال على الكود لحفظ XLTM كـ XLSX باستخدام REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -23,22 +24,16 @@ description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بت
     SaveResponse saveResponse = cellsApi.CellsSaveAsPostDocumentSaveAs(name, null, newfilename, null,null,folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لحفظ ملفات Excel بتنسيقات أخرى XLTM مثل XLSX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ XLTM بتنسيق XLSX باستخدام مكتبة Cloud Net Cells." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة C# وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في C#</li>
 <li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
 <li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

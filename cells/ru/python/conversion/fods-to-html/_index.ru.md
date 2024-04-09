@@ -1,56 +1,40 @@
 ﻿---
-title:  Конвертировать из Excel FODS в HTML via Python
-description: Создавайте, редактируйте или конвертируйте файлы Excel с помощью REST API и SDK с открытым исходным кодом Python.
-url: /ru/python/conversion/fods-to-html/
-family: cells
-platformtag: python
-feature: conversion
-informat: FODS
-outformat: HTML
-platform: Python
-otherformats: XLSB MD XLSM MHTML TXT PDF XLTM XML DIF FODS XPS TSV XLSX CSV XLTX SVG 
+title: Преобразуйте FODS в HTML, используя Python.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата FODS в файл формата HTML.
+kwords: Excel, Convert FODS to HTML, REST, Python
+howto: How to convert FODS to HTML using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразуйте FODS в HTML с помощью Python" h2="Чтение, редактирование и экспорт данных Excel в другие форматы с помощью Cloud SDK с открытым исходным кодом для Python." >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Преобразовать FODS в HTML" h2="Python библиотека для конвертации FODS в HTML" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертирования FODS в HTML и другие форматы документов с использованием Python." urlsection="conversion/fods-to-html/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS в HTML Преобразование с Python" %}}
-1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API
-1. Инициализируйте ```CellsApi```, используя идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.
-1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.upload_file```.
-1. Вызовите метод ```CellsApi.cells_save_as_post_document_save_as```, чтобы получить результирующий файл HTML.
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Преобразуйте FODS в HTML с помощью Cloud SDK Cells для Python." >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Преобразование форматов файлов из FODS в HTML может оказаться сложной задачей. Наш SDK Python обрабатывает все преобразования формата FODS в HTML, сохраняя при этом основное структурное и логическое содержимое исходной таблицы FODS. Наша библиотека Python предоставляет профессиональное решение для онлайн-конвертации файлов FODS в файлы HTML. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и обеспечивает высококачественный результат HTML.
 
-{{% blocks/products/pf/agp/feature-section-col title="Начало работы с Excel, API и Python SDK" %}}
- Получите Excel Cloud SDK для исходного кода Python с сайта[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Код Python для преобразования FODS в HTML" gistPath="" %}}
-```python
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
-import os
-import sys
-import asposecellscloud
-from asposecellscloud.apis.cells_api import CellsApi
-api  = asposecellscloud.apis.cells_api.CellsApi(os.getenv('CellsCloudClientId'), os.getenv('CellsCloudClientSecret'), "v3.0" ,os.getenv('CellsCloudApiBaseUrl'))
-
-name ='template.fods'    
-saveOptions = None
-newfilename = "output.html"
-isAutoFitRows= True
-isAutoFitColumns= True
-folder = "temp"
-result = api.upload_file(folder + '/' + name,  "c:/TestData/" + name)
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Пример кода для преобразования FODS в HTML с использованием Cells Cloud SDK" gistPath="" %}}
  
-result = api.cells_save_as_post_document_save_as(name, save_options=saveOptions, newfilename=(folder +'/' + newfilename), is_auto_fit_rows=isAutoFitRows, is_auto_fit_columns=isAutoFitColumns, folder=folder)
+```python
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
+    import os
+    import shutil
+    from asposecellscloud.apis.cells_api import CellsApi
+    cells_api = CellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
+    file1 = cells_api.cells_workbook_put_convert_workbook("Book1.fods",format="html")
+    shutil.move(file1, "destFile.html")     
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как преобразовать FODS в HTML с помощью библиотеки Cells Cloud Python." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Установите библиотеку Python и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру Python.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
+<li>Python 2.7 или новее</li>
+<li>Python 3.10 или новее</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

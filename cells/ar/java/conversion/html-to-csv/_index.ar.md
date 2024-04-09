@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل HTML إلى CSV باستخدام Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق HTML إلى ملف بتنسيق CSV.
+description: استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق HTML إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل HTML إلى CSV" h2="مكتبة Java لتحويل HTML إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل HTML إلى ملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/html-to-csv/" >}}

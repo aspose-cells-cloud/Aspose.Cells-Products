@@ -1,5 +1,5 @@
 ﻿---
-title:  Aggiungi filigrana per la cartella di lavoro locale con PHP nel Cloud
+title: Aggiungi filigrana per la cartella di lavoro locale con PHP nel Cloud
 description:  API e SDK cloud per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con PHP. Aggiunta di filigrana per fogli di calcolo locali tramite l'SDK Cloud API PHP per PHP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

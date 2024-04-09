@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертируйте XLT в CSV, используя PHP.
-description: Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата XLT в файл формата CSV.
+description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата XLT в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLT в CSV" h2="PHP библиотека для конвертации XLT в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертирования XLT в CSV и другие форматы документов с использованием номера PHP." urlsection="conversion/xlt-to-csv/" >}}

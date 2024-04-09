@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için GIF'i DIF'ye dönüştürün API
-description: GIF formatındaki dosyayı DIF formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
+description:  GIF formatındaki dosyayı DIF formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/conversion/gif-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/swift/conversion/gif-to-dif/
 Dosya formatlarını GIF'ten DIF'ye dönüştürmek karmaşık bir iştir. GIF'ten DIF formatına tüm geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, GIF'i çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Swift\'de GIF\'i DIF biçimine dönüştürmek için REST API\'i kullanan kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Swift\'de GIF\'i DIF formatına dönüştürmek için REST API\'i kullanan kod örneği" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,7 +66,7 @@ Dosya formatlarını GIF'ten DIF'ye dönüştürmek karmaşık bir iştir. GIF't
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="GIF\'i DIF\'ye dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

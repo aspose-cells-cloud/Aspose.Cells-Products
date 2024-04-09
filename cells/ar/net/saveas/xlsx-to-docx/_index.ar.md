@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX كـ DOCX باستخدام C#
+title:  احفظ XLSX كـ DOCX باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLSX كملف بتنسيق DOCX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,18 +1,19 @@
 ﻿---
 title: 使用 Java 将 TSV 转换为 XLTX
 description: 利用 Aspose.Cells Cloud SDK for Java 将 TSV 格式文件转换为 XLTX 格式文件。
+kwords: Excel, Convert TSV to XLTX, REST, Java
+howto: How to convert TSV to XLTX using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 TSV 转换为 XLTX" h2="Java 用于将 TSV 转换为 XLTX 的库" p="使用 Cells 云的转换 API 在 Java 项目中创建自定义电子表格工作流程。这是使用 Java 在线将 TSV 转换为 XLTX 和其他文档格式的专业解决方案。" urlsection="conversion/tsv-to-xltx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 TSV 转换为 XLTX" h2="Java 用于将 TSV 转换为 XLTX 的库" p="使用 Cells 云的转换 API 在 Java 项目中创建自定义电子表格工作流程。这是使用 Java 在线将 TSV 转换为 XLTX 和其他文档格式的专业解决方案。" urlsection="conversion/tsv-to-xltx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK 将 TSV 转换为 XLTX for Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK 将 TSV 转换为 XLTX for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 将文件格式从 TSV 转换为 XLTX 可能是一项复杂的任务。我们的 Java SDK 处理所有 TSV 到 XLTX 格式的转换，同时保留源 TSV 电子表格的主要结构和逻辑内容。我们的 Java 库提供了在线将 TSV 转换为 XLTX 文件的专业解决方案。该Cloud SDK为Java开发者提供了强大的功能，并确保高质量的XLTX输出。
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java 使用 Cells Cloud SDK 将 TSV 转换为 XLTX 的代码示例" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java 使用 Cells Cloud SDK 将 TSV 转换为 XLTX 的代码示例" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -43,22 +44,16 @@ description: 利用 Aspose.Cells Cloud SDK for Java 将 TSV 格式文件转换�
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Java将Excel文件转换为其他格式 TSV转XLTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="了解如何使用 Cells Cloud Java 库将 TSV 转换为 XLTX。" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>安装 Java 库并将引用（导入库）添加到您的项目中。</li>
+<li>打开Java中的源文件。</li>
 <li>使用 `putConvertWorkbook` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
 <li>Maven 2.2.0 或更高版本</li>
 <li>Java(TM) SE 运行时环境</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Excel dosyasını C# kullanarak diğer formatlarda kaydedin
-description: Aspose.Cells Cloud REST API, C# kullanılarak Excel dosyasının çeşitli formatlarda kaydedilmesini destekler ve birden fazla programlama dili için SDK'lar sunar.
+description:  Aspose.Cells Cloud REST API, C# kullanılarak Excel dosyasının çeşitli formatlarda kaydedilmesini destekler ve birden fazla programlama dili için SDK'lar sunar.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Excel dosyasını C# kullanarak diğer formatlarda kaydedin" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının 30\'dan fazla farklı dosya biçiminde kaydedilmesini destekler." p="Aspose.Cells Cloud REST API, C# kullanılarak Excel dosyasının çeşitli formatlarda kaydedilmesini destekler ve birden fazla programlama dili için SDK\'lar sunar." urlsection="saveas/" >}}

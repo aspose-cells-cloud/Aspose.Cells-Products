@@ -1,51 +1,47 @@
 ﻿---
-title:  Convierta FODS a PDF en la nube via PHP
-description: Cree, edite o convierta archivos Excel con REST API y Open Source PHP SDK
-url: /es/php/conversion/fods-to-pdf/
-family: cells
-platformtag: php
-feature: conversion
-informat: FODS
-outformat: PDF
-platform: PHP
-otherformats: DIF XPS XLT HTML TXT MHTML PDF CSV TSV XLTM XLSB XML XLTX ODS SVG TIFF 
+title: Convierta FODS a PDF usando PHP
+description:  Utilizar el SDK de la nube Aspose.Cells para PHP para convertir un archivo de formato FODS a un archivo de formato PDF.
+kwords: Excel, Convert FODS to PDF, REST, PHP
+howto: How to convert FODS to PDF using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta FODS a PDF con PHP" h2="Automatice la conversión de archivos Excel y OpenOffice con el SDK de nube de código abierto para PHP" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS a PDF" h2="Biblioteca PHP para convertir FODS a PDF" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en PHP proyectos. Esta es una solución profesional para convertir FODS a PDF y otros formatos de documentos en línea usando PHP." urlsection="conversion/fods-to-pdf/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Convierta rápidamente FODS a PDF via PHP" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
-1. Cargue el archivo FODS al Cloud Storage predeterminado con el método ```CellsApi.uploadFile```
-1. Llame al ```CellsApi.cellsSaveAsPostDocumentSaveAs``` para obtener el archivo PDF resultante
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta FODS a PDF usando Cells Cloud SDK para PHP" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Convertir formatos de archivo de FODS a PDF puede ser una tarea compleja. Nuestro SDK PHP maneja todas las conversiones de formato FODS a PDF y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo FODS de origen. Nuestra biblioteca PHP proporciona una solución profesional para convertir archivos FODS a PDF en línea. Este SDK de nube brinda a los desarrolladores de PHP una potente funcionalidad y garantiza resultados de PDF de alta calidad.
 
-{{% blocks/products/pf/agp/feature-section-col title="Comience con Excel API y PHP SDK" %}}
- Obtenga Excel Cloud SDK para el código fuente PHP de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- También eche un vistazo a Basado en Swagger[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Código PHP para conversión de FODS a PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Ejemplo de código para convertir FODS a PDF usando Cells Cloud SDK" gistPath="" %}}
+ 
 ```php
-
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php
-
-$name ='template.fods';    
-$saveOptions = null;
-$newfilename = "output.pdf";
-$isAutoFitRows= 'true';
-$isAutoFitColumns= 'true';
-$folder = "Temp";
-CellsApi::ready( $this->instance, $name, $folder );
-$result = $this->instance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename, $isAutoFitRows, $isAutoFitColumns, $folder);
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
+    <?php
+    require_once('vendor\autoload.php');
+    use \Aspose\Cells\Cloud\Api\CellsApi;
+    $instance = new CellsApi(getenv("ProductClientId"),getenv("ProductClientSecret"));
+    $path ='Book1.fods';    
+    $format ='pdf';
+    $password = null;
+    $outPath = null;      
+    $result = $this->instance->cellsWorkbookPutConvertWorkBook($path ,$format, $password,  $outPath);
+    $size = $result->getSize();
+    $content  = $result->fread($size);
+    $file = fopen("destfile.pdf", 'w');
+    fwrite($file,$content);
+    fclose($file);
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir FODS a PDF usando la biblioteca Cells Cloud PHP." >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Instale la biblioteca PHP y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en PHP.</li>
+<li>Utilice el método `putConvertWorkbook` para recuperar la secuencia resultante.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
+<li>PHP 7.4 o más reciente</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

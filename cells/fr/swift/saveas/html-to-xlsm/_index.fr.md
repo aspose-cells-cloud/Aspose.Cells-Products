@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez HTML sous XLSM API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML au format XLSM.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML au format XLSM.
 url: /fr/swift/saveas/html-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

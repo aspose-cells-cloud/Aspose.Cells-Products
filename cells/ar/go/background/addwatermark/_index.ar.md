@@ -1,6 +1,6 @@
 ﻿---
 title:  أضف علامة مائية للمصنف المحلي باستخدام Go in Cloud
-description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لإضافة علامة مائية لـ Microsoft Excel وOpenOffice Calc مع Go. إضافة علامة مائية لجداول البيانات المحلية بواسطة Cells Cloud API SDK for Go.
+description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لإضافة علامة مائية لـ Microsoft Excel وOpenOffice Calc مع Go. إضافة علامة مائية لجداول البيانات المحلية بواسطة Cells Cloud API SDK for Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لإضافة علامة مائية لجدول بيانات Microsoft المحلي وExcel وOpenOffice Calc" h2="انتقل إلى المكتبة لإضافة علامة مائية لجدول بيانات Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Watermark REST API لإضافة علامة مائية لسير عمل جدول بيانات Microsoft Excel المحلي وOpenOffice Calc في Go. يضيف هذا الحل الاحترافي علامة مائية لـ Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام Go." urlsection="background/Add-watermark/" >}}

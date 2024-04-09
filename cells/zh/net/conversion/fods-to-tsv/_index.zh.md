@@ -1,47 +1,48 @@
 ﻿---
-title: 将 FODS 转换为 TSV via .NET
-description: 使用 Cloud API 和开源 .NET SDK 创建、编辑或转换 Excel 文件
-url: /zh/net/conversion/fods-to-tsv/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: TSV
-platform: .NET
-otherformats: MHTML DIF ODS XPS XLS XLSX XLSM TXT TIFF TSV XLTM MD PDF CSV FODS XLSB 
+title: 使用 C# 将 FODS 转换为 TSV
+description: 利用Aspose.Cells Cloud SDK for C#将FODS格式文件转换为TSV格式文件。
+kwords: Excel, Convert FODS to TSV, REST, C#
+howto: How to convert FODS to TSV using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="在云端将 FODS 转换为 TSV" h2="Excel & 使用开源 Cloud SDK 进行 OpenOffice 电子表格转换 for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 FODS 转换为 TSV" h2="C# 用于将 FODS 转换为 TSV 的库" p="使用 Cells 云的转换 API 在 Net 项目中创建自定义电子表格工作流程。这是使用 C# 在线将 FODS 转换为 TSV 和其他文档格式的专业解决方案。" urlsection="conversion/fods-to-tsv/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=".NET 应用程序中的 FODS 到 TSV 转换" %}}
-1. 创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息
-1. 使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 ```CellsApi```
-1. 使用 ```CellsApi.Upload``` 方法将 FODS 文件上传到默认云存储
-1. 调用```CellsApi.CellsSaveAsPostDocumentSaveAs```方法获取生成的TSV文件
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for C# 将 FODS 转换为 TSV" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+将文件格式从 FODS 转换为 TSV 可能是一项复杂的任务。我们的 C# SDK 处理所有 FODS 到 TSV 格式的转换，同时保留源 FODS 电子表格的主要结构和逻辑内容。我们的 C# 库提供了在线将 FODS 转换为 TSV 文件的专业解决方案。该Cloud SDK为C#开发者提供了强大的功能，并确保高质量的TSV输出。
 
-{{% blocks/products/pf/agp/feature-section-col title="开始使用 Excel REST API" %}}
-获取 Excel Cloud SDK for .NET 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet)自己编译 SDK 或前往[发布](https://releases.aspose.cloud/)以获得替代下载选项。
+{{< /blocks/products/cells/cells-cloud-section >}}
 
-另请查看基于 Swagger 的[API 参考](https://apireference.aspose.cloud/cells/)了解更多关于[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET FODS 到 TSV 转换代码" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# 使用 Cells Cloud SDK 将 FODS 转换为 TSV 的代码示例" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "tsv";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.tsv", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "tsv";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.tsv";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="了解如何使用 Cells Cloud Net 库将 FODS 转换为 TSV。" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>安装 C# 库并将引用（导入库）添加到您的项目中。</li>
+<li>打开C#中的源文件</li>
+<li>使用 `PutConvertWorkbook` 方法检索结果流。</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
+<li>NET Framework 4.5.2 或更高版本</li>
+<li>网络标准 2.0 或更高版本</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

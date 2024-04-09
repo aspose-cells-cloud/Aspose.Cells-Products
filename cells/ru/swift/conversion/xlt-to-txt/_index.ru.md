@@ -10,7 +10,7 @@ url: /ru/swift/conversion/xlt-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLT в TXT в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в TXT — сложная задача. Все переходы формата XLT в TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов XLT в TXT. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из XLT в TXT — сложная задача. Все переходы формата XLT в TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLT в TXT. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLT в формат TXT" gistPath="" %}}

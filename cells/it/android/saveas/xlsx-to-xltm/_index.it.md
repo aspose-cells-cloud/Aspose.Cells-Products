@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSX come XLTM utilizzando Android
-description: Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato XLTM.
+description:  Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato XLTM.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLSX come XLTM" h2="Libreria Android per salvare XLSX come XLTM" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Android. Questa è una soluzione professionale per salvare XLSX come XLTM e altri formati di documenti online utilizzando Android." urlsection="saveas/xlsx-to-xltm/" >}}

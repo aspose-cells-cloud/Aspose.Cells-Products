@@ -1,6 +1,6 @@
 ﻿---
-title: Сохраните TXT в формате CSV, используя Python.
-description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата TXT в формате CSV.
+title:  Сохраните TXT в формате CSV, используя Python.
+description: Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата TXT в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить TXT как CSV" h2="Python библиотека для сохранения TXT в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Python. Это профессиональное решение для сохранения TXT в формате CSV и других форматов документов в Интернете с помощью Python." urlsection="saveas/txt-to-csv/" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON till EMF Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i JSON-format till fil i EMF-format.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i JSON-format till fil i EMF-format.
 url: /sv/swift/conversion/json-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

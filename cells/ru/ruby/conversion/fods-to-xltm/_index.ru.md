@@ -1,66 +1,41 @@
 ﻿---
-title:  Конвертировать из Excel FODS в XLTM via Рубин
-description: Создавайте, редактируйте или конвертируйте файлы Excel с помощью REST API и Ruby SDK с открытым исходным кодом.
-url: /ru/ruby/conversion/fods-to-xltm/
-family: cells
-platformtag: ruby
-feature: conversion
-informat: FODS
-outformat: XLTM
-platform: Ruby
-otherformats: TXT TIFF CSV XLSX ODS DIF MHTML XLTM FODS PDF MD XLSM SVG XLTX TSV XML 
+title: Конвертируйте FODS в XLTM с помощью Ruby
+description:  Использование Cloud SDK Aspose.Cells для Ruby для преобразования файла формата FODS в файл формата XLTM.
+kwords: Excel, Convert FODS to XLTM, REST, Ruby
+howto: How to convert FODS to XLTM using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование FODS в XLTM с помощью Ruby" h2="Чтение, редактирование и экспорт данных Excel в другие форматы с помощью Cloud SDK с открытым исходным кодом для Ruby." >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать FODS в XLTM" h2="Библиотека Ruby для конвертации FODS в XLTM" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Ruby. Это профессиональное решение для онлайн-конвертации FODS в XLTM и другие форматы документов с помощью Ruby." urlsection="conversion/fods-to-xltm/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Преобразование FODS в XLTM с помощью Ruby" %}}
-1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API
-1. Инициализируйте ```CellsApi```, используя идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.
-1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.upload_file```.
-1. Вызовите метод ```CellsApi.cells_save_as_post_document_save_as```, чтобы получить результирующий файл XLTM.
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Преобразование FODS в XLTM с помощью Cloud SDK Cells для Ruby" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Преобразование форматов файлов из FODS в XLTM может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования форматов FODS в XLTM, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы FODS. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертирования файлов FODS в файлы XLTM. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод XLTM.
 
-{{% blocks/products/pf/agp/feature-section-col title="Начните с Excel API и Ruby SDK" %}}
-Получите исходный код Cloud SDK для Ruby Excel на сайте[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Код Ruby для преобразования FODS в XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Пример кода Ruby для преобразования FODS в XLTM с использованием Cloud SDK Cells" gistPath="" %}}
+ 
 ```ruby
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
-
-require 'aspose_cells_cloud'
-
-class Workbook
-  include AsposeCellsCloud
-  def initialize
-    @instance =  AsposeCellsCloud::CellsApi.new($client_id, $client_secret, $api_version, $baseurl) 
-  end
-  
-  # Convert document and save result to storage
-  def post_document_save_as
-    name = $BOOK1
-    save_options = nil
-    newfilename = 'output.xltm'
-    is_auto_fit_rows = true
-    is_auto_fit_columns = true
-    folder = $TEMPFOLDER
-    result = @instance.upload_file( folder + "/" + name, ::File.open(File.expand_path("data/" + name), "r") {|io| io.read(io.size) })
-    expect(result.uploaded.size).to  be > 0
-    result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder + "/" + newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
-  end
-end
-
-workbook = Workbook.new()
-puts workbook.post_document_save_as
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
+    describe 'cells_save_as_post_document_save_as test' do
+        it "should work" do
+            @instance = AsposeCellsCloud::CellsApi.new($client_id,$client_secret,"v3.0","https://api.aspose.cloud/")
+            name = "BOOK1.fods"
+            format = 'xltm'
+            @instance.cells_workbook_put_convert_workbook( ::File.open(File.expand_path("data/"+name),"r")  {|io| io.read(io.size) },{:format=>format})     
+        end
+    end
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как преобразовать FODS в XLTM с помощью библиотеки Cloud Ruby Cells." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Установите библиотеку Ruby и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл в Ruby.</li>
+<li>Используйте метод `put_convert_workbook` для получения результирующего потока.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
+<li>рубин 2.5 или новее</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

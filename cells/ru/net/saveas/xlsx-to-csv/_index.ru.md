@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSX как CSV, используя C#.
+title:  Сохраните XLSX как CSV, используя C#.
 description:  Использование Cloud SDK Aspose.Cells для C# для сохранения файла формата XLSX в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

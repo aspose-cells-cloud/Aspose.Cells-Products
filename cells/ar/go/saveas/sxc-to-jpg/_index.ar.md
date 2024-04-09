@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ SXC بتنسيق JPG باستخدام Go
 description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق SXC كملف بتنسيق JPG.
+kwords: Excel, Save SXC as JPG, REST, Go
+howto: How to save SXC as JPG using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ SXC بصيغة JPG" h2="اذهب إلى المكتبة لحفظ SXC بصيغة JPG" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ SXC بتنسيق JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/sxc-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ SXC بصيغة JPG" h2="اذهب إلى المكتبة لحفظ SXC بصيغة JPG" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Go. يعد هذا حلاً احترافيًا لحفظ SXC بتنسيق JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="saveas/sxc-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC بتنسيق JPG في Go" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف SXC بتنسيق JPG في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من SXC بتنسيق JPG مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق SXC إلى JPG بواسطة Go SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ SXC كملفات JPG عبر الإنترنت. يمنح Cloud SDK لمطوري Go وظائف قوية ومخرجات JPG مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="اذهب إلى مثال الكود لحفظ SXC بتنسيق JPG باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="اذهب إلى مثال الكود لحفظ SXC بتنسيق JPG باستخدام REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -27,21 +28,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بت
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Go لحفظ ملفات Excel بتنسيقات أخرى SXC مثل JPG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ SXC بتنسيق JPG باستخدام مكتبة Cells Cloud Go." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة Go وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في الذهاب.</li>
 <li>استخدم طريقة `PostWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>انتقل إلى الإصدار go1.13.0 أو الأحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

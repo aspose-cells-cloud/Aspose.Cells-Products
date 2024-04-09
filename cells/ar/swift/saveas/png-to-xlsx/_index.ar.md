@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ XLSX API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق PNG كملف بتنسيق XLSX.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق PNG كملف بتنسيق XLSX.
 url: /ar/swift/saveas/png-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

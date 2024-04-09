@@ -1,7 +1,7 @@
 ﻿---
-title:  Soluciones de procesamiento de hojas de cálculo (API REST de escritorio y en la nube)
-description:  API locales y en la nube para mejorar sin problemas sus aplicaciones nativas, web y en la nube para brindar funcionalidad de procesamiento de hojas de cálculo
-weight: 30
+title: Aspose.Cells ligero en la nube y API local para el procesamiento de tablas Excel
+description: Aspose.Cells Cloud ofrece una variedad de SDK en varios lenguajes de programación, simplifica el acceso a Aspose.Cells REST API y mejora el rendimiento a través de su diseño liviano.
+weight: 50
 url: /es/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

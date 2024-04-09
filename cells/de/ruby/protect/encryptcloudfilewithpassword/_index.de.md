@@ -17,7 +17,7 @@ Der Schutz einer Cloud-Tabelle mit einem Passwort ist eine komplexe Aufgabe. Der
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby zum Verschlüsseln der Excel-Datei" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Ruby zum Verschlüsseln der Excel-Datei" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufzellen_Arbeitsmappe_Post_Verschlüsseln_document-Methode, um den resultierenden Stream zu erhalten</li>

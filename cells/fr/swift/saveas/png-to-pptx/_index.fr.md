@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez PNG sous le nom PPTX API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG en tant que fichier au format PPTX.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG en tant que fichier au format PPTX.
 url: /fr/swift/saveas/png-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

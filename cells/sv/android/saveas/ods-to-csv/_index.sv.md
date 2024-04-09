@@ -1,5 +1,5 @@
 ﻿---
-title: Spara ODS som CSV med Android
+title:  Spara ODS som CSV med Android
 description:  Använder Aspose.Cells Cloud SDK för Android för att spara ODS-formatfil som CSV-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -9,7 +9,7 @@ description:  Använder Aspose.Cells Cloud SDK för Android för att spara ODS-f
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en ODS-fil som CSV i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från ODS som CSV är en komplex uppgift. Alla ODS- till CSV-formatövergångar utförs av vår Android-SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara ODS som CSV-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Att spara filformat från ODS som CSV är en komplex uppgift. Alla ODS till CSV-formatövergångar utförs av vår Android SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara ODS som CSV-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att spara ODS som CSV med REST API" gistPath="" %}}

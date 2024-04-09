@@ -3,7 +3,7 @@ title:  قم بإزالة الأعمدة الفارغة من المصنف الم
 description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الأعمدة الفارغة على Microsoft Excel وOpenOffice Calc. مسح الأعمدة الفارغة في جداول البيانات المحلية بواسطة Cells Cloud API. يدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الأعمدة الفارغة من Microsoft Excel وجداول بيانات OpenOffice Calc المحلية." h2="مكتبة Perl لإزالة الأعمدة الفارغة من Microsoft المحلية وExcel وجداول بيانات OpenOffice Calc." p="استخدم Cells مسح REST API لمسح الأعمدة الفارغة على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Perl. يقوم هذا الحل الاحترافي بمسح الأعمدة الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc باستخدام Perl ." urlsection="clear/Blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الأعمدة الفارغة من Microsoft Excel وجداول بيانات OpenOffice Calc المحلية." h2="مكتبة Perl لإزالة الأعمدة الفارغة من Microsoft المحلية وExcel وجداول بيانات OpenOffice Calc." p="استخدم Cells Clear REST API لمسح الأعمدة الفارغة على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Perl. يقوم هذا الحل الاحترافي بمسح الأعمدة الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc باستخدام Perl." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الأعمدة الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc - Perl REST API" >}}

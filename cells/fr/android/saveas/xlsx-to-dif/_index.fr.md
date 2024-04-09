@@ -1,5 +1,5 @@
 ﻿---
-title: Enregistrer XLSX au format DIF avec Android
+title:  Enregistrer XLSX au format DIF avec Android
 description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLSX au format DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

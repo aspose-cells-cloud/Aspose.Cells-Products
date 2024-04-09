@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie ODS als CSV mit Android
+title:  Speichern Sie ODS als CSV mit Android
 description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von ODS-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

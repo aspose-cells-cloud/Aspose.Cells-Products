@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLTX в формате CSV, используя Python.
+title:  Сохраните XLTX в формате CSV, используя Python.
 description:  Использование Cloud SDK Aspose.Cells для Python для сохранения файла формата XLTX в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

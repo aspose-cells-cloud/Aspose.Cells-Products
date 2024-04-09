@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir ODS en CSV à l'aide de Ruby
-description: Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format ODS en fichier au format CSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format ODS en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir ODS en CSV" h2="Bibliothèque Ruby pour convertir ODS en CSV" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Ruby. Il s\'agit d\'une solution professionnelle pour convertir ODS en CSV et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/ods-to-csv/" >}}

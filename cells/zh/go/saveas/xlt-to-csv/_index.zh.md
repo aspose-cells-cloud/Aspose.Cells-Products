@@ -6,7 +6,7 @@ description: 利用Aspose.Cells Cloud SDK for Go将XLT格式文件保存为CSV�
 {{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLT 保存为 CSV" h2="用于将 XLT 保存为 CSV 的 Go 库" p="使用 Cells Cloud 的 SaveAs API 在 Go 中创建自定义电子表格工作流程。这是使用 Go 在线将 XLT 保存为 CSV 和其他文档格式的专业解决方案。" urlsection="saveas/xlt-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 XLT 文件保存为 CSV" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 XLT 文件另存为 CSV" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 将 XLT 文件格式保存为 CSV 是一项复杂的任务。所有 XLT 到 CSV 格式的转换均由我们的 Go SDK 执行，同时保留源 XLT 电子表格的主要结构和逻辑内容。我们的 Go 库是在线将 XLT 保存为 CSV 文件的专业解决方案。这个Cloud SDK为Go开发者提供了强大的功能和完美的CSV输出。

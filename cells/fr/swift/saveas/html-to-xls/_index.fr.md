@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez HTML sous XLS API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML au format XLS.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format HTML au format XLS.
 url: /fr/swift/saveas/html-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

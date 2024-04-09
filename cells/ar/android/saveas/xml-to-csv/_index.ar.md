@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XML بتنسيق CSV باستخدام Android
+title:  احفظ XML بتنسيق CSV باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XML كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

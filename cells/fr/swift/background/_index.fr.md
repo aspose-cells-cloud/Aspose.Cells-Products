@@ -1,6 +1,6 @@
 ﻿---
 title:  Définir l'arrière-plan à l'aide de Swift
-description: Aspose.Cells Cloud REST API prend en charge la définition de l'arrière-plan du fichier Excel à l'aide de Swift. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+description:  Aspose.Cells Cloud REST API prend en charge la définition de l'arrière-plan du fichier Excel à l'aide de Swift. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

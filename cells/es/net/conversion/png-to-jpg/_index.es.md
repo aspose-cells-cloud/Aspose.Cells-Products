@@ -1,18 +1,19 @@
 ﻿---
 title:  Convierta PNG a JPG usando C#
 description:  Utilizar el SDK de la nube Aspose.Cells para C# para convertir un archivo de formato PNG a un archivo de formato JPG.
+kwords: Excel, Convert PNG to JPG, REST, C#
+howto: How to convert PNG to JPG using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir PNG a JPG" h2="Biblioteca C# para convertir PNG a JPG" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Net. Esta es una solución profesional para convertir PNG a JPG y otros formatos de documentos en línea usando C#." urlsection="conversion/png-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir PNG a JPG" h2="Biblioteca C# para convertir PNG a JPG" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Net. Esta es una solución profesional para convertir PNG a JPG y otros formatos de documentos en línea usando C#." urlsection="conversion/png-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta PNG a JPG usando Cells Cloud SDK para C#" >}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta PNG a JPG usando Cells Cloud SDK para C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de PNG a JPG puede ser una tarea compleja. Nuestro SDK C# maneja todas las conversiones de formato PNG a JPG preservando al mismo tiempo el contenido estructural y lógico principal de la hoja de cálculo PNG de origen. Nuestra biblioteca C# proporciona una solución profesional para convertir archivos PNG a JPG en línea. Este SDK de nube brinda a los desarrolladores C# una potente funcionalidad y garantiza una salida JPG de alta calidad.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# Ejemplo de código para convertir PNG a JPG usando Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Ejemplo de código para convertir PNG a JPG usando Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -32,22 +33,16 @@ Convertir formatos de archivo de PNG a JPG puede ser una tarea compleja. Nuestro
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK for Net para convertir archivos Excel a otros formatos PNG a JPG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir PNG a JPG usando la biblioteca Cells Cloud Net." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale la biblioteca C# y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en C#</li>
 <li>Utilice el método `PutConvertWorkbook` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>NET Framework 4.5.2 o más reciente</li>
 <li>Net Standard 2.0 o posterior</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

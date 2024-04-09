@@ -1,9 +1,9 @@
 ﻿---
-title:  Сохраните файл Excel как файл другого формата.
-description:  Aspose.Cells Cloud REST API позволяет сохранять файлы Excel в различных форматах и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift. .
+title: Сохраните файл Excel как файл другого формата.
+description:  Aspose.Cells Cloud REST API позволяет сохранять файлы Excel в различных форматах и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохраните файл Excel как файл другого формата." h2="Aspose.Cells Cloud SDK поддерживает сохранение книг в более чем 30 различных форматах файлов." p="Aspose.Cells Cloud REST API позволяет сохранять файлы Excel в различных форматах и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift. ." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохраните файл Excel как файл другого формата." h2="Aspose.Cells Cloud SDK поддерживает сохранение книг в более чем 30 различных форматах файлов." p="Aspose.Cells Cloud REST API позволяет сохранять файлы Excel в различных форматах и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

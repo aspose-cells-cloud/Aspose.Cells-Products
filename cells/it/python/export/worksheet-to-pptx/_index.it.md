@@ -1,18 +1,19 @@
 ﻿---
 title:  Esporta FOGLIO DI LAVORO in PPTX da Excel utilizzando Cells Cloud SDK per Python
 description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta FOGLIO DI LAVORO in PPTX da Excel" h2="Python libreria per esportare FOGLIO DI LAVORO in file PPTX" p="Utilizza Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Python. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato PPTX dal foglio di calcolo online utilizzando Python." urlsection="export/worksheet-to-pptx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Esporta FOGLIO DI LAVORO in PPTX da Excel" h2="Python libreria per esportare FOGLIO DI LAVORO in file PPTX" p="Utilizza Esporta API di Cells Cloud per esportare i flussi di lavoro degli oggetti interni del file Excel in Python. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato PPTX dal foglio di calcolo online utilizzando Python." urlsection="export/worksheet-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto FOGLIO DI LAVORO nel file in formato PPTX utilizzando Cells Cloud SDK per Python" >}}
+{{< blocks/products/cells/cells-cloud-section title="Esporta l\'oggetto FOGLIO DI LAVORO nel file in formato PPTX utilizzando Cells Cloud SDK per Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Esportare l'oggetto FOGLIO DI LAVORO nel file PPTX dal file Excel è un'attività complessa. L'esportazione delle transizioni del formato WORKSHEET nel formato PPTX viene eseguita dal nostro SDK Python mantenendo il contenuto strutturale e logico principale del foglio di calcolo WORKSHEET di origine. La nostra libreria Python è una soluzione professionale per esportare oggetti FOGLIO DI LAVORO in file in formato PPTX online. Questo Cloud SDK offre agli sviluppatori Python funzionalità potenti e un output PPTX perfetto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Python utilizzando REST API per esportare FOGLIO DI LAVORO in formato PPTX dal foglio di calcolo" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Esempio di codice in Python utilizzando REST API per esportare FOGLIO DI LAVORO in formato PPTX dal foglio di calcolo" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -33,22 +34,15 @@ Esportare l'oggetto FOGLIO DI LAVORO nel file PPTX dal file Excel è un'attivit�
     f.close()    
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Python per esportare oggetti da Excel WORKSHEET a PPTX" >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
 <li>Chiama il metodo post_export per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>Python 2.7 o successiva</li>
 <li>Python 3.10 o successiva</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

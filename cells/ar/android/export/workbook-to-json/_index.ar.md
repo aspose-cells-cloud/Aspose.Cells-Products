@@ -12,7 +12,7 @@ description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات ب�
 يعد تصدير كائن WORKBOOK إلى ملف JSON من ملف Excel مهمة معقدة. يتم تنفيذ عمليات تصدير WORKBOOK إلى تنسيق JSON بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق JSON عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات JSON مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال للتعليمات البرمجية في Android باستخدام REST API لتصدير WORKBOOK إلى تنسيق JSON من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Android باستخدام REST API لتصدير WORKBOOK إلى تنسيق JSON من جدول البيانات" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -50,7 +50,7 @@ description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات ب�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتصدير الكائنات من كتاب العمل Excel إلى JSON" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لتصدير الكائنات من مصنف Excel إلى JSON" >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
 <li>استخدم طريقة `postExport` لاسترداد الدفق الناتج.</li>

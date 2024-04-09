@@ -10,7 +10,7 @@ url: /de/swift/saveas/gif-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als XML in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus GIF als XML ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XML-Format werden von unserem Swift SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-GIF-Tabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung, um GIF als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
+Das Speichern von GIF-Dateiformaten als XML ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XML-Format werden von unserem Swift SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-GIF-Tabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung, um GIF als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von GIF im XML-Format" gistPath="" %}}

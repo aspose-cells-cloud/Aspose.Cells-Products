@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование JSON в DOCX API для Swift
-description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата DOCX.
+title:  Преобразование JSON в DOCX API для Swift
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата JSON в файл формата DOCX.
 url: /ru/swift/conversion/json-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /ar/swift/saveas/tsv-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV باسم SVG في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TSV بالرقم SVG مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من TSV إلى SVG بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ TSV كملفات SVG عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج SVG مثاليًا.
+يعد حفظ تنسيقات الملفات من TSV بالرقم SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى SVG بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ TSV كملفات SVG عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج SVG مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لحفظ TSV بتنسيق SVG" gistPath="" %}}

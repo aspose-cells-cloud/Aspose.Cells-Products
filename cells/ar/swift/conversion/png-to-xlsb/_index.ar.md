@@ -1,6 +1,6 @@
 ﻿---
-title: PNG إلى XLSB تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق PNG إلى ملف بتنسيق XLSB.
+title:  PNG إلى XLSB تحويل API لـ Swift
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق PNG إلى ملف بتنسيق XLSB.
 url: /ar/swift/conversion/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

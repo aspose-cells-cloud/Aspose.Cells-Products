@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как JPG API для Swift.
-description: Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата CSV в формате JPG.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата CSV в формате JPG.
 url: /ru/swift/saveas/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

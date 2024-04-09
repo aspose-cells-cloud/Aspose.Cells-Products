@@ -1,18 +1,19 @@
 ﻿---
 title: Exportieren Sie ARBEITSBLATT von Excel nach EMF mit Cells Cloud SDK for Java
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie das Arbeitsblatt von Excel nach EMF" h2="Java-Bibliothek zum Exportieren von WORKSHEET in die EMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel-Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um ARBEITSBLATT online aus einer Tabellenkalkulation in eine EMF-Formatdatei mit Java zu exportieren." urlsection="export/worksheet-to-emf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie das Arbeitsblatt von Excel nach EMF" h2="Java-Bibliothek zum Exportieren von WORKSHEET in die EMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel-Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um ARBEITSBLATT online aus einer Tabellenkalkulation in eine EMF-Formatdatei mit Java zu exportieren." urlsection="export/worksheet-to-emf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im Format EMF mit dem Cloud SDK for Java Cells" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im Format EMF mit dem Cloud SDK for Java Cells" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in die Datei EMF ist eine komplexe Aufgabe. Formatübergänge beim Exportieren von WORKSHEET in das EMF-Format werden von unserem Java SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im EMF-Format. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und eine perfekte EMF Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Exportieren von WORKSHEET in das EMF-Format aus der Tabellenkalkulation" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Java mit REST API zum Exportieren von WORKSHEET in das EMF-Format aus der Tabellenkalkulation" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,22 +48,15 @@ Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in die Datei EMF ist
     }
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um Objekte von Excel WORKSHEET nach EMF zu exportieren" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
 <li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

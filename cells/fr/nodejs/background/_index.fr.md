@@ -1,5 +1,5 @@
 ﻿---
-title: Définir un arrière-plan pour les fichiers Excel à l'aide de NodeJS
+title:  Définir un arrière-plan pour les fichiers Excel à l'aide de NodeJS
 description:  Aspose.Cells Cloud REST API prend en charge la définition de l'arrière-plan des fichiers Excel à l'aide de NodeJS et propose des SDK pour divers langages de programmation.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

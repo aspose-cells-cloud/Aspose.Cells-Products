@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ PPTX API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق HTML كملف تنسيق PPTX.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق HTML كملف تنسيق PPTX.
 url: /ar/swift/saveas/html-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

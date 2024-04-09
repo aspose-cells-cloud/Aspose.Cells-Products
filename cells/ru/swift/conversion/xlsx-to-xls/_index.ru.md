@@ -1,5 +1,5 @@
 ﻿---
-title:  Конвертировать XLSX в XLS API для Swift
+title:  Преобразование XLSX в XLS API для Swift
 description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLSX в файл формата XLS.
 url: /ru/swift/conversion/xlsx-to-xls/
 ---

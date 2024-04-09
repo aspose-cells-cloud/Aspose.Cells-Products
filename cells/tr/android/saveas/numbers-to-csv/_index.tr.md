@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS'ı Android kullanarak CSV olarak kaydedin
-description: NUMBERS biçimindeki dosyayı CSV biçimindeki dosya olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
+description:  NUMBERS biçimindeki dosyayı CSV biçimindeki dosya olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı CSV olarak kaydet" h2="NUMBERS\'ı CSV olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, Android kullanarak NUMBERS\'ı CSV ve diğer belge formatlarında çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/numbers-to-csv/" >}}
@@ -35,7 +35,7 @@ NUMBERS dosyasındaki dosya biçimlerini CSV olarak kaydetmek karmaşık bir iş
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyayı diğer NUMBERS biçimlerde CSV olarak kaydetmek için Android için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

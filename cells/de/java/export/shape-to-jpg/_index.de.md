@@ -1,18 +1,19 @@
 ﻿---
 title:  Exportieren Sie SHAPE in JPG von Excel mit Cells Cloud SDK for Java
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie SHAPE von Excel in JPG" h2="Java-Bibliothek zum Exportieren von SHAPE in eine JPG-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um SHAPE online mit Java aus einer Tabellenkalkulation in eine JPG-Formatdatei zu exportieren." urlsection="export/shape-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie SHAPE von Excel in JPG" h2="Java-Bibliothek zum Exportieren von SHAPE in eine JPG-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Java zu exportieren. Dies ist eine professionelle Lösung, um SHAPE online mit Java aus einer Tabellenkalkulation in eine JPG-Formatdatei zu exportieren." urlsection="export/shape-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in eine Datei im JPG-Format mit Cells Cloud SDK for Java" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das SHAPE-Objekt in eine Datei im JPG-Format mit Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Das Exportieren eines SHAPE-Objekts aus der Datei Excel in eine JPG-Datei ist eine komplexe Aufgabe. Der Export von Übergängen im SHAPE-Format in das JPG-Format wird von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in JPG-Formatdateien. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Exportieren von SHAPE in das JPG-Format aus der Tabellenkalkulation" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Java mit REST API zum Exportieren von SHAPE in das JPG-Format aus der Tabellenkalkulation" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,22 +48,15 @@ Das Exportieren eines SHAPE-Objekts aus der Datei Excel in eine JPG-Datei ist ei
     }
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Exportieren von Objekten aus Excel SHAPE nach JPG" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
 <li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

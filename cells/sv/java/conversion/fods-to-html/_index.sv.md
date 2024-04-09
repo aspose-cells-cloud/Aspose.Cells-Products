@@ -1,55 +1,59 @@
 ﻿---
-title:  Konvertera FODS till HTML i molnet via Java
-description: Skapa, redigera eller konvertera Excel-filer med REST API & Open Source Java SDK
-url: /sv/java/conversion/fods-to-html/
-family: cells
-platformtag: java
-feature: conversion
-informat: FODS
-outformat: HTML
-platform: Java
-otherformats: XLSX XPS XLTX CSV MHTML PDF MD ODS XLTM DIF XLSM XLSB TIFF XML TSV TXT 
+title: Konvertera FODS till HTML med Java
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera en fil i FODS-format till en fil i HTML-format.
+kwords: Excel, Convert FODS to HTML, REST, Java
+howto: How to convert FODS to HTML using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera FODS till HTML med Java" h2="Automatisera Excel & OpenOffice-filkonvertering med open source Cloud SDK for Java" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera FODS till HTML" h2="Java bibliotek för att konvertera FODS till HTML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java projekt. Detta är en professionell lösning för att konvertera FODS till HTML och andra dokumentformat online med Java." urlsection="conversion/fods-to-html/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Enkel FODS till HTML Konvertering" %}}
-1.  Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation
-1. Initiera ```CellsApi``` med klient-id, klienthemlighet, basadress och API-version
-1. Ladda upp FODS-fil till standardmolnlagring med metoden ```CellsApi.Upload```
-1. Ring ```CellsApi.cellsWorkbookGetWorkbook``` för att få den resulterande HTML-filen
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera FODS till HTML med Cells Cloud SDK for Java" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Att konvertera filformat från FODS till HTML kan vara en komplex uppgift. Vår Java SDK hanterar alla FODS- till HTML-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i FODS-källbladet bevaras. Vårt Java-bibliotek tillhandahåller en professionell lösning för att konvertera FODS till HTML-filer online. Denna Cloud SDK ger Java-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa HTML-utdata.
 
-{{% blocks/products/pf/agp/feature-section-col title="Kom igång med Excel API & Java SDK" %}}
- Få Excel Cloud SDK for Java källkod från[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) för att kompilera SDK själv eller gå till[Släpps](https://releases.aspose.cloud/) för alternativa nedladdningsalternativ.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Ta också en titt på Swagger-baserad[API Referens](https://apireference.aspose.cloud/cells/) att veta mer om[Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Java Kod för att konvertera FODS till HTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Kod Exempel för att konvertera FODS till HTML med Cells Cloud SDK" gistPath="" %}}
+ 
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-try {
-    CellsApi api = new CellsApi(System.getenv("CellsCloudTestClientId"), System.getenv("CellsCloudTestClientSecret"), "v3.0", System.getenv("CellsCloudTestApiBaseUrl"));
-    String name = BOOK1;
-    String password = null;
-    Boolean isAutoFit = true;
-    Boolean onlySaveTable = true;
-    String format = "HTML";
-    String folder = TEMPFOLDER;
-    api.uploadFile( folder +"/"+ name, new File("c:\\TestData\\" + name) , null);
-    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
-}
-catch (Exception e) {
-    e.printStackTrace();
-}
+    import java.io.File;
+    import com.aspose.cloud.cells.api.*;
+    public class Conversion {
+        public static void main(String[] args) {
+            String name =  "Book1.fods";
+            String format = "html";
+            String password = null;
+            String outPath = null;
+            String destFile = "DestFile.html";
+            try {
+                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                if(response.canRead())
+                {
+                    if(response.exists()){
+                        response.renameTo(new File(destFile));
+                    }                
+                }
+            }
+            catch(Exception exception )
+            {
+                System.out.print(exception);
+            }
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar FODS till HTML med hjälp av Cells Cloud Java-biblioteket." >}}
+<li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
+<li>Installera Java-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i Java.</li>
+<li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
+<li>Maven 2.2.0 eller nyare</li>
+<li>Java(TM) SE Runtime Environment</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

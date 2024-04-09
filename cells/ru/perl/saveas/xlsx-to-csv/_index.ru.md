@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSX как CSV, используя Perl.
+title:  Сохраните XLSX как CSV, используя Perl.
 description:  Использование Cloud SDK Aspose.Cells для Perl для сохранения файла формата XLSX в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

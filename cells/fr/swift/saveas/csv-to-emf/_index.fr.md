@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer le CSV sous EMF API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format EMF.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format EMF.
 url: /fr/swift/saveas/csv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

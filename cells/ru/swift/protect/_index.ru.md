@@ -1,6 +1,6 @@
 ﻿---
 title:  Защитите с помощью Swift
-description:  Aspose.Cells Cloud REST API поддерживает книги расшифровки, шифрования и цифровой подписи с использованием Swift. SDK поддерживает языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
+description: Aspose.Cells Cloud REST API поддерживает книги расшифровки, шифрования и цифровой подписи с использованием Swift. SDK поддерживает языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 url: /ru/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Exporter des objets Excel à l'aide de Ruby
-description: Aspose.Cells Cloud REST API prend en charge l'exportation de classeurs et d'objets internes vers tous types de formats à l'aide de Ruby. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+description:  Aspose.Cells Cloud REST API prend en charge l'exportation de classeurs et d'objets internes vers tous types de formats à l'aide de Ruby. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Exporter des objets Excel à l\'aide de Ruby" h2="Aspose.Cells Cloud SDK prend en charge l\'exportation de classeurs et d\'objets internes vers plus de 30 formats de fichiers." p="Aspose.Cells Cloud REST API prend en charge l\'exportation de classeurs et d\'objets internes vers tous types de formats à l\'aide de Ruby. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="export/" >}}

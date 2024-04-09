@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertera PNG till XLTM med PHP
 description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i PNG-format till en fil i XLTM-format.
+kwords: Excel, Convert PNG to XLTM, REST, PHP
+howto: How to convert PNG to XLTM using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera PNG till XLTM" h2="PHP bibliotek för att konvertera PNG till XLTM" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera PNG till XLTM och andra dokumentformat online med PHP." urlsection="conversion/png-to-xltm/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera PNG till XLTM" h2="PHP bibliotek för att konvertera PNG till XLTM" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera PNG till XLTM och andra dokumentformat online med PHP." urlsection="conversion/png-to-xltm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera PNG till XLTM med Cells Cloud SDK för PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera PNG till XLTM med Cells Cloud SDK för PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Att konvertera filformat från PNG till XLTM kan vara en komplicerad uppgift. Vår PHP SDK hanterar alla PNG till XLTM-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket PNG bevaras. Vårt PHP-bibliotek tillhandahåller en professionell lösning för att konvertera PNG till XLTM-filer online. Denna Cloud SDK ger PHP utvecklare kraftfull funktionalitet och säkerställer XLTM-utdata av hög kvalitet.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Kod Exempel för att konvertera PNG till XLTM med Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Kod Exempel för att konvertera PNG till XLTM med Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,15 @@ Att konvertera filformat från PNG till XLTM kan vara en komplicerad uppgift. V�
     fclose($file);
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för PHP för att konvertera Excel filer till andra format PNG till XLTM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar PNG till XLTM med hjälp av Cells Cloud PHP-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera PHP-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i PHP.</li>
 <li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>PHP 7.4 eller nyare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

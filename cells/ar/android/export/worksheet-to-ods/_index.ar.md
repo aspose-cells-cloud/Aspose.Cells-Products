@@ -1,5 +1,5 @@
 ﻿---
-title:  تصدير ورقة العمل إلى ODS من Excel باستخدام Cells Cloud SDK لنظام Android
+title:  تصدير ورقة عمل إلى ODS من Excel باستخدام Cells Cloud SDK لنظام Android
 description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

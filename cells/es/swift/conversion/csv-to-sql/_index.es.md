@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir CSV a SQL API para Swift
-description: Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato CSV a un archivo de formato SQL.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato CSV a un archivo de formato SQL.
 url: /es/swift/conversion/csv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

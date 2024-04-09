@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera XLTX till CSV med C#
-description: Använda Aspose.Cells Cloud SDK för C# för att konvertera en fil i XLTX-format till en fil i CSV-format.
+description:  Använda Aspose.Cells Cloud SDK för C# för att konvertera en fil i XLTX-format till en fil i CSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLTX till CSV" h2="C# bibliotek för att konvertera XLTX till CSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera XLTX till CSV och andra dokumentformat online med C#." urlsection="conversion/xltx-to-csv/" >}}

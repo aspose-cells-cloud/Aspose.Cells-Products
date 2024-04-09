@@ -10,7 +10,7 @@ url: /ar/swift/saveas/xlsm-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSM بتنسيق XLS في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSM بتنسيق XLS مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق XLSM إلى XLS بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSM كملفات XLS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات XLS مثالية.
+يعد حفظ تنسيقات الملفات من XLSM بتنسيق XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى XLS بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSM كملفات XLS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات XLS مثالية.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSM بتنسيق XLS" gistPath="" %}}

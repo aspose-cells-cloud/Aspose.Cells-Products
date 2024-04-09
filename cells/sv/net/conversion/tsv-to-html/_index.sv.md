@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertera TSV till HTML med C#
 description:  Använda Aspose.Cells Cloud SDK för C# för att konvertera en fil i TSV-format till en fil i HTML-format.
+kwords: Excel, Convert TSV to HTML, REST, C#
+howto: How to convert TSV to HTML using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera TSV till HTML" h2="C# bibliotek för att konvertera TSV till HTML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera TSV till HTML och andra dokumentformat online med C#." urlsection="conversion/tsv-to-html/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera TSV till HTML" h2="C# bibliotek för att konvertera TSV till HTML" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net-projekt. Detta är en professionell lösning för att konvertera TSV till HTML och andra dokumentformat online med C#." urlsection="conversion/tsv-to-html/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera TSV till HTML med Cells Cloud SDK för C#" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera TSV till HTML med Cells Cloud SDK för C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Att konvertera filformat från TSV till HTML kan vara en komplicerad uppgift. Vår C# SDK hanterar alla TSV- till HTML-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-TSV-kalkylarket bevaras. Vårt C#-bibliotek tillhandahåller en professionell lösning för att konvertera TSV-filer till HTML-filer online. Denna Cloud SDK ger C#-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa HTML-utdata.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# Kodexempel för att konvertera TSV till HTML med Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Kodexempel för att konvertera TSV till HTML med Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -32,22 +33,16 @@ Att konvertera filformat från TSV till HTML kan vara en komplicerad uppgift. V�
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att konvertera Excel-filer till andra format TSV till HTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar TSV till HTML med hjälp av Cells Cloud Net-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera C#-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i C#</li>
 <li>Använd metoden `PutConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>NET Framework 4.5.2 eller senare</li>
 <li>Net Standard 2.0 eller senare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

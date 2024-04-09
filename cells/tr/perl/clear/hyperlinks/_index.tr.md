@@ -3,7 +3,7 @@ title:  Bulutta yerel çalışma kitabındaki köprüleri temizleyin
 description: Microsoft Excel ve OpenOffice Calc üzerindeki köprüleri temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki köprüleri temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri kaldırma" h2="Perl Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için temizleyin" p="Yerel Microsoft Excel ve Perl\'deki OpenOffice Calc elektronik tablosu iş akışlarındaki köprüleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Perl\'i kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizler. ." urlsection="clear/Hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri kaldırma" h2="Perl Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için temizleyin" p="Yerel Microsoft Excel ve Perl\'deki OpenOffice Calc elektronik tablosu iş akışlarındaki köprüleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Perl\'i kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizler." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizleyin - Perl REST API" >}}
@@ -18,7 +18,7 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri tem
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Köprüleri temizlemek için Perl için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Çağrı postası_temizlemek_sonuçta ortaya çıkan akışı elde etmek için nesneler yöntemi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

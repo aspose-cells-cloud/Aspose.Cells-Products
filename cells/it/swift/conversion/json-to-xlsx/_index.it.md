@@ -13,7 +13,7 @@ url: /it/swift/conversion/json-to-xlsx/
 La conversione dei formati di file da JSON a XLSX è un compito complesso. Tutte le transizioni dal formato JSON al formato XLSX vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo JSON di origine. La nostra libreria Swift è una soluzione professionale per convertire file JSON in XLSX online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e un output XLSX perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per convertire JSON nel formato XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per convertire JSON in formato XLSX" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

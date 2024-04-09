@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLTX в формате CSV, используя Perl.
+title:  Сохраните XLTX в формате CSV, используя Perl.
 description:  Использование Cloud SDK Aspose.Cells для Perl для сохранения файла формата XLTX в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde SXC como CSV usando Java
+title:  Guarde SXC como CSV usando Java
 description:  Utilizando Aspose.Cells Cloud SDK for Java para guardar el archivo en formato SXC como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -9,7 +9,7 @@ description:  Utilizando Aspose.Cells Cloud SDK for Java para guardar el archivo
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo SXC como CSV en Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de SXC como CSV es una tarea compleja. Todas las transiciones de formato SXC a CSV se realizan mediante nuestro SDK Java manteniendo el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Java es una solución profesional para guardar SXC como archivos CSV en línea. Este SDK de nube ofrece a los desarrolladores de Java una potente funcionalidad y una salida CSV perfecta.
+Guardar formatos de archivo de SXC como CSV es una tarea compleja. Todas las transiciones de formato SXC a CSV se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Java es una solución profesional para guardar SXC como archivos CSV en línea. Este SDK de nube ofrece a los desarrolladores de Java una potente funcionalidad y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java Ejemplo de código para guardar SXC como CSV usando REST API" gistPath="" %}}

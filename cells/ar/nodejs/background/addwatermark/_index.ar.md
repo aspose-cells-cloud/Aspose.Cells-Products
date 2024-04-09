@@ -1,5 +1,5 @@
 ﻿---
-title:  أضف علامة مائية للمصنف المحلي باستخدام NodeJS في السحابة
+title: أضف علامة مائية للمصنف المحلي باستخدام NodeJS في السحابة
 description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لإضافة علامة مائية لـ Microsoft Excel وOpenOffice Calc مع NodeJS. إضافة علامة مائية لجداول البيانات المحلية بواسطة Cells Cloud API SDK لـ NodeJS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

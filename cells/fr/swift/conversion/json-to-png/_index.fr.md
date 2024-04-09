@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON en PNG Convertir API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format JSON en fichier au format PNG.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format JSON en fichier au format PNG.
 url: /fr/swift/conversion/json-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

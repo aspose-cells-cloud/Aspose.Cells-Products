@@ -13,7 +13,7 @@ url: /tr/swift/conversion/png-to-csv/
 Dosya formatlarını PNG'den CSV'ye dönüştürmek karmaşık bir iştir. PNG'den CSV formatına tüm geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak PNG elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız PNG'i çevrimiçi CSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PNG\'i CSV formatına dönüştürmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PNG\'i CSV biçimine dönüştürmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -66,7 +66,7 @@ Dosya formatlarını PNG'den CSV'ye dönüştürmek karmaşık bir iştir. PNG'd
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="PNG\'i CSV\'ye dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

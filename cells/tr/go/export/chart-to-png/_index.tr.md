@@ -1,18 +1,19 @@
 ﻿---
 title:  Go için Cells Cloud SDK'yı kullanarak CHART'ı Excel'den PNG'e aktarın
 description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="CHART\'ı Excel\'den PNG\'e aktar" h2="CHART\'ı PNG dosyasına aktarmak için kitaplığa gidin" p="Go\'da Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Go\'yu kullanarak çevrimiçi elektronik tablodan CHART\'ı PNG formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/chart-to-png/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="CHART\'ı Excel\'den PNG\'e aktar" h2="CHART\'ı PNG dosyasına aktarmak için kitaplığa gidin" p="Go\'da Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Go\'yu kullanarak çevrimiçi elektronik tablodan CHART\'ı PNG formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/chart-to-png/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Go\'yu kullanarak CHART nesnesini PNG biçimindeki dosyaya aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section title="Cells Cloud SDK for Go\'yu kullanarak CHART nesnesini PNG biçimindeki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 CHART nesnesini Excel dosyasından PNG dosyasına aktarmak karmaşık bir iştir. CHART'ı PNG'e aktarma format geçişleri, kaynak CHART elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kütüphanemiz, CHART nesnelerini çevrimiçi olarak PNG formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel PNG çıktısı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go\'da CHART\'ı e-tablodan PNG biçimine aktarmak için REST API\'i kullanan kod örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Go\'da CHART\'ı e-tablodan PNG biçimine aktarmak için REST API\'i kullanan kod örneği" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -52,21 +53,14 @@ CHART nesnesini Excel dosyasından PNG dosyasına aktarmak karmaşık bir iştir
     }
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel CHART\'tan PNG\'e dışa aktarmak için Cells Cloud SDK for Go nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>go sürümü go1.13.0 veya daha yeni</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

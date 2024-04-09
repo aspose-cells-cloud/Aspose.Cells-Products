@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez PNG sous le nom WMF API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG au format WMF.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format PNG au format WMF.
 url: /fr/swift/saveas/png-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

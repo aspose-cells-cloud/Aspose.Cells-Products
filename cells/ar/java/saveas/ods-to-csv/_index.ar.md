@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ المواد المستنفدة للأوزون كملف CSV باستخدام Java
-description: استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق ODS كملف بتنسيق CSV.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق ODS كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ المواد المستنفدة للأوزون كملف CSV" h2="Java مكتبة لحفظ المواد المستنفدة للأوزون بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/ods-to-csv/" >}}

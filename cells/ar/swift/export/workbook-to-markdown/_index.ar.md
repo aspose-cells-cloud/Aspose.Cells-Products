@@ -1,5 +1,5 @@
 ﻿---
-title: تصدير المصنف إلى MARKDOWN من جدول البيانات باستخدام Swift API
+title:  تصدير المصنف إلى MARKDOWN من جدول البيانات باستخدام Swift API
 description:  Aspose.Cells Cloud REST API يدعم تصدير الملفات بتنسيق {0} إلى {1} باستخدام {2}.
 url: /ar/swift/export/workbook-to-markdown/
 ---

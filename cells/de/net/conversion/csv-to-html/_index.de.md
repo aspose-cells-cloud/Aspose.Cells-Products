@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertieren Sie CSV mit C# in HTML
 description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im CSV-Format in eine Datei im HTML-Format.
+kwords: Excel, Convert CSV to HTML, REST, C#
+howto: How to convert CSV to HTML using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie CSV in HTML" h2="C#-Bibliothek zum Konvertieren von CSV in HTML" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von CSV in HTML und andere Dokumentformate online mit C#." urlsection="conversion/csv-to-html/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie CSV in HTML" h2="C#-Bibliothek zum Konvertieren von CSV in HTML" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von CSV in HTML und andere Dokumentformate online mit C#." urlsection="conversion/csv-to-html/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie CSV in HTML mit dem Cloud SDK Cells für C#" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie CSV in HTML mit dem Cloud SDK Cells für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von CSV in HTML kann eine komplexe Aufgabe sein. Unser C# SDK übernimmt alle Konvertierungen von CSV in das HTML-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-CSV-Tabelle bei. Unsere C#-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von CSV-Dateien in HTML-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige HTML-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# Codebeispiel für die Konvertierung von CSV in HTML mit Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Codebeispiel für die Konvertierung von CSV in HTML mit Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -32,22 +33,16 @@ Das Konvertieren von Dateiformaten von CSV in HTML kann eine komplexe Aufgabe se
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in andere Formate zu konvertieren. CSV in HTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie CSV mithilfe der Cloud Net-Bibliothek Cells in HTML konvertieren." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
+<li>Installieren Sie die Bibliothek C# und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Öffnen Sie die Quelldatei in C#</li>
 <li>Verwenden Sie die Methode `PutConvertWorkbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>NET Framework 4.5.2 oder neuer</li>
 <li>Net Standard 2.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

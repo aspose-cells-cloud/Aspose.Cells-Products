@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать GIF в XML API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата XML.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата GIF в файл формата XML.
 url: /ru/swift/conversion/gif-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

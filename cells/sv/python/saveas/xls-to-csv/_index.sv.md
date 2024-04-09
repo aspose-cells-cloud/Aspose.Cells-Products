@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLS som CSV med Python
+title:  Spara XLS som CSV med Python
 description:  Använder Aspose.Cells Cloud SDK för Python för att spara XLS-formatfil som CSV-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

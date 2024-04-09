@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLT كملف CSV باستخدام Android
+title:  احفظ XLT كملف CSV باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLT كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

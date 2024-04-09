@@ -110,7 +110,7 @@ url: /es/curl
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Obtener, actualizar, mostrar u ocultar la leyenda del gráfico
+Obtener, actualizar, mostrar u ocultar la leyenda del gráfico
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ url: /es/curl
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Eliminar OleObjects específicos o todos de la hoja de trabajo
+ Eliminar OleObjects específicos o todos de la hoja de trabajo
     </p>
    </div>
    <div class="col-lg-4">
@@ -227,14 +227,14 @@ Eliminar OleObjects específicos o todos de la hoja de trabajo
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Comience con Excel Procesamiento de hojas de cálculo REST API
+Comience con Excel Procesamiento de hojas de cálculo REST API
     </h2>
     <p>
  Para comenzar con Aspose.Cells Cloud para cURL, no necesita instalar nada. Todo lo que necesitas hacer es crear una cuenta en
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose para la nube
      </a>
- obtenga la información de su solicitud. Una vez que tenga la aplicación SID &amp; clave, está listo para usar Aspose.Cells Cloud para cURL en cualquier plataforma que admita API REST. Aspose.Cells Cloud para cURL le proporciona todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
+ y obtenga la información de su solicitud. Una vez que tenga la aplicación SID &amp; clave, está listo para usar Aspose.Cells Cloud para cURL en cualquier plataforma que admita API REST. Aspose.Cells Cloud para cURL le proporciona todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
     </p>
    </div>
    <div class="col-lg-12">
@@ -242,15 +242,15 @@ Eliminar OleObjects específicos o todos de la hoja de trabajo
  Procesamiento de libros de trabajo via Nube REST API
     </h2>
     <p>
- Aspose.Cells Cloud para cURL le permite crear, dividir, fusionar, buscar y reemplazar texto, proteger con contraseña, exportar a formato de archivo compatible, leer elementos de texto del libro, ajustar automáticamente las filas del libro mientras se ignoran los elementos ocultos, cifrar la contraseña del libro y proporcionar la longitud de la clave de cifrado. , importe datos al libro de trabajo, calcule todas las fórmulas en el libro de trabajo, establezca la configuración de cálculo de fórmulas proporcionando una estrategia de precisión, etc., use un marcador inteligente, convierta el libro de trabajo del contenido solicitado a otro formato, aplique una contraseña para permitir la modificación del contenido.
+Aspose.Cells Cloud para cURL le permite crear, dividir, fusionar, buscar y reemplazar texto, proteger con contraseña, exportar a formato de archivo compatible, leer elementos de texto del libro, ajustar automáticamente las filas del libro mientras se ignoran los elementos ocultos, cifrar la contraseña del libro y proporcionar la longitud de la clave de cifrado. , importe datos al libro de trabajo, calcule todas las fórmulas en el libro de trabajo, establezca la configuración de cálculo de fórmulas proporcionando una estrategia de precisión, etc., use un marcador inteligente, convierta el libro de trabajo del contenido solicitado a otro formato, aplique una contraseña para permitir la modificación del contenido.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Cloud API para procesar hojas de trabajo
+ Cloud API para procesar hojas de trabajo
     </h2>
     <p>
- Usando Aspose.Cells Cloud para cURL puede eliminar una fila específica o todas las filas en la hoja de trabajo, obtener datos de celda de la hoja de trabajo o estilo de celda por el nombre de la celda, leer datos de filas o columnas de la hoja de trabajo por su índice, calcular la fórmula de la celda, borrar el contenido de la celda, copiar la celda en otra celda, copiar columnas y filas de la hoja de trabajo, agrupar filas y columnas de la hoja de trabajo, ocultar filas y columnas de la hoja de trabajo, establecer estilos de columnas y filas de la hoja de trabajo, establecer el valor HTMLSTRING en la celda, establecer el valor del rango de celdas y modificar muchas otras configuraciones de la hoja de trabajo.
+Usando Aspose.Cells Cloud para cURL puede eliminar una fila específica o todas las filas en la hoja de trabajo, obtener datos de celda de la hoja de trabajo o estilo de celda por el nombre de la celda, leer datos de fila o columna de la hoja de trabajo por su índice, calcular la fórmula de la celda, borrar el contenido de la celda, copiar la celda en otra celda, copiar columnas y filas de la hoja de trabajo, agrupar filas y columnas de la hoja de trabajo, ocultar filas y columnas de la hoja de trabajo, establecer estilos de columnas y filas de la hoja de trabajo, establecer el valor HTMLSTRING en la celda, establecer el valor del rango de celdas y modificar muchas otras configuraciones de la hoja de trabajo.
     </p>
    </div>
    <div class="col-lg-12">

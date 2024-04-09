@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera XLTM till CSV med PHP
-description: Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i XLTM-format till en fil i CSV-format.
+description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera en fil i XLTM-format till en fil i CSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLTM till CSV" h2="PHP bibliotek för att konvertera XLTM till CSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i PHP projekt. Detta är en professionell lösning för att konvertera XLTM till CSV och andra dokumentformat online med PHP." urlsection="conversion/xltm-to-csv/" >}}

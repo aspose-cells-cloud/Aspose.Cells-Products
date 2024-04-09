@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer CSV sous JSON API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format JSON.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format JSON.
 url: /fr/swift/saveas/csv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

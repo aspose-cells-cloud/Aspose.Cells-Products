@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX بصيغة GIF باستخدام C#
+title:  احفظ XLSX بصيغة GIF باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLSX كملف بتنسيق GIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

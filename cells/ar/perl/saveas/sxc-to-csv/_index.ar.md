@@ -1,6 +1,6 @@
 ﻿---
-title: احفظ SXC كملف CSV باستخدام Perl
-description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق SXC كملف بتنسيق CSV.
+title:  احفظ SXC كملف CSV باستخدام Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق SXC كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ SXC كملف CSV" h2="مكتبة Perl لحفظ SXC بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ SXC كملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/sxc-to-csv/" >}}

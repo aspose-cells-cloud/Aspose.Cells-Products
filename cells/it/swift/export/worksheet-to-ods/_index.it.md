@@ -10,7 +10,7 @@ url: /it/swift/export/worksheet-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto FOGLIO DI LAVORO nel file in formato ODS in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto WORKSHEET nel file ODS dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni del FOGLIO DI LAVORO nel formato ODS viene eseguita dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di lavoro del FOGLIO DI LAVORO di origine. La nostra libreria Swift è una soluzione professionale per esportare oggetti WORKSHEET in file in formato ODS online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output ODS perfetto.
+Esportare l'oggetto WORKSHEET nel file ODS dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni del FOGLIO DI LAVORO nel formato ODS viene eseguita dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Swift è una soluzione professionale per esportare oggetti WORKSHEET in file in formato ODS online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e output ODS perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per esportare FOGLIO DI LAVORO in formato ODS dal foglio di calcolo" gistPath="" %}}

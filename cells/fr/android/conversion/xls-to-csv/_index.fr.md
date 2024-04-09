@@ -1,5 +1,5 @@
 ﻿---
-title:  Convertir XLS en CSV avec Android
+title: Convertir XLS en CSV avec Android
 description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format XLS en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

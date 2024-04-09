@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer CSV sous DOCX API pour Swift
-description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format DOCX.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format CSV au format DOCX.
 url: /fr/swift/saveas/csv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف Excel بتنسيقات أخرى باستخدام Python
-description: Aspose.Cells Cloud REST API يدعم حفظ Excel ملف بتنسيقات مختلفة باستخدام Python ويقدم SDKs للغات برمجة متعددة.
+description:  Aspose.Cells Cloud REST API يدعم حفظ Excel ملف بتنسيقات مختلفة باستخدام Python ويقدم SDKs للغات برمجة متعددة.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ ملف Excel بتنسيقات أخرى باستخدام Python" h2="Aspose.Cells يدعم Cloud SDK حفظ المصنفات بأكثر من 30 تنسيقًا مختلفًا للملفات." p="Aspose.Cells Cloud REST API يدعم حفظ Excel ملف بتنسيقات مختلفة باستخدام Python ويقدم SDKs للغات برمجة متعددة." urlsection="saveas/" >}}

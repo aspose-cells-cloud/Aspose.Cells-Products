@@ -1,18 +1,19 @@
 ﻿---
 title:  Spara XLSB som SVG med C#
 description:  Använder Aspose.Cells Cloud SDK för C# för att spara fil i XLSB-format som fil i SVG-format.
+kwords: Excel, Save XLSB as SVG, REST, C#
+howto: How to save XLSB as SVG using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara XLSB som SVG" h2="C# bibliotek för att spara XLSB som SVG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara XLSB som SVG och andra dokumentformat online med C#." urlsection="saveas/xlsb-to-svg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara XLSB som SVG" h2="C# bibliotek för att spara XLSB som SVG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara XLSB som SVG och andra dokumentformat online med C#." urlsection="saveas/xlsb-to-svg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSB-fil som SVG i C#" >}}
+{{< blocks/products/cells/cells-cloud-section title="Spara en XLSB-fil som SVG i C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Att spara filformat från XLSB som SVG är en komplex uppgift. Alla formatövergångar från XLSB till SVG utförs av vår C# SDK samtidigt som källbladets XLSB-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att spara XLSB som SVG-filer online. Denna Cloud SDK ger C#-utvecklare kraftfull funktionalitet och perfekt SVG-utdata.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# Kod Exempel för att spara XLSB som SVG med REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Kod Exempel för att spara XLSB som SVG med REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -23,22 +24,16 @@ Att spara filformat från XLSB som SVG är en komplex uppgift. Alla formatöverg
     SaveResponse saveResponse = cellsApi.CellsSaveAsPostDocumentSaveAs(name, null, newfilename, null,null,folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Net för att spara Excel filer som andra format XLSB som SVG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du sparar XLSB som SVG med hjälp av Cells Cloud Net-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera C#-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i C#</li>
 <li>Använd metoden `PostWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>NET Framework 4.5.2 eller senare</li>
 <li>Net Standard 2.0 eller senare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

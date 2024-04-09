@@ -10,7 +10,7 @@ url: /de/swift/conversion/xlt-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLT-Datei in Swift in XLS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLT nach XLS ist eine komplexe Aufgabe. Alle XLT-zu-XLS-Formatübergänge werden von unserem Swift SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLT-Quelltabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLT- in XLS-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
+Das Konvertieren von Dateiformaten von XLT nach XLS ist eine komplexe Aufgabe. Alle XLT-zu-XLS-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLT- in XLS-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLT in das XLS-Format" gistPath="" %}}

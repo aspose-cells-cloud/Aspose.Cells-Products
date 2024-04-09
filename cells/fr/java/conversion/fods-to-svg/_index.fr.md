@@ -1,55 +1,59 @@
 ﻿---
-title:  Convertir FODS en SVG dans le Cloud via Java
-description: Créez, modifiez ou convertissez des fichiers Excel avec le SDK REST API et Open Source Java
-url: /fr/java/conversion/fods-to-svg/
-family: cells
-platformtag: java
-feature: conversion
-informat: FODS
-outformat: SVG
-platform: Java
-otherformats: XLTX TSV XLSX MD FODS PDF TXT DIF XLTM HTML TIFF SVG XPS XML MHTML CSV 
+title: Convertissez FODS en SVG en utilisant Java
+description:  Utilisation du SDK Cloud Aspose.Cells for Java pour convertir un fichier au format FODS en fichier au format SVG.
+kwords: Excel, Convert FODS to SVG, REST, Java
+howto: How to convert FODS to SVG using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertissez FODS en SVG avec Java" h2="Automatisez la conversion de fichiers Excel et OpenOffice avec le SDK Cloud open source for Java" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS en SVG" h2="Bibliothèque Java pour convertir FODS en SVG" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Java. Il s\'agit d\'une solution professionnelle pour convertir FODS en SVG et d\'autres formats de documents en ligne en utilisant Java." urlsection="conversion/fods-to-svg/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion simple de FODS en SVG" %}}
-1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
-1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
-1. Téléchargez le fichier FODS sur Cloud Storage par défaut avec la méthode ```CellsApi.Upload```
-1. Appelez le ```CellsApi.cellsWorkbookGetWorkbook``` pour obtenir le fichier SVG résultant
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convertir FODS en SVG à l\'aide du SDK Cloud Cells for Java" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+La conversion des formats de fichiers de FODS en SVG peut être une tâche complexe. Notre SDK Java gère toutes les conversions du format FODS au format SVG tout en préservant le contenu structurel et logique principal de la feuille de calcul FODS source. Notre bibliothèque Java fournit une solution professionnelle pour convertir en ligne FODS en fichiers SVG. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et garantit une sortie SVG de haute qualité.
 
-{{% blocks/products/pf/agp/feature-section-col title="Premiers pas avec les SDK Excel, API et Java" %}}
- Obtenez le code source du SDK Cloud Excel for Java à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) pour compiler le SDK vous-même ou rendez-vous sur[Sorties](https://releases.aspose.cloud/) pour des options de téléchargement alternatives.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Jetez également un œil à Swagger-based[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur le[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Java Code pour convertir FODS en SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Exemple de code pour convertir FODS en SVG à l\'aide du SDK Cloud Cells" gistPath="" %}}
+ 
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-try {
-    CellsApi api = new CellsApi(System.getenv("CellsCloudTestClientId"), System.getenv("CellsCloudTestClientSecret"), "v3.0", System.getenv("CellsCloudTestApiBaseUrl"));
-    String name = BOOK1;
-    String password = null;
-    Boolean isAutoFit = true;
-    Boolean onlySaveTable = true;
-    String format = "SVG";
-    String folder = TEMPFOLDER;
-    api.uploadFile( folder +"/"+ name, new File("c:\\TestData\\" + name) , null);
-    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
-}
-catch (Exception e) {
-    e.printStackTrace();
-}
+    import java.io.File;
+    import com.aspose.cloud.cells.api.*;
+    public class Conversion {
+        public static void main(String[] args) {
+            String name =  "Book1.fods";
+            String format = "svg";
+            String password = null;
+            String outPath = null;
+            String destFile = "DestFile.svg";
+            try {
+                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                if(response.canRead())
+                {
+                    if(response.exists()){
+                        response.renameTo(new File(destFile));
+                    }                
+                }
+            }
+            catch(Exception exception )
+            {
+                System.out.print(exception);
+            }
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment convertir FODS en SVG à l\'aide de la bibliothèque Cells Cloud Java." >}}
+<li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
+<li>Installez la bibliothèque Java et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source en Java.</li>
+<li>Utilisez la méthode `putConvertWorkbook` pour récupérer le flux résultant.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
+<li>Maven 2.2.0 ou version ultérieure</li>
+<li>Environnement d'exécution Java(TM) SE</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

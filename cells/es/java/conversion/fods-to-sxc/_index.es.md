@@ -1,55 +1,59 @@
 ﻿---
-title:  Convierta FODS a SXC en la nube via Java
-description: Cree, edite o convierta archivos Excel con REST API y Open Source Java SDK
-url: /es/java/conversion/fods-to-sxc/
-family: cells
-platformtag: java
-feature: conversion
-informat: FODS
-outformat: SXC
-platform: Java
-otherformats: MD MHTML XLTM ODS XLTX XML DIF SVG TXT XLSM XLSB TSV XPS CSV TIFF PDF 
+title:  Convierta FODS a SXC usando Java
+description:  Utilizando el Aspose.Cells Cloud SDK for Java para convertir un archivo de formato FODS a un archivo de formato SXC.
+kwords: Excel, Convert FODS to SXC, REST, Java
+howto: How to convert FODS to SXC using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta FODS a SXC con Java" h2="Automatice la conversión de archivos Excel y OpenOffice con el SDK de nube de código abierto for Java" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS a SXC" h2="Biblioteca Java para convertir FODS a SXC" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en Java proyectos. Esta es una solución profesional para convertir FODS a SXC y otros formatos de documentos en línea usando Java." urlsection="conversion/fods-to-sxc/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversión simple de FODS a SXC" %}}
-1.  Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización
-1. Inicialice ```CellsApi``` con ID de cliente, secreto de cliente, URL base y versión API
-1. Cargue el archivo FODS al Cloud Storage predeterminado con el método ```CellsApi.Upload```
-1. Llame al ```CellsApi.cellsWorkbookGetWorkbook``` para obtener el archivo SXC resultante
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convierta FODS a SXC usando Cells Cloud SDK for Java" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Convertir formatos de archivo de FODS a SXC puede ser una tarea compleja. Nuestro SDK Java maneja todas las conversiones de formato FODS a SXC al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo FODS de origen. Nuestra biblioteca Java proporciona una solución profesional para convertir archivos FODS a SXC en línea. Este SDK de nube brinda a los desarrolladores de Java una potente funcionalidad y garantiza una salida SXC de alta calidad.
 
-{{% blocks/products/pf/agp/feature-section-col title="Comience con Excel API y Java SDK" %}}
- Obtenga el código fuente Excel Cloud SDK for Java de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) para compilar el SDK usted mismo o diríjase al[Lanzamientos](https://releases.aspose.cloud/) para opciones de descarga alternativas.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- También eche un vistazo a Basado en Swagger[API Referencia](https://apireference.aspose.cloud/cells/) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Java Código para convertir FODS a SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Ejemplo de código para convertir FODS a SXC usando Cells Cloud SDK" gistPath="" %}}
+ 
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-try {
-    CellsApi api = new CellsApi(System.getenv("CellsCloudTestClientId"), System.getenv("CellsCloudTestClientSecret"), "v3.0", System.getenv("CellsCloudTestApiBaseUrl"));
-    String name = BOOK1;
-    String password = null;
-    Boolean isAutoFit = true;
-    Boolean onlySaveTable = true;
-    String format = "SXC";
-    String folder = TEMPFOLDER;
-    api.uploadFile( folder +"/"+ name, new File("c:\\TestData\\" + name) , null);
-    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
-}
-catch (Exception e) {
-    e.printStackTrace();
-}
+    import java.io.File;
+    import com.aspose.cloud.cells.api.*;
+    public class Conversion {
+        public static void main(String[] args) {
+            String name =  "Book1.fods";
+            String format = "sxc";
+            String password = null;
+            String outPath = null;
+            String destFile = "DestFile.sxc";
+            try {
+                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                if(response.canRead())
+                {
+                    if(response.exists()){
+                        response.renameTo(new File(destFile));
+                    }                
+                }
+            }
+            catch(Exception exception )
+            {
+                System.out.print(exception);
+            }
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir FODS a SXC usando la biblioteca Cells Cloud Java." >}}
+<li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
+<li>Instale la biblioteca Java y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en Java.</li>
+<li>Utilice el método `putConvertWorkbook` para recuperar la secuencia resultante.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
+<li>Maven 2.2.0 o más reciente</li>
+<li>Java(TM) SE entorno de ejecución</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

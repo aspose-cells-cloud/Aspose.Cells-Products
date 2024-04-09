@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Swift д�
 url: /ru/swift/conversion/png-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования PNG в SQL" h2="Библиотека Swift для преобразования PNG в SQL" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации PNG в SQL и другие форматы документов с помощью Swift." urlsection="conversion/png-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования PNG в SQL" h2="Библиотека Swift для преобразования PNG в SQL" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования PNG в SQL и другие форматы документов с помощью Swift." urlsection="conversion/png-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в SQL в Swift" >}}

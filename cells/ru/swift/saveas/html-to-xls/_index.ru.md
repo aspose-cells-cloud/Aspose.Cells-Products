@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить HTML как XLS API для Swift.
-description: Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата HTML в формате XLS.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата HTML в формате XLS.
 url: /ru/swift/saveas/html-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

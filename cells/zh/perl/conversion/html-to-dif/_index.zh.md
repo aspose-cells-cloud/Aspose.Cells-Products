@@ -1,18 +1,19 @@
 ﻿---
 title: 使用 Perl 将 HTML 转换为 DIF
 description: 利用Aspose.Cells Cloud SDK for Perl将HTML格式文件转换为DIF格式文件。
+kwords: Excel, Convert HTML to DIF, REST, Perl
+howto: How to convert HTML to DIF using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 HTML 转换为 DIF" h2="Perl 库，用于将 HTML 转换为 DIF" p="使用 Cells 云的转换 API 在 Perl 项目中创建自定义电子表格工作流程。这是使用Perl在线将HTML转换为DIF和其他文档格式的专业解决方案。" urlsection="conversion/html-to-dif/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 HTML 转换为 DIF" h2="Perl 库，用于将 HTML 转换为 DIF" p="使用 Cells 云的转换 API 在 Perl 项目中创建自定义电子表格工作流程。这是使用Perl在线将HTML转换为DIF和其他文档格式的专业解决方案。" urlsection="conversion/html-to-dif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Perl 将 HTML 转换为 DIF" >}}
+{{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Perl 将 HTML 转换为 DIF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 将文件格式从 HTML 转换为 DIF 可能是一项复杂的任务。我们的 Perl SDK 处理所有 HTML 到 DIF 格式的转换，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的 Perl 库提供了在线将 HTML 转换为 DIF 文件的专业解决方案。该Cloud SDK为Perl开发者提供了强大的功能，并保证了高质量的DIF输出。
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl 使用 Cells Cloud SDK 将 HTML 转换为 DIF 的代码示例" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl 使用 Cells Cloud SDK 将 HTML 转换为 DIF 的代码示例" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -39,21 +40,15 @@ description: 利用Aspose.Cells Cloud SDK for Perl将HTML格式文件转换为DI
     close $fh;
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Perl SDK将HTML转换为DIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="了解如何使用 Cells Cloud Perl 库将 HTML 转换为 DIF。" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
+<li>安装 Perl 包并将引用（导入库）添加到您的项目中。</li>
+<li>打开Perl中的源文件。</li>
 <li>使用 `put_convert_workbook` 方法检索结果流。</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

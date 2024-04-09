@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde el archivo Excel en otros formatos usando Java
-description: Aspose.Cells Cloud REST API admite guardar archivos Excel en varios formatos utilizando Java y ofrece SDK para múltiples lenguajes de programación.
+description:  Aspose.Cells Cloud REST API admite guardar archivos Excel en varios formatos utilizando Java y ofrece SDK para múltiples lenguajes de programación.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Guarde el archivo Excel en otros formatos usando Java" h2="Aspose.Cells Cloud SDK admite guardar libros en más de 30 formatos de archivo diferentes." p="Aspose.Cells Cloud REST API admite guardar archivos Excel en varios formatos utilizando Java y ofrece SDK para múltiples lenguajes de programación." urlsection="saveas/" >}}
@@ -14,7 +14,7 @@ description: Aspose.Cells Cloud REST API admite guardar archivos Excel en varios
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Otro:</b> Pdf, Json, rebajas</li>
@@ -24,7 +24,7 @@ description: Aspose.Cells Cloud REST API admite guardar archivos Excel en varios
 	<li><b>Microsoft Palabra/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Otro:</b> Pdf, Xps, Dif, Json, Rebaja, Sql</li>

@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLTX som CSV med Java
+title:  Spara XLTX som CSV med Java
 description:  Använder Aspose.Cells Cloud SDK for Java för att spara XLTX-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -9,7 +9,7 @@ description:  Använder Aspose.Cells Cloud SDK for Java för att spara XLTX-form
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLTX-fil som CSV i Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX till CSV-formatövergångar utförs av vår Java SDK samtidigt som källkodens XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara XLTX som CSV-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX till CSV-formatövergångar utförs av vår Java SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara XLTX som CSV-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att spara XLTX som CSV med REST API" gistPath="" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLSM als CSV mit Java
+title:  Speichern Sie XLSM als CSV mit Java
 description:  Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern von XLSM-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

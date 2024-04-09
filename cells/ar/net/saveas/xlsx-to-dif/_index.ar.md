@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX كـ DIF باستخدام C#
+title:  احفظ XLSX كـ DIF باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLSX كملف بتنسيق DIF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

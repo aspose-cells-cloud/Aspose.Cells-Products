@@ -1,5 +1,5 @@
 ﻿---
-title:  Fügen Sie ein Wasserzeichen für die lokale Arbeitsmappe mit Java in der Cloud hinzu
+title: Fügen Sie ein Wasserzeichen für die lokale Arbeitsmappe mit Java in der Cloud hinzu
 description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit Java. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK for Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,0 +1,54 @@
+﻿---
+title:  Perl'i kullanarak FODS'yi JSON'a dönüştürün
+description:  FODS formatındaki bir dosyayı JSON formatındaki bir dosyaya dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Convert FODS to JSON, REST, Perl
+howto: How to convert FODS to JSON using Aspose.Cells Cloud Perl library.
+---
+{{< blocks/products/cells/cells-cloud-banner h1="FODS\'yi JSON\'ye dönüştür" h2="FODS\'yi JSON\'a dönüştürmek için Perl kitaplığı" p="Perl projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Perl\'i kullanarak FODS\'yi JSON\'a ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/fods-to-json/" >}}
+
+{{< blocks/products/cells/cells-cloud-section title="Perl için Cells Cloud SDK\'yı kullanarak FODS\'yi JSON\'a dönüştürün" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Dosya formatlarını FODS'den JSON'a dönüştürmek karmaşık bir iş olabilir. Perl SDK'mız, kaynak FODS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm FODS'den JSON formatına dönüşümleri gerçekleştirir. Perl kitaplığımız, FODS'yi çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Perl geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli JSON çıktısı sağlar.
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Cells Cloud SDK\'yı kullanarak FODS\'yi JSON\'a dönüştürmek için Kod Örneği" gistPath="" %}}
+ 
+```perl
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
+    use strict;
+    use warnings;
+    use utf8; 
+    use File::Slurp;
+    use AsposeCellsCloud::CellsApi;
+    my $config = AsposeCellsCloud::Configuration->new( client_id => $ENV{'ProductClientId'}, client_secret => $ENV{'ProductClientSecret'});
+    my $instance = AsposeCellsCloud::CellsApi->new(AsposeCellsCloud::ApiClient->new( $config));
+    my $format = "json";
+    my $Book1Data = undef;
+    my $result =undef;
+    my @fileinfos = stat("Book1.fods");
+    my $filelength = $fileinfos[7];
+    open(DATA, '<', "Book1.fods") or die "file can not open, $!";
+    binmode(DATA);
+    read (DATA, $Book1Data, $filelength);
+    close (DATA); 
+    $result = $instance->cells_workbook_put_convert_workbook(workbook => $Book1Data, format => $format);
+    open(my $fh, '>', "Dest.json") or die "Could not open file!";
+    binmode $fh;
+    print $fh $result;
+    close $fh;
+```
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Perl kitaplığını kullanarak FODS\'yi JSON\'a nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Perl paketini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı Perl'de açın.</li>
+<li>Ortaya çıkan akışı almak için `put_convert_workbook` yöntemini kullanın.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
+<li>Perl 5</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

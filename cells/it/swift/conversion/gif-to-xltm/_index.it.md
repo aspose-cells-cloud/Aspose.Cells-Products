@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF in XLTM Converti API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato GIF in file in formato XLTM.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato GIF in file in formato XLTM.
 url: /it/swift/conversion/gif-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

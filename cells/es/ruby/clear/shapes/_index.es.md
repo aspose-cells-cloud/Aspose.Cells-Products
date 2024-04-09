@@ -1,6 +1,6 @@
 ﻿---
 title:  Borrar formas en el libro local en la nube
-description: API y SDK en la nube para borrar formas en Microsoft Excel y OpenOffice Calc. Formas claras en hojas de cálculo locales mediante Cells Cloud API. El SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description: API y SDK en la nube para borrar formas en Microsoft Excel y OpenOffice Calc. Formas claras en hojas de cálculo locales mediante la nube Cells API. El SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Eliminación de formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar formas en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/Shapes/" >}}

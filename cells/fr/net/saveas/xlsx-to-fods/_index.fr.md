@@ -1,5 +1,5 @@
 ﻿---
-title: Enregistrez XLSX en tant que FODS en utilisant C#
+title:  Enregistrez XLSX en tant que FODS en utilisant C#
 description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XLSX en tant que fichier au format FODS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

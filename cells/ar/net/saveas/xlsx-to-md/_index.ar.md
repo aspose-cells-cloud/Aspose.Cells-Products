@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX كـ MD باستخدام C#
+title:  احفظ XLSX كـ MD باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLSX كملف بتنسيق MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: HTML a XLSB Convertir API para Swift
-description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato HTML a un archivo de formato XLSB.
+title:  HTML a XLSB Convertir API para Swift
+description: Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato HTML a un archivo de formato XLSB.
 url: /es/swift/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

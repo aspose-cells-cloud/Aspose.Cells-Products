@@ -1,5 +1,5 @@
 ﻿---
-title:  Lägg till vattenstämpel för lokal arbetsbok med NodeJS i molnet
+title: Lägg till vattenstämpel för lokal arbetsbok med NodeJS i molnet
 description:  Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc med NodeJS. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API SDK för NodeJS.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

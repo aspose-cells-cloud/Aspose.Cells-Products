@@ -10,7 +10,7 @@ url: /tr/swift/conversion/json-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir JSON dosyasını XLSM\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını JSON'dan XLSM'ye dönüştürmek karmaşık bir iştir. Tüm JSON'dan XLSM formatına geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, JSON'u çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıktısı sağlar.
+Dosya formatlarını JSON'dan XLSM'ye dönüştürmek karmaşık bir iştir. JSON'dan XLSM'ye tüm format geçişleri Swift SDK'mız tarafından gerçekleştirilir ve kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, JSON'u çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u XLSM biçimine dönüştürmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
@@ -66,7 +66,7 @@ Dosya formatlarını JSON'dan XLSM'ye dönüştürmek karmaşık bir iştir. Tü
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="JSON\'u XLSM\'ye dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

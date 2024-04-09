@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera XLSX till CSV med Ruby
-description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera en XLSX-fil till en CSV-fil.
+description: Använda Aspose.Cells Cloud SDK för Ruby för att konvertera en XLSX-fil till en CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera XLSX till CSV" h2="Ruby-bibliotek för att konvertera XLSX till CSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Ruby-projekt. Detta är en professionell lösning för att konvertera XLSX till CSV och andra dokumentformat online med Ruby." urlsection="conversion/xlsx-to-csv/" >}}

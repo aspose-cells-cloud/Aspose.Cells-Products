@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XML بتنسيق CSV باستخدام C#
+title:  احفظ XML بتنسيق CSV باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XML كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

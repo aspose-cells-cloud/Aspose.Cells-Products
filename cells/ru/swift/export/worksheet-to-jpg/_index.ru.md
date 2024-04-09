@@ -1,5 +1,5 @@
 ﻿---
-title: Экспорт WORKSHET в JPG из электронной таблицы с помощью Swift API
+title:  Экспорт WORKSHET в JPG из электронной таблицы с помощью Swift API
 description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 url: /ru/swift/export/worksheet-to-jpg/
 ---

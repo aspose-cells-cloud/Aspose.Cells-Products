@@ -1,66 +1,41 @@
 ﻿---
-title:  Convertir de Excel FODS à XLSB via Rubis
-description: Créez, modifiez ou convertissez des fichiers Excel avec REST API et le SDK Ruby Open Source
-url: /fr/ruby/conversion/fods-to-xlsb/
-family: cells
-platformtag: ruby
-feature: conversion
-informat: FODS
-outformat: XLSB
-platform: Ruby
-otherformats: XLTM XLSX MHTML XPS TXT DIF TSV XLSM ODS MD SVG CSV PDF XLTX FODS XLSB 
+title:  Convertir FODS en XLSB en utilisant Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format FODS en fichier au format XLSB.
+kwords: Excel, Convert FODS to XLSB, REST, Ruby
+howto: How to convert FODS to XLSB using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir FODS en XLSB avec Ruby" h2="Lisez, modifiez et exportez les données Excel vers d\'autres formats avec le SDK Cloud open source pour Ruby" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir FODS en XLSB" h2="Bibliothèque Ruby pour convertir FODS en XLSB" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Ruby. Il s\'agit d\'une solution professionnelle pour convertir FODS en XLSB et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/fods-to-xlsb/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion FODS en XLSB avec Ruby" %}}
-1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
-1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
-1. Téléchargez le fichier FODS sur Cloud Storage par défaut avec la méthode ```CellsApi.upload_file```
-1. Appelez la méthode ```CellsApi.cells_save_as_post_document_save_as``` pour obtenir le fichier XLSB résultant
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Convertissez FODS en XLSB à l\'aide du SDK Cloud Cells pour Ruby" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+La conversion des formats de fichiers FODS en XLSB peut être une tâche complexe. Notre SDK Ruby gère toutes les conversions du format FODS au format XLSB tout en préservant le contenu structurel et logique principal de la feuille de calcul FODS source. Notre bibliothèque Ruby fournit une solution professionnelle pour convertir en ligne des fichiers FODS en XLSB. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et garantit une sortie XLSB de haute qualité.
 
-{{% blocks/products/pf/agp/feature-section-col title="Commencez avec Excel API et le SDK Ruby" %}}
-Obtenez le SDK Cloud Excel pour le code source Ruby à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) pour compiler le SDK vous-même ou rendez-vous sur[Sorties](https://releases.aspose.cloud/) pour des options de téléchargement alternatives.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Jetez également un œil à Swagger-based[API Référence](https://apireference.aspose.cloud/cells/) pour en savoir plus sur le[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Code Ruby pour la conversion FODS en XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Exemple de code Ruby pour convertir FODS en XLSB à l\'aide du SDK Cloud Cells" gistPath="" %}}
+ 
 ```ruby
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
-
-require 'aspose_cells_cloud'
-
-class Workbook
-  include AsposeCellsCloud
-  def initialize
-    @instance =  AsposeCellsCloud::CellsApi.new($client_id, $client_secret, $api_version, $baseurl) 
-  end
-  
-  # Convert document and save result to storage
-  def post_document_save_as
-    name = $BOOK1
-    save_options = nil
-    newfilename = 'output.xlsb'
-    is_auto_fit_rows = true
-    is_auto_fit_columns = true
-    folder = $TEMPFOLDER
-    result = @instance.upload_file( folder + "/" + name, ::File.open(File.expand_path("data/" + name), "r") {|io| io.read(io.size) })
-    expect(result.uploaded.size).to  be > 0
-    result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder + "/" + newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
-  end
-end
-
-workbook = Workbook.new()
-puts workbook.post_document_save_as
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
+    describe 'cells_save_as_post_document_save_as test' do
+        it "should work" do
+            @instance = AsposeCellsCloud::CellsApi.new($client_id,$client_secret,"v3.0","https://api.aspose.cloud/")
+            name = "BOOK1.fods"
+            format = 'xlsb'
+            @instance.cells_workbook_put_convert_workbook( ::File.open(File.expand_path("data/"+name),"r")  {|io| io.read(io.size) },{:format=>format})     
+        end
+    end
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment convertir FODS en XLSB à l\'aide de la bibliothèque Cloud Ruby Cells." >}}
+<li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
+<li>Installez la bibliothèque Ruby et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source dans Ruby.</li>
+<li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
+<li>rubis 2.5 ou plus récent</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

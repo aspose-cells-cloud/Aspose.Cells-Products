@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertera PNG till PPTX med Android
-description: Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i PNG-format till en fil i PPTX-format.
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i PNG-format till en fil i PPTX-format.
+kwords: Excel, Convert PNG to PPTX, REST, Android
+howto: How to convert PNG to PPTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera PNG till PPTX" h2="Android-bibliotek för att konvertera PNG till PPTX" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android-projekt. Detta är en professionell lösning för att konvertera PNG till PPTX och andra dokumentformat online med Android." urlsection="conversion/png-to-pptx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera PNG till PPTX" h2="Android-bibliotek för att konvertera PNG till PPTX" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android-projekt. Detta är en professionell lösning för att konvertera PNG till PPTX och andra dokumentformat online med Android." urlsection="conversion/png-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera PNG till PPTX med Cells Cloud SDK för Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera PNG till PPTX med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Att konvertera filformat från PNG till PPTX kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar från PNG till PPTX-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket PNG bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera PNG till PPTX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer PPTX-utdata av hög kvalitet.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att konvertera PNG till PPTX med Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-kodexempel för att konvertera PNG till PPTX med Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -43,22 +44,15 @@ Att konvertera filformat från PNG till PPTX kan vara en komplex uppgift. Vår A
         }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel-filer till andra format PNG till PPTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel-filer till andra format" >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>Android 7 eller senare</li>
 <li>Java(TM) SE Runtime Environment</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

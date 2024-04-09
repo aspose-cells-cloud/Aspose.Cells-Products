@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLSX als JSON mit C#
+title:  Speichern Sie XLSX als JSON mit C#
 description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der XLSX-Formatdatei als JSON-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Salva SXC come CSV utilizzando Java
+title:  Salva SXC come CSV utilizzando Java
 description:  Utilizzando Aspose.Cells Cloud SDK for Java per salvare il file in formato SXC come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

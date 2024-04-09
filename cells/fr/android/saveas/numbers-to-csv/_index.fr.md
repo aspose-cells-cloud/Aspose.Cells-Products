@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer NUMBERS au format CSV en utilisant Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format NUMBERS au format CSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format NUMBERS au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer les NUMÉROS au format CSV" h2="Bibliothèque Android pour enregistrer des NUMÉROS au format CSV" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format CSV et autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/numbers-to-csv/" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLSX au format MHTML avec Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLSX au format MHTML.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLSX au format MHTML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLSX au format MHTML" h2="Bibliothèque Android pour enregistrer XLSX au format MHTML" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLSX au format MHTML et autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xlsx-to-mhtml/" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som XLSM API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att spara fil i PNG-format som fil i XLSM-format.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara fil i PNG-format som fil i XLSM-format.
 url: /sv/swift/saveas/png-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

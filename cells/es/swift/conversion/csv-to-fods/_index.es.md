@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir CSV a FODS API para Swift
-description: Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato CSV a un archivo de formato FODS.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato CSV a un archivo de formato FODS.
 url: /es/swift/conversion/csv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

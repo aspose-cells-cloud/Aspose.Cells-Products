@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ ODS كـ XPS باستخدام Ruby
 description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق ODS كملف بتنسيق XPS.
+kwords: Excel, Save ODS as XPS, REST, Ruby
+howto: How to save ODS as XPS using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ المواد المستنفدة للأوزون كـ XPS" h2="مكتبة روبي لحفظ المواد المستنفدة للأوزون برقم XPS" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Ruby. يعد هذا حلاً احترافيًا لحفظ ODS كـ XPS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/ods-to-xps/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ المواد المستنفدة للأوزون كـ XPS" h2="مكتبة روبي لحفظ المواد المستنفدة للأوزون برقم XPS" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Ruby. يعد هذا حلاً احترافيًا لحفظ ODS كـ XPS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/ods-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS باسم XPS في روبي" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف ODS باسم XPS في روبي" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من ODS بالرقم XPS مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق ODS إلى XPS بواسطة Ruby SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون كملفات XPS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراجًا مثاليًا XPS.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على كود روبي لحفظ المواد المستنفدة للأوزون كـ XPS باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="مثال على كود روبي لحفظ المواد المستنفدة للأوزون كـ XPS باستخدام REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -29,21 +30,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف ب
     result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder+"/"+newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ Ruby لحفظ ملفات Excel بتنسيقات ODS أخرى مثل XPS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ ODS كـ XPS باستخدام مكتبة Cloud Ruby Cells." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة روبي وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في روبي.</li>
 <li>استخدم طريقة `post_workbook_save_as` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>روبي 2.5 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

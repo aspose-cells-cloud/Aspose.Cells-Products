@@ -1,5 +1,5 @@
 ﻿---
-title: Guarde XLSM como CSV usando Python
+title:  Guarde XLSM como CSV usando Python
 description:  Utilizando Aspose.Cells Cloud SDK para Python para guardar el archivo en formato XLSM como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

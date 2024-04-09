@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için CSV'den WMF'ye dönüştürme API
-description: CSV formatındaki dosyayı WMF formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
+description:  CSV formatındaki dosyayı WMF formatındaki dosyaya dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/conversion/csv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -66,7 +66,7 @@ Dosya formatlarını CSV'den WMF'ye dönüştürmek karmaşık bir iştir. Tüm 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="CSV\'yi WMF\'ye dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

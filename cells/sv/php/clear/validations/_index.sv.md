@@ -3,7 +3,7 @@ title:  Tydliga valideringar på den lokala arbetsboken i Cloud
 description: "Cloud API:er och SDK:er för att rensa valideringar på Microsoft Excel & OpenOffice Calc. Tydliga valideringar på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort valideringar på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="PHP Rensa för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i PHP. Denna professionella lösning klarar valideringar på lokala Microsoft 36153481 40153481 Calc 36163481 och 36163481 40163481 3476 36163481 3476 34767 och 36163481. 81." urlsection="clear/Validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort valideringar på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="PHP Rensa för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i PHP. Denna professionella lösning klarar valideringar på lokala Microsoft 3876153481 38163481 38163481 och 3816153481 38163481 3816 38163481 och 3816 3816 38167 ." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - PHP REST API" >}}

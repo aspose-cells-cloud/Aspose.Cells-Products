@@ -1,18 +1,19 @@
 ﻿---
 title:  تحويل XLSX إلى JPG باستخدام C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف بتنسيق XLSX إلى ملف بتنسيق JPG.
+kwords: Excel, Convert XLSX to JPG, REST, C#
+howto: How to convert XLSX to JPG using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSX إلى JPG" h2="مكتبة C# لتحويل XLSX إلى JPG" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Net. يعد هذا حلاً احترافيًا لتحويل XLSX إلى JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/xlsx-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل XLSX إلى JPG" h2="مكتبة C# لتحويل XLSX إلى JPG" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Net. يعد هذا حلاً احترافيًا لتحويل XLSX إلى JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="conversion/xlsx-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSX إلى JPG باستخدام Cells Cloud SDK لـ C#" >}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل XLSX إلى JPG باستخدام Cells Cloud SDK لـ C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 يمكن أن يكون تحويل تنسيقات الملفات من XLSX إلى JPG مهمة معقدة. يتعامل برنامج SDK C# الخاص بنا مع جميع تحويلات تنسيق XLSX إلى JPG مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. توفر مكتبتنا C# حلاً احترافيًا لتحويل ملفات XLSX إلى JPG عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري C# من الحصول على وظائف قوية ويضمن إخراج JPG عالي الجودة.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# مثال على الكود لتحويل XLSX إلى JPG باستخدام Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# مثال على الكود لتحويل XLSX إلى JPG باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -32,22 +33,16 @@ description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف 
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK for Net لتحويل ملفات Excel إلى تنسيقات أخرى XLSX إلى JPG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل XLSX إلى JPG باستخدام مكتبة Cloud Net Cells." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة C# وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في C#</li>
 <li>استخدم طريقة `PutConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>NET Framework 4.5.2 أو أحدث</li>
 <li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

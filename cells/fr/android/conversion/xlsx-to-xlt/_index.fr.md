@@ -9,7 +9,7 @@ description: Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir u
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez XLSX en XLT à l\'aide du SDK Cloud Cells pour Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLSX en XLT peut être une tâche complexe. Notre SDK Android gère toutes les conversions du format XLSX vers XLT tout en préservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque Android fournit une solution professionnelle pour convertir des fichiers XLSX en XLT en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et garantit une sortie XLT de haute qualité.
+La conversion des formats de fichiers XLSX vers XLT peut être une tâche complexe. Notre SDK Android gère toutes les conversions du format XLSX vers XLT tout en préservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque Android fournit une solution professionnelle pour convertir des fichiers XLSX en XLT en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et garantit une sortie XLT de haute qualité.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code Android pour convertir XLSX en XLT à l\'aide du SDK Cloud Cells" gistPath="" %}}

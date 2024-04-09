@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLTX als CSV mit PHP
+title:  Speichern Sie XLTX als CSV mit PHP
 description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern von XLTX-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

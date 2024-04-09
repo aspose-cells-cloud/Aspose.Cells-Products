@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертируйте TXT в CSV, используя PHP.
-description: Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата TXT в файл формата CSV.
+description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата TXT в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать TXT в CSV" h2="PHP библиотека для конвертации TXT в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертирования TXT в CSV и другие форматы документов с помощью номера PHP." urlsection="conversion/txt-to-csv/" >}}

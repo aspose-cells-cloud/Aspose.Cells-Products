@@ -1,5 +1,5 @@
 ﻿---
-title:  Swift API'i kullanarak elektronik tablodan RESİM'i EMF'e aktarın
+title: Swift API'i kullanarak elektronik tablodan RESİM'i EMF'e aktarın
 description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 url: /tr/swift/export/picture-to-emf/
 ---
@@ -56,7 +56,7 @@ PICTURE nesnesini e-tablodan EMF dosyasına aktarmak karmaşık bir iştir. PICT
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="RESİM\'i EMF\'e aktarmak için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSB zu PPTX Konvertieren Sie API für Swift
+title:  XLSB in PPTX Konvertieren Sie API für Swift
 description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSB-Format in eine Datei im PPTX-Format.
 url: /de/swift/conversion/xlsb-to-pptx/
 ---

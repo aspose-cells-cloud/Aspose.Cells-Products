@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV in ODS Converti API per Swift
-description: Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato CSV in un file in formato ODS.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Swift per convertire il file in formato CSV in un file in formato ODS.
 url: /it/swift/conversion/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

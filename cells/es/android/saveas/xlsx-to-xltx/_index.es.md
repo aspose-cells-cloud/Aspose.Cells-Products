@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLSX como XLTX usando Android
-description: Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo en formato XLSX como archivo en formato XLTX.
+description:  Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo en formato XLSX como archivo en formato XLTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XLSX como XLTX" h2="Biblioteca de Android para guardar XLSX como XLTX" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Android. Esta es una solución profesional para guardar XLSX como XLTX y otros formatos de documentos en línea usando Android." urlsection="saveas/xlsx-to-xltx/" >}}

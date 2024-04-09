@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSM كملف CSV باستخدام Perl
+title:  احفظ XLSM كملف CSV باستخدام Perl
 description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLSM كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

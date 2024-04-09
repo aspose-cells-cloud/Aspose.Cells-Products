@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в TXT API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата TXT.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата TXT.
 url: /ru/swift/conversion/csv-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

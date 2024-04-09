@@ -1,6 +1,6 @@
 ﻿---
-title: Salva TXT come CSV utilizzando C#
-description:  Utilizzando Aspose.Cells Cloud SDK per C# per salvare il file in formato TXT come file in formato CSV.
+title:  Salva TXT come CSV utilizzando C#
+description: Utilizzando Aspose.Cells Cloud SDK per C# per salvare il file in formato TXT come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Salva TXT come CSV" h2="Libreria C# per il salvataggio di TXT come CSV" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Net. Questa è una soluzione professionale per salvare TXT come CSV e altri formati di documenti online utilizzando C#." urlsection="saveas/txt-to-csv/" >}}

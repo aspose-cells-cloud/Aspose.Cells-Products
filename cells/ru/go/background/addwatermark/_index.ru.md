@@ -1,6 +1,6 @@
 ﻿---
 title:  Добавьте водяной знак в локальную книгу с помощью Go в облаке
-description: Облачные API и SDK для добавления водяных знаков для Microsoft Excel и OpenOffice Calc с Go. Добавление водяного знака для локальных таблиц с помощью Cells Cloud API SDK для Go.
+description:  Облачные API и SDK для добавления водяных знаков для Microsoft Excel и OpenOffice Calc с Go. Добавление водяного знака для локальных таблиц с помощью Cells Cloud API SDK для Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы добавить водяной знак для локального номера Microsoft, Excel и электронной таблицы OpenOffice Calc." h2="Библиотека Go для добавления водяных знаков для локальных номеров Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Watermark REST API, чтобы добавить водяной знак для локальных Microsoft Excel и рабочих процессов электронных таблиц OpenOffice Calc в Go. Это профессиональное решение добавляет водяной знак для Microsoft Excel и электронных таблиц OpenOffice Calc онлайн с помощью Go." urlsection="background/Add-watermark/" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: NodeJS kullanarak Excel dosya için arka plan ayarlayın
+title:  NodeJS kullanarak Excel dosya için arka plan ayarlayın
 description:  Aspose.Cells Cloud REST API, NodeJS kullanarak Excel dosyaları için arka planın ayarlanmasını destekler ve çeşitli programlama dilleri için SDK'lar sunar.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

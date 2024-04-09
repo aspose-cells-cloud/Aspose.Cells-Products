@@ -1,18 +1,19 @@
 ﻿---
-title:  تحويل TXT إلى DOCX باستخدام Perl
-description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق TXT إلى ملف بتنسيق DOCX.
+title: تحويل TXT إلى DOCX باستخدام Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق TXT إلى ملف بتنسيق DOCX.
+kwords: Excel, Convert TXT to DOCX, REST, Perl
+howto: How to convert TXT to DOCX using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل TXT إلى DOCX" h2="مكتبة Perl لتحويل TXT إلى DOCX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل TXT إلى DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/txt-to-docx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل TXT إلى DOCX" h2="مكتبة Perl لتحويل TXT إلى DOCX" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل TXT إلى DOCX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/txt-to-docx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل TXT إلى DOCX باستخدام Cells Cloud SDK لـ Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل TXT إلى DOCX باستخدام Cells Cloud SDK لـ Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 يمكن أن يكون تحويل تنسيقات الملفات من TXT إلى DOCX مهمة معقدة. يتعامل SDK Perl الخاص بنا مع جميع تحويلات تنسيق TXT إلى DOCX مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. توفر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات TXT إلى DOCX عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Perl من الحصول على وظائف قوية ويضمن إخراج DOCX عالي الجودة.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl مثال على الكود لتحويل TXT إلى DOCX باستخدام Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl مثال على الكود لتحويل TXT إلى DOCX باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -39,21 +40,15 @@ description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف
     close $fh;
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Perl SDK لتحويل TXT إلى DOCX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل TXT إلى DOCX باستخدام مكتبة Cells Cloud Perl." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت حزمة Perl وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في Perl.</li>
 <li>استخدم طريقة `put_convert_workbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

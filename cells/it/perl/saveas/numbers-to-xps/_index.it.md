@@ -1,18 +1,19 @@
 ﻿---
 title:  Salva i NUMERI come XPS utilizzando Perl
-description:  Utilizzando Aspose.Cells Cloud SDK per Perl per salvare il file in formato NUMERI come file in formato XPS.
+description: Utilizzando Aspose.Cells Cloud SDK per Perl per salvare il file in formato NUMERI come file in formato XPS.
+kwords: Excel, Save NUMBERS as XPS, REST, Perl
+howto: How to save NUMBERS as XPS using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva i NUMERI come XPS" h2="Libreria Perl per salvare i NUMERI come XPS" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Perl. Questa è una soluzione professionale per salvare NUMERI come XPS e altri formati di documenti online utilizzando Perl." urlsection="saveas/numbers-to-xps/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Salva i NUMERI come XPS" h2="Libreria Perl per salvare i NUMERI come XPS" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Perl. Questa è una soluzione professionale per salvare NUMERI come XPS e altri formati di documenti online utilizzando Perl." urlsection="saveas/numbers-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file NUMERI come XPS in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="Salva un file NUMERI come XPS in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Salvare i formati di file da NUMBERS come XPS è un compito complesso. Tutte le transizioni di formato da NUMBERS a XPS vengono eseguite dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo NUMBERS di origine. La nostra libreria Perl è una soluzione professionale per salvare i NUMERI come file XPS online. Questo Cloud SDK offre agli sviluppatori Perl funzionalità potenti e un output XPS perfetto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Codice Esempio per salvare NUMERI come XPS utilizzando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Codice Esempio per salvare NUMERI come XPS utilizzando REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -25,21 +26,15 @@ Salvare i formati di file da NUMBERS come XPS è un compito complesso. Tutte le 
     $result = $instance->cells_save_as_post_document_save_as(name => $name,save_options => $save_options, newfilename => $newfilename, folder => $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Perl per salvare i file Excel in altri formati NUMERI come XPS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come salvare i NUMERI come XPS utilizzando la libreria Cells Cloud Perl." >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
-<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Installa la libreria Perl e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in Perl.</li>
 <li>Chiama la posta_cartella di lavoro_save_as per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

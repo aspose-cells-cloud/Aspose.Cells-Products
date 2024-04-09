@@ -1,56 +1,40 @@
 ﻿---
-title: 从 Excel FODS 转换为 TXT via Python
-description: 使用 REST API 和开源 Python SDK 创建、编辑或转换 Excel 文件
-url: /zh/python/conversion/fods-to-txt/
-family: cells
-platformtag: python
-feature: conversion
-informat: FODS
-outformat: TXT
-platform: Python
-otherformats: XLTM MD XPS FODS MHTML CSV SVG DIF TIFF TXT XLSM PDF XLSX XLTX TSV XLSB 
+title: 使用 Python 将 FODS 转换为 TXT
+description: 利用Python的Aspose.Cells Cloud SDK将FODS格式文件转换为TXT格式文件。
+kwords: Excel, Convert FODS to TXT, REST, Python
+howto: How to convert FODS to TXT using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="使用 Python 将 FODS 转换为 TXT" h2="使用适用于 Python 的开源 Cloud SDK 读取、编辑 Excel 数据并将其导出为其他格式" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 FODS 转换为 TXT" h2="Python 用于将 FODS 转换为 TXT 的库" p="使用 Cells 云的转换 API 在 Python 项目中创建自定义电子表格工作流程。这是使用 Python 在线将 FODS 转换为 TXT 等文档格式的专业解决方案。" urlsection="conversion/fods-to-txt/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="使用 Python 将 FODS 转换为 TXT" %}}
-1. 创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息
-1. 使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 ```CellsApi```
-1. 使用 ```CellsApi.upload_file``` 方法将 FODS 文件上传到默认云存储
-1. 调用```CellsApi.cells_save_as_post_document_save_as```方法获取生成的TXT文件
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Python 将 FODS 转换为 TXT" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+将文件格式从 FODS 转换为 TXT 可能是一项复杂的任务。我们的 Python SDK 处理所有 FODS 到 TXT 格式的转换，同时保留源 FODS 电子表格的主要结构和逻辑内容。我们的 Python 库提供了在线将 FODS 转换为 TXT 文件的专业解决方案。该Cloud SDK为Python开发者提供强大的功能，并保证高质量的TXT输出。
 
-{{% blocks/products/pf/agp/feature-section-col title="开始使用 Excel API 和 Python SDK" %}}
-获取 Excel Cloud SDK for Python 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python)自己编译 SDK 或前往[发布](https://releases.aspose.cloud/)以获得替代下载选项。
+{{< /blocks/products/cells/cells-cloud-section >}}
 
-另请查看基于 Swagger 的[API 参考](https://apireference.aspose.cloud/cells/)了解更多关于[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Python FODS 到 TXT 转换代码" gistPath="" %}}
-```python
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
-import os
-import sys
-import asposecellscloud
-from asposecellscloud.apis.cells_api import CellsApi
-api  = asposecellscloud.apis.cells_api.CellsApi(os.getenv('CellsCloudClientId'), os.getenv('CellsCloudClientSecret'), "v3.0" ,os.getenv('CellsCloudApiBaseUrl'))
-
-name ='template.fods'    
-saveOptions = None
-newfilename = "output.txt"
-isAutoFitRows= True
-isAutoFitColumns= True
-folder = "temp"
-result = api.upload_file(folder + '/' + name,  "c:/TestData/" + name)
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python 使用 Cells Cloud SDK 将 FODS 转换为 TXT 的代码示例" gistPath="" %}}
  
-result = api.cells_save_as_post_document_save_as(name, save_options=saveOptions, newfilename=(folder +'/' + newfilename), is_auto_fit_rows=isAutoFitRows, is_auto_fit_columns=isAutoFitColumns, folder=folder)
+```python
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
+    import os
+    import shutil
+    from asposecellscloud.apis.cells_api import CellsApi
+    cells_api = CellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
+    file1 = cells_api.cells_workbook_put_convert_workbook("Book1.fods",format="txt")
+    shutil.move(file1, "destFile.txt")     
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="了解如何使用 Cells Cloud Python 库将 FODS 转换为 TXT。" >}}
+<li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
+<li>安装 Python 库并将引用（导入库）添加到您的项目中。</li>
+<li>打开Python中的源文件。</li>
+<li>使用 `put_convert_workbook` 方法检索结果流。</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
+<li>Python 2.7 或更高版本</li>
+<li>Python 3.10 或更高版本</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

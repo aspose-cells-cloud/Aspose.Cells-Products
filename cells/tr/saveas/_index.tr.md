@@ -1,9 +1,9 @@
 ﻿---
-title:  Excel dosyasını diğer formattaki dosya olarak kaydedin
-description:  Aspose.Cells Cloud REST API, Excel dosyalarının çeşitli formatlarda kaydedilmesine olanak tanır ve Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift dahil olmak üzere birden fazla programlama dili için SDK'lar sağlar .
+title: Excel dosyasını diğer formattaki dosya olarak kaydedin
+description:  Aspose.Cells Cloud REST API, Excel dosyalarının çeşitli formatlarda kaydedilmesine olanak tanır ve Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift dahil olmak üzere birden fazla programlama dili için SDK'lar sağlar.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Excel dosyasını diğer formattaki dosya olarak kaydedin" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının 30\'dan fazla farklı dosya biçiminde kaydedilmesini destekler." p="Aspose.Cells Cloud REST API, Excel dosyalarının çeşitli formatlarda kaydedilmesine olanak tanır ve Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift dahil olmak üzere birden fazla programlama dili için SDK\'lar sağlar ." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Excel dosyasını diğer formattaki dosya olarak kaydedin" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının 30\'dan fazla farklı dosya biçiminde kaydedilmesini destekler." p="Aspose.Cells Cloud REST API, Excel dosyalarının çeşitli formatlarda kaydedilmesine olanak tanır ve Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift dahil olmak üzere birden fazla programlama dili için SDK\'lar sağlar." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

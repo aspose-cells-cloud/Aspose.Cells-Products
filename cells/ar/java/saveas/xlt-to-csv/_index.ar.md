@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLT كملف CSV باستخدام Java
+title:  احفظ XLT كملف CSV باستخدام Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLT كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в CSV с помощью Go
-description: Использование Cloud SDK для Go Aspose.Cells для преобразования файла формата MHTML в файл формата CSV.
+description:  Использование Cloud SDK для Go Aspose.Cells для преобразования файла формата MHTML в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать MHTML в CSV" h2="Библиотека Go для преобразования MHTML в CSV" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Go. Это профессиональное решение для онлайн-конвертирования MHTML в CSV и другие форматы документов с помощью Go." urlsection="conversion/mhtml-to-csv/" >}}
@@ -9,7 +9,7 @@ description: Использование Cloud SDK для Go Aspose.Cells для 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование MHTML в CSV с помощью Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в CSV может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования форматов MHTML в CSV, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертации файлов MHTML в CSV. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
+Преобразование форматов файлов из MHTML в CSV может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования форматов MHTML в CSV, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертирования файлов MHTML в CSV. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования MHTML в CSV с использованием Cloud SDK Cells" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde PNG como TXT API para Swift
-description: Uso de Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato PNG como archivo de formato TXT.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato PNG como archivo de formato TXT.
 url: /es/swift/saveas/png-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

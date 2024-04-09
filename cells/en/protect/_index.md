@@ -13,7 +13,7 @@ description: Aspose.Cells Cloud REST API supports workbook decryption, encryptio
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Protect" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl= https://reference.aspose.cloud/cells/#/Protection/PostProtect >}} 
+{{< blocks/products/cells/cells-cloud-api-template btName="Protect" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl=https://reference.aspose.cloud/cells/#/Protection/PostProtect >}} 
 {{< blocks/products/cells/cells-cloud-upload>}}  
  
 	{{< blocks/products/cells/cells-cloud-parameters itName="password"  required="true" prompt="Please enter password">}} 

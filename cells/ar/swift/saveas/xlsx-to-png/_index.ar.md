@@ -13,7 +13,7 @@ url: /ar/swift/saveas/xlsx-to-png/
 يعد حفظ تنسيقات الملفات من XLSX كـ PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى PNG بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSX كملفات PNG عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج PNG مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق PNG" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

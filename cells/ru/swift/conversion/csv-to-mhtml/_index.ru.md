@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в MHTML API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата MHTML.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата MHTML.
 url: /ru/swift/conversion/csv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

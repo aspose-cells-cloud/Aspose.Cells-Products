@@ -110,7 +110,7 @@ url: /de/curl
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Diagrammlegende abrufen, aktualisieren, anzeigen oder ausblenden
+Diagrammlegende abrufen, aktualisieren, anzeigen oder ausblenden
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ url: /de/curl
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
+ Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
     </p>
    </div>
    <div class="col-lg-4">
@@ -227,14 +227,14 @@ Löschen Sie bestimmte oder alle OleObjects aus dem Arbeitsblatt
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Beginnen Sie mit Excel Spreadsheet Processing REST API
+Beginnen Sie mit Excel Spreadsheet Processing REST API
     </h2>
     <p>
  Um mit Aspose.Cells Cloud für cURL loszulegen, müssen Sie nichts installieren. Sie müssen lediglich ein Konto bei erstellen
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose für Cloud
      </a>
-und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App-SID &amp; Mit dem Schlüssel können Sie Aspose.Cells Cloud für cURL auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud für cURL bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Außerdem können Sie Daten aus den Tabellenkalkulationen extrahieren, um sie weiter zu verarbeiten oder zu speichern.
+ und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App-SID &amp; Mit dem Schlüssel können Sie Aspose.Cells Cloud für cURL auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud für cURL bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Außerdem können Sie Daten aus den Tabellenkalkulationen extrahieren, um sie weiter zu verarbeiten oder zu speichern.
     </p>
    </div>
    <div class="col-lg-12">
@@ -242,15 +242,15 @@ und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App-SID &amp; Mit 
  Arbeitsmappen verarbeiten via Cloud REST API
     </h2>
     <p>
- Aspose.Cells Cloud für cURL ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, den Passwortschutz, den Export in ein unterstütztes Dateiformat, das Lesen von Textelementen der Arbeitsmappe, das automatische Anpassen von Arbeitsmappenzeilen unter Ignorieren versteckter Elemente, das Verschlüsseln des Arbeitsmappenkennworts und die Bereitstellung der Länge des Verschlüsselungsschlüssels , Daten in die Arbeitsmappe importieren, alle Formeln in der Arbeitsmappe berechnen, Formelberechnungseinstellungen festlegen, indem Sie eine Präzisionsstrategie angeben usw., Smart Marker verwenden, Arbeitsmappe vom Anforderungsinhalt in ein anderes Format konvertieren, Kennwort anwenden, um Inhaltsänderungen zu ermöglichen.
+Aspose.Cells Cloud für cURL ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, den Passwortschutz, den Export in ein unterstütztes Dateiformat, das Lesen von Textelementen der Arbeitsmappe, das automatische Anpassen von Arbeitsmappenzeilen unter Ignorieren versteckter Elemente, das Verschlüsseln des Arbeitsmappenkennworts und die Bereitstellung der Länge des Verschlüsselungsschlüssels , Daten in die Arbeitsmappe importieren, alle Formeln in der Arbeitsmappe berechnen, Formelberechnungseinstellungen festlegen, indem Sie eine Präzisionsstrategie angeben usw., Smart Marker verwenden, Arbeitsmappe vom Anforderungsinhalt in ein anderes Format konvertieren, Kennwort anwenden, um Inhaltsänderungen zu ermöglichen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Cloud API zum Verarbeiten von Arbeitsblättern
+ Cloud API zum Verarbeiten von Arbeitsblättern
     </h2>
     <p>
- Mit Aspose.Cells Cloud für cURL können Sie eine bestimmte Zeile oder alle Zeilen im Arbeitsblatt löschen, Arbeitsblatt-Zelldaten oder Zellstil anhand des Zellennamens abrufen, Arbeitsblatt-Zeilen- oder -Spaltendaten anhand ihres Index lesen, Zellformeln berechnen, Zellinhalte löschen und Zellen in eine andere kopieren Zelle, Arbeitsblattspalten und -zeilen kopieren, Arbeitsblattzeilen und -spalten gruppieren, Arbeitsblattzeilen und -spalten ausblenden, Arbeitsblattspalten- und -zeilenstile festlegen, HTMLSTRING-Wert in Zelle festlegen, Zellbereichswert festlegen und viele andere Arbeitsblatteinstellungen ändern.
+Mit Aspose.Cells Cloud für cURL können Sie eine bestimmte Zeile oder alle Zeilen im Arbeitsblatt löschen, Arbeitsblatt-Zelldaten oder Zellstil anhand des Zellennamens abrufen, Arbeitsblatt-Zeilen- oder -Spaltendaten anhand ihres Index lesen, Zellformeln berechnen, Zellinhalte löschen und Zellen in eine andere kopieren Zelle, Arbeitsblattspalten und -zeilen kopieren, Arbeitsblattzeilen und -spalten gruppieren, Arbeitsblattzeilen und -spalten ausblenden, Arbeitsblattspalten- und -zeilenstile festlegen, HTMLSTRING-Wert in Zelle festlegen, Zellbereichswert festlegen und viele andere Arbeitsblatteinstellungen ändern.
     </p>
    </div>
    <div class="col-lg-12">

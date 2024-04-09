@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLTM как CSV с помощью Android
+title:  Сохраните XLTM как CSV с помощью Android
 description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLTM в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

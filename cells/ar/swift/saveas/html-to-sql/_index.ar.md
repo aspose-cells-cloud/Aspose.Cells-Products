@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ SQL API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق HTML كملف تنسيق SQL.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق HTML كملف تنسيق SQL.
 url: /ar/swift/saveas/html-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

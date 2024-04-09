@@ -1,18 +1,19 @@
 ﻿---
 title:  Python'i kullanarak XLSX'i TSV'ye dönüştürün
 description:  XLSX formatındaki bir dosyayı TSV formatındaki bir dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Convert XLSX to TSV, REST, Python
+howto: How to convert XLSX to TSV using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX\'yi TSV\'ye dönüştür" h2="XLSX\'i TSV\'ye dönüştürmek için Python kitaplığı" p="Python projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Python\'i kullanarak XLSX\'i çevrimiçi olarak TSV\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlsx-to-tsv/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLSX\'yi TSV\'ye dönüştür" h2="XLSX\'i TSV\'ye dönüştürmek için Python kitaplığı" p="Python projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Python\'i kullanarak XLSX\'i çevrimiçi olarak TSV\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlsx-to-tsv/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Python için Cells Cloud SDK\'yı kullanarak XLSX\'i TSV\'ye dönüştürün" >}}
+{{< blocks/products/cells/cells-cloud-section title="Python için Cells Cloud SDK\'yı kullanarak XLSX\'i TSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Dosya formatlarını XLSX'ten TSV'ye dönüştürmek karmaşık bir iş olabilir. Python SDK'mız, kaynak XLSX e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLSX'ten TSV formatına dönüşümleri gerçekleştirir. Python kitaplığımız, XLSX'i çevrimiçi olarak TSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Python geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli TSV çıktısı sağlar.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python Cells Bulut SDK\'yı kullanarak XLSX\'i TSV\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Cells Bulut SDK\'yı kullanarak XLSX\'i TSV\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -24,22 +25,16 @@ Dosya formatlarını XLSX'ten TSV'ye dönüştürmek karmaşık bir iş olabilir
     shutil.move(file1, "destFile.tsv")     
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara XLSX\'ten TSV\'ye dönüştürmek için Python için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
-<li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Python kitaplığını kullanarak XLSX\'i TSV\'ye nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Python kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
+<li>Kaynak dosyayı Python'de açın.</li>
 <li>Ortaya çıkan akışı almak için `put_convert_workbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
 <li>Python 2.7 veya daha yenisi</li>
 <li>Python 3.10 veya daha yenisi</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

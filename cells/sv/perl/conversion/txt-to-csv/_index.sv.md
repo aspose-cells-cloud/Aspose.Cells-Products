@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera TXT till CSV med Perl
-description: Använda Aspose.Cells Cloud SDK för Perl för att konvertera en fil i TXT-format till en fil i CSV-format.
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera en fil i TXT-format till en fil i CSV-format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera TXT till CSV" h2="Perl bibliotek för att konvertera TXT till CSV" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Perl projekt. Detta är en professionell lösning för att konvertera TXT till CSV och andra dokumentformat online med Perl." urlsection="conversion/txt-to-csv/" >}}

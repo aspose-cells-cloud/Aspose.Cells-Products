@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV till PNG Konvertera API för Swift
-description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i CSV-format till fil i PNG-format.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i CSV-format till fil i PNG-format.
 url: /sv/swift/conversion/csv-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

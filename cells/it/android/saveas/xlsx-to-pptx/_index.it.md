@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSX come PPTX utilizzando Android
-description: Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato PPTX.
+description:  Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato PPTX.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLSX come PPTX" h2="Libreria Android per salvare XLSX come PPTX" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Android. Questa è una soluzione professionale per salvare XLSX come PPTX e altri formati di documenti online utilizzando Android." urlsection="saveas/xlsx-to-pptx/" >}}

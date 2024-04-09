@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ TSV API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق PNG كملف تنسيق TSV.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف التنسيق PNG كملف تنسيق TSV.
 url: /ar/swift/saveas/png-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

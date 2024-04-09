@@ -1,47 +1,48 @@
 ﻿---
-title:  Converti FODS in PDF via .NET
-description: Crea, modifica o converti file Excel con Cloud API e SDK Open Source .NET
-url: /it/net/conversion/fods-to-pdf/
-family: cells
-platformtag: net
-feature: conversion
-informat: FODS
-outformat: PDF
-platform: .NET
-otherformats: TIFF HTML XML SVG CSV XLT DIF XLS XLTM FODS TSV PDF MD XPS XLSX XLSB 
+title: Converti FODS in PDF utilizzando C#
+description:  Utilizzando Aspose.Cells Cloud SDK per C# per convertire un file in formato FODS in un file in formato PDF.
+kwords: Excel, Convert FODS to PDF, REST, C#
+howto: How to convert FODS to PDF using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti FODS in PDF nel Cloud" h2="Excel e conversione di fogli di calcolo OpenOffice con Cloud SDK open source for .NET" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Converti FODS in PDF" h2="Libreria C# per convertire FODS in PDF" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo nei progetti Net. Questa è una soluzione professionale per convertire FODS in PDF e altri formati di documenti online utilizzando C#." urlsection="conversion/fods-to-pdf/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS a PDF Conversione in App .NET" %}}
-1.  Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione
-1. Inizializza ```CellsApi``` con ID client, segreto client, URL di base e versione API
-1. Carica il file FODS sul Cloud Storage predefinito con il metodo ```CellsApi.Upload```
-1. Chiama il metodo ```CellsApi.CellsSaveAsPostDocumentSaveAs``` per ottenere il file PDF risultante
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Converti FODS in PDF utilizzando Cells Cloud SDK per C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+La conversione dei formati di file da FODS a PDF può essere un compito complesso. Il nostro SDK C# gestisce tutte le conversioni del formato FODS in PDF preservando il contenuto strutturale e logico principale del foglio di calcolo FODS di origine. La nostra libreria C# fornisce una soluzione professionale per convertire file FODS in PDF online. Questo Cloud SDK offre agli sviluppatori C# potenti funzionalità e garantisce un output PDF di alta qualità.
 
-{{% blocks/products/pf/agp/feature-section-col title="Inizia con Excel REST API" %}}
- Ottieni il codice sorgente Excel Cloud SDK for .NET da[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) per compilare tu stesso l'SDK o vai al file[Rilasci](https://releases.aspose.cloud/) per opzioni di download alternative.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Dai un'occhiata anche a Swagger-based[API Riferimento](https://apireference.aspose.cloud/cells/) per saperne di più su[Excel RESTO API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="C# .NET Codice da FODS a PDF Conversione" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Esempio di codice per convertire FODS in PDF utilizzando Cells Cloud SDK" gistPath="" %}}
+ 
 ```cs
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);
-string name = BOOK1;
-SaveOptions saveOptions = new SaveOptions();
-saveOptions.SaveFormat = "pdf";
-instance.UploadFile(folder + @"\" + name, File.Open( @"C:\TestData\" +name), "DropBox");
-var response = instance.CellsSaveAsPostDocumentSaveAs(name, saveOptions,  "output.pdf", null, null, folder, "DropBox");
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
+    string name = "Book1.fods";
+    string format = "pdf";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.pdf";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
+    {
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come convertire FODS in PDF utilizzando la libreria Cells Cloud Net." >}}
+<li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
+<li>Installa la libreria C# e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in C#</li>
+<li>Utilizza il metodo `PutConvertWorkbook` per recuperare il flusso risultante.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
+<li>NET Framework 4.5.2 o successiva</li>
+<li>Net Standard 2.0 o successivo</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

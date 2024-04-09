@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните ЧИСЛА в формате CSV с помощью Android
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата NUMBERS в формате CSV.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата NUMBERS в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить ЧИСЛА в формате CSV" h2="Библиотека Android для сохранения ЧИСЕЛ в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения ЧИСЕЛ в формате CSV и других форматов документов онлайн с помощью Android." urlsection="saveas/numbers-to-csv/" >}}

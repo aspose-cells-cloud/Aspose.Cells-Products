@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir MHTML en CSV à l'aide de Go
-description: Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format MHTML en fichier au format CSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format MHTML en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir MHTML en CSV" h2="Aller à la bibliothèque pour convertir MHTML en CSV" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Go. Il s\'agit d\'une solution professionnelle pour convertir MHTML en CSV et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/mhtml-to-csv/" >}}

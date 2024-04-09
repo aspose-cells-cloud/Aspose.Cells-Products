@@ -1,18 +1,19 @@
 ﻿---
 title:  Spara HTML som XLS med Android
-description: Använder Aspose.Cells Cloud SDK för Android för att spara filen HTML som XLS-formatfil.
+description:  Använder Aspose.Cells Cloud SDK för Android för att spara filen HTML som XLS-formatfil.
+kwords: Excel, Save HTML as XLS, REST, Android
+howto: How to save HTML as XLS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara HTML som XLS" h2="Android-bibliotek för att spara HTML som XLS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara HTML som XLS och andra dokumentformat online med Android." urlsection="saveas/html-to-xls/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara HTML som XLS" h2="Android-bibliotek för att spara HTML som XLS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara HTML som XLS och andra dokumentformat online med Android." urlsection="saveas/html-to-xls/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en HTML-fil som XLS i Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Spara en HTML-fil som XLS i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Att spara filformat från HTML som XLS är en komplex uppgift. Alla formatövergångar från HTML till XLS utförs av vår Android-SDK samtidigt som källbladets HTML-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara HTML som XLS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLS-utgång.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att spara HTML som XLS med REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-kodexempel för att spara HTML som XLS med REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -31,22 +32,15 @@ Att spara filformat från HTML som XLS är en komplex uppgift. Alla formatöverg
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att spara Excel filer som andra format HTML som XLS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Android för att spara Excel-filer som andra format" >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Använd metoden `postWorkbookSaveAs` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>Android 7 eller senare</li>
 <li>Java(TM) SE Runtime Environment</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara ODS som CSV med Java
-description: Använder Aspose.Cells Cloud SDK for Java för att spara ODS-formatfil som CSV-fil.
+description:  Använder Aspose.Cells Cloud SDK for Java för att spara ODS-formatfil som CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Spara ODS som CSV" h2="Java bibliotek för att spara ODS som CSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java. Detta är en professionell lösning för att spara ODS som CSV och andra dokumentformat online med Java." urlsection="saveas/ods-to-csv/" >}}

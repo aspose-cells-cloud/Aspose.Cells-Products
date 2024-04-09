@@ -1,18 +1,19 @@
 ﻿---
 title:  Convertissez TXT en MD en utilisant Perl
 description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir un fichier au format TXT en fichier au format MD.
+kwords: Excel, Convert TXT to MD, REST, Perl
+howto: How to convert TXT to MD using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir TXT en MD" h2="Bibliothèque Perl pour convertir TXT en MD" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Perl. Il s\'agit d\'une solution professionnelle pour convertir TXT en MD et d\'autres formats de documents en ligne en utilisant le Perl." urlsection="conversion/txt-to-md/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir TXT en MD" h2="Bibliothèque Perl pour convertir TXT en MD" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Perl. Il s\'agit d\'une solution professionnelle pour convertir TXT en MD et d\'autres formats de documents en ligne en utilisant le Perl." urlsection="conversion/txt-to-md/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez TXT en MD à l\'aide du SDK Cloud Cells pour Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="Convertissez TXT en MD à l\'aide du SDK Cloud Cells pour Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion des formats de fichiers de TXT en MD peut être une tâche complexe. Notre SDK Perl gère toutes les conversions du format TXT vers MD tout en préservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Perl fournit une solution professionnelle pour convertir des fichiers TXT en MD en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et garantit une sortie MD de haute qualité.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Exemple de code pour convertir TXT en MD à l\'aide du SDK Cloud Cells" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Exemple de code pour convertir TXT en MD à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -39,21 +40,15 @@ La conversion des formats de fichiers de TXT en MD peut être une tâche complex
     close $fh;
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Perl pour convertir TXT en MD" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment convertir TXT en MD à l\'aide de la bibliothèque Cells Cloud Perl." >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Installez le package Perl et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source en Perl.</li>
 <li>Utilisez la méthode `put_convert_workbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

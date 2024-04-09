@@ -9,7 +9,7 @@ description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren ei
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLTX in CSV mit dem Cloud SDK Cells for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTX in CSV kann eine komplexe Aufgabe sein. Unser Java SDK übernimmt alle Konvertierungen von XLTX in das CSV-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTX-Quelltabelle bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTX- in CSV-Dateien. Dieses Cloud SDK bietet Java-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige CSV-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTX in CSV kann eine komplexe Aufgabe sein. Unser Java SDK übernimmt alle XLTX-in-CSV-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTX-Quelltabelle bei. Unsere Java-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTX- in CSV-Dateien. Dieses Cloud SDK bietet Java-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java Codebeispiel für die Konvertierung von XLTX in CSV mit Cells Cloud SDK" gistPath="" %}}

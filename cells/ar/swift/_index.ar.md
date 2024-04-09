@@ -1,5 +1,5 @@
 ﻿---
-title: مولد ومحول جداول البيانات السريع (Cloud REST API)
+title:  مولد ومحول جداول البيانات السريع (Cloud REST API)
 description: REST API لجلب ومعالجة وتشفير وتحويل وتصدير Microsoft وجداول بيانات OpenOffice على السحابة via Swift SDK
 weight: 130
 url: /ar/swift
@@ -50,7 +50,7 @@ url: /ar/swift
 <li><b>الويب:</b> HTML، أتش تي أم أل</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>إس إكس سي، فودز</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>إس إكس سي، فودس</li>
 </ul><header><i class="fa  fa-mail-forward"> </i> الإخراج فقط</header><ul><li>دي آي إف، PDF، XPS، TIFF، SVG، ماريلاند (تخفيض السعر)</li>
 </ul></div>
 <!--/right--></div>
@@ -111,7 +111,7 @@ url: /ar/swift
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- الحصول على وسيلة إيضاح الرسم البياني أو تحديثها أو إظهارها أو إخفائها
+الحصول على وسيلة إيضاح الرسم البياني أو تحديثها أو إظهارها أو إخفائها
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,7 +139,7 @@ url: /ar/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-أضف كائن قائمة في المكان المحدد في الملف Excel
+ أضف كائن قائمة في المكان المحدد في الملف Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,12 +235,12 @@ url: /ar/swift
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose للسحاب
      </a>
-والحصول على معلومات التطبيق الخاص بك. بمجرد حصولك على التطبيق SID &amp; المفتاح، أنت جاهز لاستخدام Aspose.Cells Cloud SDK for Swift على أي نظام أساسي يدعم REST APIs. Aspose.Cells يوفر لك Cloud SDK for Swift جميع الميزات اللازمة لإنشاء جداول البيانات وتحريرها وتحويلها. كما يسمح لك باستخراج البيانات من جداول البيانات لمزيد من المعالجة أو التخزين.
+ والحصول على معلومات التطبيق الخاص بك. بمجرد حصولك على التطبيق SID &amp; المفتاح، أنت جاهز لاستخدام Aspose.Cells Cloud SDK for Swift على أي نظام أساسي يدعم REST APIs. Aspose.Cells يوفر لك Cloud SDK for Swift جميع الميزات اللازمة لإنشاء جداول البيانات وتحريرها وتحويلها. كما يسمح لك باستخراج البيانات من جداول البيانات لمزيد من المعالجة أو التخزين.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- معالجة المصنفات via Cloud SDK
+معالجة المصنفات via Cloud SDK
     </h2>
     <p>
  Aspose.Cells يتيح لك Cloud SDK for Swift إنشاء النص وتقسيمه ودمجه والبحث فيه واستبداله وحماية كلمة المرور والتصدير إلى تنسيق ملف مدعوم وقراءة العناصر النصية للمصنف وملاءمة صفوف المصنف تلقائيًا مع تجاهل العناصر المخفية وتشفير كلمة مرور المصنف وتوفير مفتاح التشفير الطول، واستيراد البيانات إلى المصنف، وحساب جميع الصيغ في المصنف، وتعيين إعدادات حساب الصيغة من خلال توفير استراتيجية دقيقة وما إلى ذلك، واستخدام العلامة الذكية، وتحويل المصنف من محتوى الطلب إلى تنسيق آخر، وتطبيق كلمة المرور للسماح بتعديل المحتوى.

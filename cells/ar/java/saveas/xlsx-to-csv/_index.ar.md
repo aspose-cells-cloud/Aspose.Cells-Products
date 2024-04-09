@@ -1,5 +1,5 @@
 ﻿---
-title: احفظ XLSX كملف CSV باستخدام Java
+title:  احفظ XLSX كملف CSV باستخدام Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSX كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

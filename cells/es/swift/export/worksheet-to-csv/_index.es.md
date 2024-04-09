@@ -1,5 +1,5 @@
 ﻿---
-title:  Exportar HOJA DE TRABAJO a CSV desde una hoja de cálculo usando Swift API
+title: Exportar HOJA DE TRABAJO a CSV desde una hoja de cálculo usando Swift API
 description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} usando {2}.
 url: /es/swift/export/worksheet-to-csv/
 ---

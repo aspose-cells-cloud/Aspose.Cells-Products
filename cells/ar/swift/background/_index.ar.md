@@ -1,6 +1,6 @@
 ﻿---
 title:  تعيين الخلفية باستخدام Swift
-description: Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام Swift. يدعم SDK لغات التطوير المتعددة. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
+description:  Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام Swift. يدعم SDK لغات التطوير المتعددة. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 url: /ar/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

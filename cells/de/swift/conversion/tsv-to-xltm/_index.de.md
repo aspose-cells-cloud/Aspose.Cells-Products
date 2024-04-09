@@ -10,7 +10,7 @@ url: /de/swift/conversion/tsv-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TSV-Datei in Swift in XLTM" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TSV in XLTM ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum XLTM-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TSV-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TSV- in XLTM-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLTM-Ausgabe.
+Das Konvertieren von Dateiformaten von TSV in XLTM ist eine komplexe Aufgabe. Alle TSV-zu-XLTM-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TSV- in XLTM-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLTM-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von TSV in das XLTM-Format" gistPath="" %}}

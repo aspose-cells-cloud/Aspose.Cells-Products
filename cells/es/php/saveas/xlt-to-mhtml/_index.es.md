@@ -1,18 +1,19 @@
 ﻿---
 title:  Guarde XLT como MHTML usando PHP
-description:  Utilizando Aspose.Cells Cloud SDK para PHP para guardar el archivo en formato XLT como archivo en formato MHTML.
+description: Utilizando Aspose.Cells Cloud SDK para PHP para guardar el archivo en formato XLT como archivo en formato MHTML.
+kwords: Excel, Save XLT as MHTML, REST, PHP
+howto: How to save XLT as MHTML using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar XLT como MHTML" h2="Biblioteca PHP para guardar XLT como MHTML" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar XLT como MHTML y otros formatos de documentos en línea usando PHP." urlsection="saveas/xlt-to-mhtml/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Guardar XLT como MHTML" h2="Biblioteca PHP para guardar XLT como MHTML" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para guardar XLT como MHTML y otros formatos de documentos en línea usando PHP." urlsection="saveas/xlt-to-mhtml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XLT como MHTML en PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="Guarde un archivo XLT como MHTML en PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Guardar formatos de archivo de XLT como MHTML es una tarea compleja. Todas las transiciones de formato XLT a MHTML se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca PHP es una solución profesional para guardar XLT como archivos MHTML en línea. Este SDK de nube ofrece a los desarrolladores de PHP una potente funcionalidad y una salida MHTML perfecta.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP Ejemplo de código para guardar XLT como MHTML usando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Ejemplo de código para guardar XLT como MHTML usando REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -27,21 +28,15 @@ Guardar formatos de archivo de XLT como MHTML es una tarea compleja. Todas las t
     $result = $apiInstance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename,$isAutoFitRows, $isAutoFitColumns, $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar Cells Cloud SDK para PHP para guardar archivos Excel como otros formatos XLT como MHTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo guardar XLT como MHTML usando la biblioteca Cells Cloud PHP." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
-<li>Inicialice Cells API con su ID de cliente, secreto de cliente, URL base y versión API.</li>
+<li>Instale la biblioteca PHP y agregue la referencia (importe la biblioteca) a su proyecto.</li>
+<li>Abra el archivo fuente en PHP.</li>
 <li>Utilice el método `PostWorkbookSaveAs` para recuperar la secuencia resultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisitos del sistema" >}}
 <li>PHP 7.4 o más reciente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

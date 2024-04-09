@@ -1,5 +1,5 @@
 ﻿---
-title:  Aggiungi filigrana per la cartella di lavoro locale con Java nel Cloud
+title: Aggiungi filigrana per la cartella di lavoro locale con Java nel Cloud
 description:  API e SDK cloud per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con Java. Aggiunta di filigrana per fogli di calcolo locali tramite Cells Cloud API SDK for Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

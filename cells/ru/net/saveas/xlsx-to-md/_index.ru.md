@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSX как MD, используя C#.
+title:  Сохраните XLSX как MD, используя C#.
 description:  Использование Cloud SDK Aspose.Cells для C# для сохранения файла формата XLSX как файла формата MD.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

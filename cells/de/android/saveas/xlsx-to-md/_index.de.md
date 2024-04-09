@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLSX als MD mit Android
+title:  Speichern Sie XLSX als MD mit Android
 description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLSX-Formatdateien als MD-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

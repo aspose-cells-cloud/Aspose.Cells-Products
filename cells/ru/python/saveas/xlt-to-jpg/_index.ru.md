@@ -1,18 +1,19 @@
 ﻿---
 title:  Сохраните XLT в формате JPG, используя Python.
 description:  Использование Cloud SDK Aspose.Cells для Python для сохранения файла формата XLT в формате JPG.
+kwords: Excel, Save XLT as JPG, REST, Python
+howto: How to save XLT as JPG using Aspose.Cells Cloud Python library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLT в формате JPG." h2="Python библиотека для сохранения XLT в формате JPG" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Python. Это профессиональное решение для сохранения XLT в формате JPG и других форматов документов в Интернете с помощью Python." urlsection="saveas/xlt-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Сохранить XLT в формате JPG." h2="Python библиотека для сохранения XLT в формате JPG" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Python. Это профессиональное решение для сохранения XLT в формате JPG и других форматов документов в Интернете с помощью Python." urlsection="saveas/xlt-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT в формате JPG по номеру Python." >}}
+{{< blocks/products/cells/cells-cloud-section title="Сохраните файл XLT в формате JPG по номеру Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из XLT в формате JPG — сложная задача. Все переходы формата XLT в JPG выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной таблицы XLT. Наша библиотека Python — это профессиональное решение для сохранения XLT в формате JPG в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощные функциональные возможности и идеальный вывод в формате JPG.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python Пример кода для сохранения XLT в формате JPG с использованием REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Пример кода для сохранения XLT в формате JPG с использованием REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -26,22 +27,16 @@ description:  Использование Cloud SDK Aspose.Cells для Python д
     saveResponse = cells_api.cells_save_as_post_document_save_as(name,save_options=saveOptions, newfilename=(folder +'/' + newfilename),folder=folder)
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Python, чтобы сохранять файлы Excel в других форматах XLT как JPG." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как сохранить XLT в формате JPG, используя библиотеку Cells Cloud Python." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку Python и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру Python.</li>
 <li>Используйте метод `post_workbook_save_as` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>Python 2.7 или новее</li>
 <li>Python 3.10 или новее</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLS как CSV, используя Python.
+title:  Сохраните XLS как CSV, используя Python.
 description:  Использование Cloud SDK Aspose.Cells для Python для сохранения файла формата XLS в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

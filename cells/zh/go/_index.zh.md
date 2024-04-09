@@ -11,7 +11,7 @@ weight: 90
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="概述" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells Cloud SDK for Go 有助于快速开发强大的基于云的应用程序，适用于 Microsoft Excel、iWork office 号码、OpenOffice 电子表格和其他格式文件。它提供了用Go编程语言生成、读取、合并、分割、加密和转换文件的功能。该 SDK 基于 Aspose.Cells Cloud API 构建，并在 MIT 许可证下运行。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="概述" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells Cloud SDK for Go 有助于快速开发针对 Microsoft Excel、iWork office 号码、OpenOffice 电子表格和其他格式文件的强大的基于云的应用程序。它提供了用Go编程语言生成、读取、合并、分割、加密和转换文件的功能。该 SDK 基于 Aspose.Cells Cloud API 构建，并在 MIT 许可证下运行。" >}}
     {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells Cloud SDK for Go 使您的 Go 应用程序能够访问和修改云工作表中的各种元素。它可以操作自动过滤器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。该 SDK 使您的 Go 程序能够将多种格式转换，例如 XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、ODS 到 DIF、PDF、XPS、TIFF、SVG、Markdown、XML、SpreadsheetML、CSV、TSV、 TXT、HTML 和 MHTML。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
@@ -29,7 +29,7 @@ weight: 90
         <li><b>Microsoft Excel:</b>XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM</li>
         <li><b>开通Office：</b>消耗臭氧层物质</li>
         <li><b>可扩展标记语言：</b> XML，乔恩</li>
-        <li><b>文本：</b> CSV、TSV、TXT、Markdown</li>
+        <li><b>文本：</b>CSV、TSV、TXT、Markdown</li>
         <li><b>网址：</b> HTML，MHTML</li>
      {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
      {{< blocks/products/cells/cells-cloud-language-cardlist title="输出格式" >}}
@@ -38,7 +38,7 @@ weight: 90
         <li><b>iWork Office：</b>数字</li>
         <li><b>Microsoft Office:</b>文档、PPT</li>
         <li><b>可扩展标记语言：</b> XML，乔恩</li>
-        <li><b>文本：</b> CSV、TSV、TXT、Markdown</li>
+        <li><b>文本：</b>CSV、TSV、TXT、Markdown</li>
         <li><b>网址：</b> HTML，MHTML</li>
         <li><b>图像：</b> SVG, TIFF, PNG, BMP, EMF, JPEG, GIF</li>
         <li><b>Adobe 便携式文档：</b> pdf</li>
@@ -60,7 +60,7 @@ weight: 90
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="添加、更新和删除工作表超链接" href="https://reference.aspose.cloud/cells/#/Hypelinks" title="单元格超链接" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg="在Excel文件的指定位置添加ListObject" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="删除工作表中的特定或所有 ListObject" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="将 ListObject 或表格转换为单元格区域" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="将 ListObject 或表格转换为单元格范围" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="使用数据透视表汇总大型 ListObject 或 Table 的数据" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="将 OleObjects 添加到 Excel 工作表" href="https://reference.aspose.cloud/cells/#/OleObjects" title="细胞-油体对象" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="从工作表中删除特定或所有 OleObject" href="https://reference.aspose.cloud/cells/#/OleObjects" title="细胞-油体对象" >}}

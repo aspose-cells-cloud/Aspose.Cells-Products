@@ -3,7 +3,7 @@ title:  Android için Cells Cloud SDK'yı kullanarak RESMİ Excel'den GIF'e akta
 description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="RESMİ Excel\'den GIF\'e aktar" h2="RESİM\'i GIF dosyasına aktarmak için Android kitaplığı" p="Android\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Android kullanarak çevrimiçi elektronik tablodan RESİM\'i GIF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="RESMİ Excel\'den GIF\'e aktar" h2="RESİM\'i GIF dosyasına aktarmak için Android kütüphanesi" p="Android\'de Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Android kullanarak çevrimiçi elektronik tablodan RESİM\'i GIF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/picture-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android için Cells Cloud SDK\'yı kullanarak PICTURE nesnesini GIF formatındaki dosyaya aktarın" >}}
@@ -51,7 +51,7 @@ PICTURE nesnesini Excel dosyasından GIF dosyasına aktarmak karmaşık bir işt
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel PICTURE\'dan GIF\'e aktarmak için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

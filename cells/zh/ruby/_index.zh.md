@@ -29,7 +29,7 @@ weight: 90
         <li><b>Microsoft Excel:</b>XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM</li>
         <li><b>开通Office：</b>消耗臭氧层物质</li>
         <li><b>可扩展标记语言：</b> XML，乔恩</li>
-        <li><b>文本：</b> CSV、TSV、TXT、Markdown</li>
+        <li><b>文本：</b>CSV、TSV、TXT、Markdown</li>
         <li><b>网址：</b> HTML，MHTML</li>
      {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
      {{< blocks/products/cells/cells-cloud-language-cardlist title="输出格式" >}}
@@ -38,7 +38,7 @@ weight: 90
         <li><b>iWork Office：</b>数字</li>
         <li><b>Microsoft Office:</b>文档、PPT</li>
         <li><b>可扩展标记语言：</b> XML，乔恩</li>
-        <li><b>文本：</b> CSV、TSV、TXT、Markdown</li>
+        <li><b>文本：</b>CSV、TSV、TXT、Markdown</li>
         <li><b>网址：</b> HTML，MHTML</li>
         <li><b>图像：</b> SVG, TIFF, PNG, BMP, EMF, JPEG, GIF</li>
         <li><b>Adobe 便携式文档：</b> pdf</li>
@@ -60,7 +60,7 @@ weight: 90
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="添加、更新和删除工作表超链接" href="https://reference.aspose.cloud/cells/#/Hypelinks" title="单元格超链接" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg="在Excel文件的指定位置添加ListObject" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="删除工作表中的特定或所有 ListObject" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="将 ListObject 或表格转换为单元格区域" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="将 ListObject 或表格转换为单元格范围" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="使用数据透视表汇总大型 ListObject 或 Table 的数据" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="将 OleObjects 添加到 Excel 工作表" href="https://reference.aspose.cloud/cells/#/OleObjects" title="细胞-油体对象" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="从工作表中删除特定或所有 OleObject" href="https://reference.aspose.cloud/cells/#/OleObjects" title="细胞-油体对象" >}}

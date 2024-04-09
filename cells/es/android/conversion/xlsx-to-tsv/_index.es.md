@@ -9,7 +9,7 @@ description: Utilizar el SDK de Cloud Aspose.Cells para Android para convertir u
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta XLSX a TSV usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLSX a TSV puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato XLSX a TSV al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos XLSX a TSV en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida TSV de alta calidad.
+Convertir formatos de archivo de XLSX a TSV puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato XLSX a TSV preservando al mismo tiempo el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos XLSX a TSV en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida TSV de alta calidad.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código de Android para convertir XLSX a TSV usando Cells Cloud SDK" gistPath="" %}}

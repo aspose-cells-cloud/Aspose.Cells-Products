@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie ODS mit PHP in CSV
-description: Verwendung des Aspose.Cells Cloud SDK für PHP zum Konvertieren einer Datei im ODS-Format in eine Datei im CSV-Format.
+description:  Verwendung des Aspose.Cells Cloud SDK für PHP zum Konvertieren einer Datei im ODS-Format in eine Datei im CSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie ODS in CSV" h2="PHP Bibliothek zur Konvertierung von ODS in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in CSV und andere Dokumentformate unter PHP." urlsection="conversion/ods-to-csv/" >}}

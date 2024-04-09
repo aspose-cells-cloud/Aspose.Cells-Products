@@ -4,7 +4,7 @@ description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von 
 url: /de/swift/saveas/xlsm-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um XLSM als XLTX zu speichern" h2="Swift-Bibliothek zum Speichern von XLSM als XLTX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSM als XLTX und anderen Dokumentformaten mit Swift." urlsection="saveas/xlsm-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um XLSM als XLTX zu speichern" h2="Swift-Bibliothek zum Speichern von XLSM als XLTX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLSM als XLTX und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/xlsm-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSM-Datei als XLTX in Swift" >}}

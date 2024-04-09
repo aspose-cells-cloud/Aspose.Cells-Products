@@ -1,18 +1,19 @@
 ﻿---
 title:  Konvertera NUMBERS till ODS med NodeJS
-description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera en NUMBERS-formatfil till en ODS-formatfil.
+description: Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera en NUMBERS-formatfil till en ODS-formatfil.
+kwords: Excel, Convert NUMBERS to ODS, REST, NodeJS
+howto: How to convert NUMBERS to ODS using Aspose.Cells Cloud NodeJS library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertera NUMBERS till ODS" h2="NodeJS-bibliotek för att konvertera NUMBERS till ODS" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera NUMBERS till ODS och andra dokumentformat online med NodeJS." urlsection="conversion/numbers-to-ods/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertera NUMBERS till ODS" h2="NodeJS-bibliotek för att konvertera NUMBERS till ODS" p="Använd Conversion API of of Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i NodeJS-projekt. Detta är en professionell lösning för att konvertera NUMBERS till ODS och andra dokumentformat online med NodeJS." urlsection="conversion/numbers-to-ods/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera NUMBERS till ODS med Cells Cloud SDK för NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertera NUMBERS till ODS med Cells Cloud SDK för NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Att konvertera filformat från NUMBERS till ODS kan vara en komplex uppgift. Vår NodeJS SDK hanterar alla NUMBERS till ODS-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket NUMBERS bevaras. Vårt NodeJS-bibliotek tillhandahåller en professionell lösning för att konvertera NUMBERS till ODS-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa ODS-utdata.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att konvertera NUMBERS till ODS med Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="NodeJS-kodexempel för att konvertera NUMBERS till ODS med Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -31,21 +32,15 @@ Att konvertera filformat från NUMBERS till ODS kan vara en komplex uppgift. Vå
     });
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Node för att konvertera Excel-filer till andra format NUMBERS till ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar NUMBERS till ODS med hjälp av Cells Cloud NodeJS-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
-<li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
+<li>Installera NodeJS-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
+<li>Öppna källfilen i JavaScript.</li>
 <li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Systemkrav" >}}
 <li>nod v6.17.1 eller senare</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

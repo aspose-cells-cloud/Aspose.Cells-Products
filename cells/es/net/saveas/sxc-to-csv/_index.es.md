@@ -1,6 +1,6 @@
 ﻿---
-title: Guarde SXC como CSV usando C#
-description:  Utilizando Aspose.Cells Cloud SDK para C# para guardar el archivo en formato SXC como archivo en formato CSV.
+title:  Guarde SXC como CSV usando C#
+description: Utilizando Aspose.Cells Cloud SDK para C# para guardar el archivo en formato SXC como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar SXC como CSV" h2="Biblioteca C# para guardar SXC como CSV" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Net. Esta es una solución profesional para guardar SXC como CSV y otros formatos de documentos en línea usando C#." urlsection="saveas/sxc-to-csv/" >}}
@@ -9,7 +9,7 @@ description:  Utilizando Aspose.Cells Cloud SDK para C# para guardar el archivo 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo SXC como CSV en C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de SXC como CSV es una tarea compleja. Todas las transiciones de formato SXC a CSV se realizan mediante nuestro SDK C# manteniendo el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca C# es una solución profesional para guardar SXC como archivos CSV en línea. Este SDK de nube ofrece a los desarrolladores de C# una potente funcionalidad y una salida CSV perfecta.
+Guardar formatos de archivo de SXC como CSV es una tarea compleja. Todas las transiciones de formato SXC a CSV se realizan mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca C# es una solución profesional para guardar SXC como archivos CSV en línea. Este SDK de nube ofrece a los desarrolladores de C# una potente funcionalidad y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# Ejemplo de código para guardar SXC como CSV usando REST API" gistPath="" %}}

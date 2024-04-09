@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ XML API لـ Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق PNG كملف بتنسيق XML.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق PNG كملف بتنسيق XML.
 url: /ar/swift/saveas/png-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

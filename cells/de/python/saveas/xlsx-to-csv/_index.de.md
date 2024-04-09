@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLSX als CSV mit Python
+title:  Speichern Sie XLSX als CSV mit Python
 description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern der XLSX-Formatdatei als CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

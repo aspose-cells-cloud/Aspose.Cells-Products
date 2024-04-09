@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XLT إلى CSV باستخدام NodeJS
-description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف بتنسيق XLT إلى ملف بتنسيق CSV.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف بتنسيق XLT إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLT إلى CSV" h2="مكتبة NodeJS لتحويل XLT إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع NodeJS. يعد هذا حلاً احترافيًا لتحويل XLT إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام NodeJS." urlsection="conversion/xlt-to-csv/" >}}

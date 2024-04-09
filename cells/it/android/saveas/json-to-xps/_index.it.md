@@ -1,18 +1,19 @@
 ﻿---
 title:  Salva JSON come XPS utilizzando Android
 description:  Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file in formato JSON come file in formato XPS.
+kwords: Excel, Save JSON as XPS, REST, Android
+howto: How to save JSON as XPS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva JSON come XPS" h2="Libreria Android per salvare JSON come XPS" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Android. Questa è una soluzione professionale per salvare JSON come XPS e altri formati di documenti online utilizzando Android." urlsection="saveas/json-to-xps/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Salva JSON come XPS" h2="Libreria Android per salvare JSON come XPS" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Android. Questa è una soluzione professionale per salvare JSON come XPS e altri formati di documenti online utilizzando Android." urlsection="saveas/json-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file JSON come XPS in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Salva un file JSON come XPS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Salvare i formati di file da JSON come XPS è un compito complesso. Tutte le transizioni dal formato JSON al formato XPS vengono eseguite dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo JSON di origine. La nostra libreria Android è una soluzione professionale per salvare online JSON come file XPS. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e un output XPS perfetto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice Android per salvare JSON come XPS utilizzando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Esempio di codice Android per salvare JSON come XPS utilizzando REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -31,22 +32,15 @@ Salvare i formati di file da JSON come XPS è un compito complesso. Tutte le tra
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Android per salvare i file Excel in altri formati JSON come XPS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Android per salvare i file Excel in altri formati" >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
 <li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
 <li>Utilizza il metodo `postWorkbookSaveAs` per recuperare il flusso risultante.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>Android 7 o successivo</li>
 <li>Java(TM) Ambiente runtime SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSX как CSV, используя Java.
+title:  Сохраните XLSX как CSV, используя Java.
 description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLSX в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

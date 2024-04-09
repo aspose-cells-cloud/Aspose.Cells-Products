@@ -13,7 +13,7 @@ url: /de/swift/conversion/xml-to-xps/
 Das Konvertieren von Dateiformaten von XML nach XPS ist eine komplexe Aufgabe. Alle XML-Formatübergänge in das XPS-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML in XPS-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte XPS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XML in das XPS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XML in das Format XPS" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

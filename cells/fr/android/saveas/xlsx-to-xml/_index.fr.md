@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLSX au format XML avec Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLSX en tant que fichier au format XML.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLSX en tant que fichier au format XML.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer XLSX au format XML" h2="Bibliothèque Android pour enregistrer XLSX au format XML" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLSX au format XML et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xlsx-to-xml/" >}}

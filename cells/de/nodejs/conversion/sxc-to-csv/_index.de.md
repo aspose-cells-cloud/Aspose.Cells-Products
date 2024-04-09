@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie SXC mit NodeJS in CSV
-description:  Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Konvertieren einer Datei im SXC-Format in eine Datei im CSV-Format.
+description: Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Konvertieren einer Datei im SXC-Format in eine Datei im CSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie SXC in CSV" h2="NodeJS-Bibliothek zum Konvertieren von SXC in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von SXC in CSV und andere Dokumentformate mit NodeJS." urlsection="conversion/sxc-to-csv/" >}}

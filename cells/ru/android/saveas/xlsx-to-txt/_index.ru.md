@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSX как TXT с помощью Android
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX в формате TXT.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX в формате TXT.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить XLSX как TXT" h2="Библиотека Android для сохранения XLSX как TXT" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения XLSX в формате TXT и других форматов документов онлайн с помощью Android." urlsection="saveas/xlsx-to-txt/" >}}

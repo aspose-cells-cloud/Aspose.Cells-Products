@@ -10,7 +10,7 @@ url: /ar/swift/saveas/tsv-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV باسم TIFF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TSV بالرقم TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات التنسيق من TSV إلى TIFF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ TSV كملفات TIFF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج TIFF مثاليًا.
+يعد حفظ تنسيقات الملفات من TSV بالرقم TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى TIFF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ TSV كملفات TIFF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج TIFF مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لحفظ TSV بتنسيق TIFF" gistPath="" %}}

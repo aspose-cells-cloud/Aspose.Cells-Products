@@ -1,9 +1,9 @@
 ﻿---
-title:  احفظ الملف Excel كملف بتنسيق آخر
-description:  Aspose.Cells Cloud REST API يتيح حفظ ملفات Excel بتنسيقات مختلفة ويوفر SDKs للغات برمجة متعددة، بما في ذلك Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وSwift .
+title: احفظ الملف Excel كملف بتنسيق آخر
+description:  Aspose.Cells Cloud REST API يتيح حفظ ملفات Excel بتنسيقات مختلفة ويوفر SDKs للغات برمجة متعددة، بما في ذلك Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وSwift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ الملف Excel كملف بتنسيق آخر" h2="Aspose.Cells يدعم Cloud SDK حفظ المصنفات بأكثر من 30 تنسيقًا مختلفًا للملفات." p="Aspose.Cells Cloud REST API يتيح حفظ ملفات Excel بتنسيقات مختلفة ويوفر SDKs للغات برمجة متعددة، بما في ذلك Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وSwift ." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ الملف Excel كملف بتنسيق آخر" h2="Aspose.Cells يدعم Cloud SDK حفظ المصنفات بأكثر من 30 تنسيقًا مختلفًا للملفات." p="Aspose.Cells Cloud REST API يتيح حفظ ملفات Excel بتنسيقات مختلفة ويوفر SDKs للغات برمجة متعددة، بما في ذلك Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وSwift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

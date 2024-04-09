@@ -1,103 +1,94 @@
 ﻿---
-title:  تصدير كائنات Excel باستخدام C#
-description:  Aspose.Cells Cloud REST API يدعم تصدير المصنفات والكائنات الداخلية إلى جميع أنواع التنسيقات باستخدام C#. يدعم SDK لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
+title: قم بتصدير العناصر الداخلية Excel أو المصنف نفسه إلى ملفات بتنسيقات مختلفة.
+description: توفر السحابة Aspose.Cells دعمًا قويًا لتصدير العناصر الداخلية Excel أو المصنف نفسه إلى ملفات بتنسيقات مختلفة، وهي عملية معروفة بتعقيدها. يدعم Aspose.Cells Cloud أكثر من 30 تنسيقًا للملفات، بما في ذلك Excel وPdf وMarkdown وJson وXML وCsv وHtml وما إلى ذلك.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير كائنات Excel باستخدام C#" h2="Aspose.Cells يدعم Cloud SDK تصدير المصنفات والكائنات الداخلية إلى أكثر من 30 تنسيق ملف." p="Aspose.Cells Cloud REST API يدعم تصدير المصنفات والكائنات الداخلية إلى جميع أنواع التنسيقات باستخدام C#. يدعم SDK لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="قم بتصدير العناصر الداخلية Excel أو المصنف نفسه إلى ملفات بتنسيقات مختلفة." h2="توفر السحابة Aspose.Cells دعمًا قويًا لتصدير العناصر الداخلية Excel أو المصنف نفسه إلى ملفات بتنسيقات مختلفة، وهي عملية معروفة بتعقيدها. يدعم Aspose.Cells Cloud أكثر من 30 تنسيقًا للملفات، بما في ذلك Excel وPdf وMarkdown وJson وXML وCsv وHtml وما إلى ذلك." p="توفر السحابة Aspose.Cells REST API الذي يدعم تصدير Excel عنصرًا داخليًا أو المصنف نفسه إلى ملفات بتنسيقات مختلفة ويوفر حزم SDK للغات برمجة متعددة. تتضمن لغات البرمجة هذه Net وJava وGo وNodeJS وPython وما إلى ذلك." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/export" %}}
-{{< /blocks/products/pf/agp/feature-section >}} 
-{{< blocks/products/cells/cells-cloud-api-template btName="Export" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/DataProcessing/PostExport" >}}  
-{{< blocks/products/cells/cells-cloud-upload >}}  
-	{{< blocks/products/cells/cells-cloud-parameters itName="format" required="true" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)." >}}
-	{{< blocks/products/cells/cells-cloud-parameters itName="objectType" required="true" prompt="workbook/worksheet/chart/comment/picture/shape/listobject/oleobject" >}}  
-{{% blocks/products/cells/cells-cloud-showcode %}}  
-               
-```cs
 
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/export" %}}
+
+{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Class" ResponseType="FilesResult" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/DataProcessing/PostExport" >}}
+{{< blocks/products/cells/cells-cloud-upload >}}
+
+{{< blocks/products/cells/cells-cloud-parameters itName="objectType" required="False" prompt="Exported object type:workbook/worksheet/chart/comment/picture/shape/listobject/oleobject." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="format" required="False" prompt="The conversion format(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers)." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="password" required="False" prompt="The password needed to open an Excel file." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="checkExcelRestriction" required="False" prompt="Whether check restriction of excel file when user modify cells related objects." >}}
+{{< blocks/products/cells/cells-cloud-parameters itName="region" required="False" prompt="The regional settings for workbook." >}}
+{{< blocks/products/cells/cells-cloud-showparameters >}}
+{{% blocks/products/cells/cells-cloud-showcode request="objectType,format,password,checkExcelRestriction,region" requestvalue=",pdf,,true," %}}
+
+```cs
 	using Aspose.Cells.Cloud.SDK.Api;
+	using Aspose.Cells.Cloud.SDK.Model;
 	using Aspose.Cells.Cloud.SDK.Request;
+	using Newtonsoft.Json;
 	using System;
 	using System.IO;
 	using System.Collections.Generic;
 	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-	string filePath = "test.txt";
-	PostExportRequest request = new PostExportRequest();
+	var request = new PostExportRequest();
 	request.File = new Dictionary<string, Stream>();
+	string filePath = "Book1.xlsx";
 	Stream fileStream = File.OpenRead(filePath);
 	request.File.Add(filePath, fileStream);
-    request.format = "xps";
-	request.objectType = "Background";
-	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostExport(request);
-	fileStream.Close();    
-	    
-```     
-{{% /blocks/products/cells/cells-cloud-showcode %}}   
-{{< /blocks/products/cells/cells-cloud-api-template >}}      
-
-{{< blocks/products/cells/cells-cloud-language-card title="تنسيقات الملفات المدعومة" >}}
-    {{< blocks/products/cells/cells-cloud-language-cardlist title="نمط الإدخال" >}}
-       <li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
-	<li><b>مكتب مفتوح:</b> أود، فودز، أوتس</li>
-	<li><b>إكس إم إل:</b>جدول البيانات، XML</li>
-	<li><b>نص:</b> Csv، Tsv، Txt (TabDelimited)</li>
-	<li><b>الويب:</b> أتش تي أم أل، أتش تي أم أل</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
-
-    
-
-     {{< blocks/products/cells/cells-cloud-language-cardlist title="تنسيق الإخراج" >}}
-        <li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
-	<li><b>Microsoft كلمة/PowerPoint:</b> دوكإكس، بي تي إكس</li>
-	<li><b>مكتب مفتوح:</b> أود، فودز، أوتس</li>
-	<li><b>إكس إم إل:</b>جدول البيانات، XML</li>
-	<li><b>نص:</b> Csv، Tsv، Txt (TabDelimited)</li>
-	<li><b>الويب:</b> أتش تي أم أل، أتش تي أم أل</li>
-	<li><b>الصور:</b> PNG، Jpg، Gif، Emf، Svg، Tiff</li>
-	<li><b>آخر:</b> PDF، Xps، Dif، Json، Markdown، Sql</li>
-     {{< /blocks/products/cells/cells-cloud-language-cardlist >}}    
+	request.objectType = "";
+	request.format = "pdf";
+	request.password = "";
+	request.checkExcelRestriction = true;
+	request.region = "";
+	var result = cellsApi.PostExport(request);
+	fileStream.Close();
 
 
-     
 
-{{< /blocks/products/cells/cells-cloud-language-card >}}
 
-{{< blocks/products/cells/product-card-row title="العمليات الشعبية" >}}
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="تصدير المصنف إلى PDF" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/export/workbook-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Go" title="تصدير المصنف إلى Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/export/workbook-to-json/" >}}
+```
+{{% /blocks/products/cells/cells-cloud-showcode %}}
+{{< /blocks/products/cells/cells-cloud-api-template >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="تصدير كائن القائمة إلى ملف CSV" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/java/export/listobject-to-csv/" >}}
+{{< blocks/products/pf/product-card-row title="تنسيقات الملفات المدعومة" >}}
+<div class="diagram1 d2  d1-cloud">
+<div class="d1-row">
+<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> نمط الإدخال</header><ul>
+<li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
+<li><b>مكتب مفتوح:</b> أود، فودز، أوتس</li>
+<li><b>إكس إم إل:</b>جدول البيانات، XML</li>
+<li><b>نص:</b> Csv، Tsv، Txt (TabDelimited)</li>
+<li><b>الويب:</b> أتش تي أم أل، أتش تي أم أل</li>
+<li><b>الصور:</b> بابوا نيو غينيا، جبغ، جيف، إي إم إف</li>
+<li><b>آخر:</b> قوات الدفاع الشعبي، Json، تخفيض السعر</li>
+</ul></div>
+<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> تنسيق الإخراج</header><ul>
+<li><b>Microsoft Excel:</b> XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM</li>
+<li><b>Microsoft كلمة/PowerPoint:</b> دوكإكس، بي تي إكس</li>
+<li><b>مكتب مفتوح:</b> أود، فودز، أوتس</li>
+<li><b>إكس إم إل:</b>جدول البيانات، XML</li>
+<li><b>نص:</b> Csv، Tsv، Txt (TabDelimited)</li>
+<li><b>الويب:</b> أتش تي أم أل، أتش تي أم أل</li>
+<li><b>الصور:</b> PNG، Jpg، Gif، Emf، Svg، Tiff</li>
+<li><b>آخر:</b> PDF، Xps، Dif، Json، Markdown، Sql</li>
+</ul></div>
+</div>
+<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>سحابة SDK</footer></div>
+</div>
+{{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="تصدير المخطط إلى Png" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/php/export/chart-to-png/" >}}
-
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="تصدير المصنف إلى MD" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/export/workbook-to-md/" >}}
-
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Swift" title="تصدير الورقة إلى pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/swift/export/worksheet-to-pdf/" >}}
-{{< /blocks/products/cells/product-card-row >}}
-{{< blocks/products/cells/product-card-row title="دعم تطوير اللغات" >}}
-{{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK لنظام Android" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
-
+{{< blocks/products/cells/cells-language-cloud-card-row title="دعم تطوير اللغات" >}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK للذهاب" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="اس دي كيه for Java" imgSrc="/cells/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK للشبكة" imgSrc="/cells/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK للعقدة" imgSrc="/cells/sdk/aspose_cells-for-node.png" productLink="/cells/node/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK لـ Perl" imgSrc="/cells/sdk/aspose_cells-for-perl.png" productLink="/cells/perl/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK لـ PHP" imgSrc="/cells/sdk/aspose_cells-for-php.png" productLink="/cells/php/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK لـ Python" imgSrc="/cells/sdk/aspose_cells-for-python.png" productLink="/cells/python/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK لروبي" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
-
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK لسويفت" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
-{{< /blocks/products/cells/product-card-row >}}
+{{< /blocks/products/cells/cells-language-cloud-card-row >}}
+
 
 {{< /blocks/products/pf/main-container >}}
 

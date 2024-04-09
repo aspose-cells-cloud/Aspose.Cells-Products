@@ -1,18 +1,19 @@
 ﻿---
 title:  Сохраните GIF как XLSM, используя Java.
 description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата GIF как файла формата XLSM.
+kwords: Excel, Save GIF as XLSM, REST, Java
+howto: How to save GIF as XLSM using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить GIF как XLSM" h2="Java библиотека для сохранения GIF в формате XLSM" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения GIF в формате XLSM и других форматов документов в Интернете с помощью Java." urlsection="saveas/gif-to-xlsm/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Сохранить GIF как XLSM" h2="Java библиотека для сохранения GIF в формате XLSM" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Java. Это профессиональное решение для сохранения GIF в формате XLSM и других форматов документов в Интернете с помощью Java." urlsection="saveas/gif-to-xlsm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как XLSM по номеру Java." >}}
+{{< blocks/products/cells/cells-cloud-section title="Сохраните файл GIF как XLSM по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов GIF как XLSM — сложная задача. Все переходы формата GIF в XLSM выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы GIF. Наша библиотека Java — это профессиональное решение для сохранения GIF в формате XLSM онлайн. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод XLSM.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения GIF в формате XLSM с использованием REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Пример кода для сохранения GIF в формате XLSM с использованием REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -31,22 +32,16 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK for Java для сохранения файлов Excel в других форматах GIF как XLSM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как сохранить GIF в формате XLSM, используя библиотеку Cells Cloud Java." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
-<li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
+<li>Установите библиотеку Java и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру Java.</li>
 <li>Используйте метод `postWorkbookSaveAs` для получения результирующего потока.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
 <li>Maven 2.2.0 или новее</li>
 <li>Java(TM) Среда выполнения SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xlsb-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как PPTX в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в формате PPTX — сложная задача. Все переходы формата XLSB в PPTX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSB в формате PPTX онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PPTX.
+Сохранение форматов файлов из XLSB в PPTX — сложная задача. Все переходы формата XLSB в PPTX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSB в формате PPTX онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLSB в формате PPTX" gistPath="" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XLSX als CSV mit Perl
+title:  Speichern Sie XLSX als CSV mit Perl
 description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern der XLSX-Formatdatei als CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

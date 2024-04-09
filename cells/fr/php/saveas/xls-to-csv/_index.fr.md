@@ -1,5 +1,5 @@
 ﻿---
-title: Enregistrez XLS au format CSV en utilisant PHP
+title:  Enregistrez XLS au format CSV en utilisant PHP
 description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format XLS au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

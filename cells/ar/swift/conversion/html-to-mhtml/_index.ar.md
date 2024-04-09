@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML إلى MHTML تحويل API إلى Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق HTML إلى ملف تنسيق MHTML.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق HTML إلى ملف تنسيق MHTML.
 url: /ar/swift/conversion/html-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

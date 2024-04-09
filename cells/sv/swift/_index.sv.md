@@ -1,5 +1,5 @@
 ﻿---
-title: Swift Spreadsheet Generator & Converter (Cloud REST API)
+title:  Swift Spreadsheet Generator & Converter (Cloud REST API)
 description: REST API för att hämta, bearbeta, kryptera, konvertera och exportera Microsoft & OpenOffice-kalkylblad i molnet via Swift SDK
 weight: 130
 url: /sv/swift
@@ -111,7 +111,7 @@ url: /sv/swift
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hämta, uppdatera, visa eller dölj diagramförklaring
+Hämta, uppdatera, visa eller dölj diagramförklaring
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,7 +139,7 @@ url: /sv/swift
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Lägg till ett ListObject på angiven plats i filen Excel
+ Lägg till ett ListObject på angiven plats i filen Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,12 +235,12 @@ Lägg till ett ListObject på angiven plats i filen Excel
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose för Cloud
      </a>
-och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Swift på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Swift ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
+ och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Swift på alla plattformar som stöder REST API:er. Aspose.Cells Cloud SDK för Swift ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Bearbetar arbetsböcker via Cloud SDK
+Bearbetar arbetsböcker via Cloud SDK
     </h2>
     <p>
  Aspose.Cells Cloud SDK för Swift låter dig skapa, dela, slå samman, söka och ersätta text, lösenordsskydd, exportera till filformat som stöds, läsa arbetsbokens textobjekt, automatiskt anpassa arbetsboksrader samtidigt som du ignorerar dolda element, kryptera arbetsbokens lösenord och tillhandahålla krypteringsnyckel längd, importera data till arbetsboken, beräkna alla formler i arbetsboken, ange inställningar för formelberäkning genom att tillhandahålla precisionsstrategi etc., använd smart markör, konvertera arbetsboken från begäran om innehåll till ett annat format, använd lösenord för att tillåta innehållsändring.

@@ -1,5 +1,5 @@
 ﻿---
-title: Ställ in en bakgrund för Excel-filer med NodeJS
+title:  Ställ in en bakgrund för Excel-filer med NodeJS
 description: " Aspose.Cells Cloud REST API stöder inställning av bakgrunden för Excel-filer med NodeJS, och erbjuder SDK:er för olika programmeringsspråk."
 ---
 {{< blocks/products/pf/main-wrap-class >}}

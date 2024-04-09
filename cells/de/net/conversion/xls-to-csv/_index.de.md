@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XLS mit C# in CSV
-description: Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer XLS-Formatdatei in eine CSV-Formatdatei.
+description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer XLS-Formatdatei in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLS in CSV" h2="C# Bibliothek zum Konvertieren von XLS in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLS in CSV und andere Dokumentformate unter C#." urlsection="conversion/xls-to-csv/" >}}

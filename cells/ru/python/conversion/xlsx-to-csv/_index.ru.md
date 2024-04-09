@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертируйте XLSX в CSV, используя Python.
-description: Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата XLSX в файл формата CSV.
+description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата XLSX в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XLSX в CSV" h2="Python библиотека для конвертации XLSX в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертирования XLSX в CSV и другие форматы документов с помощью номера Python." urlsection="conversion/xlsx-to-csv/" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Spara XLSX som GIF med C#
+title:  Spara XLSX som GIF med C#
 description:  Använder Aspose.Cells Cloud SDK för C# för att spara XLSX-formatfil som GIF-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

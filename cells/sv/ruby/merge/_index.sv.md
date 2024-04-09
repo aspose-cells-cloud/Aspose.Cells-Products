@@ -1,6 +1,6 @@
 ﻿---
 title:  Slå samman Excel-filer med Ruby
-description: "Aspose.Cells Cloud REST API stöder sammanslagning av flera Excel-filer till en enda Excel-fil med Ruby, och erbjuder SDK:er för olika programmeringsspråk."
+description: " Aspose.Cells Cloud REST API stöder sammanslagning av flera Excel-filer till en enda Excel-fil med Ruby, och erbjuder SDK:er för olika programmeringsspråk."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Slå samman Excel-filer med Ruby" h2="Aspose.Cells Cloud SDK stöder sammanslagning av flera Excel-filer till en enda Excel-fil." p="Aspose.Cells Cloud REST API stöder sammanslagning av flera Excel-filer till en enda Excel-fil med Ruby, och erbjuder SDK:er för olika programmeringsspråk." urlsection="merge/" >}}

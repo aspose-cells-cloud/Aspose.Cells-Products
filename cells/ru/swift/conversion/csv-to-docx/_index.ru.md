@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в DOCX API для Swift
-description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата DOCX.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата CSV в файл формата DOCX.
 url: /ru/swift/conversion/csv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

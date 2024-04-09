@@ -1,5 +1,5 @@
 ﻿---
-title: Сохраните XLSX в формате JPG с помощью Android.
+title:  Сохраните XLSX в формате JPG с помощью Android.
 description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX в формате JPG.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

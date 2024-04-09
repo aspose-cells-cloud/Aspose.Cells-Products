@@ -1,18 +1,19 @@
 ﻿---
 title:  Convertir XLSM en XML à l'aide de Go
 description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format XLSM en fichier au format XML.
+kwords: Excel, Convert XLSM to XML, REST, Go
+howto: How to convert XLSM to XML using Aspose.Cells Cloud Go library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSM en XML" h2="Aller à la bibliothèque pour convertir XLSM en XML" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Go. Il s\'agit d\'une solution professionnelle pour convertir XLSM en XML et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/xlsm-to-xml/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir XLSM en XML" h2="Aller à la bibliothèque pour convertir XLSM en XML" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Go. Il s\'agit d\'une solution professionnelle pour convertir XLSM en XML et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/xlsm-to-xml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir XLSM en XML à l\'aide du SDK Cloud Cells pour Go" >}}
+{{< blocks/products/cells/cells-cloud-section title="Convertir XLSM en XML à l\'aide du SDK Cloud Cells pour Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion des formats de fichiers XLSM vers XML peut être une tâche complexe. Notre SDK Go gère toutes les conversions du format XLSM vers XML tout en préservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Go fournit une solution professionnelle pour convertir des fichiers XLSM en XML en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et garantit une sortie XML de haute qualité.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go Exemple de code pour convertir XLSM en XML à l\'aide du SDK Cloud Cells" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Go Exemple de code pour convertir XLSM en XML à l\'aide du SDK Cloud Cells" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -44,21 +45,15 @@ La conversion des formats de fichiers XLSM vers XML peut être une tâche comple
     }
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Go pour convertir des fichiers Excel vers d\'autres formats XLSM en XML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment convertir XLSM en XML à l\'aide de la bibliothèque Cloud Go Cells." >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Installez la bibliothèque Go et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source en go.</li>
 <li>Utilisez la méthode `PutConvertWorkbook` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>aller à la version go1.13.0 ou plus récente</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

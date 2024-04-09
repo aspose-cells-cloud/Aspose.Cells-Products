@@ -12,7 +12,7 @@ weight: 90
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
     {{< blocks/products/cells/cells-cloud-language-content title="概述" msglink="https://products.aspose.cloud/cells/family/" msg="适用于 Python 的 Aspose.Cells Cloud SDK 有助于快速开发针对 Microsoft Excel、iWork office 号码、OpenOffice 电子表格和其他格式文件的强大的基于云的应用程序。它提供了以 Python 编程语言生成、读取、合并、分割、加密和转换文件的功能。该 SDK 基于 Aspose.Cells Cloud API 构建，并在 MIT 许可证下运行。" >}}
-    {{< blocks/products/cells/cells-cloud-language-content msg="适用于 Python 的 Aspose.Cells 云 SDK 使您的 Python 应用程序能够访问和修改云工作表中的各种元素。它可以操作自动过滤器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。此 SDK 使您的 Python 程序能够将多种格式转换，例如 XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、ODS 到 DIF、PDF、XPS、TIFF、SVG、Markdown、XML、SpreadsheetML、CSV、TSV、 TXT、HTML 和 MHTML。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content msg="适用于 Python 的 Aspose.Cells 云 SDK 使您的 Python 应用程序能够访问和修改云工作表中的各种元素。它可以操作自动过滤器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。该 SDK 使您的 Python 程序能够将多种格式转换，例如 XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、ODS 到 DIF、PDF、XPS、TIFF、SVG、Markdown、XML、SpreadsheetML、CSV、TSV、 TXT、HTML 和 MHTML。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" imgalt="computer.png" >}}
@@ -21,7 +21,7 @@ weight: 90
 
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" imgalt="operatest.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>适用于 Python 的 Aspose.Cells Cloud SDK 可简化多种操作，例如创建、拆分、合并、搜索和替换文本、应用密码保护、导出为支持的文件格式、读取工作簿文本项、自动调整工作簿行并忽略隐藏元素、使用不同的加密密钥长度加密工作簿密码、将数据导入工作簿、计算所有公式、设置公式计算精度策略、利用智能标记、在格式之间转换工作簿以及应用密码以允许内容修改。</p><p>您可以执行各种操作，例如删除工作表中的特定行或所有行、访问工作表单元格数据或单元格样式via单元格名称、根据索引检索行或列数据、计算单元格公式、清除单元格内容、复制单元格数据到另一个单元格、复制工作表列和行、对工作表行和列进行分组、隐藏特定工作表行和列、定义工作表列和行的样式、在单元格内设置 html 字符串值、为单元格区域分配值以及修改各种工作表设置。</p>" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>适用于 Python 的 Aspose.Cells Cloud SDK 可促进多种操作，例如创建、拆分、合并、搜索和替换文本、应用密码保护、导出为支持的文件格式、读取工作簿文本项、自动调整工作簿行同时忽略隐藏元素、使用不同的加密密钥长度加密工作簿密码、将数据导入工作簿、计算所有公式、设置公式计算精度策略、利用智能标记、在格式之间转换工作簿以及应用密码以允许内容修改。</p><p>您可以执行各种操作，例如删除工作表中的特定行或所有行、访问工作表单元格数据或单元格样式via单元格名称、根据索引检索行或列数据、计算单元格公式、清除单元格内容、复制单元格数据到另一个单元格、复制工作表列和行、对工作表行和列进行分组、隐藏特定工作表行和列、定义工作表列和行的样式、在单元格内设置 html 字符串值、为单元格区域分配值以及修改各种工作表设置。</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
 {{< blocks/products/cells/cells-cloud-language-card title="支持的文件格式" title2="" >}}
@@ -29,7 +29,7 @@ weight: 90
         <li><b>Microsoft Excel:</b>XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM</li>
         <li><b>开通Office：</b>消耗臭氧层物质</li>
         <li><b>可扩展标记语言：</b> XML，乔恩</li>
-        <li><b>文本：</b> CSV、TSV、TXT、Markdown</li>
+        <li><b>文本：</b>CSV、TSV、TXT、Markdown</li>
         <li><b>网址：</b> HTML，MHTML</li>
      {{< /blocks/products/cells/cells-cloud-language-cardlist >}}   
      {{< blocks/products/cells/cells-cloud-language-cardlist title="输出格式" >}}
@@ -38,7 +38,7 @@ weight: 90
         <li><b>iWork Office：</b>数字</li>
         <li><b>Microsoft Office:</b>文档、PPT</li>
         <li><b>可扩展标记语言：</b> XML，乔恩</li>
-        <li><b>文本：</b> CSV、TSV、TXT、Markdown</li>
+        <li><b>文本：</b>CSV、TSV、TXT、Markdown</li>
         <li><b>网址：</b> HTML，MHTML</li>
         <li><b>图像：</b> SVG, TIFF, PNG, BMP, EMF, JPEG, GIF</li>
         <li><b>Adobe 便携式文档：</b> pdf</li>
@@ -59,7 +59,7 @@ weight: 90
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="添加、更新和删除工作表超链接" href="https://reference.aspose.cloud/cells/#/Hypelinks" title="单元格超链接" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-pie-chart" msg="在Excel文件的指定位置添加ListObject" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-superscript" msg="删除工作表中的特定或所有 ListObject" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
-    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="将 ListObject 或表格转换为单元格区域" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
+    {{< blocks/products/cells/cells-cloud-language-features icon="fa-compress" msg="将 ListObject 或表格转换为单元格范围" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-image" msg="使用数据透视表汇总大型 ListObject 或 Table 的数据" href="https://reference.aspose.cloud/cells/#/ListObjects" title="单元格列表对象" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-commenting" msg="将 OleObjects 添加到 Excel 工作表" href="https://reference.aspose.cloud/cells/#/OleObjects" title="细胞-油体对象" >}}
     {{< blocks/products/cells/cells-cloud-language-features icon="fa-eye-slash" msg="从工作表中删除特定或所有 OleObject" href="https://reference.aspose.cloud/cells/#/OleObjects" title="细胞-油体对象" >}}

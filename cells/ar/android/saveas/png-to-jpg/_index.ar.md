@@ -1,18 +1,19 @@
 ﻿---
 title:  احفظ PNG بصيغة JPG باستخدام Android
 description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق PNG كملف بتنسيق JPG.
+kwords: Excel, Save PNG as JPG, REST, Android
+howto: How to save PNG as JPG using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ PNG بصيغة JPG" h2="مكتبة Android لحفظ PNG بصيغة JPG" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ PNG بتنسيق JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/png-to-jpg/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ PNG بصيغة JPG" h2="مكتبة Android لحفظ PNG بصيغة JPG" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ PNG بتنسيق JPG وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/png-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف PNG بتنسيق JPG في Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="احفظ ملف PNG بتنسيق JPG في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من PNG بتنسيق JPG مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق PNG إلى JPG بواسطة Android SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ PNG كملفات JPG عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية ومخرجات JPG مثالية.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز Android لحفظ PNG بصيغة JPG باستخدام REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="مثال على رمز Android لحفظ PNG بصيغة JPG باستخدام REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -31,22 +32,15 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
     }
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ Excel ملف بتنسيقات أخرى PNG بصيغة JPG" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لنظام Android لحفظ ملفات Excel بتنسيقات أخرى" >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
 <li>استخدم طريقة `postWorkbookSaveAs` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>أندرويد 7 أو الأحدث</li>
 <li>Java(TM) بيئة التشغيل SE</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

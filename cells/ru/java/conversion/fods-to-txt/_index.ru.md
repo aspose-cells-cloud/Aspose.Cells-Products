@@ -1,55 +1,59 @@
 ﻿---
-title:  Преобразование FODS в TXT в облаке via Java
-description: Создавайте, редактируйте или конвертируйте файлы Excel с помощью REST API и SDK с открытым исходным кодом Java.
-url: /ru/java/conversion/fods-to-txt/
-family: cells
-platformtag: java
-feature: conversion
-informat: FODS
-outformat: TXT
-platform: Java
-otherformats: XLSB ODS XLSX CSV HTML XLTX DIF XLTM TSV XML MHTML XLSM TIFF XPS SVG FODS 
+title:  Преобразуйте FODS в TXT, используя Java
+description:  Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата FODS в файл формата TXT.
+kwords: Excel, Convert FODS to TXT, REST, Java
+howto: How to convert FODS to TXT using Aspose.Cells Cloud Java library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Конвертируйте FODS в TXT с помощью Java" h2="Автоматизируйте преобразование файлов Excel и OpenOffice с помощью Cloud SDK с открытым исходным кодом for Java" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Конвертировать FODS в TXT" h2="Java библиотека для конвертации FODS в TXT" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертирования FODS в TXT и другие форматы документов с использованием номера Java." urlsection="conversion/fods-to-txt/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Простое преобразование FODS в TXT" %}}
-1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API
-1. Инициализируйте ```CellsApi```, используя идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.
-1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.Upload```.
-1. Позвоните по номеру ```CellsApi.cellsWorkbookGetWorkbook```, чтобы получить полученный файл TXT.
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Преобразование FODS в TXT с помощью Cloud SDK Cells for Java" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Преобразование форматов файлов из FODS в TXT может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования форматов FODS в TXT, сохраняя при этом основное структурное и логическое содержимое исходной таблицы FODS. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертирования файлов FODS в файлы TXT. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод TXT.
 
-{{% blocks/products/pf/agp/feature-section-col title="Начало работы с Excel, API и Java SDK" %}}
- Получите исходный код Excel Cloud SDK for Java с сайта[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) скомпилировать SDK самостоятельно или перейти к[Релизы](https://releases.aspose.cloud/) альтернативные варианты загрузки.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Также взгляните на Swagger на основе[API Ссылка](https://apireference.aspose.cloud/cells/) чтобы узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Java Код для преобразования FODS в TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Пример кода для преобразования FODS в TXT с помощью Cells Cloud SDK" gistPath="" %}}
+ 
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-try {
-    CellsApi api = new CellsApi(System.getenv("CellsCloudTestClientId"), System.getenv("CellsCloudTestClientSecret"), "v3.0", System.getenv("CellsCloudTestApiBaseUrl"));
-    String name = BOOK1;
-    String password = null;
-    Boolean isAutoFit = true;
-    Boolean onlySaveTable = true;
-    String format = "TXT";
-    String folder = TEMPFOLDER;
-    api.uploadFile( folder +"/"+ name, new File("c:\\TestData\\" + name) , null);
-    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
-}
-catch (Exception e) {
-    e.printStackTrace();
-}
+    import java.io.File;
+    import com.aspose.cloud.cells.api.*;
+    public class Conversion {
+        public static void main(String[] args) {
+            String name =  "Book1.fods";
+            String format = "txt";
+            String password = null;
+            String outPath = null;
+            String destFile = "DestFile.txt";
+            try {
+                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                if(response.canRead())
+                {
+                    if(response.exists()){
+                        response.renameTo(new File(destFile));
+                    }                
+                }
+            }
+            catch(Exception exception )
+            {
+                System.out.print(exception);
+            }
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как конвертировать FODS в TXT, используя библиотеку Cells Cloud Java." >}}
+<li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
+<li>Установите библиотеку Java и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
+<li>Откройте исходный файл по номеру Java.</li>
+<li>Используйте метод `putConvertWorkbook` для получения результирующего потока.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Системные Требования" >}}
+<li>Maven 2.2.0 или новее</li>
+<li>Java(TM) Среда выполнения SE</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

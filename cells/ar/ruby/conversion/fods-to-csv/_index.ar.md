@@ -23,12 +23,12 @@ otherformats: XML XLT XPS XLTM DIF XLSB TSV ODS SVG PDF XLSX MHTML XLSM TIFF MD 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ابدأ مع Excel API وRuby SDK" %}}
-احصل على Excel Cloud SDK لكود مصدر Ruby من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
+ احصل على Excel Cloud SDK لكود مصدر Ruby من[جيثب](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) لتجميع SDK بنفسك أو التوجه إلى ملف[إطلاق](https://releases.aspose.cloud/) للحصول على خيارات التنزيل البديلة.
 
  قم أيضًا بإلقاء نظرة على المستندة إلى Swagger[API مرجع](https://apireference.aspose.cloud/cells/) لمعرفة المزيد عن[Excel الراحة API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="رمز روبي لتحويل FODS إلى CSV" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="كود روبي لتحويل FODS إلى CSV" gistPath="" %}}
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
 

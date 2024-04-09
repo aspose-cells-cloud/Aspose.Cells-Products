@@ -1,6 +1,6 @@
 ﻿---
 title:  Exportar Excel objetos usando Ruby
-description: Aspose.Cells Cloud REST API admite la exportación de libros de trabajo y objetos internos a todo tipo de formatos utilizando Ruby. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de libros de trabajo y objetos internos a todo tipo de formatos utilizando Ruby. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar Excel objetos usando Ruby" h2="Aspose.Cells Cloud SDK admite la exportación de libros de trabajo y objetos internos a más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite la exportación de libros de trabajo y objetos internos a todo tipo de formatos utilizando Ruby. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="export/" >}}
@@ -14,7 +14,7 @@ description: Aspose.Cells Cloud REST API admite la exportación de libros de tra
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	</ul></div>
 	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Formato de salida</header><ul>
@@ -22,7 +22,7 @@ description: Aspose.Cells Cloud REST API admite la exportación de libros de tra
 	<li><b>Microsoft Palabra/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Otro:</b> Pdf, Xps, Dif, Json, Rebaja, Sql</li>

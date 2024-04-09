@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى XLS تحويل API إلى Swift
-description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق PNG إلى ملف بتنسيق XLS.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف بتنسيق PNG إلى ملف بتنسيق XLS.
 url: /ar/swift/conversion/png-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

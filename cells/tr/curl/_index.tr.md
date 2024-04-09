@@ -12,7 +12,7 @@ url: /tr/curl
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-curl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>cURL için Aspose.Cells Cloud, Aspose.Cells Cloud REST API'lerinin üzerine inşa edilmiştir ve cURL geliştiricilerinin herhangi bir kurulum gerektirmeden buluttaki Microsoft Excel ve OpenOffice elektronik tablosunu görüntülemek, değiştirmek ve dönüştürmek için bulut tabanlı uygulamalar oluşturmasına yardımcı olur. cURL için Aspose.Cells Cloud, MIT lisansı altında dağıtılmaktadır.</p>
+<p>cURL için Aspose.Cells Cloud, Aspose.Cells Cloud REST API'lerinin üzerine inşa edilmiştir ve cURL geliştiricilerinin herhangi bir kurulum gerektirmeden buluttaki Microsoft Excel ve OpenOffice elektronik tablosunu görüntülemek, değiştirmek ve dönüştürmek için bulut tabanlı uygulamalar oluşturmasına yardımcı olur. cURL için Aspose.Cells Cloud, MIT lisansı altında dağıtılır.</p>
 <p>cURL için Aspose.Cells Bulut, bulut tabanlı programlarınızı çalışma sayfaları, çalışma kitapları, elektronik tablolar, satırlar, hücreler, grafikler, resimler, ListObjects, pivot tablolar ve görevlerle çalışacak şekilde geliştirir.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -110,7 +110,7 @@ url: /tr/curl
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Grafik açıklamasını alın, güncelleyin, gösterin veya gizleyin
+Grafik açıklamasını alın, güncelleyin, gösterin veya gizleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ url: /tr/curl
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Belirli veya tüm OleObject'leri çalışma sayfasından silin
+ Belirli veya tüm OleObject'leri çalışma sayfasından silin
     </p>
    </div>
    <div class="col-lg-4">
@@ -227,14 +227,14 @@ Belirli veya tüm OleObject'leri çalışma sayfasından silin
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Excel Elektronik Tablo İşleme REST API'i Kullanmaya Başlayın
+Excel Elektronik Tablo İşleme REST API'i Kullanmaya Başlayın
     </h2>
     <p>
  cURL için Aspose.Cells Cloud'a başlamak için herhangi bir şey yüklemenize gerek yoktur. Tek yapmanız gereken şu adreste bir hesap oluşturmak:
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
-ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'lerini destekleyen herhangi bir platformda cURL için Aspose.Cells Cloud'u kullanmaya hazırsınız. cURL için Aspose.Cells Cloud, e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
+ ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarı, REST API'lerini destekleyen herhangi bir platformda cURL için Aspose.Cells Cloud'u kullanmaya hazırsınız. cURL için Aspose.Cells Cloud, e-tablo oluşturma, düzenleme ve dönüştürmeye yönelik tüm özellikleri sağlar. Ayrıca daha fazla işlem veya depolama için elektronik tablolardan veri çıkarmanıza da olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
@@ -242,15 +242,15 @@ ve başvuru bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anah
  Çalışma Kitaplarını İşleme via Cloud REST API
     </h2>
     <p>
- cURL için Aspose.Cells Bulut, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri göz ardı ederek çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı uzunluğu sağlamanıza olanak tanır , verileri çalışma kitabına aktarın, çalışma kitabındaki tüm formülleri hesaplayın, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapın, akıllı işaretleyici kullanın, çalışma kitabını istek içeriğinden başka bir formata dönüştürün, içerik değişikliğine izin vermek için şifre uygulayın.
+cURL için Aspose.Cells Bulut, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri göz ardı ederek çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı uzunluğu sağlamanıza olanak tanır , verileri çalışma kitabına aktarın, çalışma kitabındaki tüm formülleri hesaplayın, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapın, akıllı işaretleyici kullanın, çalışma kitabını istek içeriğinden başka bir formata dönüştürün, içerik değişikliğine izin vermek için şifre uygulayın.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Çalışma Sayfalarını İşlemek için Cloud API
+ Çalışma Sayfalarını İşlemek için Bulut API
     </h2>
     <p>
- cURL için Aspose.Cells Cloud'u kullanarak, çalışma sayfasındaki belirli bir satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satır veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir yere kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplayın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
+cURL için Aspose.Cells Cloud'u kullanarak, çalışma sayfasındaki belirli bir satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satır veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir yere kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplayın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
     </p>
    </div>
    <div class="col-lg-12">

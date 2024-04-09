@@ -1,6 +1,6 @@
 ﻿---
-title: PNG إلى ODS تحويل API لـ Swift
-description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق PNG إلى ملف تنسيق ODS.
+title:  PNG إلى ODS تحويل API لـ Swift
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق PNG إلى ملف تنسيق ODS.
 url: /ar/swift/conversion/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

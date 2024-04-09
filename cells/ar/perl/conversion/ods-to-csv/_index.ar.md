@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل المواد المستنفدة للأوزون إلى CSV باستخدام Perl
-description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق ODS إلى ملف بتنسيق CSV.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف بتنسيق ODS إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل المواد المستنفدة للأوزون إلى CSV" h2="Perl مكتبة لتحويل ODS إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Perl. يعد هذا حلاً احترافيًا لتحويل ODS إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/ods-to-csv/" >}}

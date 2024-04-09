@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XLTX mit Python in CSV
-description: Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer XLTX-Formatdatei in eine CSV-Formatdatei.
+description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer XLTX-Formatdatei in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLTX in CSV" h2="Python Bibliothek zum Konvertieren von XLTX in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTX in CSV und andere Dokumentformate unter Python." urlsection="conversion/xltx-to-csv/" >}}
@@ -9,7 +9,7 @@ description: Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLTX in CSV mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTX in CSV kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle Konvertierungen von XLTX in das CSV-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTX-Quelltabelle bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTX- in CSV-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige CSV-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTX in CSV kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle XLTX-in-CSV-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTX-Quelltabelle bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTX- in CSV-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Python Codebeispiel für die Konvertierung von XLTX in CSV mit Cells Cloud SDK" gistPath="" %}}

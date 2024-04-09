@@ -13,7 +13,7 @@ url: /ar/swift/saveas/xlsx-to-xps/
 يعد حفظ تنسيقات الملفات من XLSX كـ XPS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى XPS بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ XLSX كملفات XPS عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وإخراج XPS مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لحفظ XLSX بتنسيق XPS" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

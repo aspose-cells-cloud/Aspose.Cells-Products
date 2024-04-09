@@ -1,18 +1,19 @@
 ﻿---
 title:  Exportieren Sie WORKBOOK nach WMF von Excel mit Cells Cloud SDK für Python
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
+kwords:
+howto:
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie die Arbeitsmappe von Excel nach WMF" h2="Python-Bibliothek zum Exportieren von WORKBOOK in eine WMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Python zu exportieren. Dies ist eine professionelle Lösung, um ARBEITSMAPPE online aus einer Tabellenkalkulation in eine WMF-Formatdatei mit Python zu exportieren." urlsection="export/workbook-to-wmf/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie die Arbeitsmappe von Excel nach WMF" h2="Python-Bibliothek zum Exportieren von WORKBOOK in eine WMF-Datei" p="Verwenden Sie Export API von Cells Cloud, um Excel Datei-interne Objekt-Workflows in Python zu exportieren. Dies ist eine professionelle Lösung, um ARBEITSMAPPE online aus einer Tabellenkalkulation in eine WMF-Formatdatei mit Python zu exportieren." urlsection="export/workbook-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im WMF-Format mit dem Cloud SDK Cells für Python" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im WMF-Format mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in eine WMF-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von WORKBOOK in das WMF-Format werden von unserem SDK Python durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere Bibliothek Python ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von WORKBOOK aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Python mit REST API zum Exportieren von WORKBOOK aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -33,22 +34,15 @@ Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in eine WMF-Datei ist
     f.close()    
 ```
    
-{{% /blocks/products/cells/cells-cloud-code-div %}}
-<br/>
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Python, um Objekte aus Excel WORKBOOK nach WMF zu exportieren" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Python 2.7 oder neuer</li>
 <li>Python 3.10 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

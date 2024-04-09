@@ -19,7 +19,7 @@ description: 用于保护的云 API 和 SDK Microsoft Excel 和 OpenOffice Calc�
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Perl API进行加密" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>呼叫细胞_作业簿_邮政_加密_获取结果流的文档方法</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

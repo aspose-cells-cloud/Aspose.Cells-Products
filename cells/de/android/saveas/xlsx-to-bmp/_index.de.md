@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSX unter Android unter BMP
-description: Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern der Datei im XLSX-Format als Datei im Format BMP.
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern der Datei im XLSX-Format als Datei im Format BMP.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLSX unter BMP" h2="Android-Bibliothek zum Speichern von XLSX als BMP" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLSX als BMP und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlsx-to-bmp/" >}}

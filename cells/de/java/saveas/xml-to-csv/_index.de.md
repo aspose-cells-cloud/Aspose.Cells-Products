@@ -1,5 +1,5 @@
 ﻿---
-title: Speichern Sie XML als CSV mit Java
+title:  Speichern Sie XML als CSV mit Java
 description:  Verwendung von Aspose.Cells Cloud SDK for Java zum Speichern von XML-Formatdateien als CSV-Formatdateien.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

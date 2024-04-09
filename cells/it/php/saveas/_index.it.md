@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva il file Excel in altri formati utilizzando PHP
-description: Aspose.Cells Cloud REST API supporta il salvataggio dei file Excel in vari formati utilizzando PHP e offre SDK per più linguaggi di programmazione.
+description:  Aspose.Cells Cloud REST API supporta il salvataggio dei file Excel in vari formati utilizzando PHP e offre SDK per più linguaggi di programmazione.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Salva il file Excel in altri formati utilizzando PHP" h2="Aspose.Cells Cloud SDK supporta il salvataggio di cartelle di lavoro in oltre 30 formati di file diversi." p="Aspose.Cells Cloud REST API supporta il salvataggio dei file Excel in vari formati utilizzando PHP e offre SDK per più linguaggi di programmazione." urlsection="saveas/" >}}

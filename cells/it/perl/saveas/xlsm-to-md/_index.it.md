@@ -1,18 +1,19 @@
 ﻿---
-title: Salva XLSM come MD utilizzando Perl
+title:  Salva XLSM come MD utilizzando Perl
 description:  Utilizzando Aspose.Cells Cloud SDK per Perl per salvare il file in formato XLSM come file in formato MD.
+kwords: Excel, Save XLSM as MD, REST, Perl
+howto: How to save XLSM as MD using Aspose.Cells Cloud Perl library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva XLSM come MD" h2="Libreria Perl per il salvataggio di XLSM come MD" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Perl. Si tratta di una soluzione professionale per salvare XLSM come MD e altri formati di documenti online utilizzando Perl." urlsection="saveas/xlsm-to-md/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Salva XLSM come MD" h2="Libreria Perl per il salvataggio di XLSM come MD" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Perl. Si tratta di una soluzione professionale per salvare XLSM come MD e altri formati di documenti online utilizzando Perl." urlsection="saveas/xlsm-to-md/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLSM come MD in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section title="Salva un file XLSM come MD in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Salvare i formati di file da XLSM come MD è un compito complesso. Tutte le transizioni dal formato XLSM al formato MD vengono eseguite dal nostro SDK Perl mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSM di origine. La nostra libreria Perl è una soluzione professionale per salvare XLSM come file MD online. Questo Cloud SDK offre agli sviluppatori Perl funzionalità potenti e un output MD perfetto.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl Codice Esempio per salvare XLSM come MD utilizzando REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Codice Esempio per salvare XLSM come MD utilizzando REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -25,21 +26,15 @@ Salvare i formati di file da XLSM come MD è un compito complesso. Tutte le tran
     $result = $instance->cells_save_as_post_document_save_as(name => $name,save_options => $save_options, newfilename => $newfilename, folder => $folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Cells Cloud SDK per Perl per salvare i file Excel in altri formati XLSM come MD" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Scopri come salvare XLSM come MD utilizzando la libreria Cells Cloud Perl." >}}
 <li> Registra un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente la quota API e i dettagli dell'autorizzazione</li>
-<li>Inizializza Cells API con l'ID cliente, il segreto cliente, l'URL di base e la versione API.</li>
+<li>Installa la libreria Perl e aggiungi il riferimento (importa la libreria) al tuo progetto.</li>
+<li>Apri il file sorgente in Perl.</li>
 <li>Chiama la posta_cartella di lavoro_save_as per ottenere il flusso risultante</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Requisiti di sistema" >}}
 <li>Perl 5</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

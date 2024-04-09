@@ -13,7 +13,7 @@ url: /ar/swift/conversion/json-to-wmf/
 يعد تحويل تنسيقات الملفات من JSON إلى WMF مهمة معقدة. يتم تنفيذ جميع عمليات النقل من تنسيق JSON إلى WMF بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات JSON إلى WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية ومخرجات WMF مثالية.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Swift باستخدام REST API لتحويل JSON إلى تنسيق WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال على التعليمات البرمجية في Swift باستخدام REST API لتحويل تنسيق JSON إلى WMF" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

@@ -1,18 +1,19 @@
 ﻿---
 title:  تحويل XLS إلى SQL باستخدام PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLS إلى ملف تنسيق SQL.
+kwords: Excel, Convert XLS to SQL, REST, PHP
+howto: How to convert XLS to SQL using Aspose.Cells Cloud PHP library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLS إلى SQL" h2="مكتبة PHP لتحويل XLS إلى SQL" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل XLS إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xls-to-sql/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="تحويل XLS إلى SQL" h2="مكتبة PHP لتحويل XLS إلى SQL" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع PHP. يعد هذا حلاً احترافيًا لتحويل XLS إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xls-to-sql/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLS إلى SQL باستخدام Cells Cloud SDK لـ PHP" >}}
+{{< blocks/products/cells/cells-cloud-section title="تحويل XLS إلى SQL باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 يمكن أن يكون تحويل تنسيقات الملفات من XLS إلى SQL مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق XLS إلى SQL مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLS المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات XLS إلى ملفات SQL عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج SQL عالي الجودة.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل XLS إلى SQL باستخدام Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP مثال على الكود لتحويل XLS إلى SQL باستخدام Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -32,21 +33,15 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف
     fclose($file);
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Cells Cloud SDK لـ PHP لتحويل ملفات Excel إلى تنسيقات أخرى XLS إلى SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل XLS إلى SQL باستخدام مكتبة Cells Cloud PHP." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
-<li>قم بتهيئة Cells API باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API.</li>
+<li>قم بتثبيت مكتبة PHP وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
+<li>افتح الملف المصدر في PHP.</li>
 <li>استخدم طريقة `putConvertWorkbook` لاسترداد الدفق الناتج.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
 <li>PHP 7.4 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

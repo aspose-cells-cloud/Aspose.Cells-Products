@@ -1,12 +1,12 @@
 ﻿---
 title:  Entfernen Sie doppelte Zeilen aus der lokalen Arbeitsmappe mit Android in der Cloud-Umgebung.
-description:  Cloud-APIs und SDKs zum Löschen doppelter Zeilen in Microsoft Excel und OpenOffice Calc mit Android. Löschen Sie doppelte Zeilen in lokalen Tabellenkalkulationen mit dem Cloud SDK Cells für Android.
+description:  Cloud-APIs und SDKs zum Löschen doppelter Zeilen in Microsoft Excel und OpenOffice Calc mit Android. Löschen Sie doppelte Zeilen in lokalen Tabellenkalkulationen mit dem Cells Cloud SDK für Android.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen doppelter Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen." h2="Android-Bibliothek zum Entfernen doppelter Zeilen aus lokalen Microsoft Excel und OpenOffice Calc-Tabellen." p="Verwenden Sie Cells Clear REST API, um doppelte Zeilen aus lokalen Microsoft Excel und OpenOffice Calc-Tabellen in Android-Workflows zu entfernen. Diese professionelle Lösung löscht effizient doppelte Zeilen aus lokalen Microsoft Excel und OpenOffice Calc-Tabellen mit Android." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie doppelte Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen mit dem Cloud SDK Cells für Android." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie doppelte Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen mit dem Cells Cloud SDK für Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
 Das Löschen doppelter Zeilen aus lokalen Microsoft Excel und OpenOffice Calc-Tabellen ist komplex, und unser Cells Cloud SDK für Android übernimmt diesen Übergang und behält dabei den strukturellen und logischen Inhalt der Quelltabelle bei. Unsere Android-Bibliothek ist eine professionelle Lösung zum effizienten Löschen doppelter Zeilen online in lokalen Microsoft Excel und OpenOffice Calc-Tabellen. Dieses Cloud SDK bietet Android-Entwicklern robuste Funktionalität und eine leistungsstarke API.

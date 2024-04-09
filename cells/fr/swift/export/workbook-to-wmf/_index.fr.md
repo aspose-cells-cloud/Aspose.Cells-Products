@@ -1,5 +1,5 @@
 ﻿---
-title:  Exporter WORKBOOK vers WMF à partir d'une feuille de calcul à l'aide de Swift API
+title: Exporter WORKBOOK vers WMF à partir d'une feuille de calcul à l'aide de Swift API
 description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
 url: /fr/swift/export/workbook-to-wmf/
 ---

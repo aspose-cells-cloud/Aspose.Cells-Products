@@ -9,7 +9,7 @@ url: /tr/ruby/export/export/
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını
 1. ```LightCellsAPI```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
 1.  ```post_export``` yöntemini arayın
 {{% /blocks/products/pf/agp/feature-section-col %}}

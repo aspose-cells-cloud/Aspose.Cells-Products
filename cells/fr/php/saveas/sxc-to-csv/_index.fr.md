@@ -1,6 +1,6 @@
 ﻿---
-title: Enregistrez SXC au format CSV en utilisant PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format SXC au format CSV.
+title:  Enregistrez SXC au format CSV en utilisant PHP
+description: Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format SXC au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer SXC au format CSV" h2="Bibliothèque PHP pour enregistrer SXC au format CSV" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer SXC au format CSV et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/sxc-to-csv/" >}}

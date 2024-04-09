@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML كملف CSV باستخدام Java
-description: استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق MHTML كملف بتنسيق CSV.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق MHTML كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ MHTML كملف CSV" h2="مكتبة Java لحفظ MHTML بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ MHTML بتنسيق CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/mhtml-to-csv/" >}}

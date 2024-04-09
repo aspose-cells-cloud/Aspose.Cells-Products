@@ -1,66 +1,41 @@
 ﻿---
-title:  Excel FODS'yi XLSX via Ruby'ye dönüştür
-description: REST API ve Açık Kaynak Ruby SDK ile Excel dosyalarını oluşturun, düzenleyin veya dönüştürün
-url: /tr/ruby/conversion/fods-to-xlsx/
-family: cells
-platformtag: ruby
-feature: conversion
-informat: FODS
-outformat: XLSX
-platform: Ruby
-otherformats: FODS XLSB XPS XLSX TIFF MHTML XLTX CSV XLSM SVG XLTM TXT PDF DIF MD XML 
+title:  Ruby kullanarak FODS'yi XLSX'e dönüştürün
+description:  FODS formatındaki bir dosyayı XLSX formatındaki bir dosyaya dönüştürmek için Ruby için Aspose.Cells Cloud SDK'yı kullanma.
+kwords: Excel, Convert FODS to XLSX, REST, Ruby
+howto: How to convert FODS to XLSX using Aspose.Cells Cloud Ruby library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Ruby ile FODS\'yi XLSX\'e dönüştürün" h2="Ruby için açık kaynaklı Cloud SDK ile Excel verilerini okuyun, düzenleyin ve diğer formatlara aktarın" >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="FODS\'yi XLSX\'ye dönüştür" h2="FODS\'yi XLSX\'e dönüştürmek için Ruby kütüphanesi" p="Ruby projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Cloud\'un API Dönüşümünü kullanın. Bu, Ruby\'yi kullanarak FODS\'yi XLSX\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/fods-to-xlsx/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Ruby ile FODS\'den XLSX\'e Dönüşüm" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
-1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
-1. FODS dosyasını ```CellsApi.upload_file``` yöntemiyle varsayılan Cloud Storage'a yükleyin
-1. Ortaya çıkan XLSX dosyasını almak için ```CellsApi.cells_save_as_post_document_save_as``` yöntemini çağırın
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section title="Ruby için Cells Cloud SDK\'yı kullanarak FODS\'yi XLSX\'e dönüştürün" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Dosya formatlarını FODS'den XLSX'e dönüştürmek karmaşık bir iş olabilir. Ruby SDK'mız, kaynak FODS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm FODS'den XLSX formatına dönüşümleri gerçekleştirir. Ruby kütüphanemiz, FODS'yi çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Ruby geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli XLSX çıktısı sağlar.
 
-{{% blocks/products/pf/agp/feature-section-col title="Excel API ve Ruby SDK\'yı Kullanmaya Başlayın" %}}
-Ruby kaynak kodu için Excel Cloud SDK'yı şu adresten edinin:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) SDK'yı kendiniz derlemek veya[Salıverme](https://releases.aspose.cloud/) Alternatif indirme seçenekleri için.
+{{< /blocks/products/cells/cells-cloud-section >}}
 
- Ayrıca Swagger tabanlıya da bir göz atın[API Referans](https://apireference.aspose.cloud/cells/) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="FODS\'den XLSX\'e Dönüşüm için Ruby Kodu" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Cells Cloud SDK kullanarak FODS\'yi XLSX\'e dönüştürmek için Ruby Kod Örneği" gistPath="" %}}
+ 
 ```ruby
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
-
-require 'aspose_cells_cloud'
-
-class Workbook
-  include AsposeCellsCloud
-  def initialize
-    @instance =  AsposeCellsCloud::CellsApi.new($client_id, $client_secret, $api_version, $baseurl) 
-  end
-  
-  # Convert document and save result to storage
-  def post_document_save_as
-    name = $BOOK1
-    save_options = nil
-    newfilename = 'output.xlsx'
-    is_auto_fit_rows = true
-    is_auto_fit_columns = true
-    folder = $TEMPFOLDER
-    result = @instance.upload_file( folder + "/" + name, ::File.open(File.expand_path("data/" + name), "r") {|io| io.read(io.size) })
-    expect(result.uploaded.size).to  be > 0
-    result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder + "/" + newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
-  end
-end
-
-workbook = Workbook.new()
-puts workbook.post_document_save_as
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
+    describe 'cells_save_as_post_document_save_as test' do
+        it "should work" do
+            @instance = AsposeCellsCloud::CellsApi.new($client_id,$client_secret,"v3.0","https://api.aspose.cloud/")
+            name = "BOOK1.fods"
+            format = 'xlsx'
+            @instance.cells_workbook_put_convert_workbook( ::File.open(File.expand_path("data/"+name),"r")  {|io| io.read(io.size) },{:format=>format})     
+        end
+    end
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Ruby kitaplığını kullanarak FODS\'yi XLSX\'e nasıl dönüştüreceğinizi öğrenin." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li>Ruby kütüphanesini kurun ve referansı projenize ekleyin (kütüphaneyi içe aktarın).</li>
+<li>Kaynak dosyayı Ruby'de açın.</li>
+<li>Ortaya çıkan akışı almak için `put_convert_workbook` yöntemini kullanın.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
+<li>yakut 2.5 veya daha yenisi</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}

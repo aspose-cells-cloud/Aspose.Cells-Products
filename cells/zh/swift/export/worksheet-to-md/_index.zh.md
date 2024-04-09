@@ -1,5 +1,5 @@
 ﻿---
-title: 使用 Swift 将电子表格中的 WORKSHEET 导出到 MD API
+title: 使用 Swift 将 WORKSHEET 从电子表格导出到 MD API
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
 url: /zh/swift/export/worksheet-to-md/
 ---
@@ -57,7 +57,7 @@ url: /zh/swift/export/worksheet-to-md/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Swift API将WORKSHEET导出到MD" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 postExport 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

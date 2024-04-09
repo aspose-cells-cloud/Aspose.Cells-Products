@@ -1,18 +1,19 @@
 ﻿---
 title:  Enregistrer le GIF au format XLSX en utilisant C#
 description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format GIF au format XLSX.
+kwords: Excel, Save GIF as XLSX, REST, C#
+howto: How to save GIF as XLSX using Aspose.Cells Cloud C# library.
 ---
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer le GIF au format XLSX" h2="Bibliothèque C# pour enregistrer GIF au format XLSX" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer des GIF au format XLSX et d\'autres formats de documents en ligne en utilisant le C#." urlsection="saveas/gif-to-xlsx/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Enregistrer le GIF au format XLSX" h2="Bibliothèque C# pour enregistrer GIF au format XLSX" p="Utilisez SaveAs API sur Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer des GIF au format XLSX et d\'autres formats de documents en ligne en utilisant le C#." urlsection="saveas/gif-to-xlsx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier GIF au format XLSX dans C#" >}}
+{{< blocks/products/cells/cells-cloud-section title="Enregistrez un fichier GIF au format XLSX dans C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Enregistrer les formats de fichiers GIF au format XLSX est une tâche complexe. Toutes les transitions du format GIF vers XLSX sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque C# est une solution professionnelle pour enregistrer des GIF sous forme de fichiers XLSX en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie XLSX parfaite.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C# Exemple de code pour enregistrer un GIF au format XLSX à l\'aide de REST API" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Exemple de code pour enregistrer un GIF au format XLSX à l\'aide de REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -23,22 +24,16 @@ Enregistrer les formats de fichiers GIF au format XLSX est une tâche complexe. 
     SaveResponse saveResponse = cellsApi.CellsSaveAsPostDocumentSaveAs(name, null, newfilename, null,null,folder);
 ```
   
-{{% /blocks/products/cells/cells-cloud-code-div %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le SDK Cloud Cells pour Net pour enregistrer les fichiers Excel sous d\'autres formats GIF au format XLSX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Découvrez comment enregistrer un GIF au format XLSX à l\'aide de la bibliothèque Cloud Net Cells." >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
-<li>Initialisez le Cells API avec votre ID client, votre secret client, votre URL de base et votre version API.</li>
+<li>Installez la bibliothèque C# et ajoutez la référence (importez la bibliothèque) à votre projet.</li>
+<li>Ouvrez le fichier source dans C#</li>
 <li>Utilisez la méthode `PostWorkbookSaveAs` pour récupérer le flux résultant.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Configuration requise" >}}
 <li>NET Framework 4.5.2 ou version ultérieure</li>
 <li>Net Standard 2.0 ou version ultérieure</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
