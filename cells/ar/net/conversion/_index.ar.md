@@ -2,7 +2,6 @@
 title: تحويل ملفات Excel إلى صيغ أخرى.
 description: توفر السحابة Aspose.Cells دعمًا قويًا لتحويل تنسيق الملف Excel، وهي عملية معروفة بتعقيدها. يدعم Aspose.Cells Cloud أكثر من 30 تنسيقًا للملفات، بما في ذلك Excel وPdf وMarkdown وJson وXML وCsv وHtml وما إلى ذلك.
 ---
-{{< blocks/products/cells/cells-cloud-ai-mask >}}
 {{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل Excel الملفات إلى صيغ أخرى." h2="توفر السحابة Aspose.Cells دعمًا قويًا لتحويل تنسيق الملف Excel، وهي عملية معروفة بتعقيدها. يدعم Aspose.Cells Cloud أكثر من 30 تنسيقًا للملفات، بما في ذلك Excel وPdf وMarkdown وJson وXML وCsv وHtml وما إلى ذلك." p="توفر السحابة Aspose.Cells REST API الذي يدعم تحويل Excel ملفًا إلى تنسيقات مختلفة ويوفر حزم SDK للغات برمجة متعددة. تتضمن لغات البرمجة هذه Net وJava وGo وNodeJS وPython وما إلى ذلك. ." urlsection="" >}}
