@@ -2,7 +2,8 @@
 title: Save JSON as JPG using Java 
 description: Utilizing Aspose.Cells Cloud SDK for Java to save JSON format file as JPG format file. 
 kwords: Excel, Save JSON as JPG, REST, Java
-howto: How to save JSON as JPG using Aspose.Cells Cloud Java library.
+howto: {"@context": "https://schema.org","@type": "HowTo","name": "How to save JSON as JPG using the Cells Cloud Java library.","description": "How to save JSON as JPG using the Cells Cloud Java library.","image": {"@type": "ImageObject"},"url": "/java/saveas/json-to-jpg/","step": [{ "@type": "HowToStep","name": "How to save JSON as JPG using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/saveas/json-to-jpg/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to save JSON as JPG using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/saveas/json-to-jpg/","text": "Install Java library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to save JSON as JPG using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/saveas/json-to-jpg/","text": "Open the source file in Java.",},{ "@type": "HowToStep","name": "How to save JSON as JPG using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/saveas/json-to-jpg/","text": "Use the `postWorkbookSaveAs` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}
+fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why save file as other formats file in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just save them as appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PostWorkbookSaveAsRequest() method, passing an output filename with required extension.</li><li>Get the result of save as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I save as with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}
 ---
 
 
@@ -36,7 +37,7 @@ Saving file formats from JSON as JPG is a complex task. All JSON to JPG format t
   
 {{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="Learn how to save JSON as JPG using the Cells Cloud Java library." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to save JSON as JPG using the Cells Cloud Java library." >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Install Java library and add the reference (import the library) to your project.</li>
 <li>Open the source file in Java.</li>

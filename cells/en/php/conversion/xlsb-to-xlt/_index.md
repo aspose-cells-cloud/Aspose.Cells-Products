@@ -2,7 +2,8 @@
 title: Convert XLSB to XLT using PHP 
 description: Utilizing the Aspose.Cells Cloud SDK for PHP to convert a XLSB format file to a XLT format file. 
 kwords: Excel, Convert XLSB to XLT, REST, PHP
-howto: How to convert XLSB to XLT using Aspose.Cells Cloud PHP library.
+howto: {"@context": "https://schema.org","@type": "HowTo","name": "How to convert XLSB to XLT using the Cells Cloud PHP library.","description": "How to convert XLSB to XLT using the Cells Cloud PHP library.","image": {"@type": "ImageObject"},"url": "/php/conversion/xlsb-to-xlt/","step": [{ "@type": "HowToStep","name": "How to convert XLSB to XLT using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/xlsb-to-xlt/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert XLSB to XLT using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/xlsb-to-xlt/","text": "Install PHP library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert XLSB to XLT using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/xlsb-to-xlt/","text": "Open the source file in PHP.",},{ "@type": "HowToStep","name": "How to convert XLSB to XLT using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/xlsb-to-xlt/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "phpstorm, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}
+fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}
 ---
 
 
@@ -37,7 +38,7 @@ Converting file formats from XLSB to XLT can be a complex task. Our PHP SDK hand
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="Learn how to convert XLSB to XLT using the Cells Cloud PHP library." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to convert XLSB to XLT using the Cells Cloud PHP library." >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Install PHP library and add the reference (import the library) to your project.</li>
 <li>Open the source file in PHP.</li>
