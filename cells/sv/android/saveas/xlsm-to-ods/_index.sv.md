@@ -9,7 +9,7 @@ howto: How to save XLSM as ODS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en XLSM-fil som ODS i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLSM som ODS är en komplex uppgift. Alla formatövergångar från XLSM till ODS utförs av vår Android SDK samtidigt som källbladets XLSM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLSM som ODS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt ODS-utgång.
+Att spara filformat från XLSM som ODS är en komplex uppgift. Alla XLSM- till ODS-formatövergångar utförs av vår Android SDK samtidigt som käll-XLSM-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLSM som ODS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt ODS-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

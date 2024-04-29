@@ -9,7 +9,7 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern der 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine MHTML-Datei als CSV unter Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus MHTML als CSV ist eine komplexe Aufgabe. Alle Übergänge vom MHTML- zum CSV-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um MHTML als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
+Das Speichern von Dateiformaten von MHTML als CSV ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML zu CSV werden von unserem Perl SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung zum Online-Speichern von MHTML als CSV-Dateien. Dieses Cloud SDK bietet Perl-Entwicklern leistungsstarke Funktionen und perfekte CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Perl Codebeispiel zum Speichern von MHTML als CSV mit REST API" gistPath="" %}}

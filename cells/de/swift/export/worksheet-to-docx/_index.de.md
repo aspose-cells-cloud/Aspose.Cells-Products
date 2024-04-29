@@ -1,16 +1,16 @@
 ﻿---
-title:  Exportieren Sie ARBEITSBLATT aus der Tabelle mit Swift API nach DOCX
+title:  Exportieren Sie ARBEITSBLATT aus einer Tabelle mit Swift API nach DOCX
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/worksheet-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von ARBEITSBLATT in eine DOCX-Datei" h2="Swift-Bibliothek zum Exportieren von WORKSHEET in eine DOCX-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine DOCX-Formatdatei aus einer Tabellenkalkulation online mit Swift." urlsection="export/worksheet-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren eines Arbeitsblatts in eine DOCX-Datei" h2="Swift-Bibliothek zum Exportieren von ARBEITSBLÄTTERN in DOCX-Dateien" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Swift zu exportieren. Dies ist eine professionelle Lösung, um WORKSHEET online mit Swift aus Tabellenkalkulationen in eine DOCX-Datei zu exportieren." urlsection="export/worksheet-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im DOCX-Format in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine DOCX-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das DOCX-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im DOCX-Format. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte DOCX-Ausgabe.
+Das Exportieren von WORKSHEET-Objekten aus einer Tabellenkalkulation in eine DOCX-Datei ist eine komplexe Aufgabe. Die Formatübergänge beim Exportieren von WORKSHEET in die DOCX-Datei werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle WORKSHEET erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Exportieren von WORKSHEET-Objekten in DOCX-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte DOCX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von WORKSHEET aus der Tabellenkalkulation in das DOCX-Format" gistPath="" %}}

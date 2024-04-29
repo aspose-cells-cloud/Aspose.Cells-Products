@@ -3,13 +3,13 @@ title: 使用 PHP 将 NUMBERS 保存为 CSV
 description: 利用Aspose.Cells Cloud SDK for PHP将NUMBERS格式文件保存为CSV格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将数字另存为 CSV" h2="PHP 用于将 NUMBERS 保存为 CSV 的库" p="使用 Cells Cloud 的 SaveAs API 在 PHP 中创建自定义电子表格工作流程。这是使用 PHP 在线将 NUMBERS 保存为 CSV 和其他文档格式的专业解决方案。" urlsection="saveas/numbers-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 NUMBERS 保存为 CSV" h2="PHP 用于将 NUMBERS 保存为 CSV 的库" p="使用 Cells Cloud 的 SaveAs API 在 PHP 中创建自定义电子表格工作流程。这是使用 PHP 在线将 NUMBERS 保存为 CSV 和其他文档格式的专业解决方案。" urlsection="saveas/numbers-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 NUMBERS 文件另存为 CSV 中的 PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 NUMBERS 文件保存为 PHP 中的 CSV" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 NUMBERS 文件格式保存为 CSV 是一项复杂的任务。所有 NUMBERS 到 CSV 格式的转换均由我们的 PHP SDK 执行，同时保留源 NUMBERS 电子表格的主要结构和逻辑内容。我们的 PHP 库是一个将数字在线保存为 CSV 文件的专业解决方案。该Cloud SDK为PHP开发人员提供了强大的功能和完美的CSV输出。
+将 NUMBERS 的文件格式保存为 CSV 是一项复杂的任务。所有 NUMBERS 到 CSV 格式的转换均由我们的 PHP SDK 执行，同时保留源 NUMBERS 电子表格的主要结构和逻辑内容。我们的 PHP 库是一个专业的解决方案，可在线将 NUMBERS 保存为 CSV 文件。此云 SDK 为 PHP 开发人员提供了强大的功能和完美的 CSV 输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PHP 使用 REST 将 NUMBERS 保存为 CSV 的代码示例 API" gistPath="" %}}

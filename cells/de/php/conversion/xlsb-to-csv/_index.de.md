@@ -6,7 +6,7 @@ description:  Verwendung des Aspose.Cells Cloud SDK für PHP zum Konvertieren ei
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLSB in CSV" h2="PHP Bibliothek zum Konvertieren von XLSB in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSB in CSV und andere Dokumentformate unter PHP." urlsection="conversion/xlsb-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLSB in CSV mit dem Cloud SDK Cells für PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLSB in CSV mit Cells Cloud SDK für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von XLSB in CSV kann eine komplexe Aufgabe sein. Unser PHP SDK übernimmt alle XLSB-in-CSV-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLSB-Quelltabelle bei. Unsere PHP-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSB- in CSV-Dateien. Dieses Cloud SDK bietet PHP-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige CSV-Ausgabe.

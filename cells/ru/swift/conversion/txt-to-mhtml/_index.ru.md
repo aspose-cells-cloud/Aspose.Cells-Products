@@ -10,7 +10,7 @@ url: /ru/swift/conversion/txt-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл TXT в MHTML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в MHTML — сложная задача. Все переходы формата TXT в MHTML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы TXT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов TXT в MHTML. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из TXT в MHTML — сложная задача. Все переходы формата TXT в MHTML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов TXT в MHTML. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования TXT в формат MHTML" gistPath="" %}}

@@ -9,7 +9,7 @@ description:  Использование Cloud SDK Aspose.Cells для C# для
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование TXT в CSV с помощью Cloud SDK Cells для C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в CSV может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования формата TXT в CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы TXT. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертирования файлов TXT в CSV. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод в формате CSV.
+Преобразование форматов файлов из TXT в CSV может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования форматов TXT в CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы TXT. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертирования файлов TXT в CSV. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# Пример кода для преобразования TXT в CSV с помощью Cells Cloud SDK" gistPath="" %}}

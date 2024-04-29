@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT كملف CSV باستخدام Perl
-description: استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق TXT كملف بتنسيق CSV.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق TXT كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ TXT كملف CSV" h2="مكتبة Perl لحفظ TXT بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Perl. يعد هذا حلاً احترافيًا لحفظ TXT كملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/txt-to-csv/" >}}

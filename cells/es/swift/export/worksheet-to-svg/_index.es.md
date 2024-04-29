@@ -10,7 +10,7 @@ url: /es/swift/export/worksheet-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto WORKSHEET a archivo de formato SVG en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto WORKSHEET al archivo SVG desde la hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza las transiciones de formato WORKSHEET a SVG mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de WORKSHEET de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos WORKSHEET a archivos con formato SVG en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado SVG perfecto.
+Exportar el objeto WORKSHEET al archivo SVG desde la hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de HOJA DE TRABAJO a formato SVG mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de HOJA DE TRABAJO de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos WORKSHEET a archivos con formato SVG en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado SVG perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar HOJA DE TRABAJO al formato SVG desde una hoja de cálculo" gistPath="" %}}

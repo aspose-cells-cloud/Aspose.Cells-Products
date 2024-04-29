@@ -9,7 +9,7 @@ howto: How to save XML as XLTX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните XML-файл как XLTX в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в формате XLTX — сложная задача. Все переходы формата XML в XLTX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной XML-таблицы. Наша библиотека Android — это профессиональное решение для сохранения XML в формате XLTX в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLTX.
+Сохранение форматов файлов из XML в формате XLTX — сложная задача. Все переходы формата XML в XLTX выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной XML-таблицы. Наша библиотека Android — это профессиональное решение для сохранения XML в формате XLTX в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLTX.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -9,7 +9,7 @@ description:  Utilizando Aspose.Cells Cloud SDK para C# para guardar el archivo 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XML como CSV en C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XML como CSV es una tarea compleja. Todas las transiciones de formato XML a CSV se realizan mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca C# es una solución profesional para guardar XML como archivos CSV en línea. Este SDK de nube ofrece a los desarrolladores de C# una potente funcionalidad y una salida CSV perfecta.
+Guardar formatos de archivo de XML como CSV es una tarea compleja. Todas las transiciones de formato XML a CSV se realizan mediante nuestro SDK C# manteniendo el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca C# es una solución profesional para guardar XML como archivos CSV en línea. Este SDK de nube ofrece a los desarrolladores de C# una potente funcionalidad y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# Ejemplo de código para guardar XML como CSV usando REST API" gistPath="" %}}

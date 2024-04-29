@@ -9,11 +9,11 @@ howto: How to convert JSON to XLT using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie JSON in XLT mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von JSON in XLT kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von JSON in das XLT-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der JSON-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von JSON- in XLT-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLT-Ausgabe.
+Das Konvertieren von Dateiformaten von JSON in XLT kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom JSON- ins XLT-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der JSON-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von JSON- in XLT-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLT-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von JSON in XLT mit dem Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von JSON in XLT mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

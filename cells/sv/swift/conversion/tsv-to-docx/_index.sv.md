@@ -10,7 +10,7 @@ url: /sv/swift/conversion/tsv-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en TSV-fil till DOCX i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från TSV till DOCX är en komplex uppgift. Alla TSV till DOCX-formatövergångar utförs av vår Swift SDK samtidigt som käll-TSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera TSV till DOCX-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt DOCX-utdata.
+Att konvertera filformat från TSV till DOCX är en komplex uppgift. Alla TSV- till DOCX-formatövergångar utförs av vår Swift SDK samtidigt som käll-TSV-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera TSV till DOCX-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt DOCX-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera TSV till DOCX-format" gistPath="" %}}

@@ -9,7 +9,7 @@ howto: How to convert XLTM to MHTML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertera XLTM till MHTML med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTM till MHTML kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar av XLTM till MHTML-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket XLTM bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera XLTM till MHTML-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer MHTML-utdata av hög kvalitet.
+Att konvertera filformat från XLTM till MHTML kan vara en komplex uppgift. Vår Android SDK hanterar alla XLTM till MHTML-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket XLTM bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera XLTM till MHTML-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer MHTML-utdata av hög kvalitet.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

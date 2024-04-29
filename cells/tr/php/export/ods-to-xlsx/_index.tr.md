@@ -9,13 +9,13 @@ url: /tr/php/export/ods-to-xlsx/
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=" PHP için Cloud SDK\'da ODS\'yi XLSX dosyasına aktarın" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
 1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
 1. Ortaya çıkan XLSX akışını almak için ```cellsWorkbookPutConvertWorkBook``` yöntemini çağırın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Excel REST API ile Başlayın" %}}
- Excel Cloud SDK for .NET kaynak kodunu şu adresten alın:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) SDK'yı kendiniz derlemek veya[Salıverme](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/releases) Alternatif indirme seçenekleri için.
+ Excel Cloud SDK for .NET kaynak kodunu şuradan alın:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) SDK'yı kendiniz derlemek veya[Salıverme](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/releases) Alternatif indirme seçenekleri için.
 
  Ayrıca Swagger tabanlıya da bir göz atın[API Referans]() hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

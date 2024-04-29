@@ -4,7 +4,7 @@ description:  XLSM formatındaki bir dosyayı SXC formatındaki bir dosyaya dön
 kwords: Excel, Convert XLSM to SXC, REST, Android
 howto: How to convert XLSM to SXC using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="XLSM\'yi SXC\'ye dönüştür" h2="XLSM\'yi SXC\'ye dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak XLSM\'yi SXC\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlsm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLSM\'yi SXC\'ye dönüştür" h2="XLSM\'yi SXC\'ye dönüştürmek için Android kütüphanesi" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak XLSM\'yi SXC\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlsm-to-sxc/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Android için Cells Cloud SDK\'yı kullanarak XLSM\'yi SXC\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
@@ -47,7 +47,7 @@ Dosya formatlarını XLSM'den SXC'ye dönüştürmek karmaşık bir iş olabilir
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

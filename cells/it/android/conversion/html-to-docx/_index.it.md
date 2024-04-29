@@ -9,7 +9,7 @@ howto: How to convert HTML to DOCX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Converti HTML in DOCX utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da HTML a DOCX può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato HTML al formato DOCX preservando il contenuto strutturale e logico principale del foglio di calcolo HTML di origine. La nostra libreria Android fornisce una soluzione professionale per convertire HTML in file DOCX online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output DOCX di alta qualità.
+La conversione dei formati di file da HTML a DOCX può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato HTML al formato DOCX preservando il contenuto strutturale e logico principale del foglio di calcolo sorgente HTML. La nostra libreria Android fornisce una soluzione professionale per convertire HTML in file DOCX online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output DOCX di alta qualità.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

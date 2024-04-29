@@ -3,7 +3,7 @@ title:  Enregistrez les NUMÉROS au format CSV en utilisant Python
 description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format NUMBERS au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer les NUMÉROS au format CSV" h2="Bibliothèque Python pour enregistrer des NUMÉROS au format CSV" p="Utilisez SaveAs API de Cells Cloud pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format CSV et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/numbers-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer les NUMÉROS au format CSV" h2="Bibliothèque Python pour enregistrer des NUMÉROS au format CSV" p="Utilisez SaveAs API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format CSV et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/numbers-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier NUMBERS au format CSV dans Python" >}}

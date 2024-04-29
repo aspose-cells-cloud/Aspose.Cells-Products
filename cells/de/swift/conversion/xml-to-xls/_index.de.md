@@ -1,5 +1,5 @@
 ﻿---
-title:  XML zu XLS Konvertieren API für Swift
+title:  XML zu XLS Konvertierung API für Swift
 description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von XML-Formatdateien in XLS-Formatdateien.
 url: /de/swift/conversion/xml-to-xls/
 ---

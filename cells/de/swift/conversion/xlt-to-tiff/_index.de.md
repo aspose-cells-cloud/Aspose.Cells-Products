@@ -1,5 +1,5 @@
 ﻿---
-title:  XLT in TIFF Konvertieren Sie API für Swift
+title:  XLT zu TIFF Konvertieren Sie API für Swift
 description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLT-Formatdatei in eine Datei im TIFF-Format.
 url: /de/swift/conversion/xlt-to-tiff/
 ---
@@ -10,7 +10,7 @@ url: /de/swift/conversion/xlt-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLT-Datei in Swift in TIFF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLT in TIFF ist eine komplexe Aufgabe. Alle XLT-Formatübergänge in das TIFF-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLT- in TIFF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
+Das Konvertieren von Dateiformaten von XLT in TIFF ist eine komplexe Aufgabe. Alle XLT-Formatübergänge in das TIFF-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLT-Dateien in TIFF. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLT in das TIFF-Format" gistPath="" %}}

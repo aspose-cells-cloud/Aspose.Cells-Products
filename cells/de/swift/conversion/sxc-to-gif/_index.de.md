@@ -1,16 +1,16 @@
 ﻿---
 title:  SXC zu GIF Konvertieren API für Swift
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im SXC-Format in eine GIF-Formatdatei zu konvertieren.
+description: Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im SXC-Format in Dateien im GIF-Format zu konvertieren.
 url: /de/swift/conversion/sxc-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von SXC in GIF" h2="Swift-Bibliothek zum Konvertieren von SXC in GIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von SXC in GIF und andere Dokumentformate mit Swift." urlsection="conversion/sxc-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von SXC in GIF" h2="Swift-Bibliothek zum Konvertieren von SXC in GIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um SXC online mit Swift in GIF und andere Dokumentformate zu konvertieren." urlsection="conversion/sxc-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine SXC-Datei in Swift in GIF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von SXC in GIF ist eine komplexe Aufgabe. Alle SXC-zu-GIF-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von SXC- in GIF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
+Das Konvertieren von Dateiformaten von SXC in GIF ist eine komplexe Aufgabe. Alle Formatübergänge von SXC in GIF werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle SXC erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von SXC- in GIF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von SXC in das GIF-Format" gistPath="" %}}
@@ -65,7 +65,7 @@ Das Konvertieren von Dateiformaten von SXC in GIF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um SXC in GIF zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Konvertieren von SXC in GIF" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>

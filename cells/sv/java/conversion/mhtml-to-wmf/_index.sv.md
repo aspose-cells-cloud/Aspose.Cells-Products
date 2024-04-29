@@ -1,15 +1,16 @@
 ﻿---
 title:  Konvertera MHTML till WMF med Java
-description: Använda Aspose.Cells Cloud SDK for Java för att konvertera en MHTML-formatfil till en WMF-formatfil.
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera en MHTML-formatfil till en WMF-formatfil.
 kwords: Excel, Convert MHTML to WMF, REST, Java
-howto: How to convert MHTML to WMF using Aspose.Cells Cloud Java library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert MHTML to WMF using the Cells Cloud Java library.","description": "How to convert MHTML to WMF using the Cells Cloud Java library.","image": {"@type": "ImageObject"},"url": "/java/conversion/mhtml-to-wmf/","step": [{ "@type": "HowToStep","name": "How to convert MHTML to WMF using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/mhtml-to-wmf/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert MHTML to WMF using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/mhtml-to-wmf/","text": "Install Java library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert MHTML to WMF using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/mhtml-to-wmf/","text": "Open the source file in Java.",},{ "@type": "HowToStep","name": "How to convert MHTML to WMF using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/mhtml-to-wmf/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertera MHTML till WMF" h2="Java bibliotek för att konvertera MHTML till WMF" p="Använd Conversion API av av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Java projekt. Detta är en professionell lösning för att konvertera MHTML till WMF och andra dokumentformat online med Java." urlsection="conversion/mhtml-to-wmf/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertera MHTML till WMF med Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från MHTML till WMF kan vara en komplex uppgift. Vår Java SDK hanterar alla konverteringar av MHTML till WMF-format samtidigt som det huvudsakliga strukturella och logiska innehållet i MHTML-källarket bevaras. Vårt Java-bibliotek tillhandahåller en professionell lösning för att konvertera MHTML till WMF-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och säkerställer WMF-utdata av hög kvalitet.
+Att konvertera filformat från MHTML till WMF kan vara en komplex uppgift. Vår Java SDK hanterar alla konverteringar av MHTML till WMF-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för MHTML bevaras. Vårt Java-bibliotek tillhandahåller en professionell lösning för att konvertera MHTML till WMF-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och säkerställer WMF-utdata av hög kvalitet.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -46,7 +47,7 @@ Att konvertera filformat från MHTML till WMF kan vara en komplex uppgift. Vår 
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Lär dig hur du konverterar MHTML till WMF med hjälp av Cells Cloud Java-biblioteket." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man konverterar MHTML till WMF med hjälp av Cells Cloud Java-biblioteket." >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Installera Java-biblioteket och lägg till referensen (importera biblioteket) till ditt projekt.</li>
 <li>Öppna källfilen i Java.</li>

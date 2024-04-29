@@ -1,9 +1,9 @@
 ﻿---
-title:  Exportieren Sie die Arbeitsmappe in CSV von Excel mit Cells Cloud SDK für Android
+title:  Exportieren Sie WORKBOOK von Excel nach CSV mit Cells Cloud SDK für Android
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie die Arbeitsmappe von Excel in CSV" h2="Android-Bibliothek zum Exportieren von WORKBOOK in eine CSV-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Android zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine Datei im CSV-Format aus einer Tabellenkalkulation online mit Android." urlsection="export/workbook-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ARBEITSMAPPE nach CSV exportieren von Excel" h2="Android-Bibliothek zum Exportieren von WORKBOOK in eine CSV-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objekt-Workflows aus Dateien Excel in Android zu exportieren. Dies ist eine professionelle Lösung, um WORKBOOK online mit Android aus einer Tabellenkalkulation in eine CSV-Datei zu exportieren." urlsection="export/workbook-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im CSV-Format mit dem Cloud SDK Cells für Android" >}}

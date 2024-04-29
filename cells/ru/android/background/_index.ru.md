@@ -1,9 +1,9 @@
 ﻿---
 title:  Установите фон для файлов Excel с помощью Android
-description: Aspose.Cells Cloud REST API поддерживает настройку фона для файлов Excel с использованием Android и предлагает SDK для различных языков программирования.
+description: Aspose.Cells Cloud REST API поддерживает настройку фона для файлов Excel с помощью Android и предлагает SDK для различных языков программирования.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Установите фон для файлов Excel с помощью Android" h2="Aspose.Cells Cloud SDK поддерживает настройку фона в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает настройку фона для файлов Excel с использованием Android и предлагает SDK для различных языков программирования." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Установите фон для файлов Excel с помощью Android" h2="Aspose.Cells Cloud SDK поддерживает настройку фона в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает настройку фона для файлов Excel с помощью Android и предлагает SDK для различных языков программирования." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

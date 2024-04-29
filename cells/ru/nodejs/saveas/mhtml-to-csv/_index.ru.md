@@ -9,7 +9,7 @@ description:  Использование Aspose.Cells Cloud SDK для NodeJS д
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как CSV в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в CSV — сложная задача. Все переходы формата MHTML в CSV выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека NodeJS — это профессиональное решение для сохранения MHTML в виде файлов CSV в Интернете. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод CSV.
+Сохранение форматов файлов из MHTML в CSV — сложная задача. Все переходы формата MHTML в CSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека NodeJS — это профессиональное решение для сохранения MHTML в виде файлов CSV в Интернете. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения MHTML в формате CSV с использованием REST API" gistPath="" %}}

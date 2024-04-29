@@ -9,7 +9,7 @@ howto: How to convert ODS to MHTML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Преобразование ODS в MHTML с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в MHTML может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов ODS в MHTML, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов ODS в файлы MHTML. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод MHTML.
+Преобразование форматов файлов из ODS в MHTML может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов ODS в MHTML, сохраняя при этом основное структурное и логическое содержимое исходной таблицы ODS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов ODS в файлы MHTML. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод MHTML.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

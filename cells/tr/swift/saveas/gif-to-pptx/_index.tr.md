@@ -10,7 +10,7 @@ url: /tr/swift/saveas/gif-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir GIF dosyasını PPTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını GIF'ten PPTX olarak kaydetmek karmaşık bir iştir. GIF'ten PPTX formatına tüm geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, GIF'i çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıkışı sağlar.
+Dosya formatlarını GIF'ten PPTX olarak kaydetmek karmaşık bir iştir. Tüm GIF'den PPTX formatına geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, GIF'i çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Swift\'de GIF\'i PPTX formatında kaydetmek için REST API\'i kullanan kod örneği" gistPath="" %}}
@@ -55,7 +55,7 @@ Dosya formatlarını GIF'ten PPTX olarak kaydetmek karmaşık bir iştir. GIF'te
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="GIF\'i PPTX olarak kaydetmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

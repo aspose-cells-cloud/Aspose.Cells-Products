@@ -9,7 +9,7 @@ howto: How to save JSON as DIF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните файл JSON как DIF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в формат DIF — сложная задача. Все переходы формата JSON в DIF выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Android — это профессиональное решение для сохранения JSON в виде файлов DIF онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате DIF.
+Сохранение форматов файлов из JSON в формат DIF — сложная задача. Все переходы формата JSON в DIF выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы JSON. Наша библиотека Android — это профессиональное решение для сохранения JSON в виде файлов DIF онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате DIF.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

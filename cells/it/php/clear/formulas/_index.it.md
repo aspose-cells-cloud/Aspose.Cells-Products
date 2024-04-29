@@ -1,6 +1,6 @@
 ﻿---
 title:  Formule chiare nella cartella di lavoro locale nel Cloud
-description: API e SDK cloud per cancellare le formule su Microsoft Excel e OpenOffice Calc. Formule chiare sui fogli di calcolo locali tramite il Cloud Cells API. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description: API e SDK cloud per cancellare le formule su Microsoft Excel e OpenOffice Calc. Formule chiare su fogli di calcolo locali tramite il Cloud Cells API. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Rimuovere le formule dal foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="PHP Cancella per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare le formule sui flussi di lavoro dei fogli di calcolo locali Microsoft Excel e OpenOffice Calc in PHP. Questa soluzione professionale cancella le formule sui flussi di lavoro dei fogli di calcolo locali Microsoft Excel e OpenOffice Calc utilizzando PHP." urlsection="clear/Formulas/" >}}

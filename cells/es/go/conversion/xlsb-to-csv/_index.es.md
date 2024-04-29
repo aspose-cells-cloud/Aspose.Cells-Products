@@ -1,5 +1,5 @@
 ﻿---
-title:  Convierta XLSB a CSV usando Go
+title: Convierta XLSB a CSV usando Go
 description:  Utilizar el SDK de Cloud Aspose.Cells para Go para convertir un archivo de formato XLSB a un archivo de formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

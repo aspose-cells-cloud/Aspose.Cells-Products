@@ -9,7 +9,7 @@ howto: How to save PNG as XML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните файл PNG как XML в Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение файлов формата PNG в формате XML — сложная задача. Все переходы формата PNG в XML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы PNG. Наша библиотека Android — это профессиональное решение для сохранения PNG в виде файлов XML в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XML.
+Сохранение файлов формата PNG в формате XML — сложная задача. Все переходы формата PNG в формат XML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы PNG. Наша библиотека Android — это профессиональное решение для сохранения PNG в виде файлов XML в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XML.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

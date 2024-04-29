@@ -1,16 +1,16 @@
 ﻿---
 title:  XLTM zu SQL Konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLTM-Formatdatei in eine SQL-Formatdatei.
+description: Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im XLTM-Format in eine Datei im SQL-Format zu konvertieren.
 url: /de/swift/conversion/xltm-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XLTM in SQL" h2="Swift-Bibliothek zum Konvertieren von XLTM in SQL" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTM in SQL und andere Dokumentformate mit Swift." urlsection="conversion/xltm-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XLTM in SQL" h2="Swift-Bibliothek zum Konvertieren von XLTM in SQL" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLTM online mit Swift in SQL und andere Dokumentformate zu konvertieren." urlsection="conversion/xltm-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLTM-Datei in Swift in SQL" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTM nach SQL ist eine komplexe Aufgabe. Alle XLTM-zu-SQL-Formatübergänge werden von unserem Swift SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLTM-Quelltabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLTM online in SQL-Dateien zu konvertieren. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTM nach SQL ist eine komplexe Aufgabe. Alle Formatübergänge von XLTM nach SQL werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle XLTM erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLTM- in SQL-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte SQL-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLTM in das SQL-Format" gistPath="" %}}
@@ -65,7 +65,7 @@ Das Konvertieren von Dateiformaten von XLTM nach SQL ist eine komplexe Aufgabe. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um XLTM in SQL zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Konvertieren von XLTM in SQL" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>

@@ -9,7 +9,7 @@ howto: How to convert CSV to SXC using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Convierta CSV a SXC usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de CSV a SXC puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato CSV a SXC mientras preserva el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos CSV a SXC en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida SXC de alta calidad.
+Convertir formatos de archivo de CSV a SXC puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato CSV a SXC al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos CSV a SXC en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida SXC de alta calidad.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

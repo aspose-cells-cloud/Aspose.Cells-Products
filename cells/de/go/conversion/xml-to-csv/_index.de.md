@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XML mit Go in CSV
-description: Verwendung des Cloud SDK Aspose.Cells für Go zum Konvertieren einer XML-Formatdatei in eine CSV-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für Go zum Konvertieren einer XML-Formatdatei in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XML in CSV" h2="Go-Bibliothek zum Konvertieren von XML in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in CSV und andere Dokumentformate mit Go." urlsection="conversion/xml-to-csv/" >}}
@@ -55,7 +55,7 @@ Das Konvertieren von Dateiformaten von XML in CSV kann eine komplexe Aufgabe sei
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

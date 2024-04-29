@@ -13,7 +13,7 @@ url: /es/swift/conversion/txt-to-xlsb/
 Convertir formatos de archivo de TXT a XLSB es una tarea compleja. Todas las transiciones de formato TXT a XLSB las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos TXT a XLSB en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida XLSB perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir TXT al formato XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir TXT a formato XLSB" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

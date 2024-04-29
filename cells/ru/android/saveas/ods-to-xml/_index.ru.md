@@ -9,7 +9,7 @@ howto: How to save ODS as XML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните файл ODS в формате XML в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде XML — сложная задача. Все переходы формата ODS в XML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для сохранения ODS в виде XML-файлов онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из ODS в виде XML — сложная задача. Все переходы формата ODS в XML выполняются нашим Android SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для сохранения ODS в виде XML-файлов онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XML.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

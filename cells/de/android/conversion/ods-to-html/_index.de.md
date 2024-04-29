@@ -9,7 +9,7 @@ howto: How to convert ODS to HTML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie ODS in HTML mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS in HTML kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle Konvertierungen von ODS in das HTML-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-ODS-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS in HTML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige HTML-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in HTML kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle ODS-Formatkonvertierungen in das HTML-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-ODS-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS in HTML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige HTML-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

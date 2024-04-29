@@ -9,10 +9,10 @@ description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc freis
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Lokales Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort entschlüsseln – C# REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/unlock" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostUnlock" apimethod="POST" %}}
 <br/>
-Das Entschlüsseln einer lokalen Tabelle mit einem Passwort ist eine komplexe Aufgabe. Die Entschlüsselung einer lokalen Kalkulationstabelle mit Passwortübergängen wird von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um lokale Tabellenkalkulationen online mit einem Passwort zu entschlüsseln. Dieses Cloud SDK bietet Entwicklern leistungsstarke Funktionalität und perfekte API.
+Das Entschlüsseln einer lokalen Tabelle mit einem Passwort ist eine komplexe Aufgabe. Das Entschlüsseln einer lokalen Tabelle mit Passwortübergängen wird von unserem C# SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Entschlüsseln lokaler Tabellen mit einem Passwort. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und perfekte API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="C#-Code zum Entschlüsseln lokaler Tabellenkalkulationen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Unlock.cs" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Code zum Entschlüsseln lokaler Tabellen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Unlock.cs" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

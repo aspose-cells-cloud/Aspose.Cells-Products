@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xlsm-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как PDF в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение формата файла XLSM как PDF — сложная задача. Все переходы формата XLSM в PDF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSM в формате PDF онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PDF.
+Сохранение формата файла XLSM как PDF — сложная задача. Все переходы формата XLSM в PDF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSM в виде PDF онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PDF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLSM в формате PDF" gistPath="" %}}

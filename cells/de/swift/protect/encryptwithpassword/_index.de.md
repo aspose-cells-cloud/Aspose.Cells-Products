@@ -21,7 +21,7 @@ Der Schutz einer lokalen Tabelle mit einem Passwort ist eine komplexe Aufgabe. D
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Swift API zum Verschlüsseln" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die postProtect-Methode auf, um den resultierenden Stream abzurufen</li>
+<li>Rufen Sie die Methode postProtect auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

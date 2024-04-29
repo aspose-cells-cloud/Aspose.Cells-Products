@@ -19,7 +19,7 @@ description: 适用于 Microsoft Excel 和 OpenOffice Calc 数字签名的云 AP
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何利用 Cells Cloud SDK for Node 对 Excel 文件进行数字签名。" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 cellsWorkbookPostDigitalSignature 方法以获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

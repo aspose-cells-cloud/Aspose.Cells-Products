@@ -16,7 +16,7 @@ weight: 90
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" imgalt="computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="从 Excel 使用 Android SDK 处理电子表格开始。" msglink="https://products.aspose.cloud/cells/family/" msg="首先，首先安装适用于 Android 的 Aspose.Cells Cloud 库，然后在 Aspose for Cloud 上创建一个帐户以获取您的应用程序凭据。获得应用程序 SID 和密钥后，您可以利用适用于 Android 的 Aspose.Cells Cloud SDK 在任何受支持的 Android 平台中利用它们。该 SDK 提供了一系列全面的功能，用于创建、编辑和转换电子表格。此外，它使您能够从电子表格中提取数据以进行后续处理或存储。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="从 Excel 使用 Android SDK 处理电子表格开始。" msglink="https://products.aspose.cloud/cells/family/" msg="首先，安装适用于 Android 的 Aspose.Cells Cloud 库，然后在 Aspose 上创建一个 Cloud 帐户以获取您的应用程序凭据。获得应用程序 SID 和密钥后，您就可以使用适用于 Android 的 Aspose.Cells Cloud SDK 在任何受支持的 Android 平台上使用它们。此 SDK 提供了用于创建、编辑和转换电子表格的全面功能。此外，它还使您能够从电子表格中提取数据以供后续处理或存储。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}  
 
 

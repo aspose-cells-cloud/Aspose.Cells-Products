@@ -10,7 +10,7 @@ url: /es/swift/conversion/html-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo HTML a TSV en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de HTML a TSV es una tarea compleja. Todas las transiciones de formato HTML a TSV las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Swift es una solución profesional para convertir HTML a archivos TSV en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida TSV perfecta.
+Convertir formatos de archivo de HTML a TSV es una tarea compleja. Nuestro SDK Swift realiza todas las transiciones de formato HTML a TSV mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Swift es una solución profesional para convertir HTML a archivos TSV en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida TSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir HTML al formato TSV" gistPath="" %}}

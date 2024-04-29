@@ -9,7 +9,7 @@ howto: How to convert XLS to XPS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Convierta XLS a XPS usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLS a XPS puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato XLS a XPS al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos XLS a XPS en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida XPS de alta calidad.
+Convertir formatos de archivo de XLS a XPS puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato XLS a XPS y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos XLS a XPS en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida XPS de alta calidad.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

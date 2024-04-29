@@ -9,7 +9,7 @@ howto: How to convert GIF to SXC using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Converti GIF in SXC utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertire i formati di file da GIF a SXC può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato GIF al formato SXC preservando il contenuto strutturale e logico principale del foglio di calcolo GIF di origine. La nostra libreria Android fornisce una soluzione professionale per convertire file GIF in SXC online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output SXC di alta qualità.
+La conversione dei formati di file da GIF a SXC può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato GIF al formato SXC preservando il contenuto strutturale e logico principale del foglio di calcolo GIF di origine. La nostra libreria Android fornisce una soluzione professionale per convertire file GIF in SXC online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output SXC di alta qualità.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

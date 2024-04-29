@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSM en CSV à l'aide de NodeJS
-description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir un fichier au format XLSM en fichier au format CSV.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir un fichier au format XLSM en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir XLSM en CSV" h2="Bibliothèque NodeJS pour convertir XLSM en CSV" p="Utilisez la conversion API du Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets NodeJS. Il s\'agit d\'une solution professionnelle pour convertir XLSM en CSV et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="conversion/xlsm-to-csv/" >}}

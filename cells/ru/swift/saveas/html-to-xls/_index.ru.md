@@ -10,7 +10,7 @@ url: /ru/swift/saveas/html-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как XLS в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение файлов формата HTML в формате XLS — сложная задача. Все переходы формата HTML в формат XLS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для сохранения HTML в формате XLS в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате XLS.
+Сохранение файлов формата HTML в формате XLS — сложная задача. Все переходы формата HTML в формат XLS выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для сохранения HTML в формате XLS в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате XLS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения HTML в формате XLS" gistPath="" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Löschen Sie Formen in der lokalen Arbeitsmappe in der Cloud
+title:  Löschen von Formen im lokalen Arbeitsbuch in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Formen unter Microsoft Excel und OpenOffice Calc. Klare Formen in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

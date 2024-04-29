@@ -4,16 +4,16 @@ description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertiere
 kwords: Excel, Convert XLTM to XPS, REST, Android
 howto: How to convert XLTM to XPS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTM in XPS" h2="Android-Bibliothek zum Konvertieren von XLTM in XPS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTM in XPS und andere Dokumentformate mit Android." urlsection="conversion/xltm-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTM in XPS" h2="Android-Bibliothek zum Konvertieren von XLTM in XPS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um XLTM online mit Android in XPS und andere Dokumentformate zu konvertieren." urlsection="conversion/xltm-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTM in XPS mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTM in XPS mit dem Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTM in XPS kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle XLTM-Formatkonvertierungen in das XPS-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTM-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTM-Dateien in XPS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XPS-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTM nach XPS kann eine komplexe Aufgabe sein. Unser Android SDK bewältigt alle Formatkonvertierungen von XLTM nach XPS und bewahrt dabei den strukturellen und logischen Hauptinhalt der Quell-XLTM-Tabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTM- in XPS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XPS-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von XLTM in XPS mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von XLTM in XPS mithilfe des Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

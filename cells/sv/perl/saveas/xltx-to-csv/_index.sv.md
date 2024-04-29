@@ -9,7 +9,7 @@ description:  Använder Aspose.Cells Cloud SDK för Perl för att spara XLTX-for
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLTX-fil som CSV i Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX till CSV-formatövergångar utförs av vår Perl SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att spara XLTX som CSV-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX till CSV-formatövergångar utförs av vår Perl SDK samtidigt som källkodens XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att spara XLTX som CSV-filer online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Perl Kod Exempel för att spara XLTX som CSV med REST API" gistPath="" %}}

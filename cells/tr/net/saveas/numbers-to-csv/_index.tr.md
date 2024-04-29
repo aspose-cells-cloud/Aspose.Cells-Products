@@ -3,7 +3,7 @@ title:  NUMBERS'ı C#'i kullanarak CSV olarak kaydedin
 description:  NUMBERS biçimindeki dosyayı CSV biçimindeki dosya olarak kaydetmek için C# için Aspose.Cells Bulut SDK'sını kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı CSV olarak kaydet" h2="NUMBERS\'ı CSV olarak kaydetmek için C# kitaplık" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, C#\'i kullanarak NUMBERS\'ı CSV ve diğer belge formatlarında çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/numbers-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı CSV olarak kaydet" h2="NUMBERS\'ı CSV olarak kaydetmek için C# kitaplık" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, NUMBERS\'ı CSV ve diğer belge formatlarında çevrimiçi olarak C#\'i kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/numbers-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="NUMBERS dosyasını C#\'e CSV olarak kaydedin" >}}
@@ -27,7 +27,7 @@ NUMBERS dosyasındaki dosya biçimlerini CSV olarak kaydetmek karmaşık bir iş
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyasını diğer formatlarda NUMBERS olarak CSV olarak kaydetmek için Cells Cloud SDK for Net nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `PostWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

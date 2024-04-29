@@ -3,7 +3,7 @@ title:  التوقيع الرقمي لجداول البيانات السحابي
 description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لـ Microsoft Excel والتوقيع الرقمي لـ OpenOffice Calc. التوقيع الرقمي لجداول البيانات بواسطة سحابة Cells API. يدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمة المرور وملف التوقيع الرقمي" h2="مكتبة C# إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمة المرور وملف التوقيع الرقمي" p="استخدم Cells التوقيع الرقمي REST API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور وملف التوقيع الرقمي في C#. هذا الحل الاحترافي لسحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت مع كلمات المرور وملف التوقيع الرقمي باستخدام 07 6173481." urlsection="protect/Digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمة المرور وملف التوقيع الرقمي" h2="مكتبة C# إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمة المرور وملف التوقيع الرقمي" p="استخدم Cells التوقيع الرقمي REST API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور وملف التوقيع الرقمي في C#. هذا الحل الاحترافي لسحابة التوقيع الرقمي Microsoft وجدول بيانات OpenOffice Calc عبر الإنترنت مع كلمات المرور وملف التوقيع الرقمي باستخدام 0 76173481." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمة المرور - C# REST API" >}}
@@ -25,7 +25,7 @@ description:  واجهات برمجة التطبيقات السحابية ومج
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>NET Framework 4.5.2 أو أحدث</li>
+<li>NET Framework 4.5.2 أو الأحدث</li>
 <li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

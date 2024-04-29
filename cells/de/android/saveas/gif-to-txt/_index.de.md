@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie GIF als TXT mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von GIF-Formatdateien als TXT-Formatdateien.
+title:  GIF als TXT speichern mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im GIF-Format als Dateien im TXT-Format zu speichern.
 kwords: Excel, Save GIF as TXT, REST, Android
 howto: How to save GIF as TXT using Aspose.Cells Cloud Android library.
 ---

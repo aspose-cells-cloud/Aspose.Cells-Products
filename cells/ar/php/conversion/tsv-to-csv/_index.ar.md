@@ -9,7 +9,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل TSV إلى CSV باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يمكن أن يكون تحويل تنسيقات الملفات من TSV إلى CSV مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق TSV إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات TSV إلى ملفات CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج CSV عالي الجودة.
+يمكن أن يكون تحويل تنسيقات الملفات من TSV إلى CSV مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق TSV إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات TSV إلى ملفات CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من خلال وظائف قوية ويضمن إخراج CSV عالي الجودة.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل TSV إلى CSV باستخدام Cells Cloud SDK" gistPath="" %}}

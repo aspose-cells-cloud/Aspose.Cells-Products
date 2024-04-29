@@ -1,5 +1,5 @@
 ﻿---
-title: Gestion légère des feuilles de calcul | Nuage Excel et OpenOffice API
+title: Gestion de feuilles de calcul légères | Nuage Excel et OpenOffice API
 description: Découvrez une solution conviviale et low-code pour gérer vos feuilles de calcul dans le cloud. Notre RESTful API vous permet de créer, lire, écrire, fusionner, diviser, crypter et convertir facilement des fichiers Excel et OpenOffice en ligne. Rationalisez votre flux de travail avec nos services cloud efficaces et légers.
 weight: 90
 ---

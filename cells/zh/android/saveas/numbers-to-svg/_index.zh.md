@@ -9,7 +9,7 @@ howto: How to save NUMBERS as SVG using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 NUMBERS 文件另存为 SVG" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 NUMBERS 中的文件格式保存为 SVG 是一项复杂的任务。所有 NUMBERS 到 SVG 的格式转换均由我们的 Android SDK 执行，同时保留源 NUMBERS 电子表格的主要结构和逻辑内容。我们的 Android 库是一个专业的解决方案，可以在线将数字保存为 SVG 文件。此Cloud SDK为Android开发者提供了强大的功能和完美的SVG输出。
+将文件格式从 NUMBERS 保存为 SVG 是一项复杂的任务。所有 NUMBERS 到 SVG 格式的转换均由我们的 Android SDK 执行，同时保留源 NUMBERS 电子表格的主要结构和逻辑内容。我们的 Android 库是一个专业的解决方案，可在线将 NUMBERS 保存为 SVG 文件。此云 SDK 为 Android 开发人员提供了强大的功能和完美的 SVG 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

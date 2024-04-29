@@ -1,9 +1,9 @@
 ﻿---
-title:  Speichern Sie XLSX unter Android unter SVG
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern der Datei im XLSX-Format als Datei im Format SVG.
+title:  XLSX als SVG mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLSX-Format als Dateien im SVG-Format zu speichern.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLSX unter SVG" h2="Android-Bibliothek zum Speichern von XLSX als SVG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLSX als SVG und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlsx-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX speichern unter SVG" h2="Android-Bibliothek zum Speichern von XLSX als SVG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLSX als SVG und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlsx-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSX-Datei unter Android als SVG" >}}

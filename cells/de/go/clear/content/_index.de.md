@@ -1,5 +1,5 @@
 ﻿---
-title:  Löschen Sie den Inhalt der lokalen Arbeitsmappe in der Cloud
+title:  Löschen von Inhalten im lokalen Arbeitsbuch in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Inhalten auf Microsoft Excel und OpenOffice Calc. Löschen Sie Inhalte in lokalen Tabellenkalkulationen durch die Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -20,12 +20,12 @@ Das Löschen von Inhalten auf lokalen Microsoft Excel- und OpenOffice Calc-Tabel
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Go zum Löschen von Inhalten" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
-<li>Rufen Sie die PostClearObjects-Methode auf, um den resultierenden Stream abzurufen</li>
+<li>Rufen Sie die Methode PostClearObjects auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

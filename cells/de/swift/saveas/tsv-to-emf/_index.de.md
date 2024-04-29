@@ -1,10 +1,10 @@
 ﻿---
-title:  TSV unter EMF API für Swift speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im TSV-Format als Datei im Format EMF zu speichern.
+title:  Speichern Sie TSV als EMF API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im TSV-Format als Datei im EMF-Format zu speichern.
 url: /de/swift/saveas/tsv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um den TSV unter EMF zu speichern" h2="Swift-Bibliothek zum Speichern des TSV als EMF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TSV als EMF und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/tsv-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um TSV als EMF zu speichern" h2="Swift-Bibliothek zum Speichern von TSV als EMF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TSV als EMF und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/tsv-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als EMF in Swift" >}}

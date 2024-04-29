@@ -12,7 +12,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in die Datei XPS ist eine komplexe Aufgabe. Der Export von WORKBOOK in das XPS-Format wird von unserem Android SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der WORKBOOK-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im Format XPS. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte XPS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK aus der Tabelle in das Format XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK aus einer Tabelle in das Format XPS" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -50,7 +50,7 @@ Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in die Datei XPS ist 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android, um Objekte aus Excel WORKBOOK nach XPS zu exportieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android zum Exportieren von Objekten aus Excel WORKBOOK nach XPS" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>

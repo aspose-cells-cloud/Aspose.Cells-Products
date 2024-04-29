@@ -9,7 +9,7 @@ description:  JSON formatındaki bir dosyayı CSV formatındaki bir dosyaya dön
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="C# için Cells Cloud SDK\'yı kullanarak JSON\'u CSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını JSON'dan CSV'ye dönüştürmek karmaşık bir iş olabilir. C# SDK'mız, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm JSON'dan CSV formatına dönüşümleri gerçekleştirir. C# kitaplığımız, JSON'u çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, C# geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli CSV çıktısı sağlar.
+Dosya formatlarını JSON'dan CSV'ye dönüştürmek karmaşık bir iş olabilir. C# SDK'mız, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm JSON'dan CSV formatına dönüşümleri gerçekleştirir. C# kitaplığımız, JSON'u çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, C# geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# Cells Cloud SDK\'yı kullanarak JSON\'u CSV\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
@@ -36,7 +36,7 @@ Dosya formatlarını JSON'dan CSV'ye dönüştürmek karmaşık bir iş olabilir
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara JSON\'dan CSV\'ye dönüştürmek için Cells Cloud SDK for Net nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

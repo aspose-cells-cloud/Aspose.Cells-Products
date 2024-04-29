@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie TSV als WMF mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von TSV-Formatdateien als WMF-Formatdateien.
+title:  TSV als WMF speichern mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im TSV-Format als Dateien im WMF-Format zu speichern.
 kwords: Excel, Save TSV as WMF, REST, Android
 howto: How to save TSV as WMF using Aspose.Cells Cloud Android library.
 ---
@@ -9,7 +9,7 @@ howto: How to save TSV as WMF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine TSV-Datei als WMF in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von TSV als WMF ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum WMF-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TSV-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um TSV als WMF-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Speichern von Dateiformaten von TSV als WMF ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum WMF-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um TSV als WMF-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

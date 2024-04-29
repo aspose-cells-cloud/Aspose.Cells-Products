@@ -1,9 +1,9 @@
 ﻿---
 title:  Unisci più file Excel
-description:  Aspose.Cells Cloud REST API consente di unire più file Excel in un singolo file Excel e fornisce SDK per più linguaggi di programmazione, tra cui Android, C#, Go, Java, NodeJS, Perl, PHP, 076183 481, Rubino e Veloce.
+description:  Aspose.Cells Cloud REST API consente di unire più file Excel in un singolo file Excel e fornisce SDK per più linguaggi di programmazione, tra cui Android, C#, Go, Java, NodeJS, Perl, PHP, 07618 3481, Ruby e Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisci più file Excel" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un unico file Excel." p="Aspose.Cells Cloud REST API consente di unire più file Excel in un singolo file Excel e fornisce SDK per più linguaggi di programmazione, tra cui Android, C#, Go, Java, NodeJS, Perl, PHP, 076183 481, Rubino e Veloce." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisci più file Excel" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un unico file Excel." p="Aspose.Cells Cloud REST API consente di unire più file Excel in un singolo file Excel e fornisce SDK per più linguaggi di programmazione, tra cui Android, C#, Go, Java, NodeJS, Perl, PHP, 07618 3481, Ruby e Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

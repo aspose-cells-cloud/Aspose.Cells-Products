@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-D
 url: /de/swift/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern unter mit Swift" h2="Aspose.Cells Cloud SDK unterstützt das Speichern von Arbeitsmappen in anderen Formaten. Die unterstützten Dateiformate umfassen mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-Dateien als Formatdateien mit Swift. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern unter mit Swift" h2="Aspose.Cells Cloud SDK unterstützt das Speichern von Arbeitsmappen in anderen Formaten. Die unterstützten Dateiformate umfassen mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-Dateien in verschiedenen Formatdateien mit Swift. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /de/swift/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Speichern unter Verwendung von Swift Extension-Links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Speichern unter mithilfe von Swift-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

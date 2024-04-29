@@ -10,7 +10,7 @@ url: /de/swift/saveas/xltm-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTM-Datei als SXC in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von XLTM als SXC ist eine komplexe Aufgabe. Alle XLTM-zu-SXC-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLTM als SXC-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte SXC-Ausgabe.
+Das Speichern von Dateiformaten von XLTM als SXC ist eine komplexe Aufgabe. Alle Formatübergänge von XLTM zu SXC werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle XLTM erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLTM online als SXC-Dateien zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte SXC-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLTM im SXC-Format" gistPath="" %}}

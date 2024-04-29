@@ -1,5 +1,5 @@
 ﻿---
-title:  Enregistrer TXT en PPTX avec Android
+title:  Enregistrer TXT au format PPTX avec Android
 description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format TXT au format PPTX.
 kwords: Excel, Save TXT as PPTX, REST, Android
 howto: How to save TXT as PPTX using Aspose.Cells Cloud Android library.

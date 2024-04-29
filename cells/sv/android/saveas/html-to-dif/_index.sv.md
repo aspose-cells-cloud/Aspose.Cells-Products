@@ -9,7 +9,7 @@ howto: How to save HTML as DIF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en HTML-fil som DIF i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från HTML som DIF är en komplex uppgift. Alla formatövergångar från HTML till DIF utförs av vår Android SDK samtidigt som källbladets HTML kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara HTML som DIF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DIF-utgång.
+Att spara filformat från HTML som DIF är en komplex uppgift. Alla formatövergångar från HTML till DIF utförs av vår Android-SDK samtidigt som källbladets HTML-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara HTML som DIF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DIF-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

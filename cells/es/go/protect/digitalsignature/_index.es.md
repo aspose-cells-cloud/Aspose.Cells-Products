@@ -17,7 +17,7 @@ Firmar digitalmente una hoja de cálculo en la nube con una contraseña y un arc
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar el SDK de la nube Cells para Go para firmar digitalmente un archivo Excel." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo utilizar el SDK de nube Cells para Go para firmar digitalmente un archivo Excel." >}}
 <li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
 <li>Llame al método CellsWorkbookPostDigitalSignature para obtener la secuencia resultante</li>

@@ -13,7 +13,7 @@ url: /ar/swift/clear/validations/
 يعد مسح عمليات التحقق من الصحة على الرقم المحلي Microsoft Excel وجدول بيانات OpenOffice Calc مهمة معقدة. يتم إجراء مسح عمليات التحقق من الصحة على Microsoft Excel المحلي وانتقالات جدول بيانات OpenOffice Calc بواسطة Swift SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لمسح عمليات التحقق من الصحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Swift وظائف قوية وAPI مثاليًا.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="رمز سريع لمسح عمليات التحقق من الصحة في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-Clear-Validation.swift" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="رمز سريع لمسح عمليات التحقق من الصحة على جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-Clear-Validation.swift" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

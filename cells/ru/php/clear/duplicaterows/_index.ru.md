@@ -12,7 +12,7 @@ description:  Облачные API и SDK для очистки повторяю
 Удаление повторяющихся строк из локальных таблиц Microsoft Excel и OpenOffice Calc является сложной задачей, и наш Cloud SDK Cells для PHP обрабатывает этот переход, сохраняя при этом структурное и логическое содержимое исходной таблицы. Наша библиотека PHP — это профессиональное решение для эффективной очистки повторяющихся строк в Интернете в локальных таблицах Microsoft Excel и OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам PHP надежную функциональность и мощный API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PHP код для очистки повторяющихся строк в локальных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/84283c8ba766ed815f47e6dfb0891152.js?file=Example-Clear-DuplicateRows.php" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Код PHP для очистки повторяющихся строк в локальных таблицах." gistPath="https://gist.github.com/aspose-cells-cloud-gists/84283c8ba766ed815f47e6dfb0891152.js?file=Example-Clear-DuplicateRows.php" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

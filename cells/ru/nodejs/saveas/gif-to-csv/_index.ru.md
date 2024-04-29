@@ -9,7 +9,7 @@ description:  Использование Aspose.Cells Cloud SDK для NodeJS д
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как CSV в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в CSV — сложная задача. Все переходы формата GIF в CSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной таблицы GIF. Наша библиотека NodeJS — это профессиональное решение для сохранения GIF в формате CSV в Интернете. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод CSV.
+Сохранение форматов файлов из GIF в CSV — сложная задача. Все переходы формата GIF в CSV выполняются нашим NodeJS SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы GIF. Наша библиотека NodeJS — это профессиональное решение для сохранения GIF в формате CSV в Интернете. Этот Cloud SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода NodeJS для сохранения GIF в формате CSV с использованием REST API" gistPath="" %}}

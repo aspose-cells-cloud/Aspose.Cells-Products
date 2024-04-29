@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save XLT as XLSB, REST, Android
 howto: How to save XLT as XLSB using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLT als XLSB" h2="Android-Bibliothek zum Speichern von XLT als XLSB" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLT als XLSB und anderen Dokumentformaten mit Android." urlsection="saveas/xlt-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLT als XLSB" h2="Android-Bibliothek zum Speichern von XLT als XLSB" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLT als XLSB und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlt-to-xlsb/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLT-Datei als XLSB in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von XLT als XLSB ist eine komplexe Aufgabe. Alle XLT-zu-XLSB-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLT-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLT als XLSB-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
+Das Speichern von Dateiformaten von XLT als XLSB ist eine komplexe Aufgabe. Alle Formatübergänge von XLT nach XLSB werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XLT-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLT als XLSB-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte XLSB-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

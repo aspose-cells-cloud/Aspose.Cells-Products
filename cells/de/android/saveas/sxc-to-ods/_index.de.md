@@ -4,12 +4,12 @@ description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern v
 kwords: Excel, Save SXC as ODS, REST, Android
 howto: How to save SXC as ODS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie SXC als ODS" h2="Android-Bibliothek zum Speichern von SXC als ODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als ODS und anderen Dokumentformaten mit Android." urlsection="saveas/sxc-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie SXC als ODS" h2="Android-Bibliothek zum Speichern von SXC als ODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um SXC als ODS und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/sxc-to-ods/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine SXC-Datei als ODS in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer SXC-Datei als ODS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von SXC als ODS ist eine komplexe Aufgabe. Alle SXC-zu-ODS-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-SXC-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um SXC als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
+Das Speichern von Dateiformaten von SXC als ODS ist eine komplexe Aufgabe. Alle Formatübergänge von SXC zu ODS werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von SXC als ODS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte ODS-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

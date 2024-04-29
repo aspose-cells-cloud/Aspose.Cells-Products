@@ -6,14 +6,14 @@ howto: How to convert GIF to XLSM using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie GIF in XLSM" h2="Android-Bibliothek zum Konvertieren von GIF in XLSM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von GIF in XLSM und andere Dokumentformate mit Android." urlsection="conversion/gif-to-xlsm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie GIF in XLSM mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie GIF in XLSM mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von GIF in XLSM kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von GIF in das XLSM-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-GIF-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von GIF- in XLSM-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSM-Ausgabe.
+Das Konvertieren von Dateiformaten von GIF in XLSM kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom GIF- ins XLSM-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der GIF-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung zum Online-Konvertieren von GIF- in XLSM-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSM-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von GIF in XLSM mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zum Konvertieren von GIF in XLSM mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

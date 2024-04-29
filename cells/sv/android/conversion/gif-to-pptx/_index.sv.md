@@ -9,7 +9,7 @@ howto: How to convert GIF to PPTX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertera GIF till PPTX med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från GIF till PPTX kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar av GIF till PPTX-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för GIF bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera GIF till PPTX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer PPTX-utdata av hög kvalitet.
+Att konvertera filformat från GIF till PPTX kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar av GIF till PPTX-format samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-GIF-kalkylarket bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera GIF till PPTX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer PPTX-utdata av hög kvalitet.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

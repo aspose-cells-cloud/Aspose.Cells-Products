@@ -4,13 +4,13 @@ description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von 
 url: /de/swift/saveas/xml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von XML als JPG" h2="Swift-Bibliothek zum Speichern von XML als JPG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als JPG und anderen Dokumentformaten mit Swift." urlsection="saveas/xml-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von XML als JPG" h2="Swift-Bibliothek zum Speichern von XML als JPG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XML als JPG und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/xml-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als JPG in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XML als JPG ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum JPG-Format werden von unserem Swift SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XML-Quelltabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XML als JPG-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
+Das Speichern von Dateiformaten von XML als JPG ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu JPG werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als JPG-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte JPG-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XML im JPG-Format" gistPath="" %}}
@@ -54,7 +54,7 @@ Das Speichern von Dateiformaten aus XML als JPG ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um XML als JPG zu speichern" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Speichern von XML als JPG" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>

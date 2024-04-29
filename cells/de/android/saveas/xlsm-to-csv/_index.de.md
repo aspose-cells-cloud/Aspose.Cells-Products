@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSM als CSV mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLSM-Formatdateien als CSV-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLSM-Format als Dateien im CSV-Format zu speichern.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XLSM als CSV speichern" h2="Android-Bibliothek zum Speichern von XLSM als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSM als CSV und anderen Dokumentformaten mit Android." urlsection="saveas/xlsm-to-csv/" >}}

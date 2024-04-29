@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XLSM mit Android in XLTM
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer XLSM-Formatdatei in eine XLTM-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer XLSM-Formatdatei in eine XLTM-Formatdatei.
 kwords: Excel, Convert XLSM to XLTM, REST, Android
 howto: How to convert XLSM to XLTM using Aspose.Cells Cloud Android library.
 ---

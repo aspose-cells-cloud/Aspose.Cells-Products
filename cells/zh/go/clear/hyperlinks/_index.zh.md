@@ -1,5 +1,5 @@
 ﻿---
-title: 清除云端本地工作簿上的超链接
+title: 清除云中本地工作簿的超链接
 description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的超链接的云 API 和 SDK。通过Cells云API清除本地电子表格上的超链接。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -9,7 +9,7 @@ description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的超链接的
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的超链接 - Go REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的超链接是一项复杂的任务。清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格转换上的超链接由我们的 Go SDK 执行，同时保留源电子表格的主要结构和逻辑内容。我们的Go库是一个专业的解决方案，用于清除本地Microsoft Excel和在线OpenOffice Calc电子表格上的超链接。这个Cloud SDK为Go开发者提供了强大的功能和完善的API。
+清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的超链接是一项复杂的任务。清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格转换上的超链接由我们的 Go SDK 执行，同时保持源电子表格的主要结构和逻辑内容。我们的Go库是一个专业的解决方案，用于清除本地Microsoft Excel和在线OpenOffice Calc电子表格上的超链接。这个Cloud SDK为Go开发者提供了强大的功能和完善的API。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="用于清除本地电子表格上的超链接的 Go 代码" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-Hyperlink.go" %}}

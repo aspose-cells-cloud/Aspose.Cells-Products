@@ -9,11 +9,11 @@ howto: How to convert MHTML to TXT using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie MHTML in TXT mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von MHTML in TXT kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von MHTML in das TXT-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-MHTML-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von MHTML- in TXT-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TXT-Ausgabe.
+Das Konvertieren von Dateiformaten von MHTML in TXT kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom MHTML- ins TXT-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der MHTML-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von MHTML- in TXT-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TXT-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von MHTML in TXT mit dem Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von MHTML in TXT mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

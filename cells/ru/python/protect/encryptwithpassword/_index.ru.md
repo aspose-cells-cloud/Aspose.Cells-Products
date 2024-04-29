@@ -1,6 +1,6 @@
 ﻿---
 title: Зашифруйте локальную таблицу с помощью пароля Python в облаке.
-description:  Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc с Python. Зашифруйте локальные таблицы с помощью пароля с помощью облачного SDK Cells API для Python.
+description:  Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc с Python. Зашифруйте локальные таблицы паролем с помощью облачного SDK Cells API для Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Используйте Cells Cloud SDK для Python, чтобы защитить паролем локальные Microsoft Excel и электронные таблицы OpenOffice Calc." h2="Python библиотека для защиты паролем локальных Microsoft Excel и электронных таблиц OpenOffice Calc" p="Используйте Cells Protect REST API для защиты локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью паролей в рабочих процессах Python. Это профессиональное решение обеспечивает защиту паролем для Microsoft Excel и электронных таблиц OpenOffice Calc в Интернете с использованием Python." urlsection="protect/Encrypt-with-password/" >}}

@@ -4,12 +4,12 @@ description:  GIF formatındaki bir dosyayı JSON formatındaki bir dosyaya dön
 kwords: Excel, Convert GIF to JSON, REST, Android
 howto: How to convert GIF to JSON using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="GIF\'yi JSON\'ye dönüştür" h2="GIF\'i JSON\'a dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak GIF\'i JSON\'a ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/gif-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="GIF\'yi JSON\'ye dönüştür" h2="GIF\'i JSON\'a dönüştürmek için Android kütüphanesi" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak GIF\'i JSON\'a ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/gif-to-json/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Android için Cells Cloud SDK\'yı kullanarak GIF\'i JSON\'a dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını GIF'ten JSON'a dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm GIF'ten JSON formatına dönüşümleri gerçekleştirir. Android kitaplığımız, GIF'i çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli JSON çıktısı sağlar.
+Dosya formatlarını GIF'ten JSON'a dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm GIF'den JSON formatına dönüşümleri gerçekleştirir. Android kitaplığımız, GIF'i çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli JSON çıktısı sağlar.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -47,7 +47,7 @@ Dosya formatlarını GIF'ten JSON'a dönüştürmek karmaşık bir iş olabilir.
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

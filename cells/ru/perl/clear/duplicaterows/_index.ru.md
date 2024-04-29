@@ -12,7 +12,7 @@ description:  Облачные API и SDK для очистки повторяю
 Удаление повторяющихся строк из локальных таблиц Microsoft Excel и OpenOffice Calc является сложной задачей, и наш Cloud SDK Cells для Perl обрабатывает этот переход, сохраняя при этом структурное и логическое содержимое исходной таблицы. Наша библиотека Perl — это профессиональное решение для эффективной очистки повторяющихся строк в Интернете в локальных таблицах Microsoft Excel и OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Perl надежную функциональность и мощный API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Perl код для очистки повторяющихся строк в локальных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-Clear-DuplicateRows.pl" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Код Perl для очистки повторяющихся строк в локальных таблицах." gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-Clear-DuplicateRows.pl" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

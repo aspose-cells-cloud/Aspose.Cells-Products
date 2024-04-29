@@ -4,7 +4,7 @@ description:  Använder Aspose.Cells Cloud SDK för Android för att spara MHTML
 kwords: Excel, Save MHTML as TXT, REST, Android
 howto: How to save MHTML as TXT using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Spara MHTML som TXT" h2="Android-bibliotek för att spara MHTML som TXT" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att spara MHTML som TXT och andra dokumentformat online med Android." urlsection="saveas/mhtml-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara MHTML som TXT" h2="Android-bibliotek för att spara MHTML som TXT" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara MHTML som TXT och andra dokumentformat online med Android." urlsection="saveas/mhtml-to-txt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Spara en MHTML-fil som TXT i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

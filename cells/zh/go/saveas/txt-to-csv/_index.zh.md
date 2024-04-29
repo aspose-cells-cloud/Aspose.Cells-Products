@@ -1,9 +1,9 @@
 ﻿---
 title: 使用 Go 将 TXT 保存为 CSV
-description: 利用Aspose.Cells Cloud SDK for Go将TXT格式文件保存为CSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Go 将 TXT 格式文件保存为 CSV 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 TXT 保存为 CSV" h2="用于将 TXT 保存为 CSV 的 Go 库" p="使用 Cells Cloud 的 SaveAs API 在 Go 中创建自定义电子表格工作流程。这是使用 Go 在线将 TXT 保存为 CSV 等文档格式的专业解决方案。" urlsection="saveas/txt-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 TXT 保存为 CSV" h2="用于将 TXT 保存为 CSV 的 Go 库" p="使用 Cells Cloud 中的 SaveAs API 在 Go 中创建自定义电子表格工作流程。这是使用 Go 在线将 TXT 保存为 CSV 和其他文档格式的专业解决方案。" urlsection="saveas/txt-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 TXT 文件保存为 CSV" >}}

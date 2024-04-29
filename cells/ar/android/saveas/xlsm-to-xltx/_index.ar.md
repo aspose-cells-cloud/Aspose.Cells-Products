@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
 kwords: Excel, Save XLSM as XLTX, REST, Android
 howto: How to save XLSM as XLTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="احفظ XLSM كـ XLTX" h2="مكتبة Android لحفظ XLSM بتنسيق XLTX" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ XLSM بتنسيق XLTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsm-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ XLSM كـ XLTX" h2="مكتبة Android لحفظ XLSM كـ XLTX" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ XLSM بتنسيق XLTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsm-to-xltx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="احفظ ملف XLSM بتنسيق XLTX في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

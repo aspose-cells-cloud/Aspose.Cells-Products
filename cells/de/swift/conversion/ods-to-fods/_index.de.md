@@ -1,16 +1,16 @@
 ﻿---
 title:  ODS in FODS Konvertieren Sie API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im ODS-Format in eine Datei im FODS-Format.
+description: Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im ODS-Format in Dateien im FODS-Format zu konvertieren.
 url: /de/swift/conversion/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zur Konvertierung von ODS in FODS" h2="Swift-Bibliothek zum Konvertieren von ODS in FODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in FODS und andere Dokumentformate mit Swift." urlsection="conversion/ods-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von ODS in FODS" h2="Swift-Bibliothek zum Konvertieren von ODS in FODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um ODS online mit Swift in FODS und andere Dokumentformate zu konvertieren." urlsection="conversion/ods-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine ODS-Datei in Swift in FODS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS in FODS ist eine komplexe Aufgabe. Alle Formatübergänge von ODS zu FODS werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von ODS- in FODS-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in FODS ist eine komplexe Aufgabe. Alle Formatübergänge von ODS in FODS werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der ODS-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von ODS- in FODS-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte FODS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von ODS in das FODS-Format" gistPath="" %}}

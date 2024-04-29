@@ -10,7 +10,7 @@ url: /ru/swift/saveas/json-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как TXT в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в формат TXT — сложная задача. Все переходы формата JSON в TXT выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы JSON. Наша библиотека Swift — это профессиональное решение для сохранения JSON в виде файлов TXT онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
+Сохранение форматов файлов из JSON в формат TXT — сложная задача. Все переходы формата JSON в TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Swift — это профессиональное решение для сохранения JSON в виде файлов TXT онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения JSON в формате TXT" gistPath="" %}}

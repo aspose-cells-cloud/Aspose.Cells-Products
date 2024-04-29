@@ -6,10 +6,10 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XLT als CSV speichern" h2="Android-Bibliothek zum Speichern von XLT als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLT als CSV und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlt-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als CSV in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern einer XLT-Datei als CSV in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von XLT als CSV ist eine komplexe Aufgabe. Alle XLT-zu-CSV-Formatübergänge werden von unserem Android SDK durchgeführt, während der wichtigste strukturelle und logische Inhalt der XLT-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLT als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte CSV-Ausgabe.
+Das Speichern von Dateiformaten von XLT als CSV ist eine komplexe Aufgabe. Alle Formatübergänge von XLT zu CSV werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle XLT erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLT als CSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Speichern von XLT als CSV mit REST API" gistPath="" %}}
@@ -34,7 +34,7 @@ Das Speichern von Dateiformaten von XLT als CSV ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in anderen XLT-Formaten als CSV zu speichern" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android zum Speichern von Excel-Dateien in anderen Formaten XLT als CSV" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `postWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>

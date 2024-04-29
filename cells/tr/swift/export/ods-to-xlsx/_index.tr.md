@@ -4,18 +4,18 @@ description: Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesneleri
 url: /tr/swift/export/ods-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="ODS\'yi Bulutta XLSX dosyasına aktarın" h2="Excel ve Swift için açık kaynaklı Cloud SDK ile OpenOffice e-tablosunu dışa aktarma" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="ODS\'yi Bulutta XLSX dosyasına aktarın" h2="Excel ve Swift için açık kaynak Cloud SDK ile OpenOffice e-tablosunu dışa aktarma" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=" Swift için Cloud SDK\'da ODS\'yi XLSX dosyasına aktar" %}}
-1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını
+1.  Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını
 1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın
 1. Ortaya çıkan XLSX akışını almak için ```cellsWorkbookPutConvertWorkbook``` yöntemini çağırın
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Excel REST API ile Başlayın" %}}
- Excel Cloud SDK for .NET kaynak kodunu şu adresten alın:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift) SDK'yı kendiniz derlemek veya[Salıverme](https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/releases) Alternatif indirme seçenekleri için.
+ Excel Cloud SDK for .NET kaynak kodunu şuradan alın:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift) SDK'yı kendiniz derlemek veya[Salıverme](https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/releases) Alternatif indirme seçenekleri için.
 
  Ayrıca Swagger tabanlıya da bir göz atın[API Referans]() hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

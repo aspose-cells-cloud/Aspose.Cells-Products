@@ -1,15 +1,16 @@
 ﻿---
 title: 使用 Cells Cloud SDK for Java 将 LISTOBJECT 从 Excel 导出到 TXT
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
-kwords:
-howto:
+kwords: Excel, listobject, txt, Java
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Java to export objects from Excel LISTOBJECT to TXT","description": "How to use Cells Cloud SDK for Java to export objects from Excel LISTOBJECT to TXT","image": {"@type": "ImageObject"},"url": "/java/export/listobject-to-txt/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Java to export objects from Excel LISTOBJECT to TXT step 1", "image": {"@type": "ImageObject",},"url": "/java/export/listobject-to-txt/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Java to export objects from Excel LISTOBJECT to TXT step 1", "image": {"@type": "ImageObject",},"url": "/java/export/listobject-to-txt/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Java to export objects from Excel LISTOBJECT to TXT step 1", "image": {"@type": "ImageObject",},"url": "/java/export/listobject-to-txt/","text": "Use the `postExport` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="将 LISTOBJECT 从 Excel 导出到 TXT" h2="Java 用于将 LISTOBJECT 导出到 TXT 文件的库" p="使用Cells云的导出API导出Java中的Excel文件内部对象工作流程。这是使用Java在线将电子表格中的LISTOBJECT导出为TXT格式文件的专业解决方案。" urlsection="export/listobject-to-txt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK 将 LISTOBJECT 对象导出为 TXT 格式文件 for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-将 LISTOBJECT 对象从 Excel 文件导出到 TXT 文件是一项复杂的任务。将 LISTOBJECT 导出到 TXT 格式转换由我们的 Java SDK 执行，同时保留源 LISTOBJECT 电子表格的主要结构和逻辑内容。我们的 Java 库是在线将 LISTOBJECT 对象导出为 TXT 格式文件的专业解决方案。该Cloud SDK为Java开发者提供了强大的功能和完美的TXT输出。
+将 LISTOBJECT 对象从 Excel 文件导出到 TXT 文件是一项复杂的任务。将 LISTOBJECT 导出到 TXT 格式的转换由我们的 Java SDK 执行，同时保留源 LISTOBJECT 电子表格的主要结构和逻辑内容。我们的 Java 库是一个专业的解决方案，可在线将 LISTOBJECT 对象导出到 TXT 格式文件。此云 SDK 为 Java 开发人员提供了强大的功能和完美的 TXT 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -50,7 +51,7 @@ howto:
    
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Java将Excel LISTOBJECT中的对象导出到TXT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud SDK for Java 将对象从 Excel LISTOBJECT 导出到 TXT" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
 <li>使用 `postExport` 方法检索结果流。</li>

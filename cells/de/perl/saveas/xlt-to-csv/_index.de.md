@@ -6,7 +6,7 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern von 
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XLT als CSV speichern" h2="Perl Bibliothek zum Speichern von XLT als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um XLT als CSV und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/xlt-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als CSV unter Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als CSV in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Das Speichern von Dateiformaten von XLT als CSV ist eine komplexe Aufgabe. Alle XLT-zu-CSV-Formatübergänge werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um XLT als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.

@@ -4,13 +4,13 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei 
 url: /de/swift/saveas/png-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um PNG als DOCX zu speichern" h2="Swift-Bibliothek zum Speichern von PNG als DOCX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um PNG als DOCX und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/png-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um PNG als DOCX zu speichern" h2="Swift-Bibliothek zum Speichern von PNG als DOCX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Swift als DOCX und andere Dokumentformate zu speichern." urlsection="saveas/png-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine PNG-Datei als DOCX in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten ab PNG als DOCX ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum DOCX-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um PNG als DOCX-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte DOCX-Ausgabe.
+Das Speichern von Dateiformaten von PNG als DOCX ist eine komplexe Aufgabe. Alle Formatübergänge von PNG zu DOCX werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Speichern von PNG als DOCX-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte DOCX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von PNG im DOCX-Format" gistPath="" %}}

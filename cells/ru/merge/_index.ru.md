@@ -1,9 +1,9 @@
 ﻿---
 title:  Объединить несколько файлов Excel
-description:  Aspose.Cells Cloud REST API позволяет объединять несколько файлов Excel в один файл Excel и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, 076183 481, Руби и Свифт.
+description:  Aspose.Cells Cloud REST API позволяет объединять несколько файлов Excel в один файл Excel и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, 07618 3481, Руби и Свифт.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Объединить несколько файлов Excel" h2="Aspose.Cells Cloud SDK поддерживает объединение нескольких файлов Excel в один файл Excel." p="Aspose.Cells Cloud REST API позволяет объединять несколько файлов Excel в один файл Excel и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, 076183 481, Руби и Свифт." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Объединить несколько файлов Excel" h2="Aspose.Cells Cloud SDK поддерживает объединение нескольких файлов Excel в один файл Excel." p="Aspose.Cells Cloud REST API позволяет объединять несколько файлов Excel в один файл Excel и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, 07618 3481, Руби и Свифт." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

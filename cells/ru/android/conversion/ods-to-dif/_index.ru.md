@@ -9,7 +9,7 @@ howto: How to convert ODS to DIF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Преобразование ODS в DIF с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в DIF может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов ODS в DIF, сохраняя при этом основное структурное и логическое содержимое исходной таблицы ODS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов ODS в DIF. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод DIF.
+Преобразование форматов файлов из ODS в DIF может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов ODS в DIF, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов ODS в DIF. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод DIF.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

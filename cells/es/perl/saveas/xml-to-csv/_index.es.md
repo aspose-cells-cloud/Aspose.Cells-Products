@@ -9,7 +9,7 @@ description:  Utilizando Aspose.Cells Cloud SDK para Perl para guardar el archiv
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XML como CSV en Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XML como CSV es una tarea compleja. Todas las transiciones de formato XML a CSV se realizan mediante nuestro SDK Perl mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Perl es una solución profesional para guardar XML como archivos CSV en línea. Este SDK de nube ofrece a los desarrolladores de Perl una potente funcionalidad y una salida CSV perfecta.
+Guardar formatos de archivo de XML como CSV es una tarea compleja. Todas las transiciones de formato XML a CSV se realizan mediante nuestro SDK Perl manteniendo el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Perl es una solución profesional para guardar XML como archivos CSV en línea. Este SDK de nube ofrece a los desarrolladores de Perl una potente funcionalidad y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Perl Ejemplo de código para guardar XML como CSV usando REST API" gistPath="" %}}

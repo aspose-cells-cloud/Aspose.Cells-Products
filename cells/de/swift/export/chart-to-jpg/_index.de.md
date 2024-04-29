@@ -4,16 +4,16 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/swift/export/chart-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von CHART in eine JPG-Datei" h2="Swift-Bibliothek zum Exportieren von CHART in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von CHART-Dateien aus einer Tabellenkalkulation in das JPG-Format mit Swift." urlsection="export/chart-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von CHART in eine JPG-Datei" h2="Swift-Bibliothek zum Exportieren von CHART in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Swift zu exportieren. Dies ist eine professionelle Lösung, um CHART-Dateien aus Tabellenkalkulationen online mit Swift in das JPG-Format zu exportieren." urlsection="export/chart-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie ein CHART-Objekt in Swift in eine JPG-Formatdatei" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in Swift in eine Datei im JPG-Format" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in eine JPG-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von CHART in das JPG-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von CHART-Objekten in Dateien im JPG-Format. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
+Das Exportieren von CHART-Objekten aus einer Tabelle in eine JPG-Datei ist eine komplexe Aufgabe. Die Formatübergänge vom Exportieren von CHART ins JPG-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-CHART-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Exportieren von CHART-Objekten in JPG-Formatdateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte JPG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von CHART aus einer Tabellenkalkulation in das JPG-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von CHART aus einer Tabelle in das JPG-Format" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,7 +55,7 @@ Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in eine JPG-Da
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um CHART in JPG zu exportieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Exportieren von CHART in JPG" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>

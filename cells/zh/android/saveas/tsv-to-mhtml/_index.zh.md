@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 TSV 保存为 MHTML
-description: 利用Aspose.Cells Cloud SDK for Android将TSV格式文件保存为MHTML格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 TSV 格式文件保存为 MHTML 格式文件。
 kwords: Excel, Save TSV as MHTML, REST, Android
 howto: How to save TSV as MHTML using Aspose.Cells Cloud Android library.
 ---

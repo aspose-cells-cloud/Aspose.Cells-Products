@@ -1,12 +1,12 @@
 ﻿---
 title: 使用 Ruby 将 XLSM 保存为 CSV
-description: 利用Aspose.Cells Cloud SDK for Ruby将XLSM格式文件保存为CSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Ruby 将 XLSM 格式文件保存为 CSV 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLSM 保存为 CSV" h2="用于将 XLSM 保存为 CSV 的 Ruby 库" p="使用 Cells Cloud 的 SaveAs API 在 Ruby 中创建自定义电子表格工作流程。这是使用 Ruby 在线将 XLSM 保存为 CSV 和其他文档格式的专业解决方案。" urlsection="saveas/xlsm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLSM 保存为 CSV" h2="用于将 XLSM 保存为 CSV 的 Ruby 库" p="使用 Cells Cloud 中的 SaveAs API 在 Ruby 中创建自定义电子表格工作流。这是一个专业的解决方案，可使用 Ruby 在线将 XLSM 保存为 CSV 和其他文档格式。" urlsection="saveas/xlsm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Ruby 中将 XLSM 文件另存为 CSV" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Ruby 中将 XLSM 文件保存为 CSV" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 将 XLSM 中的文件格式保存为 CSV 是一项复杂的任务。所有 XLSM 到 CSV 格式的转换均由我们的 Ruby SDK 执行，同时保留源 XLSM 电子表格的主要结构和逻辑内容。我们的 Ruby 库是在线将 XLSM 保存为 CSV 文件的专业解决方案。此 Cloud SDK 为 Ruby 开发人员提供了强大的功能和完美的 CSV 输出。

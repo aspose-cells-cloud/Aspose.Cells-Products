@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 TSV 保存为 DOCX
-description: 利用Aspose.Cells Cloud SDK for Android将TSV格式文件保存为DOCX格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 TSV 格式文件保存为 DOCX 格式文件。
 kwords: Excel, Save TSV as DOCX, REST, Android
 howto: How to save TSV as DOCX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 TSV 保存为 DOCX" h2="用于将 TSV 保存为 DOCX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 TSV 保存为 DOCX 和其他文档格式的专业解决方案。" urlsection="saveas/tsv-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 TSV 另存为 DOCX" h2="用于将 TSV 保存为 DOCX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 TSV 保存为 DOCX 和其他文档格式的专业解决方案。" urlsection="saveas/tsv-to-docx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 TSV 文件另存为 DOCX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

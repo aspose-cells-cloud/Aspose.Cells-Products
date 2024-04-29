@@ -10,7 +10,7 @@ url: /es/swift/saveas/html-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como FODS en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de HTML como FODS es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato HTML a FODS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Swift es una solución profesional para guardar HTML como archivos FODS en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida FODS perfecta.
+Guardar formatos de archivo de HTML como FODS es una tarea compleja. Nuestro SDK Swift realiza todas las transiciones de formato HTML a FODS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Swift es una solución profesional para guardar HTML como archivos FODS en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida FODS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar HTML como formato FODS" gistPath="" %}}

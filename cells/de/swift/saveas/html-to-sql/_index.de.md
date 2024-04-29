@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als SQL API für Swift
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im HTML-Format als SQL-Formatdatei zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im Format HTML als Datei im SQL-Format zu speichern.
 url: /de/swift/saveas/html-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -3,7 +3,7 @@ title:  تحويل NUMBERS إلى CSV باستخدام Go
 description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف بتنسيق NUMBERS إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى CSV" h2="انتقل إلى المكتبة لتحويل NUMBERS إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/numbers-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل الأرقام إلى CSV" h2="اذهب إلى المكتبة لتحويل NUMBERS إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Go. يعد هذا حلاً احترافيًا لتحويل NUMBERS إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/numbers-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل NUMBERS إلى CSV باستخدام Cells Cloud SDK for Go" >}}

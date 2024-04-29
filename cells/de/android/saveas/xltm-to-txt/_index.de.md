@@ -9,7 +9,7 @@ howto: How to save XLTM as TXT using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLTM-Datei als TXT in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XLTM als TXT ist eine komplexe Aufgabe. Alle XLTM-zu-TXT-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLTM-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLTM als TXT-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
+Das Speichern von Dateiformaten von XLTM als TXT ist eine komplexe Aufgabe. Alle Formatübergänge von XLTM zu TXT werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle XLTM erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLTM als TXT-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte TXT-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

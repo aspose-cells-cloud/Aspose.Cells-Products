@@ -3,7 +3,7 @@ title:  امسح الصفوف الفارغة في المصنف المحلي في
 description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الصفوف الفارغة على Microsoft Excel وOpenOffice Calc. مسح الصفوف الفارغة في جداول البيانات المحلية بواسطة Cells Cloud API. يدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الصفوف الفارغة على Microsoft المحلي وجدول بيانات OpenOffice Calc" h2="Python مسح لمسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصفوف الفارغة على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Python. يقوم هذا الحل الاحترافي بمسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc باستخدام Python." urlsection="clear/Blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الصفوف الفارغة على Microsoft المحلي وجدول بيانات OpenOffice Calc" h2="Python مسح لمسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear Rest API لمسح صفوف فارغة على Microsoft Excel و OpenOffice Calc Taerflows في Python. هذا الحل المهني واضح على الصفوف الفارغة على Microsoft Excel و Openoffice Calceet باستخدام 076173173481." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الصفوف الفارغة على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc - Python REST API" >}}

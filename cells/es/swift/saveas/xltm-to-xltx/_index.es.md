@@ -10,7 +10,7 @@ url: /es/swift/saveas/xltm-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XLTM como XLTX en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLTM como XLTX es una tarea compleja. Todas las transiciones de formato XLTM a XLTX se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTM de origen. Nuestra biblioteca Swift es una solución profesional para guardar XLTM como archivos XLTX en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida XLTX perfecta.
+Guardar formatos de archivo de XLTM como XLTX es una tarea compleja. Todas las transiciones de formato XLTM a XLTX las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTM de origen. Nuestra biblioteca Swift es una solución profesional para guardar XLTM como archivos XLTX en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida XLTX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar XLTM como formato XLTX" gistPath="" %}}

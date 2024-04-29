@@ -1,9 +1,9 @@
 ﻿---
 title:  Ange bakgrund i filen Excel
-description: " Aspose.Cells Cloud REST API stöder inställning av bakgrunder för Excel-filer och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 0761587481, 761587461, 34701, 761587481, 761587481, 761587461, 761587481, 761587461, 761587461, 761587461, 76133481, 76133481 och ."
+description: " Aspose.Cells Cloud REST API stöder inställning av bakgrunder för Excel-filer och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 076153461, 76153461, 76153481, 76153481, 76153481 och ft."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ange bakgrund i filen Excel" h2="Aspose.Cells Cloud SDK stöder inställning av bakgrunder eller vattenstämplar för Excel-filer." p="Aspose.Cells Cloud REST API stöder inställning av bakgrunder för Excel-filer och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 0761587481, 761587461, 34701, 761587481, 761587481, 761587461, 761587481, 761587461, 761587461, 761587461, 76133481, 76133481 och ." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ange bakgrund i filen Excel" h2="Aspose.Cells Cloud SDK stöder inställning av bakgrunder eller vattenstämplar för Excel-filer." p="Aspose.Cells Cloud REST API stöder inställning av bakgrunder för Excel-filer och tillhandahåller SDK:er för olika programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 076153461, 76153461, 76153481, 76153481, 76153481 och ft." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

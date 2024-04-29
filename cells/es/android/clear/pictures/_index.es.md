@@ -1,6 +1,6 @@
 ﻿---
 title:  Borrar imágenes en el libro de trabajo local en la nube
-description: API y SDK en la nube para borrar imágenes en Microsoft Excel y OpenOffice Calc. Borre imágenes en hojas de cálculo locales mediante la nube Cells API. El SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description: API y SDK en la nube para borrar imágenes en Microsoft Excel y OpenOffice Calc. Borre imágenes en hojas de cálculo locales mediante Cells Cloud API. El SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Eliminación de imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar imágenes en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra imágenes en Microsoft Excel local y en la hoja de cálculo OpenOffice Calc con Android." urlsection="clear/Pictures/" >}}

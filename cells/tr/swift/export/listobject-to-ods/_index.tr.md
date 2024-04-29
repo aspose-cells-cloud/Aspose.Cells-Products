@@ -4,13 +4,13 @@ description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1
 url: /tr/swift/export/listobject-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i ODS dosyasına aktarmak için Swift API" h2="LISTOBJECT\'i ODS dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells REST\'i Dışa Aktar API\'i kullanın. Bu, Swift kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i ODS formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i ODS dosyasına aktarmak için Swift API" h2="LISTOBJECT\'i ODS dosyasına aktarmak için Swift kütüphanesi" p="Swift\'de e-tablo dahili nesne iş akışlarını dışa aktarmak için Cells REST API\'i dışa aktar\'ı kullanın. Bu, Swift kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i ODS formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Swift\'de ODS formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini elektronik tablodan ODS dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i ODS'ye aktarma format geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak ODS formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
+LISTOBJECT nesnesini elektronik tablodan ODS dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i ODS'ye aktarma format geçişleri, kaynak LISTOBJECT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak ODS formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan ODS formatına aktarmak için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
@@ -56,7 +56,7 @@ LISTOBJECT nesnesini elektronik tablodan ODS dosyasına aktarmak karmaşık bir 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="LISTOBJECT\'i ODS\'ye aktarmak için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postExport yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

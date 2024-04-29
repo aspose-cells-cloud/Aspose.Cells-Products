@@ -1,19 +1,19 @@
 ﻿---
-title:  Speichern Sie XLTM als TSV API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLTM-Formatdateien als TSV-Formatdateien.
+title:  XLTM als TSV API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im XLTM-Format als Dateien im TSV-Format zu speichern.
 url: /de/swift/saveas/xltm-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um XLTM als TSV zu speichern" h2="Swift-Bibliothek zum Speichern von XLTM als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLTM als TSV und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/xltm-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von XLTM als TSV" h2="Swift-Bibliothek zum Speichern von XLTM als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLTM als TSV und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/xltm-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTM-Datei als TSV in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von XLTM als TSV ist eine komplexe Aufgabe. Alle XLTM-zu-TSV-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLTM als TSV-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
+Das Speichern von Dateiformaten von XLTM als TSV ist eine komplexe Aufgabe. Alle Formatübergänge von XLTM zu TSV werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle XLTM erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLTM online als TSV-Dateien zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte TSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLTM als TSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLTM im TSV-Format" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

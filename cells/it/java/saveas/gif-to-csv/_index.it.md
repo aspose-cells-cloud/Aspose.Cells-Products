@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva GIF come CSV utilizzando Java
-description:  Utilizzando Aspose.Cells Cloud SDK for Java per salvare il file in formato GIF come file in formato CSV.
+description: Utilizzando Aspose.Cells Cloud SDK for Java per salvare il file in formato GIF come file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Salva GIF come CSV" h2="Libreria Java per salvare GIF come CSV" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo in Java. Si tratta di una soluzione professionale per salvare GIF come CSV e altri formati di documenti online utilizzando Java." urlsection="saveas/gif-to-csv/" >}}

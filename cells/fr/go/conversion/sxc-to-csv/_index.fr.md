@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir SXC en CSV à l'aide de Go
+title:  Convertir SXC en CSV à l'aide de Go
 description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format SXC en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

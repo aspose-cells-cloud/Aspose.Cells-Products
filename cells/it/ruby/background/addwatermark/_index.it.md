@@ -1,6 +1,6 @@
 ﻿---
 title:  Aggiungi filigrana per la cartella di lavoro locale con Ruby in Cloud
-description:  API e SDK cloud per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con Ruby. Aggiunta della filigrana per i fogli di calcolo locali tramite l'SDK Cells Cloud API per Ruby.
+description:  API cloud e SDK per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc con Ruby. Aggiunta della filigrana per i fogli di calcolo locali tramite l'SDK Cells Cloud API per Ruby.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per aggiungere filigrana per Microsoft locale Excel e foglio di calcolo OpenOffice Calc" h2="Libreria Ruby per aggiungere filigrana per Microsoft locale Excel e foglio di calcolo OpenOffice Calc" p="Utilizzare Cells Filigrana REST API per aggiungere filigrana per i flussi di lavoro dei fogli di calcolo locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale aggiunge la filigrana per Microsoft Excel e il foglio di calcolo OpenOffice Calc online utilizzando Ruby." urlsection="background/Add-watermark/" >}}

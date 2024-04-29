@@ -9,7 +9,7 @@ description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in for
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato PDF utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto FOGLIO DI LAVORO nel file PDF dal file Excel è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni del formato PDF viene eseguita dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKSHEET in file in formato PDF online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e un output PDF perfetto.
+Esportare l'oggetto FOGLIO DI LAVORO nel file PDF dal file Excel è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni del formato PDF viene eseguita dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di lavoro del FOGLIO DI LAVORO di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKSHEET in file in formato PDF online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e un output PDF perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per esportare FOGLIO DI LAVORO nel formato PDF dal foglio di calcolo" gistPath="" %}}

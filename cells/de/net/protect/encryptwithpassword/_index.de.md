@@ -20,7 +20,7 @@ Der Passwortschutz für eine lokale Tabelle kann eine komplexe Aufgabe sein. Uns
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net zum Schutz der Excel-Datei" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
-<li>Rufen Sie die PostProtect-Methode auf, um den resultierenden Stream abzurufen</li>
+<li>Rufen Sie die Methode PostProtect auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

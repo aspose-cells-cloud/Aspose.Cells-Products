@@ -14,10 +14,10 @@ url: /de/php/export/ods-to-xlsx/
 1. Rufen Sie die Methode ```cellsWorkbookPutConvertWorkBook``` auf, um den resultierenden XLSX-Stream abzurufen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit Excel REST API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Erste Schritte mit Excel REST API" %}}
  Holen Sie sich den Quellcode Excel Cloud SDK for .NET von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/releases) für alternative Download-Optionen.
 
- Schauen Sie sich auch Swagger-based an[API Referenz]() um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
+ Schauen Sie sich auch Swagger-basierte[API Referenz]() Erfahren Sie mehr über die[Excel RUHET API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="PHP Code für die Konvertierung von ODS in XLSX" gistPath="" %}}

@@ -9,7 +9,7 @@ howto: How to save TXT as WMF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Enregistrer un fichier TXT au format WMF sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers TXT au format WMF est une tâche complexe. Toutes les transitions du format TXT vers WMF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Android est une solution professionnelle pour enregistrer TXT sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie WMF parfaite.
+Enregistrer les formats de fichiers TXT au format WMF est une tâche complexe. Toutes les transitions du format TXT vers WMF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Android est une solution professionnelle pour enregistrer TXT sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie WMF parfaite.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

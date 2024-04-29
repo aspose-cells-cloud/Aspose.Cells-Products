@@ -9,7 +9,7 @@ howto: How to convert XLTX to GIF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Convertissez XLTX en GIF à l\'aide du SDK Cloud Cells pour Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLTX en GIF peut être une tâche complexe. Notre SDK Android gère toutes les conversions du format XLTX vers GIF tout en préservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Android fournit une solution professionnelle pour convertir des fichiers XLTX en GIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et garantit une sortie GIF de haute qualité.
+La conversion des formats de fichiers XLTX en GIF peut être une tâche complexe. Notre SDK Android gère toutes les conversions du format XLTX au format GIF tout en préservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Android fournit une solution professionnelle pour convertir des fichiers XLTX en GIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et garantit une sortie GIF de haute qualité.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

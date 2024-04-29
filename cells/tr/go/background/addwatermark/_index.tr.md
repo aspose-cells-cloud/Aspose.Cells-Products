@@ -1,6 +1,6 @@
 ﻿---
 title:  Go in Cloud ile yerel çalışma kitabına filigran ekleyin
-description:  Microsoft Excel ve OpenOffice Calc with Go için filigran eklemeye yönelik Bulut API'leri ve SDK'lar. Go için Cells Cloud API SDK ile yerel e-tablolara filigran ekleme.
+description:  Microsoft Excel ve OpenOffice Calc with Go için filigran eklemeye yönelik Bulut API'leri ve SDK'lar. Go için Cells Cloud API SDK'sı ile yerel e-tablolara filigran ekleme.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosuna filigran eklemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosuna filigran eklemek için kitaplığa gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarına filigran eklemek için Cells Filigran REST API\'i kullanın. Bu profesyonel çözüm, Go\'yu kullanarak çevrimiçi olarak Microsoft Excel ve OpenOffice Calc elektronik tablosu için filigran ekler." urlsection="background/Add-watermark/" >}}
@@ -18,7 +18,7 @@ Go ile yerel bir e-tabloya filigran eklemek karmaşık bir iştir. Yerel bir ele
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Filigran eklemek için Go API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için PostWatermark yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

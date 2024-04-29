@@ -1,9 +1,9 @@
 ﻿---
-title: 将Excel文件另存为其他格式文件
-description: Aspose.Cells Cloud REST API支持以多种格式保存Excel文件，并提供多种编程语言的SDK，包括Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby和Swift。
+title: 将 Excel 文件另存为其他格式文件
+description: Aspose.Cells Cloud REST API 支持以多种格式保存 Excel 文件，并为多种编程语言提供 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 Swift。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将Excel文件另存为其他格式文件" h2="Aspose.Cells Cloud SDK 支持以 30 多种不同的文件格式保存工作簿。" p="Aspose.Cells Cloud REST API支持以多种格式保存Excel文件，并提供多种编程语言的SDK，包括Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby和Swift。" urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 Excel 文件另存为其他格式文件" h2="Aspose.Cells Cloud SDK 支持以 30 多种不同的文件格式保存工作簿。" p="Aspose.Cells Cloud REST API 支持以多种格式保存 Excel 文件，并为多种编程语言提供 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 Swift。" urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -37,17 +37,17 @@ description: Aspose.Cells Cloud REST API支持以多种格式保存Excel文件�
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
 {{< blocks/products/pf/product-card-row title="热门经营" >}}
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 另存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 另存为 Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 另存为 Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="支持的开发语言" >}}

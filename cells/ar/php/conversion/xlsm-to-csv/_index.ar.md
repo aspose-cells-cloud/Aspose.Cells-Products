@@ -9,7 +9,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSM إلى CSV باستخدام Cells Cloud SDK لـ PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يمكن أن يكون تحويل تنسيقات الملفات من XLSM إلى CSV مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق XLSM إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات XLSM إلى CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من الحصول على وظائف قوية ويضمن إخراج CSV عالي الجودة.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSM إلى CSV مهمة معقدة. يتعامل SDK PHP الخاص بنا مع جميع تحويلات تنسيق XLSM إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. توفر مكتبتنا PHP حلاً احترافيًا لتحويل ملفات XLSM إلى CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري PHP من خلال وظائف قوية ويضمن إخراج CSV عالي الجودة.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PHP مثال على الكود لتحويل XLSM إلى CSV باستخدام Cells Cloud SDK" gistPath="" %}}

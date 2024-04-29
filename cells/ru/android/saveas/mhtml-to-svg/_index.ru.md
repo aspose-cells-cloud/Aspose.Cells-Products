@@ -9,7 +9,7 @@ howto: How to save MHTML as SVG using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните файл MHTML как SVG в Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение формата файлов из MHTML как SVG — сложная задача. Все переходы формата MHTML в формат SVG выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения файлов MHTML в формате SVG онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод SVG.
+Сохранение формата файлов из MHTML как SVG — сложная задача. Все переходы формата MHTML в SVG выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения файлов MHTML в формате SVG онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод SVG.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

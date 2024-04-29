@@ -70,7 +70,7 @@ description: Aspose.Cells Cloud proporciona un soporte sólido para la conversi�
 <li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 <li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 <li><b>XML:</b>Hoja de cálculoML, XML</li>
-<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
+<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
 <li><b>Web:</b> HTML, HTML</li>
 <li><b>Imágenes:</b> Png, Jpg, Gif, Emf</li>
 <li><b>Otro:</b> Pdf, Json, rebajas</li>
@@ -80,7 +80,7 @@ description: Aspose.Cells Cloud proporciona un soporte sólido para la conversi�
 <li><b>Microsoft Palabra/PowerPoint:</b> Docx, Pptx</li>
 <li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 <li><b>XML:</b>Hoja de cálculoML, XML</li>
-<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
+<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
 <li><b>Web:</b> HTML, HTML</li>
 <li><b>Imágenes:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 <li><b>Otro:</b> Pdf, Xps, Dif, Json, Rebaja, Sql</li>

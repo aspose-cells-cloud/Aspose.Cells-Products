@@ -3,7 +3,7 @@ title:  HTML'i Java'i kullanarak CSV'ye dönüştürün
 description: Aspose.Cells Bulut SDK'sı for Java'i kullanarak HTML formatındaki bir dosyayı CSV formatındaki bir dosyaya dönüştürün.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i CSV\'ye dönüştür" h2="HTML\'i CSV\'ye dönüştürmek için Java kitaplığı" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, HTML\'i kullanarak HTML\'i çevrimiçi olarak CSV\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/html-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i CSV\'ye dönüştür" h2="HTML\'i CSV\'ye dönüştürmek için Java kütüphanesi" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, HTML\'i kullanarak HTML\'i çevrimiçi olarak CSV\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="HTML\'i, Cells Cloud SDK for Java\'i kullanarak CSV\'ye dönüştürün" >}}
@@ -47,7 +47,7 @@ Dosya formatlarını HTML'den CSV'ye dönüştürmek karmaşık bir iş olabilir
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Cells Cloud SDK for Java nasıl kullanılır? HTML\'i CSV\'ye dönüştürmek" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

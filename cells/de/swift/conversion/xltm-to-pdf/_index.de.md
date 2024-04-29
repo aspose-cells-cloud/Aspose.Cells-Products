@@ -1,19 +1,19 @@
 ﻿---
-title:  XLTM in PDF Konvertieren Sie API für Swift
-description: Verwenden des Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLTM-Format in eine Datei im PDF-Format.
+title:  XLTM zu PDF Konvertieren Sie API für Swift
+description: Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im XLTM-Format in eine Datei im PDF-Format zu konvertieren.
 url: /de/swift/conversion/xltm-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zur Konvertierung von XLTM in PDF" h2="Swift-Bibliothek zum Konvertieren von XLTM in PDF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTM in PDF und andere Dokumentformate mit Swift." urlsection="conversion/xltm-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XLTM in PDF" h2="Swift-Bibliothek zum Konvertieren von XLTM in PDF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLTM online mit Swift in PDF und andere Dokumentformate zu konvertieren." urlsection="conversion/xltm-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLTM-Datei in Swift in PDF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTM in PDF ist eine komplexe Aufgabe. Alle XLTM-Formatübergänge in das PDF-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLTM-Dateien online in PDF-Dateien zu konvertieren. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte PDF-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTM nach PDF ist eine komplexe Aufgabe. Alle Formatübergänge von XLTM nach PDF werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle XLTM erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLTM- in PDF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte PDF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLTM in das PDF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLTM in das Format PDF" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -65,7 +65,7 @@ Das Konvertieren von Dateiformaten von XLTM in PDF ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um XLTM in PDF zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Konvertieren von XLTM in PDF" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>

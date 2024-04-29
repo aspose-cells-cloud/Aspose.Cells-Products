@@ -242,7 +242,7 @@ Inizia con Excel Elaborazione foglio di calcolo REST API
  Elaborazione cartelle di lavoro via Cloud REST API
     </h2>
     <p>
-Aspose.Cells Cloud per cURL consente di creare, dividere, unire, cercare e sostituire testo, protezione con password, esportare in formati di file supportati, leggere elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire la lunghezza della chiave di crittografia , importare dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare un marcatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
+Aspose.Cells Cloud per cURL consente di creare, dividere, unire, cercare e sostituire testo, protezione tramite password, esportare in formati di file supportati, leggere elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire la lunghezza della chiave di crittografia , importare dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare un marcatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
     </p>
    </div>
    <div class="col-lg-12">

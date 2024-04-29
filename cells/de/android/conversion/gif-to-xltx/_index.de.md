@@ -1,6 +1,6 @@
 ﻿---
-title:  Konvertieren Sie GIF mit Android in XLTX
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im GIF-Format in eine Datei im XLTX-Format.
+title:  Konvertieren Sie GIF in XLTX mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im GIF-Format in eine Datei im XLTX-Format zu konvertieren.
 kwords: Excel, Convert GIF to XLTX, REST, Android
 howto: How to convert GIF to XLTX using Aspose.Cells Cloud Android library.
 ---

@@ -4,7 +4,7 @@ description: Использование Cloud SDK Aspose.Cells для Android д
 kwords: Excel, Convert XLTX to TIFF, REST, Android
 howto: How to convert XLTX to TIFF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Преобразовать XLTX в TIFF" h2="Библиотека Android для преобразования XLTX в TIFF" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертации XLTX в TIFF и другие форматы документов с помощью Android." urlsection="conversion/xltx-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Преобразовать XLTX в TIFF" h2="Библиотека Android для преобразования XLTX в TIFF" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для конвертации XLTX в TIFF и другие форматы документов онлайн с помощью Android." urlsection="conversion/xltx-to-tiff/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Преобразуйте XLTX в TIFF с помощью Cloud SDK Cells для Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

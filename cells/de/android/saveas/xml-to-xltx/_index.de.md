@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save XML as XLTX, REST, Android
 howto: How to save XML as XLTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XML als XLTX" h2="Android-Bibliothek zum Speichern von XML als XLTX" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als XLTX und anderen Dokumentformaten mit Android." urlsection="saveas/xml-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XML als XLTX" h2="Android-Bibliothek zum Speichern von XML als XLTX" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Speichern von XML als XLTX und anderen Dokumentformaten online mit Android." urlsection="saveas/xml-to-xltx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XML-Datei als XLTX in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer XML-Datei als XLTX in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XML als XLTX ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum XLTX-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XML-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als XLTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XLTX-Ausgabe.
+Das Speichern von Dateiformaten von XML als XLTX ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu XLTX werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als XLTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte XLTX-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

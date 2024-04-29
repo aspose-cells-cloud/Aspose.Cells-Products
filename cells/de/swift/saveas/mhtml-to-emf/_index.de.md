@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie MHTML unter EMF API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im MHTML-Format als Datei im Format EMF zu speichern.
+title:  Speichern Sie MHTML als EMF API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im MHTML-Format als Datei im EMF-Format zu speichern.
 url: /de/swift/saveas/mhtml-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

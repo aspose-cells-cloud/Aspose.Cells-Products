@@ -4,12 +4,12 @@ description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern v
 kwords: Excel, Save XML as WMF, REST, Android
 howto: How to save XML as WMF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XML als WMF" h2="Android-Bibliothek zum Speichern von XML als WMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als WMF und anderen Dokumentformaten mit Android." urlsection="saveas/xml-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XML als WMF" h2="Android-Bibliothek zum Speichern von XML als WMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XML als WMF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xml-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XML-Datei als WMF in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer XML-Datei als WMF in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XML als WMF ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum WMF-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als WMF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Speichern von Dateiformaten von XML als WMF ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu WMF werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als WMF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte WMF-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

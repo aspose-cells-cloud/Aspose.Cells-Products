@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save CSV as JPG, REST, Android
 howto: How to save CSV as JPG using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="CSV als JPG speichern" h2="Android-Bibliothek zum Speichern von CSV als JPG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von CSV als JPG und anderen Dokumentformaten mit Android." urlsection="saveas/csv-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="CSV als JPG speichern" h2="Android-Bibliothek zum Speichern von CSV als JPG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um CSV als JPG und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/csv-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine CSV-Datei als JPG in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer CSV-Datei als JPG in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von CSV als JPG ist eine komplexe Aufgabe. Alle CSV-zu-JPG-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-CSV-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von CSV-Dateien als JPG. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte JPG-Ausgabe.
+Das Speichern von Dateiformaten von CSV als JPG ist eine komplexe Aufgabe. Alle Konvertierungen vom CSV- ins JPG-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der CSV-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von CSV als JPG-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte JPG-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

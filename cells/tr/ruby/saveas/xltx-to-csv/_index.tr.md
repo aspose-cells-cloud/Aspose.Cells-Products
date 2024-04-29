@@ -9,7 +9,7 @@ description:  XLTX formatındaki dosyayı CSV formatındaki dosya olarak kaydetm
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="XLTX dosyasını Ruby\'de CSV olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını XLTX'ten CSV olarak kaydetmek karmaşık bir iştir. Tüm XLTX'ten CSV formatına geçişler Ruby SDK'mız tarafından gerçekleştirilir ve kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Ruby kitaplığımız, XLTX'i çevrimiçi CSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
+Dosya formatlarını XLTX'ten CSV olarak kaydetmek karmaşık bir iştir. Tüm XLTX'ten CSV formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, XLTX'i çevrimiçi CSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="REST API\'i kullanarak XLTX\'i CSV olarak kaydetmek için Ruby Kodu Örneği" gistPath="" %}}
@@ -33,7 +33,7 @@ Dosya formatlarını XLTX'ten CSV olarak kaydetmek karmaşık bir iştir. Tüm X
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer XLTX formatlarında CSV olarak kaydetmek için Ruby için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

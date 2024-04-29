@@ -2,18 +2,19 @@
 title:  Konvertieren Sie PNG mit C# in XLT
 description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im PNG-Format in eine XLT-Formatdatei.
 kwords: Excel, Convert PNG to XLT, REST, C#
-howto: How to convert PNG to XLT using Aspose.Cells Cloud C# library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert PNG to XLT using the Cells Cloud Net library.","description": "How to convert PNG to XLT using the Cells Cloud Net library.","image": {"@type": "ImageObject"},"url": "/net/conversion/png-to-xlt/","step": [{ "@type": "HowToStep","name": "How to convert PNG to XLT using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/conversion/png-to-xlt/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert PNG to XLT using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/conversion/png-to-xlt/","text": "Install C# library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert PNG to XLT using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/conversion/png-to-xlt/","text": "Open the source file in C#",},{ "@type": "HowToStep","name": "How to convert PNG to XLT using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/conversion/png-to-xlt/","text": "Use the `PutConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Visual Studio, Visual Studio Code, Rider "},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie PNG in XLT" h2="C#-Bibliothek zum Konvertieren von PNG in XLT" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Netzwerkprojekten zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit C# in XLT und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-xlt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie PNG in XLT mit dem Cloud SDK Cells für C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in XLT kann eine komplexe Aufgabe sein. Unser C# SDK übernimmt alle Konvertierungen von PNG in das XLT-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere C#-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG in XLT-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLT-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG nach XLT kann eine komplexe Aufgabe sein. Unser C# SDK bewältigt alle Konvertierungen vom PNG- ins XLT-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der Quelltabelle PNG. Unsere C#-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG- in XLT-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLT-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Codebeispiel für die Konvertierung von PNG in XLT mit Cells Cloud SDK" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="C# Codebeispiel zur Konvertierung von PNG in XLT mit Cells Cloud SDK" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -35,7 +36,7 @@ Das Konvertieren von Dateiformaten von PNG in XLT kann eine komplexe Aufgabe sei
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie PNG mithilfe der Cloud Net-Bibliothek Cells in XLT konvertieren." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So konvertieren Sie PNG mithilfe der Cloud Net-Bibliothek Cells in XLT." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Installieren Sie die Bibliothek C# und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
 <li>Öffnen Sie die Quelldatei in C#</li>

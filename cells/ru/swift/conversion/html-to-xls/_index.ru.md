@@ -10,7 +10,7 @@ url: /ru/swift/conversion/html-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл HTML в XLS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов HTML в XLS — сложная задача. Все переходы формата HTML в формат XLS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации HTML в файлы XLS. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате XLS.
+Преобразование форматов файлов HTML в XLS — сложная задача. Все переходы формата HTML в формат XLS выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации HTML в файлы XLS. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате XLS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования HTML в формат XLS" gistPath="" %}}

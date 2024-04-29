@@ -1,9 +1,9 @@
 ﻿---
 title:  Slå samman flera Excel-filer
-description: " Aspose.Cells Cloud REST API gör det möjligt att slå samman flera Excel-filer till en enda Excel-fil och tillhandahåller SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, Java, 0761S, 731S, 8706, 86153481, Excel 183481, Ruby och Swift."
+description: " Aspose.Cells Cloud REST API tillåter sammanslagning av flera Excel-filer till en enda Excel-fil och tillhandahåller SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, 076,706, 81,706, 8,706, 8 6183481, Ruby och Swift."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Slå samman flera Excel-filer" h2="Aspose.Cells Cloud SDK stöder sammanslagning av flera Excel-filer till en enda Excel-fil." p="Aspose.Cells Cloud REST API gör det möjligt att slå samman flera Excel-filer till en enda Excel-fil och tillhandahåller SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, Java, 0761S, 731S, 8706, 86153481, Excel 183481, Ruby och Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Slå samman flera Excel-filer" h2="Aspose.Cells Cloud SDK stöder sammanslagning av flera Excel-filer till en enda Excel-fil." p="Aspose.Cells Cloud REST API tillåter sammanslagning av flera Excel-filer till en enda Excel-fil och tillhandahåller SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, 076,706, 81,706, 8,706, 8 6183481, Ruby och Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

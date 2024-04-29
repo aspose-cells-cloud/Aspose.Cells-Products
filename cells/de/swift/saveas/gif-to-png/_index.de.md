@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF als PNG API für Swift speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im GIF-Format als Datei im Format PNG zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im GIF-Format als Dateien im PNG-Format zu speichern.
 url: /de/swift/saveas/gif-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie PNG mit Java in CSV
+title:  Konvertieren Sie PNG in CSV mit Java
 description: Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im PNG-Format in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

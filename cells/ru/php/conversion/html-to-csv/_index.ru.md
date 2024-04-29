@@ -3,7 +3,7 @@ title:  Преобразуйте HTML в CSV, используя PHP.
 description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата HTML в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать HTML в CSV" h2="PHP библиотека для преобразования HTML в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертации HTML в CSV и другие форматы документов с помощью PHP." urlsection="conversion/html-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать HTML в CSV" h2="PHP библиотека для преобразования HTML в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертирования HTML в CSV и другие форматы документов с помощью PHP." urlsection="conversion/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте HTML в CSV с помощью Cloud SDK Cells для PHP." >}}

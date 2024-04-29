@@ -10,7 +10,7 @@ url: /es/swift/conversion/xltx-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLTX a SXC en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLTX a SXC es una tarea compleja. Todas las transiciones de formato XLTX a SXC las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XLTX a SXC en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado SXC perfecto.
+Convertir formatos de archivo de XLTX a SXC es una tarea compleja. Todas las transiciones de formato XLTX a SXC se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XLTX a SXC en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado SXC perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir XLTX al formato SXC" gistPath="" %}}

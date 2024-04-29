@@ -9,7 +9,7 @@ description:  Använder Aspose.Cells Cloud SDK för Python för att spara XLTX-f
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLTX-fil som CSV i Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX till CSV-formatövergångar utförs av vår Python SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att spara XLTX som CSV-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Att spara filformat från XLTX som CSV är en komplex uppgift. Alla XLTX till CSV-formatövergångar utförs av vår Python SDK samtidigt som källkodens XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att spara XLTX som CSV-filer online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Python Kod Exempel för att spara XLTX som CSV med REST API" gistPath="" %}}

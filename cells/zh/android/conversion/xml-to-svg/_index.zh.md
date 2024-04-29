@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 XML 转换为 SVG
-description: 利用Aspose.Cells Cloud SDK for Android将XML格式文件转换为SVG格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 XML 格式文件转换为 SVG 格式文件。
 kwords: Excel, Convert XML to SVG, REST, Android
 howto: How to convert XML to SVG using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 XML 转换为 SVG" h2="用于将 XML 转换为 SVG 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用Android在线将XML转换为SVG和其他文档格式的专业解决方案。" urlsection="conversion/xml-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XML 转换为 SVG" h2="用于将 XML 转换为 SVG 的 Android 库" p="使用 Cells Cloud 的转换 API 在 Android 项目中创建自定义电子表格工作流。这是使用 Android 在线将 XML 转换为 SVG 和其他文档格式的专业解决方案。" urlsection="conversion/xml-to-svg/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Android 将 XML 转换为 SVG" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

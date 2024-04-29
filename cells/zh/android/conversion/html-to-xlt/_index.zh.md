@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 HTML 转换为 XLT
-description: 利用Aspose.Cells Cloud SDK for Android将HTML格式文件转换为XLT格式文件。
+description: 利用适用于 Android 的 Aspose.Cells Cloud SDK 将 HTML 格式文件转换为 XLT 格式文件。
 kwords: Excel, Convert HTML to XLT, REST, Android
 howto: How to convert HTML to XLT using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 HTML 转换为 XLT" h2="用于将 HTML 转换为 XLT 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 HTML 转换为 XLT 和其他文档格式的专业解决方案。" urlsection="conversion/html-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 HTML 转换为 XLT" h2="用于将 HTML 转换为 XLT 的 Android 库" p="使用 Cells Cloud 的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 HTML 转换为 XLT 和其他文档格式的专业解决方案。" urlsection="conversion/html-to-xlt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用适用于 Android 的 Cells Cloud SDK 将 HTML 转换为 XLT" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: 使用Android将ODS转换为PNG
-description: 利用Aspose.Cells Cloud SDK for Android将ODS格式文件转换为PNG格式文件。
+title: 使用 Android 将 ODS 转换为 PNG
+description: 利用 Aspose.Cells Cloud SDK for Android 将 ODS 格式文件转换为 PNG 格式文件。
 kwords: Excel, Convert ODS to PNG, REST, Android
 howto: How to convert ODS to PNG using Aspose.Cells Cloud Android library.
 ---

@@ -10,7 +10,7 @@ url: /ru/swift/saveas/numbers-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как SQL в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как SQL — сложная задача. Все переходы формата NUMBERS в SQL выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из NUMBERS как SQL — сложная задача. Все переходы формата NUMBERS в SQL выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения ЧИСЕЛ в формате SQL" gistPath="" %}}

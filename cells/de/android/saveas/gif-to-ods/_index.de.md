@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie GIF als ODS mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von GIF-Formatdateien als ODS-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im GIF-Format als Dateien im ODS-Format zu speichern.
 kwords: Excel, Save GIF as ODS, REST, Android
 howto: How to save GIF as ODS using Aspose.Cells Cloud Android library.
 ---

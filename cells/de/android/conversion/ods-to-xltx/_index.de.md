@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie ODS mit Android in XLTX
+title:  Konvertieren Sie ODS in XLTX mit Android
 description: Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im ODS-Format in eine Datei im XLTX-Format.
 kwords: Excel, Convert ODS to XLTX, REST, Android
 howto: How to convert ODS to XLTX using Aspose.Cells Cloud Android library.

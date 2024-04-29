@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie MHTML als DIF API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von MHTML-Formatdateien als DIF-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im MHTML-Format als Datei im DIF-Format zu speichern.
 url: /de/swift/saveas/mhtml-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /ru/swift/saveas/html-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как SXC в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение файлов формата HTML как SXC — сложная задача. Все переходы формата HTML в формат SXC выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для сохранения HTML в формате SXC в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
+Сохранение файлов формата HTML как SXC — сложная задача. Все переходы формата HTML в SXC выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для сохранения HTML в формате SXC в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения HTML в формате SXC" gistPath="" %}}

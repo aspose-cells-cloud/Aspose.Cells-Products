@@ -6,7 +6,7 @@ howto: How to save CSV as MHTML using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Сохранить CSV как MHTML" h2="Библиотека Android для сохранения CSV в формате MHTML" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения CSV в формате MHTML и других форматов документов онлайн с помощью Android." urlsection="saveas/csv-to-mhtml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Сохраните файл CSV как MHTML в Android." >}}
+{{< blocks/products/cells/cells-cloud-section title="Сохраните CSV-файл в формате MHTML на Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из CSV в формате MHTML — сложная задача. Все переходы формата CSV в MHTML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека Android — это профессиональное решение для сохранения файлов CSV в формате MHTML онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MHTML.

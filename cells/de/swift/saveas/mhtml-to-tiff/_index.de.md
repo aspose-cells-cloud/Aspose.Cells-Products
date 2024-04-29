@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie MHTML unter TIFF API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im MHTML-Format als Datei im Format TIFF zu speichern.
+title:  Speichern Sie MHTML als TIFF API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im MHTML-Format als Datei im TIFF-Format zu speichern.
 url: /de/swift/saveas/mhtml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

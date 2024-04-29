@@ -13,7 +13,7 @@ Das Konvertieren von Dateiformaten von PNG in XLSM kann eine komplexe Aufgabe se
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von PNG in XLSM mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von PNG in XLSM mithilfe des Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

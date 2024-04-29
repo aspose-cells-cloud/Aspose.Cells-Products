@@ -10,7 +10,7 @@ url: /tr/swift/protect/encrypt-cloud-file-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulutu Microsoft Excel ve OpenOffice Calc elektronik tablosunu şifreyle koruyun - Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
-Bulut elektronik tablosunu parolayla korumak karmaşık bir iştir. Bir bulut e-tablosunu şifre geçişleriyle korumak, Swift SDK'mız tarafından gerçekleştirilir ve aynı zamanda kaynak e-tablonun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, bulut e-tablolarını çevrimiçi bir parolayla korumaya yönelik profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Bulut elektronik tablosunu parolayla korumak karmaşık bir iştir. Bir bulut e-tablosunu şifre geçişleriyle korumak, Swift SDK'mız tarafından gerçekleştirilir ve kaynak e-tablonun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, bulut e-tablolarını çevrimiçi bir parolayla korumaya yönelik profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Bulut e-tablolarını şifrelemek için Swift kodu" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-PostEncryptDocument.swift" %}}
@@ -19,7 +19,7 @@ Bulut elektronik tablosunu parolayla korumak karmaşık bir iştir. Bir bulut e-
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Şifrelemek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPostEncryptDocument yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -1,15 +1,15 @@
 ﻿---
 title: 使用 Android 将 ODS 转换为 XLTX
-description: 利用Aspose.Cells Cloud SDK for Android将ODS格式文件转换为XLTX格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 ODS 格式文件转换为 XLTX 格式文件。
 kwords: Excel, Convert ODS to XLTX, REST, Android
 howto: How to convert ODS to XLTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 ODS 转换为 XLTX" h2="用于将 ODS 转换为 XLTX 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 ODS 转换为 XLTX 和其他文档格式的专业解决方案。" urlsection="conversion/ods-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 ODS 转换为 XLTX" h2="用于将 ODS 转换为 XLTX 的 Android 库" p="使用 Cells Cloud 的转换 API 在 Android 项目中创建自定义电子表格工作流。这是使用 Android 在线将 ODS 转换为 XLTX 和其他文档格式的专业解决方案。" urlsection="conversion/ods-to-xltx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Android 将 ODS 转换为 XLTX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 ODS 转换为 XLTX 可能是一项复杂的任务。我们的 Android SDK 处理所有 ODS 到 XLTX 格式的转换，同时保留源 ODS 电子表格的主要结构和逻辑内容。我们的 Android 库提供了在线将 ODS 转换为 XLTX 文件的专业解决方案。该Cloud SDK为Android开发人员提供了强大的功能，并确保高质量的XLTX输出。
+将文件格式从 ODS 转换为 XLTX 可能是一项复杂的任务。我们的 Android SDK 可处理所有 ODS 到 XLTX 格式的转换，同时保留源 ODS 电子表格的主要结构和逻辑内容。我们的 Android 库提供了将 ODS 在线转换为 XLTX 文件的专业解决方案。此 Cloud SDK 为 Android 开发人员提供了强大的功能并确保了高质量的 XLTX 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

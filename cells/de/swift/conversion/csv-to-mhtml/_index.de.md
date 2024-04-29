@@ -4,13 +4,13 @@ description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren e
 url: /de/swift/conversion/csv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von CSV in MHTML" h2="Swift-Bibliothek zum Konvertieren von CSV in MHTML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von CSV in MHTML und andere Dokumentformate mit Swift." urlsection="conversion/csv-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von CSV in MHTML" h2="Swift-Bibliothek zum Konvertieren von CSV in MHTML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um CSV online mit Swift in MHTML und andere Dokumentformate zu konvertieren." urlsection="conversion/csv-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine CSV-Datei in Swift in MHTML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von CSV in MHTML ist eine komplexe Aufgabe. Alle CSV-zu-MHTML-Formatübergänge werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-CSV-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von CSV- in MHTML-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
+Das Konvertieren von Dateiformaten von CSV in MHTML ist eine komplexe Aufgabe. Alle Formatübergänge von CSV in MHTML werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der CSV-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von CSV- in MHTML-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte MHTML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von CSV in das MHTML-Format" gistPath="" %}}

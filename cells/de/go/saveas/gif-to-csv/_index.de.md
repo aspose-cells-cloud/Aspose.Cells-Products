@@ -38,7 +38,7 @@ Das Speichern von GIF-Dateiformaten als CSV ist eine komplexe Aufgabe. Alle Übe
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

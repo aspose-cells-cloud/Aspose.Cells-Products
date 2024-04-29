@@ -2,14 +2,15 @@
 title:  احفظ XLSB كـ PPTX باستخدام Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSB كملف بتنسيق PPTX.
 kwords: Excel, Save XLSB as PPTX, REST, Java
-howto: How to save XLSB as PPTX using Aspose.Cells Cloud Java library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to save XLSB as PPTX using the Cells Cloud Java library.","description": "How to save XLSB as PPTX using the Cells Cloud Java library.","image": {"@type": "ImageObject"},"url": "/java/saveas/xlsb-to-pptx/","step": [{ "@type": "HowToStep","name": "How to save XLSB as PPTX using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/saveas/xlsb-to-pptx/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to save XLSB as PPTX using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/saveas/xlsb-to-pptx/","text": "Install Java library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to save XLSB as PPTX using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/saveas/xlsb-to-pptx/","text": "Open the source file in Java.",},{ "@type": "HowToStep","name": "How to save XLSB as PPTX using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/saveas/xlsb-to-pptx/","text": "Use the `postWorkbookSaveAs` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why save file as other formats file in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just save them as appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PostWorkbookSaveAsRequest() method, passing an output filename with required extension.</li><li>Get the result of save as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I save as with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="احفظ XLSB بصيغة PPTX" h2="مكتبة Java لحفظ XLSB بصيغة PPTX" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جداول بيانات مخصصة في Java. يعد هذا حلاً احترافيًا لحفظ XLSB بتنسيق PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlsb-to-pptx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="احفظ ملف XLSB بتنسيق PPTX في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSB بتنسيق PPTX مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق XLSB إلى PPTX بواسطة Java SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبتنا Java حلاً احترافيًا لحفظ XLSB كملفات PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Java وظائف قوية ومخرجات PPTX مثالية.
+يعد حفظ تنسيقات الملفات من XLSB بتنسيق PPTX مهمة معقدة. يتم تنفيذ جميع التحولات من تنسيق XLSB إلى PPTX بواسطة Java SDK الخاص بنا مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبتنا Java حلاً احترافيًا لحفظ XLSB كملفات PPTX عبر الإنترنت. يوفر Cloud SDK هذا لمطوري Java وظائف قوية ومخرجات PPTX مثالية.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -34,7 +35,7 @@ howto: How to save XLSB as PPTX using Aspose.Cells Cloud Java library.
   
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية حفظ XLSB بتنسيق PPTX باستخدام مكتبة Cells Cloud Java." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية حفظ XLSB كـ PPTX باستخدام مكتبة Cells Cloud Java." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>قم بتثبيت مكتبة Java وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
 <li>افتح الملف المصدر في Java.</li>

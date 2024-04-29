@@ -9,7 +9,7 @@ howto: How to convert PNG to PDF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Convierta PNG a PDF usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de PNG a PDF puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato PNG a PDF y al mismo tiempo conserva el contenido estructural y lógico principal de la hoja de cálculo de origen PNG. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos PNG a PDF en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida PDF de alta calidad.
+Convertir formatos de archivo de PNG a PDF puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato PNG a PDF al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo de origen PNG. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos PNG a PDF en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida PDF de alta calidad.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

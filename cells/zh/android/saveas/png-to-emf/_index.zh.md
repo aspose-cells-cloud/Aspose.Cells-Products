@@ -4,12 +4,12 @@ description: 利用Aspose.Cells Cloud SDK for Android将PNG格式文件保存为
 kwords: Excel, Save PNG as EMF, REST, Android
 howto: How to save PNG as EMF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 PNG 另存为 EMF" h2="用于将 PNG 保存为 EMF 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将PNG另存为EMF等文档格式的专业解决方案。" urlsection="saveas/png-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 PNG 另存为 EMF" h2="用于将 PNG 保存为 EMF 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 PNG 保存为 EMF 和其他文档格式的专业解决方案。" urlsection="saveas/png-to-emf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="在Android中将PNG文件另存为EMF" >}}
+{{< blocks/products/cells/cells-cloud-section title="在 Android 中将 PNG 文件另存为 EMF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将文件格式从 PNG 保存为 EMF 是一项复杂的任务。所有 PNG 到 EMF 的格式转换均由我们的 Android SDK 执行，同时保留源 PNG 电子表格的主要结构和逻辑内容。我们的Android库是在线将PNG保存为EMF文件的专业解决方案。此Cloud SDK为Android开发者提供了强大的功能和完美的EMF输出。
+将文件格式从 PNG 保存为 EMF 是一项复杂的任务。所有 PNG 到 EMF 格式的转换均由我们的 Android SDK 执行，同时保留源 PNG 电子表格的主要结构和逻辑内容。我们的 Android 库是一个专业的解决方案，可在线将 PNG 保存为 EMF 文件。此云 SDK 为 Android 开发人员提供了强大的功能和完美的 EMF 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

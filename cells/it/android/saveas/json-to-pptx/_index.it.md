@@ -4,7 +4,7 @@ description:  Utilizzando Aspose.Cells Cloud SDK per Android per salvare il file
 kwords: Excel, Save JSON as PPTX, REST, Android
 howto: How to save JSON as PPTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Salva JSON come PPTX" h2="Libreria Android per il salvataggio di JSON come PPTX" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Android. Questa è una soluzione professionale per salvare JSON come PPTX e altri formati di documenti online utilizzando Android." urlsection="saveas/json-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Salva JSON come PPTX" h2="Libreria Android per salvare JSON come PPTX" p="Utilizza SaveAs API di Cells Cloud per creare flussi di lavoro personalizzati con fogli di calcolo in Android. Questa è una soluzione professionale per salvare JSON come PPTX e altri formati di documenti online utilizzando Android." urlsection="saveas/json-to-pptx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Salva un file JSON come PPTX in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

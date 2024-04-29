@@ -4,7 +4,7 @@ description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的评论的云
 url: /zh/swift/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的注释" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的注释" p="使用 Cells Clear REST API 清除 Swift 中本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流程的注释。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的注释。" urlsection="clear/Comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的评论" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的评论" p="使用 Cells Clear REST API 清除 Swift 中本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流程的注释。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的注释。" urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="本地 Microsoft Excel 和 OpenOffice Calc 电子表格的清晰注释 - Swift REST API" >}}
@@ -20,7 +20,7 @@ url: /zh/swift/clear/comments/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Swift API清除评论" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 postClearObjects 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

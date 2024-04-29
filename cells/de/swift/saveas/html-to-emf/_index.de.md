@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als EMF API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im Format HTML als Datei im Format EMF zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im Format HTML als Datei im Format EMF zu speichern.
 url: /de/swift/saveas/html-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

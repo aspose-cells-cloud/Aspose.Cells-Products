@@ -3,7 +3,7 @@ title:  Convertissez des NUMBERS en CSV en utilisant Java
 description:  Utilisation du SDK Cloud Aspose.Cells for Java pour convertir un fichier au format NUMBERS en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir des NUMÉROS en CSV" h2="Bibliothèque Java pour convertir des NUMBERS en CSV" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Java. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en CSV et d\'autres formats de documents en ligne en utilisant le Java." urlsection="conversion/numbers-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir des NUMBERS en CSV" h2="Bibliothèque Java pour convertir des NUMBERS en CSV" p="Utilisez la conversion API du cloud Cells pour créer des workflows de feuilles de calcul personnalisés dans les projets Java. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en CSV et d\'autres formats de documents en ligne en utilisant le Java." urlsection="conversion/numbers-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez NUMBERS en CSV à l\'aide du SDK Cloud Cells for Java" >}}

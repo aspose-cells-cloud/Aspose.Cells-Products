@@ -1,8 +1,9 @@
 ﻿---
 title: 使用 Cells Cloud SDK for Python 将 WORKBOOK 从 Excel 导出到 SQL
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
-kwords:
-howto:
+kwords: Excel, workbook, sql, Python
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Python to export objects from Excel WORKBOOK to SQL","description": "How to use Cells Cloud SDK for Python to export objects from Excel WORKBOOK to SQL","image": {"@type": "ImageObject"},"url": "/python/export/workbook-to-sql/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Python to export objects from Excel WORKBOOK to SQL step 1", "image": {"@type": "ImageObject",},"url": "/python/export/workbook-to-sql/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Python to export objects from Excel WORKBOOK to SQL step 1", "image": {"@type": "ImageObject",},"url": "/python/export/workbook-to-sql/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Python to export objects from Excel WORKBOOK to SQL step 1", "image": {"@type": "ImageObject",},"url": "/python/export/workbook-to-sql/","text": "Call post_export method to get the resultant stream",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "PyCharm, Visual Studio Code, Sublime, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="将 WORKBOOK 从 Excel 导出到 SQL" h2="Python 用于将 WORKBOOK 导出到 SQL 文件的库" p="使用Cells云的导出API导出Python中的Excel文件内部对象工作流程。这是使用Python在线将电子表格中的WORKBOOK导出为SQL格式文件的专业解决方案。" urlsection="export/workbook-to-sql/" >}}
 
@@ -43,6 +44,6 @@ howto:
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
-<li>Python 2.7 或更高版本</li>
-<li>Python 3.10 或更高版本</li>
+<li>Python 2.7 或更新版本</li>
+<li>Python 3.10 或更新版本</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

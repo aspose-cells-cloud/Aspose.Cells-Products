@@ -3,7 +3,7 @@ title:  Cloud'daki yerel çalışma kitabındaki stilleri temizleyin
 description:  Microsoft Excel ve OpenOffice Calc'taki stilleri temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki stilleri temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri kaldırma" h2="C# Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizle ve temizle" p="Yerel Microsoft Excel ve C#\'deki OpenOffice Calc elektronik tablo iş akışlarındaki stilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, C#\'i kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizler." urlsection="clear/Styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri kaldırma" h2="C# Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizle ve temizle" p="Yerel Microsoft Excel ve C#\'deki OpenOffice Calc elektronik tablosu iş akışlarındaki stilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, C#\'i kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizler." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda stilleri temizleyin - C# REST API" >}}
@@ -18,7 +18,7 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizl
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Stilleri temizlemek için Cells Net için Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için PostClearObjects yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

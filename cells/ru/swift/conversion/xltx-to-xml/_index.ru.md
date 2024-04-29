@@ -10,7 +10,7 @@ url: /ru/swift/conversion/xltx-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в XML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в XML — сложная задача. Все переходы формата XLTX в XML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов XLTX в XML. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из XLTX в XML — сложная задача. Все переходы формата XLTX в XML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов XLTX в XML. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLTX в формат XML" gistPath="" %}}

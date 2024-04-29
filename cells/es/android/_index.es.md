@@ -1,6 +1,6 @@
 ﻿---
 title: Excel Programación de hojas de cálculo API para acelerar las tareas de gestión y procesamiento de hojas de cálculo utilizando Android
-description: API admite la creación de aplicaciones multiplataforma que tienen la capacidad de generar, modificar, convertir, renderizar e imprimir hojas de cálculo. Permite a los desarrolladores administrar hojas de trabajo, filas, columnas y celdas, crear contenidos y estilos de hojas de cálculo desde cero, importar datos a las hojas de trabajo desde diferentes fuentes de datos, agregar fórmulas matemáticas, financieras y de texto comunes y complejas, crear y manipular tablas dinámicas y gráficos. , hipervínculos, comentarios, objetos de dibujo y mucho más.
+description: API admite la creación de aplicaciones multiplataforma que tienen la capacidad de generar, modificar, convertir, renderizar e imprimir hojas de cálculo. Permite a los desarrolladores administrar hojas de cálculo, filas, columnas y celdas, crear contenidos y estilos de hojas de cálculo desde cero, importar datos a las hojas de cálculo desde diferentes fuentes de datos, agregar fórmulas matemáticas, financieras y de texto comunes y complejas, crear y manipular tablas dinámicas y gráficos. , hipervínculos, comentarios, objetos de dibujo y mucho más.
 weight: 90
 ---
 {{< blocks/products/pf/main-wrap-class >}}

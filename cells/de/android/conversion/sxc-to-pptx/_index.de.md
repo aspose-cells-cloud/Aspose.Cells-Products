@@ -1,15 +1,15 @@
 ﻿---
-title:  Konvertieren Sie SXC mit Android in PPTX
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im SXC-Format in eine Datei im PPTX-Format.
+title:  Konvertieren Sie SXC in PPTX mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im SXC-Format in eine Datei im PPTX-Format zu konvertieren.
 kwords: Excel, Convert SXC to PPTX, REST, Android
 howto: How to convert SXC to PPTX using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie SXC in PPTX" h2="Android-Bibliothek zum Konvertieren von SXC in PPTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von SXC in PPTX und andere Dokumentformate mit Android." urlsection="conversion/sxc-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie SXC in PPTX mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie SXC in PPTX mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von SXC in PPTX kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle SXC-zu-PPTX-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-SXC-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von SXC- in PPTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PPTX-Ausgabe.
+Das Konvertieren von Dateiformaten von SXC in PPTX kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom SXC- ins PPTX-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der SXC-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von SXC- in PPTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PPTX-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

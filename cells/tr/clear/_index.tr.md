@@ -1,9 +1,9 @@
 ﻿---
 title:  Excel'deki Nesneleri Temizle
-description:  Aspose.Cells Cloud REST API, Excel dosyasındaki iç nesnelerin temizlenmesini destekler ve Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift dahil olmak üzere çeşitli programlama dilleri için SDK'lar sağlar.
+description:  Aspose.Cells Cloud REST API, bir Excel dosyasındaki iç nesnelerin temizlenmesini destekler ve Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift dahil olmak üzere çeşitli programlama dilleri için SDK'lar sağlar.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Excel\'deki Nesneleri Temizle" h2="Aspose.Cells Bulut SDK\'sı, Excel dosyalarındaki içeriğin, stilin, grafiklerin, tabloların, arka planların ve daha fazlasının temizlenmesini destekler." p="Aspose.Cells Cloud REST API, Excel dosyasındaki iç nesnelerin temizlenmesini destekler ve Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift dahil olmak üzere çeşitli programlama dilleri için SDK\'lar sağlar." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Excel\'deki Nesneleri Temizle" h2="Aspose.Cells Bulut SDK\'sı, Excel dosyalarındaki içeriğin, stilin, grafiklerin, tabloların, arka planların ve daha fazlasının temizlenmesini destekler." p="Aspose.Cells Cloud REST API, bir Excel dosyasındaki iç nesnelerin temizlenmesini destekler ve Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift dahil olmak üzere çeşitli programlama dilleri için SDK\'lar sağlar." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -49,7 +49,7 @@ description:  Aspose.Cells Cloud REST API, Excel dosyasındaki iç nesnelerin te
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Birden çok Excel dosyasındaki yinelenen satırları temizle" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/php/clear/duplicaterows/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Node" title="Birden fazla Excel dosyasındaki boş satırları temizleyin" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/node/clear/blankrows/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Node" title="Birden çok Excel dosyasındaki boş satırları temizleyin" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/node/clear/blankrows/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Desteklenen Geliştirme Dilleri" >}}

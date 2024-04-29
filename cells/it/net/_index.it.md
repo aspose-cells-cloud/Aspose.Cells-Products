@@ -16,7 +16,7 @@ weight: 90
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="left" imgurl="/cells/images/cells_cloud_computer.png" imgalt="computer.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="partire da Excel Elaborazione del foglio di calcolo con .Net SDK." msg="Per iniziare, inizia installando la libreria Aspose.Cells Cloud per .Net e poi crea un account su Aspose per Cloud per ottenere le credenziali dell\'applicazione. Una volta in possesso del SID e della chiave dell\'applicazione, puoi sfruttarli all\'interno di una qualsiasi delle piattaforme .Net supportate utilizzando Aspose.Cells Cloud SDK per .Net. Questo SDK offre una gamma completa di funzionalità per la creazione, la modifica e la conversione di fogli di calcolo. Inoltre, consente di estrarre dati da fogli di calcolo per la successiva elaborazione o archiviazione." >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="A partire da Excel Elaborazione del foglio di calcolo con .Net SDK." msg="Per iniziare, inizia installando la libreria Aspose.Cells Cloud per .Net e poi crea un account su Aspose per Cloud per ottenere le credenziali dell\'applicazione. Una volta in possesso del SID e della chiave dell\'applicazione, puoi sfruttarli all\'interno di una qualsiasi delle piattaforme .Net supportate utilizzando Aspose.Cells Cloud SDK per .Net. Questo SDK offre una gamma completa di funzionalità per la creazione, la modifica e la conversione di fogli di calcolo. Inoltre, consente di estrarre dati da fogli di calcolo per la successiva elaborazione o archiviazione." >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
 
 

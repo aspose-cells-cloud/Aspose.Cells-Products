@@ -1,5 +1,5 @@
 ﻿---
-title:  TSV in JPG Konvertieren API für Swift
+title:  TSV zu JPG Konvertierung API für Swift
 description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von TSV-Formatdateien in JPG-Formatdateien.
 url: /de/swift/conversion/tsv-to-jpg/
 ---

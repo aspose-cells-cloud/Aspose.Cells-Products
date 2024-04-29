@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie NUMBERS als JPG mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von Dateien im NUMBERS-Format als JPG-Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im NUMBERS-Format als Dateien im JPG-Format zu speichern.
 kwords: Excel, Save NUMBERS as JPG, REST, Android
 howto: How to save NUMBERS as JPG using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="ZAHLEN als JPG speichern" h2="Android-Bibliothek zum Speichern von ZAHLEN als JPG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um ZAHLEN als JPG und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/numbers-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="ZAHLEN als JPG speichern" h2="Android-Bibliothek zum Speichern von Zahlen als JPG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um ZAHLEN als JPG und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/numbers-to-jpg/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine NUMBERS-Datei als JPG in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

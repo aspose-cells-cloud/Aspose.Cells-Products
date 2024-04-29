@@ -10,7 +10,7 @@ url: /tr/swift/saveas/mhtml-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir MHTML dosyasını DIF olarak kaydetme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını MHTML'den DIF olarak kaydetmek karmaşık bir iştir. MHTML'den DIF formatına tüm geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, MHTML'yi çevrimiçi DIF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
+Dosya formatlarını MHTML'den DIF olarak kaydetmek karmaşık bir iştir. MHTML'den DIF formatına tüm geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, MHTML'yi çevrimiçi DIF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi DIF formatı olarak kaydetmek için Swift\'de REST API\'i kullanan kod örneği" gistPath="" %}}
@@ -55,7 +55,7 @@ Dosya formatlarını MHTML'den DIF olarak kaydetmek karmaşık bir iştir. MHTML
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="MHTML\'yi DIF olarak kaydetmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

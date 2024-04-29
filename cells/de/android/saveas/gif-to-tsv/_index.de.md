@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save GIF as TSV, REST, Android
 howto: How to save GIF as TSV using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="GIF als TSV speichern" h2="Android-Bibliothek zum Speichern von GIF als TSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von GIF als TSV und anderen Dokumentformaten mit Android." urlsection="saveas/gif-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="GIF als TSV speichern" h2="Android-Bibliothek zum Speichern von GIF als TSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um GIF als TSV und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/gif-to-tsv/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine GIF-Datei als TSV in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von GIF als TSV ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum TSV-Format werden von unserem Android SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-GIF-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um GIF als TSV-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
+Das Speichern von Dateiformaten von GIF als TSV ist eine komplexe Aufgabe. Alle Formatübergänge von GIF zu TSV werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von GIF als TSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte TSV-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

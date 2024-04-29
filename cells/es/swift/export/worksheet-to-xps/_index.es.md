@@ -10,7 +10,7 @@ url: /es/swift/export/worksheet-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto WORKSHEET a archivo de formato XPS en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto WORKSHEET al archivo XPS desde la hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza las transiciones de formato WORKSHEET a XPS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de WORKSHEET de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos WORKSHEET a archivos con formato XPS en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado XPS perfecto.
+Exportar el objeto WORKSHEET al archivo XPS desde la hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de HOJA DE TRABAJO a formato XPS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de HOJA DE TRABAJO de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos WORKSHEET a archivos con formato XPS en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado XPS perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar HOJA DE TRABAJO al formato XPS desde una hoja de cálculo" gistPath="" %}}

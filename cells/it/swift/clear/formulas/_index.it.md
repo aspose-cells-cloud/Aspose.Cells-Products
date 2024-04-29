@@ -1,6 +1,6 @@
 ﻿---
 title:  Formule chiare nella cartella di lavoro locale nel Cloud
-description: API e SDK cloud per cancellare le formule su Microsoft Excel e OpenOffice Calc. Formule chiare sui fogli di calcolo locali tramite il Cloud Cells API. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description: API e SDK cloud per cancellare le formule su Microsoft Excel e OpenOffice Calc. Formule chiare su fogli di calcolo locali tramite il Cloud Cells API. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/swift/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

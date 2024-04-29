@@ -10,7 +10,7 @@ url: /ru/swift/export/workbook-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата MD в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл MD из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат MD выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата MD. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MD.
+Экспорт объекта WORKBOOK в файл MD из электронной таблицы — сложная задача. Экспорт переходов формата WORKBOOK в формат MD выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата MD. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта WORKBOOK в формат MD из электронной таблицы" gistPath="" %}}

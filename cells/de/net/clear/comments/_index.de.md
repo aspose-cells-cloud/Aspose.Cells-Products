@@ -20,7 +20,7 @@ Das Löschen von Kommentaren in der lokalen Microsoft Excel- und OpenOffice Calc
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net zum Löschen von Kommentaren" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
-<li>Rufen Sie die PostClearObjects-Methode auf, um den resultierenden Stream abzurufen</li>
+<li>Rufen Sie die Methode PostClearObjects auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

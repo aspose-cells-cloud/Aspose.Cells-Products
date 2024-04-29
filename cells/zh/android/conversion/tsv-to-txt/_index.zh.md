@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 TSV 转换为 TXT
-description: 利用Aspose.Cells Cloud SDK for Android将TSV格式文件转换为TXT格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 TSV 格式文件转换为 TXT 格式文件。
 kwords: Excel, Convert TSV to TXT, REST, Android
 howto: How to convert TSV to TXT using Aspose.Cells Cloud Android library.
 ---

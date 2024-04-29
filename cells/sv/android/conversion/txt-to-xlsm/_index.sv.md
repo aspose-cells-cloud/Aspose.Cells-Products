@@ -9,7 +9,7 @@ howto: How to convert TXT to XLSM using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertera TXT till XLSM med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från TXT till XLSM kan vara en komplex uppgift. Vår Android SDK hanterar alla TXT- till XLSM-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-TXT-kalkylarket bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera TXT till XLSM-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer XLSM-utdata av hög kvalitet.
+Att konvertera filformat från TXT till XLSM kan vara en komplex uppgift. Vår Android SDK hanterar alla TXT- till XLSM-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för TXT bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera TXT till XLSM-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer XLSM-utdata av hög kvalitet.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

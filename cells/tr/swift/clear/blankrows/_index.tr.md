@@ -1,6 +1,6 @@
 ﻿---
 title:  Cloud'daki yerel çalışma kitabındaki boş satırları temizleyin
-description: Microsoft Excel ve OpenOffice Calc'taki boş satırları temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki boş satırları temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
+description: Microsoft Excel ve OpenOffice Calc'deki boş satırları temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki boş satırları temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 url: /tr/swift/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -19,7 +19,7 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş satırlar�
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Boş satırları temizlemek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postClearObjects yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

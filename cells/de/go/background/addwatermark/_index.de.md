@@ -1,5 +1,5 @@
 ﻿---
-title:  Fügen Sie mit Go in Cloud ein Wasserzeichen für die lokale Arbeitsmappe hinzu
+title:  Mit Go in Cloud ein Wasserzeichen für lokale Arbeitsmappen hinzufügen
 description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit Go. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für Go.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,12 +12,12 @@ description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microso
 Das Hinzufügen von Wasserzeichen für eine lokale Tabelle mit Go ist eine komplexe Aufgabe. Das Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationsübergänge wird von unserem Go SDK durchgeführt und behält dabei den strukturellen und logischen Hauptinhalt der Quelltabelle bei. Unsere Go-Bibliothek ist eine professionelle Lösung zum Hinzufügen von Wasserzeichen für lokale Tabellen online. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Watermark.go" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Hinzufügen eines Wasserzeichens für lokale Tabellen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Watermark.go" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API zum Hinzufügen von Wasserzeichen" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API zum Hinzufügen eines Wasserzeichens" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostWatermark-Methode auf, um den resultierenden Stream abzurufen</li>
@@ -25,7 +25,7 @@ Das Hinzufügen von Wasserzeichen für eine lokale Tabelle mit Go ist eine kompl
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

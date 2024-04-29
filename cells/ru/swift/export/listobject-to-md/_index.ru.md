@@ -10,7 +10,7 @@ url: /ru/swift/export/listobject-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата MD в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл MD из электронной таблицы — сложная задача. Экспорт переходов формата LISTOBJECT в MD выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата MD. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MD.
+Экспорт объекта LISTOBJECT в файл MD из электронной таблицы — сложная задача. Экспорт переходов формата LISTOBJECT в MD выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы LISTOBJECT. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата MD. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта LISTOBJECT в формат MD из электронной таблицы" gistPath="" %}}

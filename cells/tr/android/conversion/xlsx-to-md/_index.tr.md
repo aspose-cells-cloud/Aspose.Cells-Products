@@ -9,7 +9,7 @@ description: XLSX formatındaki bir dosyayı MD formatındaki bir dosyaya dönü
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android için Cells Cloud SDK\'yı kullanarak XLSX\'i MD\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSX'ten MD'ye dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm XLSX'ten MD formatına dönüşümleri gerçekleştirir. Android kitaplığımız, XLSX'i çevrimiçi olarak MD dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli MD çıktısı sağlar.
+Dosya formatlarını XLSX'ten MD'ye dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak XLSX e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm XLSX'ten MD formatına dönüşümleri gerçekleştirir. Android kitaplığımız, XLSX'i çevrimiçi olarak MD dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli MD çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK kullanarak XLSX\'i MD\'ye dönüştürmek için Android Kod Örneği" gistPath="" %}}
@@ -47,7 +47,7 @@ Dosya formatlarını XLSX'ten MD'ye dönüştürmek karmaşık bir iş olabilir.
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara XLSX\'ten MD\'ye dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

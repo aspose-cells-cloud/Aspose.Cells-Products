@@ -1,15 +1,16 @@
 ﻿---
 title:  Конвертируйте FODS в GIF с помощью Java
-description:  Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата FODS в файл формата GIF.
+description: Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата FODS в файл формата GIF.
 kwords: Excel, Convert FODS to GIF, REST, Java
-howto: How to convert FODS to GIF using Aspose.Cells Cloud Java library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert FODS to GIF using the Cells Cloud Java library.","description": "How to convert FODS to GIF using the Cells Cloud Java library.","image": {"@type": "ImageObject"},"url": "/java/conversion/fods-to-gif/","step": [{ "@type": "HowToStep","name": "How to convert FODS to GIF using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/fods-to-gif/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert FODS to GIF using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/fods-to-gif/","text": "Install Java library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert FODS to GIF using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/fods-to-gif/","text": "Open the source file in Java.",},{ "@type": "HowToStep","name": "How to convert FODS to GIF using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/fods-to-gif/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Конвертировать FODS в GIF" h2="Java библиотека для конвертации FODS в GIF" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертирования FODS в GIF и другие форматы документов с помощью номера Java." urlsection="conversion/fods-to-gif/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Конвертируйте FODS в GIF с помощью Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из FODS в GIF может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования формата FODS в формат GIF, сохраняя при этом основное структурное и логическое содержимое исходной таблицы FODS. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертирования FODS в файлы GIF. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод GIF.
+Преобразование форматов файлов из FODS в GIF может оказаться сложной задачей. Наш SDK Java обрабатывает все преобразования формата FODS в формат GIF, сохраняя при этом основное структурное и логическое содержимое исходной таблицы FODS. Наша библиотека Java предоставляет профессиональное решение для онлайн-конвертации FODS в файлы GIF. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и обеспечивает высококачественный вывод GIF.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -46,7 +47,7 @@ howto: How to convert FODS to GIF using Aspose.Cells Cloud Java library.
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как конвертировать FODS в GIF с помощью библиотеки Cells Cloud Java." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как конвертировать FODS в GIF с помощью библиотеки Cells Cloud Java." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Установите библиотеку Java и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
 <li>Откройте исходный файл по номеру Java.</li>

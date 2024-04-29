@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLS als JSON mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLS-Formatdateien als JSON-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLS-Format als Dateien im JSON-Format zu speichern.
 kwords: Excel, Save XLS as JSON, REST, Android
 howto: How to save XLS as JSON using Aspose.Cells Cloud Android library.
 ---

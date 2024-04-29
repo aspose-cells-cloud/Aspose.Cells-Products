@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara SXC som CSV med C#
-description: Använder Aspose.Cells Cloud SDK för C# för att spara SXC-formatfil som CSV-formatfil.
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara SXC-formatfil som CSV-formatfil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Spara SXC som CSV" h2="C# bibliotek för att spara SXC som CSV" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Net. Detta är en professionell lösning för att spara SXC som CSV och andra dokumentformat online med C#." urlsection="saveas/sxc-to-csv/" >}}

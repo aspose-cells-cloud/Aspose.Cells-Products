@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 NUMBERS 保存为 ODS
-description: 利用Aspose.Cells Cloud SDK for Android将NUMBERS格式文件保存为ODS格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 NUMBERS 格式文件保存为 ODS 格式文件。
 kwords: Excel, Save NUMBERS as ODS, REST, Android
 howto: How to save NUMBERS as ODS using Aspose.Cells Cloud Android library.
 ---

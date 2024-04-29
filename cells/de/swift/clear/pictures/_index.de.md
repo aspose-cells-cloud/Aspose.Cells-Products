@@ -1,5 +1,5 @@
 ﻿---
-title:  Löschen Sie Bilder in der lokalen Arbeitsmappe in der Cloud
+title:  Klare Bilder im lokalen Arbeitsbuch in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Bildern unter Microsoft Excel und OpenOffice Calc. Klare Bilder in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/clear/pictures/
 ---

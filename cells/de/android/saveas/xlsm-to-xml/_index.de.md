@@ -1,15 +1,15 @@
 ﻿---
 title:  Speichern Sie XLSM als XML mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von XLSM-Formatdateien als XML-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLSM-Format als Dateien im XML-Format zu speichern.
 kwords: Excel, Save XLSM as XML, REST, Android
 howto: How to save XLSM as XML using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="XLSM als XML speichern" h2="Android-Bibliothek zum Speichern von XLSM als XML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSM als XML und anderen Dokumentformaten mit Android." urlsection="saveas/xlsm-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLSM als XML speichern" h2="Android-Bibliothek zum Speichern von XLSM als XML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLSM als XML und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlsm-to-xml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLSM-Datei als XML in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer XLSM-Datei als XML in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XLSM als XML ist eine komplexe Aufgabe. Alle XLSM-zu-XML-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLSM-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLSM als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
+Das Speichern von Dateiformaten von XLSM als XML ist eine komplexe Aufgabe. Alle Formatübergänge von XLSM zu XML werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XLSM-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLSM als XML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte XML-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

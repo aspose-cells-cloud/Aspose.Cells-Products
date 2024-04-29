@@ -4,12 +4,12 @@ description: 利用Aspose.Cells Cloud SDK for Android将PNG格式文件保存为
 kwords: Excel, Save PNG as BMP, REST, Android
 howto: How to save PNG as BMP using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 PNG 另存为 BMP" h2="用于将 PNG 保存为 BMP 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将PNG另存为BMP等文档格式的专业解决方案。" urlsection="saveas/png-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 PNG 另存为 BMP" h2="用于将 PNG 保存为 BMP 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 PNG 保存为 BMP 和其他文档格式的专业解决方案。" urlsection="saveas/png-to-bmp/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="在Android中将PNG文件另存为BMP" >}}
+{{< blocks/products/cells/cells-cloud-section title="在 Android 中将 PNG 文件另存为 BMP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将文件格式从 PNG 保存为 BMP 是一项复杂的任务。所有 PNG 到 BMP 的格式转换均由我们的 Android SDK 执行，同时保留源 PNG 电子表格的主要结构和逻辑内容。我们的Android库是在线将PNG保存为BMP文件的专业解决方案。此Cloud SDK为Android开发者提供了强大的功能和完美的BMP输出。
+将文件格式从 PNG 保存为 BMP 是一项复杂的任务。所有 PNG 到 BMP 格式的转换均由我们的 Android SDK 执行，同时保留源 PNG 电子表格的主要结构和逻辑内容。我们的 Android 库是一个专业的解决方案，可在线将 PNG 保存为 BMP 文件。此云 SDK 为 Android 开发人员提供了强大的功能和完美的 BMP 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

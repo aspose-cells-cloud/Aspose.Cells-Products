@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xltx-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как XML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в формате XML — сложная задача. Все переходы формата XLTX в XML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для сохранения XLTX в виде XML-файлов онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из XLTX в формате XML — сложная задача. Все переходы формата XLTX в XML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Swift — это профессиональное решение для сохранения XLTX в виде XML-файлов онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLTX в формате XML" gistPath="" %}}

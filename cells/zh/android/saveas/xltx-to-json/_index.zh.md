@@ -4,12 +4,12 @@ description: 利用Aspose.Cells Cloud SDK for Android将XLTX格式文件保存�
 kwords: Excel, Save XLTX as JSON, REST, Android
 howto: How to save XLTX as JSON using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 XLTX 保存为 JSON" h2="用于将 XLTX 保存为 JSON 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLTX 保存为 JSON 和其他文档格式的专业解决方案。" urlsection="saveas/xltx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 XLTX 保存为 JSON" h2="用于将 XLTX 保存为 JSON 的 Android 库" p="使用 Cells Cloud 中的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLTX 保存为 JSON 和其他文档格式的专业解决方案。" urlsection="saveas/xltx-to-json/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 XLTX 文件保存为 JSON" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 XLTX 中的文件格式保存为 JSON 是一项复杂的任务。所有 XLTX 到 JSON 格式的转换均由我们的 Android SDK 执行，同时保留源 XLTX 电子表格的主要结构和逻辑内容。我们的 Android 库是在线将 XLTX 保存为 JSON 文件的专业解决方案。该Cloud SDK为Android开发人员提供了强大的功能和完美的JSON输出。
+将 XLTX 的文件格式保存为 JSON 是一项复杂的任务。所有 XLTX 到 JSON 格式的转换均由我们的 Android SDK 执行，同时保留源 XLTX 电子表格的主要结构和逻辑内容。我们的 Android 库是将 XLTX 在线保存为 JSON 文件的专业解决方案。此云 SDK 为 Android 开发人员提供了强大的功能和完美的 JSON 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

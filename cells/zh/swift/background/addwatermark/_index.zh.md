@@ -1,6 +1,6 @@
 ﻿---
-title: 在云中使用 Swift 为本地工作簿添加水印
-description: 用于使用 Swift 为 Microsoft Excel 和 OpenOffice Calc 添加水印的云 API 和 SDK。通过 Cells Cloud API SDK for Swift 为本地电子表格添加水印。
+title: 使用 Swift 在云端为本地工作簿添加水印
+description: 用于使用 Swift 为 Microsoft Excel 和 OpenOffice Calc 添加水印的云 API 和 SDK。使用 Cells Cloud API SDK for Swift 为本地电子表格添加水印。
 url: /zh/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -20,7 +20,7 @@ url: /zh/swift/background/add-watermark/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Swift API添加水印" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 PostWatermark 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

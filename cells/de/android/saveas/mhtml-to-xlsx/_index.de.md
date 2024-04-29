@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie MHTML als XLSX mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von MHTML-Formatdateien als XLSX-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im MHTML-Format als Dateien im XLSX-Format zu speichern.
 kwords: Excel, Save MHTML as XLSX, REST, Android
 howto: How to save MHTML as XLSX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie MHTML als XLSX" h2="Android-Bibliothek zum Speichern von MHTML als XLSX" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von MHTML als XLSX und anderen Dokumentformaten mit Android." urlsection="saveas/mhtml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="MHTML als XLSX speichern" h2="Android-Bibliothek zum Speichern von MHTML als XLSX" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von MHTML als XLSX und anderen Dokumentformaten mit Android." urlsection="saveas/mhtml-to-xlsx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine MHTML-Datei als XLSX in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

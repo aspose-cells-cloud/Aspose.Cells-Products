@@ -3,7 +3,7 @@ title:  Tydlig bakgrund på den lokala arbetsboken i Cloud
 description: Cloud API och SDK för att rensa bakgrund på Microsoft Excel & OpenOffice Calc. Tydlig bakgrund på lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort bakgrund på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Perl Rensa för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa bakgrunden på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Perl. Denna professionella lösning tydliggör bakgrunden på lokala Microsoft Microsoft Microsoft 07161634 och 4c 4c64 och 4c 64 kalkylblad med OpenOffice 64 och 4c 4c 64 och 4c 4c 634." urlsection="clear/Background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort bakgrund på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Perl Rensa för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa bakgrunden på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Perl. Denna professionella lösning tydliggör bakgrunden på lokala Microsoft Microsoft Microsoft 07161634 och 4c 4c6434 och 4c1634 kalkylblad med OpenOffice 1761633 och 4c 4c 1634 och 4c 4c 1634." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa bakgrund på lokal Microsoft Excel och OpenOffice Calc-kalkylblad - Perl REST API" >}}

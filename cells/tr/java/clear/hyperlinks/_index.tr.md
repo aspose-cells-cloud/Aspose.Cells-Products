@@ -3,7 +3,7 @@ title:  Bulutta yerel çalışma kitabındaki köprüleri temizleyin
 description: Microsoft Excel ve OpenOffice Calc üzerindeki köprüleri temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki köprüleri temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri kaldırma" h2="Java Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için temizleyin" p="Yerel Microsoft Excel ve Java\'deki OpenOffice Calc elektronik tablosu iş akışlarındaki köprüleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Java\'i kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizler." urlsection="clear/Hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri kaldırma" h2="Java Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için temizleyin" p="Microsoft Microsoft Excel ve OpenOffice Calc e -tablo iş akışlarında API\'i temizlemek için API kullanın." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizleyin - Java REST API" >}}
@@ -18,7 +18,7 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri tem
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Köprüleri temizlemek için Cells Cloud SDK for Java nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için postClearObjects yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

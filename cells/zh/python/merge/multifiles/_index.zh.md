@@ -17,7 +17,7 @@ description: 用于使用 Python 合并多个 Excel 文件的云 API 和 SDK。
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何利用Cells Cloud SDK for Python API进行合并" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何利用 Cells Cloud SDK 进行 Python API 合并" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
 <li>使用 `post_merge` 方法检索结果流。</li>
@@ -25,8 +25,8 @@ description: 用于使用 Python 合并多个 Excel 文件的云 API 和 SDK。
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
-<li>Python 2.7 或更高版本</li>
-<li>Python 3.10 或更高版本</li>
+<li>Python 2.7 或更新版本</li>
+<li>Python 3.10 或更新版本</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

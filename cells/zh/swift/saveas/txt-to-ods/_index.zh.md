@@ -7,10 +7,10 @@ url: /zh/swift/saveas/txt-to-ods/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 将 TXT 保存为 ODS" h2="将 TXT 保存为 ODS 的 Swift 库" p="使用 Cells SaveAs REST API 在 Swift 中创建自定义电子表格工作流程。这是使用 Swift 在线将 TXT 保存为 ODS 和其他文档格式的专业解决方案。" urlsection="saveas/txt-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Swift 中将 TXT 文件另存为 ODS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Swift 中将 TXT 文件保存为 ODS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 TXT 文件格式保存为 ODS 是一项复杂的任务。所有 TXT 到 ODS 格式的转换均由我们的 Swift SDK 执行，同时保留源 TXT 电子表格的主要结构和逻辑内容。我们的 Swift 库是在线将 TXT 保存为 ODS 文件的专业解决方案。该Cloud SDK为Swift开发人员提供了强大的功能和完美的ODS输出。
+将文件格式从 TXT 保存为 ODS 是一项复杂的任务。所有 TXT 到 ODS 格式的转换均由我们的 Swift SDK 执行，同时保留源 TXT 电子表格的主要结构和逻辑内容。我们的 Swift 库是将 TXT 在线保存为 ODS 文件的专业解决方案。此 Cloud SDK 为 Swift 开发人员提供了强大的功能和完美的 ODS 输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Swift 中使用 REST API 将 TXT 保存为 ODS 格式的代码示例" gistPath="" %}}
@@ -54,9 +54,9 @@ url: /zh/swift/saveas/txt-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Swift API将TXT保存为ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Swift API 将 TXT 保存为 ODS" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 cellsSaveAsPostDocumentSaveAs 方法来获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

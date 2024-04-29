@@ -10,7 +10,7 @@ url: /ru/swift/conversion/numbers-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл NUMBERS в DOCX в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в DOCX — сложная задача. Все переходы формата NUMBERS в формат DOCX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации NUMBERS в файлы DOCX. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из NUMBERS в DOCX — сложная задача. Все переходы формата NUMBERS в DOCX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации NUMBERS в файлы DOCX. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования ЧИСЕЛ в формат DOCX" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: 使用Android将ODS转换为SVG
-description: 利用Aspose.Cells Cloud SDK for Android将ODS格式文件转换为SVG格式文件。
+title: 使用 Android 将 ODS 转换为 SVG
+description: 利用 Aspose.Cells Cloud SDK for Android 将 ODS 格式文件转换为 SVG 格式文件。
 kwords: Excel, Convert ODS to SVG, REST, Android
 howto: How to convert ODS to SVG using Aspose.Cells Cloud Android library.
 ---

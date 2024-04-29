@@ -9,7 +9,7 @@ description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara TXT-fo
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en TXT-fil som CSV i NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från TXT som CSV är en komplex uppgift. Alla TXT- till CSV-formatövergångar utförs av vår NodeJS SDK samtidigt som källkodens TXT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att spara TXT som CSV-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Att spara filformat från TXT som CSV är en komplex uppgift. Alla TXT- till CSV-formatövergångar utförs av vår NodeJS SDK med bibehållen källkods-TXT-kalkylarks huvudsakliga strukturella och logiska innehåll. Vårt NodeJS-bibliotek är en professionell lösning för att spara TXT som CSV-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NodeJS-kodexempel för att spara TXT som CSV med REST API" gistPath="" %}}

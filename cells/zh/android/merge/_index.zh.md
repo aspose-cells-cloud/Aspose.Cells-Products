@@ -3,7 +3,7 @@ title: 使用 Android 合并 Excel 文件
 description: Aspose.Cells Cloud REST API 支持使用 Android 将多个 Excel 文件合并为单个 Excel 文件，并提供适用于各种编程语言的 SDK。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Android 合并 Excel 文件" h2="Aspose.Cells Cloud SDK 支持将多个 Excel 文件合并为单个 Excel 文件。" p="Aspose.Cells Cloud REST API 支持使用 Android 将多个 Excel 文件合并为单个 Excel 文件，并提供适用于各种编程语言的 SDK。" urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Android 合并 Excel 文件" h2="Aspose.Cells Cloud SDK 支持将多个 Excel 文件合并为单个 Excel 文件。" p="Aspose.Cells Cloud REST API 支持使用 Android 将多个 Excel 文件合并为一个 Excel 文件，并为各种编程语言提供 SDK。" urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -33,7 +33,7 @@ description: Aspose.Cells Cloud REST API 支持使用 Android 将多个 Excel �
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="使用 Android 扩展链接合并 Excel 文件" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Android 扩展链接合并 Excel 个文件" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

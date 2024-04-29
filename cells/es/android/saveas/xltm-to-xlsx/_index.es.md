@@ -9,7 +9,7 @@ howto: How to save XLTM as XLSX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Guarde un archivo XLTM como XLSX en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLTM como XLSX es una tarea compleja. Todas las transiciones de formato XLTM a XLSX las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTM de origen. Nuestra biblioteca de Android es una solución profesional para guardar XLTM como archivos XLSX en línea. Este Cloud SDK ofrece a los desarrolladores de Android una funcionalidad potente y una salida XLSX perfecta.
+Guardar formatos de archivo de XLTM como XLSX es una tarea compleja. Todas las transiciones de formato XLTM a XLSX se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTM de origen. Nuestra biblioteca de Android es una solución profesional para guardar XLTM como archivos XLSX en línea. Este Cloud SDK ofrece a los desarrolladores de Android una funcionalidad potente y una salida XLSX perfecta.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

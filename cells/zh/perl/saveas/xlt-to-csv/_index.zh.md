@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Perl 将 XLT 保存为 CSV
-description: 利用Aspose.Cells Cloud SDK for Perl将XLT格式文件保存为CSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Perl 将 XLT 格式文件保存为 CSV 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLT 保存为 CSV" h2="Perl 用于将 XLT 保存为 CSV 的库" p="使用Cells云的SaveAs API在Perl中创建自定义电子表格工作流程。这是使用Perl在线将XLT保存为CSV和其他文档格式的专业解决方案。" urlsection="saveas/xlt-to-csv/" >}}

@@ -10,7 +10,7 @@ url: /sv/swift/clear/shapes/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är en komplex uppgift. Rensning av former på lokala Microsoft Excel och OpenOffice Calc kalkylbladsövergångar utförs av vår Swift SDK samtidigt som källkalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt API.
+Att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är en komplex uppgift. Rensning av former på lokala Microsoft Excel och OpenOffice Calc kalkylbladsövergångar utförs av vår Swift SDK samtidigt som källarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Swift-kod för att rensa former på lokala kalkylblad" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-Clear-Shape.swift" %}}

@@ -10,7 +10,7 @@ url: /sv/swift/export/shape-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera SHAPE-objekt till filformatet TIFF i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera SHAPE-objekt till TIFF-fil från kalkylblad är en komplex uppgift. Exportera SHAPE till TIFF formatövergångar utförs av vår Swift SDK samtidigt som källbladets SHAPE-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att exportera SHAPE-objekt till filer i TIFF-format online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt TIFF-utgång.
+Exportera SHAPE-objekt till TIFF-fil från kalkylblad är en komplex uppgift. Export av SHAPE till TIFF formatövergångar utförs av vår Swift SDK samtidigt som källarket SHAPEs huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att exportera SHAPE-objekt till filer i TIFF-format online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt TIFF-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att exportera SHAPE till TIFF-format från kalkylark" gistPath="" %}}

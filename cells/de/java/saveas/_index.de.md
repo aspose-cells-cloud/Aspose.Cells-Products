@@ -33,7 +33,7 @@ description:  Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-D
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Speichern Sie die Datei Excel in anderen Formaten mithilfe von Java-Erweiterungslinks" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Speichern Sie die Datei Excel in anderen Formaten mithilfe der Erweiterungslinks Java" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

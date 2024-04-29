@@ -3,7 +3,7 @@ title:  Cancella forme nella cartella di lavoro locale nel Cloud
 description: API cloud e SDK per cancellare forme su Microsoft Excel e OpenOffice Calc. Forme chiare sui fogli di calcolo locali tramite il Cloud Cells API. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Rimozione di forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="C# Cancella per cancellare forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare forme sui flussi di lavoro dei fogli di calcolo locali Microsoft Excel e OpenOffice Calc in C#. Questa soluzione professionale cancella le forme sui flussi di lavoro locali Microsoft Excel e sul foglio di calcolo OpenOffice Calc utilizzando C#." urlsection="clear/Shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Rimozione di forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="C# Cancella per cancellare forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare le forme sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in C#. Questa soluzione professionale cancella le forme sul foglio di calcolo locale Microsoft Excel e sul foglio di calcolo OpenOffice Calc utilizzando C#." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella forme sullo Microsoft locale Excel e sul foglio di calcolo OpenOffice Calc - C# REST API" >}}

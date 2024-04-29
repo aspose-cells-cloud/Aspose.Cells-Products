@@ -2,18 +2,19 @@
 title:  Konvertieren Sie ODS mit Perl in PNG
 description:  Verwendung des Aspose.Cells Cloud SDK für Perl zum Konvertieren einer Datei im ODS-Format in eine Datei im PNG-Format.
 kwords: Excel, Convert ODS to PNG, REST, Perl
-howto: How to convert ODS to PNG using Aspose.Cells Cloud Perl library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert ODS to PNG using the Cells Cloud Perl library.","description": "How to convert ODS to PNG using the Cells Cloud Perl library.","image": {"@type": "ImageObject"},"url": "/perl/conversion/ods-to-png/","step": [{ "@type": "HowToStep","name": "How to convert ODS to PNG using the Cells Cloud Perl library. step 1", "image": {"@type": "ImageObject",},"url": "/perl/conversion/ods-to-png/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert ODS to PNG using the Cells Cloud Perl library. step 1", "image": {"@type": "ImageObject",},"url": "/perl/conversion/ods-to-png/","text": "Install Perl package and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert ODS to PNG using the Cells Cloud Perl library. step 1", "image": {"@type": "ImageObject",},"url": "/perl/conversion/ods-to-png/","text": "Open the source file in Perl.",},{ "@type": "HowToStep","name": "How to convert ODS to PNG using the Cells Cloud Perl library. step 1", "image": {"@type": "ImageObject",},"url": "/perl/conversion/ods-to-png/","text": "Use the `put_convert_workbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "VIM, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie ODS in PNG" h2="Perl-Bibliothek zur Konvertierung von ODS in PNG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in PNG und andere Dokumentformate unter Verwendung von Perl." urlsection="conversion/ods-to-png/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie ODS in PNG mit dem Cloud SDK Cells für Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS in PNG kann eine komplexe Aufgabe sein. Unser Perl SDK übernimmt alle Konvertierungen von ODS in das PNG-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-ODS-Tabelle bei. Unsere Perl-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS- in PNG-Dateien. Dieses Cloud SDK bietet Perl-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PNG-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in PNG kann eine komplexe Aufgabe sein. Unser Perl SDK bewältigt alle Formatkonvertierungen von ODS in PNG und bewahrt dabei den strukturellen und logischen Hauptinhalt der ODS-Quelltabelle. Unsere Perl-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS- in PNG-Dateien. Dieses Cloud SDK bietet Perl-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PNG-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Codebeispiel für die Konvertierung von ODS in PNG mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Codebeispiel zur Konvertierung von ODS in PNG mithilfe des Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -42,9 +43,9 @@ Das Konvertieren von Dateiformaten von ODS in PNG kann eine komplexe Aufgabe sei
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie ODS mit der Cells Cloud Perl-Bibliothek in PNG konvertieren." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So konvertieren Sie ODS in PNG mithilfe der Cells Cloud Perl-Bibliothek." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Installieren Sie das Paket Perl und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Installieren Sie das Paket Perl und fügen Sie Ihrem Projekt die Referenz hinzu (importieren Sie die Bibliothek).</li>
 <li>Öffnen Sie die Quelldatei in Perl.</li>
 <li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

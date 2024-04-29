@@ -1,9 +1,9 @@
 ﻿---
 title: 使用 Ruby 将 XLSM 转换为 CSV
-description: 使用Aspose.Cells Cloud SDK for Ruby将XLSM格式文件转换为CSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Ruby 将 XLSM 格式文件转换为 CSV 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLSM 转换为 CSV" h2="用于将 XLSM 转换为 CSV 的 Ruby 库" p="使用 Cells Cloud 的 Conversion API 在 Ruby 项目中创建自定义电子表格工作流程。这是使用 Ruby 在线将 XLSM 转换为 CSV 和其他文档格式的专业解决方案。" urlsection="conversion/xlsm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLSM 转换为 CSV" h2="用于将 XLSM 转换为 CSV 的 Ruby 库" p="使用 Cells Cloud 的转换 API 在 Ruby 项目中创建自定义电子表格工作流。这是一个使用 Ruby 在线将 XLSM 转换为 CSV 和其他文档格式的专业解决方案。" urlsection="conversion/xlsm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Ruby 将 XLSM 转换为 CSV" >}}

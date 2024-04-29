@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie TSV als XLTX mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von TSV-Formatdateien als XLTX-Formatdateien.
+title:  TSV als XLTX mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im TSV-Format als Dateien im XLTX-Format zu speichern.
 kwords: Excel, Save TSV as XLTX, REST, Android
 howto: How to save TSV as XLTX using Aspose.Cells Cloud Android library.
 ---

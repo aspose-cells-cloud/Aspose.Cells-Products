@@ -1,6 +1,6 @@
 ﻿---
 title: 清除云中本地工作簿上的形状
-description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的形状的云 API 和 SDK。 Cells云API清晰本地电子表格上的形状。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的形状的云 API 和 SDK。通过 Cells Cloud API 清除本地电子表格上的形状。SDK 支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="删除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的形状" h2="转到“清除”以清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的形状" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Go 中的 OpenOffice Calc 电子表格工作流程上的形状。这个专业的解决方案使用 Go 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的形状。" urlsection="clear/Shapes/" >}}

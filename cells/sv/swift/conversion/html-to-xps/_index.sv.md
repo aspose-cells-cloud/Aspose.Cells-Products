@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till XPS Konvertera API för Swift
-description:  Använda Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till XPS filformat.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till XPS filformat.
 url: /sv/swift/conversion/html-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

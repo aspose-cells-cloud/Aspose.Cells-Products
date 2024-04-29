@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLTM als SQL API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLTM-Formatdateien als SQL-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im XLTM-Format als Datei im SQL-Format zu speichern.
 url: /de/swift/saveas/xltm-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

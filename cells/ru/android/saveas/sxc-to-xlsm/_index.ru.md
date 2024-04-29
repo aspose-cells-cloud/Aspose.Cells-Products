@@ -6,7 +6,7 @@ howto: How to save SXC as XLSM using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Сохранить SXC как XLSM" h2="Библиотека Android для сохранения SXC как XLSM" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения SXC как XLSM и других форматов документов онлайн с помощью Android." urlsection="saveas/sxc-to-xlsm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Сохраните файл SXC как XLSM на Android." >}}
+{{< blocks/products/cells/cells-cloud-section title="Сохраните файл SXC как XLSM в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из SXC в формате XLSM — сложная задача. Все переходы формата SXC в XLSM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Android — это профессиональное решение для сохранения файлов SXC в формате XLSM онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLSM.

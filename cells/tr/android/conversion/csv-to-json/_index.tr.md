@@ -1,6 +1,6 @@
 ﻿---
 title:  Android kullanarak CSV'yi JSON'a dönüştürün
-description:  CSV formatındaki bir dosyayı JSON formatındaki bir dosyaya dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
+description:  CSV formatındaki bir dosyayı JSON formatındaki dosyaya dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 kwords: Excel, Convert CSV to JSON, REST, Android
 howto: How to convert CSV to JSON using Aspose.Cells Cloud Android library.
 ---
@@ -47,7 +47,7 @@ Dosya formatlarını CSV'den JSON'a dönüştürmek karmaşık bir iş olabilir.
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

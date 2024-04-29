@@ -1,6 +1,6 @@
 ﻿---
-title: 在 Aspose Cells 云环境中使用 PHP 从本地工作簿中删除重复行。
-description: 用于使用 PHP 清除 Microsoft Excel 和 OpenOffice Calc 中的重复行的云 API 和 SDK。使用适用于 PHP 的 Cells 云 SDK 清除本地电子表格中的重复行。
+title: 使用 Aspose Cells 云环境中的 PHP 从本地工作簿中删除重复的行。
+description: 用于使用 PHP 清除 Microsoft Excel 和 OpenOffice Calc 中的重复行的云 API 和 SDK。使用 PHP 的 Cells 云 SDK 清除本地电子表格中的重复行。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="删除本地 Microsoft Excel 和 OpenOffice Calc 电子表格中的重复行。" h2="PHP 用于从本地 Microsoft Excel 和 OpenOffice Calc 电子表格中删除重复行的库。" p="利用 Cells Clear REST API 从本地 Microsoft Excel 和 PHP 工作流程中的 OpenOffice Calc 电子表格中删除重复行。这个专业的解决方案使用 PHP 有效地清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格中的重复行。" urlsection="clear/Duplicate-rows/" >}}

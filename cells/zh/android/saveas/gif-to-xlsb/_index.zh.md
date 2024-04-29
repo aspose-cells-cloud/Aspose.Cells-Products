@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 GIF 保存为 XLSB
-description: 利用Aspose.Cells Cloud SDK for Android将GIF格式文件保存为XLSB格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 GIF 格式文件保存为 XLSB 格式文件。
 kwords: Excel, Save GIF as XLSB, REST, Android
 howto: How to save GIF as XLSB using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 GIF 保存为 XLSB" h2="用于将 GIF 保存为 XLSB 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 GIF 保存为 XLSB 和其他文档格式的专业解决方案。" urlsection="saveas/gif-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 GIF 另存为 XLSB" h2="用于将 GIF 保存为 XLSB 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 GIF 保存为 XLSB 和其他文档格式的专业解决方案。" urlsection="saveas/gif-to-xlsb/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 GIF 文件另存为 XLSB" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

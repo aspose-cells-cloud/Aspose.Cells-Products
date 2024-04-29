@@ -4,13 +4,13 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei 
 url: /de/swift/saveas/html-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um HTML als XLT zu speichern" h2="Swift-Bibliothek zum Speichern von HTML als XLT" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um HTML als XLT und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/html-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um HTML als XLT zu speichern" h2="Swift-Bibliothek zum Speichern von HTML als XLT" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um HTML online mit Swift als XLT und andere Dokumentformate zu speichern." urlsection="saveas/html-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine HTML-Datei als XLT in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten ab HTML als XLT ist eine komplexe Aufgabe. Alle Übergänge vom Format HTML zum XLT-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Speichern von HTML als XLT-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLT-Ausgabe.
+Das Speichern von Dateiformaten von HTML als XLT ist eine komplexe Aufgabe. Alle Formatübergänge von HTML ins XLT-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um HTML online als XLT-Dateien zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte XLT-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von HTML im XLT-Format" gistPath="" %}}

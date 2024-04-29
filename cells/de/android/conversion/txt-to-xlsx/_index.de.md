@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie TXT mit Android in XLSX
+title:  Konvertieren Sie TXT in XLSX mit Android
 description: Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im TXT-Format in eine Datei im XLSX-Format.
 kwords: Excel, Convert TXT to XLSX, REST, Android
 howto: How to convert TXT to XLSX using Aspose.Cells Cloud Android library.

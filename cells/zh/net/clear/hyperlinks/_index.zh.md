@@ -1,5 +1,5 @@
 ﻿---
-title: 清除云端本地工作簿上的超链接
+title: 清除云中本地工作簿的超链接
 description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的超链接的云 API 和 SDK。通过Cells云API清除本地电子表格上的超链接。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

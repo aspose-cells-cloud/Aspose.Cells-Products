@@ -6,7 +6,7 @@ description: Облачные API и SDK для защиты Microsoft Excel и 
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы защитить облако Microsoft Excel и электронную таблицу OpenOffice Calc с помощью пароля." h2="Библиотека Go для защиты облака Microsoft Excel и таблица OpenOffice Calc с паролем" p="Используйте Cells Protect REST API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Go. Это профессиональное решение защищает облако Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с помощью паролей с использованием Go." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защитите облако Microsoft Excel и электронную таблицу OpenOffice Calc с помощью пароля — Go REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защитить облако Microsoft Excel и электронную таблицу OpenOffice Calc паролем — Go REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
 Защита облачной таблицы паролем — сложная задача. Защита облачной электронной таблицы с помощью смены паролей выполняется нашим Go SDK при сохранении основного структурного и логического содержимого исходной таблицы. Наша библиотека Go — это профессиональное решение для защиты облачных таблиц паролем в Интернете. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный код API.

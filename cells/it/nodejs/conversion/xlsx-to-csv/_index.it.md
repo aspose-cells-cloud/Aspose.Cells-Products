@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti XLSX in CSV utilizzando NodeJS
-description: Utilizzando Aspose.Cells Cloud SDK per NodeJS per convertire un file in formato XLSX in un file in formato CSV.
+description:  Utilizzando Aspose.Cells Cloud SDK per NodeJS per convertire un file in formato XLSX in un file in formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Converti XLSX in CSV" h2="Libreria NodeJS per convertire XLSX in CSV" p="Utilizza la conversione API di Cells Cloud per creare flussi di lavoro personalizzati per fogli di calcolo nei progetti NodeJS. Questa è una soluzione professionale per convertire XLSX in CSV e altri formati di documenti online utilizzando NodeJS." urlsection="conversion/xlsx-to-csv/" >}}

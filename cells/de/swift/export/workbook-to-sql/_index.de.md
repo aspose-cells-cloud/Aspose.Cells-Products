@@ -1,19 +1,19 @@
 ﻿---
-title: Exportieren Sie WORKBOOK aus einer Tabellenkalkulation nach SQL mit Swift API
+title: Exportieren Sie WORKBOOK mit Swift API aus einer Tabelle nach SQL
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/workbook-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von WORKBOOK in eine SQL-Datei" h2="Swift-Bibliothek zum Exportieren von WORKBOOK in eine SQL-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine SQL-Formatdatei aus einer Tabellenkalkulation online mit Swift." urlsection="export/workbook-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von WORKBOOK in eine SQL-Datei" h2="Swift-Bibliothek zum Exportieren von WORKBOOK in eine SQL-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Swift zu exportieren. Dies ist eine professionelle Lösung, um WORKBOOK online mit Swift aus Tabellenkalkulationen in eine SQL-Formatdatei zu exportieren." urlsection="export/workbook-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine SQL-Formatdatei in Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im SQL-Format in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine SQL-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKBOOK in das SQL-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im SQL-Format. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
+Das Exportieren von WORKBOOK-Objekten aus einer Tabellenkalkulation in eine SQL-Datei ist eine komplexe Aufgabe. Die Formatübergänge von WORKBOOK in SQL werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle WORKBOOK erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Exportieren von WORKBOOK-Objekten in SQL-Formatdateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte SQL-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von WORKBOOK aus einer Tabellenkalkulation in das SQL-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von WORKBOOK aus einer Tabelle in das SQL-Format" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

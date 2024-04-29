@@ -1,5 +1,5 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT von Excel nach MD mit dem Cloud SDK Cells für Android
+title:  Exportieren Sie LISTOBJECT von Excel nach MD mit Cells Cloud SDK für Android
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

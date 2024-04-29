@@ -4,12 +4,12 @@ description: 利用Aspose.Cells Cloud SDK for Android将XLS格式文件保存为
 kwords: Excel, Save XLS as XLSB, REST, Android
 howto: How to save XLS as XLSB using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 XLS 保存为 XLSB" h2="用于将 XLS 保存为 XLSB 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLS 保存为 XLSB 和其他文档格式的专业解决方案。" urlsection="saveas/xls-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 XLS 保存为 XLSB" h2="用于将 XLS 保存为 XLSB 的 Android 库" p="使用 Cells Cloud 中的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLS 保存为 XLSB 和其他文档格式的专业解决方案。" urlsection="saveas/xls-to-xlsb/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="在 Android 中将 XLS 文件另存为 XLSB" >}}
+{{< blocks/products/cells/cells-cloud-section title="在 Android 中将 XLS 文件保存为 XLSB" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 XLS 文件格式保存为 XLSB 是一项复杂的任务。所有 XLS 到 XLSB 格式的转换均由我们的 Android SDK 执行，同时保留源 XLS 电子表格的主要结构和逻辑内容。我们的 Android 库是在线将 XLS 保存为 XLSB 文件的专业解决方案。该Cloud SDK为Android开发人员提供了强大的功能和完美的XLSB输出。
+将 XLS 中的文件格式保存为 XLSB 是一项复杂的任务。所有 XLS 到 XLSB 格式的转换均由我们的 Android SDK 执行，同时保留源 XLS 电子表格的主要结构和逻辑内容。我们的 Android 库是将 XLS 在线保存为 XLSB 文件的专业解决方案。此云 SDK 为 Android 开发人员提供了强大的功能和完美的 XLSB 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

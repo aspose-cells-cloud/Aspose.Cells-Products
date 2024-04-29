@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xlsm-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как SVG в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение формата файла XLSM как SVG — сложная задача. Все переходы формата XLSM в SVG выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSM в формате SVG онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SVG.
+Сохранение формата файла XLSM как SVG — сложная задача. Все переходы формата XLSM в SVG выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSM в виде SVG онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLSM в формате SVG" gistPath="" %}}

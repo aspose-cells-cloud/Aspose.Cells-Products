@@ -9,7 +9,7 @@ howto: How to convert CSV to DIF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Converti CSV in DIF utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da CSV a DIF può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato CSV a DIF preservando il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Android fornisce una soluzione professionale per convertire file CSV in DIF online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output DIF di alta qualità.
+La conversione dei formati di file da CSV a DIF può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni del formato CSV in DIF preservando il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Android fornisce una soluzione professionale per convertire file CSV in DIF online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output DIF di alta qualità.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

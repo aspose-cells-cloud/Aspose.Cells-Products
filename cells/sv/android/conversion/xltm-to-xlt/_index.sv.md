@@ -9,7 +9,7 @@ howto: How to convert XLTM to XLT using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertera XLTM till XLT med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTM till XLT kan vara en komplex uppgift. Vår Android SDK hanterar alla XLTM till XLT-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket XLTM bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera XLTM till XLT-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativ XLT-utdata.
+Att konvertera filformat från XLTM till XLT kan vara en komplex uppgift. Vår Android SDK hanterar alla XLTM- till XLT-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket XLTM bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera XLTM till XLT-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativ XLT-utdata.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

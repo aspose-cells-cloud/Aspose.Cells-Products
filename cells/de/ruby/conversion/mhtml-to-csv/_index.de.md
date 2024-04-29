@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie MHTML mit Ruby in CSV
-description: Verwendung des Cloud SDK Aspose.Cells für Ruby zum Konvertieren einer MHTML-Formatdatei in eine CSV-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für Ruby zum Konvertieren einer MHTML-Formatdatei in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie MHTML in CSV" h2="Ruby-Bibliothek zum Konvertieren von MHTML in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in CSV und andere Dokumentformate mit Ruby." urlsection="conversion/mhtml-to-csv/" >}}

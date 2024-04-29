@@ -1,16 +1,16 @@
 ﻿---
 title:  XML in WMF konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XML-Formatdatei in eine WMF-Formatdatei.
+description: Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im XML-Format in eine Datei im WMF-Format zu konvertieren.
 url: /de/swift/conversion/xml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XML in WMF" h2="Swift-Bibliothek zum Konvertieren von XML in WMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in WMF und andere Dokumentformate mit Swift." urlsection="conversion/xml-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XML in WMF" h2="Swift-Bibliothek zum Konvertieren von XML in WMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XML online mit Swift in WMF und andere Dokumentformate zu konvertieren." urlsection="conversion/xml-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XML-Datei in Swift in WMF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XML nach WMF ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum WMF-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML- in WMF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Konvertieren von Dateiformaten von XML in WMF ist eine komplexe Aufgabe. Alle Formatübergänge von XML in WMF werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML- in WMF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte WMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XML in das WMF-Format" gistPath="" %}}

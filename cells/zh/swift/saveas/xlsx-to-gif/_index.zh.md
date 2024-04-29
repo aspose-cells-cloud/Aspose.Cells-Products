@@ -1,6 +1,6 @@
 ﻿---
-title: 将 XLSX 保存为 GIF API 以用于 Swift
-description: 使用Aspose.Cells Cloud SDK for Swift将XLSX格式文件保存为GIF格式文件。
+title: 将 XLSX 另存为适用于 Swift 的 GIF API
+description: 使用 Aspose.Cells Cloud SDK for Swift 将 XLSX 格式文件保存为 GIF 格式文件。
 url: /zh/swift/saveas/xlsx-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -56,7 +56,7 @@ url: /zh/swift/saveas/xlsx-to-gif/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Swift API 将 XLSX 保存为 GIF" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 cellsSaveAsPostDocumentSaveAs 方法来获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

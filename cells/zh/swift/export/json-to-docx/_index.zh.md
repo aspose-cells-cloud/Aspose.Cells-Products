@@ -20,7 +20,7 @@ url: /zh/swift/export/json-to-docx/
 另请查看基于 Swagger 的[API 参考]()了解更多关于[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="用于 JSON 到 DOCX 转换的 Swift 代码" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="JSON 到 DOCX 转换的 Swift 代码" gistPath="" %}}
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
     import AsposeCellsCloud

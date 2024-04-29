@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كملف CSV باستخدام C#
-description: استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق SXC كملف بتنسيق CSV.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق SXC كملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="احفظ SXC كملف CSV" h2="مكتبة C# لحفظ SXC بصيغة CSV" p="استخدم SaveAs API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في Net. يعد هذا حلاً احترافيًا لحفظ SXC كملف CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام C#." urlsection="saveas/sxc-to-csv/" >}}
@@ -34,7 +34,7 @@ description: استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بت�
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>NET Framework 4.5.2 أو أحدث</li>
+<li>NET Framework 4.5.2 أو الأحدث</li>
 <li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

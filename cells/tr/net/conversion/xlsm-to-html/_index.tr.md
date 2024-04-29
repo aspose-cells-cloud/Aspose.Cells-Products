@@ -2,14 +2,15 @@
 title:  C#'i kullanarak XLSM'yi HTML'e dönüştürün
 description:  XLSM biçimindeki bir dosyayı HTML biçimindeki bir dosyaya dönüştürmek için C# için Aspose.Cells Bulut SDK'sını kullanma.
 kwords: Excel, Convert XLSM to HTML, REST, C#
-howto: How to convert XLSM to HTML using Aspose.Cells Cloud C# library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert XLSM to HTML using the Cells Cloud Net library.","description": "How to convert XLSM to HTML using the Cells Cloud Net library.","image": {"@type": "ImageObject"},"url": "/net/conversion/xlsm-to-html/","step": [{ "@type": "HowToStep","name": "How to convert XLSM to HTML using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/conversion/xlsm-to-html/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert XLSM to HTML using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/conversion/xlsm-to-html/","text": "Install C# library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert XLSM to HTML using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/conversion/xlsm-to-html/","text": "Open the source file in C#",},{ "@type": "HowToStep","name": "How to convert XLSM to HTML using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/conversion/xlsm-to-html/","text": "Use the `PutConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Visual Studio, Visual Studio Code, Rider "},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="XLSM\'yi HTML\'e dönüştür" h2="XLSM\'yi HTML\'e dönüştürmek için C# kütüphanesi" p="Net projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, C#\'i kullanarak XLSM\'yi HTML\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlsm-to-html/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="C# için Cells Cloud SDK\'yı kullanarak XLSM\'yi HTML\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSM'den HTML'e dönüştürmek karmaşık bir iş olabilir. C# SDK'mız, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLSM'den HTML formatına dönüşümleri gerçekleştirir. C# kitaplığımız, XLSM'yi çevrimiçi olarak HTML dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, C# geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli HTML çıkışı sağlar.
+Dosya formatlarını XLSM'den HTML'e dönüştürmek karmaşık bir iş olabilir. C# SDK'mız, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLSM'den HTML formatına dönüşümleri gerçekleştirir. C# kitaplığımız, XLSM'yi çevrimiçi olarak HTML dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, C# geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli HTML çıktısı sağlar.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -35,8 +36,8 @@ Dosya formatlarını XLSM'den HTML'e dönüştürmek karmaşık bir iş olabilir
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Net kitaplığını kullanarak XLSM\'yi HTML\'e nasıl dönüştüreceğinizi öğrenin." >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Net kitaplığını kullanarak XLSM\'yi HTML\'e dönüştürme." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>C# kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
 <li>Kaynak dosyayı C#'de açın</li>
 <li>Ortaya çıkan akışı almak için `PutConvertWorkbook` yöntemini kullanın.</li>

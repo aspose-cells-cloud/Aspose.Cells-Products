@@ -9,7 +9,7 @@ howto: How to save MHTML as JPG using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en MHTML-fil som JPG i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från MHTML som JPG är en komplex uppgift. Alla övergångar av MHTML till JPG-format utförs av vår Android SDK samtidigt som käll-MHTML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara MHTML som JPG-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
+Att spara filformat från MHTML som JPG är en komplex uppgift. Alla MHTML- till JPG-formatövergångar utförs av vår Android-SDK samtidigt som Käll-MHTML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara MHTML som JPG-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

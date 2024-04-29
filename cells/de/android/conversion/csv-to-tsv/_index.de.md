@@ -9,7 +9,7 @@ howto: How to convert CSV to TSV using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie CSV in TSV mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von CSV in TSV kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle CSV-in-TSV-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-CSV-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von CSV- in TSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TSV-Ausgabe.
+Das Konvertieren von Dateiformaten von CSV in TSV kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle CSV-in-TSV-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-CSV-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von CSV- in TSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TSV-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

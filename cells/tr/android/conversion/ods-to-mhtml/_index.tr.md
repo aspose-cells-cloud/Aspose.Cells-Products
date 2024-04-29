@@ -4,7 +4,7 @@ description: ODS formatındaki bir dosyayı MHTML formatındaki dosyaya dönüş
 kwords: Excel, Convert ODS to MHTML, REST, Android
 howto: How to convert ODS to MHTML using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="ODS\'yi MHTML\'ye dönüştür" h2="ODS\'yi MHTML\'ye dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android\'i kullanarak ODS\'yi çevrimiçi olarak MHTML\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/ods-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="ODS\'yi MHTML\'ye dönüştür" h2="ODS\'yi MHTML\'ye dönüştürmek için Android kütüphanesi" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android\'i kullanarak ODS\'yi çevrimiçi olarak MHTML\'ye ve diğer belge formatlarına dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/ods-to-mhtml/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Android için Cells Cloud SDK\'yı kullanarak ODS\'yi MHTML\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
@@ -13,7 +13,7 @@ Dosya formatlarını ODS'den MHTML'ye dönüştürmek karmaşık bir iş olabili
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Cells Bulut SDK\'yı kullanarak ODS\'yi MHTML\'ye dönüştürmek için Android Kod Örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Cells Cloud SDK kullanarak ODS\'yi MHTML\'ye dönüştürmek için Android Kod Örneği" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -47,7 +47,7 @@ Dosya formatlarını ODS'den MHTML'ye dönüştürmek karmaşık bir iş olabili
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

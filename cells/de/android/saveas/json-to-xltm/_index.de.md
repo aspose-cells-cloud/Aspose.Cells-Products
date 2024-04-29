@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie JSON als XLTM mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von JSON-Formatdateien als XLTM-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im JSON-Format als Dateien im XLTM-Format zu speichern.
 kwords: Excel, Save JSON as XLTM, REST, Android
 howto: How to save JSON as XLTM using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie JSON als XLTM" h2="Android-Bibliothek zum Speichern von JSON als XLTM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von JSON als XLTM und anderen Dokumentformaten mit Android." urlsection="saveas/json-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="JSON als XLTM speichern" h2="Android-Bibliothek zum Speichern von JSON als XLTM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von JSON als XLTM und anderen Dokumentformaten mit Android." urlsection="saveas/json-to-xltm/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine JSON-Datei als XLTM in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

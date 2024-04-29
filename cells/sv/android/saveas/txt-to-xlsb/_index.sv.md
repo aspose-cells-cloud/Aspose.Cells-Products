@@ -9,7 +9,7 @@ howto: How to save TXT as XLSB using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en TXT-fil som XLSB i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från TXT som XLSB är en komplex uppgift. Alla TXT- till XLSB-formatövergångar utförs av vår Android-SDK samtidigt som källkodens TXT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara TXT som XLSB-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
+Att spara filformat från TXT som XLSB är en komplex uppgift. Alla TXT- till XLSB-formatövergångar utförs av vår Android-SDK samtidigt som käll-TXT-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara TXT som XLSB-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

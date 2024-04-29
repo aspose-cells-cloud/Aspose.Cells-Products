@@ -1,16 +1,16 @@
 ﻿---
 title: XLS zu CSV Konvertieren API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von XLS-Formatdateien in CSV-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im XLS-Format in Dateien im CSV-Format zu konvertieren.
 url: /de/swift/conversion/xls-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XLS in CSV" h2="Swift-Bibliothek zum Konvertieren von XLS in CSV" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLS in CSV und andere Dokumentformate mit Swift." urlsection="conversion/xls-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XLS in CSV" h2="Swift-Bibliothek zum Konvertieren von XLS in CSV" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLS online mit Swift in CSV und andere Dokumentformate zu konvertieren." urlsection="conversion/xls-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLS-Datei in Swift in CSV" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLS in CSV ist eine komplexe Aufgabe. Alle XLS-zu-CSV-Formatübergänge werden von unserem Swift SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLS-Quelltabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLS- in CSV-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
+Das Konvertieren von Dateiformaten von XLS in CSV ist eine komplexe Aufgabe. Alle Formatübergänge von XLS in CSV werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XLS-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLS- in CSV-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLS in das CSV-Format" gistPath="" %}}

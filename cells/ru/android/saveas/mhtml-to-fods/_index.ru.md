@@ -9,7 +9,7 @@ howto: How to save MHTML as FODS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните файл MHTML как FODS в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в качестве FODS — сложная задача. Все переходы формата MHTML в FODS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения MHTML в виде файлов FODS онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и отличный результат FODS.
+Сохранение форматов файлов из MHTML в качестве FODS — сложная задача. Все переходы формата MHTML в FODS выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения MHTML в виде файлов FODS онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и отличный результат FODS.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -10,7 +10,7 @@ url: /es/swift/export/worksheet-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto WORKSHEET a archivo de formato SQL en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto WORKSHEET a un archivo SQL desde una hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza las transiciones de formato WORKSHEET a SQL mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo WORKSHEET de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos WORKSHEET a archivos en formato SQL en línea. Este SDK de Cloud ofrece a los desarrolladores de Swift una funcionalidad potente y una salida SQL perfecta.
+Exportar un objeto WORKSHEET a un archivo SQL desde una hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de HOJA DE TRABAJO a formato SQL mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de HOJA DE TRABAJO de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos WORKSHEET a archivos en formato SQL en línea. Este SDK de Cloud ofrece a los desarrolladores de Swift una funcionalidad potente y una salida SQL perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar WORKSHEET a formato SQL desde una hoja de cálculo" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convierta PNG a TXT usando Android
-description:  Utilizar el Aspose.Cells Cloud SDK para Android para convertir un archivo de formato PNG a un archivo de formato TXT.
+description:  Utilizar el SDK de Cloud Aspose.Cells para Android para convertir un archivo de formato PNG a un archivo de formato TXT.
 kwords: Excel, Convert PNG to TXT, REST, Android
 howto: How to convert PNG to TXT using Aspose.Cells Cloud Android library.
 ---

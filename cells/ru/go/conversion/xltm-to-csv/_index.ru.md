@@ -1,5 +1,5 @@
 ﻿---
-title:  Преобразование XLTM в CSV с помощью Go
+title: Преобразование XLTM в CSV с помощью Go
 description:  Использование Cloud SDK для Go Aspose.Cells для преобразования файла формата XLTM в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

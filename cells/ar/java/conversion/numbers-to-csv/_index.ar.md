@@ -9,7 +9,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل الأرقام إلى CSV باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-قد يكون تحويل تنسيقات الملفات من NUMBERS إلى CSV مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل NUMBERS إلى ملفات CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من الحصول على وظائف قوية ويضمن إخراج CSV عالي الجودة.
+قد يكون تحويل تنسيقات الملفات من NUMBERS إلى CSV مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق NUMBERS إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل NUMBERS إلى ملفات CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من خلال وظائف قوية ويضمن إخراج CSV عالي الجودة.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لتحويل NUMBERS إلى CSV باستخدام Cells Cloud SDK" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XLTM mit NodeJS in CSV
-description: Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Konvertieren einer XLTM-Formatdatei in eine CSV-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Konvertieren einer XLTM-Formatdatei in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLTM in CSV" h2="NodeJS-Bibliothek zum Konvertieren von XLTM in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTM in CSV und andere Dokumentformate mit NodeJS." urlsection="conversion/xltm-to-csv/" >}}
@@ -42,7 +42,7 @@ Das Konvertieren von Dateiformaten von XLTM in CSV kann eine komplexe Aufgabe se
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Knoten v6.17.1 oder neuer</li>
+<li>Node v6.17.1 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -9,7 +9,7 @@ howto: How to save SXC as PPTX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en SXC-fil som PPTX i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från SXC som PPTX är en komplex uppgift. Alla SXC- till PPTX-formatövergångar utförs av vår Android SDK samtidigt som käll-SXC-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara SXC som PPTX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt PPTX-utgång.
+Att spara filformat från SXC som PPTX är en komplex uppgift. Alla SXC- till PPTX-formatövergångar utförs av vår Android SDK samtidigt som käll-SXC-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara SXC som PPTX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt PPTX-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

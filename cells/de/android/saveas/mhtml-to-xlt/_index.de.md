@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save MHTML as XLT, REST, Android
 howto: How to save MHTML as XLT using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie MHTML als XLT" h2="Android-Bibliothek zum Speichern von MHTML als XLT" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von MHTML als XLT und anderen Dokumentformaten mit Android." urlsection="saveas/mhtml-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie MHTML als XLT" h2="Android-Bibliothek zum Speichern von MHTML als XLT" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um MHTML als XLT und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/mhtml-to-xlt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine MHTML-Datei als XLT in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von MHTML als XLT ist eine komplexe Aufgabe. Alle Übergänge vom MHTML- zum XLT-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um MHTML als XLT-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XLT-Ausgabe.
+Das Speichern von Dateiformaten von MHTML als XLT ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML in XLT werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von MHTML als XLT-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte XLT-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

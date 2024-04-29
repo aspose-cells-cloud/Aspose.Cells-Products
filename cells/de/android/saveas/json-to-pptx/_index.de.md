@@ -9,7 +9,7 @@ howto: How to save JSON as PPTX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine JSON-Datei als PPTX in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von JSON als PPTX ist eine komplexe Aufgabe. Alle Übergänge vom JSON- zum PPTX-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-JSON-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von JSON als PPTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte PPTX-Ausgabe.
+Das Speichern von Dateiformaten von JSON als PPTX ist eine komplexe Aufgabe. Alle JSON-zu-PPTX-Formatübergänge werden von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-JSON-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von JSON als PPTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte PPTX-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

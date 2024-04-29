@@ -1,19 +1,20 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT nach TXT von Excel mit Cells Cloud SDK for Go
+title:  Exportieren Sie LISTOBJECT von Excel nach TXT mit Cells Cloud SDK für Go
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-kwords:
-howto:
+kwords: Excel, listobject, txt, Go
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to TXT","description": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to TXT","image": {"@type": "ImageObject"},"url": "/go/export/listobject-to-txt/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to TXT step 1", "image": {"@type": "ImageObject",},"url": "/go/export/listobject-to-txt/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to TXT step 1", "image": {"@type": "ImageObject",},"url": "/go/export/listobject-to-txt/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to TXT step 1", "image": {"@type": "ImageObject",},"url": "/go/export/listobject-to-txt/","text": "Use the `postExport` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Goland, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie LISTOBJECT von Excel nach TXT" h2="Go-Bibliothek zum Exportieren von LISTOBJECT in eine TXT-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Go zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine TXT-Formatdatei aus einer Tabellenkalkulation online mit Go." urlsection="export/listobject-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie LISTOBJECT von Excel nach TXT" h2="Go-Bibliothek zum Exportieren von LISTOBJECT in eine TXT-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objekt-Workflows der Datei Excel in Go zu exportieren. Dies ist eine professionelle Lösung, um LISTOBJECT online mit Go aus einer Tabellenkalkulation in eine Datei im TXT-Format zu exportieren." urlsection="export/listobject-to-txt/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das LISTOBJECT-Objekt mit Cells Cloud SDK for Go in eine Datei im TXT-Format" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das LISTOBJECT-Objekt in eine Datei im TXT-Format mit Cells Cloud SDK für Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines LISTOBJECT-Objekts aus der Datei Excel in eine TXT-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das TXT-Format wird von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im TXT-Format. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
+Das Exportieren von LISTOBJECT-Objekten in eine TXT-Datei aus der Datei Excel ist eine komplexe Aufgabe. Die Formatübergänge von LISTOBJECT ins TXT-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle LISTOBJECT erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Exportieren von LISTOBJECT-Objekten in TXT-Formatdateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte TXT-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Go mit REST API zum Exportieren von LISTOBJECT in das TXT-Format aus einer Tabellenkalkulation" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Go mit REST API zum Exportieren von LISTOBJECT aus einer Tabelle in das TXT-Format" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -62,5 +63,5 @@ Das Exportieren eines LISTOBJECT-Objekts aus der Datei Excel in eine TXT-Datei i
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

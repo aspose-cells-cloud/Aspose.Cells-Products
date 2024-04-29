@@ -10,7 +10,7 @@ url: /de/swift/export/shape-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in eine Datei im Format PNG in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in die Datei PNG ist eine komplexe Aufgabe. Der Export von SHAPE-Formatübergängen in das PNG-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in Dateien im Format PNG. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte PNG-Ausgabe.
+Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in die Datei PNG ist eine komplexe Aufgabe. Der Export von SHAPE-Formatübergängen in das PNG-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SHAPE-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in Dateien im Format PNG. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte PNG-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von SHAPE in das Format PNG aus der Tabellenkalkulation" gistPath="" %}}

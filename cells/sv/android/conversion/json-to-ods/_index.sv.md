@@ -9,7 +9,7 @@ howto: How to convert JSON to ODS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertera JSON till ODS med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från JSON till ODS kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar av JSON till ODS-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket JSON bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera JSON till ODS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer ODS-utdata av hög kvalitet.
+Att konvertera filformat från JSON till ODS kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar av JSON till ODS-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för JSON bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera JSON till ODS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer ODS-utdata av hög kvalitet.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

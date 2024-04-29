@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie NUMBERS als SQL API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern der Datei im NUMBERS-Format als SQL-Formatdatei.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im NUMBERS-Format als Dateien im SQL-Format zu speichern.
 url: /de/swift/saveas/numbers-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um NUMBERS als SQL zu speichern" h2="Swift-Bibliothek zum Speichern von ZAHLEN als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als SQL und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von ZAHLEN als SQL" h2="Swift-Bibliothek zum Speichern von ZAHLEN als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als SQL und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als SQL in Swift" >}}

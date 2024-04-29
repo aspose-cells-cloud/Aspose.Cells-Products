@@ -10,7 +10,7 @@ url: /ru/swift/saveas/csv-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как XLSX в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в формате XLSX — сложная задача. Все переходы формата CSV в XLSX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека Swift — это профессиональное решение для сохранения файлов CSV в формате XLSX онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате XLSX.
+Сохранение форматов файлов из CSV в формате XLSX — сложная задача. Все переходы формата CSV в XLSX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Swift — это профессиональное решение для сохранения файлов CSV в формате XLSX онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения CSV в формате XLSX" gistPath="" %}}

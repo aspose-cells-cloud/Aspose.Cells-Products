@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xlsm-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как HTML в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение формата файла XLSM как HTML — сложная задача. Все переходы формата XLSM в HTML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSM в формате HTML онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
+Сохранение формата файла XLSM как HTML — сложная задача. Все переходы формата XLSM в HTML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSM в виде HTML онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLSM в формате HTML" gistPath="" %}}

@@ -1,9 +1,9 @@
 ﻿---
 title:  دمج ملفات Excel باستخدام Go
-description:  Aspose.Cells Cloud REST API يدعم دمج ملفات Excel المتعددة في ملف Excel واحد باستخدام Go، ويقدم SDKs لمختلف لغات البرمجة.
+description:  Aspose.Cells Cloud REST API يدعم دمج ملفات Excel المتعددة في ملف Excel واحد باستخدام Go، ويقدم مجموعات SDK لمختلف لغات البرمجة.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="دمج ملفات Excel باستخدام Go" h2="يدعم Aspose.Cells Cloud SDK دمج ملفات Excel المتعددة في ملف Excel واحد." p="Aspose.Cells Cloud REST API يدعم دمج ملفات Excel المتعددة في ملف Excel واحد باستخدام Go، ويقدم SDKs لمختلف لغات البرمجة." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="دمج ملفات Excel باستخدام Go" h2="يدعم Aspose.Cells Cloud SDK دمج ملفات Excel المتعددة في ملف Excel واحد." p="Aspose.Cells Cloud REST API يدعم دمج ملفات Excel المتعددة في ملف Excel واحد باستخدام Go، ويقدم مجموعات SDK لمختلف لغات البرمجة." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

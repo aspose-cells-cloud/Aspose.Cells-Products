@@ -1,6 +1,6 @@
 ﻿---
-title:  Konvertieren Sie XML mit Android in DIF
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer XML-Formatdatei in eine DIF-Formatdatei.
+title:  Konvertieren Sie XML in DIF mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XML-Format in eine Datei im DIF-Format zu konvertieren.
 kwords: Excel, Convert XML to DIF, REST, Android
 howto: How to convert XML to DIF using Aspose.Cells Cloud Android library.
 ---

@@ -4,12 +4,12 @@ description:  Använder Aspose.Cells Cloud SDK för Android för att spara MHTML
 kwords: Excel, Save MHTML as XLS, REST, Android
 howto: How to save MHTML as XLS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Spara MHTML som XLS" h2="Android-bibliotek för att spara MHTML som XLS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att spara MHTML som XLS och andra dokumentformat online med Android." urlsection="saveas/mhtml-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara MHTML som XLS" h2="Android-bibliotek för att spara MHTML som XLS" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara MHTML som XLS och andra dokumentformat online med Android." urlsection="saveas/mhtml-to-xls/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Spara en MHTML-fil som XLS i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från MHTML som XLS är en komplex uppgift. Alla MHTML- till XLS-formatövergångar utförs av vår Android SDK samtidigt som käll-MHTML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara MHTML som XLS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLS-utgång.
+Att spara filformat från MHTML som XLS är en komplex uppgift. Alla MHTML till XLS-formatövergångar utförs av vår Android SDK samtidigt som käll-MHTML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara MHTML som XLS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLS-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

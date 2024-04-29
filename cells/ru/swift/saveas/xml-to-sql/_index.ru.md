@@ -1,5 +1,5 @@
 ﻿---
-title:  Сохраните XML как SQL API для Swift.
+title:  Сохранить XML как SQL API для Swift
 description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XML как файла формата SQL.
 url: /ru/swift/saveas/xml-to-sql/
 ---

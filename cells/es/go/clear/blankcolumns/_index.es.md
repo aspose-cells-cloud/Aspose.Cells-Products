@@ -12,7 +12,7 @@ description: API y SDK en la nube para borrar columnas en blanco en Microsoft Ex
 Borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc es una tarea compleja. Nuestro Go SDK borra las columnas en blanco en las transiciones locales de hojas de cálculo Microsoft Excel y OpenOffice Calc mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Go es una solución profesional para borrar columnas en blanco en Microsoft Excel local y en la hoja de cálculo OpenOffice Calc en línea. Este SDK de nube ofrece a los desarrolladores de Go una funcionalidad potente y un API perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ir al código para borrar columnas en blanco en hojas de cálculo locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-BlankColumns.go" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Código Go para borrar columnas en blanco en hojas de cálculo locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-BlankColumns.go" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

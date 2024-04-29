@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie ODS mit C# in CSV
+title:  Konvertieren Sie ODS in CSV mit C#
 description:  Verwendung des Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im ODS-Format in eine Datei im CSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -46,7 +46,7 @@ Att konvertera filformat från HTML till CSV kan vara en komplicerad uppgift. V�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Cells Cloud SDK för Android för att konvertera Excel-filer till andra format HTML till CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Så här använder du Cells Cloud SDK för Android för att konvertera Excel-filer till andra format HTML till CSV" >}}
 <li> Registrera ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera Cells API med ditt klient-ID, klienthemlighet, basadress och version API.</li>
 <li>Använd metoden `putConvertWorkbook` för att hämta den resulterande strömmen.</li>

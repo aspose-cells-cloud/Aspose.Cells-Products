@@ -10,7 +10,7 @@ url: /tr/swift/saveas/xltm-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir XLTM dosyasını XLT olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını XLTM'den XLT olarak kaydetmek karmaşık bir iştir. Tüm XLTM'den XLT formatına geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, XLTM'yi çevrimiçi olarak XLT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
+Dosya formatlarını XLTM'den XLT olarak kaydetmek karmaşık bir iştir. XLTM'den XLT formatına tüm geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, XLTM'yi çevrimiçi olarak XLT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTM\'yi XLT biçiminde kaydetmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
@@ -55,7 +55,7 @@ Dosya formatlarını XLTM'den XLT olarak kaydetmek karmaşık bir iştir. Tüm X
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLTM\'yi XLT olarak kaydetmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

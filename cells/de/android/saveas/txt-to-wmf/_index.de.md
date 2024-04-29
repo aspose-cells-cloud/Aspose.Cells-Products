@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie TXT als WMF mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von TXT-Formatdateien als WMF-Formatdateien.
+title:  TXT als WMF speichern mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im TXT-Format als Dateien im WMF-Format zu speichern.
 kwords: Excel, Save TXT as WMF, REST, Android
 howto: How to save TXT as WMF using Aspose.Cells Cloud Android library.
 ---

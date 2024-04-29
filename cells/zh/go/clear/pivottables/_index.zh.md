@@ -3,7 +3,7 @@ title: 清除云中本地工作簿上的数据透视表
 description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的数据透视表的云 API 和 SDK。通过Cells云API清除本地电子表格上的数据透视表。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="删除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表" h2="Go Clear 可清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 上的数据透视表和 Go 中的 OpenOffice Calc 电子表格工作流程。这个专业的解决方案使用 Go 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表。" urlsection="clear/Pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="删除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表" h2="转到清除以清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Go 中的 OpenOffice Calc 电子表格工作流中的透视表。此专业解决方案使用 Go 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格中的透视表。" urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表 - Go REST API" >}}

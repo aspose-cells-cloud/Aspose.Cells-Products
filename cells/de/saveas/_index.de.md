@@ -1,9 +1,9 @@
 ﻿---
-title: Speichern Sie die Datei Excel als andere Formatdatei
-description:  Aspose.Cells Cloud REST API ermöglicht das Speichern von Excel Dateien in verschiedenen Formaten und stellt SDKs für mehrere Programmiersprachen bereit, darunter Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title: Speichern Sie die Datei Excel als Datei in einem anderen Format
+description:  Aspose.Cells Cloud REST API ermöglicht das Speichern von Excel-Dateien in verschiedenen Formaten und bietet SDKs für mehrere Programmiersprachen, darunter Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie die Datei Excel als andere Formatdatei" h2="Aspose.Cells Cloud SDK unterstützt das Speichern von Arbeitsmappen in über 30 verschiedenen Dateiformaten." p="Aspose.Cells Cloud REST API ermöglicht das Speichern von Excel Dateien in verschiedenen Formaten und stellt SDKs für mehrere Programmiersprachen bereit, darunter Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie die Datei Excel als Datei in einem anderen Format" h2="Aspose.Cells Cloud SDK unterstützt das Speichern von Arbeitsmappen in über 30 verschiedenen Dateiformaten." p="Aspose.Cells Cloud REST API ermöglicht das Speichern von Excel-Dateien in verschiedenen Formaten und bietet SDKs für mehrere Programmiersprachen, darunter Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -39,15 +39,15 @@ description:  Aspose.Cells Cloud REST API ermöglicht das Speichern von Excel Da
 {{< blocks/products/pf/product-card-row title="Beliebte Operationen" >}}
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Xlsx als PDF speichern" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Speichern Sie Xlsx als Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Xlsx als Json speichern" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Speichern Sie Xlsx als Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Xlsx als Csv speichern" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Speichern Sie Xlsx als PDF" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Xlsx als PDF speichern" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Speichern Sie Xlsx als Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Xlsx als Json speichern" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Speichern Sie Xlsx als Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Xlsx als Csv speichern" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Unterstützte Entwicklungssprachen" >}}

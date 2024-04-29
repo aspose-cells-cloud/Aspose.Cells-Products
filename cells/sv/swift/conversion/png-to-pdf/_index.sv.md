@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till PDF Konvertera API för Swift
-description:  Använda Aspose.Cells Cloud SDK för Swift för att konvertera PNG filformat till PDF filformat.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera PNG filformat till PDF filformat.
 url: /sv/swift/conversion/png-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

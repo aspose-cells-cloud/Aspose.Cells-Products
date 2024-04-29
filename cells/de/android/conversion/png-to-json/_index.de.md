@@ -1,19 +1,19 @@
 ﻿---
 title: Konvertieren Sie PNG mit Android in JSON
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im PNG-Format in eine JSON-Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im PNG-Format in eine Datei im JSON-Format zu konvertieren.
 kwords: Excel, Convert PNG to JSON, REST, Android
 howto: How to convert PNG to JSON using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie PNG in JSON" h2="Android-Bibliothek zum Konvertieren von PNG in JSON" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von PNG in JSON und andere Dokumentformate online mit Android." urlsection="conversion/png-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie PNG in JSON" h2="Android-Bibliothek zum Konvertieren von PNG in JSON" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Android in JSON und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie PNG in JSON mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie PNG in JSON mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in JSON kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle Konvertierungen von PNG in das JSON-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG in JSON-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige JSON-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in JSON kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle Konvertierungen vom PNG- ins JSON-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der Quelltabelle PNG. Unsere Android-Bibliothek bietet eine professionelle Lösung zum Online-Konvertieren von PNG- in JSON-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige JSON-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von PNG in JSON mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von PNG in JSON mithilfe des Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

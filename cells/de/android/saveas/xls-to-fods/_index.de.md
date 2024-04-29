@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save XLS as FODS, REST, Android
 howto: How to save XLS as FODS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="XLS als FODS speichern" h2="Android-Bibliothek zum Speichern von XLS als FODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLS als FODS und anderen Dokumentformaten mit Android." urlsection="saveas/xls-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLS als FODS speichern" h2="Android-Bibliothek zum Speichern von XLS als FODS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Speichern von XLS als FODS und anderen Dokumentformaten online mit Android." urlsection="saveas/xls-to-fods/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLS-Datei als FODS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XLS als FODS ist eine komplexe Aufgabe. Alle XLS-zu-FODS-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLS-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLS-Dateien als FODS. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
+Das Speichern von Dateiformaten von XLS als FODS ist eine komplexe Aufgabe. Alle Formatübergänge von XLS zu FODS werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XLS-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLS als FODS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte FODS-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

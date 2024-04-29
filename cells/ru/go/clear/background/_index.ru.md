@@ -3,7 +3,7 @@ title:  Очистка фона в локальной книге в облаке
 description: Облачные API и SDK для очистки фона по телефонам Microsoft и OpenOffice Calc. Очистите фон в локальных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление фона в локальной таблице Microsoft Excel и OpenOffice Calc." h2="Нажмите «Очистить», чтобы очистить фон локального номера Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить фон в локальных Microsoft Excel и рабочих процессах электронных таблиц OpenOffice Calc в Go. Это профессиональное решение позволяет очистить фон локального номера Microsoft Excel и таблиц OpenOffice Calc с помощью Go." urlsection="clear/Background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление фона в локальной таблице Microsoft Excel и в таблице OpenOffice Calc." h2="Нажмите «Очистить», чтобы очистить фон локального номера Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить фон в локальных Microsoft Excel и рабочих процессах электронных таблиц OpenOffice Calc в Go. Это профессиональное решение позволяет очистить фон локального номера Microsoft Excel и таблиц OpenOffice Calc с помощью Go." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить фон в локальной таблице Microsoft Excel и в электронной таблице OpenOffice Calc — Go REST API" >}}

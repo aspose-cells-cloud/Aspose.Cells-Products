@@ -1,15 +1,15 @@
 ﻿---
 title:  Konvertieren Sie SXC mit Android in JPG
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im SXC-Format in eine Datei im JPG-Format.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im SXC-Format in eine Datei im JPG-Format zu konvertieren.
 kwords: Excel, Convert SXC to JPG, REST, Android
 howto: How to convert SXC to JPG using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie SXC in JPG" h2="Android-Bibliothek zum Konvertieren von SXC in JPG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von SXC in JPG und andere Dokumentformate mit Android." urlsection="conversion/sxc-to-jpg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie SXC in JPG mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie SXC in JPG mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von SXC in JPG kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle SXC-in-JPG-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der SXC-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von SXC- in JPG-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige JPG-Ausgabe.
+Das Konvertieren von Dateiformaten von SXC in JPG kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom SXC- ins JPG-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der SXC-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von SXC- in JPG-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige JPG-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

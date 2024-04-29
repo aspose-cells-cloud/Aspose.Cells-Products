@@ -1,9 +1,9 @@
 ﻿---
 title: 使用 Python 转换 Excel 文件格式
-description: Aspose.Cells Cloud REST API 支持使用 Python 进行 Excel 文件格式转换，并提供多种编程语言的 SDK。
+description: Aspose.Cells Cloud REST API支持使用Python进行Excel文件格式转换，并提供多种编程语言的SDK。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Python 转换 Excel 文件格式" h2="Aspose.Cells Cloud SDK支持30多种文件格式之间的转换。" p="Aspose.Cells Cloud REST API 支持使用 Python 进行 Excel 文件格式转换，并提供多种编程语言的 SDK。" urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Python 转换 Excel 文件格式" h2="Aspose.Cells Cloud SDK支持30多种文件格式之间的转换。" p="Aspose.Cells Cloud REST API支持使用Python进行Excel文件格式转换，并提供多种编程语言的SDK。" urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

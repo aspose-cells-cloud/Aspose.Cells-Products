@@ -4,7 +4,7 @@ description: 利用Aspose.Cells Cloud SDK for Android将MHTML格式文件保存�
 kwords: Excel, Save MHTML as PPTX, REST, Android
 howto: How to save MHTML as PPTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 MHTML 保存为 PPTX" h2="用于将 MHTML 保存为 PPTX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 MHTML 保存为 PPTX 和其他文档格式的专业解决方案。" urlsection="saveas/mhtml-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 MHTML 另存为 PPTX" h2="用于将 MHTML 保存为 PPTX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 MHTML 保存为 PPTX 和其他文档格式的专业解决方案。" urlsection="saveas/mhtml-to-pptx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 MHTML 文件另存为 PPTX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

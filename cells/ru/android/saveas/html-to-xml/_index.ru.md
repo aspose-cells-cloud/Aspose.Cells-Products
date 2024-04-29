@@ -9,7 +9,7 @@ howto: How to save HTML as XML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните файл HTML как XML в Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение файлов формата HTML в формате XML — сложная задача. Все переходы формата HTML в XML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Android — это профессиональное решение для сохранения HTML в виде файлов XML в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XML.
+Сохранение файлов формата HTML в формате XML — сложная задача. Все переходы формата HTML в формат XML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Android — это профессиональное решение для сохранения HTML в виде файлов XML в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XML.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

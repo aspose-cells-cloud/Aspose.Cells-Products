@@ -1,10 +1,10 @@
 ﻿---
-title: Cancella oggetti utilizzando Swift
+title: Cancella oggetti usando Swift
 description:  Aspose.Cells Cloud REST API supporta la cancellazione degli oggetti interni in un file Excel utilizzando Swift. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/swift/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Cancella oggetti utilizzando Swift" h2="Aspose.Cells Cloud SDK supporta contenuto chiaro, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta la cancellazione degli oggetti interni in un file Excel utilizzando Swift. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cancella oggetti usando Swift" h2="Aspose.Cells Cloud SDK supporta contenuto chiaro, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta la cancellazione degli oggetti interni in un file Excel utilizzando Swift. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

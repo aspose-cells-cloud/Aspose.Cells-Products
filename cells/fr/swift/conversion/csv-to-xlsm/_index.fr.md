@@ -10,7 +10,7 @@ url: /fr/swift/conversion/csv-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier CSV en XLSM dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers CSV en XLSM est une tâche complexe. Toutes les transitions du format CSV vers XLSM sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers CSV en XLSM en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLSM parfaite.
+La conversion des formats de fichiers CSV vers XLSM est une tâche complexe. Toutes les transitions du format CSV vers XLSM sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers CSV en XLSM en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie XLSM parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir CSV au format XLSM" gistPath="" %}}

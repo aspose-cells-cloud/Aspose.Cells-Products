@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera FODS till SXC på Android
-description: Automatisera Excel filhanteringsoperationer som att skapa, redigera och konvertera med Cloud API & Android SDK med öppen källkod
+description: Automatisera Excel filhanteringsoperationer såsom skapande, redigering och konvertering med moln API & Android SDK med öppen källkod
 url: /sv/android/conversion/fods-to-sxc/
 family: cells
 platformtag: android

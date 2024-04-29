@@ -10,7 +10,7 @@ url: /es/swift/export/shape-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto SHAPE a archivo de formato TIFF en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto SHAPE al archivo TIFF desde una hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza la exportación de transiciones de formato SHAPE a TIFF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SHAPE de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos SHAPE a archivos de formato TIFF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado TIFF perfecto.
+Exportar un objeto SHAPE al archivo TIFF desde una hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza la exportación de transiciones de formato SHAPE a TIFF manteniendo el contenido estructural y lógico principal de la hoja de cálculo SHAPE de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos SHAPE a archivos de formato TIFF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado TIFF perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar SHAPE al formato TIFF desde una hoja de cálculo" gistPath="" %}}

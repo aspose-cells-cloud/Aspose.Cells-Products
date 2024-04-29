@@ -4,12 +4,12 @@ description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern v
 kwords: Excel, Save TXT as SQL, REST, Android
 howto: How to save TXT as SQL using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie TXT als SQL" h2="Android-Bibliothek zum Speichern von TXT als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von TXT als SQL und anderen Dokumentformaten mit Android." urlsection="saveas/txt-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie TXT als SQL" h2="Android-Bibliothek zum Speichern von TXT als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um TXT als SQL und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/txt-to-sql/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine TXT-Datei als SQL in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer TXT-Datei als SQL in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus TXT als SQL ist eine komplexe Aufgabe. Alle Übergänge vom TXT- zum SQL-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um TXT als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
+Das Speichern von Dateiformaten von TXT als SQL ist eine komplexe Aufgabe. Alle Formatübergänge von TXT nach SQL werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von TXT als SQL-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte SQL-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

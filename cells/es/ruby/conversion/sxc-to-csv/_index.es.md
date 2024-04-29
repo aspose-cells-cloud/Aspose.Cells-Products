@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir SXC a CSV usando Ruby
-description:  Utilizar el SDK de Cloud Aspose.Cells para Ruby para convertir un archivo de formato SXC a un archivo de formato CSV.
+description: Utilizar el SDK de Cloud Aspose.Cells para Ruby para convertir un archivo de formato SXC a un archivo de formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir SXC a CSV" h2="Biblioteca Ruby para convertir SXC a CSV" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Ruby. Esta es una solución profesional para convertir SXC a CSV y otros formatos de documentos en línea usando Ruby." urlsection="conversion/sxc-to-csv/" >}}

@@ -1,19 +1,19 @@
 ﻿---
-title:  Konvertieren Sie JSON mit Android in FODS
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im JSON-Format in eine Datei im FODS-Format.
+title:  Konvertieren Sie JSON in FODS mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im JSON-Format in eine Datei im FODS-Format zu konvertieren.
 kwords: Excel, Convert JSON to FODS, REST, Android
 howto: How to convert JSON to FODS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie JSON in FODS" h2="Android-Bibliothek zum Konvertieren von JSON in FODS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JSON in FODS und andere Dokumentformate mit Android." urlsection="conversion/json-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie JSON in FODS" h2="Android-Bibliothek zum Konvertieren von JSON in FODS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um JSON online mit Android in FODS und andere Dokumentformate zu konvertieren." urlsection="conversion/json-to-fods/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie JSON in FODS mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie JSON in FODS mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von JSON in FODS kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von JSON in das FODS-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der JSON-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von JSON- in FODS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige FODS-Ausgabe.
+Das Konvertieren von Dateiformaten von JSON in FODS kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von JSON in FODS und bewahrt dabei den strukturellen und logischen Hauptinhalt der JSON-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von JSON- in FODS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige FODS-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von JSON in FODS mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von JSON in FODS mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

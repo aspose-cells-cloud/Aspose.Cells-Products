@@ -1,16 +1,16 @@
 ﻿---
-title: ZAHLEN in EMF Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im EMF-Format.
+title: NUMBERS in EMF Konvertieren Sie API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im NUMBERS-Format in eine Datei im EMF-Format zu konvertieren.
 url: /de/swift/conversion/numbers-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um NUMBERS in EMF umzuwandeln" h2="Swift-Bibliothek zum Konvertieren von ZAHLEN in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS online mit Swift in EMF und andere Dokumentformate zu konvertieren." urlsection="conversion/numbers-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von Zahlen in EMF" h2="Swift-Bibliothek zum Konvertieren von Zahlen in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS online mit Swift in EMF und andere Dokumentformate zu konvertieren." urlsection="conversion/numbers-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine NUMBERS-Datei in Swift in EMF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von NUMBERS in EMF ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu EMF werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von NUMBERS-Dateien in EMF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte EMF-Ausgabe.
+Das Konvertieren von Dateiformaten von NUMBERS nach EMF ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS nach EMF werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle NUMBERS erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von NUMBERS- in EMF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte EMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von NUMBERS in das Format EMF" gistPath="" %}}

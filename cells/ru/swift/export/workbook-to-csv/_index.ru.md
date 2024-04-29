@@ -10,7 +10,7 @@ url: /ru/swift/export/workbook-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата CSV в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл CSV из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат CSV выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата CSV. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
+Экспорт объекта WORKBOOK в файл CSV из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат CSV выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы WORKBOOK. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата CSV. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта WORKBOOK в формат CSV из электронной таблицы" gistPath="" %}}

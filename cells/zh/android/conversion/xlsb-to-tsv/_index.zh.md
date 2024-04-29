@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 XLSB 转换为 TSV
-description: 利用Aspose.Cells Cloud SDK for Android将XLSB格式文件转换为TSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 XLSB 格式文件转换为 TSV 格式文件。
 kwords: Excel, Convert XLSB to TSV, REST, Android
 howto: How to convert XLSB to TSV using Aspose.Cells Cloud Android library.
 ---

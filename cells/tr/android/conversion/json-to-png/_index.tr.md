@@ -4,12 +4,12 @@ description:  JSON biçimindeki bir dosyayı PNG biçimindeki bir dosyaya dönü
 kwords: Excel, Convert JSON to PNG, REST, Android
 howto: How to convert JSON to PNG using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="JSON\'u PNG\'e dönüştür" h2="JSON\'u PNG\'e dönüştürmek için Android kütüphanesi" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak JSON\'u PNG\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/json-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="JSON\'u PNG\'e dönüştür" h2="JSON\'u PNG\'e dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak JSON\'u PNG\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/json-to-png/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Android için Cells Cloud SDK\'yı kullanarak JSON\'u PNG\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını JSON'dan PNG'e dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm JSON'dan PNG formatına dönüşümleri gerçekleştirir. Android kitaplığımız, JSON'u çevrimiçi olarak PNG dosyalara dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli PNG çıkışı sağlar.
+Dosya formatlarını JSON'dan PNG'e dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm JSON'dan PNG formatına dönüşümleri gerçekleştirir. Android kitaplığımız, JSON'u çevrimiçi olarak PNG dosyalara dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli PNG çıkışı sağlar.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -47,7 +47,7 @@ Dosya formatlarını JSON'dan PNG'e dönüştürmek karmaşık bir iş olabilir.
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Зашифруйте локальную таблицу с помощью пароля с помощью Swift в облаке
-description:  Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc с помощью Swift. Зашифруйте локальные таблицы с помощью пароля с помощью Cells Cloud API SDK для Swift.
+description:  Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc с помощью Swift. Зашифруйте локальные таблицы с помощью пароля с помощью SDK Cells Cloud API для Swift.
 url: /ru/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для защиты локального номера Microsoft Excel и электронной таблицы OpenOffice Calc паролем." h2="Библиотека Swift для защиты локального номера Microsoft Excel и электронной таблицы OpenOffice Calc с помощью пароля." p="Используйте Cells Protect REST API для защиты локального Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Swift. Это профессиональное решение защищает онлайн-таблицы Microsoft Excel и OpenOffice Calc с помощью паролей с использованием Swift." urlsection="protect/Encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для защиты локального номера Microsoft Excel и электронной таблицы OpenOffice Calc паролем." h2="Библиотека Swift для защиты локального номера Microsoft Excel и электронной таблицы OpenOffice Calc с помощью пароля." p="Используйте Cells Protect REST API для защиты локального Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами с паролями в Swift. Это профессиональное решение защищает онлайн-таблицы Microsoft Excel и OpenOffice Calc с помощью паролей с использованием Swift." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защитите локальный номер Microsoft Excel и электронную таблицу OpenOffice Calc паролем — Swift REST API" >}}

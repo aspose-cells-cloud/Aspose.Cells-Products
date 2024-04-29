@@ -7,7 +7,7 @@ description:  Aspose.Cells Cloud REST API unterstützt das Verschlüsseln, Entsc
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Schützen Sie Excel-Dateien mit Android-Erweiterungslinks" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Schützen Sie Excel-Dateien mithilfe von Android-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

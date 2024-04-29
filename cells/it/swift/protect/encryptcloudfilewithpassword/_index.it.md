@@ -1,6 +1,6 @@
 ﻿---
 title:  Crittografa il foglio di calcolo cloud con password nel cloud
-description: API e SDK cloud per la protezione di Microsoft Excel e OpenOffice Calc. Crittografa il foglio di calcolo cloud con password tramite Cells Cloud API. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description: API cloud e SDK per la protezione di Microsoft Excel e OpenOffice Calc. Crittografa il foglio di calcolo cloud con la password tramite Cells Cloud API. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/swift/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

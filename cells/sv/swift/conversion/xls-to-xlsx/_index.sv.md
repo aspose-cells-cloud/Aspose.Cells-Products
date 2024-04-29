@@ -10,7 +10,7 @@ url: /sv/swift/conversion/xls-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLS-fil till XLSX i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLS till XLSX är en komplex uppgift. Alla XLS- till XLSX-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLS till XLSX-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XLSX-utgång.
+Att konvertera filformat från XLS till XLSX är en komplex uppgift. Alla XLS- till XLSX-formatövergångar utförs av vår Swift SDK samtidigt som käll XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLS till XLSX-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XLSX-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera XLS till XLSX-format" gistPath="" %}}

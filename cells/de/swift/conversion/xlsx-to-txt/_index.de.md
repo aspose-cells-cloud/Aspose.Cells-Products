@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSX in TXT Konvertieren API für Swift
+title:  XLSX zu TXT Konvertieren API für Swift
 description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSX-Format in eine Datei im TXT-Format.
 url: /de/swift/conversion/xlsx-to-txt/
 ---

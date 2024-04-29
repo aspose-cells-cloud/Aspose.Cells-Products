@@ -6,7 +6,7 @@ description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern von XL
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XLT als CSV speichern" h2="C# Bibliothek zum Speichern von XLT als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLT als CSV und anderen Dokumentformaten unter C#." urlsection="saveas/xlt-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als CSV unter C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als CSV in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Das Speichern von Dateiformaten von XLT als CSV ist eine komplexe Aufgabe. Alle XLT-zu-CSV-Formatübergänge werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um XLT als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.

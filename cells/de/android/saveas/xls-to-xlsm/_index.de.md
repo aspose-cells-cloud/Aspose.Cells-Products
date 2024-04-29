@@ -4,12 +4,12 @@ description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern v
 kwords: Excel, Save XLS as XLSM, REST, Android
 howto: How to save XLS as XLSM using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLS als XLSM" h2="Android-Bibliothek zum Speichern von XLS als XLSM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLS als XLSM und anderen Dokumentformaten mit Android." urlsection="saveas/xls-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLS als XLSM" h2="Android-Bibliothek zum Speichern von XLS als XLSM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLS als XLSM und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xls-to-xlsm/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLS-Datei als XLSM in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von XLS als XLSM ist eine komplexe Aufgabe. Alle XLS-zu-XLSM-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLS-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLS als XLSM-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XLSM-Ausgabe.
+Das Speichern von Dateiformaten von XLS als XLSM ist eine komplexe Aufgabe. Alle Formatübergänge von XLS nach XLSM werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XLS-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLS als XLSM-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte XLSM-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

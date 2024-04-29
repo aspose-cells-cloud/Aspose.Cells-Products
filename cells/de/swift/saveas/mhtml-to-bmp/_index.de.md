@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie MHTML unter BMP API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im MHTML-Format als Datei im Format BMP zu speichern.
+title:  Speichern Sie MHTML als BMP API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im MHTML-Format als Datei im BMP-Format zu speichern.
 url: /de/swift/saveas/mhtml-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

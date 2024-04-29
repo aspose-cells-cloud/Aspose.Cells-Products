@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie PNG als SVG API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im Format PNG als Datei im Format SVG zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im Format PNG als Datei im Format SVG zu speichern.
 url: /de/swift/saveas/png-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

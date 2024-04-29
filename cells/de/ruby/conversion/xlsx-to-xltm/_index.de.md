@@ -2,18 +2,19 @@
 title:  Konvertieren Sie XLSX mit Ruby in XLTM
 description:  Verwendung des Cloud SDK Aspose.Cells für Ruby zum Konvertieren einer XLSX-Formatdatei in eine XLTM-Formatdatei.
 kwords: Excel, Convert XLSX to XLTM, REST, Ruby
-howto: How to convert XLSX to XLTM using Aspose.Cells Cloud Ruby library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert XLSX to XLTM using the Cells Cloud Ruby library.","description": "How to convert XLSX to XLTM using the Cells Cloud Ruby library.","image": {"@type": "ImageObject"},"url": "/ruby/conversion/xlsx-to-xltm/","step": [{ "@type": "HowToStep","name": "How to convert XLSX to XLTM using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/conversion/xlsx-to-xltm/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert XLSX to XLTM using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/conversion/xlsx-to-xltm/","text": "Install Ruby library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert XLSX to XLTM using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/conversion/xlsx-to-xltm/","text": "Open the source file in Ruby.",},{ "@type": "HowToStep","name": "How to convert XLSX to XLTM using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/conversion/xlsx-to-xltm/","text": "Use the `put_convert_workbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "RubyMine, Visual Studio Code, Aptana Studio, NetBeans"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLSX in XLTM" h2="Ruby-Bibliothek zum Konvertieren von XLSX in XLTM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSX in XLTM und andere Dokumentformate mit Ruby." urlsection="conversion/xlsx-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLSX in XLTM" h2="Ruby-Bibliothek zum Konvertieren von XLSX in XLTM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby-Projekten zu erstellen. Dies ist eine professionelle Lösung, um XLSX online mit Ruby in XLTM und andere Dokumentformate zu konvertieren." urlsection="conversion/xlsx-to-xltm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSX in XLTM mit dem Cloud SDK Cells für Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSX in XLTM mit Cells Cloud SDK für Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSX in XLTM kann eine komplexe Aufgabe sein. Unser Ruby SDK übernimmt alle XLSX-in-XLTM-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLSX-Quelltabelle bei. Unsere Ruby-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSX- in XLTM-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLTM-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSX in XLTM kann eine komplexe Aufgabe sein. Unser Ruby SDK übernimmt alle Konvertierungen vom XLSX- ins XLTM-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der XLSX-Quelltabelle. Unsere Ruby-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSX- in XLTM-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLTM-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Ruby-Codebeispiel für die Konvertierung von XLSX in XLTM mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Ruby-Codebeispiel zur Konvertierung von XLSX in XLTM mit Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -29,7 +30,7 @@ Das Konvertieren von Dateiformaten von XLSX in XLTM kann eine komplexe Aufgabe s
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie XLSX mithilfe der Cloud Ruby-Bibliothek Cells in XLTM konvertieren." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So konvertieren Sie XLSX in XLTM mithilfe der Cloud Ruby-Bibliothek Cells." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Installieren Sie die Ruby-Bibliothek und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
 <li>Öffnen Sie die Quelldatei in Ruby.</li>

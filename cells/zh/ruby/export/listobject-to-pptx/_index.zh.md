@@ -1,19 +1,20 @@
 ﻿---
 title: 使用 Cells Cloud SDK for Ruby 将 LISTOBJECT 从 Excel 导出到 PPTX
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
-kwords:
-howto:
+kwords: Excel, listobject, pptx, Ruby
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel LISTOBJECT to PPTX","description": "How to use Cells Cloud SDK for Ruby to export objects from Excel LISTOBJECT to PPTX","image": {"@type": "ImageObject"},"url": "/ruby/export/listobject-to-pptx/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel LISTOBJECT to PPTX step 1", "image": {"@type": "ImageObject",},"url": "/ruby/export/listobject-to-pptx/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel LISTOBJECT to PPTX step 1", "image": {"@type": "ImageObject",},"url": "/ruby/export/listobject-to-pptx/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel LISTOBJECT to PPTX step 1", "image": {"@type": "ImageObject",},"url": "/ruby/export/listobject-to-pptx/","text": "Call post_export method to get the resultant stream",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "RubyMine, Visual Studio Code, Aptana Studio, NetBeans"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 LISTOBJECT 从 Excel 导出到 PPTX" h2="用于将 LISTOBJECT 导出到 PPTX 文件的 Ruby 库" p="使用 Cells Cloud 的 Export API 在 Ruby 中导出 Excel 文件内部对象工作流。这是一个使用 Ruby 在线电子表格将 LISTOBJECT 导出为 PPTX 格式文件的专业解决方案。" urlsection="export/listobject-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 LISTOBJECT 从 Excel 导出到 PPTX" h2="用于将 LISTOBJECT 导出到 PPTX 文件的 Ruby 库" p="使用 Cells Cloud 的 Export API 以 Ruby 格式导出 Excel 文件内部对象工作流。这是一个使用 Ruby 在线将 LISTOBJECT 从电子表格导出为 PPTX 格式文件的专业解决方案。" urlsection="export/listobject-to-pptx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Ruby 将 LISTOBJECT 对象导出为 PPTX 格式文件" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-将 LISTOBJECT 对象从 Excel 文件导出到 PPTX 文件是一项复杂的任务。将 LISTOBJECT 导出到 PPTX 格式转换由我们的 Ruby SDK 执行，同时保留源 LISTOBJECT 电子表格的主要结构和逻辑内容。我们的 Ruby 库是将 LISTOBJECT 对象在线导出为 PPTX 格式文件的专业解决方案。该Cloud SDK为Ruby开发人员提供了强大的功能和完美的PPTX输出。
+将 LISTOBJECT 对象从 Excel 文件导出到 PPTX 文件是一项复杂的任务。将 LISTOBJECT 导出到 PPTX 格式的转换由我们的 Ruby SDK 执行，同时保留源 LISTOBJECT 电子表格的主要结构和逻辑内容。我们的 Ruby 库是一个专业的解决方案，可在线将 LISTOBJECT 对象导出到 PPTX 格式文件。此云 SDK 为 Ruby 开发人员提供了强大的功能和完美的 PPTX 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Ruby 中的代码示例，使用 REST API 将 LISTOBJECT 从电子表格导出为 PPTX 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="使用 REST API 将 LISTOBJECT 从电子表格导出为 PPTX 格式的 Ruby 代码示例" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

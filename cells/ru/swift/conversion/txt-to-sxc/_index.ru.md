@@ -10,7 +10,7 @@ url: /ru/swift/conversion/txt-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл TXT в SXC в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в SXC — сложная задача. Все переходы формата TXT в SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TXT в SXC. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
+Преобразование форматов файлов из TXT в SXC — сложная задача. Все переходы формата TXT в SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы TXT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TXT в SXC. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования TXT в формат SXC" gistPath="" %}}

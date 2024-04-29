@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için Cells Cloud SDK'yı kullanarak yerel çalışma kitabındaki boş sütunları kaldırın.
-description: Microsoft Excel ve OpenOffice Calc'deki boş sütunları temizlemek için Bulut API'leri ve SDK'lar. Yerel e-tablolardaki boş sütunları Cells Cloud API ile temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
+description: Microsoft Excel ve OpenOffice Calc'taki boş sütunları temizlemek için Bulut API'leri ve SDK'lar. Yerel e-tablolardaki boş sütunları Cells Cloud API ile temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablolarından boş sütunlar kaldırılıyor." h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablolarından boş sütunları kaldırmak için Android kitaplığı." p="Android\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki boş sütunları temizlemek için Cells REST\'i Temizle API\'i kullanın. Bu profesyonel çözüm, Android kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunları temizler." urlsection="clear/Blank-columns/" >}}
@@ -18,7 +18,7 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunlar�
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Boş sütunları temizlemek için Android için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için postClearObjects yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

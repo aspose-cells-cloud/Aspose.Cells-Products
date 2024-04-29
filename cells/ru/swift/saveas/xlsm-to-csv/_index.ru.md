@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xlsm-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как CSV в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM в формате CSV — сложная задача. Все переходы формата XLSM в CSV выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения XLSM в формате CSV в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
+Сохранение форматов файлов из XLSM в формате CSV — сложная задача. Все переходы формата XLSM в CSV выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения XLSM в формате CSV в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLSM в формате CSV" gistPath="" %}}

@@ -3,7 +3,7 @@ title:  مسح الصور في المصنف المحلي في السحابة
 description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الصور على Microsoft Excel وOpenOffice Calc. مسح الصور على جداول البيانات المحلية بواسطة سحابة Cells API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الصور على الرقم المحلي Microsoft Excel وجدول بيانات OpenOffice Calc" h2="مسح NodeJS لمسح الصور على Microsoft المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصور على Microsoft المحلي Excel وسير عمل جداول بيانات OpenOffice Calc في NodeJS. يقوم هذا الحل الاحترافي بمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/Pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الصور على الرقم المحلي Microsoft Excel وجدول بيانات OpenOffice Calc" h2="مسح NodeJS لمسح الصور على Microsoft المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصور على Microsoft المحلي Excel وسير عمل جداول بيانات OpenOffice Calc في NodeJS. يقوم هذا الحل الاحترافي بمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصور على الرقم المحلي Microsoft Excel وجدول بيانات OpenOffice Calc - NodeJS REST API" >}}

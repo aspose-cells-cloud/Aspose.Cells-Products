@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS in DOCX Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im DOCX-Format.
+title:  NUMBERS zu DOCX Konvertieren API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im NUMBERS-Format in eine Datei im DOCX-Format zu konvertieren.
 url: /de/swift/conversion/numbers-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

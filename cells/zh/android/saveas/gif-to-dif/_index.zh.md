@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 GIF 保存为 DIF
-description: 利用Aspose.Cells Cloud SDK for Android将GIF格式文件保存为DIF格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 GIF 格式文件保存为 DIF 格式文件。
 kwords: Excel, Save GIF as DIF, REST, Android
 howto: How to save GIF as DIF using Aspose.Cells Cloud Android library.
 ---

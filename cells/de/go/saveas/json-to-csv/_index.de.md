@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie JSON als CSV mit Go
-description:  Verwendung von Aspose.Cells Cloud SDK für Go zum Speichern von JSON-Formatdateien als CSV-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Go, um Dateien im JSON-Format als Dateien im CSV-Format zu speichern.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie JSON als CSV" h2="Go-Bibliothek zum Speichern von JSON als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um JSON als CSV und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/json-to-csv/" >}}
@@ -38,7 +38,7 @@ Das Speichern von Dateiformaten von JSON als CSV ist eine komplexe Aufgabe. Alle
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

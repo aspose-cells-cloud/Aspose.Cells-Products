@@ -11,7 +11,7 @@ url: /ru/
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Включают API с низким кодом" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облако для cURL" imgSrc="/sdk/aspose_cells-for-curl.svg" productLink="/cells/curl/" >}}
-Получайте доступ к облачным таблицам, обрабатывайте их и манипулируйте ими с помощью cURL via REST API.
+Получайте доступ к облачным электронным таблицам, обрабатывайте их и манипулируйте ими с помощью cURL via REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
@@ -51,7 +51,7 @@ Java API библиотека для создания собственных п�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Метаданные" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Бесплатное онлайн-приложение для просмотра и изменения метаданных ваших таблиц и книг Microsoft Excel в браузере.
+Бесплатное онлайн-приложение для просмотра и изменения метаданных ваших Microsoft Excel электронных таблиц и книг в браузере.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Зритель" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}

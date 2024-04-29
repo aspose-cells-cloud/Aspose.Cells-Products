@@ -3,7 +3,7 @@ title:  Slå samman flera Excel-filer till en enda fil med Ruby.
 description: " Cloud API:er och SDK:er för att slå samman flera Excel-filer med Ruby."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK för Ruby för att slå samman flera Excel-filer till en enda fil." h2="Ruby-bibliotek för att slå samman flera Excel-filer till en enda fil." p="Använd Cells Cloud SDK för att slå samman flera Excel-filer till en enda fil i Ruby. Denna professionella lösning låter dig kombinera flera Excel-filer till ett Microsoft Excel eller OpenOffice Calc-kalkylblad med Ruby." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK för Ruby för att slå samman flera Excel-filer till en enda fil." h2="Ruby-bibliotek för att slå samman flera Excel-filer till en enda fil." p="Använd Cells Cloud SDK för att slå samman flera Excel-filer till en enda fil i Ruby. Denna professionella lösning låter dig kombinera flera Excel-filer till ett Microsoft Excel eller OpenOffice Calc-kalkylblad med hjälp av Ruby." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Slå ihop flera Excel-filer till en enda fil med Cells Cloud SDK för Ruby." >}}

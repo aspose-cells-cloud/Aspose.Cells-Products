@@ -28,7 +28,7 @@ description:  Использование Aspose.Cells Cloud SDK для Perl дл
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl, чтобы сохранить файлы Excel в других форматах ЦИФРЫ как CSV." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl, чтобы сохранить файлы Excel в других форматах ЦИФРЫ как CSV" >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
 <li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>

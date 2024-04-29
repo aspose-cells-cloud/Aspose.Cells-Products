@@ -10,7 +10,7 @@ url: /sv/swift/conversion/ods-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en ODS-fil till MHTML i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från ODS till MHTML är en komplex uppgift. Alla ODS- till MHTML-formatövergångar utförs av vår Swift SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera ODS till MHTML-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt MHTML-utdata.
+Att konvertera filformat från ODS till MHTML är en komplex uppgift. Alla ODS- till MHTML-formatövergångar utförs av vår Swift SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera ODS till MHTML-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt MHTML-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera ODS till MHTML-format" gistPath="" %}}

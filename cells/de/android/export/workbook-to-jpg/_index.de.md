@@ -1,9 +1,9 @@
 ﻿---
-title:  Exportieren Sie WORKBOOK in JPG von Excel mit Cells Cloud SDK für Android
+title:  Exportieren Sie WORKBOOK von Excel nach JPG mit Cells Cloud SDK für Android
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie die Arbeitsmappe von Excel in JPG" h2="Android-Bibliothek zum Exportieren von WORKBOOK in eine JPG-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Android zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine JPG-Formatdatei aus einer Tabellenkalkulation online mit Android." urlsection="export/workbook-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ARBEITSMAPPE nach JPG exportieren von Excel" h2="Android-Bibliothek zum Exportieren von WORKBOOK in eine JPG-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Android zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine JPG-Formatdatei aus einer Tabellenkalkulation online mit Android." urlsection="export/workbook-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im JPG-Format mit dem Cloud SDK Cells für Android" >}}

@@ -4,7 +4,7 @@ description:  Använder Aspose.Cells Cloud SDK för Android för att spara GIF-f
 kwords: Excel, Save GIF as WMF, REST, Android
 howto: How to save GIF as WMF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Spara GIF som WMF" h2="Android-bibliotek för att spara GIF som WMF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att spara GIF som WMF och andra dokumentformat online med Android." urlsection="saveas/gif-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara GIF som WMF" h2="Android-bibliotek för att spara GIF som WMF" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara GIF som WMF och andra dokumentformat online med Android." urlsection="saveas/gif-to-wmf/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Spara en GIF-fil som WMF i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

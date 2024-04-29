@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Python 将 XLT 保存为 CSV
-description: 利用Aspose.Cells Cloud SDK for Python将XLT格式文件保存为CSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Python 将 XLT 格式文件保存为 CSV 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLT 保存为 CSV" h2="Python 用于将 XLT 保存为 CSV 的库" p="使用Cells云的SaveAs API在Python中创建自定义电子表格工作流程。这是使用Python在线将XLT保存为CSV和其他文档格式的专业解决方案。" urlsection="saveas/xlt-to-csv/" >}}
@@ -37,8 +37,8 @@ description: 利用Aspose.Cells Cloud SDK for Python将XLT格式文件保存为C
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
-<li>Python 2.7 或更高版本</li>
-<li>Python 3.10 或更高版本</li>
+<li>Python 2.7 或更新版本</li>
+<li>Python 3.10 或更新版本</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

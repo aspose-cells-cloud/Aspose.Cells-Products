@@ -10,7 +10,7 @@ url: /sv/swift/saveas/xls-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLS-fil som DIF i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLS som DIF är en komplex uppgift. Alla XLS- till DIF-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLS som DIF-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
+Att spara filformat från XLS som DIF är en komplex uppgift. Alla XLS- till DIF-formatövergångar utförs av vår Swift SDK samtidigt som käll XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLS som DIF-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att spara XLS som DIF-format" gistPath="" %}}

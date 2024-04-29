@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie XLSM als DIF API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLSM-Formatdateien als DIF-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im XLSM-Format als Datei im DIF-Format zu speichern.
 url: /de/swift/saveas/xlsm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um XLSM als DIF zu speichern" h2="Swift-Bibliothek zum Speichern von XLSM als DIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSM als DIF und anderen Dokumentformaten mit Swift." urlsection="saveas/xlsm-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von XLSM als DIF" h2="Swift-Bibliothek zum Speichern von XLSM als DIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSM als DIF und anderen Dokumentformaten mit Swift." urlsection="saveas/xlsm-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSM-Datei als DIF in Swift" >}}

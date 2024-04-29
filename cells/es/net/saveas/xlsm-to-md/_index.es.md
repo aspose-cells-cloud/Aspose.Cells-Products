@@ -2,14 +2,15 @@
 title:  Guarde XLSM como MD usando C#
 description:  Utilizando Aspose.Cells Cloud SDK para C# para guardar el archivo en formato XLSM como archivo en formato MD.
 kwords: Excel, Save XLSM as MD, REST, C#
-howto: How to save XLSM as MD using Aspose.Cells Cloud C# library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to save XLSM as MD using the Cells Cloud Net library.","description": "How to save XLSM as MD using the Cells Cloud Net library.","image": {"@type": "ImageObject"},"url": "/net/saveas/xlsm-to-md/","step": [{ "@type": "HowToStep","name": "How to save XLSM as MD using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/saveas/xlsm-to-md/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to save XLSM as MD using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/saveas/xlsm-to-md/","text": "Install C# library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to save XLSM as MD using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/saveas/xlsm-to-md/","text": "Open the source file in C#",},{ "@type": "HowToStep","name": "How to save XLSM as MD using the Cells Cloud Net library. step 1", "image": {"@type": "ImageObject",},"url": "/net/saveas/xlsm-to-md/","text": "Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Visual Studio, Visual Studio Code, Rider"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why save file as other formats file in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just save them as appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PostWorkbookSaveAsRequest() method, passing an output filename with required extension.</li><li>Get the result of save as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I save as with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Guardar XLSM como MD" h2="Biblioteca C# para guardar XLSM como MD" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Net. Esta es una solución profesional para guardar XLSM como MD y otros formatos de documentos en línea usando C#." urlsection="saveas/xlsm-to-md/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Guarde un archivo XLSM como MD en C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLSM como MD es una tarea compleja. Todas las transiciones de formato XLSM a MD se realizan mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSM de origen. Nuestra biblioteca C# es una solución profesional para guardar XLSM como archivos MD en línea. Este Cloud SDK ofrece a los desarrolladores de C# una potente funcionalidad y una salida MD perfecta.
+Guardar formatos de archivo de XLSM como MD es una tarea compleja. Todas las transiciones de formato XLSM a MD se realizan mediante nuestro SDK C# manteniendo el contenido estructural y lógico principal de la hoja de cálculo XLSM de origen. Nuestra biblioteca C# es una solución profesional para guardar XLSM como archivos MD en línea. Este Cloud SDK ofrece a los desarrolladores de C# una potente funcionalidad y una salida MD perfecta.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -26,7 +27,7 @@ Guardar formatos de archivo de XLSM como MD es una tarea compleja. Todas las tra
   
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo guardar XLSM como MD usando la biblioteca Cloud Net Cells." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo guardar XLSM como MD usando la biblioteca Cloud Net Cells." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
 <li>Instale la biblioteca C# y agregue la referencia (importe la biblioteca) a su proyecto.</li>
 <li>Abra el archivo fuente en C#</li>

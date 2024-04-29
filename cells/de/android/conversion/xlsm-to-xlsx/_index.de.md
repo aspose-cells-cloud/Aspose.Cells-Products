@@ -1,12 +1,12 @@
 ﻿---
-title:  Konvertieren Sie XLSM mit Android in XLSX
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer XLSM-Formatdatei in eine XLSX-Formatdatei.
+title:  Konvertieren Sie XLSM in XLSX mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLSM-Format in eine Datei im XLSX-Format zu konvertieren.
 kwords: Excel, Convert XLSM to XLSX, REST, Android
 howto: How to convert XLSM to XLSX using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLSM in XLSX" h2="Android-Bibliothek zum Konvertieren von XLSM in XLSX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSM in XLSX und andere Dokumentformate mit Android." urlsection="conversion/xlsm-to-xlsx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSM in XLSX mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSM in XLSX mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von XLSM in XLSX kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen des XLSM- in das XLSX-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLSM-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSM- in XLSX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSX-Ausgabe.

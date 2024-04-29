@@ -10,7 +10,7 @@ url: /es/swift/conversion/html-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo HTML a JSON en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de HTML a JSON es una tarea compleja. Nuestro SDK de Swift realiza todas las transiciones de formato HTML a JSON mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Swift es una solución profesional para convertir archivos HTML a JSON en línea. Este SDK de Cloud ofrece a los desarrolladores de Swift una funcionalidad potente y una salida JSON perfecta.
+Convertir formatos de archivo de HTML a JSON es una tarea compleja. Todas las transiciones de formato HTML a JSON las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Swift es una solución profesional para convertir archivos HTML a JSON en línea. Este SDK de Cloud ofrece a los desarrolladores de Swift una funcionalidad potente y una salida JSON perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir HTML al formato JSON" gistPath="" %}}

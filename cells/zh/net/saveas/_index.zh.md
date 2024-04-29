@@ -33,7 +33,7 @@ description: Aspose.Cells Cloud REST API支持使用C#以各种格式保存Excel
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="使用 C# 扩展链接将 Excel 文件另存为其他格式" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 C# 扩展链接将 Excel 文件保存为其他格式" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

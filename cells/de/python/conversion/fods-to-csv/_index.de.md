@@ -19,13 +19,13 @@ otherformats: SVG CSV XLSM PDF ODS DIF XLSB MHTML XLT TSV XLSX XLTX TIFF XLTM FO
 1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten
 1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und Version API
 1. Laden Sie die FODS-Datei mit der Methode ```CellsApi.upload_file``` in den Standard-Cloud-Speicher hoch
-1. Rufen Sie die Methode ```CellsApi.cells_save_as_post_document_save_as``` auf, um die resultierende CSV-Datei abzurufen
+1. Rufen Sie die Methode ```CellsApi.cells_save_as_post_document_save_as``` auf, um die resultierende CSV-Datei zu erhalten
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit dem SDK Excel, API und Python" %}}
  Holen Sie sich das Excel Cloud SDK für den Python-Quellcode von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
 
- Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
+ Schauen Sie sich auch Swagger-basierte[API Referenz](https://apireference.aspose.cloud/cells/) Erfahren Sie mehr über die[Excel RUHET API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Python Code für die Konvertierung von FODS in CSV" gistPath="" %}}

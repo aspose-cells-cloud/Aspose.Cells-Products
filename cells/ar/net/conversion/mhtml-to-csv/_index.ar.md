@@ -9,7 +9,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل MHTML إلى CSV باستخدام Cells Cloud SDK لـ C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يمكن أن يكون تحويل تنسيقات الملفات من MHTML إلى CSV مهمة معقدة. يتعامل SDK C# الخاص بنا مع جميع تحويلات تنسيق MHTML إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. توفر مكتبتنا C# حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري C# من الحصول على وظائف قوية ويضمن إخراج CSV عالي الجودة.
+يمكن أن يكون تحويل تنسيقات الملفات من MHTML إلى CSV مهمة معقدة. يتعامل SDK C# الخاص بنا مع جميع تحويلات تنسيق MHTML إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. توفر مكتبتنا C# حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري C# من خلال وظائف قوية ويضمن إخراج CSV عالي الجودة.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# مثال على الكود لتحويل MHTML إلى CSV باستخدام Cells Cloud SDK" gistPath="" %}}
@@ -43,7 +43,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>NET Framework 4.5.2 أو أحدث</li>
+<li>NET Framework 4.5.2 أو الأحدث</li>
 <li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

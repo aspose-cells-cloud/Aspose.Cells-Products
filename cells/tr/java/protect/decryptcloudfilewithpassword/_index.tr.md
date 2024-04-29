@@ -3,7 +3,7 @@ title:  Bulutta parolayla bulut e-tablolarının şifresini çözme
 description:  Microsoft Excel ve OpenOffice Calc için Bulut API'leri ve SDK'ları, bulut dosyalarındaki parolayla şifreyi çözer. Cells Cloud API ile bulut e-tablolarının şifresini çözün. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API bulutun şifresini çözmek için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Java bulutun şifresini çözmek için kütüphane Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Java\'deki parola iş akışlarıyla bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifresini çözmek için Cells Decrypt REST API\'i kullanın. Bu profesyonel çözüm, Java\'i kullanarak bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifresini çevrimiçi olarak çözer. ." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API bulutun şifresini çözmek için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Java bulutun şifresini çözmek için kütüphane Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Java\'deki bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifresini çözmek için Cells Decrypt REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Excel bulutunun ve OpenOffice Calc elektronik tablosunun şifresini 07617348 kullanarak çevrimiçi olarak çözer. 1." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifresini şifreyle çözün - Java REST API" >}}
@@ -18,7 +18,7 @@ Bir bulut e-tablosunun şifresini parolayla çözmek karmaşık bir iştir. Yere
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells dosyasının şifresini çözmek için Cells Cloud SDK for Java nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookDeleteDecryptDocument yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -3,7 +3,7 @@ title:  Очистка формул в локальной книге в обла
 description: Облачные API и SDK для очистки формул по телефону Microsoft Excel и OpenOffice Calc. Четкие формулы в локальных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление формул из локальной таблицы Microsoft Excel и таблицы OpenOffice Calc." h2="Android Clear для очистки формул в локальных Microsoft Excel и электронных таблицах OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить формулы в локальных Microsoft Excel и рабочих процессах электронных таблиц OpenOffice Calc в Android. Это профессиональное решение для очистки формул на локальном телефоне Microsoft Excel и электронных таблицах OpenOffice Calc с использованием Android." urlsection="clear/Formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление формул из локальной таблицы Microsoft Excel и таблицы OpenOffice Calc." h2="Android Clear для очистки формул в локальной таблице Microsoft Excel и OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить формулы в локальных Microsoft Excel и рабочих процессах электронных таблиц OpenOffice Calc в Android. Это профессиональное решение для очистки формул на локальном телефоне Microsoft Excel и электронных таблицах OpenOffice Calc с использованием Android." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить формулы в локальной таблице Microsoft Excel и в электронной таблице OpenOffice Calc — Android REST API" >}}
@@ -17,7 +17,7 @@ description: Облачные API и SDK для очистки формул по
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Android для очистки формул" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cells Cloud SDK для Android для очистки формул" >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
 <li>Вызовите метод postClearObjects, чтобы получить результирующий поток.</li>

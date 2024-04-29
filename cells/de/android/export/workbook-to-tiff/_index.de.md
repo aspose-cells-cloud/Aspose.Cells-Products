@@ -12,7 +12,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in die Datei TIFF ist eine komplexe Aufgabe. Der Export von WORKBOOK in das TIFF-Format wird von unserem Android SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der WORKBOOK-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im Format TIFF. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK aus der Tabelle in das Format TIFF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK aus einer Tabelle in das Format TIFF" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -50,7 +50,7 @@ Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in die Datei TIFF ist
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android, um Objekte aus Excel WORKBOOK nach TIFF zu exportieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android zum Exportieren von Objekten aus Excel WORKBOOK nach TIFF" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `postExport`, um den resultierenden Stream abzurufen.</li>

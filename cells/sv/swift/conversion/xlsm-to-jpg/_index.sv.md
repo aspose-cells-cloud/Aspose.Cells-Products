@@ -10,7 +10,7 @@ url: /sv/swift/conversion/xlsm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLSM-fil till JPG i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSM till JPG är en komplex uppgift. Alla XLSM- till JPG-formatövergångar utförs av vår Swift SDK samtidigt som källbladets XLSM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLSM till JPG-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
+Att konvertera filformat från XLSM till JPG är en komplex uppgift. Alla XLSM- till JPG-formatövergångar utförs av vår Swift SDK samtidigt som källkodens XLSM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLSM till JPG-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera XLSM till JPG-format" gistPath="" %}}

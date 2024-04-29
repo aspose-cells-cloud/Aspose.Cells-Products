@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XLTM mit Java in CSV
-description:  Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer XLTM-Formatdatei in eine CSV-Formatdatei.
+description: Verwendung des Aspose.Cells Cloud SDK for Java zum Konvertieren einer XLTM-Formatdatei in eine CSV-Formatdatei.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLTM in CSV" h2="Java Bibliothek zum Konvertieren von XLTM in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Java-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTM in CSV und andere Dokumentformate unter Java." urlsection="conversion/xltm-to-csv/" >}}

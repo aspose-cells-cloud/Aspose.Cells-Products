@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xlsm-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как EMF в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение формата файла XLSM как EMF — сложная задача. Все переходы формата XLSM в EMF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSM в формате EMF онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод EMF.
+Сохранение формата файла XLSM как EMF — сложная задача. Все переходы формата XLSM в EMF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSM. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSM в виде EMF онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLSM в формате EMF" gistPath="" %}}

@@ -6,14 +6,14 @@ howto: How to convert XLSB to XLS using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLSB in XLS" h2="Android-Bibliothek zum Konvertieren von XLSB in XLS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSB in XLS und andere Dokumentformate mit Android." urlsection="conversion/xlsb-to-xls/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSB in XLS mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSB in XLS mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSB in XLS kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle XLSB-in-XLS-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLSB-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSB- in XLS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLS-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSB in XLS kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von XLSB ins XLS-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der XLSB-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSB- in XLS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLS-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von XLSB in XLS mit dem Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zum Konvertieren von XLSB in XLS mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

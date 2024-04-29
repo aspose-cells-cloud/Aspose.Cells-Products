@@ -1,19 +1,19 @@
 ﻿---
-title:  Swift Spreadsheet Generator & Converter (Cloud REST API)
-description: REST API zum Abrufen, Verarbeiten, Verschlüsseln, Konvertieren und Exportieren Microsoft & OpenOffice-Tabellen in der Cloud via Swift SDK
+title:  Swift-Tabellenkalkulationsgenerator und -konverter (Cloud REST API)
+description: REST API zum Abrufen, Verarbeiten, Verschlüsseln, Konvertieren und Exportieren von Microsoft und OpenOffice-Tabellen in der Cloud via Swift SDK
 weight: 130
 url: /de/swift
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Swift SDK zum Generieren und Konvertieren von Excel-Tabellen" h2="REST API zum Abrufen, Verarbeiten, Verschlüsseln, Konvertieren und Exportieren Microsoft & OpenOffice-Tabellen in der Cloud via Swift SDK." logoImageSrc="/headers/aspose_cells-for-swift.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Swift SDK zum Generieren und Konvertieren von Excel-Tabellen" h2="REST API zum Abrufen, Verarbeiten, Verschlüsseln, Konvertieren und Exportieren von Microsoft und OpenOffice-Tabellen in der Cloud via Swift SDK." logoImageSrc="/headers/aspose_cells-for-swift.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-swift.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK für Swift unterstützt Programmierer bei der nahtlosen Integration von Microsoft Excel & OpenOffice-Tabellenansichts- und Verarbeitungsfunktionen in ihre in Swift entwickelten cloudbasierten Anwendungen. Aspose.Cells Cloud SDK für Swift ist unter MIT lizenziert.</p>
-<p>Aspose.Cells Mit dem Cloud SDK für Swift können Ihre Swift-Apps in der Cloud gespeicherte Tabellenkalkulationen, Arbeitsblätter und Arbeitsmappen abrufen und neue Tabellenkalkulationen erstellen. Sie können Ihren Swift-Code auch optimieren, um bedingte Formatierungen, Diagramme, Aufgaben, Formen, Filter, OleObjects, Bereiche, ListObjects und Pivot-Tabellen aus Ihren Anwendungen heraus zu verarbeiten und zu ändern, ohne Software von Drittanbietern installieren zu müssen.</p>
+<p>Aspose.Cells Cloud SDK für Swift unterstützt Programmierer bei der nahtlosen Integration der Anzeige- und Verarbeitungsfunktionen von Microsoft Excel und OpenOffice-Tabellenkalkulationen in ihre in Swift entwickelten Cloud-basierten Anwendungen. Aspose.Cells Cloud SDK für Swift ist unter MIT lizenziert.</p>
+<p>Aspose.Cells Cloud SDK für Swift ermöglicht Ihren Swift-Apps, in der Cloud gespeicherte Tabellen, Arbeitsblätter und Arbeitsmappen abzurufen sowie neue Tabellen zu erstellen. Sie können Ihren Swift-Code auch optimieren, um bedingte Formatierungen, Diagramme, Aufgaben, Formen, Filter, OleObjects, Bereiche, ListObjects und Pivot-Tabellen aus Ihren Anwendungen heraus zu verarbeiten und zu ändern, ohne Software von Drittanbietern installieren zu müssen.</p>
 <p>Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) und OpenOffice (ODS)-Arbeitsblätter in andere gängige Formate wie XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited) zu konvertieren ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF & Markdown (MD). Sie können auch mit den Formaten SXC und FODS arbeiten, indem Sie das Cloud SDK Aspose.Cells für Swift verwenden.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 

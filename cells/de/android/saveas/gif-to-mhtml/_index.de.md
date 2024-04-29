@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save GIF as MHTML, REST, Android
 howto: How to save GIF as MHTML using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="GIF als MHTML speichern" h2="Android-Bibliothek zum Speichern von GIF als MHTML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um GIF als MHTML und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/gif-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="GIF als MHTML speichern" h2="Android-Bibliothek zum Speichern von GIF als MHTML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Speichern von GIF als MHTML und anderen Dokumentformaten online mit Android." urlsection="saveas/gif-to-mhtml/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine GIF-Datei als MHTML in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von GIF-Dateiformaten als MHTML ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum MHTML-Format werden von unserem Android SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-GIF-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um GIF als MHTML-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
+Das Speichern von Dateiformaten von GIF als MHTML ist eine komplexe Aufgabe. Alle Formatübergänge von GIF zu MHTML werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von GIF als MHTML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte MHTML-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

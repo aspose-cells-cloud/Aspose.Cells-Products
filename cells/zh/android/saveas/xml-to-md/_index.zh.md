@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 XML 保存为 MD
-description: 利用Aspose.Cells Cloud SDK for Android将XML格式文件保存为MD格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 XML 格式文件保存为 MD 格式文件。
 kwords: Excel, Save XML as MD, REST, Android
 howto: How to save XML as MD using Aspose.Cells Cloud Android library.
 ---

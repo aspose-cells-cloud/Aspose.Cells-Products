@@ -9,7 +9,7 @@ description: Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffic
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulutu Microsoft Excel ve OpenOffice Calc elektronik tablosunu şifreyle koruyun - REST API\'e gidin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
-Bulut elektronik tablosunu parolayla korumak karmaşık bir iştir. Bir bulut e-tablosunun şifre geçişleriyle korunması Go SDK'mız tarafından gerçekleştirilir ve aynı zamanda kaynak e-tablonun ana yapısal ve mantıksal içeriği korunur. Go kitaplığımız, bulut e-tablolarını çevrimiçi bir parolayla korumaya yönelik profesyonel bir çözümdür. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Bulut elektronik tablosunu parolayla korumak karmaşık bir iştir. Bir bulut e-tablosunun şifre geçişleriyle korunması Go SDK'mız tarafından gerçekleştirilir ve aynı zamanda kaynak e-tablonun ana yapısal ve mantıksal içeriği korunur. Go kitaplığımız, bulut elektronik tablolarını çevrimiçi bir parolayla korumaya yönelik profesyonel bir çözümdür. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Şifreleme bulutu e-tabloları için koda gidin" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=example-encrypt-with-password-cloud.go" %}}
@@ -18,7 +18,7 @@ Bulut elektronik tablosunu parolayla korumak karmaşık bir iştir. Bir bulut e-
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyasını şifrelemek için Cells Go for Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellsWorkbookPostEncryptDocument yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

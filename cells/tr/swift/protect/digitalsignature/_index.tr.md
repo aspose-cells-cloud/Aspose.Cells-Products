@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc dijital imzası için Bulut API
 url: /tr/swift/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API\'den dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyası içeren OpenOffice Calc elektronik tablosuna" h2="Swift kitaplığından dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyası içeren OpenOffice Calc elektronik tablosu" p="Cells Dijital imza REST API\'i kullanarak dijital imza bulutu Microsoft Excel\'i ve Swift\'de parola ve dijital imza dosyası iş akışlarını içeren OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm dijital imza bulutu Microsoft Excel ve OpenOffice Calc elektronik tablosunu Swift kullanarak parolalar ve dijital imza dosyasıyla çevrimiçi olarak sunar." urlsection="protect/Digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API\'den dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyası içeren OpenOffice Calc elektronik tablosuna" h2="Swift kitaplığından dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyası içeren OpenOffice Calc elektronik tablosu" p="Cells Dijital imza REST API\'i kullanarak dijital imza bulutu Microsoft Excel\'i ve Swift\'de parola ve dijital imza dosyası iş akışlarını içeren OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, dijital imza bulutu Microsoft Excel ve OpenOffice Calc elektronik tablosunu Swift kullanarak parolalar ve dijital imza dosyasıyla çevrimiçi olarak sunar." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Dijital imza bulutu Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu - Swift REST API" >}}
@@ -19,7 +19,7 @@ Bir bulut e-tablosunun parola ve dijital imza dosyasıyla dijital imzalanması k
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Swift API dijital imzaya nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li> Swift SDK API artık dijital imzayı desteklemiyor.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

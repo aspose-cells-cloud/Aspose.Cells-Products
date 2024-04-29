@@ -1,9 +1,9 @@
 ﻿---
 title: Сохраните файл Excel как файл другого формата.
-description:  Aspose.Cells Cloud REST API позволяет сохранять файлы Excel в различных форматах и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
+description:  Aspose.Cells Cloud Rest API Включает файлы Excel в различных форматах и предоставляет SDK для нескольких языков программирования, включая Android, C#, GO, Java, Nodejs, Perl, PHP, 07673417, Perl, PHP, 07617, Perl, PHP, 07673417, Perl, PHP, 0767, Perl, PHP, 07617, Perl, 07613481, 078417, Perl.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохраните файл Excel как файл другого формата." h2="Aspose.Cells Cloud SDK поддерживает сохранение книг в более чем 30 различных форматах файлов." p="Aspose.Cells Cloud REST API позволяет сохранять файлы Excel в различных форматах и предоставляет SDK для нескольких языков программирования, включая Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохраните файл Excel как файл другого формата." h2="Aspose.Cells Cloud SDK поддерживает сохранение книг в более чем 30 различных форматах файлов." p="Aspose.Cells Cloud Rest API Включает файлы Excel в различных форматах и предоставляет SDK для нескольких языков программирования, включая Android, C#, GO, Java, Nodejs, Perl, PHP, 07673417, Perl, PHP, 07617, Perl, PHP, 07673417, Perl, PHP, 0767, Perl, PHP, 07617, Perl, 07613481, 078417, Perl." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -41,13 +41,13 @@ description:  Aspose.Cells Cloud REST API позволяет сохранять 
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Сохранить Xlsx как Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Сохранить Xlsx как Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Java" title="Сохранить Xlsx как CSV" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Сохранить Xlsx в PDF" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Сохранить Xlsx как Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Сохранить Xlsx как Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Сохранить Xlsx как CSV" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Поддерживаемые языки разработки" >}}

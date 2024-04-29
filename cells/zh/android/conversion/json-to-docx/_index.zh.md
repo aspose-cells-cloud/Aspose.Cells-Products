@@ -9,7 +9,7 @@ howto: How to convert JSON to DOCX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Android 将 JSON 转换为 DOCX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 JSON 转换为 DOCX 可能是一项复杂的任务。我们的 Android SDK 处理所有 JSON 到 DOCX 格式的转换，同时保留源 JSON 电子表格的主要结构和逻辑内容。我们的 Android 库提供了在线将 JSON 转换为 DOCX 文件的专业解决方案。该Cloud SDK为Android开发者提供了强大的功能，并确保高质量的DOCX输出。
+将文件格式从 JSON 转换为 DOCX 可能是一项复杂的任务。我们的 Android SDK 可处理所有 JSON 到 DOCX 格式的转换，同时保留源 JSON 电子表格的主要结构和逻辑内容。我们的 Android 库提供了将 JSON 在线转换为 DOCX 文件的专业解决方案。此 Cloud SDK 为 Android 开发人员提供了强大的功能并确保了高质量的 DOCX 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

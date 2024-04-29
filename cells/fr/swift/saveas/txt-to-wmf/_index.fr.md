@@ -10,7 +10,7 @@ url: /fr/swift/saveas/txt-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TXT au format WMF dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers TXT au format WMF est une tâche complexe. Toutes les transitions du format TXT vers WMF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer TXT sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie WMF parfaite.
+Enregistrer les formats de fichiers TXT au format WMF est une tâche complexe. Toutes les transitions du format TXT vers WMF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer TXT sous forme de fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie WMF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer TXT au format WMF" gistPath="" %}}

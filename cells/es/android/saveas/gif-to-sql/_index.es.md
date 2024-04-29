@@ -9,7 +9,7 @@ howto: How to save GIF as SQL using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Guarde un archivo GIF como SQL en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo GIF como SQL es una tarea compleja. Todas las transiciones de formato GIF a SQL las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca de Android es una solución profesional para guardar GIF como archivos SQL en línea. Este SDK de la nube ofrece a los desarrolladores de Android una funcionalidad potente y una salida SQL perfecta.
+Guardar formatos de archivo GIF como SQL es una tarea compleja. Todas las transiciones de formato GIF a SQL las realiza nuestro SDK de Android manteniendo el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca de Android es una solución profesional para guardar GIF como archivos SQL en línea. Este SDK de la nube ofrece a los desarrolladores de Android una funcionalidad potente y una salida SQL perfecta.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

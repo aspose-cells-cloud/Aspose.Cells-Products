@@ -4,7 +4,7 @@ description:  XLTM formatındaki dosyayı MD formatındaki dosya olarak kaydetme
 kwords: Excel, Save XLTM as MD, REST, Android
 howto: How to save XLTM as MD using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="XLTM\'yi MD olarak kaydet" h2="XLTM\'yi MD olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, XLTM\'yi Android kullanarak çevrimiçi olarak MD ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltm-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLTM\'yi MD olarak kaydet" h2="XLTM\'yi MD olarak kaydetmek için Android kütüphanesi" p="Android\'de özelleştirilmiş e-tablo iş akışları oluşturmak için SaveAs API / Cells Cloud\'u kullanın. Bu, XLTM\'yi Android kullanarak çevrimiçi olarak MD ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltm-to-md/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Bir XLTM dosyasını Android\'de MD olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
@@ -35,7 +35,7 @@ Dosya formatlarını XLTM'den MD olarak kaydetmek karmaşık bir iştir. XLTM'de
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlarda kaydetmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postWorkbookSaveAs` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

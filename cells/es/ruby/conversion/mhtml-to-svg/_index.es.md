@@ -1,15 +1,16 @@
 ﻿---
-title:  Convierta MHTML a SVG usando Ruby
+title: Convierta MHTML a SVG usando Ruby
 description:  Utilizar el SDK de Cloud Aspose.Cells para Ruby para convertir un archivo de formato MHTML a un archivo de formato SVG.
 kwords: Excel, Convert MHTML to SVG, REST, Ruby
-howto: How to convert MHTML to SVG using Aspose.Cells Cloud Ruby library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert MHTML to SVG using the Cells Cloud Ruby library.","description": "How to convert MHTML to SVG using the Cells Cloud Ruby library.","image": {"@type": "ImageObject"},"url": "/ruby/conversion/mhtml-to-svg/","step": [{ "@type": "HowToStep","name": "How to convert MHTML to SVG using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/conversion/mhtml-to-svg/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert MHTML to SVG using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/conversion/mhtml-to-svg/","text": "Install Ruby library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert MHTML to SVG using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/conversion/mhtml-to-svg/","text": "Open the source file in Ruby.",},{ "@type": "HowToStep","name": "How to convert MHTML to SVG using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/conversion/mhtml-to-svg/","text": "Use the `put_convert_workbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "RubyMine, Visual Studio Code, Aptana Studio, NetBeans"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Convertir MHTML a SVG" h2="Biblioteca Ruby para convertir MHTML a SVG" p="Utilice la nube de conversión API de Cells para crear flujos de trabajo de hojas de cálculo personalizados en proyectos Ruby. Esta es una solución profesional para convertir MHTML a SVG y otros formatos de documentos en línea usando Ruby." urlsection="conversion/mhtml-to-svg/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Convierta MHTML a SVG usando Cells Cloud SDK para Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de MHTML a SVG puede ser una tarea compleja. Nuestro Ruby SDK maneja todas las conversiones de formato MHTML a SVG mientras preserva el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca Ruby proporciona una solución profesional para convertir archivos MHTML a SVG en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una potente funcionalidad y garantiza resultados SVG de alta calidad.
+Convertir formatos de archivo de MHTML a SVG puede ser una tarea compleja. Nuestro SDK de Ruby maneja todas las conversiones de formato MHTML a SVG al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca Ruby proporciona una solución profesional para convertir archivos MHTML a SVG en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una potente funcionalidad y garantiza resultados SVG de alta calidad.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -29,7 +30,7 @@ Convertir formatos de archivo de MHTML a SVG puede ser una tarea compleja. Nuest
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Aprenda cómo convertir MHTML a SVG usando la biblioteca Cells Cloud Ruby." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo convertir MHTML a SVG usando la biblioteca Cells Cloud Ruby." >}}
 <li> Registre una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener gratis API cuota y detalles de autorización</li>
 <li>Instale la biblioteca Ruby y agregue la referencia (importe la biblioteca) a su proyecto.</li>
 <li>Abra el archivo fuente en Ruby.</li>

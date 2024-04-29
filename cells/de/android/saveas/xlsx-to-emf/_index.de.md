@@ -1,9 +1,9 @@
 ﻿---
-title:  Speichern Sie XLSX unter Android unter EMF
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern der Datei im XLSX-Format als Datei im Format EMF.
+title:  XLSX als EMF mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLSX-Format als Dateien im EMF-Format zu speichern.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie XLSX unter EMF" h2="Android-Bibliothek zum Speichern von XLSX als EMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLSX als EMF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlsx-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSX speichern unter EMF" h2="Android-Bibliothek zum Speichern von XLSX als EMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLSX als EMF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlsx-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSX-Datei unter Android als EMF" >}}

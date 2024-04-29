@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie NUMBERS als XLSM API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im NUMBERS-Format als Datei im XLSM-Format zu speichern.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern der Datei im NUMBERS-Format als Datei im XLSM-Format.
 url: /de/swift/saveas/numbers-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

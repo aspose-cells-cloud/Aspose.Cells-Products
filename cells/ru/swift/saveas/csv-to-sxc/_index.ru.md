@@ -10,7 +10,7 @@ url: /ru/swift/saveas/csv-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как SXC в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в формате SXC — сложная задача. Все переходы формата CSV в SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Swift — это профессиональное решение для сохранения файлов CSV в формате SXC онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
+Сохранение форматов файлов из CSV в формате SXC — сложная задача. Все переходы формата CSV в SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека Swift — это профессиональное решение для сохранения файлов CSV в формате SXC онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения CSV в формате SXC" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie JSON mit Ruby in CSV
-description:  Verwendung des Cloud SDK Aspose.Cells für Ruby zum Konvertieren einer Datei im JSON-Format in eine Datei im CSV-Format.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Ruby, um eine Datei im JSON-Format in eine Datei im CSV-Format zu konvertieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie JSON in CSV" h2="Ruby-Bibliothek zum Konvertieren von JSON in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JSON in CSV und andere Dokumentformate mit Ruby." urlsection="conversion/json-to-csv/" >}}

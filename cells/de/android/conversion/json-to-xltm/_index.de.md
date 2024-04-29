@@ -1,12 +1,12 @@
 ﻿---
-title:  Konvertieren Sie JSON mit Android in XLTM
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im JSON-Format in eine Datei im XLTM-Format.
+title:  Konvertieren Sie JSON in XLTM mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im JSON-Format in eine Datei im XLTM-Format zu konvertieren.
 kwords: Excel, Convert JSON to XLTM, REST, Android
 howto: How to convert JSON to XLTM using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie JSON in XLTM" h2="Android-Bibliothek zum Konvertieren von JSON in XLTM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JSON in XLTM und andere Dokumentformate mit Android." urlsection="conversion/json-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie JSON in XLTM" h2="Android-Bibliothek zum Konvertieren von JSON in XLTM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um JSON online mit Android in XLTM und andere Dokumentformate zu konvertieren." urlsection="conversion/json-to-xltm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie JSON in XLTM mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie JSON in XLTM mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von JSON in XLTM kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von JSON in das XLTM-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der JSON-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von JSON- in XLTM-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLTM-Ausgabe.

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convierta TSV a XLS usando Android
-description:  Utilizar el SDK de Cloud Aspose.Cells para Android para convertir un archivo de formato TSV a un archivo de formato XLS.
+description:  Utilizar el SDK de Cloud Aspose.Cells para Android para convertir un archivo en formato TSV a un archivo en formato XLS.
 kwords: Excel, Convert TSV to XLS, REST, Android
 howto: How to convert TSV to XLS using Aspose.Cells Cloud Android library.
 ---

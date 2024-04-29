@@ -1,19 +1,19 @@
 ﻿---
-title:  Konvertieren Sie XLTM mit Android in XLTX
-description: Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im XLTM-Format in eine Datei im XLTX-Format.
+title:  Konvertieren Sie XLTM in XLTX mit Android
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLTM-Format in eine Datei im XLTX-Format zu konvertieren.
 kwords: Excel, Convert XLTM to XLTX, REST, Android
 howto: How to convert XLTM to XLTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTM in XLTX" h2="Android-Bibliothek zum Konvertieren von XLTM in XLTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTM in XLTX und andere Dokumentformate mit Android." urlsection="conversion/xltm-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTM in XLTX" h2="Android-Bibliothek zur Konvertierung von XLTM in XLTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um XLTM online mit Android in XLTX und andere Dokumentformate zu konvertieren." urlsection="conversion/xltm-to-xltx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTM in XLTX mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTM in XLTX mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTM in XLTX kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle XLTM-zu-XLTX-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTM-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTM- in XLTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLTX-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTM in XLTX kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von XLTM in XLTX und bewahrt dabei den strukturellen und logischen Hauptinhalt der XLTM-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTM- in XLTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLTX-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von XLTM in XLTX mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von XLTM in XLTX mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

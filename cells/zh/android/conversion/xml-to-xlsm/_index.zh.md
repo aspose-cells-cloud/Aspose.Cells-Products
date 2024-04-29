@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 XML 转换为 XLSM
-description: 利用Aspose.Cells Cloud SDK for Android将XML格式文件转换为XLSM格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 XML 格式文件转换为 XLSM 格式文件。
 kwords: Excel, Convert XML to XLSM, REST, Android
 howto: How to convert XML to XLSM using Aspose.Cells Cloud Android library.
 ---

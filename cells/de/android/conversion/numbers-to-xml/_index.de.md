@@ -1,6 +1,6 @@
 ﻿---
-title:  Konvertieren Sie NUMBERS mit Android in XML
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im XML-Format.
+title:  Konvertieren Sie NUMBERS in XML mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im NUMBERS-Format in eine Datei im XML-Format zu konvertieren.
 kwords: Excel, Convert NUMBERS to XML, REST, Android
 howto: How to convert NUMBERS to XML using Aspose.Cells Cloud Android library.
 ---

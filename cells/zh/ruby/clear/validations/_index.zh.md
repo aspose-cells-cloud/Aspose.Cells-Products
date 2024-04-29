@@ -3,7 +3,7 @@ title: 清除云中本地工作簿的验证
 description: 用于在 Microsoft Excel 和 OpenOffice Calc 上进行清除验证的云 API 和 SDK。 Cells云API对本地电子表格进行清晰验证。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="删除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证" h2="Ruby Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Ruby 中的 OpenOffice Calc 电子表格工作流程的验证。这个专业的解决方案使用 Ruby 对本地 Microsoft Excel 和 OpenOffice Calc 电子表格进行明确的验证。" urlsection="clear/Validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="删除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证" h2="Ruby Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Ruby 中的 OpenOffice Calc 电子表格工作流的验证。这个专业的解决方案使用 Ruby 对本地 Microsoft Excel 和 OpenOffice Calc 电子表格进行明确的验证。" urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证 - Ruby REST API" >}}

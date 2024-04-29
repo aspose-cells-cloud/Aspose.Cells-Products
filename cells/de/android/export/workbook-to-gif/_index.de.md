@@ -3,16 +3,16 @@ title:  Exportieren Sie WORKBOOK in GIF von Excel mit Cells Cloud SDK für Andro
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie die Arbeitsmappe als GIF von Excel" h2="Android-Bibliothek zum Exportieren von WORKBOOK in eine GIF-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Android zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine GIF-Formatdatei aus einer Tabellenkalkulation online mit Android." urlsection="export/workbook-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ARBEITSMAPPE nach GIF exportieren von Excel" h2="Android-Bibliothek zum Exportieren von WORKBOOK in eine GIF-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objekt-Workflows der Datei Excel in Android zu exportieren. Dies ist eine professionelle Lösung, um WORKBOOK online mit Android aus einer Tabellenkalkulation in eine Datei im GIF-Format zu exportieren." urlsection="export/workbook-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im GIF-Format mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im GIF-Format mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKBOOK-Objekts aus der Datei Excel in eine GIF-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKBOOK in das GIF-Format werden von unserem Android SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im GIF-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
+Das Exportieren von WORKBOOK-Objekten in eine GIF-Datei aus der Datei Excel ist eine komplexe Aufgabe. Die Formatübergänge beim Exportieren von WORKBOOK ins GIF-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Exportieren von WORKBOOK-Objekten in GIF-Formatdateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK aus einer Tabellenkalkulation in das GIF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK aus einer Tabelle in das GIF-Format" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

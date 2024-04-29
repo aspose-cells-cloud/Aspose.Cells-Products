@@ -1,10 +1,10 @@
 ﻿---
-title:  TSV als GIF API für Swift speichern
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von TSV-Formatdateien als GIF-Formatdateien.
+title:  Speichern Sie TSV als GIF API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im TSV-Format als Dateien im GIF-Format zu speichern.
 url: /de/swift/saveas/tsv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um TSV als GIF zu speichern" h2="Schnelle Bibliothek zum Speichern von TSV als GIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TSV als GIF und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/tsv-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um TSV als GIF zu speichern" h2="Swift-Bibliothek zum Speichern von TSV als GIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TSV als GIF und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/tsv-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als GIF in Swift" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Buluttaki yerel çalışma kitabındaki liste nesnelerini temizleyin
-description: Microsoft Excel ve OpenOffice Calc'taki liste nesnelerini temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki nesneleri temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
+description: Microsoft Excel ve OpenOffice Calc'deki liste nesnelerini temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki nesneleri temizleyin. SDK, çeşitli geliştirme dillerini destekler. Bunlar arasında Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift bulunur.
 url: /tr/swift/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesnelerini temizlemek için Swift API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesnelerini temizlemek için Swift Clear" p="Swift\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki liste nesnelerini temizlemek için Cells REST\'i Temizle API\'i kullanın. Bu profesyonel çözüm, Swift kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki nesneleri temizler." urlsection="clear/List-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesnelerini temizlemek için Swift API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesnelerini temizlemek için Swift Clear" p="Swift\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki liste nesnelerini temizlemek için Cells REST API\'i temizle\'yi kullanın. Bu profesyonel çözüm, Swift kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki nesneleri temizler." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesnelerini temizleyin - Swift REST API" >}}
@@ -19,7 +19,7 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesneleri
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Liste nesnelerini temizlemek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postClearObjects yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

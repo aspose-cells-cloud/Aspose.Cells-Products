@@ -1,5 +1,5 @@
 ﻿---
-title:  Convertir JSON a TXT usando Android
+title:  Convierta JSON a TXT usando Android
 description:  Utilizar el SDK de Cloud Aspose.Cells para Android para convertir un archivo en formato JSON a un archivo en formato TXT.
 kwords: Excel, Convert JSON to TXT, REST, Android
 howto: How to convert JSON to TXT using Aspose.Cells Cloud Android library.

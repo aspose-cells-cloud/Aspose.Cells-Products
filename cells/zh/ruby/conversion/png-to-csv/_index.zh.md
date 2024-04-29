@@ -29,7 +29,7 @@ description: 使用Aspose.Cells Cloud SDK for Ruby将PNG格式文件转换为CSV
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud SDK for Ruby 将 Excel 文件转换为其他格式 PNG 转 CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Ruby将Excel文件转换为其他格式PNG转CSV" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
 <li>使用 `put_convert_workbook` 方法检索结果流。</li>

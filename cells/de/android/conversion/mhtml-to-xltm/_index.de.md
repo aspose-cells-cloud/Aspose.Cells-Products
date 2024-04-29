@@ -1,10 +1,10 @@
 ﻿---
-title:  Konvertieren Sie MHTML mit Android in XLTM
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im MHTML-Format in eine Datei im XLTM-Format.
+title:  Konvertieren Sie MHTML in XLTM mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im MHTML-Format in eine Datei im XLTM-Format zu konvertieren.
 kwords: Excel, Convert MHTML to XLTM, REST, Android
 howto: How to convert MHTML to XLTM using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie MHTML in XLTM" h2="Android-Bibliothek zum Konvertieren von MHTML in XLTM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in XLTM und andere Dokumentformate mit Android." urlsection="conversion/mhtml-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie MHTML in XLTM" h2="Android-Bibliothek zur Konvertierung von MHTML in XLTM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in XLTM und andere Dokumentformate mit Android." urlsection="conversion/mhtml-to-xltm/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie MHTML in XLTM mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

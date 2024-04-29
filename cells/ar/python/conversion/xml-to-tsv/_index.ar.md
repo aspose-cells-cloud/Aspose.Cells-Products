@@ -1,8 +1,9 @@
 ﻿---
-title:  تحويل XML إلى TSV باستخدام Python
+title: تحويل XML إلى TSV باستخدام Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف بتنسيق XML إلى ملف بتنسيق TSV.
 kwords: Excel, Convert XML to TSV, REST, Python
-howto: How to convert XML to TSV using Aspose.Cells Cloud Python library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert XML to TSV using the Cells Cloud Python library.","description": "How to convert XML to TSV using the Cells Cloud Python library.","image": {"@type": "ImageObject"},"url": "/python/conversion/xml-to-tsv/","step": [{ "@type": "HowToStep","name": "How to convert XML to TSV using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/conversion/xml-to-tsv/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert XML to TSV using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/conversion/xml-to-tsv/","text": "Install Python library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert XML to TSV using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/conversion/xml-to-tsv/","text": "Open the source file in Python.",},{ "@type": "HowToStep","name": "How to convert XML to TSV using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/conversion/xml-to-tsv/","text": "Use the `put_convert_workbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "PyCharm, Visual Studio Code, Sublime, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="تحويل XML إلى TSV" h2="مكتبة Python لتحويل XML إلى TSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Python. يعد هذا حلاً احترافيًا لتحويل XML إلى TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xml-to-tsv/" >}}
 
@@ -27,7 +28,7 @@ howto: How to convert XML to TSV using Aspose.Cells Cloud Python library.
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل XML إلى TSV باستخدام مكتبة Cells Cloud Python." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية تحويل XML إلى TSV باستخدام مكتبة Cells Cloud Python." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>قم بتثبيت مكتبة Python وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
 <li>افتح الملف المصدر في Python.</li>

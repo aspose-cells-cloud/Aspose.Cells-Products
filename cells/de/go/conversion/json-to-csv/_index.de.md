@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie JSON mit Go in CSV
-description: Verwendung des Cloud SDK Aspose.Cells für Go zum Konvertieren einer Datei im JSON-Format in eine Datei im CSV-Format.
+description:  Verwendung des Cloud SDK Aspose.Cells für Go zum Konvertieren einer Datei im JSON-Format in eine Datei im CSV-Format.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie JSON in CSV" h2="Go-Bibliothek zum Konvertieren von JSON in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JSON in CSV und andere Dokumentformate mit Go." urlsection="conversion/json-to-csv/" >}}
@@ -55,7 +55,7 @@ Das Konvertieren von Dateiformaten von JSON in CSV kann eine komplexe Aufgabe se
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

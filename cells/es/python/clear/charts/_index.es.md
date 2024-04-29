@@ -3,7 +3,7 @@ title:  Borrar gráficos en el libro de trabajo local en la nube
 description: API y SDK en la nube para borrar gráficos en Microsoft Excel y OpenOffice Calc. Borre gráficos en hojas de cálculo locales mediante Cells Cloud API. El SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Eliminación de gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Python Borrar para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar gráficos en Microsoft Excel local y flujos de trabajo de hojas de cálculo de OpenOffice Calc en Python. Esta solución profesional borra gráficos en Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc usando Python." urlsection="clear/Charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Eliminación de gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Python Borrar para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar gráficos en Microsoft Excel local y flujos de trabajo de hoja de cálculo de OpenOffice Calc en Python. Esta solución profesional borra gráficos en Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc usando Python." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Python REST API" >}}

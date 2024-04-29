@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save TXT as XML, REST, Android
 howto: How to save TXT as XML using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="TXT als XML speichern" h2="Android-Bibliothek zum Speichern von TXT als XML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von TXT als XML und anderen Dokumentformaten mit Android." urlsection="saveas/txt-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="TXT als XML speichern" h2="Android-Bibliothek zum Speichern von TXT als XML" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um TXT als XML und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/txt-to-xml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine TXT-Datei als XML in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer TXT-Datei als XML in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus TXT als XML ist eine komplexe Aufgabe. Alle Übergänge vom TXT- zum XML-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um TXT als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
+Das Speichern von Dateiformaten von TXT als XML ist eine komplexe Aufgabe. Alle Formatübergänge von TXT nach XML werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von TXT als XML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte XML-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

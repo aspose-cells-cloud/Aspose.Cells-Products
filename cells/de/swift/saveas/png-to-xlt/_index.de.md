@@ -4,13 +4,13 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei 
 url: /de/swift/saveas/png-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um PNG als XLT zu speichern" h2="Swift-Bibliothek zum Speichern von PNG als XLT" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um PNG als XLT und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/png-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um PNG als XLT zu speichern" h2="Swift-Bibliothek zum Speichern von PNG als XLT" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Swift als XLT und andere Dokumentformate zu speichern." urlsection="saveas/png-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine PNG-Datei als XLT in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten ab PNG als XLT ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum XLT-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Speichern von PNG als XLT-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLT-Ausgabe.
+Das Speichern von Dateiformaten von PNG als XLT ist eine komplexe Aufgabe. Alle Formatübergänge von PNG ins XLT-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um PNG online als XLT-Dateien zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte XLT-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von PNG im XLT-Format" gistPath="" %}}

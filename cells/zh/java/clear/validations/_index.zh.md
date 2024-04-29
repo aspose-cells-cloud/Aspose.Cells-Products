@@ -9,15 +9,15 @@ description: 用于在 Microsoft Excel 和 OpenOffice Calc 上进行清除验证
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证 - Java REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证是一项复杂的任务。清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格转换的验证由我们的 Java SDK 执行，同时保留源电子表格的主要结构和逻辑内容。我们的 Java 库是一个专业的解决方案，用于清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格在线验证。此Cloud SDK为Java开发者提供了强大的功能和完善的API。
+清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证是一项复杂的任务。清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格转换上的验证由我们的 Java SDK 执行，同时保留源电子表格的主要结构和逻辑内容。我们的 Java 库是清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格在线验证的专业解决方案。此云 SDK 为 Java 开发人员提供了强大的功能和完美的 API。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java 用于清除本地电子表格验证的代码" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-Clear-Validation.java" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java 清除本地电子表格验证的代码" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-Clear-Validation.java" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何利用Cells Cloud SDK for Java清除验证" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud SDK for Java 清除验证" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
 <li>调用 postClearObjects 方法获取结果流</li>

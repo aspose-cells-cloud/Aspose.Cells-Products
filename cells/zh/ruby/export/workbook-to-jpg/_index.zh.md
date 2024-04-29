@@ -1,15 +1,16 @@
 ﻿---
 title: 使用 Cells Cloud SDK for Ruby 将 WORKBOOK 从 Excel 导出为 JPG
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
-kwords:
-howto:
+kwords: Excel, workbook, jpg, Ruby
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKBOOK to JPG","description": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKBOOK to JPG","image": {"@type": "ImageObject"},"url": "/ruby/export/workbook-to-jpg/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKBOOK to JPG step 1", "image": {"@type": "ImageObject",},"url": "/ruby/export/workbook-to-jpg/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKBOOK to JPG step 1", "image": {"@type": "ImageObject",},"url": "/ruby/export/workbook-to-jpg/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKBOOK to JPG step 1", "image": {"@type": "ImageObject",},"url": "/ruby/export/workbook-to-jpg/","text": "Call post_export method to get the resultant stream",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "RubyMine, Visual Studio Code, Aptana Studio, NetBeans"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 WORKBOOK 从 Excel 导出为 JPG" h2="用于将 WORKBOOK 导出为 JPG 文件的 Ruby 库" p="使用 Cells Cloud 的 Export API 在 Ruby 中导出 Excel 文件内部对象工作流。这是使用 Ruby 将电子表格在线导出 WORKBOOK 为 JPG 格式文件的专业解决方案。" urlsection="export/workbook-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="从 Excel 导出 WORKBOOK 到 JPG" h2="用于将 WORKBOOK 导出为 JPG 文件的 Ruby 库" p="使用 Cells Cloud 的 Export API 以 Ruby 格式导出 Excel 文件内部对象工作流。这是一个使用 Ruby 在线将 WORKBOOK 从电子表格导出为 JPG 格式文件的专业解决方案。" urlsection="export/workbook-to-jpg/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Ruby 将 WORKBOOK 对象导出为 JPG 格式文件" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-将 WORKBOOK 对象从 Excel 文件导出到 JPG 文件是一项复杂的任务。将 WORKBOOK 导出为 JPG 格式转换由我们的 Ruby SDK 执行，同时保留源 WORKBOOK 电子表格的主要结构和逻辑内容。我们的 Ruby 库是将 WORKBOOK 对象在线导出为 JPG 格式文件的专业解决方案。该Cloud SDK为Ruby开发人员提供了强大的功能和完美的JPG输出。
+将 WORKBOOK 对象从 Excel 文件导出到 JPG 文件是一项复杂的任务。将 WORKBOOK 导出到 JPG 格式的转换由我们的 Ruby SDK 执行，同时保留源 WORKBOOK 电子表格的主要结构和逻辑内容。我们的 Ruby 库是一个专业的解决方案，可在线将 WORKBOOK 对象导出到 JPG 格式文件。此 Cloud SDK 为 Ruby 开发人员提供了强大的功能和完美的 JPG 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

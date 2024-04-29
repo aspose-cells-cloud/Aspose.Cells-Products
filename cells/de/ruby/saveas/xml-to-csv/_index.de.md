@@ -1,9 +1,9 @@
 ﻿---
 title:  Speichern Sie XML als CSV mit Ruby
-description:  Verwendung von Aspose.Cells Cloud SDK für Ruby zum Speichern von XML-Formatdateien als CSV-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Ruby, um Dateien im XML-Format als Dateien im CSV-Format zu speichern.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XML als CSV speichern" h2="Ruby-Bibliothek zum Speichern von XML als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als CSV und anderen Dokumentformaten mit Ruby." urlsection="saveas/xml-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML als CSV speichern" h2="Ruby-Bibliothek zum Speichern von XML als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um XML als CSV und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/xml-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als CSV in Ruby" >}}

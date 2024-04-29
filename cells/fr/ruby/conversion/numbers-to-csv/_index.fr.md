@@ -3,7 +3,7 @@ title:  Convertir des NUMBERS en CSV à l'aide de Ruby
 description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format NUMBERS en fichier au format CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir des NUMÉROS en CSV" h2="Bibliothèque Ruby pour convertir des NUMBERS en CSV" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Ruby. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en CSV et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/numbers-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convertir des NUMBERS en CSV" h2="Bibliothèque Ruby pour convertir des NUMBERS en CSV" p="Utilisez la conversion API de Cells Cloud pour créer des workflows de feuilles de calcul personnalisés dans les projets Ruby. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en CSV et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="conversion/numbers-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertissez NUMBERS en CSV à l\'aide du SDK Cloud Cells pour Ruby" >}}

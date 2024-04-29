@@ -9,7 +9,7 @@ howto: How to save CSV as TXT using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Guarde un archivo CSV como TXT en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de CSV como TXT es una tarea compleja. Todas las transiciones de formato CSV a TXT las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca de Android es una solución profesional para guardar CSV como archivos TXT en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida TXT perfecta.
+Guardar formatos de archivo de CSV como TXT es una tarea compleja. Todas las transiciones de formato CSV a TXT se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca de Android es una solución profesional para guardar CSV como archivos TXT en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida TXT perfecta.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

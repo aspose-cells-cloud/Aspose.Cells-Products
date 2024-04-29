@@ -10,7 +10,7 @@ url: /es/swift/export/shape-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto SHAPE a archivo de formato SVG en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto SHAPE al archivo SVG desde una hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza la exportación de transiciones de formato SHAPE a SVG mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SHAPE de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos SHAPE a archivos de formato SVG en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado SVG perfecto.
+Exportar un objeto SHAPE al archivo SVG desde una hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza la exportación de transiciones de formato SHAPE a SVG manteniendo el contenido estructural y lógico principal de la hoja de cálculo SHAPE de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos SHAPE a archivos de formato SVG en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado SVG perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar SHAPE al formato SVG desde una hoja de cálculo" gistPath="" %}}

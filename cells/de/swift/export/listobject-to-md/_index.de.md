@@ -4,16 +4,16 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/swift/export/listobject-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von LISTOBJECT in eine MD-Datei" h2="Swift-Bibliothek zum Exportieren von LISTOBJECT in eine MD-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von LISTOBJECT in eine MD-Formatdatei aus einer Tabellenkalkulation mit Swift." urlsection="export/listobject-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von LISTOBJECT in eine MD-Datei" h2="Swift-Bibliothek zum Exportieren von LISTOBJECT in eine MD-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Swift zu exportieren. Dies ist eine professionelle Lösung, um LISTOBJECT online mit Swift aus Tabellenkalkulationen in MD-Formatdateien zu exportieren." urlsection="export/listobject-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in Swift in eine MD-Formatdatei" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine Datei im MD-Format in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine MD-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das MD-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
+Das Exportieren von LISTOBJECT-Objekten aus einer Tabellenkalkulation in eine MD-Datei ist eine komplexe Aufgabe. Die Formatübergänge von LISTOBJECT in MD werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle LISTOBJECT erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Exportieren von LISTOBJECT-Objekten in MD-Formatdateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von LISTOBJECT in das MD-Format aus einer Tabellenkalkulation" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von LISTOBJECT aus einer Tabelle in das MD-Format" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

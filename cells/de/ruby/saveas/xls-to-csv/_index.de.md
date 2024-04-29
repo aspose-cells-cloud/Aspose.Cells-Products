@@ -1,9 +1,9 @@
 ﻿---
 title:  Speichern Sie XLS als CSV mit Ruby
-description:  Verwendung von Aspose.Cells Cloud SDK für Ruby zum Speichern von XLS-Formatdateien als CSV-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Ruby, um Dateien im XLS-Format als Dateien im CSV-Format zu speichern.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLS als CSV speichern" h2="Ruby-Bibliothek zum Speichern von XLS als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLS als CSV und anderen Dokumentformaten mit Ruby." urlsection="saveas/xls-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLS als CSV speichern" h2="Ruby-Bibliothek zum Speichern von XLS als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um XLS als CSV und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/xls-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLS-Datei als CSV in Ruby" >}}

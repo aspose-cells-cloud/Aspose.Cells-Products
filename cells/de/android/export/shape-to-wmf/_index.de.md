@@ -9,10 +9,10 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in eine Datei im WMF-Format mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines SHAPE-Objekts aus der Datei Excel in eine WMF-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von SHAPE in das WMF-Format wird von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SHAPE-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Exportieren von SHAPE-Objekten in eine WMF-Datei aus der Datei Excel ist eine komplexe Aufgabe. Die Formatübergänge von SHAPE ins WMF-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Exportieren von SHAPE-Objekten in WMF-Formatdateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte WMF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von SHAPE aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von SHAPE aus einer Tabelle in das WMF-Format" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

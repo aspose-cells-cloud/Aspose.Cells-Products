@@ -4,12 +4,12 @@ description: 利用Aspose.Cells Cloud SDK for Android将HTML格式文件保存�
 kwords: Excel, Save HTML as PDF, REST, Android
 howto: How to save HTML as PDF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 HTML 另存为 PDF" h2="用于将 HTML 保存为 PDF 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将HTML另存为PDF等文档格式的专业解决方案。" urlsection="saveas/html-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 HTML 另存为 PDF" h2="用于将 HTML 保存为 PDF 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 HTML 保存为 PDF 和其他文档格式的专业解决方案。" urlsection="saveas/html-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="在Android中将HTML文件另存为PDF" >}}
+{{< blocks/products/cells/cells-cloud-section title="在 Android 中将 HTML 文件另存为 PDF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将文件格式从 HTML 保存为 PDF 是一项复杂的任务。所有 HTML 到 PDF 的格式转换均由我们的 Android SDK 执行，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的Android库是在线将HTML保存为PDF文件的专业解决方案。此Cloud SDK为Android开发者提供了强大的功能和完美的PDF输出。
+将文件格式从 HTML 保存为 PDF 是一项复杂的任务。所有 HTML 到 PDF 格式的转换均由我们的 Android SDK 执行，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的 Android 库是一个专业的解决方案，可在线将 HTML 保存为 PDF 文件。此云 SDK 为 Android 开发人员提供了强大的功能和完美的 PDF 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -4,12 +4,12 @@ description:  XLT formatındaki bir dosyayı FODS formatındaki bir dosyaya dön
 kwords: Excel, Convert XLT to FODS, REST, Android
 howto: How to convert XLT to FODS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="XLT\'yi FODS\'ye dönüştür" h2="XLT\'yi FODS\'ye dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android\'i kullanarak XLT\'yi FODS\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlt-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLT\'yi FODS\'ye dönüştür" h2="XLT\'yi FODS\'ye dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android kullanarak XLT\'yi FODS\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlt-to-fods/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Android için Cells Cloud SDK\'yı kullanarak XLT\'yi FODS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLT'den FODS'ye dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm XLT'den FODS formatına dönüşümleri gerçekleştirir. Android kitaplığımız, XLT'yi çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli FODS çıktısı sağlar.
+Dosya formatlarını XLT'den FODS'ye dönüştürmek karmaşık bir iş olabilir. Android SDK'mız, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken, tüm XLT'den FODS formatına dönüşümleri gerçekleştirir. Android kitaplığımız, XLT'yi çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, Android geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli FODS çıktısı sağlar.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -47,7 +47,7 @@ Dosya formatlarını XLT'den FODS'ye dönüştürmek karmaşık bir iş olabilir
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

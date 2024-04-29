@@ -1,9 +1,9 @@
 ﻿---
 title:  دمج ملفات Excel متعددة
-description:  Aspose.Cells Cloud REST API يسمح بدمج عدة ملفات Excel في ملف Excel واحد ويوفر SDKs للغات برمجة متعددة، بما في ذلك Android، C#، Go، Java، NodeJS، Perl، PHP، 076183 481، روبي، وسويفت.
+description:  Aspose.Cells Cloud REST API يسمح بدمج عدة ملفات Excel في ملف Excel واحد ويوفر SDKs للغات برمجة متعددة، بما في ذلك Android، C#، Go، Java، NodeJS، Perl، PHP، 07618 3481، روبي، وسويفت.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="دمج ملفات Excel متعددة" h2="يدعم Aspose.Cells Cloud SDK دمج ملفات Excel المتعددة في ملف Excel واحد." p="Aspose.Cells Cloud REST API يسمح بدمج عدة ملفات Excel في ملف Excel واحد ويوفر SDKs للغات برمجة متعددة، بما في ذلك Android، C#، Go، Java، NodeJS، Perl، PHP، 076183 481، روبي، وسويفت." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="دمج ملفات Excel متعددة" h2="يدعم Aspose.Cells Cloud SDK دمج ملفات Excel المتعددة في ملف Excel واحد." p="Aspose.Cells Cloud REST API يسمح بدمج عدة ملفات Excel في ملف Excel واحد ويوفر SDKs للغات برمجة متعددة، بما في ذلك Android، C#، Go، Java، NodeJS، Perl، PHP، 07618 3481، روبي، وسويفت." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

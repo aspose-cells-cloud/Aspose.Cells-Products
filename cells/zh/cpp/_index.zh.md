@@ -12,9 +12,9 @@ url: /zh/cpp
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-cpp.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-cpp" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for CPP 帮助开发人员使用 Go 语言创建自己的基于云的电子表格创建器、阅读器、查看器和转换器应用程序。该 SDK 为 Aspose.Cells REST API 提供了易于使用的界面，以执行各种电子表格处理任务，例如在云中创建、修改、转换和呈现 Excel 文档。</p>
-<p>Aspose.Cells Cloud SDK for CPP 完全支持与电子表格读写相关的多种高级功能，例如从头开始创建新电子表格、修改现有文件、添加新工作表、将数据导入 Excel 工作表、隐藏和取消隐藏工作表、移动工作表、对工作表中的数据进行排序、复制或重命名工作表、冻结或解冻工作表、添加或删除工作簿、加密或解密工作簿、用密码保护 Excel 工作簿、合并 Excel 工作簿等等。</p>
-<p>使用 Aspose.Cells Cloud SDK for CPP 开发人员可以使用 CPP 命令轻松完成自动过滤、数据透视表处理和电子表格的条件格式化。该SDK提供了非常强大的电子表格文件转换操作，完全支持XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM等Microsoft Excel格式之间的相互转换以及与PDF、XPS、SVG等其他流行文件格式的转换, TIFF, Markdown 和 DIF 格式。</p>
+<p>Aspose.Cells Cloud SDK for CPP 可帮助开发人员使用 Go 语言创建自己的基于云的电子表格创建器、阅读器、查看器和转换器应用程序。该 SDK 为 Aspose.Cells REST API 提供了一个易于使用的界面，可执行各种电子表格处理任务，例如在云中创建、修改、转换和渲染 Excel 文档。</p>
+<p>Aspose.Cells Cloud SDK for CPP 完全支持与电子表格读写相关的多项高级功能，例如从头开始创建新电子表格、修改现有文件、添加新工作表、将数据导入 Excel 工作表、隐藏和取消隐藏工作表、移动工作表、对工作表中的数据进行排序、复制或重命名工作表、冻结或解冻工作表、添加或删除工作簿、加密或解密工作簿、使用密码保护 Excel 工作簿、合并 Excel 工作簿等等。</p>
+<p>使用 Aspose.Cells Cloud SDK for CPP 开发人员可以使用 CPP 命令轻松完成自动过滤、数据透视表处理和电子表格的条件格式化。 SDK提供了非常强大的电子表格文件转换操作，完全支持XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM等Microsoft Excel格式之间的相互转换以及与PDF、XPS、SVG等其他流行文件格式的转换, TIFF, Markdown 和 DIF 格式。</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -112,13 +112,13 @@ Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式将 Excel �
 将多个 Microsoft Excel 或 OpenOffice Calc 电子表格合并到一个文件中。
     </h2>
     <p>
-Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式将多个 Microsoft Excel 或 OpenOffice Calc 电子表格合并到文件中的功能。支持多种格式文件输入。并支持多种格式输出。
+Aspose.Cells Cloud SDK for CPP 已包含使用 CPP 语言以编程方式将多个 Microsoft Excel 或 OpenOffice Calc 电子表格合并为一个文件的功能。支持多种格式文件输入。并支持多种格式输出。
     </p>
     <h2 class="h2title">
 查找和替换文本工作簿
     </h2>
     <p>
-Aspose.Cells Cloud SDK for CPP 支持使用 CPP 语言命令处理工作簿内的文本。 SDK 提供了与文本搜索和更新相关的非常有用的功能，例如搜索和替换工作簿或工作表中的文本、从工作表中获取文本项等等。此外，您还可以使用简单的 CPP 命令从工作表中提取文本、图像或形状。
+Aspose.Cells Cloud SDK for CPP 已支持使用 CPP 语言命令处理工作簿中的文本。SDK 提供了与文本搜索和更新相关的非常有用的功能，例如在工作簿或工作表中搜索和替换文本、从工作表中获取文本项等等。此外，您还可以使用简单的 CPP 命令从工作表中提取文本、图像或形状。
     </p>
     <p>
     </p>
@@ -144,7 +144,7 @@ Aspose.Cells Cloud SDK for CPP 支持使用 CPP 语言命令处理工作簿内�
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.Cells CPP 云 SDK？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.Cells Cloud SDK for CPP？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="安全" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

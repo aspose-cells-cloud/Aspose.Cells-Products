@@ -13,7 +13,7 @@ url: /es/swift/saveas/numbers-to-xml/
 Guardar formatos de archivo de NUMBERS como XML es una tarea compleja. Todas las transiciones de formato NUMBERS a XML se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Swift es una solución profesional para guardar NÚMEROS como archivos XML en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida XML perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar NÚMEROS en formato XML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar NÚMEROS como formato XML" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

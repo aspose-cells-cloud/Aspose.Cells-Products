@@ -9,7 +9,7 @@ howto: How to convert PNG to DOCX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Converti PNG in DOCX utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da PNG a DOCX può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato PNG al formato DOCX preservando il contenuto strutturale e logico principale del foglio di calcolo PNG di origine. La nostra libreria Android fornisce una soluzione professionale per convertire PNG in file DOCX online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output DOCX di alta qualità.
+La conversione dei formati di file da PNG a DOCX può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato PNG al formato DOCX preservando il contenuto strutturale e logico principale del foglio di calcolo sorgente PNG. La nostra libreria Android fornisce una soluzione professionale per convertire PNG in file DOCX online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output DOCX di alta qualità.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

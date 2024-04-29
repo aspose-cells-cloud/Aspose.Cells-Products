@@ -9,7 +9,7 @@ description:  Använder Aspose.Cells Cloud SDK for Java för att spara TXT-forma
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en TXT-fil som CSV i Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från TXT som CSV är en komplex uppgift. Alla TXT- till CSV-formatövergångar utförs av vår Java SDK samtidigt som källkodens TXT-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Java-bibliotek är en professionell lösning för att spara TXT som CSV-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Att spara filformat från TXT som CSV är en komplex uppgift. Alla TXT- till CSV-formatövergångar utförs av vår Java SDK med bibehållen källkod för TXT-kalkylarkets huvudsakliga strukturella och logiska innehåll. Vårt Java-bibliotek är en professionell lösning för att spara TXT som CSV-filer online. Denna Cloud SDK ger Java utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java Kod Exempel för att spara TXT som CSV med REST API" gistPath="" %}}

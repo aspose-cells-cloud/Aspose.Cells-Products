@@ -10,7 +10,7 @@ url: /sv/swift/export/picture-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera PICTURE-objekt till WMF-formatfil i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera PICTURE-objekt till WMF-fil från kalkylblad är en komplex uppgift. Exportera PICTURE till WMF-formatövergångar utförs av vår Swift SDK samtidigt som källbildens BILD-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att exportera BILDobjekt till WMF-formatfiler online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt WMF-utdata.
+Exportera PICTURE-objekt till WMF-fil från kalkylblad är en komplex uppgift. Exportera PICTURE till WMF-formatövergångar utförs av vår Swift SDK samtidigt som källkoden PICTURE-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att exportera BILDobjekt till WMF-formatfiler online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt WMF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att exportera BILD till WMF-format från kalkylark" gistPath="" %}}

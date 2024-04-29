@@ -1,12 +1,12 @@
 ﻿---
 title:  Konvertieren Sie TSV mit Android in BMP
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im TSV-Format in eine Datei im BMP-Format.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im TSV-Format in eine Datei im BMP-Format zu konvertieren.
 kwords: Excel, Convert TSV to BMP, REST, Android
 howto: How to convert TSV to BMP using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie TSV in BMP" h2="Android-Bibliothek zum Konvertieren von TSV in BMP" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von TSV in BMP und andere Dokumentformate online mit Android." urlsection="conversion/tsv-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie TSV in BMP" h2="Android-Bibliothek zur Konvertierung von TSV in BMP" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von TSV in BMP und andere Dokumentformate online mit Android." urlsection="conversion/tsv-to-bmp/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie TSV in BMP mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie TSV in BMP mit dem Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von TSV in BMP kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle TSV-Formatkonvertierungen in das BMP-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-TSV-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von TSV-Dateien in BMP-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige BMP-Ausgabe.

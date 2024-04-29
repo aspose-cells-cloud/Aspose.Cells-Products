@@ -1,16 +1,16 @@
 ﻿---
 title:  XLSX zu XML Konvertieren API für Swift
-description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSX-Formatdatei in eine XML-Formatdatei.
+description: Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im XLSX-Format in eine Datei im XML-Format zu konvertieren.
 url: /de/swift/conversion/xlsx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XLSX in XML" h2="Swift-Bibliothek zum Konvertieren von XLSX in XML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSX in XML und andere Dokumentformate mit Swift." urlsection="conversion/xlsx-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XLSX in XML" h2="Swift-Bibliothek zum Konvertieren von XLSX in XML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLSX online mit Swift in XML und andere Dokumentformate zu konvertieren." urlsection="conversion/xlsx-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSX-Datei in Swift in XML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSX in XML ist eine komplexe Aufgabe. Alle XLSX-zu-XML-Formatübergänge werden von unserem Swift SDK durchgeführt, während der wichtigste strukturelle und logische Inhalt der XLSX-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSX- in XML-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSX in XML ist eine komplexe Aufgabe. Alle Formatübergänge von XLSX in XML werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle XLSX erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSX- in XML-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte XML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLSX in das XML-Format" gistPath="" %}}

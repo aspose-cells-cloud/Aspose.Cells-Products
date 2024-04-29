@@ -9,7 +9,7 @@ description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern der M
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine MHTML-Datei als CSV unter PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus MHTML als CSV ist eine komplexe Aufgabe. Alle Übergänge vom MHTML- zum CSV-Format werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um MHTML als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
+Das Speichern von Dateiformaten von MHTML als CSV ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML zu CSV werden von unserem PHP SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Speichern von MHTML als CSV-Dateien. Dieses Cloud SDK bietet PHP-Entwicklern leistungsstarke Funktionen und perfekte CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PHP Codebeispiel zum Speichern von MHTML als CSV mit REST API" gistPath="" %}}

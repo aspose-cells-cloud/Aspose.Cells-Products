@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie GIF als XLTM mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von GIF-Formatdateien als XLTM-Formatdateien.
+title:  GIF als XLTM mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im GIF-Format als Dateien im XLTM-Format zu speichern.
 kwords: Excel, Save GIF as XLTM, REST, Android
 howto: How to save GIF as XLTM using Aspose.Cells Cloud Android library.
 ---

@@ -10,7 +10,7 @@ url: /fr/swift/conversion/xlsm-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSM en JSON dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLSM vers JSON est une tâche complexe. Toutes les transitions du format XLSM vers JSON sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers XLSM en JSON en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie JSON parfaite.
+La conversion des formats de fichiers XLSM en JSON est une tâche complexe. Toutes les transitions du format XLSM vers JSON sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Swift est une solution professionnelle pour convertir des fichiers XLSM en JSON en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie JSON parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir XLSM au format JSON" gistPath="" %}}

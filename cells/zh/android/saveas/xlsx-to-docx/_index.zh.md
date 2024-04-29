@@ -1,9 +1,9 @@
 ﻿---
-title: 使用 Android 将 XLSX 保存为 DOCX
-description: 利用Aspose.Cells Cloud SDK for Android将XLSX格式文件保存为DOCX格式文件。
+title: 使用 Android 将 XLSX 另存为 DOCX
+description: 利用 Aspose.Cells Cloud SDK for Android 将 XLSX 格式文件保存为 DOCX 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLSX 保存为 DOCX" h2="用于将 XLSX 保存为 DOCX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLSX 保存为 DOCX 和其他文档格式的专业解决方案。" urlsection="saveas/xlsx-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLSX 另存为 DOCX" h2="用于将 XLSX 保存为 DOCX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLSX 保存为 DOCX 和其他文档格式的专业解决方案。" urlsection="saveas/xlsx-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Android 中将 XLSX 文件另存为 DOCX" >}}

@@ -10,7 +10,7 @@ url: /ru/swift/saveas/png-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG в формате CSV в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение файлов формата PNG в формате CSV — сложная задача. Все переходы формата PNG в формат CSV выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в формате CSV в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
+Сохранение файлов формата PNG в формате CSV — сложная задача. Все переходы формата PNG в формат CSV выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в формате CSV в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения PNG в формате CSV" gistPath="" %}}

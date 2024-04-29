@@ -9,7 +9,7 @@ howto: How to save MHTML as ODS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en MHTML-fil som ODS i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från MHTML som ODS är en komplex uppgift. Alla MHTML till ODS-formatövergångar utförs av vår Android SDK samtidigt som käll-MHTML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara MHTML som ODS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt ODS-utgång.
+Att spara filformat från MHTML som ODS är en komplex uppgift. Alla MHTML- till ODS-formatövergångar utförs av vår Android SDK samtidigt som käll-MHTML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara MHTML som ODS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt ODS-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -9,7 +9,7 @@ howto: How to convert XLSB to TXT using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertera XLSB till TXT med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSB till TXT kan vara en komplex uppgift. Vår Android SDK hanterar alla XLSB- till TXT-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLSB-kalkylblad bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera XLSB till TXT-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativ TXT-utdata.
+Att konvertera filformat från XLSB till TXT kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar av XLSB till TXT-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket för XLSB bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera XLSB till TXT-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativ TXT-utdata.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

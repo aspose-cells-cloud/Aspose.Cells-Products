@@ -1,15 +1,16 @@
 ﻿---
-title: 使用 Cells Cloud SDK for Java 将工作簿从 Excel 导出到 XPS
+title: 使用 Cells Cloud SDK for Java 将 WORKBOOK 从 Excel 导出至 XPS
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
-kwords:
-howto:
+kwords: Excel, workbook, xps, Java
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Java to export objects from Excel WORKBOOK to XPS","description": "How to use Cells Cloud SDK for Java to export objects from Excel WORKBOOK to XPS","image": {"@type": "ImageObject"},"url": "/java/export/workbook-to-xps/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Java to export objects from Excel WORKBOOK to XPS step 1", "image": {"@type": "ImageObject",},"url": "/java/export/workbook-to-xps/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Java to export objects from Excel WORKBOOK to XPS step 1", "image": {"@type": "ImageObject",},"url": "/java/export/workbook-to-xps/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Java to export objects from Excel WORKBOOK to XPS step 1", "image": {"@type": "ImageObject",},"url": "/java/export/workbook-to-xps/","text": "Use the `postExport` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将工作簿从 Excel 导出到 XPS" h2="Java 用于将 WORKBOOK 导出到 XPS 文件的库" p="使用Cells云的导出API导出Java中的Excel文件内部对象工作流程。这是使用Java在线电子表格将WORKBOOK导出为XPS格式文件的专业解决方案。" urlsection="export/workbook-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将工作簿从 Excel 导出到 XPS" h2="Java 库用于将 WORKBOOK 导出到 XPS 文件" p="使用 Cells 云的导出 API 导出 Java 中的 Excel 文件内部对象工作流。这是一个专业的解决方案，可使用 Java 在线将电子表格中的 WORKBOOK 导出为 XPS 格式的文件。" urlsection="export/workbook-to-xps/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Java 将 WORKBOOK 对象导出为 XPS 格式文件" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-将 WORKBOOK 对象从 Excel 文件导出到 XPS 文件是一项复杂的任务。将 WORKBOOK 导出到 XPS 格式转换由我们的 Java SDK 执行，同时保留源 WORKBOOK 电子表格的主要结构和逻辑内容。我们的 Java 库是在线将 WORKBOOK 对象导出为 XPS 格式文件的专业解决方案。此Cloud SDK为Java开发者提供了强大的功能和完美的XPS输出。
+将 WORKBOOK 对象从 Excel 文件导出到 XPS 文件是一项复杂的任务。将 WORKBOOK 导出到 XPS 格式的转换由我们的 Java SDK 执行，同时保留源 WORKBOOK 电子表格的主要结构和逻辑内容。我们的 Java 库是一个专业的解决方案，可在线将 WORKBOOK 对象导出到 XPS 格式的文件。此云 SDK 为 Java 开发人员提供了强大的功能和完美的 XPS 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

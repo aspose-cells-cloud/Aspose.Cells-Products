@@ -1,10 +1,10 @@
 ﻿---
-title:  Konvertieren Sie TSV mit Android in FODS
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im TSV-Format in eine Datei im FODS-Format.
+title:  Konvertieren Sie TSV in FODS mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im TSV-Format in eine Datei im FODS-Format zu konvertieren.
 kwords: Excel, Convert TSV to FODS, REST, Android
 howto: How to convert TSV to FODS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie TSV in FODS" h2="Android-Bibliothek zum Konvertieren von TSV in FODS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TSV in FODS und andere Dokumentformate mit Android." urlsection="conversion/tsv-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie TSV in FODS" h2="Android-Bibliothek zur Konvertierung von TSV in FODS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TSV in FODS und andere Dokumentformate mit Android." urlsection="conversion/tsv-to-fods/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie TSV in FODS mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

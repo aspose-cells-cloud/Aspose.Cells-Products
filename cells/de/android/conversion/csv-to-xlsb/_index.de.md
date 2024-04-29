@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie CSV in XLSB mit Android
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im CSV-Format in eine Datei im XLSB-Format.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im CSV-Format in eine Datei im XLSB-Format zu konvertieren.
 kwords: Excel, Convert CSV to XLSB, REST, Android
 howto: How to convert CSV to XLSB using Aspose.Cells Cloud Android library.
 ---

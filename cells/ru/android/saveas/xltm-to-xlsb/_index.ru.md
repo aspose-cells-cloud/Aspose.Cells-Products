@@ -9,7 +9,7 @@ howto: How to save XLTM as XLSB using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните файл XLTM как XLSB в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в XLSB — сложная задача. Все переходы формата XLTM в XLSB выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Android — это профессиональное решение для сохранения файлов XLTM в формате XLSB онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLSB.
+Сохранение форматов файлов из XLTM в XLSB — сложная задача. Все переходы формата XLTM в XLSB выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы XLTM. Наша библиотека Android — это профессиональное решение для сохранения файлов XLTM в формате XLSB онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLSB.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

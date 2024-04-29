@@ -10,7 +10,7 @@ url: /es/swift/conversion/png-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo PNG a FODS en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de PNG a FODS es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato PNG a FODS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen PNG. Nuestra biblioteca Swift es una solución profesional para convertir archivos PNG a FODS en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida FODS perfecta.
+Convertir formatos de archivo de PNG a FODS es una tarea compleja. Nuestro SDK Swift realiza todas las transiciones de formato PNG a FODS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen PNG. Nuestra biblioteca Swift es una solución profesional para convertir archivos PNG a FODS en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida FODS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir PNG al formato FODS" gistPath="" %}}

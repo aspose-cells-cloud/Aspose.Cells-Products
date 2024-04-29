@@ -10,7 +10,7 @@ url: /es/swift/export/worksheet-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto WORKSHEET a un archivo en formato CSV en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto WORKSHEET a un archivo CSV desde una hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de HOJA DE TRABAJO a formato CSV mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de HOJA DE TRABAJO de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos WORKSHEET a archivos en formato CSV en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida CSV perfecta.
+Exportar un objeto WORKSHEET a un archivo CSV desde una hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza las transiciones de exportación de WORKSHEET a formato CSV mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de WORKSHEET de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos WORKSHEET a archivos en formato CSV en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar HOJA DE TRABAJO a formato CSV desde una hoja de cálculo" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie JSON als XLTM API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von JSON-Formatdateien als XLTM-Formatdateien.
+title:  JSON als XLTM API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im JSON-Format als Datei im XLTM-Format zu speichern.
 url: /de/swift/saveas/json-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um JSON als XLTM zu speichern" h2="Swift-Bibliothek zum Speichern von JSON als XLTM" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um JSON als XLTM und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/json-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von JSON als XLTM" h2="Swift-Bibliothek zum Speichern von JSON als XLTM" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um JSON als XLTM und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/json-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JSON-Datei als XLTM in Swift" >}}

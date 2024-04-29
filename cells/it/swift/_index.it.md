@@ -13,7 +13,7 @@ url: /it/swift
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK per Swift aiuta i programmatori a integrare perfettamente Microsoft Excel e le funzionalità di visualizzazione ed elaborazione dei fogli di calcolo di OpenOffice nelle loro applicazioni basate su cloud sviluppate in Swift. Aspose.Cells Cloud SDK per Swift è concesso in licenza dal MIT.</p>
-<p>Aspose.Cells Cloud SDK per Swift consente alle tue app Swift di recuperare fogli di calcolo, fogli di lavoro e cartelle di lavoro archiviati nel cloud, nonché di generare nuovi fogli di calcolo. Puoi anche ottimizzare il codice Swift per elaborare e modificare formattazione condizionale, grafici, attività, forme, filtri, OleObject, intervalli, ListObject e tabelle pivot, dall'interno delle tue applicazioni senza installare alcun software di terze parti.</p>
+<p>Aspose.Cells Cloud SDK per Swift consente alle tue app Swift di recuperare fogli di calcolo, fogli di lavoro e cartelle di lavoro archiviati nel cloud, nonché di generare nuovi fogli di calcolo. Puoi anche ottimizzare il codice Swift per elaborare e modificare formattazione condizionale, grafici, attività, forme, filtri, OleObject, intervalli, ListObject e tabelle pivot, dall'interno delle tue applicazioni senza installare software di terze parti.</p>
 <p>Utilizza Aspose.Cells Cloud SDK per Swift per convertire i fogli di lavoro Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) e OpenOffice (ODS) in altri formati popolari, come XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF e Ribasso (MD). Puoi anche lavorare con i formati SXC e FODS utilizzando Aspose.Cells Cloud SDK per Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 

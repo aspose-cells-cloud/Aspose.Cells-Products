@@ -10,7 +10,7 @@ url: /es/swift/saveas/xltx-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XLTX como SXC en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLTX como SXC es una tarea compleja. Todas las transiciones de formato XLTX a SXC las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Swift es una solución profesional para guardar XLTX como archivos SXC en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado SXC perfecto.
+Guardar formatos de archivo de XLTX como SXC es una tarea compleja. Todas las transiciones de formato XLTX a SXC se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Swift es una solución profesional para guardar XLTX como archivos SXC en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado SXC perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar XLTX como formato SXC" gistPath="" %}}

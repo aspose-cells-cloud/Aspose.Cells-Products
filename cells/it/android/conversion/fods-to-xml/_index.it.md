@@ -11,7 +11,7 @@ platform: Android
 otherformats: XLSX XPS TXT XML CSV MHTML XLTX SVG DIF ODS MD XLTM TSV XLSM FODS XLSB 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti FODS in XML nel cloud" h2="Converti fogli di calcolo Excel e OpenOffice con Cloud SDK open source per Android" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti FODS in XML nel Cloud" h2="Converti fogli di calcolo Excel e OpenOffice con Cloud SDK open source per Android" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

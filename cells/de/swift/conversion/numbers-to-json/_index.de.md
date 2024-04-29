@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS in JSON Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im JSON-Format.
+title:  NUMBERS zu JSON Konvertieren API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im NUMBERS-Format in eine Datei im JSON-Format zu konvertieren.
 url: /de/swift/conversion/numbers-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

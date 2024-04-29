@@ -10,7 +10,7 @@ url: /ru/swift/saveas/numbers-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как XML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде XML — сложная задача. Все переходы формата NUMBERS в формат XML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов XML в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из NUMBERS в виде XML — сложная задача. Все переходы формата NUMBERS в формат XML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов XML в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения ЧИСЕЛ в формате XML" gistPath="" %}}

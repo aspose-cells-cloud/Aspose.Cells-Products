@@ -10,7 +10,7 @@ url: /sv/swift/conversion/xltm-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLTM-fil till TSV i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTM till TSV är en komplex uppgift. Alla XLTM till TSV-formatövergångar utförs av vår Swift SDK samtidigt som källbladets XLTM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLTM till TSV-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt TSV-utdata.
+Att konvertera filformat från XLTM till TSV är en komplex uppgift. Alla XLTM till TSV-formatövergångar utförs av vår Swift SDK samtidigt som källkodens XLTM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLTM till TSV-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt TSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera XLTM till TSV-format" gistPath="" %}}

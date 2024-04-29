@@ -10,7 +10,7 @@ url: /de/swift/export/listobject-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine Datei im PPTX-Format in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine PPTX-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von LISTOBJECT in das PPTX-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in PPTX-Formatdateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte PPTX-Ausgabe.
+Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine PPTX-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-zu-PPTX-Formatübergängen wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in PPTX-Formatdateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte PPTX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von LISTOBJECT in das PPTX-Format aus einer Tabellenkalkulation" gistPath="" %}}

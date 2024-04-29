@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie CSV unter PNG mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern der Datei im CSV-Format als Datei im Format PNG.
+title:  CSV als PNG speichern mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im CSV-Format als Dateien im PNG-Format zu speichern.
 kwords: Excel, Save CSV as PNG, REST, Android
 howto: How to save CSV as PNG using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="CSV unter PNG speichern" h2="Android-Bibliothek zum Speichern von CSV als PNG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um CSV als PNG und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/csv-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="CSV speichern als PNG" h2="Android-Bibliothek zum Speichern von CSV als PNG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um CSV als PNG und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/csv-to-png/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine CSV-Datei unter Android als PNG" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

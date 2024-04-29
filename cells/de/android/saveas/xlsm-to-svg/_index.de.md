@@ -6,10 +6,10 @@ howto: How to save XLSM as SVG using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLSM unter SVG" h2="Android-Bibliothek zum Speichern von XLSM unter SVG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLSM als SVG und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlsm-to-svg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLSM-Datei unter Android als SVG" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLSM-Datei als SVG in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XLSM als SVG ist eine komplexe Aufgabe. Alle XLSM-Formatübergänge in das SVG-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLSM als SVG-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte SVG-Ausgabe.
+Das Speichern von Dateiformaten von XLSM als SVG ist eine komplexe Aufgabe. Alle Formatübergänge von XLSM zu SVG werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XLSM-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLSM als SVG-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte SVG-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

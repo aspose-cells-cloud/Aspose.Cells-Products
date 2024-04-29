@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните GIF как CSV, используя Perl.
-description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата GIF в формате CSV.
+description: Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата GIF в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить GIF как CSV" h2="Perl библиотека для сохранения GIF в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Perl. Это профессиональное решение для сохранения GIF в формате CSV и других форматов документов в Интернете с помощью Perl." urlsection="saveas/gif-to-csv/" >}}
@@ -28,7 +28,7 @@ description:  Использование Aspose.Cells Cloud SDK для Perl дл
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl для сохранения файлов Excel в других форматах GIF или CSV." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Cloud SDK Cells для Perl, чтобы сохранять файлы Excel в других форматах: GIF или CSV." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Инициализируйте Cells API, указав свой идентификатор клиента, секрет клиента, базовый URL-адрес и версию API.</li>
 <li>Позвонить_рабочая тетрадь_save_as для получения результирующего потока</li>

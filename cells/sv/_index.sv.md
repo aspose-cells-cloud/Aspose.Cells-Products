@@ -33,7 +33,7 @@ Påskynda utvecklingen av webbaserade eller stationära applikationer för hante
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="/product-logos/aspose_cells-for-java.svg" productLink="https://products.aspose.com/cells/java" >}}
-Java API bibliotek för att skapa inbyggda appar för att generera, konvertera, skydda och skriva ut Excel och OpenOffice-kalkylblad.
+Java API bibliotek för att bygga inbyggda appar för att generera, konvertera, skydda och skriva ut Excel & OpenOffice-kalkylblad.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="/product-logos/aspose_cells-for-cpp.svg" productLink="https://products.aspose.com/cells/cpp/" >}}

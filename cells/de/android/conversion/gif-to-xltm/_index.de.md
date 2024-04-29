@@ -1,19 +1,19 @@
 ﻿---
-title:  Konvertieren Sie GIF mit Android in XLTM
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im GIF-Format in eine Datei im XLTM-Format.
+title:  Konvertieren Sie GIF in XLTM mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im GIF-Format in eine Datei im XLTM-Format zu konvertieren.
 kwords: Excel, Convert GIF to XLTM, REST, Android
 howto: How to convert GIF to XLTM using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie GIF in XLTM" h2="Android-Bibliothek zum Konvertieren von GIF in XLTM" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von GIF in XLTM und andere Dokumentformate mit Android." urlsection="conversion/gif-to-xltm/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie GIF in XLTM mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie GIF in XLTM mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von GIF in XLTM kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von GIF in das XLTM-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-GIF-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von GIF- in XLTM-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLTM-Ausgabe.
+Das Konvertieren von Dateiformaten von GIF in XLTM kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom GIF- ins XLTM-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der GIF-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von GIF- in XLTM-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLTM-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von GIF in XLTM mit dem Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zum Konvertieren von GIF in XLTM mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

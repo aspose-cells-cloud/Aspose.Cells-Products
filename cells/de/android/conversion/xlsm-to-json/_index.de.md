@@ -1,12 +1,12 @@
 ﻿---
-title:  Konvertieren Sie XLSM mit Android in JSON
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im XLSM-Format in eine Datei im JSON-Format.
+title:  Konvertieren Sie XLSM in JSON mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLSM-Format in eine Datei im JSON-Format zu konvertieren.
 kwords: Excel, Convert XLSM to JSON, REST, Android
 howto: How to convert XLSM to JSON using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLSM in JSON" h2="Android-Bibliothek zum Konvertieren von XLSM in JSON" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSM in JSON und andere Dokumentformate mit Android." urlsection="conversion/xlsm-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLSM in JSON" h2="Android-Bibliothek zum Konvertieren von XLSM in JSON" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um XLSM online mit Android in JSON und andere Dokumentformate zu konvertieren." urlsection="conversion/xlsm-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSM in JSON mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSM in JSON mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von XLSM in JSON kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von XLSM in das JSON-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLSM-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSM- in JSON-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige JSON-Ausgabe.

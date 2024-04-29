@@ -10,7 +10,7 @@ url: /sv/swift/conversion/xml-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XML-fil till TXT i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XML till TXT är en komplex uppgift. Alla XML till TXT-formatövergångar utförs av vår Swift SDK samtidigt som käll-XML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XML till TXT-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt TXT-utdata.
+Att konvertera filformat från XML till TXT är en komplex uppgift. Alla XML- till TXT-formatövergångar utförs av vår Swift SDK samtidigt som käll-XML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XML till TXT-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt TXT-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera XML till TXT-format" gistPath="" %}}

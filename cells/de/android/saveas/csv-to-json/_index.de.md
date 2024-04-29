@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie CSV als JSON mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von CSV-Formatdateien als JSON-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im CSV-Format als Dateien im JSON-Format zu speichern.
 kwords: Excel, Save CSV as JSON, REST, Android
 howto: How to save CSV as JSON using Aspose.Cells Cloud Android library.
 ---

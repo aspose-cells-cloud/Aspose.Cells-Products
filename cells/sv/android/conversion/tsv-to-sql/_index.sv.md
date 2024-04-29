@@ -9,7 +9,7 @@ howto: How to convert TSV to SQL using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertera TSV till SQL med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från TSV till SQL kan vara en komplex uppgift. Vår Android SDK hanterar alla TSV- till SQL-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-TSV-kalkylarket bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera TSV till SQL-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer SQL-utdata av hög kvalitet.
+Att konvertera filformat från TSV till SQL kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar av TSV till SQL-format samtidigt som det huvudsakliga strukturella och logiska innehållet i käll-TSV-kalkylarket bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera TSV till SQL-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer SQL-utdata av hög kvalitet.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -1,10 +1,10 @@
 ﻿---
-title: 将 Swift 的数字另存为 XLSB API
+title: 将 NUMBERS 另存为 XLSB API 以供 Swift 使用
 description: 使用 Aspose.Cells Cloud SDK for Swift 将 NUMBERS 格式文件保存为 XLSB 格式文件。
 url: /zh/swift/saveas/numbers-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 将数字保存为 XLSB" h2="将 NUMBERS 保存为 XLSB 的 Swift 库" p="使用 Cells SaveAs REST API 在 Swift 中创建自定义电子表格工作流程。这是一个使用 Swift 在线将 NUMBERS 保存为 XLSB 和其他文档格式的专业解决方案。" urlsection="saveas/numbers-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 将 NUMBERS 保存为 XLSB" h2="将 NUMBERS 保存为 XLSB 的 Swift 库" p="使用 Cells SaveAs REST API 在 Swift 中创建自定义电子表格工作流程。这是一个使用 Swift 在线将 NUMBERS 保存为 XLSB 和其他文档格式的专业解决方案。" urlsection="saveas/numbers-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Swift 中将 NUMBERS 文件另存为 XLSB" >}}
@@ -56,7 +56,7 @@ url: /zh/swift/saveas/numbers-to-xlsb/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Swift API 将 NUMBERS 保存为 XLSB" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 cellsSaveAsPostDocumentSaveAs 方法来获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

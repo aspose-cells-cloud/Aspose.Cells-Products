@@ -9,7 +9,7 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как CSV по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в CSV — сложная задача. Все переходы формата XLS в CSV выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной таблицы XLS. Наша библиотека Java — это профессиональное решение для сохранения файлов XLS в формате CSV онлайн. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод в формате CSV.
+Сохранение форматов файлов из XLS в CSV — сложная задача. Все переходы формата XLS в CSV выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Java — это профессиональное решение для сохранения файлов XLS в формате CSV онлайн. Этот Cloud SDK предоставляет разработчикам Java мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java Пример кода для сохранения XLS в формате CSV с использованием REST API" gistPath="" %}}

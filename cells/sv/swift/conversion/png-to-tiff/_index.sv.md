@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till TIFF Konvertera API för Swift
-description:  Använda Aspose.Cells Cloud SDK för Swift för att konvertera PNG filformat till TIFF filformat.
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera PNG filformat till TIFF filformat.
 url: /sv/swift/conversion/png-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

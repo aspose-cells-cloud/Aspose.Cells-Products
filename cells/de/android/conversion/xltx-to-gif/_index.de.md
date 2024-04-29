@@ -1,12 +1,12 @@
 ﻿---
 title:  Konvertieren Sie XLTX mit Android in GIF
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer XLTX-Formatdatei in eine GIF-Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLTX-Format in eine Datei im GIF-Format zu konvertieren.
 kwords: Excel, Convert XLTX to GIF, REST, Android
 howto: How to convert XLTX to GIF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTX in GIF" h2="Android-Bibliothek zum Konvertieren von XLTX in GIF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTX in GIF und andere Dokumentformate mit Android." urlsection="conversion/xltx-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTX in GIF" h2="Android-Bibliothek zum Konvertieren von XLTX in GIF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um XLTX online mit Android in GIF und andere Dokumentformate zu konvertieren." urlsection="conversion/xltx-to-gif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTX in GIF mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTX in GIF mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von XLTX in GIF kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle XLTX-in-GIF-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTX-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTX- in GIF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige GIF-Ausgabe.

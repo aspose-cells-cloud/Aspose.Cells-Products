@@ -9,15 +9,15 @@ description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc freis
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Lokales Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort entschlüsseln – Java REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/unlock" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostUnlock" apimethod="POST" %}}
 <br/>
-Das Entschlüsseln einer lokalen Tabelle mit einem Passwort ist eine komplexe Aufgabe. Die Entschlüsselung einer lokalen Kalkulationstabelle mit Passwortübergängen wird von unserem Java SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um lokale Tabellenkalkulationen online mit einem Passwort zu entschlüsseln. Dieses Cloud SDK bietet Entwicklern leistungsstarke Funktionalität und perfekte API.
+Das Entschlüsseln einer lokalen Tabelle mit einem Passwort ist eine komplexe Aufgabe. Das Entschlüsseln einer lokalen Tabelle mit Passwortübergängen wird von unserem Java SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung zum Online-Entschlüsseln lokaler Tabellen mit einem Passwort. Dieses Cloud SDK bietet Java-Entwicklern leistungsstarke Funktionen und perfekte API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java-Code zum Entschlüsseln lokaler Tabellenkalkulationen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-Unlock.java" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Code zum Entschlüsseln lokaler Tabellen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-Unlock.java" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java, um die Datei Excel zu entsperren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Java zum Entsperren der Datei Excel" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postUnlock auf, um den resultierenden Stream abzurufen</li>

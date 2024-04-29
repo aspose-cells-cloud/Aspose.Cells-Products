@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF als XPS API für Swift speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im GIF-Format als Datei im Format XPS zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im GIF-Format als Dateien im XPS-Format zu speichern.
 url: /de/swift/saveas/gif-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

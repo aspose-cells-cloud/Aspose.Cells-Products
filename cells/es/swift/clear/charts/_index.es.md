@@ -7,7 +7,7 @@ url: /es/swift/clear/charts/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar gráficos en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra gráficos en Microsoft Excel local y en la hoja de cálculo OpenOffice Calc usando Swift." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar gráficos en local Microsoft Excel y hoja de cálculo OpenOffice Calc - Swift REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
 Borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc es una tarea compleja. Nuestro Swift SDK realiza la limpieza de gráficos en las transiciones locales de hojas de cálculo Microsoft Excel y OpenOffice Calc mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Swift es una solución profesional para borrar gráficos en Microsoft Excel local y en hojas de cálculo OpenOffice Calc en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una funcionalidad potente y un API perfecto.

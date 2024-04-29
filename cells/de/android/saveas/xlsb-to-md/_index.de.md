@@ -1,15 +1,15 @@
 ﻿---
-title:  Speichern Sie XLSB als MD mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLSB-Formatdateien als MD-Formatdateien.
+title:  XLSB als MD mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLSB-Format als Dateien im MD-Format zu speichern.
 kwords: Excel, Save XLSB as MD, REST, Android
 howto: How to save XLSB as MD using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLSB als MD" h2="Android-Bibliothek zum Speichern von XLSB als MD" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSB als MD und anderen Dokumentformaten mit Android." urlsection="saveas/xlsb-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLSB als MD speichern" h2="Android-Bibliothek zum Speichern von XLSB als MD" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLSB als MD und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlsb-to-md/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLSB-Datei als MD in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer XLSB-Datei als MD in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von XLSB als MD ist eine komplexe Aufgabe. Alle XLSB-zu-MD-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLSB-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLSB als MD-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
+Das Speichern von Dateiformaten von XLSB als MD ist eine komplexe Aufgabe. Alle Formatübergänge von XLSB zu MD werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XLSB-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLSB als MD-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte MD-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

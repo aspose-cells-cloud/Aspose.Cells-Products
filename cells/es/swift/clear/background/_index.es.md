@@ -7,7 +7,7 @@ url: /es/swift/clear/background/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar el fondo en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional aclara los conocimientos sobre el Microsoft Excel local y la hoja de cálculo OpenOffice Calc utilizando Swift." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar fondo en local Microsoft Excel y hoja de cálculo OpenOffice Calc - Swift REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
 Limpiar el fondo de la hoja de cálculo local Microsoft Excel y OpenOffice Calc es una tarea compleja. Nuestro Swift SDK realiza la limpieza de antecedentes en las transiciones de hojas de cálculo locales Microsoft Excel y OpenOffice Calc mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Swift es una solución profesional para borrar el fondo de la hoja de cálculo local Microsoft Excel y OpenOffice Calc en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una funcionalidad potente y un API perfecto.

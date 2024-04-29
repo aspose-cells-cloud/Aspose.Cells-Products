@@ -4,12 +4,12 @@ description: 利用Aspose.Cells Cloud SDK for Android将XML格式文件转换为
 kwords: Excel, Convert XML to TXT, REST, Android
 howto: How to convert XML to TXT using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 XML 转换为 TXT" h2="用于将 XML 转换为 TXT 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 XML 转换为 TXT 和其他文档格式的专业解决方案。" urlsection="conversion/xml-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 XML 转换为 TXT" h2="用于将 XML 转换为 TXT 的 Android 库" p="使用 Cells Cloud 的转换 API 在 Android 项目中创建自定义电子表格工作流。这是使用 Android 在线将 XML 转换为 TXT 和其他文档格式的专业解决方案。" urlsection="conversion/xml-to-txt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Android 将 XML 转换为 TXT" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 XML 转换为 TXT 可能是一项复杂的任务。我们的 Android SDK 处理所有 XML 到 TXT 格式的转换，同时保留源 XML 电子表格的主要结构和逻辑内容。我们的 Android 库提供了在线将 XML 转换为 TXT 文件的专业解决方案。该Cloud SDK为Android开发者提供了强大的功能，并确保高质量的TXT输出。
+将文件格式从 XML 转换为 TXT 可能是一项复杂的任务。我们的 Android SDK 可处理所有 XML 到 TXT 格式的转换，同时保留源 XML 电子表格的主要结构和逻辑内容。我们的 Android 库提供了将 XML 在线转换为 TXT 文件的专业解决方案。此云 SDK 为 Android 开发人员提供了强大的功能并确保了高质量的 TXT 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

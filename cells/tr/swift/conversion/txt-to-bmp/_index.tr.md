@@ -10,7 +10,7 @@ url: /tr/swift/conversion/txt-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir TXT dosyasını BMP\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını TXT'den BMP'e dönüştürmek karmaşık bir iştir. TXT'den BMP'e tüm format geçişleri, kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, TXT'yi çevrimiçi olarak BMP dosyalara dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel BMP çıktısı sağlar.
+Dosya formatlarını TXT'den BMP'e dönüştürmek karmaşık bir iştir. TXT'den BMP'e tüm format geçişleri Swift SDK'mız tarafından gerçekleştirilir ve kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, TXT'yi çevrimiçi olarak BMP dosyalara dönüştürmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel BMP çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi BMP biçimine dönüştürmek için REST API\'i kullanan Swift\'deki kod örneği" gistPath="" %}}
@@ -66,7 +66,7 @@ Dosya formatlarını TXT'den BMP'e dönüştürmek karmaşık bir iştir. TXT'de
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="TXT\'yi BMP\'e dönüştürmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellWorkbookPutConvertWorkbook yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

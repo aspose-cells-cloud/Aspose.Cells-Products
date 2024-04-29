@@ -10,7 +10,7 @@ url: /ru/swift/saveas/numbers-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как XLTM в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в формате XLTM — сложная задача. Все переходы формата NUMBERS в XLTM выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов XLTM в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный результат XLTM.
+Сохранение форматов файлов из NUMBERS в формате XLTM — сложная задача. Все переходы формата NUMBERS в XLTM выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения ЧИСЕЛ в виде файлов XLTM в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный результат XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения ЧИСЕЛ в формате XLTM" gistPath="" %}}

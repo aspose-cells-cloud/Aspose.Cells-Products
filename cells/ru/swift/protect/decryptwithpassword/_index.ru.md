@@ -4,7 +4,7 @@ description:  Облачные API и SDK для Microsoft Excel и разбло
 url: /ru/swift/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для расшифровки локального номера Microsoft Excel и электронной таблицы OpenOffice Calc с паролем." h2="Библиотека Swift для расшифровки локального номера Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Расшифровать REST API для расшифровки локального Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Swift. Это профессиональное решение расшифровывает локальные Microsoft Excel и электронные таблицы OpenOffice Calc онлайн с помощью паролей с использованием Swift." urlsection="protect/Decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для расшифровки локального номера Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="Библиотека Swift для расшифровки локального номера Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Расшифровать REST API для расшифровки локального Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Swift. Это профессиональное решение расшифровывает локальные Microsoft Excel и электронные таблицы OpenOffice Calc онлайн с помощью паролей с использованием Swift." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Расшифруйте локальную таблицу Microsoft Excel и таблицу OpenOffice Calc с паролем — Swift REST API" >}}

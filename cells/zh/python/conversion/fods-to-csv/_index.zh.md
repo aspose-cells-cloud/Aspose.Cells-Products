@@ -11,7 +11,7 @@ platform: Python
 otherformats: SVG CSV XLSM PDF ODS DIF XLSB MHTML XLT TSV XLSX XLTX TIFF XLTM FODS TXT 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="使用 Python 将 FODS 转换为 CSV" h2="使用适用于 Python 的开源 Cloud SDK 读取、编辑 Excel 数据并将其导出为其他格式" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="使用 Python 将 FODS 转换为 CSV" h2="使用适用于 Python 的开源 Cloud SDK 读取、编辑和导出 Excel 数据为其他格式" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

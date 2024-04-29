@@ -9,7 +9,7 @@ howto: How to convert TSV to XLSB using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Converti TSV in XLSB utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da TSV a XLSB può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato TSV a XLSB preservando il contenuto strutturale e logico principale del foglio di calcolo TSV di origine. La nostra libreria Android fornisce una soluzione professionale per convertire online file TSV in XLSB. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output XLSB di alta qualità.
+La conversione dei formati di file da TSV a XLSB può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni del formato TSV in XLSB preservando il contenuto strutturale e logico principale del foglio di calcolo TSV di origine. La nostra libreria Android fornisce una soluzione professionale per convertire online file TSV in XLSB. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output XLSB di alta qualità.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

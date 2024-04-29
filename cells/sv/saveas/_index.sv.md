@@ -1,9 +1,9 @@
 ﻿---
 title: Spara filen Excel som fil i annat format
-description: " Aspose.Cells Cloud REST API gör det möjligt att spara Excel-filer i olika format och tillhandahåller SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 081,3457, 081, 3457, 081, 3457, Aspose.Cells av och Swift."
+description: " Aspose.Cells Cloud REST API gör det möjligt att spara Excel filer i olika format och tillhandahåller SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 081615, 71,404 Ruby och Swift."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara filen Excel som fil i annat format" h2="Aspose.Cells Cloud SDK stöder att spara arbetsböcker i över 30 olika filformat." p="Aspose.Cells Cloud REST API gör det möjligt att spara Excel-filer i olika format och tillhandahåller SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 081,3457, 081, 3457, 081, 3457, Aspose.Cells av och Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Spara filen Excel som fil i annat format" h2="Aspose.Cells Cloud SDK stöder att spara arbetsböcker i över 30 olika filformat." p="Aspose.Cells Cloud REST API gör det möjligt att spara Excel filer i olika format och tillhandahåller SDK:er för flera programmeringsspråk, inklusive Android, C#, Go, Java, NodeJS, 081615, 71,404 Ruby och Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

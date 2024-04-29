@@ -10,7 +10,7 @@ url: /sv/swift/conversion/xltx-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLTX-fil till GIF i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTX till GIF är en komplex uppgift. Alla XLTX till GIF-formatövergångar utförs av vår Swift SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLTX till GIF-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
+Att konvertera filformat från XLTX till GIF är en komplex uppgift. Alla XLTX- till GIF-formatövergångar utförs av vår Swift SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLTX till GIF-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera XLTX till GIF-format" gistPath="" %}}

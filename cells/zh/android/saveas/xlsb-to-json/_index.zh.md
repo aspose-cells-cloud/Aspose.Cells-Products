@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 XLSB 保存为 JSON
-description: 利用Aspose.Cells Cloud SDK for Android将XLSB格式文件保存为JSON格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 XLSB 格式文件保存为 JSON 格式文件。
 kwords: Excel, Save XLSB as JSON, REST, Android
 howto: How to save XLSB as JSON using Aspose.Cells Cloud Android library.
 ---

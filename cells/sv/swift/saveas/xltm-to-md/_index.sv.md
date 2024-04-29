@@ -10,7 +10,7 @@ url: /sv/swift/saveas/xltm-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLTM-fil som MD i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLTM som MD är en komplex uppgift. Alla XLTM till MD-formatövergångar utförs av vår Swift SDK samtidigt som källkodens XLTM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLTM som MD-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt MD-utgång.
+Att spara filformat från XLTM som MD är en komplex uppgift. Alla XLTM- till MD-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLTM-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLTM som MD-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt MD-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att spara XLTM som MD-format" gistPath="" %}}

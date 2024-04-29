@@ -4,12 +4,12 @@ description: 利用Aspose.Cells Cloud SDK for Android将XLTM格式文件保存�
 kwords: Excel, Save XLTM as TXT, REST, Android
 howto: How to save XLTM as TXT using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 XLTM 保存为 TXT" h2="用于将 XLTM 保存为 TXT 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将XLTM保存为TXT和其他文档格式的专业解决方案。" urlsection="saveas/xltm-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 XLTM 保存为 TXT" h2="用于将 XLTM 保存为 TXT 的 Android 库" p="使用 Cells Cloud 中的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLTM 保存为 TXT 和其他文档格式的专业解决方案。" urlsection="saveas/xltm-to-txt/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="在 Android 中将 XLTM 文件另存为 TXT" >}}
+{{< blocks/products/cells/cells-cloud-section title="在 Android 中将 XLTM 文件保存为 TXT" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 XLTM 中的文件格式保存为 TXT 是一项复杂的任务。所有 XLTM 到 TXT 格式的转换均由我们的 Android SDK 执行，同时保留源 XLTM 电子表格的主要结构和逻辑内容。我们的 Android 库是在线将 XLTM 保存为 TXT 文件的专业解决方案。该Cloud SDK为Android开发者提供了强大的功能和完美的TXT输出。
+将 XLTM 的文件格式保存为 TXT 是一项复杂的任务。所有 XLTM 到 TXT 格式的转换均由我们的 Android SDK 执行，同时保留源 XLTM 电子表格的主要结构和逻辑内容。我们的 Android 库是将 XLTM 在线保存为 TXT 文件的专业解决方案。此云 SDK 为 Android 开发人员提供了强大的功能和完美的 TXT 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

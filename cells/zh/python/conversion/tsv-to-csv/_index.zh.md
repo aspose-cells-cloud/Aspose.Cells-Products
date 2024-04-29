@@ -6,7 +6,7 @@ description: 使用Python的Aspose.Cells Cloud SDK将TSV格式文件转换为CSV
 {{< blocks/products/cells/cells-cloud-upper-banner h1="将 TSV 转换为 CSV" h2="Python 用于将 TSV 转换为 CSV 的库" p="使用 Cells 云的转换 API 在 Python 项目中创建自定义电子表格工作流程。这是使用 Python 在线将 TSV 转换为 CSV 和其他文档格式的专业解决方案。" urlsection="conversion/tsv-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Python 将 TSV 转换为 CSV" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK 将 Python 的 TSV 转换为 CSV" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 将文件格式从 TSV 转换为 CSV 可能是一项复杂的任务。我们的 Python SDK 处理所有 TSV 到 CSV 格式的转换，同时保留源 TSV 电子表格的主要结构和逻辑内容。我们的 Python 库提供了在线将 TSV 转换为 CSV 文件的专业解决方案。该Cloud SDK为Python开发者提供了强大的功能，并确保高质量的CSV输出。
@@ -35,8 +35,8 @@ description: 使用Python的Aspose.Cells Cloud SDK将TSV格式文件转换为CSV
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
-<li>Python 2.7 或更高版本</li>
-<li>Python 3.10 或更高版本</li>
+<li>Python 2.7 或更新版本</li>
+<li>Python 3.10 或更新版本</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

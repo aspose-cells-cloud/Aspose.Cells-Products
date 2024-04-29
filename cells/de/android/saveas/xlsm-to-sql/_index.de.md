@@ -4,12 +4,12 @@ description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern v
 kwords: Excel, Save XLSM as SQL, REST, Android
 howto: How to save XLSM as SQL using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLSM als SQL" h2="Android-Bibliothek zum Speichern von XLSM als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSM als SQL und anderen Dokumentformaten mit Android." urlsection="saveas/xlsm-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLSM als SQL" h2="Android-Bibliothek zum Speichern von XLSM als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLSM als SQL und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xlsm-to-sql/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLSM-Datei als SQL in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer XLSM-Datei als SQL in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XLSM als SQL ist eine komplexe Aufgabe. Alle XLSM-zu-SQL-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLSM-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLSM als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
+Das Speichern von Dateiformaten von XLSM als SQL ist eine komplexe Aufgabe. Alle Formatübergänge von XLSM zu SQL werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XLSM-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLSM als SQL-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte SQL-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -13,7 +13,7 @@ url: /it/swift/saveas/csv-to-gif/
 Salvare i formati di file da CSV come GIF è un compito complesso. Tutte le transizioni dal formato CSV al formato GIF vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Swift è una soluzione professionale per salvare CSV come file GIF online. Questo Cloud SDK offre agli sviluppatori Swift funzionalità potenti e un output GIF perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per salvare CSV come formato GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per salvare CSV in formato GIF" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

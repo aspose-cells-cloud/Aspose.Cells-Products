@@ -1,5 +1,5 @@
 ﻿---
-title:  XLT إلى XLS تحويل API لـ Swift
+title:  XLT إلى XLS تحويل API لسويفت
 description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق XLT إلى ملف تنسيق XLS.
 url: /ar/swift/conversion/xlt-to-xls/
 ---

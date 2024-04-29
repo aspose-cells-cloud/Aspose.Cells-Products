@@ -3,7 +3,7 @@ title:  مسح التعليقات على المصنف المحلي في السح
 description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح التعليقات على Microsoft Excel وOpenOffice Calc. مسح التعليقات على جداول البيانات المحلية بواسطة سحابة Cells API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة التعليقات على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="مسح NodeJS لمسح التعليقات على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح التعليقات على سير عمل Microsoft المحلي Excel وOpenOffice Calc في NodeJS. هذا الحل الاحترافي يمسح التعليقات على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/Comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة التعليقات على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="مسح NodeJS لمسح التعليقات على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح التعليقات على سير عمل Microsoft المحلي Excel وOpenOffice Calc في NodeJS. هذا الحل الاحترافي يمسح التعليقات على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح التعليقات على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc - NodeJS REST API" >}}

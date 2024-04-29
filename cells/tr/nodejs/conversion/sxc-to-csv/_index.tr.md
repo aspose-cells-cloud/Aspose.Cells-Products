@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS kullanarak SXC'yi CSV'ye dönüştürün
-description: SXC formatındaki bir dosyayı CSV formatındaki bir dosyaya dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
+description:  SXC formatındaki bir dosyayı CSV formatındaki bir dosyaya dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi CSV\'ye dönüştür" h2="SXC\'yi CSV\'ye dönüştürmek için NodeJS kütüphanesi" p="NodeJS projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, NodeJS\'yi kullanarak SXC\'yi CSV\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/sxc-to-csv/" >}}
@@ -9,7 +9,7 @@ description: SXC formatındaki bir dosyayı CSV formatındaki bir dosyaya dönü
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS için Cells Cloud SDK\'yı kullanarak SXC\'yi CSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını SXC'den CSV'ye dönüştürmek karmaşık bir iş olabilir. NodeJS SDK'mız, kaynak SXC elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm SXC'den CSV'ye format dönüşümlerini gerçekleştirir. NodeJS kitaplığımız, SXC'yi çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli CSV çıktısı sağlar.
+Dosya formatlarını SXC'den CSV'ye dönüştürmek karmaşık bir iş olabilir. NodeJS SDK'mız, kaynak SXC elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm SXC'den CSV formatına dönüşümleri gerçekleştirir. NodeJS kitaplığımız, SXC'yi çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Cells Cloud SDK\'yı kullanarak SXC\'yi CSV\'ye dönüştürmek için NodeJS Kod Örneği" gistPath="" %}}
@@ -35,7 +35,7 @@ Dosya formatlarını SXC'den CSV'ye dönüştürmek karmaşık bir iş olabilir.
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını SXC\'den CSV\'ye diğer formatlara dönüştürmek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -25,7 +25,7 @@ Das Löschen doppelter Zeilen aus lokalen Microsoft Excel und OpenOffice Calc-Ta
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Knoten v6.17.1 oder neuer</li>
+<li>Node v6.17.1 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

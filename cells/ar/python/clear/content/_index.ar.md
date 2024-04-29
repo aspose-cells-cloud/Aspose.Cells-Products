@@ -3,7 +3,7 @@ title:  مسح المحتوى الموجود في المصنف المحلي في
 description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح المحتوى على Microsoft Excel وOpenOffice Calc. مسح المحتوى على جداول البيانات المحلية بواسطة سحابة Cells API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة المحتوى على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="Python مسح لمسح المحتوى على المحلي Microsoft Excel وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المحتوى على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Python. يقوم هذا الحل الاحترافي بمسح المحتوى على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc باستخدام Python." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة المحتوى على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="Python واضح لمسح المحتوى على المحلي Microsoft Excel وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المحتوى على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Python. يقوم هذا الحل الاحترافي بمسح المحتوى على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc باستخدام Python." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المحتوى على المحلي Microsoft Excel وجدول بيانات OpenOffice Calc - Python REST API" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Löschen Sie Formen in der lokalen Arbeitsmappe in der Cloud
+title:  Löschen von Formen im lokalen Arbeitsbuch in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Formen unter Microsoft Excel und OpenOffice Calc. Klare Formen in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen von Formen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen von Formen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht Formen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/Shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen von Formen auf lokalen Microsoft Excel und OpenOffice Calc Tabellenkalkulation" h2="Swift Clear zum Löschen von Formen auf lokalen Microsoft Excel und OpenOffice Calc Tabellenkalkulation" p="Verwenden Sie Cells Clear REST API, um Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht Formen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klare Formen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Swift REST API" >}}

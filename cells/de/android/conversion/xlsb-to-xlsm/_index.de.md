@@ -1,6 +1,6 @@
 ﻿---
-title:  Konvertieren Sie XLSB mit Android in XLSM
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im XLSB-Format in eine Datei im XLSM-Format.
+title:  Konvertieren Sie XLSB in XLSM mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLSB-Format in eine Datei im XLSM-Format zu konvertieren.
 kwords: Excel, Convert XLSB to XLSM, REST, Android
 howto: How to convert XLSB to XLSM using Aspose.Cells Cloud Android library.
 ---

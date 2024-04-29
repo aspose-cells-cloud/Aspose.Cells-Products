@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie XLT als XLTX mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLT-Formatdateien als XLTX-Formatdateien.
+title:  XLT als XLTX mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLT-Format als Dateien im XLTX-Format zu speichern.
 kwords: Excel, Save XLT as XLTX, REST, Android
 howto: How to save XLT as XLTX using Aspose.Cells Cloud Android library.
 ---

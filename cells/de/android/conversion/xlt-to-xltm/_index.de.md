@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XLT mit Android in XLTM
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im XLT-Format in eine Datei im XLTM-Format.
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im XLT-Format in eine Datei im XLTM-Format.
 kwords: Excel, Convert XLT to XLTM, REST, Android
 howto: How to convert XLT to XLTM using Aspose.Cells Cloud Android library.
 ---

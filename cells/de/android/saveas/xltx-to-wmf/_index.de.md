@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie XLTX als WMF mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLTX-Formatdateien als WMF-Formatdateien.
+title:  XLTX als WMF mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLTX-Format als Dateien im WMF-Format zu speichern.
 kwords: Excel, Save XLTX as WMF, REST, Android
 howto: How to save XLTX as WMF using Aspose.Cells Cloud Android library.
 ---

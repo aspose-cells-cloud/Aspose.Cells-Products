@@ -1,6 +1,6 @@
 ﻿---
-title:  Konvertieren Sie XLT mit Android in XML
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer XLT-Formatdatei in eine XML-Formatdatei.
+title:  Konvertieren Sie XLT in XML mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLT-Format in eine Datei im XML-Format zu konvertieren.
 kwords: Excel, Convert XLT to XML, REST, Android
 howto: How to convert XLT to XML using Aspose.Cells Cloud Android library.
 ---

@@ -9,7 +9,7 @@ description: Использование Cloud SDK Aspose.Cells для Go для 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте HTML в CSV с помощью Cloud SDK Cells для Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в CSV может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования формата HTML в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертации HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
+Преобразование форматов файлов из HTML в CSV может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования формата HTML в CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертации HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования HTML в CSV с использованием Cells Cloud SDK" gistPath="" %}}

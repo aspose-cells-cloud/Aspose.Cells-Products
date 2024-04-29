@@ -4,7 +4,7 @@ description:  Använder Aspose.Cells Cloud SDK för Android för att spara CSV-f
 kwords: Excel, Save CSV as XLSM, REST, Android
 howto: How to save CSV as XLSM using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Spara CSV som XLSM" h2="Android-bibliotek för att spara CSV som XLSM" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att spara CSV som XLSM och andra dokumentformat online med Android." urlsection="saveas/csv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara CSV som XLSM" h2="Android-bibliotek för att spara CSV som XLSM" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara CSV som XLSM och andra dokumentformat online med Android." urlsection="saveas/csv-to-xlsm/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Spara en CSV-fil som XLSM i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie XLS unter Android unter BMP
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Speichern der XLS-Formatdatei als BMP-Formatdatei.
+title:  XLS als BMP mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLS-Format als Dateien im BMP-Format zu speichern.
 kwords: Excel, Save XLS as BMP, REST, Android
 howto: How to save XLS as BMP using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLS unter BMP" h2="Android-Bibliothek zum Speichern von XLS als BMP" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLS als BMP und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xls-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLS speichern unter BMP" h2="Android-Bibliothek zum Speichern von XLS als BMP" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLS als BMP und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xls-to-bmp/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLS-Datei unter Android als BMP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

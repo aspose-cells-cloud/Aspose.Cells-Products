@@ -10,7 +10,7 @@ url: /sv/swift/conversion/xlsm-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLSM-fil till SQL i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSM till SQL är en komplex uppgift. Alla XLSM till SQL-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLSM-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLSM till SQL-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt SQL-utdata.
+Att konvertera filformat från XLSM till SQL är en komplex uppgift. Alla XLSM till SQL-formatövergångar utförs av vår Swift SDK samtidigt som källbladets XLSM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLSM till SQL-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt SQL-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera XLSM till SQL-format" gistPath="" %}}

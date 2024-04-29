@@ -9,10 +9,10 @@ description:  Cloud-APIs und SDKs zum Löschen doppelter Zeilen in Microsoft Exc
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie doppelte Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen mit dem Cloud SDK for Go Cells." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Das Löschen doppelter Zeilen aus lokalen Microsoft Excel und OpenOffice Calc-Tabellen ist komplex, und unser Cells Cloud SDK für Go übernimmt diesen Übergang und behält dabei den strukturellen und logischen Inhalt der Quelltabelle bei. Unsere Go-Bibliothek ist eine professionelle Lösung zum effizienten Löschen doppelter Zeilen online in lokalen Microsoft Excel und OpenOffice Calc-Tabellen. Dieses Cloud SDK bietet Go-Entwicklern robuste Funktionalität und ein leistungsstarkes API.
+Das Löschen doppelter Zeilen aus lokalen Microsoft Excel und OpenOffice Calc-Tabellen ist komplex, und unser Cells Cloud SDK für Go bewältigt diesen Übergang, während der strukturelle und logische Inhalt der Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum effizienten Online-Löschen doppelter Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen. Dieses Cloud SDK bietet Go-Entwicklern robuste Funktionen und ein leistungsstarkes API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go-Code zum Löschen doppelter Zeilen in lokalen Tabellenkalkulationen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-DuplicateRows.go" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go-Code zum Löschen doppelter Zeilen in lokalen Tabellen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-DuplicateRows.go" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
@@ -25,7 +25,7 @@ Das Löschen doppelter Zeilen aus lokalen Microsoft Excel und OpenOffice Calc-Ta
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

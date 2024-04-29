@@ -13,7 +13,7 @@ url: /es/cpp
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK para CPP ayuda a los desarrolladores a crear sus propias aplicaciones de creación, lectura, visualización y conversión de hojas de cálculo basadas en la nube utilizando el lenguaje Go. El SDK proporciona una interfaz fácil de usar para que Aspose.Cells REST API realice una amplia gama de tareas de procesamiento de hojas de cálculo, como la creación, modificación, conversión y representación de Excel documentos en la nube.</p>
-<p>Aspose.Cells Cloud SDK para CPP es totalmente compatible con varias funciones avanzadas relacionadas con la lectura y escritura de hojas de cálculo, como crear una nueva hoja de cálculo desde cero, modificar un archivo existente, agregar una nueva hoja de cálculo, importar datos a una hoja de cálculo Excel, ocultar y mostrar una hoja de cálculo. mover una hoja de trabajo, ordenar datos en una hoja de trabajo, copiar o cambiar el nombre de una hoja, congelar o descongelar una hoja de trabajo, agregar o eliminar un libro de trabajo, cifrar o descifrar un libro de trabajo, proteger con contraseña un libro de trabajo Excel, fusionar libros de Excel y mucho más.</p>
+<p>Aspose.Cells Cloud SDK para CPP es totalmente compatible con varias funciones avanzadas relacionadas con la lectura y escritura de hojas de cálculo, como crear una nueva hoja de cálculo desde cero, modificar un archivo existente, agregar una nueva hoja de cálculo, importar datos a una hoja de cálculo Excel, ocultar y mostrar una hoja de cálculo, mover una hoja de trabajo, ordenar datos en una hoja de trabajo, copiar o cambiar el nombre de una hoja, congelar o descongelar una hoja de trabajo, agregar o eliminar un libro de trabajo, cifrar o descifrar un libro de trabajo, proteger con contraseña un libro de trabajo Excel, fusionar libros de Excel y mucho más.</p>
 <p>El uso de Aspose.Cells Cloud SDK para desarrolladores de CPP puede realizar fácilmente el filtrado automático, el manejo de tablas dinámicas y el formato condicional de hojas de cálculo mediante comandos de CPP. El SDK ha proporcionado una operación de conversión de archivos de hoja de cálculo muy potente y admite totalmente la interconversión entre formatos Microsoft Excel como XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, así como la conversión a otros formatos de archivos populares como PDF, XPS, SVG. , TIFF, formatos Markdown y DIF.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -46,7 +46,7 @@ url: /es/cpp
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> De entrada y salida</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Oficina abierta:</b> SAO</li>
 <li><b>Hoja de cálculoML:</b> XML</li>
-<li><b>Texto:</b> CSV, TSV, TXT (delimitado por tabulaciones)</li>
+<li><b>Texto:</b> CSV, TSV, TXT (delimitado por tabuladores)</li>
 <li><b>Web:</b> HTML, HTML</li>
 </ul></div>
 <!--/left-->

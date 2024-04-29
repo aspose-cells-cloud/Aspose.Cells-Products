@@ -1,5 +1,5 @@
 ﻿---
-title:  Экспортируйте WORKSHEET в TXT из Excel с помощью Cloud SDK Cells для Android.
+title:  Экспортируйте WORKSHET в TXT из Excel с помощью Cloud SDK Cells для Android.
 description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /ru/swift/saveas/png-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как SXC в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение файлов формата PNG как SXC — сложная задача. Все переходы формата PNG в формат SXC выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в формате SXC в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
+Сохранение файлов формата PNG как SXC — сложная задача. Все переходы формата PNG в SXC выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в формате SXC в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения PNG в формате SXC" gistPath="" %}}

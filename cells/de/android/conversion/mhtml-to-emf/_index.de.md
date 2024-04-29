@@ -1,10 +1,10 @@
 ﻿---
 title:  Konvertieren Sie MHTML mit Android in EMF
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im MHTML-Format in eine Datei im EMF-Format.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im MHTML-Format in eine Datei im EMF-Format zu konvertieren.
 kwords: Excel, Convert MHTML to EMF, REST, Android
 howto: How to convert MHTML to EMF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie MHTML in EMF" h2="Android-Bibliothek zum Konvertieren von MHTML in EMF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von MHTML in EMF und andere Dokumentformate online mit Android." urlsection="conversion/mhtml-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie MHTML in EMF" h2="Android-Bibliothek zur Konvertierung von MHTML in EMF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um MHTML online mit Android in EMF und andere Dokumentformate zu konvertieren." urlsection="conversion/mhtml-to-emf/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie MHTML in EMF mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  XLT in EMF Konvertieren Sie API für Swift
+title:  XLT zu EMF Konvertieren Sie API für Swift
 description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLT-Formatdatei in eine Datei im EMF-Format.
 url: /de/swift/conversion/xlt-to-emf/
 ---
@@ -10,7 +10,7 @@ url: /de/swift/conversion/xlt-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLT-Datei in Swift in EMF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLT in EMF ist eine komplexe Aufgabe. Alle XLT-Formatübergänge in das EMF-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLT- in EMF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte EMF-Ausgabe.
+Das Konvertieren von Dateiformaten von XLT in EMF ist eine komplexe Aufgabe. Alle XLT-Formatübergänge in das EMF-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLT-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLT-Dateien in EMF. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte EMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLT in das EMF-Format" gistPath="" %}}

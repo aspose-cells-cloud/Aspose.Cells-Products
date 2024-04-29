@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie MHTML unter SVG API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im MHTML-Format als Datei im Format SVG zu speichern.
+title:  Speichern Sie MHTML als SVG API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im MHTML-Format als Datei im SVG-Format zu speichern.
 url: /de/swift/saveas/mhtml-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

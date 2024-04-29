@@ -9,7 +9,7 @@ howto: How to save NUMBERS as JPG using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Guarde un archivo NUMBERS como JPG en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de NUMBERS como JPG es una tarea compleja. Todas las transiciones de formato NUMBERS a JPG se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca de Android es una solución profesional para guardar NÚMEROS como archivos JPG en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida JPG perfecta.
+Guardar formatos de archivo de NUMBERS como JPG es una tarea compleja. Todas las transiciones de formato de NUMBERS a JPG se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca de Android es una solución profesional para guardar NÚMEROS como archivos JPG en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida JPG perfecta.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

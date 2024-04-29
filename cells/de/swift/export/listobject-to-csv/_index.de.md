@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie LISTOBJECT aus der Tabelle mit Swift API in CSV
+title:  Exportieren Sie LISTOBJECT mit Swift API aus einer Tabelle in CSV
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/listobject-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von LISTOBJECT in eine CSV-Datei" h2="Swift-Bibliothek zum Exportieren von LISTOBJECT in eine CSV-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine Datei im CSV-Format aus einer Tabellenkalkulation online mit Swift." urlsection="export/listobject-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von LISTOBJECT in eine CSV-Datei" h2="Swift-Bibliothek zum Exportieren von LISTOBJECT in eine CSV-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Swift zu exportieren. Dies ist eine professionelle Lösung, um LISTOBJECT online mit Swift aus einer Tabellenkalkulation in eine CSV-Datei zu exportieren." urlsection="export/listobject-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine Datei im CSV-Format in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine CSV-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von LISTOBJECT in das CSV-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle LISTOBJECT beibehalten wird. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im CSV-Format. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
+Das Exportieren von LISTOBJECT-Objekten aus einer Tabellenkalkulation in eine CSV-Datei ist eine komplexe Aufgabe. Die Formatübergänge von LISTOBJECT-Export in CSV-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle LISTOBJECT erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Exportieren von LISTOBJECT-Objekten in CSV-Formatdateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte CSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von LISTOBJECT in das CSV-Format aus einer Tabellenkalkulation" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von LISTOBJECT aus einer Tabelle in das CSV-Format" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

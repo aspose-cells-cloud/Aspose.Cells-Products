@@ -1,6 +1,6 @@
 ﻿---
-title:  Löschen Sie Stile in der lokalen Arbeitsmappe in der Cloud
-description:  Cloud-APIs und SDKs zum Löschen von Stilen unter Microsoft Excel und OpenOffice Calc. Klare Stile in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Löschen von Stilen in der lokalen Arbeitsmappe in der Cloud
+description:  Cloud-APIs und SDKs zum Löschen von Stilen in Microsoft Excel und OpenOffice Calc. Löschen von Stilen in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen von Stilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="PHP Löschen, um Stile in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um Stile in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in PHP zu löschen. Diese professionelle Lösung löscht Stile in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows mit PHP." urlsection="clear/Styles/" >}}

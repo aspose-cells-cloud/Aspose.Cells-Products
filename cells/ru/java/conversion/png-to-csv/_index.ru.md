@@ -3,7 +3,7 @@ title:  Преобразуйте PNG в CSV, используя Java.
 description: Использование Cloud SDK Aspose.Cells for Java для преобразования файла формата PNG в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать PNG в CSV" h2="Java библиотека для преобразования PNG в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертации PNG в CSV и другие форматы документов с помощью Java." urlsection="conversion/png-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать PNG в CSV" h2="Java библиотека для преобразования PNG в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Java. Это профессиональное решение для онлайн-конвертирования PNG в CSV и другие форматы документов с помощью Java." urlsection="conversion/png-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте PNG в CSV с помощью Cells Cloud SDK for Java." >}}

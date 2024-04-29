@@ -1,6 +1,6 @@
 ﻿---
 title:  Rimuovere le righe duplicate dalla cartella di lavoro locale utilizzando Java all'interno dell'ambiente cloud Aspose Cells.
-description:  API e SDK Cloud per eliminare le righe duplicate in Microsoft Excel e OpenOffice Calc utilizzando Java. Eliminare le righe duplicate nei fogli di calcolo locali con Cells Cloud SDK for Java.
+description:  API e SDK cloud per eliminare le righe duplicate in Microsoft Excel e OpenOffice Calc utilizzando Java. Eliminare le righe duplicate nei fogli di calcolo locali con Cells Cloud SDK for Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Rimozione di righe duplicate nei fogli di calcolo locali Microsoft Excel e OpenOffice Calc." h2="Libreria Java per rimuovere righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc." p="Utilizzare Cells Cancella REST API per rimuovere le righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc all\'interno dei flussi di lavoro Java. Questa soluzione professionale elimina in modo efficiente le righe duplicate dai fogli di calcolo locali Microsoft Excel e OpenOffice Calc utilizzando Java." urlsection="clear/Duplicate-rows/" >}}

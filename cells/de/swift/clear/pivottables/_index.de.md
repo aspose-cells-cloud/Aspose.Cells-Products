@@ -10,10 +10,10 @@ url: /de/swift/clear/pivot-tables/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie Pivot-Tabellen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Das Löschen von Pivot-Tabellen auf lokalen Microsoft Excel- und OpenOffice Calc-Tabellen ist eine komplexe Aufgabe. Das Löschen von Pivot-Tabellen bei lokalen Microsoft Excel- und OpenOffice Calc-Tabellenübergängen wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Löschen von Pivot-Tabellen auf lokalen Microsoft Excel und OpenOffice Calc-Tabellen online. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte API.
+Das Löschen von Pivot-Tabellen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen ist eine komplexe Aufgabe. Das Löschen von Pivot-Tabellen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenübergängen wird von unserem Swift SDK durchgeführt, während der wichtigste strukturelle und logische Inhalt der Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Löschen von Pivot-Tabellen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen online. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Swift-Code zum Löschen von Pivot-Tabellen in lokalen Tabellenkalkulationen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-Clear-PivotTable.swift" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Swift-Code zum Löschen von Pivot-Tabellen in lokalen Tabellen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-Clear-PivotTable.swift" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

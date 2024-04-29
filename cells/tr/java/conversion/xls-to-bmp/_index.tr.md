@@ -2,14 +2,15 @@
 title:  Java'i kullanarak XLS'yi BMP'e dönüştürün
 description:  XLS biçimindeki bir dosyayı BMP biçimindeki bir dosyaya dönüştürmek için Aspose.Cells Bulut SDK for Java'i kullanma.
 kwords: Excel, Convert XLS to BMP, REST, Java
-howto: How to convert XLS to BMP using Aspose.Cells Cloud Java library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert XLS to BMP using the Cells Cloud Java library.","description": "How to convert XLS to BMP using the Cells Cloud Java library.","image": {"@type": "ImageObject"},"url": "/java/conversion/xls-to-bmp/","step": [{ "@type": "HowToStep","name": "How to convert XLS to BMP using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/xls-to-bmp/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert XLS to BMP using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/xls-to-bmp/","text": "Install Java library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert XLS to BMP using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/xls-to-bmp/","text": "Open the source file in Java.",},{ "@type": "HowToStep","name": "How to convert XLS to BMP using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/xls-to-bmp/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="XLS\'yi BMP\'e dönüştür" h2="XLS\'yi BMP\'e dönüştürmek için Java kitaplığı" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Java\'i kullanarak XLS\'yi BMP\'e ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xls-to-bmp/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Cells Cloud SDK for Java\'i kullanarak XLS\'yi BMP\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den BMP'e dönüştürmek karmaşık bir iş olabilir. Java SDK'mız, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLS'den BMP formatına dönüşümleri gerçekleştirir. Java kitaplığımız, XLS'yi çevrimiçi olarak BMP dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Java geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli BMP çıkışı sağlar.
+Dosya formatlarını XLS'den BMP'e dönüştürmek karmaşık bir iş olabilir. Java SDK'mız, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLS'den BMP formatına dönüşümleri gerçekleştirir. Java kitaplığımız, XLS'yi çevrimiçi olarak BMP dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Java geliştiricilerine güçlü işlevsellik kazandırır ve yüksek kaliteli BMP çıktısı sağlar.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -46,8 +47,8 @@ Dosya formatlarını XLS'den BMP'e dönüştürmek karmaşık bir iş olabilir. 
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Java kitaplığını kullanarak XLS\'yi BMP\'e nasıl dönüştüreceğinizi öğrenin." >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Java kitaplığını kullanarak XLS\'yi BMP\'e dönüştürme." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Java kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
 <li>Kaynak dosyayı Java'de açın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>

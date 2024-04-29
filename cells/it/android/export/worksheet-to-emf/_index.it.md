@@ -9,7 +9,7 @@ description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in for
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato EMF utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto FOGLIO DI LAVORO nel file EMF dal file Excel è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni del formato EMF viene eseguita dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKSHEET in file in formato EMF online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e un output EMF perfetto.
+Esportare l'oggetto FOGLIO DI LAVORO nel file EMF dal file Excel è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni del formato EMF viene eseguita dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di lavoro del FOGLIO DI LAVORO di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKSHEET in file in formato EMF online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e un output EMF perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per esportare FOGLIO DI LAVORO nel formato EMF dal foglio di calcolo" gistPath="" %}}

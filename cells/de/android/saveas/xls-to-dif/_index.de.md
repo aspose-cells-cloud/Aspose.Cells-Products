@@ -4,12 +4,12 @@ description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern v
 kwords: Excel, Save XLS as DIF, REST, Android
 howto: How to save XLS as DIF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="XLS als DIF speichern" h2="Android-Bibliothek zum Speichern von XLS als DIF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLS als DIF und anderen Dokumentformaten mit Android." urlsection="saveas/xls-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLS als DIF speichern" h2="Android-Bibliothek zum Speichern von XLS als DIF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Speichern von XLS als DIF und anderen Dokumentformaten online mit Android." urlsection="saveas/xls-to-dif/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLS-Datei als DIF in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XLS als DIF ist eine komplexe Aufgabe. Alle XLS-zu-DIF-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLS-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLS als DIF-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte DIF-Ausgabe.
+Das Speichern von Dateiformaten von XLS als DIF ist eine komplexe Aufgabe. Alle Formatübergänge von XLS zu DIF werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XLS-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLS als DIF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte DIF-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

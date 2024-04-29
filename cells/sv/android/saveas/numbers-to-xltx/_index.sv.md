@@ -9,7 +9,7 @@ howto: How to save NUMBERS as XLTX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en NUMBERS-fil som XLTX i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från NUMBERS som XLTX är en komplex uppgift. Alla NUMBERS till XLTX format övergångar utförs av vår Android SDK samtidigt som källnumret NUMBERS kalkylblads huvudsakliga strukturella och logiska innehåll. Vårt Android-bibliotek är en professionell lösning för att spara NUMBERS som XLTX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLTX-utgång.
+Att spara filformat från NUMBERS som XLTX är en komplex uppgift. Alla NUMBERS till XLTX formatövergångar utförs av vår Android SDK samtidigt som källnumret NUMBERS kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara NUMBERS som XLTX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLTX-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

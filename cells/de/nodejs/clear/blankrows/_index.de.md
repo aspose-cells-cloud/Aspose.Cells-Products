@@ -3,10 +3,10 @@ title:  Leere Zeilen in der lokalen Arbeitsmappe in der Cloud löschen
 description: Cloud-APIs und SDKs zum Löschen leerer Zeilen unter Microsoft Excel und OpenOffice Calc. Löschen Sie leere Zeilen in lokalen Tabellenkalkulationen mit der Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen leerer Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="NodeJS Clear, um leere Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle zu löschen" p="Verwenden Sie Cells Clear REST API, um leere Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in NodeJS zu löschen. Diese professionelle Lösung löscht leere Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit NodeJS." urlsection="clear/Blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen leerer Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="NodeJS Clear zum Löschen leerer Zeilen in lokalen Tabellen Microsoft Excel und OpenOffice Calc" p="Verwenden Sie Cells Clear REST API, um leere Zeilen in lokalen Microsoft Excel- und OpenOffice Calc-Tabellen-Workflows in NodeJS zu löschen. Diese professionelle Lösung löscht leere Zeilen in lokalen Microsoft Excel- und OpenOffice Calc-Tabellen mit NodeJS." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie leere Zeilen in der lokalen Tabelle Microsoft Excel und in der OpenOffice Calc-Tabelle – NodeJS REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Leere Zeilen in lokalen Tabellen Microsoft Excel und OpenOffice Calc löschen – NodeJS REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
 Das Löschen leerer Zeilen in der lokalen Microsoft Excel- und OpenOffice Calc-Tabelle ist eine komplexe Aufgabe. Das Löschen leerer Zeilen bei lokalen Microsoft Excel- und OpenOffice Calc-Tabellenübergängen wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Löschen leerer Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen online. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte API.
@@ -25,7 +25,7 @@ Das Löschen leerer Zeilen in der lokalen Microsoft Excel- und OpenOffice Calc-T
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Knoten v6.17.1 oder neuer</li>
+<li>Node v6.17.1 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

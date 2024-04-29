@@ -10,7 +10,7 @@ url: /ru/swift/conversion/csv-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте CSV-файл в XLTM в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в XLTM — сложная задача. Все переходы формата CSV в XLTM выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов CSV в XLTM. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный результат XLTM.
+Преобразование форматов файлов из CSV в XLTM — сложная задача. Все переходы формата CSV в XLTM выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы CSV. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования файлов CSV в XLTM. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный результат XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования CSV в формат XLTM" gistPath="" %}}

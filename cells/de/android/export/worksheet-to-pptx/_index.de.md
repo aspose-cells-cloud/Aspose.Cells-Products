@@ -12,7 +12,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in eine PPTX-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das PPTX-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-WORKSHEET-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in PPTX-Formatdateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte PPTX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKSHEET aus einer Tabellenkalkulation in das PPTX-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKSHEET aus einer Tabelle in das PPTX-Format" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

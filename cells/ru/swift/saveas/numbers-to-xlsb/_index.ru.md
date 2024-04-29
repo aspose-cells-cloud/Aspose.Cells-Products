@@ -10,7 +10,7 @@ url: /ru/swift/saveas/numbers-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как XLSB в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в формате XLSB — сложная задача. Все переходы формата NUMBERS в XLSB выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения ЧИСЕЛ в формате XLSB в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XLSB.
+Сохранение форматов файлов из NUMBERS в формате XLSB — сложная задача. Все переходы формата NUMBERS в XLSB выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения ЧИСЕЛ в формате XLSB в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения ЧИСЕЛ в формате XLSB" gistPath="" %}}

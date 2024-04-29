@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 C# 将 MHTML 保存为 CSV
-description: 利用Aspose.Cells Cloud SDK for C#将MHTML格式文件保存为CSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for C# 将 MHTML 格式文件保存为 CSV 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="将 MHTML 保存为 CSV" h2="C# 用于将 MHTML 保存为 CSV 的库" p="使用 Cells Cloud 的 SaveAs API 在 Net 中创建自定义电子表格工作流程。这是使用 C# 在线将 MHTML 保存为 CSV 和其他文档格式的专业解决方案。" urlsection="saveas/mhtml-to-csv/" >}}

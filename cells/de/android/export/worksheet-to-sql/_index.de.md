@@ -1,12 +1,12 @@
 ﻿---
-title:  Exportieren Sie ARBEITSBLATT nach SQL von Excel mit Cells Cloud SDK für Android
+title:  Exportieren Sie ARBEITSBLÄTTER von Excel nach SQL mit Cells Cloud SDK für Android
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie ARBEITSBLATT nach SQL von Excel" h2="Android-Bibliothek zum Exportieren von WORKSHEET in eine SQL-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Android zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine SQL-Formatdatei aus einer Tabellenkalkulation online mit Android." urlsection="export/worksheet-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ARBEITSBLATT nach SQL exportieren von Excel" h2="Android-Bibliothek zum Exportieren von WORKSHEET in eine SQL-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objekt-Workflows der Datei Excel in Android zu exportieren. Dies ist eine professionelle Lösung, um WORKSHEET online mit Android aus einer Tabellenkalkulation in eine SQL-Formatdatei zu exportieren." urlsection="export/worksheet-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt mit dem Cloud SDK für Android Cells in eine SQL-Formatdatei" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im SQL-Format mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in eine SQL-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das SQL-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-WORKSHEET-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in SQL-Formatdateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.

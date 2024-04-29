@@ -9,7 +9,7 @@ howto: How to save GIF as XML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine GIF-Datei als XML in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von GIF-Dateiformaten als XML ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XML-Format werden von unserem Android SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-GIF-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um GIF als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
+Das Speichern von Dateiformaten aus GIF als XML ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XML-Format werden von unserem Android SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-GIF-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um GIF als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

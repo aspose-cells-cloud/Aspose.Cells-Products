@@ -4,12 +4,12 @@ description: 利用Aspose.Cells Cloud SDK for Android将TSV格式文件保存为
 kwords: Excel, Save TSV as MD, REST, Android
 howto: How to save TSV as MD using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 TSV 另存为 MD" h2="用于将 TSV 保存为 MD 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 TSV 保存为 MD 和其他文档格式的专业解决方案。" urlsection="saveas/tsv-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 TSV 另存为 MD" h2="用于将 TSV 保存为 MD 的 Android 库" p="使用 Cells Cloud 中的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 TSV 保存为 MD 和其他文档格式的专业解决方案。" urlsection="saveas/tsv-to-md/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="在 Android 中将 TSV 文件另存为 MD" >}}
+{{< blocks/products/cells/cells-cloud-section title="在 Android 中将 TSV 文件保存为 MD" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 TSV 中的文件格式保存为 MD 是一项复杂的任务。所有 TSV 到 MD 格式的转换均由我们的 Android SDK 执行，同时保留源 TSV 电子表格的主要结构和逻辑内容。我们的 Android 库是在线将 TSV 保存为 MD 文件的专业解决方案。该Cloud SDK为Android开发者提供了强大的功能和完美的MD输出。
+将文件格式从 TSV 保存为 MD 是一项复杂的任务。所有 TSV 到 MD 格式的转换均由我们的 Android SDK 执行，同时保留源 TSV 电子表格的主要结构和逻辑内容。我们的 Android 库是将 TSV 在线保存为 MD 文件的专业解决方案。此云 SDK 为 Android 开发人员提供了强大的功能和完美的 MD 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

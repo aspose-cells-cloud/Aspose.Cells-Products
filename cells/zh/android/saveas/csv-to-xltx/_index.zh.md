@@ -1,10 +1,10 @@
 ﻿---
-title: 使用 Android 将 CSV 保存为 XLTX
-description: 利用Aspose.Cells Cloud SDK for Android将CSV格式文件保存为XLTX格式文件。
+title: 使用 Android 将 CSV 另存为 XLTX
+description: 利用 Aspose.Cells Cloud SDK for Android 将 CSV 格式文件保存为 XLTX 格式文件。
 kwords: Excel, Save CSV as XLTX, REST, Android
 howto: How to save CSV as XLTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 CSV 保存为 XLTX" h2="用于将 CSV 保存为 XLTX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 CSV 保存为 XLTX 和其他文档格式的专业解决方案。" urlsection="saveas/csv-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 CSV 另存为 XLTX" h2="用于将 CSV 保存为 XLTX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 CSV 保存为 XLTX 和其他文档格式的专业解决方案。" urlsection="saveas/csv-to-xltx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 CSV 文件另存为 XLTX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

@@ -1,9 +1,9 @@
 ﻿---
 title:  Speichern Sie SXC als CSV mit C#
-description: Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der SXC-Formatdatei als CSV-Formatdatei.
+description:  Verwenden des Aspose.Cells Cloud SDK für C#, um eine Datei im SXC-Format als Datei im CSV-Format zu speichern.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie SXC als CSV" h2="C# Bibliothek zum Speichern von SXC als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als CSV und anderen Dokumentformaten unter C#." urlsection="saveas/sxc-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie SXC als CSV" h2="C# Bibliothek zum Speichern von SXC als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um SXC als CSV und andere Dokumentformate online mit C# zu speichern." urlsection="saveas/sxc-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als CSV unter C#" >}}
@@ -26,7 +26,7 @@ Das Speichern von Dateiformaten aus SXC als CSV ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net, um Excel-Dateien in anderen Formaten, SXC, als CSV zu speichern" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Net, um Excel-Dateien in anderen Formaten zu speichern: SXC als CSV" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `PostWorkbookSaveAs`, um den resultierenden Stream abzurufen.</li>

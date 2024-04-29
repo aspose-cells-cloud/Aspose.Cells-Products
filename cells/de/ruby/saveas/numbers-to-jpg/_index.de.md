@@ -2,18 +2,19 @@
 title:  Speichern Sie NUMBERS als JPG mit Ruby
 description:  Verwendung des Cloud SDK Aspose.Cells für Ruby zum Speichern der Datei im NUMBERS-Format als Datei im JPG-Format.
 kwords: Excel, Save NUMBERS as JPG, REST, Ruby
-howto: How to save NUMBERS as JPG using Aspose.Cells Cloud Ruby library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to save NUMBERS as JPG using the Cells Cloud Ruby library.","description": "How to save NUMBERS as JPG using the Cells Cloud Ruby library.","image": {"@type": "ImageObject"},"url": "/ruby/saveas/numbers-to-jpg/","step": [{ "@type": "HowToStep","name": "How to save NUMBERS as JPG using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/saveas/numbers-to-jpg/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to save NUMBERS as JPG using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/saveas/numbers-to-jpg/","text": "Install Ruby library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to save NUMBERS as JPG using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/saveas/numbers-to-jpg/","text": "Open the source file in Ruby.",},{ "@type": "HowToStep","name": "How to save NUMBERS as JPG using the Cells Cloud Ruby library. step 1", "image": {"@type": "ImageObject",},"url": "/ruby/saveas/numbers-to-jpg/","text": "Use the `post_workbook_save_as` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "RubyMine, Visual Studio Code, Aptana Studio, NetBeans"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why save file as other formats file in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just save them as appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PostWorkbookSaveAsRequest() method, passing an output filename with required extension.</li><li>Get the result of save as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I save as with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="ZAHLEN als JPG speichern" h2="Ruby-Bibliothek zum Speichern von ZAHLEN als JPG" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von Zahlen als JPG und anderen Dokumentformaten mit Ruby." urlsection="saveas/numbers-to-jpg/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine NUMBERS-Datei als JPG in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus NUMBERS als JPG ist eine komplexe Aufgabe. Alle Übergänge von NUMBERS zum JPG-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um ZAHLEN online als JPG-Dateien zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
+Das Speichern von Dateiformaten von NUMBERS als JPG ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu JPG werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle NUMBERS erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Speichern von NUMBERS als JPG-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und perfekte JPG-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Ruby-Codebeispiel zum Speichern von ZAHLEN als JPG mit REST API" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Ruby-Codebeispiel zum Speichern von Zahlen als JPG mit REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -32,7 +33,7 @@ Das Speichern von Dateiformaten aus NUMBERS als JPG ist eine komplexe Aufgabe. A
   
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie NUMBERS mit der Cloud Ruby-Bibliothek Cells als JPG speichern." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So speichern Sie ZAHLEN als JPG mit der Cloud Ruby-Bibliothek Cells." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Installieren Sie die Ruby-Bibliothek und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
 <li>Öffnen Sie die Quelldatei in Ruby.</li>

@@ -1,10 +1,10 @@
 ﻿---
-title: 使用 Android 将 HTML 另存为 FODS
-description: 利用Aspose.Cells Cloud SDK for Android将HTML格式文件保存为FODS格式文件。
+title: 使用 Android 将 HTML 保存为 FODS
+description: 利用 Aspose.Cells Cloud SDK for Android 将 HTML 格式文件保存为 FODS 格式文件。
 kwords: Excel, Save HTML as FODS, REST, Android
 howto: How to save HTML as FODS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 HTML 另存为 FODS" h2="用于将 HTML 保存为 FODS 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将HTML保存为FODS和其他文档格式的专业解决方案。" urlsection="saveas/html-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="保存 HTML 为 FODS" h2="用于将 HTML 保存为 FODS 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将HTML保存为FODS和其他文档格式的专业解决方案。" urlsection="saveas/html-to-fods/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 HTML 文件另存为 FODS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

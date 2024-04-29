@@ -4,7 +4,7 @@ description:  Använder Aspose.Cells Cloud SDK för Android för att spara NUMBE
 kwords: Excel, Save NUMBERS as PNG, REST, Android
 howto: How to save NUMBERS as PNG using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Spara NUMBERS som PNG" h2="Android-bibliotek för att spara NUMBERS som PNG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att spara NUMMER som PNG och andra dokumentformat online med Android." urlsection="saveas/numbers-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara NUMBERS som PNG" h2="Android-bibliotek för att spara NUMBERS som PNG" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara NUMMER som PNG och andra dokumentformat online med Android." urlsection="saveas/numbers-to-png/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Spara en NUMBERS-fil som PNG i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

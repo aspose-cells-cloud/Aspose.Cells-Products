@@ -9,7 +9,7 @@ description:  Aspose.Cells Cloud REST API admite la exportación de archivos de 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKSHEET a un archivo en formato GIF usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto WORKSHEET a un archivo GIF desde el archivo Excel es una tarea compleja. Nuestro SDK de Android realiza la exportación de transiciones de HOJA DE TRABAJO a formato GIF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de HOJA DE TRABAJO de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos de HOJA DE TRABAJO a archivos en formato GIF en línea. Este Cloud SDK ofrece a los desarrolladores de Android una funcionalidad potente y una salida GIF perfecta.
+Exportar el objeto WORKSHEET a un archivo GIF desde el archivo Excel es una tarea compleja. Nuestro SDK de Android realiza las transiciones de exportación de WORKSHEET a formato GIF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de WORKSHEET de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos de HOJA DE TRABAJO a archivos en formato GIF en línea. Este Cloud SDK ofrece a los desarrolladores de Android una funcionalidad potente y una salida GIF perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para exportar HOJA DE TRABAJO a formato GIF desde una hoja de cálculo" gistPath="" %}}

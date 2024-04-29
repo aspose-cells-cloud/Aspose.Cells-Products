@@ -10,7 +10,7 @@ url: /es/swift/conversion/xlsx-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSX a XLT en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLSX a XLT es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato XLSX a XLT mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XLSX a XLT en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida XLT perfecta.
+Convertir formatos de archivo de XLSX a XLT es una tarea compleja. Todas las transiciones de formato XLSX a XLT las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XLSX a XLT en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida XLT perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir XLSX a formato XLT" gistPath="" %}}

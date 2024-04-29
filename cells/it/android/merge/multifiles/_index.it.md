@@ -12,7 +12,7 @@ description:  API cloud e SDK per unire più file Excel utilizzando Android.
 Unire più file Excel in un unico file può essere un compito complesso. Il nostro SDK Android gestisce questo processo, garantendo che il contenuto strutturale e logico principale dei fogli di calcolo di origine venga preservato. La nostra libreria Android è una soluzione professionale per unire più file Excel in uno solo online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e un robusto API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in CAndroid che utilizza REST API per unire più file Excel in un unico file." gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-PostMerge.java" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in CAndroid che utilizza REST API per unire più file Excel in un singolo file." gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-PostMerge.java" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

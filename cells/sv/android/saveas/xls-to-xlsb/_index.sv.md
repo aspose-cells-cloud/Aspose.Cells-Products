@@ -9,7 +9,7 @@ howto: How to save XLS as XLSB using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en XLS-fil som XLSB i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLS som XLSB är en komplex uppgift. Alla XLS- till XLSB-formatövergångar utförs av vår Android-SDK samtidigt som käll-XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLS som XLSB-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
+Att spara filformat från XLS som XLSB är en komplex uppgift. Alla XLS- till XLSB-formatövergångar utförs av vår Android-SDK samtidigt som käll XLS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLS som XLSB-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

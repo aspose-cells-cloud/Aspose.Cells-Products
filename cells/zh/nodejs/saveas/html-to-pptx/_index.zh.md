@@ -2,14 +2,15 @@
 title: 使用 NodeJS 将 HTML 保存为 PPTX
 description: 利用Aspose.Cells Cloud SDK for NodeJS将HTML格式文件保存为PPTX格式文件。
 kwords: Excel, Save HTML as PPTX, REST, NodeJS
-howto: How to save HTML as PPTX using Aspose.Cells Cloud NodeJS library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to save HTML as PPTX using the Cells Cloud NodeJS library.","description": "How to save HTML as PPTX using the Cells Cloud NodeJS library.","image": {"@type": "ImageObject"},"url": "/nodejs/saveas/html-to-pptx/","step": [{ "@type": "HowToStep","name": "How to save HTML as PPTX using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/saveas/html-to-pptx/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to save HTML as PPTX using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/saveas/html-to-pptx/","text": "Install NodeJS library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to save HTML as PPTX using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/saveas/html-to-pptx/","text": "Open the source file in JavaScript.",},{ "@type": "HowToStep","name": "How to save HTML as PPTX using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/saveas/html-to-pptx/","text": "Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Visual Studio, Visual Studio Code, WebStorm"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why save file as other formats file in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just save them as appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PostWorkbookSaveAsRequest() method, passing an output filename with required extension.</li><li>Get the result of save as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I save as with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 HTML 另存为 PPTX" h2="用于将 HTML 保存为 PPTX 的 NodeJS 库" p="使用 Cells Cloud 的 SaveAs API 在 NodeJS 中创建自定义电子表格工作流程。这是使用NodeJS在线将HTML保存为PPTX等文档格式的专业解决方案。" urlsection="saveas/html-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 HTML 另存为 PPTX" h2="用于将 HTML 保存为 PPTX 的 NodeJS 库" p="使用 Cells Cloud 的 SaveAs API 在 NodeJS 中创建自定义电子表格工作流。这是使用 NodeJS 在线将 HTML 保存为 PPTX 和其他文档格式的专业解决方案。" urlsection="saveas/html-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="在 NodeJS 中将 HTML 文件另存为 PPTX" >}}
+{{< blocks/products/cells/cells-cloud-section title="在 NodeJS 中将 HTML 文件保存为 PPTX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 HTML 中的文件格式保存为 PPTX 是一项复杂的任务。所有 HTML 到 PPTX 格式的转换均由我们的 NodeJS SDK 执行，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的 NodeJS 库是在线将 HTML 保存为 PPTX 文件的专业解决方案。该Cloud SDK为NodeJS开发人员提供了强大的功能和完美的PPTX输出。
+将 HTML 的文件格式保存为 PPTX 是一项复杂的任务。所有 HTML 到 PPTX 格式的转换均由我们的 NodeJS SDK 执行，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的 NodeJS 库是将 HTML 在线保存为 PPTX 文件的专业解决方案。此云 SDK 为 NodeJS 开发人员提供了强大的功能和完美的 PPTX 输出。
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -32,7 +33,7 @@ howto: How to save HTML as PPTX using Aspose.Cells Cloud NodeJS library.
   
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="了解如何使用 Cells Cloud NodeJS 库将 HTML 另存为 PPTX。" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud NodeJS 库将 HTML 保存为 PPTX。" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>安装 NodeJS 库并将引用（导入库）添加到您的项目中。</li>
 <li>在 JavaScript 中打开源文件。</li>

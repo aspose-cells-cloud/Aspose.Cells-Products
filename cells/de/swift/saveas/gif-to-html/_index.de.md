@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF als HTML API für Swift speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im GIF-Format als Datei im Format HTML zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im GIF-Format als Dateien im HTML-Format zu speichern.
 url: /de/swift/saveas/gif-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -11,7 +11,7 @@ platform: Ruby
 otherformats: XML XLT XPS XLTM DIF XLSB TSV ODS SVG PDF XLSX MHTML XLSM TIFF MD CSV 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="使用 Ruby 将 FODS 转换为 CSV" h2="使用开源 Cloud SDK for Ruby 读取、编辑 Excel 数据并将其导出为其他格式" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="使用 Ruby 将 FODS 转换为 CSV" h2="使用开源 Cloud SDK for Ruby 读取、编辑和导出 Excel 数据为其他格式" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -23,12 +23,12 @@ otherformats: XML XLT XPS XLTM DIF XLSB TSV ODS SVG PDF XLSX MHTML XLSM TIFF MD 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="开始使用 Excel API 和 Ruby SDK" %}}
-从以下位置获取 Excel Cloud SDK for Ruby 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby)自己编译 SDK 或前往[发布](https://releases.aspose.cloud/)以获得替代下载选项。
+获取 Excel Cloud SDK for Ruby 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby)自己编译 SDK 或前往[发布](https://releases.aspose.cloud/)以获得替代下载选项。
 
 另请查看基于 Swagger 的[API 参考](https://apireference.aspose.cloud/cells/)了解更多关于[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="用于 FODS 到 CSV 转换的 Ruby 代码" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="FODS 到 CSV 转换的 Ruby 代码" gistPath="" %}}
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
 

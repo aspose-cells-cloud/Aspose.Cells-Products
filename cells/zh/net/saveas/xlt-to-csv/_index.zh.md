@@ -1,9 +1,9 @@
 ﻿---
 title: 使用 C# 将 XLT 保存为 CSV
-description: 利用Aspose.Cells Cloud SDK for C#将XLT格式文件保存为CSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for C# 将 XLT 格式文件保存为 CSV 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLT 保存为 CSV" h2="C# 用于将 XLT 保存为 CSV 的库" p="使用 Cells Cloud 的 SaveAs API 在 Net 中创建自定义电子表格工作流程。这是使用 C# 在线将 XLT 保存为 CSV 和其他文档格式的专业解决方案。" urlsection="saveas/xlt-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLT 保存为 CSV" h2="C# 用于将 XLT 保存为 CSV 的库" p="使用 Cells Cloud 的 SaveAs API 在 Net 中创建自定义电子表格工作流程。这是一个专业的解决方案，可使用 C# 在线将 XLT 保存为 CSV 和其他文档格式。" urlsection="saveas/xlt-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 XLT 文件另存为 CSV 中的 C#" >}}
@@ -26,7 +26,7 @@ description: 利用Aspose.Cells Cloud SDK for C#将XLT格式文件保存为CSV�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Net将Excel文件保存为其他格式XLT为CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud SDK for Net 将 Excel 文件保存为其他格式 XLT 作为 CSV" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
 <li>使用 `PostWorkbookSaveAs` 方法检索结果流。</li>

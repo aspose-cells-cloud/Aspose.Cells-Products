@@ -9,7 +9,7 @@ howto: How to save JSON as JPG using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en JSON-fil som JPG i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från JSON som JPG är en komplex uppgift. Alla JSON- till JPG-formatövergångar utförs av vår Android SDK samtidigt som käll-JSON-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara JSON som JPG-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
+Att spara filformat från JSON som JPG är en komplex uppgift. Alla JSON- till JPG-formatövergångar utförs av vår Android-SDK samtidigt som käll-JSON-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara JSON som JPG-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -3,7 +3,7 @@ title:  مسح الارتباطات التشعبية في المصنف المح�
 description: واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الارتباطات التشعبية على Microsoft Excel وOpenOffice Calc. مسح الارتباطات التشعبية على جداول البيانات المحلية بواسطة سحابة Cells API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الارتباطات التشعبية على الرقم المحلي Microsoft Excel وجدول بيانات OpenOffice Calc" h2="C# مسح لمسح الارتباطات التشعبية على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الارتباطات التشعبية المحلية على Microsoft Excel وسير عمل جداول بيانات OpenOffice Calc في C#. يقوم هذا الحل الاحترافي بمسح الارتباطات التشعبية المحلية على Microsoft Excel وجدول بيانات OpenOffice Calc باستخدام C#." urlsection="clear/Hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الارتباطات التشعبية على الرقم المحلي Microsoft Excel وجدول بيانات OpenOffice Calc" h2="C# مسح لمسح الارتباطات التشعبية على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear Rest API لتطهير الارتباطات التشعبية على Microsoft Excel و OpenOffice Calc Termflows في C#. هذا الحل المهني واضح على الارتباطات المحلية Microsoft Excel و Openoffice Calce." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الارتباطات التشعبية على Microsoft المحلي Excel وجدول بيانات OpenOffice Calc - C# REST API" >}}
@@ -25,7 +25,7 @@ description: واجهات برمجة التطبيقات السحابية ومج�
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
-<li>NET Framework 4.5.2 أو أحدث</li>
+<li>NET Framework 4.5.2 أو الأحدث</li>
 <li>نت ستاندرد 2.0 أو أحدث</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 

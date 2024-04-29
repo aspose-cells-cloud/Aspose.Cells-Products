@@ -1,5 +1,5 @@
 ﻿---
-title: Экспортируйте CHART в EMF из Excel с помощью Cells Cloud SDK для Android.
+title: Экспортируйте CHART в EMF из Excel с помощью Cloud SDK Cells для Android.
 description:  Aspose.Cells Cloud REST API поддерживает экспорт файлов формата {0} в {1} с помощью {2}.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

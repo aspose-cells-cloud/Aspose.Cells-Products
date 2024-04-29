@@ -1,10 +1,10 @@
 ﻿---
-title: 使用 Swift 将 LISTOBJECT 从电子表格导出到 SQL API
+title: 使用 Swift API 将 LISTOBJECT 从电子表格导出到 SQL
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
 url: /zh/swift/export/listobject-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 将 LISTOBJECT 导出到 SQL 文件" h2="将 LISTOBJECT 导出到 SQL 文件的 Swift 库" p="使用 Cells Export REST API 在 Swift 中导出电子表格内部对象工作流程。这是使用 Swift 将 LISTOBJECT 从电子表格在线导出为 SQL 格式文件的专业解决方案。" urlsection="export/listobject-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 将 LISTOBJECT 导出到 SQL 文件" h2="将 LISTOBJECT 导出到 SQL 文件的 Swift 库" p="使用 Cells Export REST API 以 Swift 格式导出电子表格内部对象工作流。这是一个专业的解决方案，可使用 Swift 在线将电子表格中的 LISTOBJECT 导出为 SQL 格式文件。" urlsection="export/listobject-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Swift 中将 LISTOBJECT 对象导出为 SQL 格式文件" >}}
@@ -57,7 +57,7 @@ url: /zh/swift/export/listobject-to-sql/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Swift API 将 LISTOBJECT 导出到 SQL" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 postExport 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

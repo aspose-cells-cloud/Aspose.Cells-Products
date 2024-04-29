@@ -1,9 +1,9 @@
 ﻿---
 title:  Fusionner plusieurs fichiers Excel
-description:  Aspose.Cells Cloud REST API permet de fusionner plusieurs fichiers Excel en un seul fichier Excel et fournit des SDK pour plusieurs langages de programmation, notamment Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834. 81, Ruby et Swift.
+description:  Aspose.Cells Cloud REST API permet de fusionner plusieurs fichiers Excel en un seul fichier Excel et fournit des SDK pour plusieurs langages de programmation, notamment Android, C#, Go, Java, NodeJS, Perl, PHP, 481, Ruby et Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionner plusieurs fichiers Excel" h2="Aspose.Cells Cloud SDK prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel." p="Aspose.Cells Cloud REST API permet de fusionner plusieurs fichiers Excel en un seul fichier Excel et fournit des SDK pour plusieurs langages de programmation, notamment Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834. 81, Ruby et Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionner plusieurs fichiers Excel" h2="Aspose.Cells Cloud SDK prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel." p="Aspose.Cells Cloud REST API permet de fusionner plusieurs fichiers Excel en un seul fichier Excel et fournit des SDK pour plusieurs langages de programmation, notamment Android, C#, Go, Java, NodeJS, Perl, PHP, 481, Ruby et Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -25,7 +25,7 @@ Der Schutz einer Cloud-Tabelle mit einem Passwort ist eine komplexe Aufgabe. Der
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Knoten v6.17.1 oder neuer</li>
+<li>Node v6.17.1 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

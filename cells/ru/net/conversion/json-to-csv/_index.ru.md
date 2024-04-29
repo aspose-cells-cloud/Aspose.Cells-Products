@@ -6,7 +6,7 @@ description:  Использование Cloud SDK Aspose.Cells для C# для
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать JSON в CSV" h2="C# библиотека для преобразования JSON в CSV" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Net. Это профессиональное решение для онлайн-конвертирования JSON в CSV и другие форматы документов с использованием номера C#." urlsection="conversion/json-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование JSON в CSV с помощью Cells Cloud SDK для C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование JSON в CSV с помощью Cloud SDK Cells для C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из JSON в CSV может оказаться сложной задачей. Наш SDK C# обрабатывает все преобразования форматов JSON в CSV, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека C# предоставляет профессиональное решение для онлайн-конвертирования файлов JSON в CSV. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и обеспечивает высококачественный вывод в формате CSV.

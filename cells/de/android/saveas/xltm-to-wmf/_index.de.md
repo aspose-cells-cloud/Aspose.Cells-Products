@@ -1,15 +1,15 @@
 ﻿---
-title:  Speichern Sie XLTM als WMF mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von XLTM-Formatdateien als WMF-Formatdateien.
+title:  XLTM als WMF mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLTM-Format als Dateien im WMF-Format zu speichern.
 kwords: Excel, Save XLTM as WMF, REST, Android
 howto: How to save XLTM as WMF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLTM als WMF" h2="Android-Bibliothek zum Speichern von XLTM als WMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLTM als WMF und anderen Dokumentformaten mit Android." urlsection="saveas/xltm-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLTM als WMF speichern" h2="Android-Bibliothek zum Speichern von XLTM als WMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLTM als WMF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xltm-to-wmf/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLTM-Datei als WMF in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von XLTM als WMF ist eine komplexe Aufgabe. Alle XLTM-zu-WMF-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLTM-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um XLTM als WMF-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Speichern von Dateiformaten von XLTM als WMF ist eine komplexe Aufgabe. Alle Formatübergänge von XLTM zu WMF werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle XLTM erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XLTM als WMF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte WMF-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

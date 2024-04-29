@@ -10,7 +10,7 @@ url: /es/swift/export/chart-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto CHART a archivo de formato PNG en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto CHART al archivo PNG desde una hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de formato CHART a PNG manteniendo el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos CHART a archivos con formato PNG en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado PNG perfecto.
+Exportar el objeto CHART al archivo PNG desde una hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de formato CHART a PNG mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos CHART a archivos con formato PNG en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado PNG perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar CHART al formato PNG desde una hoja de cálculo" gistPath="" %}}

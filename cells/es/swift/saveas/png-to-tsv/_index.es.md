@@ -10,7 +10,7 @@ url: /es/swift/saveas/png-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo PNG como TSV en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de PNG como TSV es una tarea compleja. Todas las transiciones de formato PNG a TSV las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen PNG. Nuestra biblioteca Swift es una solución profesional para guardar PNG como archivos TSV en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida TSV perfecta.
+Guardar formatos de archivo de PNG como TSV es una tarea compleja. Nuestro SDK Swift realiza todas las transiciones de formato PNG a TSV mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen PNG. Nuestra biblioteca Swift es una solución profesional para guardar PNG como archivos TSV en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida TSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar PNG como formato TSV" gistPath="" %}}

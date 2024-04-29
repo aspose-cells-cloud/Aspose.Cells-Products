@@ -1,6 +1,6 @@
 ﻿---
 title:
-description: API e SDK cloud per la protezione di Microsoft Excel e OpenOffice Calc. Crittografa i fogli di calcolo locali con la password tramite Cells Cloud API.
+description: API cloud e SDK per la protezione di Microsoft Excel e OpenOffice Calc. Crittografa i fogli di calcolo locali con la password tramite Cells Cloud API.
 url: /it/ruby/export/export/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

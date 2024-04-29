@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie MHTML unter XPS API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im MHTML-Format als Datei im Format XPS zu speichern.
+title:  Speichern Sie MHTML als XPS API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im MHTML-Format als Datei im XPS-Format zu speichern.
 url: /de/swift/saveas/mhtml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

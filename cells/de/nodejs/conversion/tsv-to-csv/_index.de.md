@@ -42,7 +42,7 @@ Das Konvertieren von Dateiformaten von TSV in CSV kann eine komplexe Aufgabe sei
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Knoten v6.17.1 oder neuer</li>
+<li>Node v6.17.1 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

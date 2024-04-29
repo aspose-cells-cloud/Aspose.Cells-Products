@@ -13,7 +13,7 @@ url: /es/swift/conversion/sxc-to-txt/
 Convertir formatos de archivo de SXC a TXT es una tarea compleja. Todas las transiciones de formato SXC a TXT se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos SXC a TXT en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida TXT perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir SXC a formato TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir SXC al formato TXT" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie TXT als MHTML mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von TXT-Formatdateien als MHTML-Formatdateien.
+title:  TXT als MHTML speichern mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im TXT-Format als Dateien im MHTML-Format zu speichern.
 kwords: Excel, Save TXT as MHTML, REST, Android
 howto: How to save TXT as MHTML using Aspose.Cells Cloud Android library.
 ---

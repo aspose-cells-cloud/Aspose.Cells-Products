@@ -1,6 +1,6 @@
 ﻿---
 title:  Java'i kullanarak XLT'yi CSV'ye dönüştürün
-description:  XLT formatındaki bir dosyayı CSV formatındaki bir dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
+description: XLT formatındaki bir dosyayı CSV formatındaki bir dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="XLT\'yi CSV\'ye dönüştür" h2="XLT\'yi CSV\'ye dönüştürmek için Java kitaplığı" p="Java projelerinde özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Bulutunun API Dönüşümünü kullanın. Bu, Java numaralı telefonu kullanarak XLT\'yi CSV\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xlt-to-csv/" >}}
@@ -9,7 +9,7 @@ description:  XLT formatındaki bir dosyayı CSV formatındaki bir dosyaya dön�
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cells Cloud SDK for Java\'i kullanarak XLT\'yi CSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLT'den CSV'ye dönüştürmek karmaşık bir iş olabilir. Java SDK'mız, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLT'den CSV formatına dönüşümleri gerçekleştirir. Java kitaplığımız, XLT'yi çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Java geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli CSV çıktısı sağlar.
+Dosya formatlarını XLT'den CSV'ye dönüştürmek karmaşık bir iş olabilir. Java SDK'mız, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken tüm XLT'den CSV formatına dönüşümleri gerçekleştirir. Java kitaplığımız, XLT'yi çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözüm sunar. Bu Bulut SDK'sı, Java geliştiriciye güçlü işlevsellik kazandırır ve yüksek kaliteli CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java Cells Cloud SDK\'yı kullanarak XLT\'yi CSV\'ye dönüştürmek için Kod Örneği" gistPath="" %}}
@@ -47,7 +47,7 @@ Dosya formatlarını XLT'den CSV'ye dönüştürmek karmaşık bir iş olabilir.
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını XLT\'den CSV\'ye diğer formatlara dönüştürmek için Cells Cloud SDK for Java nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

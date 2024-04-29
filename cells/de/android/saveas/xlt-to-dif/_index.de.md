@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie XLT als DIF mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLT-Formatdateien als DIF-Formatdateien.
+title:  XLT als DIF mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLT-Format als Dateien im DIF-Format zu speichern.
 kwords: Excel, Save XLT as DIF, REST, Android
 howto: How to save XLT as DIF using Aspose.Cells Cloud Android library.
 ---

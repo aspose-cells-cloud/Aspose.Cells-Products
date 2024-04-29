@@ -37,8 +37,8 @@ description: 利用Aspose.Cells Cloud SDK for Python将XLTX格式文件保存为
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
-<li>Python 2.7 或更高版本</li>
-<li>Python 3.10 或更高版本</li>
+<li>Python 2.7 或更新版本</li>
+<li>Python 3.10 或更新版本</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -10,7 +10,7 @@ url: /tr/swift/saveas/txt-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir TXT dosyasını XLS olarak kaydetme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını TXT'den XLS olarak kaydetmek karmaşık bir iştir. TXT'den XLS formatına tüm geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, TXT'yi çevrimiçi olarak XLS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLS çıktısı sağlar.
+Dosya formatlarını TXT'den XLS olarak kaydetmek karmaşık bir iştir. Tüm TXT'den XLS formatına geçişler Swift SDK'mız tarafından gerçekleştirilir ve kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, TXT'yi çevrimiçi olarak XLS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Bulut SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi XLS formatı olarak kaydetmek için Swift\'de REST API\'i kullanan kod örneği" gistPath="" %}}
@@ -55,7 +55,7 @@ Dosya formatlarını TXT'den XLS olarak kaydetmek karmaşık bir iştir. TXT'den
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="TXT\'yi XLS olarak kaydetmek için Swift API nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için CellSaveAsPostDocumentSaveAs yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

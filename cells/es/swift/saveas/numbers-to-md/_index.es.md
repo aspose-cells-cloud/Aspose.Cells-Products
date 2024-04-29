@@ -10,7 +10,7 @@ url: /es/swift/saveas/numbers-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo NUMBERS como MD en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de NUMBERS como MD es una tarea compleja. Todas las transiciones de formato NUMBERS a MD se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Swift es una solución profesional para guardar NÚMEROS como archivos MD en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida MD perfecta.
+Guardar formatos de archivo de NUMBERS como MD es una tarea compleja. Todas las transiciones de formato de NUMBERS a MD se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Swift es una solución profesional para guardar NÚMEROS como archivos MD en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida MD perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar NÚMEROS como formato MD" gistPath="" %}}

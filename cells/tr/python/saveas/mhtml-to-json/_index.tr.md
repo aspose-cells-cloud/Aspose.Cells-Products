@@ -1,8 +1,9 @@
 ﻿---
 title:  Python'i kullanarak MHTML'yi JSON olarak kaydedin
-description:  MHTML formatındaki dosyayı JSON formatındaki dosya olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
+description: MHTML formatındaki dosyayı JSON formatındaki dosya olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 kwords: Excel, Save MHTML as JSON, REST, Python
-howto: How to save MHTML as JSON using Aspose.Cells Cloud Python library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to save MHTML as JSON using the Cells Cloud Python library.","description": "How to save MHTML as JSON using the Cells Cloud Python library.","image": {"@type": "ImageObject"},"url": "/python/saveas/mhtml-to-json/","step": [{ "@type": "HowToStep","name": "How to save MHTML as JSON using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/saveas/mhtml-to-json/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to save MHTML as JSON using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/saveas/mhtml-to-json/","text": "Install Python library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to save MHTML as JSON using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/saveas/mhtml-to-json/","text": "Open the source file in Python.",},{ "@type": "HowToStep","name": "How to save MHTML as JSON using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/saveas/mhtml-to-json/","text": "Use the `post_workbook_save_as` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "PyCharm, Visual Studio Code, Sublime, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why save file as other formats file in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just save them as appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PostWorkbookSaveAsRequest() method, passing an output filename with required extension.</li><li>Get the result of save as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I save as with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="MHTML\'yi JSON olarak kaydet" h2="MHTML\'yi JSON olarak kaydetmek için Python kitaplığı" p="Python\'de özelleştirilmiş e-tablo iş akışları oluşturmak için Cells Cloud\'un API SaveAs\'ını kullanın. Bu, Python\'i kullanarak MHTML\'yi JSON ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/mhtml-to-json/" >}}
 
@@ -13,7 +14,7 @@ Dosya formatlarını MHTML'den JSON olarak kaydetmek karmaşık bir iştir. MHTM
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Python REST API kullanarak MHTML\'yi JSON olarak kaydetmek için Kod Örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python MHTML\'yi REST API kullanarak JSON olarak kaydetmek için Kod Örneği" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -29,8 +30,8 @@ Dosya formatlarını MHTML'den JSON olarak kaydetmek karmaşık bir iştir. MHTM
   
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Python kitaplığını kullanarak MHTML\'yi JSON olarak nasıl kaydedeceğinizi öğrenin." >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells Cloud Python kitaplığını kullanarak MHTML\'yi JSON olarak kaydetme." >}}
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Python kütüphanesini kurun ve referansı (kütüphaneyi içe aktarın) projenize ekleyin.</li>
 <li>Kaynak dosyayı Python'de açın.</li>
 <li>Ortaya çıkan akışı almak için `post_workbook_save_as` yöntemini kullanın.</li>

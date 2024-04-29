@@ -9,7 +9,7 @@ description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上样式的云 AP
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的样式 - Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的样式是一项复杂的任务。本地 Microsoft Excel 和 OpenOffice Calc 电子表格转换上的清除样式由我们的 Android SDK 执行，同时保持源电子表格的主要结构和逻辑内容。我们的 Android 库是一个专业的解决方案，用于清除本地 Microsoft Excel 和在线 OpenOffice Calc 电子表格上的样式。此Cloud SDK为Android开发者提供了强大的功能和完善的API。
+清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的样式是一项复杂的任务。本地 Microsoft Excel 和 OpenOffice Calc 电子表格转换上的清除样式由我们的 Android SDK 执行，同时保留源电子表格的主要结构和逻辑内容。我们的 Android 库是一个专业的解决方案，用于清除本地 Microsoft Excel 和在线 OpenOffice Calc 电子表格上的样式。此Cloud SDK为Android开发者提供了强大的功能和完善的API。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="用于清除本地电子表格上的样式的Android代码" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Clear-Style.java" %}}

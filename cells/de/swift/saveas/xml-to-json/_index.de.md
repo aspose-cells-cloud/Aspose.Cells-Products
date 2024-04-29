@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie XML als JSON API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XML-Formatdateien als JSON-Formatdateien.
+title:  XML als JSON API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im XML-Format als Datei im JSON-Format zu speichern.
 url: /de/swift/saveas/xml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

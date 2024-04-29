@@ -3,7 +3,7 @@ title:  فك تشفير جداول البيانات السحابية بكلمة 
 description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لـ Microsoft Excel وفك تشفير OpenOffice Calc باستخدام كلمة المرور على الملفات السحابية. فك تشفير جداول البيانات السحابية بواسطة السحابة Cells API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة المرور" h2="مكتبة PHP لفك التشفير السحابي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمة المرور" p="استخدم Cells Decrypt REST API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور في PHP. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت بكلمات مرور باستخدام PHP ." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة المرور" h2="مكتبة PHP لفك التشفير السحابي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمة المرور" p="استخدم Cells فك تشفير REST API لفك تشفير السحابة Microsoft وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور في PHP. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات المرور باستخدام 07617348 1." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="فك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - PHP REST API" >}}

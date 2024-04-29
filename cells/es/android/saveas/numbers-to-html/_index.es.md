@@ -9,7 +9,7 @@ howto: How to save NUMBERS as HTML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Guarde un archivo NUMBERS como HTML en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de NÚMEROS como HTML es una tarea compleja. Todas las transiciones de formato de NUMBERS a HTML las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca de Android es una solución profesional para guardar NÚMEROS como archivos HTML en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y un resultado HTML perfecto.
+Guardar formatos de archivo de NÚMEROS como HTML es una tarea compleja. Todas las transiciones de formato de NUMBERS a HTML se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca de Android es una solución profesional para guardar NÚMEROS como archivos HTML en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y un resultado HTML perfecto.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -3,10 +3,10 @@ title:  Объедините несколько файлов Excel в один, 
 description:  Облачные API и SDK для объединения нескольких файлов Excel с использованием C#.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK для C# для объединения нескольких файлов Excel в один файл." h2="Библиотека C# для объединения нескольких файлов Excel в один файл." p="Используйте Cells Cloud SDK для объединения нескольких файлов Excel в один файл C#. Это профессиональное решение позволяет объединить несколько файлов Excel в электронную таблицу Microsoft Excel или таблицу OpenOffice Calc с использованием C#." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK для C# для объединения нескольких файлов Excel в один файл." h2="Библиотека C# для объединения нескольких файлов Excel в один файл." p="Используйте Cloud SDK Cells для объединения нескольких файлов Excel в один файл C#. Это профессиональное решение позволяет объединить несколько файлов Excel в электронную таблицу Microsoft Excel или таблицу OpenOffice Calc с использованием C#." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Объедините несколько файлов Excel в один с помощью Cells Cloud SDK для C#." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Объедините несколько файлов Excel в один с помощью Cloud SDK Cells для C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" %}}
 <br/>
 Объединение нескольких файлов Excel в один может оказаться сложной задачей. Наш SDK C# обрабатывает этот процесс, обеспечивая сохранение основного структурного и логического содержимого исходных таблиц. Наша библиотека C# — это профессиональное решение для объединения нескольких файлов Excel в один онлайн. Этот Cloud SDK предоставляет разработчикам C# мощные функциональные возможности и надежный API.

@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XLSM mit Android in XLSB
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer XLSM-Formatdatei in eine XLSB-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im XLSM-Format in eine Datei im XLSB-Format.
 kwords: Excel, Convert XLSM to XLSB, REST, Android
 howto: How to convert XLSM to XLSB using Aspose.Cells Cloud Android library.
 ---
@@ -9,11 +9,11 @@ howto: How to convert XLSM to XLSB using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSM in XLSB mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSM in XLSB kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen des XLSM- in das XLSB-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLSM-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSM- in XLSB-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSB-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSM in XLSB kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von XLSM in XLSB und bewahrt dabei den strukturellen und logischen Hauptinhalt der Quell-XLSM-Tabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSM- in XLSB-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XLSB-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von XLSM in XLSB mit dem Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von XLSM in XLSB mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

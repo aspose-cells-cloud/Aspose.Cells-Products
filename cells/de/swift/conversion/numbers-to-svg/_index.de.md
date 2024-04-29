@@ -1,16 +1,16 @@
 ﻿---
-title: ZAHLEN in SVG Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im SVG-Format.
+title: NUMBERS in SVG Konvertieren Sie API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im NUMBERS-Format in eine Datei im SVG-Format zu konvertieren.
 url: /de/swift/conversion/numbers-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um NUMBERS in SVG umzuwandeln" h2="Swift-Bibliothek zum Konvertieren von ZAHLEN in SVG" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS online mit Swift in SVG und andere Dokumentformate zu konvertieren." urlsection="conversion/numbers-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von Zahlen in SVG" h2="Swift-Bibliothek zum Konvertieren von Zahlen in SVG" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS online mit Swift in SVG und andere Dokumentformate zu konvertieren." urlsection="conversion/numbers-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine NUMBERS-Datei in Swift in SVG" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von NUMBERS in SVG ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu SVG werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von NUMBERS-Dateien in SVG-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte SVG-Ausgabe.
+Das Konvertieren von Dateiformaten von NUMBERS nach SVG ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS nach SVG werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle NUMBERS erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von NUMBERS- in SVG-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte SVG-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von NUMBERS in das Format SVG" gistPath="" %}}

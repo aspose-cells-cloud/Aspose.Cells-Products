@@ -1,9 +1,9 @@
 ﻿---
 title:  Proteja archivos Excel usando Perl
-description:  Aspose.Cells Cloud REST API admite cifrar, descifrar y agregar firmas digitales a libros mediante Perl y ofrece SDK para varios lenguajes de programación.
+description:  Aspose.Cells Cloud REST API admite cifrar, descifrar y agregar firmas digitales a libros usando Perl y ofrece SDK para varios lenguajes de programación.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteja archivos Excel usando Perl" h2="Aspose.Cells Cloud SDK admite descifrar, cifrar y firmar digitalmente libros." p="Aspose.Cells Cloud REST API admite cifrar, descifrar y agregar firmas digitales a libros mediante Perl y ofrece SDK para varios lenguajes de programación." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteja archivos Excel usando Perl" h2="Aspose.Cells Cloud SDK admite descifrar, cifrar y firmar digitalmente libros." p="Aspose.Cells Cloud REST API admite cifrar, descifrar y agregar firmas digitales a libros usando Perl y ofrece SDK para varios lenguajes de programación." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

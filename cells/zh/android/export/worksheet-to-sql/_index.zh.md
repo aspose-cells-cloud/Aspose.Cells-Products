@@ -1,9 +1,9 @@
 ﻿---
-title: 使用适用于 Android 的 Cells Cloud SDK 将 WORKSHEET 从 Excel 导出到 SQL
+title: 使用 Cells Cloud SDK for Android 将 WORKSHEET 从 Excel 导出到 SQL
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 WORKSHEET 从 Excel 导出到 SQL" h2="用于将 WORKSHEET 导出到 SQL 文件的 Android 库" p="使用Cells Cloud的Export API导出Android中的Excel文件内部对象工作流程。这是一个使用 Android 在线电子表格将 WORKSHEET 导出为 SQL 格式文件的专业解决方案。" urlsection="export/worksheet-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="从 Excel 将 WORKSHEET 导出到 SQL" h2="用于将 WORKSHEET 导出到 SQL 文件的 Android 库" p="使用 Cells Cloud 的 Export API 在 Android 中导出 Excel 文件内部对象工作流。这是使用 Android 在线将 WORKSHEET 从电子表格导出为 SQL 格式文件的专业解决方案。" urlsection="export/worksheet-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Android 将 WORKSHEET 对象导出为 SQL 格式文件" >}}

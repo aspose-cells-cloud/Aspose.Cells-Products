@@ -2,18 +2,19 @@
 title:  Konvertieren Sie HTML mit PHP in PNG
 description:  Verwendung des Aspose.Cells Cloud SDK für PHP zum Konvertieren einer Datei im Format HTML in eine Datei im Format PNG.
 kwords: Excel, Convert HTML to PNG, REST, PHP
-howto: How to convert HTML to PNG using Aspose.Cells Cloud PHP library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert HTML to PNG using the Cells Cloud PHP library.","description": "How to convert HTML to PNG using the Cells Cloud PHP library.","image": {"@type": "ImageObject"},"url": "/php/conversion/html-to-png/","step": [{ "@type": "HowToStep","name": "How to convert HTML to PNG using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/html-to-png/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert HTML to PNG using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/html-to-png/","text": "Install PHP library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert HTML to PNG using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/html-to-png/","text": "Open the source file in PHP.",},{ "@type": "HowToStep","name": "How to convert HTML to PNG using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/html-to-png/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "phpstorm, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie HTML in PNG" h2="PHP-Bibliothek zum Konvertieren von HTML in PNG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP-Projekten zu erstellen. Dies ist eine professionelle Lösung, um HTML in PNG und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/html-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie HTML in PNG" h2="PHP-Bibliothek zum Konvertieren von HTML in PNG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von HTML in PNG und andere Dokumentformate online mit PHP." urlsection="conversion/html-to-png/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie HTML in PNG mit dem Cloud SDK Cells für PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von HTML in PNG kann eine komplexe Aufgabe sein. Unser PHP SDK verarbeitet alle Formatkonvertierungen von HTML in PNG und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle HTML bei. Unsere PHP-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von HTML- in PNG-Dateien. Dieses Cloud SDK stellt PHP-Entwicklern leistungsstarke Funktionen zur Verfügung und gewährleistet eine qualitativ hochwertige PNG-Ausgabe.
+Das Konvertieren von Dateiformaten von HTML nach PNG kann eine komplexe Aufgabe sein. Unser PHP SDK bewältigt alle Formatkonvertierungen von HTML nach PNG und bewahrt dabei den strukturellen und logischen Hauptinhalt der Quelltabelle HTML. Unsere PHP-Bibliothek bietet eine professionelle Lösung zum Online-Konvertieren von Dateien von HTML nach PNG. Dieses Cloud SDK bietet PHP-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PNG-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Codebeispiel für die Konvertierung von HTML in PNG mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="PHP Codebeispiel zur Konvertierung von HTML in PNG mit Cells Cloud SDK" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -35,7 +36,7 @@ Das Konvertieren von Dateiformaten von HTML in PNG kann eine komplexe Aufgabe se
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie HTML mithilfe der Cells Cloud PHP-Bibliothek in PNG konvertieren." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So konvertieren Sie HTML in PNG mithilfe der Cells Cloud PHP-Bibliothek." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Installieren Sie die Bibliothek PHP und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
 <li>Öffnen Sie die Quelldatei in PHP.</li>

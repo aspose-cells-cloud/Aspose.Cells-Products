@@ -9,7 +9,7 @@ howto: How to save XLS as DOCX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните файл XLS как DOCX на Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в формате DOCX — сложная задача. Все переходы формата XLS в DOCX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Android — это профессиональное решение для сохранения файлов XLS в формате DOCX онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из XLS в формате DOCX — сложная задача. Все переходы формата XLS в DOCX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной таблицы XLS. Наша библиотека Android — это профессиональное решение для сохранения файлов XLS в формате DOCX онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате DOCX.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

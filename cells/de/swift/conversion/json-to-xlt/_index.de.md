@@ -1,5 +1,5 @@
 ﻿---
-title:  JSON zu XLT Konvertieren API für Swift
+title:  JSON zu XLT Konvertierung API für Swift
 description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im JSON-Format in eine Datei im XLT-Format.
 url: /de/swift/conversion/json-to-xlt/
 ---

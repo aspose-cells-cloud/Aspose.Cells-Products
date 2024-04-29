@@ -23,7 +23,7 @@ description: Il cloud Aspose.Cells API ti consente di eseguire un'ampia gamma di
 {{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-php.svg" pfName="Aspose.Cells Cloud" title="SDk per PHP" linkurl="/cells/php" productLink="/cells/php/" >}}
 {{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-python.svg" pfName="Aspose.Cells Cloud" title="SDk per Pyhton" linkurl="/cells/python" productLink="/cells/python/" >}}
 {{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-ruby.svg" pfName="Aspose.Cells Cloud" title="SDK per Ruby" linkurl="/cells/ruby" productLink="/cells/ruby" >}}
-{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" pfName="Aspose.Cells Cloud" title="SDK per Swift" linkurl="/cells/swift" productLink="/cells/swift/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" pfName="Aspose.Cells Cloud" title="SDk per Swift" linkurl="/cells/swift" productLink="/cells/swift/" >}}
 
 
 {{< /blocks/products/pf/product-card-row >}}

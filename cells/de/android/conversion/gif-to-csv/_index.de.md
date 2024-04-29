@@ -9,10 +9,10 @@ description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertiere
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie GIF in CSV mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von GIF in CSV kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von GIF in das CSV-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-GIF-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von GIF- in CSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige CSV-Ausgabe.
+Das Konvertieren von Dateiformaten von GIF in CSV kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom GIF- ins CSV-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der GIF-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung zum Online-Konvertieren von GIF- in CSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige CSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel für die Konvertierung von GIF in CSV mit dem Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Konvertieren von GIF in CSV mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -46,7 +46,7 @@ Das Konvertieren von Dateiformaten von GIF in CSV kann eine komplexe Aufgabe sei
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Android, um Excel-Dateien in andere Formate, GIF in CSV, zu konvertieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Android, um Excel-Dateien in andere Formate zu konvertieren GIF zu CSV" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Verwenden Sie die Methode `putConvertWorkbook`, um den resultierenden Stream abzurufen.</li>

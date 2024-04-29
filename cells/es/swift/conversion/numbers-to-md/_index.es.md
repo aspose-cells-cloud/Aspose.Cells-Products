@@ -10,7 +10,7 @@ url: /es/swift/conversion/numbers-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo NÚMEROS a MD en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de NUMBERS a MD es una tarea compleja. Todas las transiciones de formato NUMBERS a MD se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Swift es una solución profesional para convertir NÚMEROS a archivos MD en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida MD perfecta.
+Convertir formatos de archivo de NUMBERS a MD es una tarea compleja. Todas las transiciones de formato de NUMBERS a MD se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Swift es una solución profesional para convertir NÚMEROS a archivos MD en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida MD perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir NÚMEROS al formato MD" gistPath="" %}}

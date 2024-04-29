@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF als TIFF API für Swift speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im GIF-Format als Datei im Format TIFF zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im GIF-Format als Dateien im TIFF-Format zu speichern.
 url: /de/swift/saveas/gif-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

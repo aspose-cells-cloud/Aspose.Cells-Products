@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLT como DIF API para Swift
-description:  Uso de Aspose.Cells Cloud SDK para Swift para guardar un archivo en formato XLT como archivo en formato DIF.
+description:  Uso de Aspose.Cells Cloud SDK para Swift para guardar un archivo en formato XLT como un archivo en formato DIF.
 url: /es/swift/saveas/xlt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

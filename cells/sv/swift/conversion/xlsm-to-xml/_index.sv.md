@@ -10,7 +10,7 @@ url: /sv/swift/conversion/xlsm-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLSM-fil till XML i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSM till XML är en komplex uppgift. Alla XLSM till XML-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLSM-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLSM till XML-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XML-utdata.
+Att konvertera filformat från XLSM till XML är en komplex uppgift. Alla XLSM till XML-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLSM-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLSM till XML-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XML-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera XLSM till XML-format" gistPath="" %}}

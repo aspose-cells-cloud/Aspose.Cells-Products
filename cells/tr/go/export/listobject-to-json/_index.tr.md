@@ -1,15 +1,16 @@
 ﻿---
 title:  Go için Cells Cloud SDK'yı kullanarak LISTOBJECT'i Excel'den JSON'a aktarın
 description:  Aspose.Cells Cloud REST API, {2} kullanılarak {0} dosyasının {1} biçimindeki dosyaların dışa aktarılmasını destekler.
-kwords:
-howto:
+kwords: Excel, listobject, json, Go
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to JSON","description": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to JSON","image": {"@type": "ImageObject"},"url": "/go/export/listobject-to-json/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to JSON step 1", "image": {"@type": "ImageObject",},"url": "/go/export/listobject-to-json/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to JSON step 1", "image": {"@type": "ImageObject",},"url": "/go/export/listobject-to-json/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to JSON step 1", "image": {"@type": "ImageObject",},"url": "/go/export/listobject-to-json/","text": "Use the `postExport` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Goland, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="LISTOBJECT\'i Excel\'den JSON\'a aktar" h2="LISTOBJECT\'i JSON dosyasına aktarmak için kütüphaneye gidin" p="Go\'da Excel dosya dahili nesne iş akışlarını dışa aktarmak için Cells Bulut\'un API\'ini Dışa Aktar\'ı kullanın. Bu, Go\'yu kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i JSON formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-json/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Cells Cloud SDK for Go\'yu kullanarak LISTOBJECT nesnesini JSON biçimindeki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini Excel dosyasından JSON dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i JSON biçimine aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak JSON formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
+LISTOBJECT nesnesini Excel dosyasından JSON dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i JSON biçimine aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kütüphanemiz, LISTOBJECT nesnelerini çevrimiçi olarak JSON formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Bulut SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -56,7 +57,7 @@ LISTOBJECT nesnesini Excel dosyasından JSON dosyasına aktarmak karmaşık bir 
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Nesneleri Excel LISTOBJECT\'ten JSON\'a aktarmak için Cells Cloud SDK for Go nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `postExport` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

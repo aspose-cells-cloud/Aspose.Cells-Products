@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 PHP 将 JSON 保存为 CSV
-description: 利用Aspose.Cells Cloud SDK for PHP将JSON格式文件保存为CSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for PHP 将 JSON 格式文件保存为 CSV 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="将 JSON 保存为 CSV" h2="PHP 用于将 JSON 保存为 CSV 的库" p="使用Cells云的SaveAs API在PHP中创建自定义电子表格工作流程。这是使用PHP在线将JSON保存为CSV和其他文档格式的专业解决方案。" urlsection="saveas/json-to-csv/" >}}

@@ -1,9 +1,9 @@
 ﻿---
 title:  Birden fazla Excel dosyasını birleştir
-description:  Aspose.Cells Cloud REST API, birden fazla Excel dosyasının tek bir Excel dosyasında birleştirilmesine olanak tanır ve Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834 dahil birden fazla programlama dili için SDK'lar sağlar 81, Ruby ve Swift.
+description:  Aspose.Cells Cloud REST API, birden fazla Excel dosyasının tek bir Excel dosyasında birleştirilmesine olanak tanır ve Android, C#, Go, Java, NodeJS, Perl, PHP, 076183 dahil olmak üzere birden fazla programlama dili için SDK'lar sağlar 481, Ruby ve Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Birden fazla Excel dosyasını birleştir" h2="Aspose.Cells Cloud SDK, birden fazla Excel dosyasının tek bir Excel dosyasında birleştirilmesini destekler." p="Aspose.Cells Cloud REST API, birden fazla Excel dosyasının tek bir Excel dosyasında birleştirilmesine olanak tanır ve Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834 dahil birden fazla programlama dili için SDK\'lar sağlar 81, Ruby ve Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Birden fazla Excel dosyasını birleştir" h2="Aspose.Cells Cloud SDK, birden fazla Excel dosyasının tek bir Excel dosyasında birleştirilmesini destekler." p="Aspose.Cells Cloud REST API, birden fazla Excel dosyasının tek bir Excel dosyasında birleştirilmesine olanak tanır ve Android, C#, Go, Java, NodeJS, Perl, PHP, 076183 dahil olmak üzere birden fazla programlama dili için SDK\'lar sağlar 481, Ruby ve Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

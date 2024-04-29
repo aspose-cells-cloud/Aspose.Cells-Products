@@ -1,9 +1,9 @@
 ﻿---
-title: 使用适用于 Android 的 Cells Cloud SDK 将 WORKBOOK 从 Excel 导出为 JPG
+title: 使用 Cells Cloud SDK for Android 将 WORKBOOK 从 Excel 导出为 JPG
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 WORKBOOK 从 Excel 导出为 JPG" h2="用于将 WORKBOOK 导出为 JPG 文件的 Android 库" p="使用Cells Cloud的Export API导出Android中的Excel文件内部对象工作流程。这是使用 Android 将电子表格在线导出 WORKBOOK 为 JPG 格式文件的专业解决方案。" urlsection="export/workbook-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="从 Excel 导出 WORKBOOK 到 JPG" h2="用于将 WORKBOOK 导出为 JPG 文件的 Android 库" p="使用Cells Cloud的Export API导出Android中的Excel文件内部对象工作流程。这是使用 Android 将电子表格在线导出 WORKBOOK 为 JPG 格式文件的专业解决方案。" urlsection="export/workbook-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for Android 将 WORKBOOK 对象导出为 JPG 格式文件" >}}

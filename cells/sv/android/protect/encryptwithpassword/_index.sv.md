@@ -1,6 +1,6 @@
 ﻿---
 title:  Kryptera lokalt kalkylblad med lösenord med Android i molnet
-description:  Cloud API och SDK för att skydda Microsoft Excel och OpenOffice Calc med Android. Kryptera lokala kalkylblad med lösenord med Cells Cloud API SDK för Android.
+description: " Cloud API:er och SDK:er för att skydda Microsoft Excel och OpenOffice Calc med Android. Kryptera lokala kalkylblad med lösenord med Cells Cloud API SDK för Android."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Använd Cells Cloud SDK för Android för att lösenordsskydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad." h2="Android-bibliotek för lösenordsskyddande lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Protect REST API för att säkra lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord i Android-arbetsflöden. Denna professionella lösning möjliggör lösenordsskydd för Microsoft Excel och OpenOffice Calc-kalkylblad online med Android." urlsection="protect/Encrypt-with-password/" >}}

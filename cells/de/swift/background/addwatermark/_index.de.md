@@ -1,5 +1,5 @@
 ﻿---
-title:  Fügen Sie mit Swift in der Cloud ein Wasserzeichen für eine lokale Arbeitsmappe hinzu
+title:  Mit Swift in der Cloud ein Wasserzeichen für die lokale Arbeitsmappe hinzufügen
 description:  Cloud-APIs und SDKs zum Hinzufügen von Wasserzeichen für Microsoft Excel und OpenOffice Calc mit Swift. Hinzufügen von Wasserzeichen für lokale Tabellenkalkulationen durch das Cells Cloud API SDK für Swift.
 url: /de/swift/background/add-watermark/
 ---

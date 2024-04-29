@@ -1,10 +1,10 @@
 ﻿---
-title:  PNG in XLTM Konvertieren Sie API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im PNG-Format in eine XLTM-Formatdatei.
+title:  PNG zu XLTM Konvertieren Sie API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im Format PNG in eine Datei im Format XLTM zu konvertieren.
 url: /de/swift/conversion/png-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zur Konvertierung von PNG in XLTM" h2="Swift-Bibliothek zum Konvertieren von PNG in XLTM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in XLTM und andere Dokumentformate mit Swift." urlsection="conversion/png-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zur Konvertierung von PNG in XLTM" h2="Swift-Bibliothek zum Konvertieren von PNG in XLTM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Swift in XLTM und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in Swift in XLTM" >}}

@@ -45,7 +45,7 @@ url: /es/curl
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> De entrada y salida</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Oficina abierta:</b> SAO</li>
 <li><b>Hoja de cálculoML:</b> XML</li>
-<li><b>Texto:</b> CSV, TSV, TXT (delimitado por tabulaciones)</li>
+<li><b>Texto:</b> CSV, TSV, TXT (delimitado por tabuladores)</li>
 <li><b>Web:</b> HTML, HTML</li>
 </ul></div>
 <!--/left-->

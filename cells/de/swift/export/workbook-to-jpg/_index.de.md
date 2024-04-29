@@ -1,10 +1,10 @@
 ﻿---
-title:  Exportieren Sie die Arbeitsmappe mit Swift API aus der Tabellenkalkulation in JPG
+title:  Exportieren Sie WORKBOOK mit Swift API aus einer Tabelle in JPG
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/workbook-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren der Arbeitsmappe in eine JPG-Datei" h2="Swift-Bibliothek zum Exportieren von WORKBOOK in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine JPG-Datei aus einer Tabellenkalkulation online mit Swift." urlsection="export/workbook-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von WORKBOOK in eine JPG-Datei" h2="Swift-Bibliothek zum Exportieren von WORKBOOK in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine JPG-Datei aus einer Tabellenkalkulation online mit Swift." urlsection="export/workbook-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im JPG-Format in Swift" >}}

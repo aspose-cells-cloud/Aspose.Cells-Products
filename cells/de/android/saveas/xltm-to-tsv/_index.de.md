@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLTM als TSV mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLTM-Formatdateien als TSV-Formatdateien.
+description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von XLTM-Formatdateien als TSV-Formatdateien.
 kwords: Excel, Save XLTM as TSV, REST, Android
 howto: How to save XLTM as TSV using Aspose.Cells Cloud Android library.
 ---

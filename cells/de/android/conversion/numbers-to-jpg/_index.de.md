@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie NUMBERS mit Android in JPG
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im JPG-Format.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im NUMBERS-Format in eine Datei im JPG-Format zu konvertieren.
 kwords: Excel, Convert NUMBERS to JPG, REST, Android
 howto: How to convert NUMBERS to JPG using Aspose.Cells Cloud Android library.
 ---

@@ -9,7 +9,7 @@ howto: How to convert XLSB to XLS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertera XLSB till XLS med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSB till XLS kan vara en komplex uppgift. Vår Android-SDK hanterar alla XLSB- till XLS-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källarket XLSB bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera XLSB till XLS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativ XLS-utgång.
+Att konvertera filformat från XLSB till XLS kan vara en komplex uppgift. Vår Android-SDK hanterar alla XLSB- till XLS-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLSB-kalkylblad bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera XLSB till XLS-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativ XLS-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

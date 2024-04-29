@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertera XLT till CSV med Go
+title: Konvertera XLT till CSV med Go
 description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera en XLT-fil till en CSV-fil.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

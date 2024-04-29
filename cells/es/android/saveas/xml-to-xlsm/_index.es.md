@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XML como XLSM usando Android
-description:  Utilizando Aspose.Cells Cloud SDK para Android para guardar un archivo en formato XML como un archivo en formato XLSM.
+description:  Utilizando Aspose.Cells Cloud SDK para Android para guardar el archivo en formato XML como archivo en formato XLSM.
 kwords: Excel, Save XML as XLSM, REST, Android
 howto: How to save XML as XLSM using Aspose.Cells Cloud Android library.
 ---

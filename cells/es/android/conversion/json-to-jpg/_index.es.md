@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JSON a JPG usando Android
-description:  Utilizar el SDK de Cloud Aspose.Cells para Android para convertir un archivo en formato JSON a un archivo en formato JPG.
+description:  Utilizar el SDK de Cloud Aspose.Cells para Android para convertir un archivo de formato JSON a un archivo de formato JPG.
 kwords: Excel, Convert JSON to JPG, REST, Android
 howto: How to convert JSON to JPG using Aspose.Cells Cloud Android library.
 ---

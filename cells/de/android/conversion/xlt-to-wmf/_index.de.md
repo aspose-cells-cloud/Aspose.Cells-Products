@@ -4,16 +4,16 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertiere
 kwords: Excel, Convert XLT to WMF, REST, Android
 howto: How to convert XLT to WMF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLT in WMF" h2="Android-Bibliothek zum Konvertieren von XLT in WMF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLT in WMF und andere Dokumentformate mit Android." urlsection="conversion/xlt-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLT in WMF" h2="Android-Bibliothek zum Konvertieren von XLT in WMF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um XLT online mit Android in WMF und andere Dokumentformate zu konvertieren." urlsection="conversion/xlt-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLT in WMF mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLT in WMF mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLT in WMF kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle XLT-in-WMF-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLT-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLT- in WMF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige WMF-Ausgabe.
+Das Konvertieren von Dateiformaten von XLT in WMF kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom XLT- ins WMF-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der XLT-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLT- in WMF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige WMF-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von XLT in WMF mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von XLT in WMF mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

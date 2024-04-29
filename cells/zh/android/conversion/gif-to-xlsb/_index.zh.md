@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 GIF 转换为 XLSB
-description: 利用Aspose.Cells Cloud SDK for Android将GIF格式文件转换为XLSB格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 GIF 格式文件转换为 XLSB 格式文件。
 kwords: Excel, Convert GIF to XLSB, REST, Android
 howto: How to convert GIF to XLSB using Aspose.Cells Cloud Android library.
 ---

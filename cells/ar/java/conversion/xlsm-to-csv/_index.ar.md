@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XLSM إلى CSV باستخدام Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق XLSM إلى ملف بتنسيق CSV.
+description: استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق XLSM إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLSM إلى CSV" h2="مكتبة Java لتحويل XLSM إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل XLSM إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlsm-to-csv/" >}}
@@ -9,7 +9,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLSM إلى CSV باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يمكن أن يكون تحويل تنسيقات الملفات من XLSM إلى CSV مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق XLSM إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل ملفات XLSM إلى CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من الحصول على وظائف قوية ويضمن إخراج CSV عالي الجودة.
+يمكن أن يكون تحويل تنسيقات الملفات من XLSM إلى CSV مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق XLSM إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل ملفات XLSM إلى CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من خلال وظائف قوية ويضمن إخراج CSV عالي الجودة.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لتحويل XLSM إلى CSV باستخدام Cells Cloud SDK" gistPath="" %}}

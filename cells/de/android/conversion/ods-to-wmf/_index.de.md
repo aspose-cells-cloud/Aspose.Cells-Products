@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie ODS mit Android in WMF
+title:  Konvertieren Sie ODS in WMF mit Android
 description: Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im ODS-Format in eine Datei im WMF-Format.
 kwords: Excel, Convert ODS to WMF, REST, Android
 howto: How to convert ODS to WMF using Aspose.Cells Cloud Android library.

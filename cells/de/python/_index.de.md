@@ -1,5 +1,5 @@
 ﻿---
-title: Excel® Tabellenkalkulationsprogrammierung API zur Beschleunigung der Tabellenverwaltung und Verarbeitungsaufgaben mit Python
+title: Excel® Tabellenkalkulationsprogrammierung API zur Beschleunigung der Tabellenkalkulationsverwaltung und -verarbeitung mit Python
 description: API Unterstützung zum Erstellen plattformübergreifender Anwendungen mit der Möglichkeit, Tabellenkalkulationen zu generieren, zu ändern, zu konvertieren, darzustellen und zu drucken. Es ermöglicht Entwicklern, Arbeitsblätter, Zeilen, Spalten und Zellen zu verwalten, Tabelleninhalte und -stile von Grund auf zu erstellen, Daten aus verschiedenen Datenquellen in die Arbeitsblätter zu importieren, allgemeine und komplexe mathematische, finanzielle und Textformeln hinzuzufügen sowie Pivot-Tabellen und Diagramme zu erstellen und zu bearbeiten , Hyperlinks, Kommentare, Zeichenobjekte und vieles mehr.
 weight: 90
 ---

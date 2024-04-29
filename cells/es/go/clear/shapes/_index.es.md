@@ -1,12 +1,12 @@
 ﻿---
 title:  Borrar formas en el libro local en la nube
-description: API y SDK en la nube para borrar formas en Microsoft Excel y OpenOffice Calc. Formas claras en hojas de cálculo locales mediante la nube Cells API. El SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description: API y SDK en la nube para borrar formas en Microsoft Excel y OpenOffice Calc. Formas claras en hojas de cálculo locales mediante Cells Cloud API. El SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Eliminación de formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Vaya a Borrar para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar formas en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Go." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar formas en Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc: vaya a REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc: vaya a REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
 Borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc es una tarea compleja. Nuestro Go SDK realiza la limpieza de formas en las transiciones locales de hojas de cálculo Microsoft Excel y OpenOffice Calc mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Go es una solución profesional para borrar formas en Microsoft Excel local y en hojas de cálculo OpenOffice Calc en línea. Este SDK de nube ofrece a los desarrolladores de Go una funcionalidad potente y un API perfecto.

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convierta NÚMEROS a FODS usando Android
-description:  Utilizar el Aspose.Cells Cloud SDK para Android para convertir un archivo en formato NUMBERS a un archivo en formato FODS.
+description:  Utilizar el SDK de Cloud Aspose.Cells para Android para convertir un archivo en formato NUMBERS a un archivo en formato FODS.
 kwords: Excel, Convert NUMBERS to FODS, REST, Android
 howto: How to convert NUMBERS to FODS using Aspose.Cells Cloud Android library.
 ---
@@ -9,7 +9,7 @@ howto: How to convert NUMBERS to FODS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Convierta NÚMEROS a FODS usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de NUMBERS a FODS puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato NUMBERS a FODS mientras preserva el contenido estructural y lógico principal de la hoja de cálculo NUMBERS fuente. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos NÚMEROS a FODS en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida FODS de alta calidad.
+Convertir formatos de archivo de NUMBERS a FODS puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato NUMBERS a FODS mientras preserva el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos NÚMEROS a FODS en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida FODS de alta calidad.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

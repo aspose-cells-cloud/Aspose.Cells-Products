@@ -13,7 +13,7 @@ url: /es/swift/saveas/ods-to-xltx/
 Guardar formatos de archivo de ODS como XLTX es una tarea compleja. Todas las transiciones de formato ODS a XLTX las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo ODS de origen. Nuestra biblioteca Swift es una solución profesional para guardar ODS como archivos XLTX en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida XLTX perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar ODS como formato XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar ODS en formato XLTX" gistPath="" %}}
   
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

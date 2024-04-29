@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLS als GIF mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLS-Formatdateien als GIF-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLS-Format als Dateien im GIF-Format zu speichern.
 kwords: Excel, Save XLS as GIF, REST, Android
 howto: How to save XLS as GIF using Aspose.Cells Cloud Android library.
 ---

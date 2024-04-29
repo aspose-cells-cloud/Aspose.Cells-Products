@@ -3,7 +3,7 @@ title:  Сохраните HTML в формате CSV с помощью Android.
 description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата HTML в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как CSV." h2="Библиотека Android для сохранения HTML в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения HTML в формате CSV и других форматах документов онлайн с помощью Android." urlsection="saveas/html-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как CSV." h2="Библиотека Android для сохранения HTML в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Android. Это профессиональное решение для сохранения HTML в формате CSV и других форматов документов онлайн с помощью Android." urlsection="saveas/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML в формате CSV на Android." >}}

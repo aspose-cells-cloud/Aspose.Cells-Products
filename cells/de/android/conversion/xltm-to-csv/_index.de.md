@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie XLTM mit Android in CSV
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer XLTM-Formatdatei in eine CSV-Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLTM-Format in eine Datei im CSV-Format zu konvertieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLTM in CSV" h2="Android-Bibliothek zum Konvertieren von XLTM in CSV" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTM in CSV und andere Dokumentformate mit Android." urlsection="conversion/xltm-to-csv/" >}}

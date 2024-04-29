@@ -1,6 +1,6 @@
 ﻿---
-title: 使用云中的 Go 为本地工作簿添加水印
-description: 用于使用 Go 为 Microsoft Excel 和 OpenOffice Calc 添加水印的云 API 和 SDK。通过 Cells Cloud API SDK for Go 为本地电子表格添加水印。
+title: 使用 Go in Cloud 为本地工作簿添加水印
+description: 用于为 Microsoft Excel 和 OpenOffice Calc 添加水印的云 API 和 SDK。使用 Cells Cloud API SDK for Go 为本地电子表格添加水印。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="去 API 为本地 Microsoft Excel 和 OpenOffice Calc 电子表格添加水印" h2="去库为本地Microsoft Excel和OpenOffice Calc电子表格添加水印" p="使用 Cells Watermark REST API 为 Go 中的本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流程添加水印。这个专业的解决方案使用 Go 在线为 Microsoft Excel 和 OpenOffice Calc 电子表格添加水印。" urlsection="background/Add-watermark/" >}}
@@ -19,7 +19,7 @@ description: 用于使用 Go 为 Microsoft Excel 和 OpenOffice Calc 添加水�
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Go API 添加水印" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 PostWatermark 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -9,7 +9,7 @@ howto: How to save SXC as XML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine SXC-Datei als XML in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus SXC als XML ist eine komplexe Aufgabe. Alle SXC-zu-XML-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-SXC-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um SXC als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
+Das Speichern von Dateiformaten aus SXC als XML ist eine komplexe Aufgabe. Alle SXC-zu-XML-Formatübergänge werden von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um SXC als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

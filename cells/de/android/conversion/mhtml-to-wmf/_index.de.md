@@ -1,12 +1,12 @@
 ﻿---
-title:  Konvertieren Sie MHTML mit Android in WMF
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im MHTML-Format in eine Datei im WMF-Format.
+title:  Konvertieren Sie MHTML in WMF mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im MHTML-Format in eine Datei im WMF-Format zu konvertieren.
 kwords: Excel, Convert MHTML to WMF, REST, Android
 howto: How to convert MHTML to WMF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie MHTML in WMF" h2="Android-Bibliothek zum Konvertieren von MHTML in WMF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von MHTML in WMF und andere Dokumentformate online mit Android." urlsection="conversion/mhtml-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie MHTML in WMF" h2="Android-Bibliothek zum Konvertieren von MHTML in WMF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in WMF und andere Dokumentformate mit Android." urlsection="conversion/mhtml-to-wmf/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie MHTML in WMF mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie MHTML in WMF mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von MHTML in WMF kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von MHTML in das WMF-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-MHTML-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von MHTML- in WMF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige WMF-Ausgabe.

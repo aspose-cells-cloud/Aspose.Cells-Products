@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie ODS als FODS API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im ODS-Format als Datei im FODS-Format zu speichern.
+title:  ODS als FODS API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im ODS-Format als Dateien im FODS-Format zu speichern.
 url: /de/swift/saveas/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um ODS als FODS zu speichern" h2="Swift-Bibliothek zum Speichern von ODS als FODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von ODS als FODS und anderen Dokumentformaten mit Swift." urlsection="saveas/ods-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von ODS als FODS" h2="Swift-Bibliothek zum Speichern von ODS als FODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von ODS als FODS und anderen Dokumentformaten mit Swift." urlsection="saveas/ods-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine ODS-Datei als FODS in Swift" >}}

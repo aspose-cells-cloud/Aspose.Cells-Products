@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
 kwords: Excel, Save ODS as JSON, REST, Android
 howto: How to save ODS as JSON using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="احفظ ODS بتنسيق JSON" h2="مكتبة Android لحفظ المواد المستنفدة للأوزون بصيغة JSON" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/ods-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ ODS بصيغة JSON" h2="مكتبة Android لحفظ المواد المستنفدة للأوزون بصيغة JSON" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ المواد المستنفدة للأوزون بتنسيق JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/ods-to-json/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="احفظ ملف ODS بتنسيق JSON في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

@@ -1,19 +1,20 @@
 ﻿---
 title:  Exportieren Sie ARBEITSBLATT nach MD von Excel mit Cells Cloud SDK für Ruby
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
-kwords:
-howto:
+kwords: Excel, worksheet, md, Ruby
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKSHEET to MD","description": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKSHEET to MD","image": {"@type": "ImageObject"},"url": "/ruby/export/worksheet-to-md/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKSHEET to MD step 1", "image": {"@type": "ImageObject",},"url": "/ruby/export/worksheet-to-md/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKSHEET to MD step 1", "image": {"@type": "ImageObject",},"url": "/ruby/export/worksheet-to-md/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Ruby to export objects from Excel WORKSHEET to MD step 1", "image": {"@type": "ImageObject",},"url": "/ruby/export/worksheet-to-md/","text": "Call post_export method to get the resultant stream",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "RubyMine, Visual Studio Code, Aptana Studio, NetBeans"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie ARBEITSBLATT nach MD von Excel" h2="Ruby-Bibliothek zum Exportieren von WORKSHEET in eine MD-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objektworkflows der Datei Excel in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine MD-Formatdatei aus einer Tabellenkalkulation online mit Ruby." urlsection="export/worksheet-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Exportieren Sie ARBEITSBLATT nach MD von Excel" h2="Ruby-Bibliothek zum Exportieren von WORKSHEET in eine MD-Datei" p="Verwenden Sie Export API von Cells Cloud, um interne Objekt-Workflows in Ruby aus Dateien der Datei Excel zu exportieren. Dies ist eine professionelle Lösung, um WORKSHEET online mit Ruby aus einer Tabellenkalkulation in eine MD-Formatdatei zu exportieren." urlsection="export/worksheet-to-md/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im MD-Format mit dem Cloud SDK Cells für Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im MD-Format mit Cells Cloud SDK für Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in eine MD-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das MD-Format werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
+Das Exportieren von WORKSHEET-Objekten in eine MD-Datei aus der Datei Excel ist eine komplexe Aufgabe. Die Formatübergänge beim Exportieren von WORKSHEET in das MD-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle WORKSHEET erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Exportieren von WORKSHEET-Objekten in MD-Formatdateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und perfekte MD-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Ruby mit REST API zum Exportieren von WORKSHEET in das MD-Format aus einer Tabellenkalkulation" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Codebeispiel in Ruby mit REST API zum Exportieren von WORKSHEET aus einer Tabellenkalkulation in das MD-Format" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -34,7 +35,7 @@ Das Exportieren eines WORKSHEET-Objekts aus der Datei Excel in eine MD-Datei ist
    
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Objekte aus Excel WORKSHEET nach MD zu exportieren" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK für Ruby, um Objekte von Excel WORKSHEET nach MD zu exportieren" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>

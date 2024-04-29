@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 CSV 转换为 SQL
-description: 利用Aspose.Cells Cloud SDK for Android将CSV格式文件转换为SQL格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 CSV 格式文件转换为 SQL 格式文件。
 kwords: Excel, Convert CSV to SQL, REST, Android
 howto: How to convert CSV to SQL using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 CSV 转换为 SQL" h2="用于将 CSV 转换为 SQL 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 CSV 转换为 SQL 和其他文档格式的专业解决方案。" urlsection="conversion/csv-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="將 CSV 轉換為 SQL" h2="用于将 CSV 转换为 SQL 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 CSV 转换为 SQL 和其他文档格式的专业解决方案。" urlsection="conversion/csv-to-sql/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Android 将 CSV 转换为 SQL" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

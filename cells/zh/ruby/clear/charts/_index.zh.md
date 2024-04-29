@@ -17,7 +17,7 @@ description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的图表的云
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何利用Cells Cloud SDK for Ruby清除图表" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何利用 Cells Cloud SDK for Ruby 清除图表" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
 <li>呼叫帖子_清除_对象方法来获取结果流</li>

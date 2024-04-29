@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 TXT 保存为 TSV
-description: 利用Aspose.Cells Cloud SDK for Android将TXT格式文件保存为TSV格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 TXT 格式文件保存为 TSV 格式文件。
 kwords: Excel, Save TXT as TSV, REST, Android
 howto: How to save TXT as TSV using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 TXT 保存为 TSV" h2="用于将 TXT 保存为 TSV 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将TXT保存为TSV和其他文档格式的专业解决方案。" urlsection="saveas/txt-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 TXT 另存为 TSV" h2="用于将 TXT 保存为 TSV 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将TXT保存为TSV和其他文档格式的专业解决方案。" urlsection="saveas/txt-to-tsv/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 TXT 文件另存为 TSV" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

@@ -1,17 +1,17 @@
 ﻿---
-title: 轻量级电子表格管理|云 Excel & OpenOffice API
-description: 探索用户友好的低代码解决方案来管理云中的电子表格。我们的 RESTful API 可让您轻松在线创建、读取、写入、合并、分割、加密和转换 Excel 和 OpenOffice 文件。通过我们高效、轻量级的云服务简化您的工作流程。
+title: 轻量级电子表格管理 | Cloud Excel 和 OpenOffice API
+description: 发现一种用户友好的低代码解决方案，用于在云中管理您的电子表格。我们的 RESTful API 可让您轻松在线创建、读取、写入、合并、拆分、加密和转换 Excel 和 OpenOffice 文件。使用我们高效、轻量级的云服务简化您的工作流程。
 weight: 90
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="适用于 Excel 电子表格的 .Net REST SDK" h2="在云中创建、读取、写入、合并、拆分、加密和转换 Microsoft Excel 和 OpenOffice 电子表格。" logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .Net" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".Net REST SDK 用于 Excel 电子表格" h2="在云中创建、读取、写入、合并、拆分、加密和转换 Microsoft Excel 和 OpenOffice 电子表格。" logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .Net" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .Net" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="概述" msg="Aspose.Cells Cloud SDK for .Net 有助于快速开发强大的基于云的应用程序，适用于 Microsoft Excel、iWork office 号码、OpenOffice 电子表格和其他格式文件。它提供了用 .Net 编程语言生成、读取、合并、分割、加密和转换文件的功能。该 SDK 基于 Aspose.Cells Cloud API 构建，并在 MIT 许可证下运行。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="概述" msg="Aspose.Cells Cloud SDK for .Net 有助于快速开发适用于 Microsoft Excel、iWork office 数字、OpenOffice 电子表格和其他格式文件的基于云的强大应用程序。它提供使用 .Net 编程语言生成、读取、合并、拆分、加密和转换文件的功能。此 SDK 建立在 Aspose.Cells Cloud API 之上，并在 MIT 许可下运行。" >}}
     {{< blocks/products/cells/cells-cloud-language-content msg="Aspose.Cells Cloud SDK for .Net 使您的 .Net 应用程序能够访问和修改云工作表中的各种元素。它可以操作自动过滤器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。该 SDK 使您的 .Net 程序能够将各种格式（如 XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、ODS）转换为 DIF、PDF、XPS、TIFF、SVG、Markdown、XML、SpreadsheetML、CSV、TSV 、TXT、HTML 和 MHTML。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
 
@@ -21,7 +21,7 @@ weight: 90
 
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" imgalt="operatest.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Aspose.Cells Cloud SDK for .Net 可实现多种操作，例如创建、拆分、合并、搜索和替换文本、应用密码保护、导出为支持的文件格式、读取工作簿文本项、自动调整工作簿行并忽略隐藏的行元素、使用不同的加密密钥长度加密工作簿密码、将数据导入工作簿、计算所有公式、设置公式计算精度策略、利用智能标记、在格式之间转换工作簿以及应用密码以允许内容修改。</p><p>您可以执行各种操作，例如删除工作表中的特定行或所有行、访问工作表单元格数据或单元格样式via单元格名称、根据索引检索行或列数据、计算单元格公式、清除单元格内容、复制单元格将数据复制到另一个单元格、复制工作表列和行、对工作表行和列进行分组、隐藏特定工作表行和列、定义工作表列和行的样式、在单元格内设置 html 字符串值、为一系列单元格分配值以及修改各种内容工作表设置。</p>" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>Aspose.Cells Cloud SDK for .Net 可实现多种操作，例如创建、拆分、合并、搜索和替换文本、应用密码保护、导出到支持的文件格式、读取工作簿文本项、自动调整工作簿行同时忽略隐藏元素、使用不同的加密密钥长度加密工作簿密码、将数据导入工作簿、计算所有公式、设置公式计算精度策略、利用智能标记、在格式之间转换工作簿以及应用密码以允许修改内容。</p><p>您可以执行多种操作，例如删除工作表中的特定行或所有行、访问工作表单元格数据或单元格样式 via 单元格名称、根据其索引检索行或列数据、计算单元格公式、清除单元格内容、将单元格数据复制到另一个单元格、复制工作表列和行、对工作表行和列进行分组、隐藏特定工作表行和列、定义工作表列和行的样式、在工作表中设置 html 字符串值单元格、为单元格范围分配值以及修改各种工作表设置。</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
 
 

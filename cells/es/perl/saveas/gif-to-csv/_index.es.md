@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde GIF como CSV usando Perl
-description:  Utilizando Aspose.Cells Cloud SDK para Perl para guardar el archivo en formato GIF como archivo en formato CSV.
+description: Utilizando Aspose.Cells Cloud SDK para Perl para guardar el archivo en formato GIF como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar GIF como CSV" h2="Biblioteca Perl para guardar GIF como CSV" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Perl. Esta es una solución profesional para guardar GIF como CSV y otros formatos de documentos en línea usando Perl." urlsection="saveas/gif-to-csv/" >}}

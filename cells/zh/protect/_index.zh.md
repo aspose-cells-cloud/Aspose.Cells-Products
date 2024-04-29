@@ -3,7 +3,7 @@ title: 保护Excel文件
 description: Aspose.Cells Cloud REST API 支持工作簿解密、加密和数字签名，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby、Swift。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="保护Excel文件" h2="Aspose.Cells Cloud SDK支持工作簿解密、加密、数字签名。" p="Aspose.Cells Cloud REST API 支持工作簿解密、加密和数字签名，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby、Swift。" urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="保护Excel文件" h2="Aspose.Cells Cloud SDK支持工作簿解密、加密、数字签名。" p="Aspose.Cells Cloud REST API 支持工作簿解密、加密和数字签名，并提供各种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 Swift。" urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -42,7 +42,7 @@ description: Aspose.Cells Cloud REST API 支持工作簿解密、加密和数字
 {{< /blocks/products/cells/cells-cloud-api-template >}}       
 
 {{< blocks/products/pf/product-card-row title="热门经营" >}}
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="用密码解密" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="使用密码解密" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/protect/decrypt-with-password/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Go" title="电子签名" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/protect/digital-signature/" >}}
 

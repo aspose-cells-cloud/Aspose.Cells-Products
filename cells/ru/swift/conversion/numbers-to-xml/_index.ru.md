@@ -10,7 +10,7 @@ url: /ru/swift/conversion/numbers-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в XML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ЧИСЛОВ в XML — сложная задача. Все переходы формата NUMBERS в формат XML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации ЧИСЕЛ в XML-файлы. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из ЧИСЛОВ в XML — сложная задача. Все переходы формата NUMBERS в формат XML выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации ЧИСЕЛ в XML-файлы. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования ЧИСЕЛ в формат XML" gistPath="" %}}

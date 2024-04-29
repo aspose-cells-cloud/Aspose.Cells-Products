@@ -1,5 +1,5 @@
 ﻿---
-title:  Löschen Sie Formen in der lokalen Arbeitsmappe in der Cloud
+title:  Löschen von Formen im lokalen Arbeitsbuch in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Formen unter Microsoft Excel und OpenOffice Calc. Klare Formen in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,15 +12,15 @@ description: Cloud-APIs und SDKs zum Löschen von Formen unter Microsoft Excel u
 Das Löschen von Formen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle ist eine komplexe Aufgabe. Das Löschen von Formen bei lokalen Microsoft Excel und OpenOffice Calc-Tabellenübergängen wird von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Löschen von Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen online. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Netzcode zum Löschen von Formen in lokalen Tabellenkalkulationen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Shape.cs" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Net-Code zum Löschen von Formen in lokalen Tabellen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Shape.cs" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Cells Cloud SDK for Net zum Löschen von Formen" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So nutzen Sie Cells Cloud SDK für Net, um Formen zu löschen" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
-<li>Rufen Sie die PostClearObjects-Methode auf, um den resultierenden Stream abzurufen</li>
+<li>Rufen Sie die Methode PostClearObjects auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

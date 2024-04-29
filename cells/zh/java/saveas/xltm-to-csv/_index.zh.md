@@ -34,7 +34,7 @@ description: 利用Aspose.Cells Cloud SDK for Java将XLTM格式文件保存为CS
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Java将Excel文件保存为其他格式XLTM为CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Java将Excel文件另存为其他格式XLTM为CSV" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
 <li>使用 `postWorkbookSaveAs` 方法检索结果流。</li>

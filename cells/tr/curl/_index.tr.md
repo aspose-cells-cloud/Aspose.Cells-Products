@@ -12,7 +12,7 @@ url: /tr/curl
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-curl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>cURL için Aspose.Cells Cloud, Aspose.Cells Cloud REST API'lerinin üzerine inşa edilmiştir ve cURL geliştiricilerinin herhangi bir kurulum gerektirmeden buluttaki Microsoft Excel ve OpenOffice elektronik tablosunu görüntülemek, değiştirmek ve dönüştürmek için bulut tabanlı uygulamalar oluşturmasına yardımcı olur. cURL için Aspose.Cells Cloud, MIT lisansı altında dağıtılır.</p>
+<p>cURL için Aspose.Cells Cloud, cURL geliştiricilerinin herhangi bir kurulum gerektirmeden buluttaki Microsoft Excel ve OpenOffice elektronik tablosunu görüntülemek, değiştirmek ve dönüştürmek için bulut tabanlı uygulamalar oluşturmasına yardımcı olan Aspose.Cells Cloud REST API'leri üzerine kurulmuştur. cURL için Aspose.Cells Cloud, MIT lisansı altında dağıtılmaktadır.</p>
 <p>cURL için Aspose.Cells Bulut, bulut tabanlı programlarınızı çalışma sayfaları, çalışma kitapları, elektronik tablolar, satırlar, hücreler, grafikler, resimler, ListObjects, pivot tablolar ve görevlerle çalışacak şekilde geliştirir.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -242,12 +242,12 @@ Excel Elektronik Tablo İşleme REST API'i Kullanmaya Başlayın
  Çalışma Kitaplarını İşleme via Cloud REST API
     </h2>
     <p>
-cURL için Aspose.Cells Bulut, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri göz ardı ederek çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı uzunluğu sağlamanıza olanak tanır , verileri çalışma kitabına aktarın, çalışma kitabındaki tüm formülleri hesaplayın, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapın, akıllı işaretleyici kullanın, çalışma kitabını istek içeriğinden başka bir formata dönüştürün, içerik değişikliğine izin vermek için şifre uygulayın.
+cURL için Aspose.Cells Bulut, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri yok sayarak çalışma kitabı satırlarını otomatik olarak sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı uzunluğu sağlamanıza olanak tanır , verileri çalışma kitabına aktarın, çalışma kitabındaki tüm formülleri hesaplayın, hassas strateji vb. sağlayarak formül hesaplama ayarlarını yapın, akıllı işaretleyici kullanın, çalışma kitabını istek içeriğinden başka bir formata dönüştürün, içerik değişikliğine izin vermek için şifre uygulayın.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Çalışma Sayfalarını İşlemek için Bulut API
+ Çalışma Sayfalarını İşlemek için Cloud API
     </h2>
     <p>
 cURL için Aspose.Cells Cloud'u kullanarak, çalışma sayfasındaki belirli bir satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satır veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir yere kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplayın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.

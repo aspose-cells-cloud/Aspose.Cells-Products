@@ -10,7 +10,7 @@ url: /es/swift/export/chart-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto CHART a archivo de formato EMF en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto CHART al archivo EMF desde una hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de formato CHART a EMF manteniendo el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos CHART a archivos con formato EMF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado EMF perfecto.
+Exportar el objeto CHART al archivo EMF desde una hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de formato CHART a EMF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos CHART a archivos con formato EMF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado EMF perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar CHART al formato EMF desde una hoja de cálculo" gistPath="" %}}

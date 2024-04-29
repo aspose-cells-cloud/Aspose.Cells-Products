@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie ODS als XML mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern der ODS-Formatdatei als XML-Formatdatei.
+title:  ODS als XML speichern mit Android
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Android, um Dateien im ODS-Format als Dateien im XML-Format zu speichern.
 kwords: Excel, Save ODS as XML, REST, Android
 howto: How to save ODS as XML using Aspose.Cells Cloud Android library.
 ---

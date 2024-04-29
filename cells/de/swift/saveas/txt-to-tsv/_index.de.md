@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie TXT als TSV API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von TXT-Formatdateien als TSV-Formatdateien.
+title:  TXT als TSV API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im TXT-Format als Dateien im TSV-Format zu speichern.
 url: /de/swift/saveas/txt-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um TXT als TSV zu speichern" h2="Swift-Bibliothek zum Speichern von TXT als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TXT als TSV und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/txt-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von TXT als TSV" h2="Swift-Bibliothek zum Speichern von TXT als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TXT als TSV und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/txt-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TXT-Datei als TSV in Swift" >}}

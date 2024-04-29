@@ -6,7 +6,7 @@ description:  Облачные API и SDK для очистки повторяю
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление повторяющихся строк в локальных таблицах Microsoft Excel и OpenOffice Calc." h2="Библиотека Go для удаления повторяющихся строк из локальных таблиц Microsoft Excel и OpenOffice Calc." p="Используйте Cells Clear REST API, чтобы удалить повторяющиеся строки из локальных Microsoft Excel и электронных таблиц OpenOffice Calc в рабочих процессах Go. Это профессиональное решение эффективно удаляет повторяющиеся строки из локальных таблиц Microsoft Excel и OpenOffice Calc с помощью Go." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Удалите повторяющиеся строки в локальных таблицах Microsoft Excel и OpenOffice Calc с помощью Cells Cloud SDK для Go." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Удалите повторяющиеся строки в локальных таблицах Microsoft Excel и OpenOffice Calc с помощью Cloud SDK Cells для Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
 Удаление повторяющихся строк из локальных таблиц Microsoft, Excel и OpenOffice Calc является сложной задачей, и наш Cloud SDK для Go Cells обрабатывает этот переход, сохраняя при этом структурное и логическое содержимое исходной таблицы. Наша библиотека Go — это профессиональное решение для эффективной очистки повторяющихся строк онлайн в локальных таблицах Microsoft Excel и OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Go надежную функциональность и мощный код API.

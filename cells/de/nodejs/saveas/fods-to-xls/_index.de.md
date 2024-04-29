@@ -2,14 +2,15 @@
 title:  Speichern Sie FODS als XLS mit NodeJS
 description:  Verwendung des Cloud SDK Aspose.Cells für NodeJS zum Speichern der FODS-Formatdatei als XLS-Formatdatei.
 kwords: Excel, Save FODS as XLS, REST, NodeJS
-howto: How to save FODS as XLS using Aspose.Cells Cloud NodeJS library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to save FODS as XLS using the Cells Cloud NodeJS library.","description": "How to save FODS as XLS using the Cells Cloud NodeJS library.","image": {"@type": "ImageObject"},"url": "/nodejs/saveas/fods-to-xls/","step": [{ "@type": "HowToStep","name": "How to save FODS as XLS using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/saveas/fods-to-xls/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to save FODS as XLS using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/saveas/fods-to-xls/","text": "Install NodeJS library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to save FODS as XLS using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/saveas/fods-to-xls/","text": "Open the source file in JavaScript.",},{ "@type": "HowToStep","name": "How to save FODS as XLS using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/saveas/fods-to-xls/","text": "Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Visual Studio, Visual Studio Code, WebStorm"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why save file as other formats file in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just save them as appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PostWorkbookSaveAsRequest() method, passing an output filename with required extension.</li><li>Get the result of save as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I save as with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie FODS als XLS" h2="NodeJS-Bibliothek zum Speichern von FODS als XLS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um FODS als XLS und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/fods-to-xls/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine FODS-Datei als XLS in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus FODS als XLS ist eine komplexe Aufgabe. Alle Übergänge vom FODS- zum XLS-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-FODS-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um FODS als XLS-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
+Das Speichern von Dateiformaten von FODS als XLS ist eine komplexe Aufgabe. Alle Konvertierungen von FODS ins XLS-Format werden von unserem NodeJS SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-FODS-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Speichern von FODS als XLS-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und perfekte XLS-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -32,7 +33,7 @@ Das Speichern von Dateiformaten aus FODS als XLS ist eine komplexe Aufgabe. Alle
   
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie FODS mit der Cloud NodeJS-Bibliothek Cells als XLS speichern." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So speichern Sie FODS als XLS mit der Cells Cloud NodeJS-Bibliothek." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Installieren Sie die NodeJS-Bibliothek und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
 <li>Öffnen Sie die Quelldatei in JavaScript.</li>
@@ -40,5 +41,5 @@ Das Speichern von Dateiformaten aus FODS als XLS ist eine komplexe Aufgabe. Alle
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Knoten v6.17.1 oder neuer</li>
+<li>Node v6.17.1 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

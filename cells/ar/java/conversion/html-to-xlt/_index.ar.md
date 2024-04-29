@@ -2,14 +2,15 @@
 title:  تحويل HTML إلى XLT باستخدام Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق HTML إلى ملف بتنسيق XLT.
 kwords: Excel, Convert HTML to XLT, REST, Java
-howto: How to convert HTML to XLT using Aspose.Cells Cloud Java library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert HTML to XLT using the Cells Cloud Java library.","description": "How to convert HTML to XLT using the Cells Cloud Java library.","image": {"@type": "ImageObject"},"url": "/java/conversion/html-to-xlt/","step": [{ "@type": "HowToStep","name": "How to convert HTML to XLT using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/html-to-xlt/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert HTML to XLT using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/html-to-xlt/","text": "Install Java library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert HTML to XLT using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/html-to-xlt/","text": "Open the source file in Java.",},{ "@type": "HowToStep","name": "How to convert HTML to XLT using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/html-to-xlt/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="تحويل HTML إلى XLT" h2="مكتبة Java لتحويل HTML إلى XLT" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل HTML إلى XLT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/html-to-xlt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="تحويل HTML إلى XLT باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يمكن أن يكون تحويل تنسيقات الملفات من HTML إلى XLT مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق HTML إلى XLT مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل HTML إلى ملفات XLT عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من الحصول على وظائف قوية ويضمن إخراج XLT عالي الجودة.
+يمكن أن يكون تحويل تنسيقات الملفات من HTML إلى XLT مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق HTML إلى XLT مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل HTML إلى ملفات XLT عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من خلال وظائف قوية ويضمن إخراج XLT عالي الجودة.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -46,7 +47,7 @@ howto: How to convert HTML to XLT using Aspose.Cells Cloud Java library.
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="تعرف على كيفية تحويل HTML إلى XLT باستخدام مكتبة Cells Cloud Java." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية تحويل HTML إلى XLT باستخدام مكتبة Cells Cloud Java." >}}
 <li> تسجيل حساب في<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والترخيص API مجانًا</li>
 <li>قم بتثبيت مكتبة Java وأضف المرجع (استيراد المكتبة) إلى مشروعك.</li>
 <li>افتح الملف المصدر في Java.</li>

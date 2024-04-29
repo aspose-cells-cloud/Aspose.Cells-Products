@@ -9,7 +9,7 @@ howto: How to convert NUMBERS to DOCX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Convierta NÚMEROS a DOCX usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de NUMBERS a DOCX puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato NUMBERS a DOCX al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir NÚMEROS a archivos DOCX en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida DOCX de alta calidad.
+Convertir formatos de archivo de NUMBERS a DOCX puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato NUMBERS a DOCX mientras preserva el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir NÚMEROS a archivos DOCX en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida DOCX de alta calidad.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -9,7 +9,7 @@ description:  Использование Cloud SDK Aspose.Cells для Ruby дл
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XLT в CSV с помощью Cloud SDK Cells для Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в CSV может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования формата XLT в CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLT. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертации файлов XLT в CSV. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
+Преобразование форматов файлов из XLT в CSV может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования формата XLT в CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLT. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертации файлов XLT в CSV. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для преобразования XLT в CSV с использованием Cloud SDK Cells" gistPath="" %}}

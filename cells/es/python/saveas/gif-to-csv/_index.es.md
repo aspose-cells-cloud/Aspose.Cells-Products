@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde GIF como CSV usando Python
-description:  Utilizando Aspose.Cells Cloud SDK para Python para guardar el archivo en formato GIF como archivo en formato CSV.
+description: Utilizando Aspose.Cells Cloud SDK para Python para guardar el archivo en formato GIF como archivo en formato CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar GIF como CSV" h2="Biblioteca Python para guardar GIF como CSV" p="Utilice SaveAs API de Cells Cloud para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para guardar GIF como CSV y otros formatos de documentos en línea usando Python." urlsection="saveas/gif-to-csv/" >}}

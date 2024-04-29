@@ -1,8 +1,9 @@
 ﻿---
 title: 使用 Cells Cloud SDK for Go 将 LISTOBJECT 从 Excel 导出到 SQL
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
-kwords:
-howto:
+kwords: Excel, listobject, sql, Go
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to SQL","description": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to SQL","image": {"@type": "ImageObject"},"url": "/go/export/listobject-to-sql/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to SQL step 1", "image": {"@type": "ImageObject",},"url": "/go/export/listobject-to-sql/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to SQL step 1", "image": {"@type": "ImageObject",},"url": "/go/export/listobject-to-sql/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Go to export objects from Excel LISTOBJECT to SQL step 1", "image": {"@type": "ImageObject",},"url": "/go/export/listobject-to-sql/","text": "Use the `postExport` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Goland, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="将 LISTOBJECT 从 Excel 导出到 SQL" h2="用于将 LISTOBJECT 导出到 SQL 文件的 Go 库" p="使用Cells云的Export API导出Go中的Excel文件内部对象工作流程。这是一个使用 Go 将 LISTOBJECT 在线电子表格导出为 SQL 格式文件的专业解决方案。" urlsection="export/listobject-to-sql/" >}}
 
@@ -13,7 +14,7 @@ howto:
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Go 中使用 REST API 将 LISTOBJECT 从电子表格导出为 SQL 格式的代码示例" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="使用 REST API 将 LISTOBJECT 从电子表格导出为 SQL 格式的 Go 代码示例" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -55,7 +56,7 @@ howto:
    
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud SDK for Go 将 Excel LISTOBJECT 中的对象导出到 SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud SDK for Go 将对象从 Excel LISTOBJECT 导出到 SQL" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用您的客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 Cells API。</li>
 <li>使用 `postExport` 方法检索结果流。</li>

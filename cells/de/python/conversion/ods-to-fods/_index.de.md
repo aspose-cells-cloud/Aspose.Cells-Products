@@ -1,19 +1,20 @@
 ﻿---
-title:  Konvertieren Sie ODS mit Python in FODS
+title:  Konvertieren Sie ODS in FODS mit Python
 description:  Verwendung des Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im ODS-Format in eine Datei im FODS-Format.
 kwords: Excel, Convert ODS to FODS, REST, Python
-howto: How to convert ODS to FODS using Aspose.Cells Cloud Python library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert ODS to FODS using the Cells Cloud Python library.","description": "How to convert ODS to FODS using the Cells Cloud Python library.","image": {"@type": "ImageObject"},"url": "/python/conversion/ods-to-fods/","step": [{ "@type": "HowToStep","name": "How to convert ODS to FODS using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/conversion/ods-to-fods/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert ODS to FODS using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/conversion/ods-to-fods/","text": "Install Python library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert ODS to FODS using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/conversion/ods-to-fods/","text": "Open the source file in Python.",},{ "@type": "HowToStep","name": "How to convert ODS to FODS using the Cells Cloud Python library. step 1", "image": {"@type": "ImageObject",},"url": "/python/conversion/ods-to-fods/","text": "Use the `put_convert_workbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "PyCharm, Visual Studio Code, Sublime, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie ODS in FODS" h2="Python Bibliothek zur Konvertierung von ODS in FODS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in FODS und andere Dokumentformate unter Python." urlsection="conversion/ods-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie ODS in FODS" h2="Python Bibliothek zur Konvertierung von ODS in FODS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in FODS und andere Dokumentformate mit Python." urlsection="conversion/ods-to-fods/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie ODS in FODS mit dem Cloud SDK Cells für Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS in FODS kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle Konvertierungen des ODS- in das FODS-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-ODS-Tabelle bei. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS- in FODS-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige FODS-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in FODS kann eine komplexe Aufgabe sein. Unser Python SDK übernimmt alle Konvertierungen von ODS in FODS und bewahrt dabei den strukturellen und logischen Hauptinhalt der ODS-Quelltabelle. Unsere Python-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS- in FODS-Dateien. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige FODS-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Codebeispiel für die Konvertierung von ODS in FODS mit Cells Cloud SDK" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Python Codebeispiel zur Konvertierung von ODS in FODS mit Cells Cloud SDK" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -27,7 +28,7 @@ Das Konvertieren von Dateiformaten von ODS in FODS kann eine komplexe Aufgabe se
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie ODS mit der Cells Cloud Python-Bibliothek in FODS konvertieren." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So konvertieren Sie ODS in FODS mithilfe der Cells Cloud Python-Bibliothek." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Installieren Sie die Bibliothek Python und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
 <li>Öffnen Sie die Quelldatei in Python.</li>

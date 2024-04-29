@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie XLTX in XLT mit Android
+title:  Konvertieren Sie XLTX mit Android in XLT
 description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im XLTX-Format in eine Datei im XLT-Format.
 kwords: Excel, Convert XLTX to XLT, REST, Android
 howto: How to convert XLTX to XLT using Aspose.Cells Cloud Android library.

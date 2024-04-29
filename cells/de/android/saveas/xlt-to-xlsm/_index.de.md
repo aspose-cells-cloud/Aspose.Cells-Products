@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie XLT als XLSM mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLT-Formatdateien als XLSM-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Android, um Dateien im XLT-Format als Dateien im XLSM-Format zu speichern.
 kwords: Excel, Save XLT as XLSM, REST, Android
 howto: How to save XLT as XLSM using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLT als XLSM" h2="Android-Bibliothek zum Speichern von XLT als XLSM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLT als XLSM und anderen Dokumentformaten mit Android." urlsection="saveas/xlt-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLT als XLSM speichern" h2="Android-Bibliothek zum Speichern von XLT als XLSM" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLT als XLSM und anderen Dokumentformaten mit Android." urlsection="saveas/xlt-to-xlsm/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLT-Datei als XLSM in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

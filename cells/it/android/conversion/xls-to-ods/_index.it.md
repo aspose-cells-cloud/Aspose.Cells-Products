@@ -9,7 +9,7 @@ howto: How to convert XLS to ODS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Converti XLS in ODS utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XLS a ODS può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato XLS a ODS preservando il contenuto strutturale e logico principale del foglio di calcolo XLS di origine. La nostra libreria Android fornisce una soluzione professionale per convertire file XLS in ODS online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output ODS di alta qualità.
+La conversione dei formati di file da XLS a ODS può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato XLS al formato ODS preservando il contenuto strutturale e logico principale del foglio di calcolo XLS di origine. La nostra libreria Android fornisce una soluzione professionale per convertire file XLS in ODS online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output ODS di alta qualità.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -1,5 +1,5 @@
 ﻿---
-title:  Löschen Sie Formen in der lokalen Arbeitsmappe in der Cloud
+title:  Löschen von Formen im lokalen Arbeitsbuch in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Formen unter Microsoft Excel und OpenOffice Calc. Klare Formen in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -9,15 +9,15 @@ description: Cloud-APIs und SDKs zum Löschen von Formen unter Microsoft Excel u
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klare Formen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Das Löschen von Formen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle ist eine komplexe Aufgabe. Das Löschen von Formen bei lokalen Microsoft Excel- und OpenOffice Calc-Tabellenübergängen wird von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Löschen von Formen auf lokalen Microsoft Excel und OpenOffice Calc-Tabellen online. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte API.
+Das Löschen von Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen ist eine komplexe Aufgabe. Das Löschen von Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenübergängen wird von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Löschen von Formen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen online. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Android-Code zum Löschen von Formen in lokalen Tabellenkalkulationen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Clear-Shape.java" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Code zum Löschen von Formen in lokalen Tabellen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Clear-Shape.java" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cloud SDK Cells für Android zum Löschen von Formen" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So nutzen Sie Cells Cloud SDK für Android zum Löschen von Formen" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Rufen Sie die Methode postClearObjects auf, um den resultierenden Stream abzurufen</li>

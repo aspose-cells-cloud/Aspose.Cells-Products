@@ -1,9 +1,9 @@
 ﻿---
 title:  Mehrere Excel-Dateien zusammenführen
-description:  Aspose.Cells Cloud REST API ermöglicht das Zusammenführen mehrerer Excel-Dateien in einer einzigen Excel-Datei und stellt SDKs für mehrere Programmiersprachen bereit, einschließlich Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834 81, Ruby und Swift.
+description:  Aspose.Cells Cloud REST API ermöglicht das Zusammenführen mehrerer Excel-Dateien in einer einzigen Excel-Datei und stellt SDKs für mehrere Programmiersprachen bereit, einschließlich Android, C#, Go, Java, NodeJS, Perl, PHP, 076183 481, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Mehrere Excel-Dateien zusammenführen" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer einzigen Excel-Datei." p="Aspose.Cells Cloud REST API ermöglicht das Zusammenführen mehrerer Excel-Dateien in einer einzigen Excel-Datei und stellt SDKs für mehrere Programmiersprachen bereit, einschließlich Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834 81, Ruby und Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Mehrere Excel-Dateien zusammenführen" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer einzigen Excel-Datei." p="Aspose.Cells Cloud REST API ermöglicht das Zusammenführen mehrerer Excel-Dateien in einer einzigen Excel-Datei und stellt SDKs für mehrere Programmiersprachen bereit, einschließlich Android, C#, Go, Java, NodeJS, Perl, PHP, 076183 481, Ruby und Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

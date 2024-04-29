@@ -1,19 +1,19 @@
 ﻿---
-title:  Konvertieren Sie XLSB in TXT mit Android
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im XLSB-Format in eine Datei im TXT-Format.
+title:  Konvertieren Sie XLSB mit Android in TXT
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLSB-Format in eine Datei im TXT-Format zu konvertieren.
 kwords: Excel, Convert XLSB to TXT, REST, Android
 howto: How to convert XLSB to TXT using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLSB in TXT" h2="Android-Bibliothek zum Konvertieren von XLSB in TXT" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSB in TXT und andere Dokumentformate mit Android." urlsection="conversion/xlsb-to-txt/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSB in TXT mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLSB in TXT mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSB in TXT kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle XLSB-in-TXT-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLSB-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSB- in TXT-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TXT-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSB in TXT kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von XLSB ins TXT-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der XLSB-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSB- in TXT-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige TXT-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von XLSB in TXT mit dem Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zum Konvertieren von XLSB in TXT mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

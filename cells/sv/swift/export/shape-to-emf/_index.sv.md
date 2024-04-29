@@ -10,7 +10,7 @@ url: /sv/swift/export/shape-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera SHAPE-objekt till filformatet EMF i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera SHAPE-objekt till EMF-fil från kalkylblad är en komplex uppgift. Exportera SHAPE till EMF formatövergångar utförs av vår Swift SDK samtidigt som källbladets SHAPE-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att exportera SHAPE-objekt till filer i EMF-format online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt EMF-utgång.
+Exportera SHAPE-objekt till EMF-fil från kalkylblad är en komplex uppgift. Export av SHAPE till EMF formatövergångar utförs av vår Swift SDK samtidigt som källarket SHAPEs huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att exportera SHAPE-objekt till filer i EMF-format online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt EMF-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att exportera SHAPE till EMF-format från kalkylark" gistPath="" %}}

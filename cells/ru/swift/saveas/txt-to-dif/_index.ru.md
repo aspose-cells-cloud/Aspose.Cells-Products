@@ -10,7 +10,7 @@ url: /ru/swift/saveas/txt-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как DIF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT в формат DIF — сложная задача. Все переходы формата TXT в DIF выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Swift — это профессиональное решение для сохранения TXT в виде файлов DIF онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DIF.
+Сохранение форматов файлов из TXT в формат DIF — сложная задача. Все переходы формата TXT в DIF выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы TXT. Наша библиотека Swift — это профессиональное решение для сохранения TXT в виде файлов DIF онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения TXT в формате DIF" gistPath="" %}}

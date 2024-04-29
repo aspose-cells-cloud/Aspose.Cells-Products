@@ -3,13 +3,13 @@ title: 使用 PHP 将 XLTM 转换为 CSV
 description: 利用PHP的Aspose.Cells Cloud SDK将XLTM格式文件转换为CSV格式文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLTM 转换为 CSV" h2="PHP 用于将 XLTM 转换为 CSV 的库" p="使用 Cells 云的转换 API 在 PHP 项目中创建自定义电子表格工作流程。这是使用 PHP 在线将 XLTM 转换为 CSV 和其他文档格式的专业解决方案。" urlsection="conversion/xltm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="将 XLTM 转换为 CSV" h2="PHP 用于将XLTM转换为CSV的库" p="使用 Cells Cloud 的转换 API 在 PHP 项目中创建自定义电子表格工作流。这是一个专业的解决方案，可使用 PHP 在线将 XLTM 转换为 CSV 和其他文档格式。" urlsection="conversion/xltm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK for PHP 将 XLTM 转换为 CSV" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用 Cells Cloud SDK 将 XLTM 转换为 CSV 以用于 PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 XLTM 转换为 CSV 可能是一项复杂的任务。我们的 PHP SDK 处理所有 XLTM 到 CSV 格式的转换，同时保留源 XLTM 电子表格的主要结构和逻辑内容。我们的 PHP 库提供了在线将 XLTM 转换为 CSV 文件的专业解决方案。该Cloud SDK为PHP开发者提供了强大的功能，并确保高质量的CSV输出。
+将文件格式从 XLTM 转换为 CSV 可能是一项复杂的任务。我们的 PHP SDK 可处理所有 XLTM 到 CSV 格式的转换，同时保留源 XLTM 电子表格的主要结构和逻辑内容。我们的 PHP 库提供了将 XLTM 文件在线转换为 CSV 文件的专业解决方案。此云 SDK 为 PHP 开发人员提供了强大的功能，并确保了高质量的 CSV 输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PHP 使用 Cells Cloud SDK 将 XLTM 转换为 CSV 的代码示例" gistPath="" %}}

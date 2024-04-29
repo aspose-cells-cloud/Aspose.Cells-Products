@@ -9,7 +9,7 @@ howto: How to save NUMBERS as XLSX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en NUMBERS-fil som XLSX i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från NUMBERS som XLSX är en komplex uppgift. Alla NUMBERS till XLSX format övergångar utförs av vår Android SDK samtidigt som källkoden NUMBERS kalkylarkets huvudsakliga strukturella och logiska innehåll. Vårt Android-bibliotek är en professionell lösning för att spara NUMBERS som XLSX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLSX-utgång.
+Att spara filformat från NUMBERS som XLSX är en komplex uppgift. Alla NUMBERS- till XLSX-formatövergångar utförs av vår Android SDK samtidigt som källarket NUMBERS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara NUMBERS som XLSX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLSX-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

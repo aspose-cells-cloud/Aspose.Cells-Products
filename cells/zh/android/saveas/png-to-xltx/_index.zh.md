@@ -1,10 +1,10 @@
 ﻿---
-title: 使用 Android 将 PNG 另存为 XLTX
-description: 利用Aspose.Cells Cloud SDK for Android将PNG格式文件保存为XLTX格式文件。
+title: 使用 Android 将 PNG 保存为 XLTX
+description: 利用 Aspose.Cells Cloud SDK for Android 将 PNG 格式文件保存为 XLTX 格式文件。
 kwords: Excel, Save PNG as XLTX, REST, Android
 howto: How to save PNG as XLTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 PNG 另存为 XLTX" h2="用于将 PNG 保存为 XLTX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将PNG保存为XLTX和其他文档格式的专业解决方案。" urlsection="saveas/png-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="另存 PNG 为 XLTX" h2="用于将 PNG 保存为 XLTX 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将PNG保存为XLTX和其他文档格式的专业解决方案。" urlsection="saveas/png-to-xltx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 PNG 文件另存为 XLTX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

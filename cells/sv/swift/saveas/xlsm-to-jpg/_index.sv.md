@@ -10,7 +10,7 @@ url: /sv/swift/saveas/xlsm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSM-fil som JPG i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLSM som JPG är en komplex uppgift. Alla XLSM- till JPG-formatövergångar utförs av vår Swift SDK samtidigt som källbladets XLSM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLSM som JPG-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
+Att spara filformat från XLSM som JPG är en komplex uppgift. Alla XLSM- till JPG-formatövergångar utförs av vår Swift SDK samtidigt som källkodens XLSM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLSM som JPG-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att spara XLSM som JPG-format" gistPath="" %}}

@@ -1,18 +1,18 @@
 ﻿---
 title:  Konvertieren Sie XLSX mit Android in PPTX
-description: Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im XLSX-Format in eine Datei im PPTX-Format.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLSX-Format in eine Datei im PPTX-Format zu konvertieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertieren Sie XLSX in PPTX" h2="Android-Bibliothek zum Konvertieren von XLSX in PPTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSX in PPTX und andere Dokumentformate mit Android." urlsection="conversion/xlsx-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLSX in PPTX mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie XLSX in PPTX mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSX in PPTX kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle XLSX-in-PPTX-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLSX-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSX- in PPTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PPTX-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSX in PPTX kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom XLSX- ins PPTX-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der XLSX-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLSX- in PPTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PPTX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel für die Konvertierung von XLSX in PPTX mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android-Codebeispiel zum Konvertieren von XLSX in PPTX mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie JSON als MHTML API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern einer JSON-Formatdatei als MHTML-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von JSON-Formatdateien als MHTML-Formatdateien.
 url: /de/swift/saveas/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /sv/swift/saveas/xltx-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLTX-fil som XLSX i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLTX som XLSX är en komplex uppgift. Alla XLTX- till XLSX-formatövergångar utförs av vår Swift SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLTX som XLSX-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XLSX-utgång.
+Att spara filformat från XLTX som XLSX är en komplex uppgift. Alla formatövergångar från XLTX till XLSX utförs av vår Swift SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLTX som XLSX-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XLSX-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att spara XLTX som XLSX-format" gistPath="" %}}

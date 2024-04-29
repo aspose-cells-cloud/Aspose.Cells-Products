@@ -1,5 +1,5 @@
 ﻿---
-title: Excel® 电子表格编程 API 使用 Java 加速电子表格管理和处理任务
+title: Excel® 电子表格编程 API，使用 Java 加速电子表格管理和处理任务
 description: API 支持构建能够生成、修改、转换、渲染和打印电子表格的跨平台应用程序。它允许开发人员管理工作表、行、列和单元格，从头开始创建电子表格内容和样式，从不同数据源将数据导入到工作表中，添加常见和复杂的数学、财务和文本公式，创建和操作数据透视表、图表、超链接、注释、绘图对象等等。
 weight: 90
 ---
@@ -11,7 +11,7 @@ weight: 90
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-java.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-java" liveDemosLink="https://products.aspose.app/cells/family" >}}      
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="概述" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells Cloud SDK for Java 有助于快速开发针对 Microsoft Excel、iWork office 号码、OpenOffice 电子表格和其他格式文件的强大的基于云的应用程序。它提供了以 Java 编程语言生成、读取、合并、分割、加密和转换文件的功能。该 SDK 基于 Aspose.Cells Cloud API 构建，并在 MIT 许可证下运行。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="概述" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells Cloud SDK for Java 有助于快速开发适用于 Microsoft Excel、iWork office 数字、OpenOffice 电子表格和其他格式文件的基于云的强大应用程序。它提供使用 Java 编程语言生成、读取、合并、拆分、加密和转换文件的功能。此 SDK 建立在 Aspose.Cells Cloud API 之上，并在 MIT 许可下运行。" >}}
     {{< blocks/products/cells/cells-cloud-language-content msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells 云 SDK for Java 使您的 Java 应用程序能够访问和修改云工作表中的各种元素。它可以操作自动过滤器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。该 SDK 使您的 Java 程序能够将多种格式转换，例如 XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、ODS 到 DIF、PDF、XPS、TIFF、SVG、Markdown、XML、SpreadsheetML、CSV、TSV、 TXT、HTML 和 MHTML。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
   

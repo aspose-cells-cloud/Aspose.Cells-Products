@@ -1,6 +1,6 @@
 ﻿---
 title: Android'i kullanarak NUMBERS'ı XLTM'ye dönüştürün
-description:  NUMBERS biçimindeki bir dosyayı XLTM biçimindeki bir dosyaya dönüştürmek için Android için Aspose.Cells Bulut SDK'sını kullanma.
+description:  NUMBERS biçimindeki bir dosyayı XLTM biçimindeki bir dosyaya dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 kwords: Excel, Convert NUMBERS to XLTM, REST, Android
 howto: How to convert NUMBERS to XLTM using Aspose.Cells Cloud Android library.
 ---
@@ -47,7 +47,7 @@ Dosya formatlarını NUMBERS'tan XLTM'ye dönüştürmek karmaşık bir iş olab
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için `putConvertWorkbook` yöntemini kullanın.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -10,7 +10,7 @@ url: /ru/swift/saveas/ods-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как MD в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в формате MD — сложная задача. Все переходы форматов ODS в MD выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для сохранения ODS в виде файлов MD онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MD.
+Сохранение форматов файлов из ODS в формате MD — сложная задача. Все переходы формата ODS в MD выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для сохранения ODS в виде файлов MD онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения ODS в формате MD" gistPath="" %}}

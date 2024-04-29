@@ -7,7 +7,7 @@ url: /fr/swift/saveas/json-to-html/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer JSON sous HTML" h2="Bibliothèque Swift pour enregistrer JSON sous HTML" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer JSON sous le numéro HTML et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/json-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier JSON sous le nom HTML dans Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier JSON sous HTML dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement des formats de fichiers à partir de JSON sous le nom HTML est une tâche complexe. Toutes les transitions du format JSON vers HTML sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer JSON sous forme de fichiers HTML en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie HTML parfaite.

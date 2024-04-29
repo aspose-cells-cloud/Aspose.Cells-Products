@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie PNG als EMF API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im Format PNG als Datei im Format EMF zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im Format PNG als Datei im Format EMF zu speichern.
 url: /de/swift/saveas/png-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

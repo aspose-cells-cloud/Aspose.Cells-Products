@@ -1,10 +1,10 @@
 ﻿---
-title:  Konvertieren Sie XML mit Android in JSON
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer XML-Formatdatei in eine JSON-Formatdatei.
+title:  Konvertieren von XML in JSON mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XML-Format in eine Datei im JSON-Format zu konvertieren.
 kwords: Excel, Convert XML to JSON, REST, Android
 howto: How to convert XML to JSON using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XML in JSON" h2="Android-Bibliothek zum Konvertieren von XML in JSON" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in JSON und andere Dokumentformate mit Android." urlsection="conversion/xml-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren von XML in JSON" h2="Android-Bibliothek zum Konvertieren von XML in JSON" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in JSON und andere Dokumentformate mit Android." urlsection="conversion/xml-to-json/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XML mit dem Cloud SDK Cells für Android in JSON" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

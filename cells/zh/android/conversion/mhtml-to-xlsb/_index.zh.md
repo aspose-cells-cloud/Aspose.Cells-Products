@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 MHTML 转换为 XLSB
-description: 利用Aspose.Cells Cloud SDK for Android将MHTML格式文件转换为XLSB格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 MHTML 格式文件转换为 XLSB 格式文件。
 kwords: Excel, Convert MHTML to XLSB, REST, Android
 howto: How to convert MHTML to XLSB using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 MHTML 转换为 XLSB" h2="用于将 MHTML 转换为 XLSB 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 MHTML 转换为 XLSB 和其他文档格式的专业解决方案。" urlsection="conversion/mhtml-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 MHTML 转换为 XLSB" h2="用于将 MHTML 转换为 XLSB 的 Android 库" p="使用 Cells Cloud 的转换 API 在 Android 项目中创建自定义电子表格工作流。这是使用 Android 在线将 MHTML 转换为 XLSB 和其他文档格式的专业解决方案。" urlsection="conversion/mhtml-to-xlsb/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Android 将 MHTML 转换为 XLSB" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

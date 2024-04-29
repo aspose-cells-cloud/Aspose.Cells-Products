@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie NUMBERS als XML API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im NUMBERS-Format als XML-Formatdatei zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im NUMBERS-Format als Dateien im XML-Format zu speichern.
 url: /de/swift/saveas/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um ZAHLEN als XML zu speichern" h2="Swift-Bibliothek zum Speichern von ZAHLEN als XML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als XML und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/numbers-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von Zahlen als XML" h2="Swift-Bibliothek zum Speichern von ZAHLEN als XML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als XML und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/numbers-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als XML in Swift" >}}

@@ -9,7 +9,7 @@ howto: How to convert XML to XLTX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Converti XML in XLTX utilizzando Cells Cloud SDK per Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XML a XLTX può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni del formato XML in XLTX preservando il contenuto strutturale e logico principale del foglio di calcolo XML di origine. La nostra libreria Android fornisce una soluzione professionale per convertire file XML in XLTX online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output XLTX di alta qualità.
+La conversione dei formati di file da XML a XLTX può essere un compito complesso. Il nostro SDK Android gestisce tutte le conversioni dal formato XML al formato XLTX preservando il contenuto strutturale e logico principale del foglio di calcolo XML di origine. La nostra libreria Android fornisce una soluzione professionale per convertire file XML in XLTX online. Questo Cloud SDK offre agli sviluppatori Android funzionalità potenti e garantisce output XLTX di alta qualità.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

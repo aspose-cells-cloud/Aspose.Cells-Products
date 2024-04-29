@@ -1,6 +1,6 @@
 ﻿---
 title: 将 FODS 转换为 CSV via .NET
-description: 使用 Cloud API 和开源 .NET SDK 创建、编辑或转换 Excel 文件
+description: 使用云 API 和开源 .NET SDK 创建、编辑或转换 Excel 文件
 url: /zh/net/conversion/fods-to-csv/
 family: cells
 platformtag: net

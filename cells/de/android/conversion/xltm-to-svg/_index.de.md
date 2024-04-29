@@ -4,16 +4,16 @@ description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertiere
 kwords: Excel, Convert XLTM to SVG, REST, Android
 howto: How to convert XLTM to SVG using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTM in SVG" h2="Android-Bibliothek zum Konvertieren von XLTM in SVG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTM in SVG und andere Dokumentformate mit Android." urlsection="conversion/xltm-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTM in SVG" h2="Android-Bibliothek zum Konvertieren von XLTM in SVG" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um XLTM online mit Android in SVG und andere Dokumentformate zu konvertieren." urlsection="conversion/xltm-to-svg/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTM in SVG mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTM in SVG mit dem Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTM in SVG kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle XLTM-Formatkonvertierungen in das SVG-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTM-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTM-Dateien in SVG-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige SVG-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTM nach SVG kann eine komplexe Aufgabe sein. Unser Android SDK bewältigt alle Formatkonvertierungen von XLTM nach SVG und bewahrt dabei den strukturellen und logischen Hauptinhalt der Quell-XLTM-Tabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTM- in SVG-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige SVG-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von XLTM in SVG mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von XLTM in SVG mithilfe des Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

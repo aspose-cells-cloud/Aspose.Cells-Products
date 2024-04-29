@@ -3,7 +3,7 @@ title: 清除云端本地工作簿上的空白行
 description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的空白行的云 API 和 SDK。通过Cells云API清除本地电子表格上的空白行。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="删除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白行" h2="NodeJS Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白行" p="使用 Cells Clear REST API 清除 NodeJS 中本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流上的空白行。这个专业的解决方案使用 NodeJS 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白行。" urlsection="clear/Blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="删除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白行" h2="NodeJS Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白行" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 NodeJS 中的 OpenOffice Calc 电子表格工作流上的空白行。这个专业的解决方案使用 NodeJS 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白行。" urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白行 - NodeJS REST API" >}}

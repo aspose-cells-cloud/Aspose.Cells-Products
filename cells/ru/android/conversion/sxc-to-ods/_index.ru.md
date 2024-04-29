@@ -9,7 +9,7 @@ howto: How to convert SXC to ODS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Преобразование SXC в ODS с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в ODS может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата SXC в ODS, сохраняя при этом основное структурное и логическое содержимое исходной таблицы SXC. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов SXC в ODS. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод ODS.
+Преобразование форматов файлов из SXC в ODS может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов SXC в ODS, сохраняя при этом основное структурное и логическое содержимое исходной таблицы SXC. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов SXC в ODS. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод ODS.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

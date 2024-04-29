@@ -7,7 +7,7 @@ description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hinterg
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie mithilfe der Go-Erweiterungslinks einen Hintergrund für Excel-Dateien fest" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie mithilfe der Go Extension-Links einen Hintergrund für Excel-Dateien fest" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

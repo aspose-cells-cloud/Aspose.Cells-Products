@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie ODS als XLS API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von ODS-Formatdateien als XLS-Formatdateien.
+title:  ODS als XLS API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im ODS-Format als Dateien im XLS-Format zu speichern.
 url: /de/swift/saveas/ods-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /de/swift/saveas/ods-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine ODS-Datei als XLS in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus ODS als XLS ist eine komplexe Aufgabe. Alle Übergänge vom ODS- zum XLS-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um ODS als XLS-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
+Das Speichern von Dateiformaten von ODS als XLS ist eine komplexe Aufgabe. Alle Formatübergänge von ODS zu XLS werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der ODS-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Speichern von ODS als XLS-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte XLS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von ODS im XLS-Format" gistPath="" %}}
@@ -54,7 +54,7 @@ Das Speichern von Dateiformaten aus ODS als XLS ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um ODS als XLS zu speichern" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Speichern von ODS als XLS" >}}
 <li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>

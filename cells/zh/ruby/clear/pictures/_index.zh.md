@@ -1,6 +1,6 @@
 ﻿---
 title: 清除云端本地工作簿上的图片
-description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的图片的云 API 和 SDK。通过Cells云API清除本地电子表格上的图片。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上图片的云 API 和 SDK。通过 Cells 云 API 清除本地电子表格上的图片。SDK 支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="删除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图片" h2="Ruby Clear 清除本地Microsoft Excel和OpenOffice Calc电子表格上的图片" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Ruby 中的 OpenOffice Calc 电子表格工作流程上的图片。这个专业的解决方案使用 Ruby 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图片。" urlsection="clear/Pictures/" >}}

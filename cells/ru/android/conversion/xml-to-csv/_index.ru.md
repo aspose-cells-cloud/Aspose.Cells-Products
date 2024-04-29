@@ -3,7 +3,7 @@ title:  Конвертируйте XML в CSV с помощью Android
 description:  Использование Cloud SDK Aspose.Cells для Android для преобразования файла формата XML в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XML в CSV" h2="Библиотека Android для преобразования XML в CSV" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертации XML в CSV и другие форматы документов с помощью Android." urlsection="conversion/xml-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Конвертировать XML в CSV" h2="Библиотека Android для преобразования XML в CSV" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Android. Это профессиональное решение для онлайн-конвертирования XML в CSV и другие форматы документов с помощью Android." urlsection="conversion/xml-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML в CSV с помощью Cloud SDK Cells для Android" >}}

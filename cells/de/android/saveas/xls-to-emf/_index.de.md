@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie XLS unter Android unter EMF
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Speichern der XLS-Formatdatei als EMF-Formatdatei.
+title:  XLS als EMF mit Android speichern
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLS-Format als Dateien im EMF-Format zu speichern.
 kwords: Excel, Save XLS as EMF, REST, Android
 howto: How to save XLS as EMF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLS unter EMF" h2="Android-Bibliothek zum Speichern von XLS als EMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLS als EMF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xls-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLS speichern unter EMF" h2="Android-Bibliothek zum Speichern von XLS als EMF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLS als EMF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xls-to-emf/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLS-Datei unter Android als EMF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

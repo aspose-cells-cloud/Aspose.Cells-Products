@@ -9,7 +9,7 @@ howto: How to save XLSB as DOCX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en XLSB-fil som DOCX i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLSB som DOCX är en komplex uppgift. Alla XLSB- till DOCX-formatövergångar utförs av vår Android SDK samtidigt som käll-XLSB-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLSB som DOCX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
+Att spara filformat från XLSB som DOCX är en komplex uppgift. Alla formatövergångar från XLSB till DOCX utförs av vår Android SDK samtidigt som källbladets XLSB-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLSB som DOCX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -1,10 +1,10 @@
 ﻿---
-title:  TSV unter PDF API für Swift speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im TSV-Format als Datei im Format PDF zu speichern.
+title:  Speichern Sie TSV als PDF API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im TSV-Format als Datei im PDF-Format zu speichern.
 url: /de/swift/saveas/tsv-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um den TSV unter PDF zu speichern" h2="Swift-Bibliothek zum Speichern des TSV als PDF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TSV als PDF und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/tsv-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um TSV als PDF zu speichern" h2="Swift-Bibliothek zum Speichern von TSV als PDF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TSV als PDF und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/tsv-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als PDF in Swift" >}}

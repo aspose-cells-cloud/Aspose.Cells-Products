@@ -4,7 +4,7 @@ description:  API y SDK en la nube para agregar marcas de agua para Microsoft Ex
 url: /es/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para agregar marca de agua para Microsoft Excel local y hoja de cálculo OpenOffice Calc" h2="Biblioteca Swift para agregar marcas de agua para Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Utilice Cells Watermark REST API para agregar una marca de agua para los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional agrega marcas de agua para Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea usando Swift." urlsection="background/Add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para agregar una marca de agua para la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Biblioteca Swift para agregar marcas de agua para Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Utilice Cells Watermark REST API para agregar una marca de agua para los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional agrega marcas de agua para Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea usando Swift." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Agregue una marca de agua para Microsoft Excel local y la hoja de cálculo de OpenOffice Calc - Swift REST API" >}}

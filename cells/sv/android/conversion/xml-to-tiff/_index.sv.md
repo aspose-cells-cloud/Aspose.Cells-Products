@@ -9,7 +9,7 @@ howto: How to convert XML to TIFF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertera XML till TIFF med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XML till TIFF kan vara en komplex uppgift. Vår Android-SDK hanterar alla XML- till TIFF-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i XML-källarket bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera XML till TIFF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TIFF-utdata.
+Att konvertera filformat från XML till TIFF kan vara en komplex uppgift. Vår Android SDK hanterar alla XML- till TIFF-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i XML-källarket bevaras. Vårt Android-bibliotek tillhandahåller en professionell lösning för att konvertera XML till TIFF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer högkvalitativa TIFF-utdata.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

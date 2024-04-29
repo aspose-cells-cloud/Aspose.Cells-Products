@@ -3,13 +3,13 @@ title:  Преобразование PNG в CSV с помощью Ruby
 description:  Использование Cloud SDK Aspose.Cells для Ruby для преобразования файла формата PNG в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать PNG в CSV" h2="Библиотека Ruby для преобразования PNG в CSV" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Ruby. Это профессиональное решение для онлайн-конвертации PNG в CSV и другие форматы документов с помощью Ruby." urlsection="conversion/png-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать PNG в CSV" h2="Библиотека Ruby для преобразования PNG в CSV" p="Используйте преобразование API или Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Ruby. Это профессиональное решение для онлайн-конвертирования PNG в CSV и другие форматы документов с помощью Ruby." urlsection="conversion/png-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте PNG в CSV с помощью Cloud SDK Cells для Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в CSV может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования формата PNG в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертации PNG в файлы CSV. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
+Преобразование форматов файлов из PNG в CSV может оказаться сложной задачей. Наш Ruby SDK обрабатывает все преобразования формата PNG в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека Ruby предоставляет профессиональное решение для онлайн-конвертации PNG в файлы CSV. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и обеспечивает высококачественный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Ruby для преобразования PNG в CSV с использованием Cells Cloud SDK" gistPath="" %}}

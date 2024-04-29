@@ -1,12 +1,12 @@
 ﻿---
 title:  Konvertieren Sie XLT mit Android in XPS
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im XLT-Format in eine Datei im XPS-Format.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLT-Format in eine Datei im XPS-Format zu konvertieren.
 kwords: Excel, Convert XLT to XPS, REST, Android
 howto: How to convert XLT to XPS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLT in XPS" h2="Android-Bibliothek zum Konvertieren von XLT in XPS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von XLT in XPS und andere Dokumentformate online mit Android." urlsection="conversion/xlt-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLT in XPS" h2="Android-Bibliothek zur Konvertierung von XLT in XPS" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von XLT in XPS und andere Dokumentformate online mit Android." urlsection="conversion/xlt-to-xps/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLT in XPS mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLT in XPS mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von XLT in XPS kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle XLT-Formatkonvertierungen in das XPS-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLT-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLT-Dateien in XPS. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XPS-Ausgabe.

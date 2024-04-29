@@ -3,7 +3,7 @@ title:  Rensa formler på den lokala arbetsboken i Cloud
 description: "Cloud API:er och SDK:er för att rensa formler på Microsoft Excel & OpenOffice Calc. Rensa formler på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort formler på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå till Rensa för att rensa formler på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa formler i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Go. Denna professionella lösning tydliga formler på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med hjälp av Go." urlsection="clear/Formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort formler på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå till Rensa för att rensa formler på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa formler i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Go. Denna professionella lösning tydliga formler på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa formler på lokal Microsoft Excel och OpenOffice Calc kalkylblad - Gå REST API" >}}

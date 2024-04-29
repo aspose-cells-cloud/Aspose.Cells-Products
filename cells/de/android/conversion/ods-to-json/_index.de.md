@@ -1,19 +1,19 @@
 ﻿---
 title:  Konvertieren Sie ODS mit Android in JSON
-description: Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im ODS-Format in eine Datei im JSON-Format.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im ODS-Format in eine Datei im JSON-Format zu konvertieren.
 kwords: Excel, Convert ODS to JSON, REST, Android
 howto: How to convert ODS to JSON using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie ODS in JSON" h2="Android-Bibliothek zum Konvertieren von ODS in JSON" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in JSON und andere Dokumentformate mit Android." urlsection="conversion/ods-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie ODS in JSON mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie ODS in JSON mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS in JSON kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von ODS in das JSON-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-ODS-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS- in JSON-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige JSON-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in JSON kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen vom ODS- ins JSON-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der ODS-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS- in JSON-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige JSON-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von ODS in JSON mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zum Konvertieren von ODS in JSON mit Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

@@ -3,7 +3,7 @@ title:  Rensa hyperlänkar på den lokala arbetsboken i Cloud
 description: "Cloud API:er och SDK:er för att rensa hyperlänkar på Microsoft Excel & OpenOffice Calc. Rensa hyperlänkar på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort hyperlänkar på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="PHP Rensa för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i PHP. Denna professionella lösning rensar hyperlänkar på lokala Microsoft och OpenOffice Calc 16153481 34761 34761 34761 34763481 34763481 38163481. ." urlsection="clear/Hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ta bort hyperlänkar på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="PHP Rensa för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i PHP. Denna professionella lösning rensar hyperlänkar på lokala Microsoft 76153481 och OpenOffice Calc 3407 3407 34081 Calc 1." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - PHP REST API" >}}

@@ -9,7 +9,7 @@ howto: How to save MHTML as GIF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Guarde un archivo MHTML como GIF en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de MHTML como GIF es una tarea compleja. Todas las transiciones de formato MHTML a GIF las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca de Android es una solución profesional para guardar MHTML como archivos GIF en línea. Este Cloud SDK ofrece a los desarrolladores de Android una funcionalidad potente y una salida GIF perfecta.
+Guardar formatos de archivo de MHTML como GIF es una tarea compleja. Todas las transiciones de formato MHTML a GIF las realiza nuestro SDK de Android manteniendo el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca de Android es una solución profesional para guardar MHTML como archivos GIF en línea. Este Cloud SDK ofrece a los desarrolladores de Android una funcionalidad potente y una salida GIF perfecta.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

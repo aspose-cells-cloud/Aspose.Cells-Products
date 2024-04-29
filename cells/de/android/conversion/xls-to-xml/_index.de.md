@@ -1,15 +1,15 @@
 ﻿---
-title:  Konvertieren Sie XLS mit Android in XML
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer XLS-Formatdatei in eine XML-Formatdatei.
+title:  Konvertieren Sie XLS in XML mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLS-Format in eine Datei im XML-Format zu konvertieren.
 kwords: Excel, Convert XLS to XML, REST, Android
 howto: How to convert XLS to XML using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLS in XML" h2="Android-Bibliothek zum Konvertieren von XLS in XML" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLS in XML und andere Dokumentformate mit Android." urlsection="conversion/xls-to-xml/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLS in XML mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLS in XML mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLS in XML kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle XLS-in-XML-Formatkonvertierungen und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLS-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLS- in XML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XML-Ausgabe.
+Das Konvertieren von Dateiformaten von XLS in XML kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von XLS in XML und bewahrt dabei den strukturellen und logischen Hauptinhalt der XLS-Quelltabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLS- in XML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige XML-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

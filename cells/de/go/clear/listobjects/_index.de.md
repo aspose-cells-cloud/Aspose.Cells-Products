@@ -20,12 +20,12 @@ Das Löschen von Listenobjekten in der lokalen Microsoft Excel- und OpenOffice C
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" So verwenden Sie Go API zum Löschen von Listenobjekten" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
-<li>Rufen Sie die PostClearObjects-Methode auf, um den resultierenden Stream abzurufen</li>
+<li>Rufen Sie die Methode PostClearObjects auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

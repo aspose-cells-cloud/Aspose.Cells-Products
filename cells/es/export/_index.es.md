@@ -45,7 +45,7 @@ description:  Aspose.Cells Cloud REST API facilita la exportación de libros de 
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	</ul></div>
 	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Formato de salida</header><ul>
@@ -53,7 +53,7 @@ description:  Aspose.Cells Cloud REST API facilita la exportación de libros de 
 	<li><b>Microsoft Palabra/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Otro:</b> Pdf, Xps, Dif, Json, Rebaja, Sql</li>

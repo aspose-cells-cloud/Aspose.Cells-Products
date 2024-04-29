@@ -9,7 +9,7 @@ howto: How to save ODS as GIF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en ODS-fil som GIF i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från ODS som GIF är en komplex uppgift. Alla ODS- till GIF-formatövergångar utförs av vår Android-SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara ODS som GIF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
+Att spara filformat från ODS som GIF är en komplex uppgift. Alla ODS till GIF-formatövergångar utförs av vår Android SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara ODS som GIF-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt GIF-utdata.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -4,12 +4,12 @@ description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern v
 kwords: Excel, Save JSON as TSV, REST, Android
 howto: How to save JSON as TSV using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="JSON als TSV speichern" h2="Android-Bibliothek zum Speichern von JSON als TSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von JSON als TSV und anderen Dokumentformaten mit Android." urlsection="saveas/json-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="JSON als TSV speichern" h2="Android-Bibliothek zum Speichern von JSON als TSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um JSON als TSV und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/json-to-tsv/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine JSON-Datei als TSV in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer JSON-Datei als TSV in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von JSON als TSV ist eine komplexe Aufgabe. Alle Übergänge von JSON zum TSV-Format werden von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-JSON-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von JSON als TSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
+Das Speichern von Dateiformaten von JSON als TSV ist eine komplexe Aufgabe. Alle Formatübergänge von JSON zu TSV werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-JSON-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von JSON als TSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte TSV-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

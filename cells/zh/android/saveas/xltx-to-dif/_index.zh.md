@@ -1,10 +1,10 @@
 ﻿---
-title: 使用 Android 将 XLTX 保存为 DIF
-description: 利用Aspose.Cells Cloud SDK for Android将XLTX格式文件保存为DIF格式文件。
+title: 使用 Android 将 XLTX 另存为 DIF
+description: 利用 Aspose.Cells Cloud SDK for Android 将 XLTX 格式文件保存为 DIF 格式文件。
 kwords: Excel, Save XLTX as DIF, REST, Android
 howto: How to save XLTX as DIF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 XLTX 保存为 DIF" h2="用于将 XLTX 保存为 DIF 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLTX 保存为 DIF 和其他文档格式的专业解决方案。" urlsection="saveas/xltx-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 XLTX 另存为 DIF" h2="用于将 XLTX 保存为 DIF 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLTX 保存为 DIF 和其他文档格式的专业解决方案。" urlsection="saveas/xltx-to-dif/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 XLTX 文件保存为 DIF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

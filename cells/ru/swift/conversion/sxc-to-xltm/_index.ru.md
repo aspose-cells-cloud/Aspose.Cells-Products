@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для Swift дл
 url: /ru/swift/conversion/sxc-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации SXC в XLTM" h2="Библиотека Swift для преобразования SXC в XLTM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертирования SXC в XLTM и другие форматы документов с помощью Swift." urlsection="conversion/sxc-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для конвертации SXC в XLTM" h2="Библиотека Swift для преобразования SXC в XLTM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов с электронными таблицами в Swift. Это профессиональное решение для онлайн-конвертации SXC в XLTM и другие форматы документов с помощью Swift." urlsection="conversion/sxc-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл SXC в XLTM в Swift" >}}

@@ -2,7 +2,8 @@
 title: 使用 Java 将 XML 转换为 XLSX
 description: 利用Aspose.Cells Cloud SDK for Java将XML格式文件转换为XLSX格式文件。
 kwords: Excel, Convert XML to XLSX, REST, Java
-howto: How to convert XML to XLSX using Aspose.Cells Cloud Java library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert XML to XLSX using the Cells Cloud Java library.","description": "How to convert XML to XLSX using the Cells Cloud Java library.","image": {"@type": "ImageObject"},"url": "/java/conversion/xml-to-xlsx/","step": [{ "@type": "HowToStep","name": "How to convert XML to XLSX using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/xml-to-xlsx/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert XML to XLSX using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/xml-to-xlsx/","text": "Install Java library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert XML to XLSX using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/xml-to-xlsx/","text": "Open the source file in Java.",},{ "@type": "HowToStep","name": "How to convert XML to XLSX using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/xml-to-xlsx/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="将 XML 转换为 XLSX" h2="Java 用于将 XML 转换为 XLSX 的库" p="使用 Cells 云的转换 API 在 Java 项目中创建自定义电子表格工作流程。这是使用 Java 在线将 XML 转换为 XLSX 和其他文档格式的专业解决方案。" urlsection="conversion/xml-to-xlsx/" >}}
 
@@ -46,7 +47,7 @@ howto: How to convert XML to XLSX using Aspose.Cells Cloud Java library.
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="了解如何使用 Cells Cloud Java 库将 XML 转换为 XLSX。" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Cells Cloud Java 库将 XML 转换为 XLSX。" >}}
 <li>注册一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>安装 Java 库并将引用（导入库）添加到您的项目中。</li>
 <li>打开Java中的源文件。</li>

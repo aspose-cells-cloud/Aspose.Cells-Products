@@ -1,6 +1,6 @@
 ﻿---
-title:  Konvertieren Sie NUMBERS mit Android in SQL
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im SQL-Format.
+title:  Konvertieren Sie NUMBERS in SQL mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im NUMBERS-Format in eine Datei im SQL-Format zu konvertieren.
 kwords: Excel, Convert NUMBERS to SQL, REST, Android
 howto: How to convert NUMBERS to SQL using Aspose.Cells Cloud Android library.
 ---

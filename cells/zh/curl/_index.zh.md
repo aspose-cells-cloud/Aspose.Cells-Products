@@ -5,14 +5,14 @@ weight: 40
 url: /zh/curl
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="流程 Excel 云端工作表 via cURL" h2="使用 cURL 命令构建电子表格创建器和转换器应用程序，这些应用程序可从云存储访问 Microsoft Excel 和 OpenOffice 文件进行处理。" logoImageSrc="/headers/aspose_cells-for-curl.svg" pfName="Aspose.Cells" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="流程 Excel 云中的表格 via cURL" h2="使用 cURL 命令构建电子表格创建器和转换器应用程序，这些应用程序可从云存储访问 Microsoft Excel 和 OpenOffice 文件进行处理。" logoImageSrc="/headers/aspose_cells-for-curl.svg" pfName="Aspose.Cells" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud for cURL" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-curl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud for cURL 构建于 Aspose.Cells Cloud REST API 之上，帮助 cURL 开发人员制作基于云的应用程序，以便在云中查看、修改和转换 Microsoft Excel 和 OpenOffice 电子表格，而无需任何安装。 Aspose.Cells Cloud for cURL 是根据 MIT 许可证分发的。</p>
+<p>Aspose.Cells Cloud for cURL 构建于 Aspose.Cells Cloud REST API 之上，帮助 cURL 开发人员制作基于云的应用程序，以便在云中查看、修改和转换 Microsoft Excel 和 OpenOffice 电子表格，无需任何安装。 Aspose.Cells Cloud for cURL 是根据 MIT 许可证分发的。</p>
 <p>Aspose.Cells Cloud for cURL 增强了基于云的程序，使其能够处理工作表、工作簿、电子表格、行、单元格、图表、图像、ListObjects、数据透视表和任务。</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -152,7 +152,7 @@ url: /zh/curl
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-将 ListObject 或表格转换为单元格区域
+将 ListObject 或表格转换为单元格范围
     </p>
    </div>
    <div class="col-lg-4">
@@ -242,12 +242,12 @@ url: /zh/curl
 处理工作簿 via 云 REST API
     </h2>
     <p>
-Aspose.Cells Cloud for cURL 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项目、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度，将数据导入工作簿，计算工作簿中的所有公式，通过提供精度策略等设置公式计算设置，使用智能标记，将工作簿从请求内容转换为其他格式，应用密码以允许内容修改。
+Aspose.Cells 云 cURL 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度、将数据导入工作簿、计算工作簿中的所有公式、通过提供精度策略来设置公式计算设置等、使用智能标记、将工作簿从请求内容转换为另一种格式、应用密码以允许修改内容。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-云 API 处理工作表
+云端 API 处理工作表
     </h2>
     <p>
 使用Aspose.Cells Cloud for cURL，您可以删除工作表中的特定行或所有行，按单元格名称获取工作表单元格数据或单元格样式，按索引读取工作表行或列数据，计算单元格公式，清除单元格内容，将单元格复制到另一个单元格单元格，复制工作表列和行，对工作表行和列进行分组，隐藏工作表行和列，设置工作表列和行样式，将 HTMLSTRING 值设置到单元格中，设置单元格范围值并修改许多其他工作表设置。
@@ -261,7 +261,7 @@ Aspose.Cells Cloud for cURL 允许您创建、拆分、合并、搜索和替换�
 Aspose.Cells Cloud for cURL 允许您将数据透视表添加到工作表中、在数据透视表中添加或删除数据透视表字段、添加或删除数据透视表索引的数据透视过滤器、更新数据透视表的单元格样式以及计算数据透视表的数据到单元格。
     </p>
     <p>
-Aspose.Cells Cloud for cURL还可以用于通过范围名称或行列索引获取范围内的单元格列表，设置范围的列宽，将单元格范围合并为单个单元格，将当前范围移动到目标范围，设置轮廓围绕一系列单元格的边框。设置范围的行高，设置范围的样式，取消合并该范围的合并单元格，将值放入范围并转换其数据类型，然后在工作表中复制范围。
+Aspose.Cells Cloud for cURL还可以用于通过范围名称或行列索引获取范围内的单元格列表，设置范围的列宽，将单元格范围合并为单个单元格，将当前范围移动到目标范围，设置轮廓围绕一系列单元格的边框。设置范围的行高，设置范围的样式，取消合并该范围的单元格，将值放入范围并转换其数据类型，然后在工作表中复制范围。
     </p>
    </div>
   </div>

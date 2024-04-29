@@ -1,9 +1,9 @@
 ﻿---
-title:  Löschen Sie den Inhalt der lokalen Arbeitsmappe in der Cloud
+title:  Löschen von Inhalten im lokalen Arbeitsbuch in der Cloud
 description: Cloud-APIs und SDKs zum Löschen von Inhalten auf Microsoft Excel und OpenOffice Calc. Löschen Sie Inhalte in lokalen Tabellenkalkulationen durch die Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen von Inhalten aus der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Ruby Clear zum Löschen von Inhalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Inhalte in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Ruby zu löschen. Diese professionelle Lösung löscht Inhalte auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit Ruby." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Entfernen von Inhalten aus der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Ruby Clear zum Löschen von Inhalten auf lokalen Microsoft Excel und OpenOffice Calc Tabellenkalkulation" p="Verwenden Sie Cells Clear REST API, um Inhalte in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Ruby zu löschen. Diese professionelle Lösung löscht Inhalte in lokalen Microsoft Excel und OpenOffice Calc-Tabellen mit Ruby." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie Inhalte auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Ruby REST API" >}}

@@ -1,8 +1,9 @@
 ﻿---
 title:  Exportera ARBETSBOK till TIFF från Excel med Cells Cloud SDK för NodeJS
 description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
-kwords:
-howto:
+kwords: Excel, workbook, tiff, NodeJS
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to use Cells Cloud SDK for Node to export objects from Excel WORKBOOK to TIFF","description": "How to use Cells Cloud SDK for Node to export objects from Excel WORKBOOK to TIFF","image": {"@type": "ImageObject"},"url": "/nodejs/export/workbook-to-tiff/","step": [{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Node to export objects from Excel WORKBOOK to TIFF step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/export/workbook-to-tiff/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Node to export objects from Excel WORKBOOK to TIFF step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/export/workbook-to-tiff/","text": "Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.",},{ "@type": "HowToStep","name": "How to use Cells Cloud SDK for Node to export objects from Excel WORKBOOK to TIFF step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/export/workbook-to-tiff/","text": "Use the `postExport` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Visual Studio, Visual Studio Code, WebStorm"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What file formats can excel or its internal elements be converted into?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of output file formats, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your .NET project.</li><li>Open the source file in C# using REST API.</li><li>Load the content or the excel file itself to be exported to other formats.</li><li>Call the PostExport() method, passing the output filename with the required extension.</li><li>Get the build results as a single file.</li></ol>"}},{"@type":"Question","name":"What is the maximum file size supported by this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Exportera ARBETSBOK till TIFF från Excel" h2="NodeJS-bibliotek för export av WORKBOOK till TIFF-fil" p="Använd Export API av Cells Cloud för att exportera Excel fil interna objekt arbetsflöden i NodeJS. Detta är en professionell lösning för att exportera ARBETSBOK till fil i formatet TIFF från kalkylblad online med NodeJS." urlsection="export/workbook-to-tiff/" >}}
 
@@ -13,7 +14,7 @@ Exportera WORKBOOK-objekt till filen TIFF från filen Excel är en komplex uppgi
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Kodexempel i NodeJS med REST API för att exportera ARBETSBOK till formatet TIFF från kalkylark" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Kodexempel i NodeJS med REST API för att exportera ARBETSBOK till TIFF-format från kalkylblad" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

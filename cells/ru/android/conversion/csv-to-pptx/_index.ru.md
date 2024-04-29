@@ -9,7 +9,7 @@ howto: How to convert CSV to PPTX using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Преобразование CSV в PPTX с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в PPTX может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата CSV в PPTX, сохраняя при этом основное структурное и логическое содержимое исходной таблицы CSV. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов CSV в PPTX. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод PPTX.
+Преобразование форматов файлов из CSV в PPTX может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов CSV в PPTX, сохраняя при этом основное структурное и логическое содержимое исходной таблицы CSV. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов CSV в PPTX. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод PPTX.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

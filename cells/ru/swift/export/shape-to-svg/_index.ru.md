@@ -10,7 +10,7 @@ url: /ru/swift/export/shape-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта SHAPE в файл формата SVG в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта SHAPE в файл SVG из электронной таблицы — сложная задача. Экспорт переходов формата SHAPE в формат SVG выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы SHAPE. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата SVG. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SVG.
+Экспорт объекта SHAPE в файл SVG из электронной таблицы — сложная задача. Экспорт переходов формата SHAPE в формат SVG выполняется нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SHAPE. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата SVG. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта SHAPE в формат SVG из электронной таблицы" gistPath="" %}}

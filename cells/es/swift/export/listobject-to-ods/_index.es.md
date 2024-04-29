@@ -10,7 +10,7 @@ url: /es/swift/export/listobject-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto LISTOBJECT a archivo de formato ODS en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto LISTOBJECT a un archivo ODS desde una hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza la exportación de transiciones de formato LISTOBJECT a ODS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos LISTOBJECT a archivos en formato ODS en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida ODS perfecta.
+Exportar un objeto LISTOBJECT a un archivo ODS desde una hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza la exportación de transiciones de LISTOBJECT a formato ODS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos LISTOBJECT a archivos en formato ODS en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida ODS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar LISTOBJECT a formato ODS desde una hoja de cálculo" gistPath="" %}}

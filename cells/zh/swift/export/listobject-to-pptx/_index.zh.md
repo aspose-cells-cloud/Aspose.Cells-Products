@@ -13,7 +13,7 @@ url: /zh/swift/export/listobject-to-pptx/
 将 LISTOBJECT 对象从电子表格导出到 PPTX 文件是一项复杂的任务。将 LISTOBJECT 导出到 PPTX 格式转换由我们的 Swift SDK 执行，同时保留源 LISTOBJECT 电子表格的主要结构和逻辑内容。我们的 Swift 库是在线将 LISTOBJECT 对象导出为 PPTX 格式文件的专业解决方案。该Cloud SDK为Swift开发人员提供了强大的功能和完美的PPTX输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Swift 中的代码示例，使用 REST API 将 LISTOBJECT 从电子表格导出为 PPTX 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="使用 REST API 的 Swift 代码示例将 LISTOBJECT 从电子表格导出为 PPTX 格式" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -57,7 +57,7 @@ url: /zh/swift/export/listobject-to-pptx/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Swift API 将 LISTOBJECT 导出到 PPTX" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 postExport 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

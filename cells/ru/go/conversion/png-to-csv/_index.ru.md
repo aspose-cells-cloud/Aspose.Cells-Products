@@ -9,7 +9,7 @@ description: Использование Cloud SDK Aspose.Cells для Go для 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте PNG в CSV с помощью Cloud SDK Cells для Go." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в CSV может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования формата PNG в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертации PNG в файлы CSV. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
+Преобразование форматов файлов из PNG в CSV может оказаться сложной задачей. Наш Go SDK обрабатывает все преобразования формата PNG в CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы PNG. Наша библиотека Go предоставляет профессиональное решение для онлайн-конвертации PNG в файлы CSV. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Go для преобразования PNG в CSV с использованием Cells Cloud SDK" gistPath="" %}}

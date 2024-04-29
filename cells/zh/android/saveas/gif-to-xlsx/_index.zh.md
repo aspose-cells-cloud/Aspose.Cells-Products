@@ -1,6 +1,6 @@
 ﻿---
 title: 使用 Android 将 GIF 保存为 XLSX
-description: 利用Aspose.Cells Cloud SDK for Android将GIF格式文件保存为XLSX格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 GIF 格式文件保存为 XLSX 格式文件。
 kwords: Excel, Save GIF as XLSX, REST, Android
 howto: How to save GIF as XLSX using Aspose.Cells Cloud Android library.
 ---

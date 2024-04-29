@@ -12,7 +12,7 @@ description:  Облачные API и SDK для очистки повторяю
 Удаление повторяющихся строк из локальных таблиц Microsoft Excel и OpenOffice Calc является сложной задачей, и наш Cloud SDK Cells для Python обрабатывает этот переход, сохраняя при этом структурное и логическое содержимое исходной таблицы. Наша библиотека Python — это профессиональное решение для эффективной очистки повторяющихся строк в Интернете в локальных таблицах Microsoft Excel и OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Python надежную функциональность и мощный API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Python код для очистки повторяющихся строк в локальных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=Example-Clear-DuplicateRows.py" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Код Python для очистки повторяющихся строк в локальных таблицах." gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=Example-Clear-DuplicateRows.py" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

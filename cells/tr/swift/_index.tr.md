@@ -1,11 +1,11 @@
 ﻿---
 title:  Swift Elektronik Tablo Oluşturucu ve Dönüştürücü (Cloud REST API)
-description: REST API, bulutta Microsoft ve OpenOffice e-tablolarını almak, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için via Swift SDK
+description: REST API, Microsoft ve OpenOffice e-tablolarını bulutta almak, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için via Swift SDK
 weight: 130
 url: /tr/swift
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excel E-Tablolarını Oluşturmak ve Dönüştürmek için Swift SDK" h2="Microsoft ve OpenOffice e-tablolarını bulut via Swift SDK\'ya getirmek, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için REST API." logoImageSrc="/headers/aspose_cells-for-swift.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel E-Tablolarını Oluşturmak ve Dönüştürmek için Swift SDK" h2="REST API, buluttaki Microsoft ve OpenOffice elektronik tablolarını almak, işlemek, şifrelemek, dönüştürmek ve dışa aktarmak için via Swift SDK." logoImageSrc="/headers/aspose_cells-for-swift.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" >}}
 

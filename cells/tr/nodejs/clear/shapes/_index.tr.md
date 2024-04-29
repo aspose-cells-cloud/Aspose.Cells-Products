@@ -9,7 +9,7 @@ description: Microsoft Excel ve OpenOffice Calc'taki şekilleri temizlemek için
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki şekilleri temizleyin - NodeJS REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki şekilleri temizlemek karmaşık bir iştir. Yerel Microsoft Excel ve OpenOffice Calc elektronik tablo geçişlerindeki şekillerin temizlenmesi, kaynak elektronik tablonun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, yerel Microsoft Excel ve çevrimiçi OpenOffice Calc elektronik tablosundaki şekilleri temizlemek için profesyonel bir çözümdür. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki şekilleri temizlemek karmaşık bir iştir. Yerel Microsoft Excel ve OpenOffice Calc elektronik tablo geçişlerindeki şekillerin temizlenmesi, kaynak elektronik tablonun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, yerel Microsoft Excel ve çevrimiçi OpenOffice Calc elektronik tablosundaki şekilleri temizlemek için profesyonel bir çözümdür. Bu Bulut SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Yerel e-tablolardaki şekilleri temizlemek için NodeJS kodu" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-Clear-Shape.js" %}}
@@ -18,7 +18,7 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki şekilleri temi
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Şekilleri temizlemek için Düğüm için Cells Bulut SDK\'sı nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+<li> Şu adreste bir hesap kaydedin:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>Cells API'i Müşteri Kimliğiniz, Müşteri Sırrınız, Temel URL'niz ve API sürümünüzle başlatın.</li>
 <li>Ortaya çıkan akışı almak için postClearObjects yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

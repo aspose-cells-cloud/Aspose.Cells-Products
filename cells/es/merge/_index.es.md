@@ -1,9 +1,9 @@
 ﻿---
 title:  Fusionar varios archivos Excel
-description:  Aspose.Cells Cloud REST API permite fusionar varios archivos Excel en un solo archivo Excel y proporciona SDK para múltiples lenguajes de programación, incluidos Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834 81, Rubí y Swift.
+description:  Aspose.Cells Cloud REST API permite fusionar varios archivos Excel en un solo archivo Excel y proporciona SDK para múltiples lenguajes de programación, incluidos Android, C#, Go, Java, NodeJS, Perl, PHP, 481, Rubí y Swift.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionar varios archivos Excel" h2="Aspose.Cells Cloud SDK admite la combinación de varios archivos Excel en un solo archivo Excel." p="Aspose.Cells Cloud REST API permite fusionar varios archivos Excel en un solo archivo Excel y proporciona SDK para múltiples lenguajes de programación, incluidos Android, C#, Go, Java, NodeJS, Perl, PHP, 0761834 81, Rubí y Swift." urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionar varios archivos Excel" h2="Aspose.Cells Cloud SDK admite la combinación de varios archivos Excel en un solo archivo Excel." p="Aspose.Cells Cloud REST API permite fusionar varios archivos Excel en un solo archivo Excel y proporciona SDK para múltiples lenguajes de programación, incluidos Android, C#, Go, Java, NodeJS, Perl, PHP, 481, Rubí y Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -54,7 +54,7 @@ description:  Aspose.Cells Cloud REST API permite fusionar varios archivos Excel
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Otro:</b> Pdf, Json, rebajas</li>
@@ -64,7 +64,7 @@ description:  Aspose.Cells Cloud REST API permite fusionar varios archivos Excel
 	<li><b>Microsoft Palabra/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, XML</li>
-	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabuladores)</li>
+	<li><b>Texto:</b> Csv, Tsv, Txt (delimitado por tabulaciones)</li>
 	<li><b>Web:</b> HTML, HTML</li>
 	<li><b>Imágenes:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
 	<li><b>Otro:</b> Pdf, Xps, Dif, Json, Rebaja, Sql</li>

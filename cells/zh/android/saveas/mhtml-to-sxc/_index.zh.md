@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 MHTML 保存为 SXC
-description: 利用Aspose.Cells Cloud SDK for Android将MHTML格式文件保存为SXC格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 MHTML 格式文件保存为 SXC 格式文件。
 kwords: Excel, Save MHTML as SXC, REST, Android
 howto: How to save MHTML as SXC using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 MHTML 保存为 SXC" h2="用于将 MHTML 保存为 SXC 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 MHTML 保存为 SXC 和其他文档格式的专业解决方案。" urlsection="saveas/mhtml-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 MHTML 另存为 SXC" h2="用于将 MHTML 保存为 SXC 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 MHTML 保存为 SXC 和其他文档格式的专业解决方案。" urlsection="saveas/mhtml-to-sxc/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 MHTML 文件另存为 SXC" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

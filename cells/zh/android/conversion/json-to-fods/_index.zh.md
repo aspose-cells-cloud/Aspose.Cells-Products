@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 JSON 转换为 FODS
-description: 利用Aspose.Cells Cloud SDK for Android将JSON格式文件转换为FODS格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 JSON 格式文件转换为 FODS 格式文件。
 kwords: Excel, Convert JSON to FODS, REST, Android
 howto: How to convert JSON to FODS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 JSON 转换为 FODS" h2="用于将 JSON 转换为 FODS 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是一个使用 Android 在线将 JSON 转换为 FODS 和其他文档格式的专业解决方案。" urlsection="conversion/json-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 JSON 转换为 FODS" h2="用于将 JSON 转换为 FODS 的 Android 库" p="使用 Cells Cloud 的转换 API 在 Android 项目中创建自定义电子表格工作流。这是使用 Android 在线将 JSON 转换为 FODS 和其他文档格式的专业解决方案。" urlsection="conversion/json-to-fods/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Android 将 JSON 转换为 FODS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

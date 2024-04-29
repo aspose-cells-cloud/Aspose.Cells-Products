@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie ODS als SQL API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern der ODS-Formatdatei als SQL-Formatdatei.
+title:  ODS als SQL API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im ODS-Format als Datei im SQL-Format zu speichern.
 url: /de/swift/saveas/ods-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

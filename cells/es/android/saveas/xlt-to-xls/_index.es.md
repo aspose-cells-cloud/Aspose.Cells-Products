@@ -9,7 +9,7 @@ howto: How to save XLT as XLS using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Guarde un archivo XLT como XLS en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLT como XLS es una tarea compleja. Todas las transiciones de formato XLT a XLS las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca de Android es una solución profesional para guardar XLT como archivos XLS en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida XLS perfecta.
+Guardar formatos de archivo de XLT como XLS es una tarea compleja. Todas las transiciones de formato XLT a XLS se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca de Android es una solución profesional para guardar XLT como archivos XLS en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida XLS perfecta.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

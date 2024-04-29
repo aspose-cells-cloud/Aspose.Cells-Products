@@ -1,12 +1,12 @@
 ﻿---
 title:  Konvertieren Sie MHTML mit Android in PPTX
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im MHTML-Format in eine Datei im PPTX-Format.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im MHTML-Format in eine Datei im PPTX-Format zu konvertieren.
 kwords: Excel, Convert MHTML to PPTX, REST, Android
 howto: How to convert MHTML to PPTX using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie MHTML in PPTX" h2="Android-Bibliothek zum Konvertieren von MHTML in PPTX" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in PPTX und andere Dokumentformate mit Android." urlsection="conversion/mhtml-to-pptx/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie MHTML in PPTX mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie MHTML in PPTX mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von MHTML in PPTX kann eine komplexe Aufgabe sein. Unser Android SDK übernimmt alle Konvertierungen von MHTML in das PPTX-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-MHTML-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von MHTML- in PPTX-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige PPTX-Ausgabe.

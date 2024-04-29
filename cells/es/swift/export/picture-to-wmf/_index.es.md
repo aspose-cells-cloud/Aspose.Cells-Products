@@ -10,7 +10,7 @@ url: /es/swift/export/picture-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto IMAGEN a archivo de formato WMF en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto IMAGEN a un archivo WMF desde una hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de IMAGEN a formato WMF manteniendo el contenido estructural y lógico principal de la hoja de cálculo de IMAGEN de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos de IMAGEN a archivos en formato WMF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida WMF perfecta.
+Exportar un objeto IMAGEN a un archivo WMF desde una hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de IMAGEN a formato WMF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de IMAGEN de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos de IMAGEN a archivos en formato WMF en línea. Este Cloud SDK ofrece a los desarrolladores de Swift una potente funcionalidad y una salida WMF perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar IMAGEN a formato WMF desde una hoja de cálculo" gistPath="" %}}

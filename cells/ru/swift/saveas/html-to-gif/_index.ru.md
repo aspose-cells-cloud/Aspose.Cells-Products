@@ -10,7 +10,7 @@ url: /ru/swift/saveas/html-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML в формате GIF в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение файлов формата HTML в формате GIF — сложная задача. Все переходы из формата HTML в формат GIF выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для сохранения HTML в формате GIF в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод GIF.
+Сохранение файлов формата HTML в формате GIF — сложная задача. Все переходы формата HTML в формат GIF выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для сохранения HTML в формате GIF в Интернете. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения HTML в формате GIF" gistPath="" %}}

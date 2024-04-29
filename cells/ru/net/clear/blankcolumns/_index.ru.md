@@ -1,6 +1,6 @@
 ﻿---
 title:  Удалите пустые столбцы из локальной книги с помощью Cloud SDK Cells для C#.
-description: Облачные API и SDK для очистки пустых столбцов на телефонах Microsoft и OpenOffice Calc. Очистите пустые столбцы в локальных таблицах с помощью облака Cells. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
+description: Облачные API и SDK для очистки пустых столбцов на телефонах Microsoft, Excel и OpenOffice Calc. Очистите пустые столбцы в локальных таблицах с помощью облака Cells. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление пустых столбцов из локальных таблиц Microsoft Excel и OpenOffice Calc." h2="C# библиотека для удаления пустых столбцов из локальных Microsoft Excel и электронных таблиц OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки пустых столбцов в локальных Microsoft Excel и рабочих процессах электронных таблиц OpenOffice Calc в C#. Это профессиональное решение очищает пустые столбцы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью C#." urlsection="clear/Blank-columns/" >}}

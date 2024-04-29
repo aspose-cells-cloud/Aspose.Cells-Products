@@ -1,5 +1,5 @@
 ﻿---
-title:  TSV 到 MD 转换 API for Swift
+title:  TSV 到 MD 转换 API 适用于 Swift
 description: 使用 Aspose.Cells Cloud SDK for Swift 将 TSV 格式文件转换为 MD 格式文件。
 url: /zh/swift/conversion/tsv-to-md/
 ---
@@ -67,7 +67,7 @@ url: /zh/swift/conversion/tsv-to-md/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Swift API 将 TSV 转换为 MD" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 cellsWorkbookPutConvertWorkbook 方法来获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -9,7 +9,7 @@ description: Использование Cloud SDK Aspose.Cells для Android д
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте ЧИСЛА в CSV с помощью Cells Cloud SDK для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ЧИСЛОВ в CSV может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов NUMBERS в CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования ЧИСЕЛ в файлы CSV. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
+Преобразование форматов файлов из ЧИСЛОВ в CSV может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата NUMBERS в CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования ЧИСЕЛ в файлы CSV. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования ЧИСЕЛ в CSV с использованием Cells Cloud SDK" gistPath="" %}}

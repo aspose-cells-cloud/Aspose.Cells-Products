@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera CSV till GIF med Android
-description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en CSV-fil till en GIF-fil.
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i CSV-format till en fil i GIF-format.
 kwords: Excel, Convert CSV to GIF, REST, Android
 howto: How to convert CSV to GIF using Aspose.Cells Cloud Android library.
 ---

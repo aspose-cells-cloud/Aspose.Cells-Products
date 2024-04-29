@@ -1,9 +1,9 @@
 ﻿---
 title: 合并多个Excel文件
-description: Aspose.Cells Cloud REST API 允许将多个 Excel 文件合并为一个 Excel 文件，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python 、Ruby 和斯威夫特。
+description: Aspose.Cells Cloud REST API 允许将多个 Excel 文件合并为一个 Excel 文件，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、 1、Ruby 和 Swift。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="合并多个Excel文件" h2="Aspose.Cells Cloud SDK 支持将多个 Excel 文件合并为单个 Excel 文件。" p="Aspose.Cells Cloud REST API 允许将多个 Excel 文件合并为一个 Excel 文件，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python 、Ruby 和斯威夫特。" urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="合并多个Excel文件" h2="Aspose.Cells Cloud SDK 支持将多个 Excel 文件合并为单个 Excel 文件。" p="Aspose.Cells Cloud REST API 允许将多个 Excel 文件合并为一个 Excel 文件，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、 1、Ruby 和 Swift。" urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

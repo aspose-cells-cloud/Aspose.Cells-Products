@@ -9,7 +9,7 @@ howto: How to save MHTML as HTML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Сохраните файл MHTML как HTML в Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение формата файлов из MHTML как HTML — сложная задача. Все переходы формата MHTML в формат HTML выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения файлов MHTML в формате HTML онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод HTML.
+Сохранение формата файлов из MHTML как HTML — сложная задача. Все переходы формата MHTML в HTML выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения файлов MHTML в формате HTML онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод HTML.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

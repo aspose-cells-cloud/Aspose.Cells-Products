@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertera XML till XLTM med Android
-description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en XML-formatfil till en XLTM-formatfil.
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera en fil i XML-format till en fil i XLTM-format.
 kwords: Excel, Convert XML to XLTM, REST, Android
 howto: How to convert XML to XLTM using Aspose.Cells Cloud Android library.
 ---

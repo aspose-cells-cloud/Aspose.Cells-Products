@@ -12,7 +12,7 @@ url: /ar/swift
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-swift.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>يساعد Aspose.Cells Cloud SDK for Swift المبرمجين في الدمج السلس لميزات عرض Microsoft Excel وعرض جداول البيانات OpenOffice ومعالجتها في تطبيقاتهم المستندة إلى السحابة والتي تم تطويرها في Swift. Aspose.Cells تم ترخيص Cloud SDK لـ Swift بموجب معهد ماساتشوستس للتكنولوجيا.</p>
+<p>Aspose.Cells Cloud SDK for Swift يساعد المبرمجين في الدمج السلس لـ Microsoft Excel وعرض جداول البيانات OpenOffice وميزات المعالجة في تطبيقاتهم المستندة إلى السحابة والتي تم تطويرها في Swift. Aspose.Cells تم ترخيص Cloud SDK لـ Swift بموجب معهد ماساتشوستس للتكنولوجيا.</p>
 <p>Aspose.Cells يتيح Cloud SDK for Swift لتطبيقات Swift الخاصة بك استرداد جداول البيانات وأوراق العمل والمصنفات المخزنة في السحابة بالإضافة إلى إنشاء جدول بيانات جديد. يمكنك أيضًا تعديل تعليمات Swift البرمجية لمعالجة وتعديل التنسيق الشرطي، والمخططات، والمهام، والأشكال، والمرشحات، وOleObjects، والنطاقات، وListObjects، والجداول المحورية، من داخل تطبيقاتك دون تثبيت أي برنامج تابع لجهة خارجية.</p>
 <p>استخدم Aspose.Cells Cloud SDK لـ Swift لتحويل Excel (XLS، XLSX، XLSB، XLSM، XLT، XLTX، XLTM) وأوراق عمل OpenOffice (ODS) إلى تنسيقات شائعة أخرى، مثل XML (SpreadsheetML)، TSV، CSV، TXT (TabDelimited) )، HTML، MHTML، DIF، TIFF، SVG، XPS، PDF وماركداون (MD). يمكنك أيضًا العمل مع تنسيقات SXC وFODS باستخدام Aspose.Cells Cloud SDK for Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -50,7 +50,7 @@ url: /ar/swift
 <li><b>الويب:</b> HTML، أتش تي أم أل</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>إس إكس سي، فودس</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> الإدخال فقط</header><ul><li>إس إكس سي، فودز</li>
 </ul><header><i class="fa  fa-mail-forward"> </i> الإخراج فقط</header><ul><li>دي آي إف، PDF، XPS، TIFF، SVG، ماريلاند (تخفيض السعر)</li>
 </ul></div>
 <!--/right--></div>
@@ -243,7 +243,7 @@ url: /ar/swift
 معالجة المصنفات via Cloud SDK
     </h2>
     <p>
- Aspose.Cells يتيح لك Cloud SDK for Swift إنشاء النص وتقسيمه ودمجه والبحث فيه واستبداله وحماية كلمة المرور والتصدير إلى تنسيق ملف مدعوم وقراءة العناصر النصية للمصنف وملاءمة صفوف المصنف تلقائيًا مع تجاهل العناصر المخفية وتشفير كلمة مرور المصنف وتوفير مفتاح التشفير الطول، واستيراد البيانات إلى المصنف، وحساب جميع الصيغ في المصنف، وتعيين إعدادات حساب الصيغة من خلال توفير استراتيجية دقيقة وما إلى ذلك، واستخدام العلامة الذكية، وتحويل المصنف من محتوى الطلب إلى تنسيق آخر، وتطبيق كلمة المرور للسماح بتعديل المحتوى.
+ Aspose.Cells يتيح لك Cloud SDK for Swift إنشاء النص وتقسيمه ودمجه والبحث فيه واستبداله وحماية كلمة المرور والتصدير إلى تنسيق ملف مدعوم وقراءة العناصر النصية للمصنف وملاءمة صفوف المصنف تلقائيًا أثناء تجاهل العناصر المخفية وتشفير كلمة مرور المصنف وتوفير مفتاح التشفير الطول، واستيراد البيانات إلى المصنف، وحساب جميع الصيغ في المصنف، وتعيين إعدادات حساب الصيغة من خلال توفير استراتيجية دقيقة وما إلى ذلك، واستخدام العلامة الذكية، وتحويل المصنف من محتوى الطلب إلى تنسيق آخر، وتطبيق كلمة المرور للسماح بتعديل المحتوى.
     </p>
    </div>
    <div class="col-lg-12">

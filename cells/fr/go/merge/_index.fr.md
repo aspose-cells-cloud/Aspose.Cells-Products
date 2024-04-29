@@ -1,9 +1,9 @@
 ﻿---
 title:  Fusionner les fichiers Excel à l'aide de Go
-description:  Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel à l'aide de Go et propose des SDK pour divers langages de programmation.
+description:  Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel à l'aide de Go et propose des SDK pour différents langages de programmation.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionner les fichiers Excel à l\'aide de Go" h2="Aspose.Cells Cloud SDK prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel." p="Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel à l\'aide de Go et propose des SDK pour divers langages de programmation." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionner les fichiers Excel à l\'aide de Go" h2="Aspose.Cells Cloud SDK prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel." p="Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel en un seul fichier Excel à l\'aide de Go et propose des SDK pour différents langages de programmation." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

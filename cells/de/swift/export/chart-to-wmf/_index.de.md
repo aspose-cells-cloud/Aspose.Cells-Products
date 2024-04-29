@@ -1,5 +1,5 @@
 ﻿---
-title:  Exportieren Sie CHART aus einer Tabellenkalkulation nach WMF mit Swift API
+title:  CHART mit Swift API aus einer Tabelle nach WMF exportieren
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/chart-to-wmf/
 ---

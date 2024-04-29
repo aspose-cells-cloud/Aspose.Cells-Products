@@ -10,7 +10,7 @@ url: /sv/swift/saveas/xml-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XML-fil som TXT i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XML som TXT är en komplex uppgift. Alla XML till TXT-formatövergångar utförs av vår Swift SDK samtidigt som käll-XML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XML som TXT-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt TXT-utdata.
+Att spara filformat från XML som TXT är en komplex uppgift. Alla XML- till TXT-formatövergångar utförs av vår Swift SDK samtidigt som käll-XML-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XML som TXT-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt TXT-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att spara XML som TXT-format" gistPath="" %}}

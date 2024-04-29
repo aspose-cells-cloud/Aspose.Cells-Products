@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie XLTM als XLS mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLTM-Formatdateien als XLS-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XLTM-Format als Dateien im XLS-Format zu speichern.
 kwords: Excel, Save XLTM as XLS, REST, Android
 howto: How to save XLTM as XLS using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XLTM als XLS" h2="Android-Bibliothek zum Speichern von XLTM als XLS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLTM als XLS und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xltm-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="XLTM als XLS speichern" h2="Android-Bibliothek zum Speichern von XLTM als XLS" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XLTM als XLS und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xltm-to-xls/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XLTM-Datei als XLS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

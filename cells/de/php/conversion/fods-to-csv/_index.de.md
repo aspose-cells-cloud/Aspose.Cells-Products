@@ -25,7 +25,7 @@ otherformats: XLTX XLTM FODS PDF TXT TIFF XLSM MHTML TSV MD XML DIF XPS XLSX SVG
 {{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit dem SDK Excel, API und PHP" %}}
  Holen Sie sich das Excel Cloud SDK für den PHP-Quellcode von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
 
- Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
+ Schauen Sie sich auch Swagger-basierte[API Referenz](https://apireference.aspose.cloud/cells/) Erfahren Sie mehr über die[Excel RUHET API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="PHP Code für die Konvertierung von FODS in CSV" gistPath="" %}}

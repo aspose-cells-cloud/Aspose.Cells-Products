@@ -3,7 +3,7 @@ title:  Сохраните HTML в формате CSV, используя Python
 description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата HTML в формате CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как CSV." h2="Python библиотека для сохранения HTML в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Python. Это профессиональное решение для сохранения HTML в формате CSV и других форматов документов онлайн с помощью Python." urlsection="saveas/html-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить HTML как CSV." h2="Python библиотека для сохранения HTML в формате CSV" p="Используйте SaveAs API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в Python. Это профессиональное решение для сохранения HTML в формате CSV и других форматов документов в Интернете с помощью Python." urlsection="saveas/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML в формате CSV в Python." >}}

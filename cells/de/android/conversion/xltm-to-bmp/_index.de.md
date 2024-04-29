@@ -4,16 +4,16 @@ description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertiere
 kwords: Excel, Convert XLTM to BMP, REST, Android
 howto: How to convert XLTM to BMP using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTM in BMP" h2="Android-Bibliothek zum Konvertieren von XLTM in BMP" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTM in BMP und andere Dokumentformate mit Android." urlsection="conversion/xltm-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie XLTM in BMP" h2="Android-Bibliothek zum Konvertieren von XLTM in BMP" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um XLTM online mit Android in BMP und andere Dokumentformate zu konvertieren." urlsection="conversion/xltm-to-bmp/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTM in BMP mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie XLTM in BMP mit dem Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTM in BMP kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle XLTM-Formatkonvertierungen in das BMP-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der XLTM-Quelltabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTM-Dateien in BMP-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige BMP-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTM nach BMP kann eine komplexe Aufgabe sein. Unser Android SDK bewältigt alle Formatkonvertierungen von XLTM nach BMP und bewahrt dabei den strukturellen und logischen Hauptinhalt der Quell-XLTM-Tabelle. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von XLTM- in BMP-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige BMP-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel für die Konvertierung von XLTM in BMP mithilfe des Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Android-Codebeispiel zur Konvertierung von XLTM in BMP mithilfe des Cells Cloud SDK" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

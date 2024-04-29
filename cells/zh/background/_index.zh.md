@@ -1,9 +1,9 @@
 ﻿---
 title: 在Excel文件中设置背景
-description: Aspose.Cells Cloud REST API支持Excel文件设置背景，并提供多种编程语言的SDK，包括Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby和Swift。
+description: Aspose.Cells Cloud REST API 支持为 Excel 文件设置背景，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby、Swift。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="在Excel文件中设置背景" h2="Aspose.Cells Cloud SDK支持为Excel文件设置背景或水印。" p="Aspose.Cells Cloud REST API支持Excel文件设置背景，并提供多种编程语言的SDK，包括Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby和Swift。" urlsection="" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="在Excel文件中设置背景" h2="Aspose.Cells Cloud SDK支持为Excel文件设置背景或水印。" p="Aspose.Cells Cloud REST API 支持为 Excel 文件设置背景，并提供多种编程语言的 SDK，包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby、Swift。" urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

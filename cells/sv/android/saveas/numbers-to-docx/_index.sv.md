@@ -4,12 +4,12 @@ description:  Använder Aspose.Cells Cloud SDK för Android för att spara NUMBE
 kwords: Excel, Save NUMBERS as DOCX, REST, Android
 howto: How to save NUMBERS as DOCX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Spara NUMBERS som DOCX" h2="Android-bibliotek för att spara NUMBERS som DOCX" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att spara NUMBERS som DOCX och andra dokumentformat online med Android." urlsection="saveas/numbers-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara NUMBERS som DOCX" h2="Android-bibliotek för att spara NUMBERS som DOCX" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara NUMBERS som DOCX och andra dokumentformat online med Android." urlsection="saveas/numbers-to-docx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Spara en NUMBERS-fil som DOCX i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från NUMBERS som DOCX är en komplex uppgift. Alla NUMBERS- till DOCX-formatövergångar utförs av vår Android SDK samtidigt som källarket NUMBERS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara NUMBERS som DOCX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
+Att spara filformat från NUMBERS som DOCX är en komplex uppgift. Alla NUMBERS till DOCX format övergångar utförs av vår Android SDK samtidigt som källkoden NUMBERS kalkylarkets huvudsakliga strukturella och logiska innehåll. Vårt Android-bibliotek är en professionell lösning för att spara NUMBERS som DOCX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

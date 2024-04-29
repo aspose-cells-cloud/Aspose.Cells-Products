@@ -1,12 +1,12 @@
 ﻿---
 title:  Konvertieren Sie PNG mit Android in DIF
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im PNG-Format in eine DIF-Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im PNG-Format in eine Datei im DIF-Format zu konvertieren.
 kwords: Excel, Convert PNG to DIF, REST, Android
 howto: How to convert PNG to DIF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie PNG in DIF" h2="Android-Bibliothek zum Konvertieren von PNG in DIF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von PNG in DIF und andere Dokumentformate online mit Android." urlsection="conversion/png-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie PNG in DIF" h2="Android-Bibliothek zur Konvertierung von PNG in DIF" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android-Projekten zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Android in DIF und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-dif/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie PNG in DIF mit dem Cloud SDK Cells für Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie PNG in DIF mit Cells Cloud SDK für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Das Konvertieren von Dateiformaten von PNG in DIF kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle Konvertierungen von PNG in das DIF-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quelltabelle PNG bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von PNG- in DIF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige DIF-Ausgabe.

@@ -9,7 +9,7 @@ howto: How to convert ODS to BMP using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie ODS in BMP mit dem Cloud SDK Cells für Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS in BMP kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle Konvertierungen von ODS in das BMP-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-ODS-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS in BMP-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige BMP-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in BMP kann eine komplexe Aufgabe sein. Unser Android SDK verarbeitet alle ODS-Formatkonvertierungen in das BMP-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der Quell-ODS-Tabelle bei. Unsere Android-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von ODS in BMP-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige BMP-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -1,5 +1,5 @@
 ﻿---
-title:  Сохранить SXC как ODS API для Swift
+title:  Сохранить SXC как ODS API для Swift.
 description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата SXC как файла формата ODS.
 url: /ru/swift/saveas/sxc-to-ods/
 ---

@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie SXC als SQL mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von SXC-Formatdateien als SQL-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im SXC-Format als Dateien im SQL-Format zu speichern.
 kwords: Excel, Save SXC as SQL, REST, Android
 howto: How to save SXC as SQL using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie SXC als SQL" h2="Android-Bibliothek zum Speichern von SXC als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als SQL und anderen Dokumentformaten mit Android." urlsection="saveas/sxc-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="SXC als SQL speichern" h2="Android-Bibliothek zum Speichern von SXC als SQL" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als SQL und anderen Dokumentformaten mit Android." urlsection="saveas/sxc-to-sql/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine SXC-Datei als SQL in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

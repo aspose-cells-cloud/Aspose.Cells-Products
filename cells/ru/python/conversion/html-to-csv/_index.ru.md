@@ -3,7 +3,7 @@ title:  Преобразуйте HTML в CSV, используя Python.
 description:  Использование Cloud SDK Aspose.Cells для Python для преобразования файла формата HTML в файл формата CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать HTML в CSV" h2="Python библиотека для преобразования HTML в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертации HTML в CSV и другие форматы документов с помощью Python." urlsection="conversion/html-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Преобразовать HTML в CSV" h2="Python библиотека для преобразования HTML в CSV" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах Python. Это профессиональное решение для онлайн-конвертирования HTML в CSV и другие форматы документов с помощью Python." urlsection="conversion/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте HTML в CSV с помощью Cloud SDK Cells для Python." >}}

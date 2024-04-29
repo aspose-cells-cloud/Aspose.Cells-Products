@@ -1,8 +1,9 @@
 ﻿---
 title:  Konvertieren Sie HTML mit Go in SQL
-description:  Verwendung des Aspose.Cells Cloud SDK für Go zum Konvertieren einer Datei im HTML-Format in eine SQL-Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Go, um eine Datei im HTML-Format in eine Datei im SQL-Format zu konvertieren.
 kwords: Excel, Convert HTML to SQL, REST, Go
-howto: How to convert HTML to SQL using Aspose.Cells Cloud Go library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert HTML to SQL using the Cells Cloud Go library.","description": "How to convert HTML to SQL using the Cells Cloud Go library.","image": {"@type": "ImageObject"},"url": "/go/conversion/html-to-sql/","step": [{ "@type": "HowToStep","name": "How to convert HTML to SQL using the Cells Cloud Go library. step 1", "image": {"@type": "ImageObject",},"url": "/go/conversion/html-to-sql/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert HTML to SQL using the Cells Cloud Go library. step 1", "image": {"@type": "ImageObject",},"url": "/go/conversion/html-to-sql/","text": "Install Go library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert HTML to SQL using the Cells Cloud Go library. step 1", "image": {"@type": "ImageObject",},"url": "/go/conversion/html-to-sql/","text": "Open the source file in go.",},{ "@type": "HowToStep","name": "How to convert HTML to SQL using the Cells Cloud Go library. step 1", "image": {"@type": "ImageObject",},"url": "/go/conversion/html-to-sql/","text": "Use the `PutConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Goland, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie HTML in SQL" h2="Go-Bibliothek zum Konvertieren von HTML in SQL" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Go-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von HTML in SQL und andere Dokumentformate mit Go." urlsection="conversion/html-to-sql/" >}}
 
@@ -47,7 +48,7 @@ Das Konvertieren von Dateiformaten von HTML in SQL kann eine komplexe Aufgabe se
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie HTML mithilfe der Cloud Go-Bibliothek Cells in SQL konvertieren." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So konvertieren Sie HTML mithilfe der Cloud Go-Bibliothek Cells in SQL." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Installieren Sie die Go-Bibliothek und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
 <li>Öffnen Sie die Quelldatei in go.</li>
@@ -55,5 +56,5 @@ Das Konvertieren von Dateiformaten von HTML in SQL kann eine komplexe Aufgabe se
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>go-Version go1.13.0 oder neuer</li>
+<li>Go-Version go1.13.0 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

@@ -10,7 +10,7 @@ url: /ru/swift/saveas/gif-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как DOCX в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов GIF в формате DOCX — сложная задача. Все переходы формата GIF в DOCX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Swift — это профессиональное решение для сохранения GIF в формате DOCX онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов GIF в формате DOCX — сложная задача. Все переходы формата GIF в DOCX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы GIF. Наша библиотека Swift — это профессиональное решение для сохранения GIF в формате DOCX онлайн. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения GIF в формате DOCX" gistPath="" %}}

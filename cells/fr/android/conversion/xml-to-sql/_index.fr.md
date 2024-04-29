@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir 
 kwords: Excel, Convert XML to SQL, REST, Android
 howto: How to convert XML to SQL using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Convertir XML en SQL" h2="Bibliothèque Android pour convertir XML en SQL" p="Utilisez la conversion API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans des projets Android. Il s\'agit d\'une solution professionnelle pour convertir XML en SQL et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/xml-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convertir XML en SQL" h2="Bibliothèque Android pour convertir XML en SQL" p="Utilisez la conversion API de Cells Cloud pour créer des flux de travail de feuilles de calcul personnalisés dans des projets Android. Il s\'agit d\'une solution professionnelle pour convertir du XML en SQL et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/xml-to-sql/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Convertir XML en SQL à l\'aide du SDK Cloud Cells pour Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

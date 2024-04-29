@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie SXC als XLTX mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von SXC-Formatdateien als XLTX-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Android, um Dateien im SXC-Format als Dateien im XLTX-Format zu speichern.
 kwords: Excel, Save SXC as XLTX, REST, Android
 howto: How to save SXC as XLTX using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie SXC als XLTX" h2="Android-Bibliothek zum Speichern von SXC als XLTX" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als XLTX und anderen Dokumentformaten mit Android." urlsection="saveas/sxc-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="SXC als XLTX speichern" h2="Android-Bibliothek zum Speichern von SXC als XLTX" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als XLTX und anderen Dokumentformaten mit Android." urlsection="saveas/sxc-to-xltx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine SXC-Datei als XLTX in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

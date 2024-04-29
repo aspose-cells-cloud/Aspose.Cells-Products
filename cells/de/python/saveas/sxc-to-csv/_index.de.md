@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie SXC als CSV mit Python
-description: Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern der SXC-Formatdatei als CSV-Formatdatei.
+description:  Verwenden des Aspose.Cells Cloud SDK für Python, um eine Datei im SXC-Format als Datei im CSV-Format zu speichern.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie SXC als CSV" h2="Python Bibliothek zum Speichern von SXC als CSV" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um SXC als CSV und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/sxc-to-csv/" >}}

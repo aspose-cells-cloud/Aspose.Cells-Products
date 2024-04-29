@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save NUMBERS as GIF, REST, Android
 howto: How to save NUMBERS as GIF using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="ZAHLEN als GIF speichern" h2="Android-Bibliothek zum Speichern von ZAHLEN als GIF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um ZAHLEN als GIF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/numbers-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="ZAHLEN als GIF speichern" h2="Android-Bibliothek zum Speichern von ZAHLEN als GIF" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als GIF und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/numbers-to-gif/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine NUMBERS-Datei als GIF in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus NUMBERS als GIF ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zum GIF werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um ZAHLEN online als GIF-Dateien zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
+Das Speichern von Dateiformaten von NUMBERS als GIF ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu GIF werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle NUMBERS erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von NUMBERS als GIF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

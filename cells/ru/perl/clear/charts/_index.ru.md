@@ -3,7 +3,7 @@ title:  Очистка диаграмм в локальной книге в об
 description: Облачные API и SDK для очистки диаграмм по телефону Microsoft и OpenOffice Calc. Четкие диаграммы в локальных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. К ним относятся Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление диаграмм из локальной таблицы Microsoft Excel и таблицы OpenOffice Calc." h2="Perl Очистить, чтобы очистить диаграммы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc." p="Используйте Cells Clear REST API для очистки диаграмм в локальных Microsoft Excel и рабочих процессах электронных таблиц OpenOffice Calc в Perl. Это профессиональное решение очищает диаграммы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Perl." urlsection="clear/Charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Удаление диаграмм из локальной таблицы Microsoft Excel и таблицы OpenOffice Calc." h2="Perl Очистить, чтобы очистить диаграммы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки диаграмм в локальных Microsoft Excel и рабочих процессах электронных таблиц OpenOffice Calc в Perl. Это профессиональное решение очищает диаграммы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Perl." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить диаграммы в локальной таблице Microsoft Excel и в электронной таблице OpenOffice Calc — Perl REST API" >}}

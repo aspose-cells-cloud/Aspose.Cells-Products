@@ -9,7 +9,7 @@ howto: How to save XLTX as JSON using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Spara en XLTX-fil som JSON i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLTX som JSON är en komplex uppgift. Alla XLTX till JSON-formatövergångar utförs av vår Android SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLTX som JSON-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt JSON-utgång.
+Att spara filformat från XLTX som JSON är en komplex uppgift. Alla XLTX- till JSON-formatövergångar utförs av vår Android SDK samtidigt som källbladets XLTX-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara XLTX som JSON-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt JSON-utgång.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -4,12 +4,12 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern v
 kwords: Excel, Save XML as SXC, REST, Android
 howto: How to save XML as SXC using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XML als SXC" h2="Android-Bibliothek zum Speichern von XML als SXC" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als SXC und anderen Dokumentformaten mit Android." urlsection="saveas/xml-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie XML als SXC" h2="Android-Bibliothek zum Speichern von XML als SXC" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XML als SXC und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xml-to-sxc/" >}}
 
-{{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XML-Datei als SXC in Android" >}}
+{{< blocks/products/cells/cells-cloud-section title="Speichern einer XML-Datei als SXC in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XML als SXC ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum SXC-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als SXC-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte SXC-Ausgabe.
+Das Speichern von Dateiformaten von XML als SXC ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu SXC werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als SXC-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und perfekte SXC-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

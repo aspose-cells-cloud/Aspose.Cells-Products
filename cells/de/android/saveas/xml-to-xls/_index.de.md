@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie XML als XLS mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XML-Formatdateien als XLS-Formatdateien.
+title:  XML als XLS speichern mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XML-Format als Dateien im XLS-Format zu speichern.
 kwords: Excel, Save XML as XLS, REST, Android
 howto: How to save XML as XLS using Aspose.Cells Cloud Android library.
 ---

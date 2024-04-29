@@ -1,15 +1,16 @@
 ﻿---
-title: Конвертируйте XLT в DOCX, используя PHP
+title:  Конвертируйте XLT в DOCX, используя PHP
 description:  Использование Cloud SDK Aspose.Cells для PHP для преобразования файла формата XLT в файл формата DOCX.
 kwords: Excel, Convert XLT to DOCX, REST, PHP
-howto: How to convert XLT to DOCX using Aspose.Cells Cloud PHP library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert XLT to DOCX using the Cells Cloud PHP library.","description": "How to convert XLT to DOCX using the Cells Cloud PHP library.","image": {"@type": "ImageObject"},"url": "/php/conversion/xlt-to-docx/","step": [{ "@type": "HowToStep","name": "How to convert XLT to DOCX using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/xlt-to-docx/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert XLT to DOCX using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/xlt-to-docx/","text": "Install PHP library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert XLT to DOCX using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/xlt-to-docx/","text": "Open the source file in PHP.",},{ "@type": "HowToStep","name": "How to convert XLT to DOCX using the Cells Cloud PHP library. step 1", "image": {"@type": "ImageObject",},"url": "/php/conversion/xlt-to-docx/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "phpstorm, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="Конвертировать XLT в DOCX" h2="PHP библиотека для конвертации XLT в DOCX" p="Используйте преобразование API из Cells Cloud для создания настраиваемых рабочих процессов с электронными таблицами в проектах PHP. Это профессиональное решение для онлайн-конвертации XLT в DOCX и другие форматы документов с использованием номера PHP." urlsection="conversion/xlt-to-docx/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Преобразуйте XLT в DOCX с помощью Cloud SDK Cells для PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в DOCX может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования формата XLT в DOCX, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека PHP предоставляет профессиональное решение для онлайн-конвертирования файлов XLT в DOCX. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный вывод в формате DOCX.
+Преобразование форматов файлов из XLT в DOCX может оказаться сложной задачей. Наш SDK PHP обрабатывает все преобразования формата XLT в DOCX, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека PHP предоставляет профессиональное решение для онлайн-конвертирования файлов XLT в DOCX. Этот Cloud SDK предоставляет разработчикам PHP мощные функциональные возможности и обеспечивает высококачественный вывод DOCX.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
@@ -35,7 +36,7 @@ howto: How to convert XLT to DOCX using Aspose.Cells Cloud PHP library.
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Узнайте, как конвертировать XLT в DOCX с помощью библиотеки Cells Cloud PHP." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как конвертировать XLT в DOCX с помощью библиотеки Cells Cloud PHP." >}}
 <li> Зарегистрируйте аккаунт на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы бесплатно получить информацию о квоте и авторизации по номеру API</li>
 <li>Установите библиотеку PHP и добавьте ссылку (импортируйте библиотеку) в свой проект.</li>
 <li>Откройте исходный файл по номеру PHP.</li>

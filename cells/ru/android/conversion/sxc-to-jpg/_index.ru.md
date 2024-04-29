@@ -9,7 +9,7 @@ howto: How to convert SXC to JPG using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Конвертируйте SXC в JPG с помощью Cloud SDK Cells для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в JPG может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата SXC в JPG, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов SXC в JPG. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод в формате JPG.
+Преобразование форматов файлов из SXC в JPG может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата SXC в JPG, сохраняя при этом основное структурное и логическое содержимое исходной таблицы SXC. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования файлов SXC в JPG. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод в формате JPG.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -10,7 +10,7 @@ url: /ru/swift/conversion/html-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл HTML в CSV в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов HTML в CSV — сложная задача. Все переходы формата HTML в формат CSV выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
+Преобразование форматов файлов HTML в CSV — сложная задача. Все переходы формата HTML в формат CSV выполняются нашим Swift SDK, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертирования HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования HTML в формат CSV" gistPath="" %}}

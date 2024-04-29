@@ -1,10 +1,10 @@
 ﻿---
-title: 使用 Android 将 GIF 转换为 JPG
-description: 利用Aspose.Cells Cloud SDK for Android将GIF格式文件转换为JPG格式文件。
+title: 使用Android将GIF转换为JPG
+description: 利用 Aspose.Cells Cloud SDK for Android 将 GIF 格式文件转换为 JPG 格式文件。
 kwords: Excel, Convert GIF to JPG, REST, Android
 howto: How to convert GIF to JPG using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将 GIF 转换为 JPG" h2="用于将 GIF 转换为 JPG 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 GIF 转换为 JPG 和其他文档格式的专业解决方案。" urlsection="conversion/gif-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="GIF 转换为 JPG" h2="用于将 GIF 转换为 JPG 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 GIF 转换为 JPG 和其他文档格式的专业解决方案。" urlsection="conversion/gif-to-jpg/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="使用 Cells Cloud SDK for Android 将 GIF 转换为 JPG" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}

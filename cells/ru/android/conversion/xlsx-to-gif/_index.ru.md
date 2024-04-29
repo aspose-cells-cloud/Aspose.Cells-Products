@@ -12,7 +12,7 @@ description: Использование Cloud SDK Aspose.Cells для Android д
 Преобразование форматов файлов из XLSX в GIF может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов XLSX в GIF, сохраняя при этом основное структурное и логическое содержимое исходной таблицы XLSX. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертации файлов XLSX в GIF. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод GIF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования XLSX в GIF с использованием Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования XLSX в GIF с помощью Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

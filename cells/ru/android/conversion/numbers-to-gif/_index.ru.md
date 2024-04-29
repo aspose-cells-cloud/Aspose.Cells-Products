@@ -9,7 +9,7 @@ howto: How to convert NUMBERS to GIF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Конвертируйте ЧИСЛА в GIF с помощью Cells Cloud SDK для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ЧИСЛОВ в GIF может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата NUMBERS в формат GIF, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования ЧИСЕЛ в файлы GIF. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод GIF.
+Преобразование форматов файлов из ЧИСЛОВ в GIF может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования чисел NUMBERS в формат GIF, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования ЧИСЕЛ в файлы GIF. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод GIF.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

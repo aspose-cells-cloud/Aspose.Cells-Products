@@ -1,5 +1,5 @@
 ﻿---
-title:  XLT in TSV Konvertieren Sie API für Swift
+title:  XLT zu TSV Konvertierung API für Swift
 description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLT-Formatdatei in eine TSV-Formatdatei.
 url: /de/swift/conversion/xlt-to-tsv/
 ---

@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie SXC als XLSX API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von SXC-Formatdateien als XLSX-Formatdateien.
+title:  SXC als XLSX API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im SXC-Format als Dateien im XLSX-Format zu speichern.
 url: /de/swift/saveas/sxc-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um SXC als XLSX zu speichern" h2="Swift-Bibliothek zum Speichern von SXC als XLSX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um SXC als XLSX und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/sxc-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von SXC als XLSX" h2="Swift-Bibliothek zum Speichern von SXC als XLSX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um SXC als XLSX und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/sxc-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als XLSX in Swift" >}}

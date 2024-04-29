@@ -10,7 +10,7 @@ url: /es/swift/export/chart-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto CHART a archivo de formato JPG en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto CHART a un archivo JPG desde una hoja de cálculo es una tarea compleja. Nuestro Swift SDK realiza la exportación de transiciones de formato CHART a JPG mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos CHART a archivos en formato JPG en línea. Este SDK de Cloud ofrece a los desarrolladores de Swift una potente funcionalidad y una salida JPG perfecta.
+Exportar un objeto CHART a un archivo JPG desde una hoja de cálculo es una tarea compleja. Nuestro SDK Swift realiza la exportación de transiciones de formato CHART a JPG mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CHART de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos CHART a archivos en formato JPG en línea. Este SDK de Cloud ofrece a los desarrolladores de Swift una potente funcionalidad y una salida JPG perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar CHART a formato JPG desde una hoja de cálculo" gistPath="" %}}

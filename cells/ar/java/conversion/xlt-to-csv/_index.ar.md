@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XLT إلى CSV باستخدام Java
-description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق XLT إلى ملف بتنسيق CSV.
+description: استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بتنسيق XLT إلى ملف بتنسيق CSV.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل XLT إلى CSV" h2="مكتبة Java لتحويل XLT إلى CSV" p="استخدم التحويل API من Cells Cloud لإنشاء سير عمل جدول بيانات مخصص في مشاريع Java. يعد هذا حلاً احترافيًا لتحويل XLT إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlt-to-csv/" >}}
@@ -9,7 +9,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل XLT إلى CSV باستخدام Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يمكن أن يكون تحويل تنسيقات الملفات من XLT إلى CSV مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق XLT إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل ملفات XLT إلى ملفات CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من الحصول على وظائف قوية ويضمن إخراج CSV عالي الجودة.
+يمكن أن يكون تحويل تنسيقات الملفات من XLT إلى CSV مهمة معقدة. يتعامل SDK Java الخاص بنا مع جميع تحويلات تنسيق XLT إلى CSV مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. توفر مكتبتنا Java حلاً احترافيًا لتحويل ملفات XLT إلى ملفات CSV عبر الإنترنت. يعمل Cloud SDK على تمكين مطوري Java من خلال وظائف قوية ويضمن إخراج CSV عالي الجودة.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java مثال على الكود لتحويل XLT إلى CSV باستخدام Cells Cloud SDK" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie ODS als XLSB mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von ODS-Formatdateien als XLSB-Formatdateien.
+title:  ODS als XLSB mit Android speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Android, um Dateien im ODS-Format als Dateien im XLSB-Format zu speichern.
 kwords: Excel, Save ODS as XLSB, REST, Android
 howto: How to save ODS as XLSB using Aspose.Cells Cloud Android library.
 ---

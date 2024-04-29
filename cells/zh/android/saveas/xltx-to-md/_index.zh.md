@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 将 XLTX 保存为 MD
-description: 利用Aspose.Cells Cloud SDK for Android将XLTX格式文件保存为MD格式文件。
+description: 利用 Aspose.Cells Cloud SDK for Android 将 XLTX 格式文件保存为 MD 格式文件。
 kwords: Excel, Save XLTX as MD, REST, Android
 howto: How to save XLTX as MD using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="将XLTX另存为MD" h2="用于将 XLTX 保存为 MD 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLTX 保存为 MD 和其他文档格式的专业解决方案。" urlsection="saveas/xltx-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="将 XLTX 保存为 MD" h2="用于将 XLTX 保存为 MD 的 Android 库" p="使用 Cells Cloud 的 SaveAs API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLTX 保存为 MD 和其他文档格式的专业解决方案。" urlsection="saveas/xltx-to-md/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="在 Android 中将 XLTX 文件保存为 MD" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

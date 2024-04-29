@@ -10,7 +10,7 @@ url: /ru/swift/conversion/gif-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл GIF в TSV в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в TSV — сложная задача. Все переходы формата GIF в TSV выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной таблицы GIF. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации GIF в файлы TSV. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TSV.
+Преобразование форматов файлов из GIF в TSV — сложная задача. Все переходы формата GIF в TSV выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации GIF в файлы TSV. Этот Cloud SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования GIF в формат TSV" gistPath="" %}}

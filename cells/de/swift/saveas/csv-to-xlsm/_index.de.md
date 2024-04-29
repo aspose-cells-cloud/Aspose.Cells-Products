@@ -1,10 +1,10 @@
 ﻿---
 title:  CSV als XLSM API für Swift speichern
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von CSV-Formatdateien als XLSM-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im CSV-Format als Datei im XLSM-Format zu speichern.
 url: /de/swift/saveas/csv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um CSV als XLSM zu speichern" h2="Swift-Bibliothek zum Speichern von CSV als XLSM" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von CSV als XLSM und anderen Dokumentformaten mit Swift." urlsection="saveas/csv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von CSV als XLSM" h2="Swift-Bibliothek zum Speichern von CSV als XLSM" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von CSV als XLSM und anderen Dokumentformaten mit Swift." urlsection="saveas/csv-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine CSV-Datei als XLSM in Swift" >}}

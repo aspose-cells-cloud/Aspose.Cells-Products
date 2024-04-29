@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSM zu PPTX Konvertieren Sie API für Swift
+title:  XLSM zu PPTX Konvertieren API für Swift
 description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSM-Format in eine Datei im PPTX-Format.
 url: /de/swift/conversion/xlsm-to-pptx/
 ---

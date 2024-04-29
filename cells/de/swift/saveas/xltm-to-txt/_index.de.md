@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLTM als TXT API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLTM-Formatdateien als TXT-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im XLTM-Format als Dateien im TXT-Format zu speichern.
 url: /de/swift/saveas/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

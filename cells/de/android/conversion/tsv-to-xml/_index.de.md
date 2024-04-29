@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie TSV mit Android in XML
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer TSV-Formatdatei in eine XML-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Konvertieren einer TSV-Formatdatei in eine XML-Formatdatei.
 kwords: Excel, Convert TSV to XML, REST, Android
 howto: How to convert TSV to XML using Aspose.Cells Cloud Android library.
 ---

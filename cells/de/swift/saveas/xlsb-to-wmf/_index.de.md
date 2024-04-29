@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie XLSB als WMF API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLSB-Formatdateien als WMF-Formatdateien.
+title:  XLSB als WMF API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im XLSB-Format als Dateien im WMF-Format zu speichern.
 url: /de/swift/saveas/xlsb-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um XLSB als WMF zu speichern" h2="Swift-Bibliothek zum Speichern von XLSB als WMF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSB als WMF und anderen Dokumentformaten mit Swift." urlsection="saveas/xlsb-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von XLSB als WMF" h2="Swift-Bibliothek zum Speichern von XLSB als WMF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLSB als WMF und anderen Dokumentformaten mit Swift." urlsection="saveas/xlsb-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSB-Datei als WMF in Swift" >}}

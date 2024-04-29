@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie XML als TSV mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von XML-Formatdateien als TSV-Formatdateien.
+title:  XML als TSV speichern unter Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im XML-Format als Dateien im TSV-Format zu speichern.
 kwords: Excel, Save XML as TSV, REST, Android
 howto: How to save XML as TSV using Aspose.Cells Cloud Android library.
 ---
@@ -9,7 +9,7 @@ howto: How to save XML as TSV using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine XML-Datei als TSV in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XML als TSV ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum TSV-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-XML-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als TSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
+Das Speichern von Dateiformaten aus XML als TSV ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum TSV-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XML-Quelltabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als TSV-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

@@ -1,10 +1,10 @@
 ﻿---
-title:  TSV unter SVG API für Swift speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im TSV-Format als Datei im Format SVG zu speichern.
+title:  Speichern Sie TSV als SVG API für Swift
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im TSV-Format als Datei im SVG-Format zu speichern.
 url: /de/swift/saveas/tsv-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um den TSV unter SVG zu speichern" h2="Swift-Bibliothek zum Speichern des TSV als SVG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TSV als SVG und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/tsv-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um TSV als SVG zu speichern" h2="Swift-Bibliothek zum Speichern von TSV als SVG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um TSV als SVG und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/tsv-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als SVG in Swift" >}}

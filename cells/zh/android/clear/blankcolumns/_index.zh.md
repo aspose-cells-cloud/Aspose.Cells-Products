@@ -1,9 +1,9 @@
 ﻿---
 title: 使用 Cells Cloud SDK for Android 从本地工作簿中删除空白列。
-description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的空白列的云 API 和 SDK。通过Cells云API清除本地电子表格中的空白列。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的空白列的云 API 和 SDK。通过 Cells Cloud API 清除本地电子表格上的空白列。SDK 支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="从本地 Microsoft Excel 和 OpenOffice Calc 电子表格中删除空列。" h2="用于从本地 Microsoft Excel 和 OpenOffice Calc 电子表格中删除空列的 Android 库。" p="使用 Cells Clear REST API 清除 Android 中本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流程上的空白列。这个专业的解决方案使用 Android 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列。" urlsection="clear/Blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="从本地 Microsoft Excel 和 OpenOffice Calc 电子表格中删除空列。" h2="用于从本地 Microsoft Excel 和 OpenOffice Calc 电子表格中删除空列的 Android 库。" p="使用 Cells Clear REST API 清除 Android 中本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流上的空白列。此专业解决方案使用 Android 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列。" urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列 - Android REST API" >}}

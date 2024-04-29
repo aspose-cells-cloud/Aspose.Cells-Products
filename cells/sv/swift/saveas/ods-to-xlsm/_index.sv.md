@@ -10,7 +10,7 @@ url: /sv/swift/saveas/ods-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en ODS-fil som XLSM i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från ODS som XLSM är en komplex uppgift. Alla ODS- till XLSM-formatövergångar utförs av vår Swift SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara ODS som XLSM-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XLSM-utgång.
+Att spara filformat från ODS som XLSM är en komplex uppgift. Alla ODS- till XLSM-formatövergångar utförs av vår Swift SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara ODS som XLSM-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt XLSM-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att spara ODS som XLSM-format" gistPath="" %}}

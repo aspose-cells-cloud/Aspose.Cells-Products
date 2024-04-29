@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie XLS als MHTML API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLS-Formatdateien als MHTML-Formatdateien.
+title:  XLS als MHTML API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im XLS-Format als Dateien im MHTML-Format zu speichern.
 url: /de/swift/saveas/xls-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

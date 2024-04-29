@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie NUMBERS als DIF API für Swift
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im NUMBERS-Format als Datei im DIF-Format zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im NUMBERS-Format als Dateien im DIF-Format zu speichern.
 url: /de/swift/saveas/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um ZAHLEN als DIF zu speichern" h2="Swift-Bibliothek zum Speichern von ZAHLEN als DIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als DIF und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/numbers-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von Zahlen als DIF" h2="Swift-Bibliothek zum Speichern von ZAHLEN als DIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als DIF und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/numbers-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als DIF in Swift" >}}

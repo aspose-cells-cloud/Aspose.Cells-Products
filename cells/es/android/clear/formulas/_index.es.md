@@ -3,7 +3,7 @@ title:  Borrar fórmulas en el libro de trabajo local en la nube
 description: API y SDK en la nube para borrar fórmulas en Microsoft Excel y OpenOffice Calc. Fórmulas claras en hojas de cálculo locales mediante Cells Cloud API. El SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Eliminar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar fórmulas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/Formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Eliminar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar fórmulas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra fórmulas en Microsoft Excel local y en la hoja de cálculo OpenOffice Calc con Android." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

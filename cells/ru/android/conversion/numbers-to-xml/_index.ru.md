@@ -9,7 +9,7 @@ howto: How to convert NUMBERS to XML using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Преобразование ЧИСЕЛ в XML с помощью Cells Cloud SDK для Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ЧИСЛОВ в XML может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата NUMBERS в формат XML, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Android предоставляет профессиональное решение для онлайн-преобразования ЧИСЕЛ в файлы XML. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод XML.
+Преобразование форматов файлов из ЧИСЛОВ в XML может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования форматов NUMBERS в XML, сохраняя при этом основное структурное и логическое содержимое исходной таблицы NUMBERS. Наша библиотека Android предоставляет профессиональное решение для онлайн-преобразования ЧИСЕЛ в файлы XML. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод XML.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

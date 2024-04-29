@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie XLSM als MHTML API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLSM-Formatdateien als MHTML-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um eine Datei im XLSM-Format als Datei im MHTML-Format zu speichern.
 url: /de/swift/saveas/xlsm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um XLSM als MHTML zu speichern" h2="Swift-Bibliothek zum Speichern von XLSM als MHTML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLSM als MHTML und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/xlsm-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von XLSM als MHTML" h2="Swift-Bibliothek zum Speichern von XLSM als MHTML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLSM als MHTML und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/xlsm-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLSM-Datei als MHTML in Swift" >}}

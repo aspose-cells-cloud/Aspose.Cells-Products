@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
 kwords: Excel, Save XLS as TSV, REST, Android
 howto: How to save XLS as TSV using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="احفظ XLS بتنسيق TSV" h2="مكتبة Android لحفظ XLS بتنسيق TSV" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ XLS بتنسيق TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xls-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="احفظ XLS كـ TSV" h2="مكتبة Android لحفظ XLS بتنسيق TSV" p="استخدم SaveAs API من Cells Cloud لإنشاء مهام سير عمل جدول بيانات مخصصة في Android. يعد هذا حلاً احترافيًا لحفظ XLS بتنسيق TSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xls-to-tsv/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="احفظ ملف XLS بتنسيق TSV في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

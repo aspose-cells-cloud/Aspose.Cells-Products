@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie GIF mit Android in TXT
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im GIF-Format in eine Datei im TXT-Format.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im GIF-Format in eine Datei im TXT-Format zu konvertieren.
 kwords: Excel, Convert GIF to TXT, REST, Android
 howto: How to convert GIF to TXT using Aspose.Cells Cloud Android library.
 ---

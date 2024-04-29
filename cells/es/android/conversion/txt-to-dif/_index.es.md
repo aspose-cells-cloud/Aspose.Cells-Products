@@ -9,7 +9,7 @@ howto: How to convert TXT to DIF using Aspose.Cells Cloud Android library.
 {{< blocks/products/cells/cells-cloud-section title="Convierta TXT a DIF usando Cells Cloud SDK para Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de TXT a DIF puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato TXT a DIF al tiempo que conserva el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos TXT a DIF en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida DIF de alta calidad.
+Convertir formatos de archivo de TXT a DIF puede ser una tarea compleja. Nuestro SDK de Android maneja todas las conversiones de formato TXT a DIF preservando al mismo tiempo el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca de Android proporciona una solución profesional para convertir archivos TXT a DIF en línea. Este Cloud SDK brinda a los desarrolladores de Android una potente funcionalidad y garantiza una salida DIF de alta calidad.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

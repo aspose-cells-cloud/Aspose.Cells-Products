@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie XLTX als MHTML API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLTX-Formatdateien als MHTML-Formatdateien.
+title:  XLTX als MHTML API für Swift speichern
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im XLTX-Format als Dateien im MHTML-Format zu speichern.
 url: /de/swift/saveas/xltx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um XLTX als MHTML zu speichern" h2="Swift-Bibliothek zum Speichern von XLTX als MHTML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLTX als MHTML und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/xltx-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von XLTX als MHTML" h2="Swift-Bibliothek zum Speichern von XLTX als MHTML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLTX als MHTML und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/xltx-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTX-Datei als MHTML in Swift" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Speichern Sie JSON als TXT mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von JSON-Formatdateien als TXT-Formatdateien.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um Dateien im JSON-Format als Dateien im TXT-Format zu speichern.
 kwords: Excel, Save JSON as TXT, REST, Android
 howto: How to save JSON as TXT using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Speichern Sie JSON als TXT" h2="Android-Bibliothek zum Speichern von JSON als TXT" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von JSON als TXT und anderen Dokumentformaten mit Android." urlsection="saveas/json-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="JSON als TXT speichern" h2="Android-Bibliothek zum Speichern von JSON als TXT" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von JSON als TXT und anderen Dokumentformaten mit Android." urlsection="saveas/json-to-txt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine JSON-Datei als TXT in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

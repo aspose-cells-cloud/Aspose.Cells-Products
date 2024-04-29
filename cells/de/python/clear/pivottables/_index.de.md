@@ -17,7 +17,7 @@ Das Löschen von Pivot-Tabellen auf lokalen Microsoft Excel- und OpenOffice Calc
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie das Cells Cloud SDK für Python zum Löschen von Pivot-Tabellen" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So nutzen Sie Cells Cloud SDK für Python zum Löschen von Pivot-Tabellen" >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
 <li>Initialisieren Sie Cells API mit Ihrer Client-ID, Ihrem Client-Geheimnis, Ihrer Basis-URL und Ihrer Version API.</li>
 <li>Beitrag anrufen_klar_Objekte-Methode, um den resultierenden Stream abzurufen</li>

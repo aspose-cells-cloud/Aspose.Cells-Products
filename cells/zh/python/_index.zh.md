@@ -1,5 +1,5 @@
 ﻿---
-title: Excel® 电子表格编程 API 使用 Python 加速电子表格管理和处理任务
+title: Excel® 电子表格编程 API，使用 Python 加速电子表格管理和处理任务
 description: API 支持构建能够生成、修改、转换、渲染和打印电子表格的跨平台应用程序。它允许开发人员管理工作表、行、列和单元格，从头开始创建电子表格内容和样式，从不同数据源将数据导入到工作表中，添加常见和复杂的数学、财务和文本公式，创建和操作数据透视表、图表、超链接、注释、绘图对象等等。
 weight: 90
 ---
@@ -21,7 +21,7 @@ weight: 90
 
 
 {{< blocks/products/cells/cells-cloud-language-layout imgposition="right" imgurl="/cells/images/cells_cloud_operatest.png" imgalt="operatest.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>适用于 Python 的 Aspose.Cells Cloud SDK 可促进多种操作，例如创建、拆分、合并、搜索和替换文本、应用密码保护、导出为支持的文件格式、读取工作簿文本项、自动调整工作簿行同时忽略隐藏元素、使用不同的加密密钥长度加密工作簿密码、将数据导入工作簿、计算所有公式、设置公式计算精度策略、利用智能标记、在格式之间转换工作簿以及应用密码以允许内容修改。</p><p>您可以执行各种操作，例如删除工作表中的特定行或所有行、访问工作表单元格数据或单元格样式via单元格名称、根据索引检索行或列数据、计算单元格公式、清除单元格内容、复制单元格数据到另一个单元格、复制工作表列和行、对工作表行和列进行分组、隐藏特定工作表行和列、定义工作表列和行的样式、在单元格内设置 html 字符串值、为单元格区域分配值以及修改各种工作表设置。</p>" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="" msg="<p>适用于 Python 的 Aspose.Cells Cloud SDK 可简化多种操作，例如创建、拆分、合并、搜索和替换文本、应用密码保护、导出为支持的文件格式、读取工作簿文本项、自动调整工作簿行并忽略隐藏元素、使用不同的加密密钥长度加密工作簿密码、将数据导入工作簿、计算所有公式、设置公式计算精度策略、利用智能标记、在格式之间转换工作簿以及应用密码以允许内容修改。</p><p>您可以执行各种操作，例如删除工作表中的特定行或所有行、访问工作表单元格数据或单元格样式via单元格名称、根据索引检索行或列数据、计算单元格公式、清除单元格内容、复制单元格数据到另一个单元格、复制工作表列和行、对工作表行和列进行分组、隐藏特定工作表行和列、定义工作表列和行的样式、在单元格内设置 html 字符串值、为单元格区域分配值以及修改各种工作表设置。</p>" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}   
 
 {{< blocks/products/cells/cells-cloud-language-card title="支持的文件格式" title2="" >}}

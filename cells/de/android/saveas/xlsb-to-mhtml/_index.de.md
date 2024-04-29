@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSB als MHTML mit Android
-description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von XLSB-Formatdateien als MHTML-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Android, um Dateien im XLSB-Format als Dateien im MHTML-Format zu speichern.
 kwords: Excel, Save XLSB as MHTML, REST, Android
 howto: How to save XLSB as MHTML using Aspose.Cells Cloud Android library.
 ---

@@ -9,21 +9,21 @@ description: Aspose.Cells 云 API 使您能够在任何平台上执行各种文�
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-language-layout imgurl="https://products.aspose.cloud/words/static/img/img/create.png" imgalt="create.png" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="概述" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells 云 API 使您能够<b>在任何平台</b>执行各种文档处理任务，包括在云中创建、操作、转换和呈现 Excel 文档。有了这个API，您可以轻松地将Excel、OpenOffice和其他文件格式转换为各种输出格式，包括PDF、HTML、ODS、XPS、CSV、JSON、Markdown等。" >}}
-    {{< blocks/products/cells/cells-cloud-language-content title="技术支援" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose为其所有产品提供无限制的免费技术支持，所有用户都可以访问，包括使用评估版的用户。如果您需要 Aspose.Cells Cloud 方面的帮助，您可以在 <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud 论坛</a>中发布您的问题，您可以期待几个小时内回复。问题由 Aspose.Cells 云开发团队直接解决。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="概述" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose.Cells 云 API 可让您在<b>任何平台</b>上执行各种文档处理任务，包括在云中创建、操作、转换和渲染 Excel 文档。借助此 API，您可以轻松将 Excel、OpenOffice 和其他文件格式转换为各种输出格式，包括 PDF、HTML、ODS、XPS、CSV、JSON、Markdown 等。" >}}
+    {{< blocks/products/cells/cells-cloud-language-content title="技术支援" msglink="https://products.aspose.cloud/cells/family/" msg="Aspose 为其所有产品提供无限免费技术支持，所有用户（包括使用评估版的用户）均可使用。如果您需要有关 Aspose.Cells Cloud 的帮助，您可以在 <a href=\'https://forum.aspose.cloud/c/cells/7\'>Aspose.Cells Cloud 论坛</a> 中发布您的问题，您将在几个小时内收到回复。问题将直接由 Aspose.Cells Cloud 开发团队解答。" >}}
 {{< /blocks/products/cells/cells-cloud-language-layout >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.Cells 云低代码 API 包括" >}}
 {{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-curl.svg" pfName="Aspose.Cells Cloud" title="Curl 的 SDK" linkurl="/cells/curl" productLink="/cells/curl/" >}}
 {{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-go.svg" pfName="Aspose.Cells Cloud" title="Go 的 SDK" linkurl="/cells/go" productLink="/cells/go/" >}}
-{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-java.svg" pfName="Aspose.Cells Cloud" title="软件开发包 for Java" linkurl="/cells/java" productLink="/cells/java/" >}}
-{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-net.svg" pfName="Aspose.Cells Cloud" title="网络 SDK" linkurl="/cells/net" productLink="/cells/net/" >}}
-{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-node.svg" pfName="Aspose.Cells Cloud" title="节点 SDK" linkurl="/cells/node" productLink="/cells/node/" >}}
-{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-perl.svg" pfName="Aspose.Cells Cloud" title="SDK Perl" linkurl="/cells/perl" productLink="/cells/perl/" >}}
-{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-php.svg" pfName="Aspose.Cells Cloud" title="SDK PHP" linkurl="/cells/php" productLink="/cells/php/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-java.svg" pfName="Aspose.Cells Cloud" title="SDk for Java" linkurl="/cells/java" productLink="/cells/java/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-net.svg" pfName="Aspose.Cells Cloud" title="网络软件开发工具包" linkurl="/cells/net" productLink="/cells/net/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-node.svg" pfName="Aspose.Cells Cloud" title="Node 的 SDK" linkurl="/cells/node" productLink="/cells/node/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-perl.svg" pfName="Aspose.Cells Cloud" title="Perl 的 SDk" linkurl="/cells/perl" productLink="/cells/perl/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-php.svg" pfName="Aspose.Cells Cloud" title="PHP 的 SDk" linkurl="/cells/php" productLink="/cells/php/" >}}
 {{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-python.svg" pfName="Aspose.Cells Cloud" title="Pyhton 的 SDK" linkurl="/cells/python" productLink="/cells/python/" >}}
-{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-ruby.svg" pfName="Aspose.Cells Cloud" title="Ruby 的 SDK" linkurl="/cells/ruby" productLink="/cells/ruby" >}}
-{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" pfName="Aspose.Cells Cloud" title="Swift 的 SDK" linkurl="/cells/swift" productLink="/cells/swift/" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-ruby.svg" pfName="Aspose.Cells Cloud" title="Ruby 版 SDK" linkurl="/cells/ruby" productLink="/cells/ruby" >}}
+{{< blocks/products/cells/cells-cloud-card-support imgSrc="https://products-qa.aspose.cloud/sdk/aspose_cells-for-swift.svg" pfName="Aspose.Cells Cloud" title="适用于 Swift 的 SDK" linkurl="/cells/swift" productLink="/cells/swift/" >}}
 
 
 {{< /blocks/products/pf/product-card-row >}}

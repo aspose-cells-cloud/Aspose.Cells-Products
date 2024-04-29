@@ -2,18 +2,19 @@
 title:  Konvertieren Sie TXT mit Perl in SXC
 description:  Verwendung des Aspose.Cells Cloud SDK für Perl zum Konvertieren einer Datei im TXT-Format in eine Datei im SXC-Format.
 kwords: Excel, Convert TXT to SXC, REST, Perl
-howto: How to convert TXT to SXC using Aspose.Cells Cloud Perl library.
+howto: "{"@context": "https://schema.org","@type": "HowTo","name": "How to convert TXT to SXC using the Cells Cloud Perl library.","description": "How to convert TXT to SXC using the Cells Cloud Perl library.","image": {"@type": "ImageObject"},"url": "/perl/conversion/txt-to-sxc/","step": [{ "@type": "HowToStep","name": "How to convert TXT to SXC using the Cells Cloud Perl library. step 1", "image": {"@type": "ImageObject",},"url": "/perl/conversion/txt-to-sxc/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert TXT to SXC using the Cells Cloud Perl library. step 1", "image": {"@type": "ImageObject",},"url": "/perl/conversion/txt-to-sxc/","text": "Install Perl package and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert TXT to SXC using the Cells Cloud Perl library. step 1", "image": {"@type": "ImageObject",},"url": "/perl/conversion/txt-to-sxc/","text": "Open the source file in Perl.",},{ "@type": "HowToStep","name": "How to convert TXT to SXC using the Cells Cloud Perl library. step 1", "image": {"@type": "ImageObject",},"url": "/perl/conversion/txt-to-sxc/","text": "Use the `put_convert_workbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "VIM, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}"
+fqa: "{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}"
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie TXT in SXC" h2="Perl Bibliothek zum Konvertieren von TXT in SXC" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TXT in SXC und andere Dokumentformate unter Perl." urlsection="conversion/txt-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Konvertieren Sie TXT in SXC" h2="Perl Bibliothek zum Konvertieren von TXT in SXC" p="Verwenden Sie die Konvertierung API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl-Projekten zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TXT in SXC und andere Dokumentformate mit Perl." urlsection="conversion/txt-to-sxc/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Konvertieren Sie TXT in SXC mit dem Cloud SDK Cells für Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TXT in SXC kann eine komplexe Aufgabe sein. Unser Perl SDK übernimmt alle Konvertierungen des TXT- in das SXC-Format und behält dabei den wichtigsten strukturellen und logischen Inhalt der TXT-Quelltabelle bei. Unsere Perl-Bibliothek bietet eine professionelle Lösung für die Online-Konvertierung von TXT- in SXC-Dateien. Dieses Cloud SDK bietet Perl-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige SXC-Ausgabe.
+Das Konvertieren von Dateiformaten von TXT in SXC kann eine komplexe Aufgabe sein. Unser SDK Perl bewältigt alle Konvertierungen vom TXT- ins SXC-Format und bewahrt dabei den strukturellen und logischen Hauptinhalt der TXT-Quelltabelle. Unsere Bibliothek Perl bietet eine professionelle Lösung für die Online-Konvertierung von TXT- in SXC-Dateien. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und gewährleistet eine hochwertige SXC-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Codebeispiel für die Konvertierung von TXT in SXC mit Cells Cloud SDK" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Perl Codebeispiel zur Konvertierung von TXT in SXC mit Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -42,9 +43,9 @@ Das Konvertieren von Dateiformaten von TXT in SXC kann eine komplexe Aufgabe sei
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Erfahren Sie, wie Sie TXT mithilfe der Cloud-Bibliothek Cells Perl in SXC konvertieren." >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So konvertieren Sie TXT in SXC mithilfe der Cells Cloud Perl-Bibliothek." >}}
 <li> Registrieren Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
-<li>Installieren Sie das Paket Perl und fügen Sie die Referenz (importieren Sie die Bibliothek) zu Ihrem Projekt hinzu.</li>
+<li>Installieren Sie das Paket Perl und fügen Sie Ihrem Projekt die Referenz hinzu (importieren Sie die Bibliothek).</li>
 <li>Öffnen Sie die Quelldatei in Perl.</li>
 <li>Verwenden Sie die Methode `put_convert_workbook`, um den resultierenden Stream abzurufen.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

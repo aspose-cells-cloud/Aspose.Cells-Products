@@ -4,7 +4,7 @@ description:  Använder Aspose.Cells Cloud SDK för Android för att spara SXC-f
 kwords: Excel, Save SXC as XLT, REST, Android
 howto: How to save SXC as XLT using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="Spara SXC som XLT" h2="Android-bibliotek för att spara SXC som XLT" p="Använd SaveAs API av Cells Cloud för att skapa anpassade arbetsflöden för kalkylblad i Android. Detta är en professionell lösning för att spara SXC som XLT och andra dokumentformat online med Android." urlsection="saveas/sxc-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Spara SXC som XLT" h2="Android-bibliotek för att spara SXC som XLT" p="Använd SaveAs API av Cells Cloud för att skapa anpassade kalkylbladsarbetsflöden i Android. Detta är en professionell lösning för att spara SXC som XLT och andra dokumentformat online med Android." urlsection="saveas/sxc-to-xlt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Spara en SXC-fil som XLT i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}

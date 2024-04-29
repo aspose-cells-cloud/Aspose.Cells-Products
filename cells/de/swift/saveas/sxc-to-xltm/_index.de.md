@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie SXC als XLTM API für Swift
-description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von SXC-Formatdateien als XLTM-Formatdateien.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Swift, um Dateien im SXC-Format als Dateien im XLTM-Format zu speichern.
 url: /de/swift/saveas/sxc-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -9,7 +9,7 @@ description: Använda Aspose.Cells Cloud SDK för Android för att konvertera en
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera XLSM till CSV med Cells Cloud SDK för Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSM till CSV kan vara en komplex uppgift. Vår Android SDK hanterar alla konverteringar av XLSM till CSV-format samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLSM-kalkylblad bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera XLSM till CSV-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer CSV-utdata av hög kvalitet.
+Att konvertera filformat från XLSM till CSV kan vara en komplex uppgift. Vår Android SDK hanterar alla XLSM- till CSV-formatkonverteringar samtidigt som det huvudsakliga strukturella och logiska innehållet i källbladets XLSM-kalkylblad bevaras. Vårt Android-bibliotek erbjuder en professionell lösning för att konvertera XLSM till CSV-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och säkerställer CSV-utdata av hög kvalitet.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Android-kodexempel för att konvertera XLSM till CSV med Cells Cloud SDK" gistPath="" %}}

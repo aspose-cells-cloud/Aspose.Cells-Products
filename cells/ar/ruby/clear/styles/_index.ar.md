@@ -3,7 +3,7 @@ title:  مسح الأنماط في المصنف المحلي في السحابة
 description:  واجهات برمجة التطبيقات السحابية ومجموعات SDK لمسح الأنماط على Microsoft Excel وOpenOffice Calc. مسح الأنماط في جداول البيانات المحلية بواسطة Cells Cloud API. يدعم SDK أنواع لغات التطوير. وهي تشمل Android وC# وGo وJava وNodeJS وPerl وPHP وPython وRuby وswift.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الأنماط على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="Ruby Clear لمسح الأنماط على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأنماط على Microsoft المحلي Excel وسير عمل جداول بيانات OpenOffice Calc في Ruby. يقوم هذا الحل الاحترافي بمسح الأنماط على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="إزالة الأنماط على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc" h2="Ruby Clear لمسح الأنماط على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأنماط على Microsoft المحلي وExcel وسير عمل جداول بيانات OpenOffice Calc في Ruby. يقوم هذا الحل الاحترافي بمسح الأنماط على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأنماط على Microsoft المحلي وExcel وجدول بيانات OpenOffice Calc - Ruby REST API" >}}

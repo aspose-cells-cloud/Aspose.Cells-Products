@@ -9,7 +9,7 @@ description: Использование Cloud SDK Aspose.Cells для Android д
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте HTML в CSV с помощью Cloud SDK Cells для Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в CSV может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата HTML в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертирования HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
+Преобразование форматов файлов из HTML в CSV может оказаться сложной задачей. Наш Android SDK обрабатывает все преобразования формата HTML в формат CSV, сохраняя при этом основное структурное и логическое содержимое исходной таблицы HTML. Наша библиотека Android предоставляет профессиональное решение для онлайн-конвертации HTML в файлы CSV. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и обеспечивает высококачественный вывод CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода Android для преобразования HTML в CSV с использованием Cells Cloud SDK" gistPath="" %}}

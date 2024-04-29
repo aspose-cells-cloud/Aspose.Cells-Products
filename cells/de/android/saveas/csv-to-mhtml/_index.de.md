@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie CSV als MHTML mit Android
-description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern von CSV-Formatdateien als MHTML-Formatdateien.
+description:  Verwendung des Cloud SDK Aspose.Cells für Android zum Speichern von CSV-Formatdateien als MHTML-Formatdateien.
 kwords: Excel, Save CSV as MHTML, REST, Android
 howto: How to save CSV as MHTML using Aspose.Cells Cloud Android library.
 ---

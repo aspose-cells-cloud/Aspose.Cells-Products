@@ -1,9 +1,9 @@
 ﻿---
 title: Bulutta C# ile yerel çalışma kitabına filigran ekleyin
-description:  Microsoft Excel için filigran eklemek için Bulut API'leri ve SDK'lar ve C# ile OpenOffice Calc. C# için Cells Cloud API SDK ile yerel e-tablolar için filigran ekleme.
+description:  Microsoft Excel için filigran eklemek için Cloud API'leri ve SDK'lar ve C# ile OpenOffice Calc. C# için Cells Cloud API SDK ile yerel e-tablolar için filigran ekleme.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosuna filigran eklemek için C# API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosuna filigran eklemek için C# kitaplığı" p="Yerel Microsoft Excel ve C#\'deki OpenOffice Calc elektronik tablo iş akışlarına filigran eklemek için Cells Filigranı REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Excel ve OpenOffice Calc elektronik tablosu için C#\'i kullanarak çevrimiçi filigran ekler." urlsection="background/Add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosuna filigran eklemek için C# API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosuna filigran eklemek için C# kütüphanesi" p="Yerel Microsoft Excel ve C#\'deki OpenOffice Calc elektronik tablo iş akışlarına filigran eklemek için Cells Filigranı REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Excel ve OpenOffice Calc elektronik tablosu için C#\'i kullanarak çevrimiçi filigran ekler." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosu için filigran ekleyin - C# REST API" >}}
@@ -17,8 +17,8 @@ C# numaralı yerel bir e-tabloya filigran eklemek karmaşık bir iştir. Yerel b
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyasına filigran eklemek için Net için Cells Cloud SDK nasıl kullanılır?" >}}
-<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme detaylarını</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cells dosyasına filigran eklemek için Net için Cells Cloud SDK nasıl kullanılır?" >}}
+<li> Şu adreste bir hesap oluşturun:<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> ücretsiz almak için API kota ve yetkilendirme ayrıntılarını</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için PostWatermark yöntemini çağırın</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}

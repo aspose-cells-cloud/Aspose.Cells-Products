@@ -1,6 +1,6 @@
 ﻿---
-title:  Konvertieren Sie XLT mit Android in XLS
-description:  Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im XLT-Format in eine Datei im XLS-Format.
+title:  Konvertieren Sie XLT in XLS mit Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im XLT-Format in eine Datei im XLS-Format zu konvertieren.
 kwords: Excel, Convert XLT to XLS, REST, Android
 howto: How to convert XLT to XLS using Aspose.Cells Cloud Android library.
 ---

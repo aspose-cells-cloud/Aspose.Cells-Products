@@ -13,7 +13,7 @@ howto: How to convert CSV to XLSB using Aspose.Cells Cloud Android library.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/cells/cells-cloud-noreplacecode title="Пример кода Android для преобразования CSV в XLSB с использованием Cloud SDK Cells" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Пример кода Android для преобразования CSV в XLSB с помощью Cloud SDK Cells" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

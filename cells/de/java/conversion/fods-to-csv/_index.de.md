@@ -25,7 +25,7 @@ otherformats: XLSB DIF XLSX XPS XLTX PDF XML XLSM CSV MD HTML FODS XLTM TSV SVG 
 {{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit dem SDK Excel, API und Java" %}}
  Holen Sie sich den Quellcode Excel Cloud SDK for Java von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
 
- Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
+ Schauen Sie sich auch Swagger-basierte[API Referenz](https://apireference.aspose.cloud/cells/) Erfahren Sie mehr über die[Excel RUHET API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code zum Konvertieren von FODS in CSV" gistPath="" %}}

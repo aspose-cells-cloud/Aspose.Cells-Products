@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie ODS mit Android in MD
+title:  Konvertieren Sie ODS in MD mit Android
 description: Verwendung des Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im ODS-Format in eine Datei im MD-Format.
 kwords: Excel, Convert ODS to MD, REST, Android
 howto: How to convert ODS to MD using Aspose.Cells Cloud Android library.

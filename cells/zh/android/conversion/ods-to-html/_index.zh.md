@@ -1,6 +1,6 @@
 ﻿---
-title: 使用Android将ODS转换为HTML
-description: 利用Aspose.Cells Cloud SDK for Android将ODS格式文件转换为HTML格式文件。
+title: 使用 Android 将 ODS 转换为 HTML
+description: 利用 Aspose.Cells Cloud SDK for Android 将 ODS 格式文件转换为 HTML 格式文件。
 kwords: Excel, Convert ODS to HTML, REST, Android
 howto: How to convert ODS to HTML using Aspose.Cells Cloud Android library.
 ---

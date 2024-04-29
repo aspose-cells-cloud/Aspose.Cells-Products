@@ -4,12 +4,12 @@ description:  Verwendung von Aspose.Cells Cloud SDK für Android zum Speichern v
 kwords: Excel, Save TSV as TXT, REST, Android
 howto: How to save TSV as TXT using Aspose.Cells Cloud Android library.
 ---
-{{< blocks/products/cells/cells-cloud-banner h1="TSV als TXT speichern" h2="Android-Bibliothek zum Speichern von TSV als TXT" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von TSV als TXT und anderen Dokumentformaten mit Android." urlsection="saveas/tsv-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-banner h1="TSV als TXT speichern" h2="Android-Bibliothek zum Speichern von TSV als TXT" p="Verwenden Sie SaveAs API von Cells Cloud, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um TSV als TXT und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/tsv-to-txt/" >}}
 
 {{< blocks/products/cells/cells-cloud-section title="Speichern Sie eine TSV-Datei als TXT in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von TSV als TXT ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum TXT-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um TSV als TXT-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
+Das Speichern von Dateiformaten von TSV als TXT ist eine komplexe Aufgabe. Alle Formatübergänge von TSV zu TXT werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle TSV erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von TSV als TXT-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte TXT-Ausgabe.
 
 {{< /blocks/products/cells/cells-cloud-section >}}
 

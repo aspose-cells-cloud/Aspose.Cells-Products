@@ -1,6 +1,6 @@
 ﻿---
 title: 清除云端本地工作簿上的图片
-description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的图片的云 API 和 SDK。通过Cells云API清除本地电子表格上的图片。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上图片的云 API 和 SDK。通过 Cells 云 API 清除本地电子表格上的图片。SDK 支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/swift/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -20,7 +20,7 @@ url: /zh/swift/clear/pictures/
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Swift API清除图片" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
-<li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
+<li>使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 postClearObjects 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
