@@ -1,21 +1,22 @@
 ---
 title: Convert NUMBERS to CSV using NodeJS 
 description: Utilizing the Aspose.Cells Cloud SDK for NodeJS to convert a NUMBERS format file to a CSV format file. 
-
+kwords: Excel, Convert NUMBERS to CSV, REST, NodeJS
+howto: {"@context": "https://schema.org","@type": "HowTo","name": "How to convert NUMBERS to CSV using the Cells Cloud NodeJS library.","description": "How to convert NUMBERS to CSV using the Cells Cloud NodeJS library.","image": {"@type": "ImageObject"},"url": "/nodejs/conversion/numbers-to-csv/","step": [{ "@type": "HowToStep","name": "How to convert NUMBERS to CSV using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/conversion/numbers-to-csv/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert NUMBERS to CSV using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/conversion/numbers-to-csv/","text": "Install NodeJS library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert NUMBERS to CSV using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/conversion/numbers-to-csv/","text": "Open the source file in JavaScript.",},{ "@type": "HowToStep","name": "How to convert NUMBERS to CSV using the Cells Cloud NodeJS library. step 1", "image": {"@type": "ImageObject",},"url": "/nodejs/conversion/numbers-to-csv/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "Visual Studio, Visual Studio Code, WebStorm"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}
+fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}
 ---
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Convert NUMBERS to CSV" h2="NodeJS library for converting NUMBERS to CSV" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in NodeJS projects. This is a professional solution to convert NUMBERS to CSV and other document formats online using NodeJS." urlsection="conversion/numbers-to-csv/" >}}
-{{< blocks/products/pf/main-container >}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convert NUMBERS to CSV" h2="NodeJS library for converting NUMBERS to CSV" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in NodeJS projects. This is a professional solution to convert NUMBERS to CSV and other document formats online using NodeJS." urlsection="conversion/numbers-to-csv/" >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert NUMBERS to CSV using Cells Cloud SDK for NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section  title="Convert NUMBERS to CSV using Cells Cloud SDK for NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from NUMBERS to CSV can be a complex task. Our NodeJS SDK handles all NUMBERS to CSV format conversions while preserving the main structural and logical content of the source NUMBERS spreadsheet. Our NodeJS library provides a professional solution for converting NUMBERS to CSV files online. This Cloud SDK empowers NodeJS developers with powerful functionality and ensures high-quality CSV output.
-<br/>
-<br/>
-{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for converting NUMBERS to CSV using Cells Cloud SDK" gistPath="" %}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{% blocks/products/cells/cells-cloud-noreplacecode title="NodeJS Code Example for converting NUMBERS to CSV using Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -34,21 +35,15 @@ Converting file formats from NUMBERS to CSV can be a complex task. Our NodeJS SD
     });
 ```
  
-{{% /blocks/products/cells/cells-cloud-code-div  %}}
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
 <br/>
-<br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to convert Excel files to other formats NUMBERS to CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to convert NUMBERS to CSV using the Cells Cloud NodeJS library." >}}
 <li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Install NodeJS library and add the reference (import the library) to your project.</li>
+<li>Open the source file in JavaScript.</li>
 <li>Use the `putConvertWorkbook` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-<br/>
-<br/>
+
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
 <li>node v6.17.1 or newer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
-
-{{< /blocks/products/cells/cells-cloud-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}

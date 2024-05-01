@@ -1,56 +1,62 @@
 ---
-title: Convert FODS to CSV in the Cloud via Java 
-description: Create, Edit or Convert Excel files with REST API & Open Source Java SDK
-url: /java/conversion/fods-to-csv/
-family: cells
-platformtag: java
-feature: conversion
-informat: FODS
-outformat: CSV
-platform: Java
-otherformats: XLSB DIF XLSX XPS XLTX PDF XML XLSM CSV MD HTML FODS XLTM TSV SVG MHTML 
+title: Convert FODS to CSV using Java 
+description: Utilizing the Aspose.Cells Cloud SDK for Java to convert a FODS format file to a CSV format file. 
+kwords: Excel, Convert FODS to CSV, REST, Java
+howto: {"@context": "https://schema.org","@type": "HowTo","name": "How to convert FODS to CSV using the Cells Cloud Java library.","description": "How to convert FODS to CSV using the Cells Cloud Java library.","image": {"@type": "ImageObject"},"url": "/java/conversion/fods-to-csv/","step": [{ "@type": "HowToStep","name": "How to convert FODS to CSV using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/fods-to-csv/","text": "Register an account at <a href='https://dashboard.aspose.cloud/'>Dashboard</a> to get free API quota & authorization details",},{ "@type": "HowToStep","name": "How to convert FODS to CSV using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/fods-to-csv/","text": "Install Java library and add the reference (import the library) to your project.",},{ "@type": "HowToStep","name": "How to convert FODS to CSV using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/fods-to-csv/","text": "Open the source file in Java.",},{ "@type": "HowToStep","name": "How to convert FODS to CSV using the Cells Cloud Java library. step 1", "image": {"@type": "ImageObject",},"url": "/java/conversion/fods-to-csv/","text": "Use the `putConvertWorkbook` method to retrieve the resulting stream.",}, ],"supply": {"@type": "HowToSupply","name": "document"},"tool": [{"@type": "HowToTool","name": "IntelliJ IDEA, Visual Studio Code, Eclipse"},{"@type": "HowToTool","name": "Aspose Cells"}],"totalTime": "PT6M"}
+fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why convert file formats in C# using REST API?","acceptedAnswer":{"@type":"Answer","text":"Documents are encoded in many ways, and some files may be incompatible with the software you use. To open and read such files, just convert them to appropriate file formats.<br/><ol><li>Install .NET SDK and add the reference (import the library) to your project.</li><li>Open the source file in C# using REST API.</li><li>Call the PutConvertWorkbookRequest() method, passing an output filename with required extension.</li><li>Get the result of conversion as a separate file.</li></ol>"}},{"@type":"Question","name":"What file formats can I convert with your C# library?","acceptedAnswer":{"@type":"Answer","text":"We support a variety of file formats for conversion using .NET library, including XLSX, Excel, xls , PDF, CSV, HTML, Markdown, XML, PNG, JPG, TIFF, Json, TXT and many more."}},{"@type":"Question","name":"What is the maximum allowed file size for conversion using this .NET library?","acceptedAnswer":{"@type":"Answer","text":"There are no file size limits for format conversions using .NET library."}}]}
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert FODS to CSV with Java" h2="Automate Excel & OpenOffice file conversion with open source Cloud SDK for Java">}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Simple FODS to CSV Conversion" %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Upload FODS file to default Cloud Storage with ```CellsApi.Upload``` method
-1. Call ```CellsApi.cellsWorkbookGetWorkbook``` to get the resultant CSV file
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-banner h1="Convert FODS to CSV" h2="Java library for converting FODS to CSV" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Java projects. This is a professional solution to convert FODS to CSV and other document formats online using Java." urlsection="conversion/fods-to-csv/" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel API & Java SDK" %}}
-Get Excel Cloud SDK for Java source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{< blocks/products/cells/cells-cloud-section  title="Convert FODS to CSV using Cells Cloud SDK for Java" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+<br/>
+Converting file formats from FODS to CSV can be a complex task. Our Java SDK handles all FODS to CSV format conversions while preserving the main structural and logical content of the source FODS spreadsheet. Our Java library provides a professional solution for converting FODS to CSV files online. This Cloud SDK empowers Java developers with powerful functionality and ensures high-quality CSV output.
 
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/pf/agp/code-autogen title="Java Code to Convert FODS to CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-noreplacecode title="Java Code Example for converting FODS to CSV using Cells Cloud SDK" gistPath="" %}}
+ 
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-try {
-    CellsApi api = new CellsApi(System.getenv("CellsCloudTestClientId"), System.getenv("CellsCloudTestClientSecret"), "v3.0", System.getenv("CellsCloudTestApiBaseUrl"));
-    String name = BOOK1;
-    String password = null;
-    Boolean isAutoFit = true;
-    Boolean onlySaveTable = true;
-    String format = "CSV";
-    String folder = TEMPFOLDER;
-    api.uploadFile( folder +"/"+ name, new File("c:\\TestData\\" + name) , null);
-    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
-}
-catch (Exception e) {
-    e.printStackTrace();
-}
+    import java.io.File;
+    import com.aspose.cloud.cells.api.*;
+    public class Conversion {
+        public static void main(String[] args) {
+            String name =  "Book1.fods";
+            String format = "csv";
+            String password = null;
+            String outPath = null;
+            String destFile = "DestFile.csv";
+            try {
+                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                if(response.canRead())
+                {
+                    if(response.exists()){
+                        response.renameTo(new File(destFile));
+                    }                
+                }
+            }
+            catch(Exception exception )
+            {
+                System.out.print(exception);
+            }
+        }
+    }
 ```
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+ 
+{{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to convert FODS to CSV using the Cells Cloud Java library." >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Install Java library and add the reference (import the library) to your project.</li>
+<li>Open the source file in Java.</li>
+<li>Use the `putConvertWorkbook` method to retrieve the resulting stream.</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>Maven 2.2.0 or newer</li>
+<li>Java(TM) SE Runtime Environment</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
