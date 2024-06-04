@@ -7,15 +7,15 @@ description:  Aspose.Cells Cloud REST API поддерживает настро�
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/watermark" %}}  
-{{< /blocks/products/pf/agp/feature-section >}}    
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="POST" apiurl="https://api.aspose.cloud/v3.0/cells/watermark" %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/cells/cells-cloud-api-template btName="Background" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostWatermark" >}}  
+{{< blocks/products/cells/cells-cloud-api-template btName="Background" OutResultType="Variable" OutResultDataType="Class" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/#/LightCells/PostWatermark" >}}
 
-	{{< blocks/products/cells/cells-cloud-upload >}}  
+	{{< blocks/products/cells/cells-cloud-upload >}}
 	{{< blocks/products/cells/cells-cloud-parameters itName="color" required="true" prompt="color" >}}
 	{{< blocks/products/cells/cells-cloud-parameters itName="text" required="true" prompt="text" >}}
-{{% blocks/products/cells/cells-cloud-showcode %}}  
+{{% blocks/products/cells/cells-cloud-showcode %}}
 ```cs
 
 	using Aspose.Cells.Cloud.SDK.Api;
@@ -32,11 +32,11 @@ description:  Aspose.Cells Cloud REST API поддерживает настро�
     request.color = "#ccc";
     request.text = "Aspose.Cells Cloud";
 	Aspose.Cells.Cloud.SDK.Model.FilesResult result = cellsApi.PostWatermark(request);
-	fileStream.Close();    
-	     
-```     
-{{% /blocks/products/cells/cells-cloud-showcode %}}      
-{{< /blocks/products/cells/cells-cloud-api-template >}}  
+	fileStream.Close();
+
+```
+{{% /blocks/products/cells/cells-cloud-showcode %}}
+{{< /blocks/products/cells/cells-cloud-api-template >}}
 
 
 {{< blocks/products/pf/product-card-row title="Популярные операции" >}}
@@ -48,7 +48,7 @@ description:  Aspose.Cells Cloud REST API поддерживает настро�
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for PHP" title="Добавить водяной знак для нескольких файлов Excel." imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/php/background/add-watermark/" >}}
 
-{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Node" title="Добавить водяной знак для нескольких файлов Excel." imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/node/background/add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Node" title="Добавить водяной знак для нескольких файлов Excel." imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/nodejs/background/add-watermark/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Python" title="Добавить водяной знак для нескольких файлов Excel." imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/background/add-watermark/" >}}
 {{< /blocks/products/pf/product-card-row >}}
