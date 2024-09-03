@@ -4,6 +4,7 @@ description: Indeed, Aspose.Cells Cloud offers strong support for adding text wa
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Add text watermark to Excel files and generate output files in various formats." h2="Indeed, Aspose.Cells Cloud offers strong support for adding text watermark to Excel files and generating output files in various formats." p="Aspose.Cells Cloud provides REST API which supports adding text watermark to Excel files and generating output files in various formats and offers SDKs for multiple programming languages. These programming languages are include of Net, Java, Go, NodeJS, Python, and so on." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

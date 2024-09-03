@@ -3,6 +3,7 @@ title: مسح العناصر الداخلية في ملفات Excel وإنشاء
 description: في الواقع، يوفر Aspose.Cells Cloud دعمًا قويًا لمسح العناصر الداخلية في ملفات Excel وإنشاء ملفات الإخراج بتنسيقات مختلفة.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="مسح العناصر الداخلية في ملفات Excel وإنشاء ملفات الإخراج بتنسيقات مختلفة." h2="في الواقع، يوفر Aspose.Cells Cloud دعمًا قويًا لمسح العناصر الداخلية في ملفات Excel وإنشاء ملفات الإخراج بتنسيقات مختلفة." p="توفر السحابة Aspose.Cells REST API الذي يدعم مسح العناصر الداخلية في ملفات Excel وإنشاء ملفات الإخراج بتنسيقات مختلفة ويوفر SDKs للغات برمجة متعددة. تتضمن لغات البرمجة هذه Net وJava وGo وNodeJS وPython وما إلى ذلك." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

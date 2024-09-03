@@ -3,6 +3,7 @@ title: Effacez les éléments internes des fichiers Excel et générez des fichi
 description: En effet, Aspose.Cells Cloud offre un support solide pour effacer les éléments internes des fichiers Excel et générer des fichiers de sortie dans différents formats.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Effacez les éléments internes des fichiers Excel et générez des fichiers de sortie dans différents formats." h2="En effet, Aspose.Cells Cloud offre un support solide pour effacer les éléments internes des fichiers Excel et générer des fichiers de sortie dans différents formats." p="Aspose.Cells Cloud fournit REST API qui prend en charge la suppression des éléments internes dans les fichiers Excel et la génération de fichiers de sortie dans différents formats et propose des SDK pour plusieurs langages de programmation. Ces langages de programmation incluent Net, Java, Go, NodeJS, Python, etc." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

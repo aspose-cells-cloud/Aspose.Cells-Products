@@ -1,6 +1,6 @@
 ---
-title: Protect Excel files using C# 
-description: Aspose.Cells Cloud REST API supports encrypting, decrypting, and adding digital signatures to workbooks using C#, and offers SDKs for various programming languages. 
+title: Protect Excel files using C#
+description: Aspose.Cells Cloud REST API supports encrypting, decrypting, and adding digital signatures to workbooks using C#, and offers SDKs for various programming languages.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -9,7 +9,7 @@ description: Aspose.Cells Cloud REST API supports encrypting, decrypting, and ad
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
 {{< blocks/products/cells/cells-cloud-card-row title="Protect Excel files using C# Extension links" >}}
-{{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/net/protect" >}} 
+{{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/net/protect" >}}
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
 

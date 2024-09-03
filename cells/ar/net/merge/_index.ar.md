@@ -3,6 +3,7 @@ title: دمج الخلايا في ورقة العمل.
 description: Aspose.Cells توفر السحابة دعمًا قويًا لدمج الخلايا في ورقة العمل، وهي عملية معروفة بتعقيدها.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="دمج الخلايا في ورقة العمل." h2="Aspose.Cells توفر السحابة دعمًا قويًا لدمج الخلايا في ورقة العمل، وهي عملية معروفة بتعقيدها." p="توفر السحابة Aspose.Cells REST API الذي يدعم دمج الخلايا في ورقة العمل ويوفر مجموعات تطوير البرامج (SDK) للغات برمجة متعددة. تتضمن لغات البرمجة هذه Net وJava وGo وNodeJS وPython وما إلى ذلك." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

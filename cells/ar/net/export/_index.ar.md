@@ -3,6 +3,7 @@ title: قم بتصدير العناصر الداخلية Excel أو المصنف
 description: توفر السحابة Aspose.Cells دعمًا قويًا لتصدير العناصر الداخلية Excel أو المصنف نفسه إلى ملفات بتنسيقات مختلفة، وهي عملية معروفة بتعقيدها. يدعم Aspose.Cells Cloud أكثر من 30 تنسيقًا للملفات، بما في ذلك Excel وPdf وMarkdown وJson وXML وCsv وHtml وما إلى ذلك.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="قم بتصدير العناصر الداخلية Excel أو المصنف نفسه إلى ملفات بتنسيقات مختلفة." h2="توفر السحابة Aspose.Cells دعمًا قويًا لتصدير العناصر الداخلية Excel أو المصنف نفسه إلى ملفات بتنسيقات مختلفة، وهي عملية معروفة بتعقيدها. يدعم Aspose.Cells Cloud أكثر من 30 تنسيقًا للملفات، بما في ذلك Excel وPdf وMarkdown وJson وXML وCsv وHtml وما إلى ذلك." p="توفر السحابة Aspose.Cells REST API الذي يدعم تصدير Excel عنصرًا داخليًا أو المصنف نفسه إلى ملفات بتنسيقات مختلفة ويوفر حزم SDK للغات برمجة متعددة. تتضمن لغات البرمجة هذه Net وJava وGo وNodeJS وPython وما إلى ذلك." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

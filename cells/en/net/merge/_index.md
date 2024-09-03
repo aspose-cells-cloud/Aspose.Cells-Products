@@ -4,6 +4,7 @@ description: Aspose.Cells Cloud provides robust support for merging cells in the
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Merge cells in the worksheet." h2="Aspose.Cells Cloud provides robust support for merging cells in the worksheet, a process known for its intricacy." p="Aspose.Cells Cloud provides REST API which supports merging cells in the worksheet and offers SDKs for multiple programming languages. These programming languages are include of Net, Java, Go, NodeJS, Python, and so on." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

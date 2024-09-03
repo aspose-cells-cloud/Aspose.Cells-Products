@@ -3,6 +3,7 @@ title: أضف علامة مائية نصية إلى ملفات Excel وقم بإ
 description: في الواقع، يوفر Aspose.Cells Cloud دعمًا قويًا لإضافة علامة مائية نصية إلى ملفات Excel وإنشاء ملفات الإخراج بتنسيقات مختلفة.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="أضف علامة مائية نصية إلى ملفات Excel وقم بإنشاء ملفات الإخراج بتنسيقات مختلفة." h2="في الواقع، يوفر Aspose.Cells Cloud دعمًا قويًا لإضافة علامة مائية نصية إلى ملفات Excel وإنشاء ملفات الإخراج بتنسيقات مختلفة." p="توفر السحابة Aspose.Cells REST API الذي يدعم إضافة علامة مائية نصية إلى ملفات Excel وإنشاء ملفات الإخراج بتنسيقات مختلفة وتوفر SDKs للغات برمجة متعددة. تتضمن لغات البرمجة هذه Net وJava وGo وNodeJS وPython وما إلى ذلك." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

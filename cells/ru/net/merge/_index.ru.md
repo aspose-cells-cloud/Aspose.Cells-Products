@@ -3,6 +3,7 @@ title: Объединить ячейки на листе.
 description: Aspose.Cells Облако обеспечивает надежную поддержку объединения ячеек на листе — процесса, известного своей сложностью.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Объединить ячейки на листе." h2="Aspose.Cells Облако обеспечивает надежную поддержку объединения ячеек на листе — процесса, известного своей сложностью." p="Aspose.Cells Облако предоставляет REST API, который поддерживает объединение ячеек на листе и предлагает SDK для нескольких языков программирования. К этим языкам программирования относятся Net, Java, Go, NodeJS, Python и так далее." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

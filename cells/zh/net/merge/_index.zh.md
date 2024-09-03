@@ -3,6 +3,7 @@ title: 合并工作表中的单元格。
 description: Aspose.Cells 云为合并工作表中的单元格提供强大的支持，这是一个以其复杂性而闻名的过程。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="合并工作表中的单元格。" h2="Aspose.Cells 云为合并工作表中的单元格提供强大的支持，这是一个以其复杂性而闻名的过程。" p="Aspose.Cells 云提供REST API，支持合并工作表中的单元格，并提供多种编程语言的SDK。这些编程语言包括Net、Java、Go、NodeJS、Python等。" urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

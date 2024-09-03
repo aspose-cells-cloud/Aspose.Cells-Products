@@ -3,6 +3,7 @@ title: Exportez les éléments internes Excel ou le classeur lui-même vers diff
 description: Aspose.Cells Cloud offre une prise en charge robuste pour l'exportation d'éléments internes Excel ou du classeur lui-même vers différents formats de fichiers, un processus connu pour sa complexité. Aspose.Cells Cloud prend en charge plus de 30 formats de fichiers, dont Excel, Pdf, Markdown, Json, XML, Csv, Html, etc.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Exportez les éléments internes Excel ou le classeur lui-même vers différents formats de fichiers." h2="Aspose.Cells Cloud offre une prise en charge robuste pour l\'exportation d\'éléments internes Excel ou du classeur lui-même vers différents formats de fichiers, un processus connu pour sa complexité. Aspose.Cells Cloud prend en charge plus de 30 formats de fichiers, dont Excel, Pdf, Markdown, Json, XML, Csv, Html, etc." p="Aspose.Cells Cloud fournit REST API qui prend en charge l\'exportation d\'éléments internes Excel ou du classeur lui-même vers différents formats de fichiers et propose des SDK pour plusieurs langages de programmation. Ces langages de programmation incluent Net, Java, Go, NodeJS, Python, etc." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

@@ -3,6 +3,7 @@ title: Fusionnez les cellules dans la feuille de calcul.
 description: Aspose.Cells Cloud fournit un support robuste pour la fusion de cellules dans la feuille de calcul, un processus connu pour sa complexité.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionnez les cellules dans la feuille de calcul." h2="Aspose.Cells Cloud fournit un support robuste pour la fusion de cellules dans la feuille de calcul, un processus connu pour sa complexité." p="Aspose.Cells Cloud fournit REST API qui prend en charge la fusion de cellules dans la feuille de calcul et propose des SDK pour plusieurs langages de programmation. Ces langages de programmation incluent Net, Java, Go, NodeJS, Python, etc." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

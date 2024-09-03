@@ -3,6 +3,7 @@ title: Agregue marcas de agua de texto a archivos Excel y genere archivos de sal
 description: De hecho, Aspose.Cells Cloud ofrece un sólido soporte para agregar marcas de agua de texto a archivos Excel y generar archivos de salida en varios formatos.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Agregue marcas de agua de texto a archivos Excel y genere archivos de salida en varios formatos." h2="De hecho, Aspose.Cells Cloud ofrece un sólido soporte para agregar marcas de agua de texto a archivos Excel y generar archivos de salida en varios formatos." p="Aspose.Cells Cloud proporciona REST API que admite agregar marcas de agua de texto a archivos Excel y generar archivos de salida en varios formatos y ofrece SDK para múltiples lenguajes de programación. Estos lenguajes de programación incluyen Net, Java, Go, NodeJS, Python, etc." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}

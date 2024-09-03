@@ -3,6 +3,7 @@ title: Aggiungi filigrana di testo ai file Excel e genera file di output in vari
 description: In effetti, Aspose.Cells Cloud offre un forte supporto per aggiungere filigrana di testo ai file Excel e generare file di output in vari formati.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-ai-assistant >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Aggiungi filigrana di testo ai file Excel e genera file di output in vari formati." h2="In effetti, Aspose.Cells Cloud offre un forte supporto per aggiungere filigrana di testo ai file Excel e generare file di output in vari formati." p="Aspose.Cells Cloud fornisce REST API che supporta l\'aggiunta di filigrana di testo ai file Excel e la generazione di file di output in vari formati e offre SDK per più linguaggi di programmazione. Questi linguaggi di programmazione includono Net, Java, Go, NodeJS, Python e così via." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
