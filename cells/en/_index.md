@@ -11,16 +11,16 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Low Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud for cURL" imgSrc="/sdk/aspose_cells-for-curl.svg" productLink="/cells/curl/" >}}
-Access, process & manipulate cloud-based spreadsheets using cURL via REST API.
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Python" imgSrc="/sdk/aspose_cells-for-python.svg" productLink="/cells/python/" >}}
+Access, process & manipulate cloud-based spreadsheets using Python via REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
 Enhance your .NET cloud applications to generate, view, & convert Excel sheets in C# or other .NET supported language.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-Build cloud Excel & OpenOffice spreadsheet generator & exporter apps in Java via REST API.
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_cells-for-node.svg" productLink="/cells/nodejs/" >}}
+Build cloud Excel & OpenOffice spreadsheet generator & exporter apps in node.js via REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="/cells/family/" innerText="View All Low Code APIs" >}}
