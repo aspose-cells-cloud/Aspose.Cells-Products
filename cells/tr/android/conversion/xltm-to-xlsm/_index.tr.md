@@ -2,7 +2,6 @@
 title:  Android'i kullanarak XLTM'yi XLSM'ye dönüştürün
 description: XLTM biçimindeki bir dosyayı XLSM biçimindeki dosyaya dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 kwords: Excel, Convert XLTM to XLSM, REST, Android
-howto: How to convert XLTM to XLSM using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="XLTM\'yi XLSM\'ye dönüştür" h2="XLTM\'yi XLSM\'ye dönüştürmek için Android kitaplığı" p="Android projelerinde özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Bulut\'un API Dönüşümünü kullanın. Bu, Android\'i kullanarak XLTM\'yi XLSM\'ye ve diğer belge formatlarına çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltm-to-xlsm/" >}}
 
@@ -14,7 +13,7 @@ Dosya formatlarını XLTM'den XLSM'ye dönüştürmek karmaşık bir iş olabili
 {{< /blocks/products/cells/cells-cloud-section >}}
 
 {{% blocks/products/cells/cells-cloud-noreplacecode title="Cells Cloud SDK\'yı kullanarak XLTM\'yi XLSM\'ye dönüştürmek için Android Kod Örneği" gistPath="" %}}
- 
+
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
         import java.io.File;
@@ -28,12 +27,12 @@ Dosya formatlarını XLTM'den XLSM'ye dönüştürmek karmaşık bir iş olabili
                 String destFile = "DestFile.xlsm";
                 try {
                     CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
-                    File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                    File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);
                     if(response.canRead())
                     {
                         if(response.exists()){
                             response.renameTo(new File(destFile));
-                        }                
+                        }
                     }
                 }
                 catch(Exception exception )
@@ -43,7 +42,7 @@ Dosya formatlarını XLTM'den XLSM'ye dönüştürmek karmaşık bir iş olabili
             }
         }
 ```
- 
+
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Excel dosyalarını diğer formatlara dönüştürmek için Android için Cells Cloud SDK nasıl kullanılır?" >}}

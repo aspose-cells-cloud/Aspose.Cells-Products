@@ -2,7 +2,6 @@
 title: 使用 Android 将 TXT 转换为 XLSM
 description: 利用Aspose.Cells Cloud SDK for Android将TXT格式文件转换为XLSM格式文件。
 kwords: Excel, Convert TXT to XLSM, REST, Android
-howto: How to convert TXT to XLSM using Aspose.Cells Cloud Android library.
 ---
 {{< blocks/products/cells/cells-cloud-banner h1="将 TXT 转换为 XLSM" h2="用于将 TXT 转换为 XLSM 的 Android 库" p="使用 Cells 云的转换 API 在 Android 项目中创建自定义电子表格工作流程。这是使用 Android 在线将 TXT 转换为 XLSM 和其他文档格式的专业解决方案。" urlsection="conversion/txt-to-xlsm/" >}}
 
@@ -14,7 +13,7 @@ howto: How to convert TXT to XLSM using Aspose.Cells Cloud Android library.
 {{< /blocks/products/cells/cells-cloud-section >}}
 
 {{% blocks/products/cells/cells-cloud-noreplacecode title="使用 Cells Cloud SDK 将 TXT 转换为 XLSM 的 Android 代码示例" gistPath="" %}}
- 
+
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
         import java.io.File;
@@ -28,12 +27,12 @@ howto: How to convert TXT to XLSM using Aspose.Cells Cloud Android library.
                 String destFile = "DestFile.xlsm";
                 try {
                     CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
-                    File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                    File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);
                     if(response.canRead())
                     {
                         if(response.exists()){
                             response.renameTo(new File(destFile));
-                        }                
+                        }
                     }
                 }
                 catch(Exception exception )
@@ -43,7 +42,7 @@ howto: How to convert TXT to XLSM using Aspose.Cells Cloud Android library.
             }
         }
 ```
- 
+
 {{% /blocks/products/cells/cells-cloud-noreplacecode %}}
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Cells Cloud SDK for Android将Excel文件转换为其他格式" >}}
