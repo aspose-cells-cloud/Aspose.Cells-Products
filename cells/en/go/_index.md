@@ -6,7 +6,7 @@ weight: 90
 
 {{< blocks/products/pf/main-wrap-class >}}
 
-{{< blocks/products/cells/cells-cloud-available-sdks >}}
+
 
 
 
@@ -20,7 +20,7 @@ weight: 90
 
 
 
-{{< blocks/products/cells/cells-cloud-languageindex indextitle="Aspose.Cells Cloud SDK for Go" indexdesc="enables developers to create powerful cloud-based applications for processing Excel (XLS, XLSX), iWork Numbers, OpenOffice, and other spreadsheet formats. Built on the **Aspose.Cells Cloud API** and licensed under **MIT**, this SDK provides comprehensive functionality for:">}}
+{{< blocks/products/cells/cells-cloud-languageindex indextitle="Aspose.Cells Cloud SDK for Go" indexdesc="enables developers to create powerful cloud-based applications for processing Excel (XLS, XLSX), iWork Numbers, OpenOffice, and other spreadsheet formats. Built on the <b>Aspose.Cells Cloud API</b> and licensed under <b>MIT</b>, this SDK provides comprehensive functionality for:">}}
     {{< blocks/products/cells/cells-cloud-languageindex-msg feature="File Operations" featuremsg="Create, read, merge, split, encrypt, and convert spreadsheets.">}}
     {{< blocks/products/cells/cells-cloud-languageindex-msg feature="Format Conversion" featuremsg="Supports XLS, XLSX, XLSB, ODS, CSV, PDF, HTML, and more.">}}
     {{< blocks/products/cells/cells-cloud-languageindex-msg feature="Worksheet Manipulation" featuremsg="Modify cells, rows, columns, charts, pivot tables, and formulas.">}}
@@ -32,13 +32,13 @@ weight: 90
 
 {{< blocks/products/cells/languge-index-ferture >}}
 
-{{< blocks/products/cells/languge-index-ferturecard title="convert" desc="Aspose.Cells Cloud REST API supports Excel file format conversion using Go and offers SDKs for multiple programming languages." url="/cells/go/conversion">}}
-{{< blocks/products/cells/languge-index-ferturecard title="merge" desc="Aspose.Cells Cloud REST API supports merging multiple Excel files into a single Excel file using Go, and offers SDKs for various programming languages." url="/cells/go/merge">}}
-{{< blocks/products/cells/languge-index-ferturecard title="protect" desc="Aspose.Cells Cloud REST API supports encrypting, decrypting, and adding digital signatures to workbooks using Go, and offers SDKs for various programming languages." url="/cells/go/protect">}}
-{{< blocks/products/cells/languge-index-ferturecard title="SaveAs" desc="Aspose.Cells Cloud REST API supports saving Excel files in various formats using Go and offers SDKs for multiple programming languages." url="/cells/go/saveas">}}
-{{< blocks/products/cells/languge-index-ferturecard title="export" desc="Aspose.Cells Cloud REST API supports exporting workbook and internal objects to all kinds of formats using Go. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." url="/cells/go/export">}}
-{{< blocks/products/cells/languge-index-ferturecard title="clear" desc="Aspose.Cells Cloud REST API supports clear inner objects in an Excel file using Go. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." url="/cells/go/clear">}}
-{{< blocks/products/cells/languge-index-ferturecard title="background" desc="Aspose.Cells Cloud REST API supports setting the background for Excel files using Go, and offers SDKs for various programming languages." url="/cells/go/background">}}
+{{< blocks/products/cells/languge-index-ferturecard title="convert" desc="Aspose.Cells Cloud REST API supports Excel file format conversion using Go and offers SDKs for multiple programming languages." url="/cells/go/conversion" imgurl="/cells/images/convert.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="merge" desc="Aspose.Cells Cloud REST API supports merging multiple Excel files into a single Excel file using Go, and offers SDKs for various programming languages." url="/cells/go/merge" imgurl="/cells/images/merge.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="protect" desc="Aspose.Cells Cloud REST API supports encrypting, decrypting,adding digital signatures to workbooks using Go, and offers SDKs for various programming languages." url="/cells/go/protect" imgurl="/cells/images/protect.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="SaveAs" desc="Aspose.Cells Cloud REST API supports saving Excel files in various formats using Go , and offers SDKs for various programming languages." url="/cells/go/saveas" imgurl="/cells/images/saveas.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="export" desc="Aspose.Cells Cloud REST API supports exporting workbook and internal objects to all kinds of formats using Go, and offers SDKs for various programming languages." url="/cells/go/export" imgurl="/cells/images/export.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="clear" desc="Aspose.Cells Cloud REST API supports clear inner objects in an Excel file using Go, and offers SDKs for various programming languages." url="/cells/go/clear" imgurl="/cells/images/clear.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="background" desc="Aspose.Cells Cloud REST API supports setting the background for Excel files using Go, and offers SDKs for various programming languages." url="/cells/go/background" imgurl="/cells/images/background.svg">}}
 
 
 {{< /blocks/products/cells/languge-index-ferture>}}
@@ -48,7 +48,9 @@ weight: 90
 {{< blocks/products/cells/cells-cloud-quickstar-go >}}
 
 
-{{< blocks/products/cells/product-card-row title=" Advanced Spreadsheet Manipulation Features" title2="">}}
+{{< blocks/products/cells/cells-cloud-available-sdks >}}
+
+<!-- {{< blocks/products/cells/product-card-row title=" Advanced Spreadsheet Manipulation Features" title2="">}}
     {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
     {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-o" msg="Support for multiple types of list filters" >}}
     {{< blocks/products/cells/cells-cloud-language-features  icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
@@ -70,12 +72,12 @@ weight: 90
     {{< blocks/products/cells/cells-cloud-language-features  icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
     {{< blocks/products/cells/cells-cloud-language-features  icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
     {{< blocks/products/cells/cells-cloud-language-features  icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
-{{< /blocks/products/cells/product-card-row >}}
+{{< /blocks/products/cells/product-card-row >}} -->
 
 
 
-
-{{< blocks/products/cells/cells-cloud-language-card title="Platform Independence" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" >}}
+<!--
+{{< blocks/products/cells/cells-cloud-language-card title="Platform Independence" title2="" imgurl="https://products.aspose.cloud/supported-platform-min.png" >}} -->
 
 {{< /blocks/products/pf/main-container >}}
 
