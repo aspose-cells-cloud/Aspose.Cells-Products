@@ -32,13 +32,13 @@ weight: 90
 
 {{< blocks/products/cells/languge-index-ferture >}}
 
-{{< blocks/products/cells/languge-index-ferturecard title="convert" desc="Aspose.Cells Cloud REST API supports Excel file format conversion using Go and offers SDKs for multiple programming languages." url="/cells/go/conversion" imgurl="/cells/images/convert.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="merge" desc="Aspose.Cells Cloud REST API supports merging multiple Excel files into a single Excel file using Go, and offers SDKs for various programming languages." url="/cells/go/merge" imgurl="/cells/images/merge.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="protect" desc="Aspose.Cells Cloud REST API supports encrypting, decrypting,adding digital signatures to workbooks using Go, and offers SDKs for various programming languages." url="/cells/go/protect" imgurl="/cells/images/protect.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="SaveAs" desc="Aspose.Cells Cloud REST API supports saving Excel files in various formats using Go , and offers SDKs for various programming languages." url="/cells/go/saveas" imgurl="/cells/images/saveas.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="export" desc="Aspose.Cells Cloud REST API supports exporting workbook and internal objects to all kinds of formats using Go, and offers SDKs for various programming languages." url="/cells/go/export" imgurl="/cells/images/export.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="clear" desc="Aspose.Cells Cloud REST API supports clear inner objects in an Excel file using Go, and offers SDKs for various programming languages." url="/cells/go/clear" imgurl="/cells/images/clear.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="background" desc="Aspose.Cells Cloud REST API supports setting the background for Excel files using Go, and offers SDKs for various programming languages." url="/cells/go/background" imgurl="/cells/images/background.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="convert" desc="Aspose.Cells Cloud API supports Excel conversion with Go and provides multi-language SDKs." url="/cells/go/conversion" imgurl="/cells/images/convert.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="merge" desc="Aspose.Cells Cloud API merges Excel files in Go and provides multi-language SDKs." url="/cells/go/merge" imgurl="/cells/images/merge.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="protect" desc="Aspose.Cells Cloud API secures Excel files in Go, supporting multi-language SDKs." url="/cells/go/protect" imgurl="/cells/images/protect.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="SaveAs" desc="Aspose.Cells Cloud API converts Excel formats in Go with multi-language SDKs." url="/cells/go/saveas" imgurl="/cells/images/saveas.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="export" desc="Aspose.Cells Cloud API exports workbooks/objects to multiple formats in Go with multi-language SDKs." url="/cells/go/export" imgurl="/cells/images/export.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="clear" desc="Aspose.Cells Cloud API clears Excel objects in Go with multi-language SDKs." url="/cells/go/clear" imgurl="/cells/images/clear.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="background" desc="Aspose.Cells Cloud API sets Excel backgrounds in Go with multi-language SDKs." url="/cells/go/background" imgurl="/cells/images/background.svg">}}
 
 
 {{< /blocks/products/cells/languge-index-ferture>}}
@@ -50,29 +50,7 @@ weight: 90
 
 {{< blocks/products/cells/cells-cloud-available-sdks >}}
 
-<!-- {{< blocks/products/cells/product-card-row title=" Advanced Spreadsheet Manipulation Features" title2="">}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-excel-o" msg="Add filters with custom criteria for lists" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-o" msg="Support for multiple types of list filters" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-image" msg="Get information regarding Chart Area border or fill format" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-copy" msg="Add, update, and delete charts in worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-columns" msg="Get, update, show or hide chart legend" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-shield" msg="Get, update, chart title and set its visibility" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-unlock" msg="Add or remove a cell area for conditional formatting" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-image" msg=" Add, update, and delete worksheet hyperlinks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-pie-chart" msg=" Add a ListObject at specified place in the Excel file" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-superscript" msg="  Delete specific or all ListObjects in a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-compress" msg="Convert ListObject or table to a range of cells" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-image" msg="Summarize data of large ListObject or Table with Pivot Table" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-commenting" msg="Add OleObjects to Excel worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-eye-slash" msg="Delete specific or all OleObjects from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-th" msg="Insert or delete, horizontal or vertical page breaks" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-excel-o" msg="Manipulate page setup, header  footer" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-file-o" msg="Add, update, fetch or delete worksheet pictures" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-image" msg="Create, update, fetch or delete document properties" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-copy" msg="Fetch the required shape from worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-columns" msg="Add, update or delete shapes from a worksheet" >}}
-    {{< blocks/products/cells/cells-cloud-language-features  icon="fa-shield" msg="Add, update or delete validations for worksheets" >}}
-{{< /blocks/products/cells/product-card-row >}} -->
+
 
 
 
@@ -117,5 +95,5 @@ weight: 90
     {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
 	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
-{{</ blocks/products/pf/main-wrap-class >}}
+<!-- {{</ blocks/products/pf/main-wrap-class >}} -->
 {{< /blocks/products/pf/main-wrap-class >}}
