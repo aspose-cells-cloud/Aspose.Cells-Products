@@ -20,7 +20,7 @@ weight: 90
 
 
 
-{{< blocks/products/cells/cells-cloud-languageindex indextitle="Aspose.Cells Cloud SDK for Go" indexdesc="enables developers to create powerful cloud-based applications for processing Excel (XLS, XLSX), iWork Numbers, OpenOffice, and other spreadsheet formats. Built on the <b>Aspose.Cells Cloud API</b> and licensed under <b>MIT</b>, this SDK provides comprehensive functionality for:">}}
+{{< blocks/products/cells/cells-cloud-languageindex indextitle="Aspose.Cells Cloud SDK for Go" indexdesc="Enables developers to create powerful cloud-based applications for processing Excel (XLS, XLSX), iWork Numbers, OpenOffice, and other spreadsheet formats. Built on the <b>Aspose.Cells Cloud API</b> and licensed under <b>MIT</b>, this SDK provides comprehensive functionality for:">}}
     {{< blocks/products/cells/cells-cloud-languageindex-msg feature="File Operations" featuremsg="Create, read, merge, split, encrypt, and convert spreadsheets.">}}
     {{< blocks/products/cells/cells-cloud-languageindex-msg feature="Format Conversion" featuremsg="Supports XLS, XLSX, XLSB, ODS, CSV, PDF, HTML, and more.">}}
     {{< blocks/products/cells/cells-cloud-languageindex-msg feature="Worksheet Manipulation" featuremsg="Modify cells, rows, columns, charts, pivot tables, and formulas.">}}
@@ -32,13 +32,13 @@ weight: 90
 
 {{< blocks/products/cells/languge-index-ferture >}}
 
-{{< blocks/products/cells/languge-index-ferturecard title="convert" desc="Aspose.Cells Cloud API supports Excel conversion with Go and provides multi-language SDKs." url="/cells/go/conversion" imgurl="/cells/images/convert.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="merge" desc="Aspose.Cells Cloud API merges Excel files in Go and provides multi-language SDKs." url="/cells/go/merge" imgurl="/cells/images/merge.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="protect" desc="Aspose.Cells Cloud API secures Excel files in Go, supporting multi-language SDKs." url="/cells/go/protect" imgurl="/cells/images/protect.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="SaveAs" desc="Aspose.Cells Cloud API converts Excel formats in Go with multi-language SDKs." url="/cells/go/saveas" imgurl="/cells/images/saveas.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="export" desc="Aspose.Cells Cloud API exports workbooks/objects to multiple formats in Go with multi-language SDKs." url="/cells/go/export" imgurl="/cells/images/export.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="clear" desc="Aspose.Cells Cloud API clears Excel objects in Go with multi-language SDKs." url="/cells/go/clear" imgurl="/cells/images/clear.svg">}}
-{{< blocks/products/cells/languge-index-ferturecard title="background" desc="Aspose.Cells Cloud API sets Excel backgrounds in Go with multi-language SDKs." url="/cells/go/background" imgurl="/cells/images/background.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="Convert" desc="Converts a spreadsheet on a local drive to the specified format." url="/cells/go/conversion" imgurl="/cells/images/convert.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="Merge" desc="Merge local spreadsheet files into a specified format file." url="/cells/go/merge" imgurl="/cells/images/merge.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="Protect" desc="Applies dual-layer password protection to Excel spreadsheets, supporting both open and modify passwords with encryption." url="/cells/go/protect" imgurl="/cells/images/protect.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="SaveAs" desc="Converts a spreadsheet in cloud storage to the specified format." url="/cells/go/saveas" imgurl="/cells/images/saveas.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="Export" desc="Converts a spreadsheet in cloud storage to the specified format." url="/cells/go/export" imgurl="/cells/images/export.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="Clear" desc="Clear cell formats in the worksheet." url="/cells/go/clear" imgurl="/cells/images/clear.svg">}}
+{{< blocks/products/cells/languge-index-ferturecard title="Background" desc="Set background in the workbook." url="/cells/go/background" imgurl="/cells/images/background.svg">}}
 
 
 {{< /blocks/products/cells/languge-index-ferture>}}
