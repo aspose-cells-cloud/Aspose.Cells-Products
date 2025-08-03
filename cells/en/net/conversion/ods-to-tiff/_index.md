@@ -10,7 +10,7 @@ fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"
 {{< blocks/products/cells/cells-cloud-banner h1="Convert ODS to TIFF" h2="C# library for converting ODS to TIFF" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Net projects. This is a professional solution to convert ODS to TIFF and other document formats online using C#." urlsection="conversion/ods-to-tiff/" >}}
 
 {{< blocks/products/cells/cells-cloud-section  title="Convert ODS to TIFF using Cells Cloud SDK for C#" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v4.0/cells/convert/spreadsheet/  apireferenceurl=https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet  apimethod=PUT %}}
 <br/>
 Converting file formats from ODS to TIFF can be a complex task. Our C# SDK handles all ODS to TIFF format conversions while preserving the main structural and logical content of the source ODS spreadsheet. Our C# library provides a professional solution for converting ODS to TIFF files online. This Cloud SDK empowers C# developers with powerful functionality and ensures high-quality TIFF output.
 
@@ -20,20 +20,8 @@ Converting file formats from ODS to TIFF can be a complex task. Our C# SDK handl
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-    string name = "Book1.ods";
-    string format = "tiff";
-    string password = null;
-    string outPath = null;
-    string storageName = null;
-    string destFile = "Book1.tiff";
     CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
-    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
-    {
-        using (Stream outStream = File.OpenWrite(destFile))
-        {
-            stream.CopyTo(outStream);
-        }
-    }
+    cellsApi.ConvertSpreadsheet(new ConvertSpreadsheetRequest { Spreadsheet = "EmployeeSalesSummary.ods", format = "tiff" }, "EmployeeSalesSummary.tiff");
 ```
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode  %}}

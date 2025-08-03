@@ -10,7 +10,7 @@ fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"
 {{< blocks/products/cells/cells-cloud-banner h1="Convert HTML to PNG" h2="C# library for converting HTML to PNG" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Net projects. This is a professional solution to convert HTML to PNG and other document formats online using C#." urlsection="conversion/html-to-png/" >}}
 
 {{< blocks/products/cells/cells-cloud-section  title="Convert HTML to PNG using Cells Cloud SDK for C#" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v4.0/cells/convert/spreadsheet/  apireferenceurl=https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet  apimethod=PUT %}}
 <br/>
 Converting file formats from HTML to PNG can be a complex task. Our C# SDK handles all HTML to PNG format conversions while preserving the main structural and logical content of the source HTML spreadsheet. Our C# library provides a professional solution for converting HTML to PNG files online. This Cloud SDK empowers C# developers with powerful functionality and ensures high-quality PNG output.
 
@@ -20,20 +20,8 @@ Converting file formats from HTML to PNG can be a complex task. Our C# SDK handl
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-    string name = "Book1.html";
-    string format = "png";
-    string password = null;
-    string outPath = null;
-    string storageName = null;
-    string destFile = "Book1.png";
     CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
-    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
-    {
-        using (Stream outStream = File.OpenWrite(destFile))
-        {
-            stream.CopyTo(outStream);
-        }
-    }
+    cellsApi.ConvertSpreadsheet(new ConvertSpreadsheetRequest { Spreadsheet = "EmployeeSalesSummary.html", format = "png" }, "EmployeeSalesSummary.png");
 ```
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode  %}}

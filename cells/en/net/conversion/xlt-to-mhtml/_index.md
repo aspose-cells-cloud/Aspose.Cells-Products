@@ -10,7 +10,7 @@ fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"
 {{< blocks/products/cells/cells-cloud-banner h1="Convert XLT to MHTML" h2="C# library for converting XLT to MHTML" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Net projects. This is a professional solution to convert XLT to MHTML and other document formats online using C#." urlsection="conversion/xlt-to-mhtml/" >}}
 
 {{< blocks/products/cells/cells-cloud-section  title="Convert XLT to MHTML using Cells Cloud SDK for C#" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v4.0/cells/convert/spreadsheet/  apireferenceurl=https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet  apimethod=PUT %}}
 <br/>
 Converting file formats from XLT to MHTML can be a complex task. Our C# SDK handles all XLT to MHTML format conversions while preserving the main structural and logical content of the source XLT spreadsheet. Our C# library provides a professional solution for converting XLT to MHTML files online. This Cloud SDK empowers C# developers with powerful functionality and ensures high-quality MHTML output.
 
@@ -20,20 +20,8 @@ Converting file formats from XLT to MHTML can be a complex task. Our C# SDK hand
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-    string name = "Book1.xlt";
-    string format = "mhtml";
-    string password = null;
-    string outPath = null;
-    string storageName = null;
-    string destFile = "Book1.mhtml";
     CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
-    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
-    {
-        using (Stream outStream = File.OpenWrite(destFile))
-        {
-            stream.CopyTo(outStream);
-        }
-    }
+    cellsApi.ConvertSpreadsheet(new ConvertSpreadsheetRequest { Spreadsheet = "EmployeeSalesSummary.xlt", format = "mhtml" }, "EmployeeSalesSummary.mhtml");
 ```
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode  %}}

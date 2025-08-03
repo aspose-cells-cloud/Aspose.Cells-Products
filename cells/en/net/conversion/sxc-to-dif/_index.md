@@ -10,7 +10,7 @@ fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"
 {{< blocks/products/cells/cells-cloud-banner h1="Convert SXC to DIF" h2="C# library for converting SXC to DIF" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Net projects. This is a professional solution to convert SXC to DIF and other document formats online using C#." urlsection="conversion/sxc-to-dif/" >}}
 
 {{< blocks/products/cells/cells-cloud-section  title="Convert SXC to DIF using Cells Cloud SDK for C#" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v4.0/cells/convert/spreadsheet/  apireferenceurl=https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet  apimethod=PUT %}}
 <br/>
 Converting file formats from SXC to DIF can be a complex task. Our C# SDK handles all SXC to DIF format conversions while preserving the main structural and logical content of the source SXC spreadsheet. Our C# library provides a professional solution for converting SXC to DIF files online. This Cloud SDK empowers C# developers with powerful functionality and ensures high-quality DIF output.
 
@@ -20,20 +20,8 @@ Converting file formats from SXC to DIF can be a complex task. Our C# SDK handle
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-    string name = "Book1.sxc";
-    string format = "dif";
-    string password = null;
-    string outPath = null;
-    string storageName = null;
-    string destFile = "Book1.dif";
     CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
-    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
-    {
-        using (Stream outStream = File.OpenWrite(destFile))
-        {
-            stream.CopyTo(outStream);
-        }
-    }
+    cellsApi.ConvertSpreadsheet(new ConvertSpreadsheetRequest { Spreadsheet = "EmployeeSalesSummary.sxc", format = "dif" }, "EmployeeSalesSummary.dif");
 ```
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode  %}}

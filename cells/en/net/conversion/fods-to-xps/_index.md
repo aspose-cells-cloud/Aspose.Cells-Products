@@ -10,7 +10,7 @@ fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"
 {{< blocks/products/cells/cells-cloud-banner h1="Convert FODS to XPS" h2="C# library for converting FODS to XPS" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Net projects. This is a professional solution to convert FODS to XPS and other document formats online using C#." urlsection="conversion/fods-to-xps/" >}}
 
 {{< blocks/products/cells/cells-cloud-section  title="Convert FODS to XPS using Cells Cloud SDK for C#" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v4.0/cells/convert/spreadsheet/  apireferenceurl=https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet  apimethod=PUT %}}
 <br/>
 Converting file formats from FODS to XPS can be a complex task. Our C# SDK handles all FODS to XPS format conversions while preserving the main structural and logical content of the source FODS spreadsheet. Our C# library provides a professional solution for converting FODS to XPS files online. This Cloud SDK empowers C# developers with powerful functionality and ensures high-quality XPS output.
 
@@ -20,20 +20,8 @@ Converting file formats from FODS to XPS can be a complex task. Our C# SDK handl
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-    string name = "Book1.fods";
-    string format = "xps";
-    string password = null;
-    string outPath = null;
-    string storageName = null;
-    string destFile = "Book1.xps";
     CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
-    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
-    {
-        using (Stream outStream = File.OpenWrite(destFile))
-        {
-            stream.CopyTo(outStream);
-        }
-    }
+    cellsApi.ConvertSpreadsheet(new ConvertSpreadsheetRequest { Spreadsheet = "EmployeeSalesSummary.fods", format = "xps" }, "EmployeeSalesSummary.xps");
 ```
  
 {{% /blocks/products/cells/cells-cloud-noreplacecode  %}}
