@@ -39,10 +39,6 @@ BreadcrumbList: {"@context":"https://schema.org","@type":"BreadcrumbList","itemL
 	using Aspose.Cells.Cloud.SDK.Api;
 	using Aspose.Cells.Cloud.SDK.Model;
 	using Aspose.Cells.Cloud.SDK.Request;
-	using Newtonsoft.Json;
-	using System;
-	using System.IO;
-	using System.Collections.Generic;
 	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
     cellsApi.ConvertSpreadsheet(new ConvertSpreadsheetRequest { Spreadsheet = "EmployeeSalesSummary.xlsx", format = "pdf" }, "result.pdf");
 ```
@@ -78,7 +74,10 @@ BreadcrumbList: {"@context":"https://schema.org","@type":"BreadcrumbList","itemL
 
 {{< blocks/products/cells/cells-cloud-available-sdks >}}
 
-{{< blocks/products/cells/cells-language-cloud-card-row title="Supported Develop Languages" >}}
+
+<!-- {{< blocks/products/cells/cells-cloud-resource-links >}} -->
+
+<!-- {{< blocks/products/cells/cells-language-cloud-card-row title="Supported Develop Languages" >}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Go" imgSrc="/cells/sdk/aspose_cells-for-go.png" productLink="/cells/go/">}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Java" imgSrc="/cells/sdk/aspose_cells-for-java.png" productLink="/cells/java/">}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Net" imgSrc="/cells/sdk/aspose_cells-for-net.png" productLink="/cells/net/">}}
@@ -88,12 +87,14 @@ BreadcrumbList: {"@context":"https://schema.org","@type":"BreadcrumbList","itemL
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Python" imgSrc="/cells/sdk/aspose_cells-for-python.png" productLink="/cells/python/">}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Ruby" imgSrc="/cells/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/">}}
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Swift" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/">}}
-{{< /blocks/products/cells/cells-language-cloud-card-row >}}
+{{< /blocks/products/cells/cells-language-cloud-card-row >}} -->
 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+
+
+<!-- {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
@@ -112,8 +113,7 @@ BreadcrumbList: {"@context":"https://schema.org","@type":"BreadcrumbList","itemL
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}} -->
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
-
+{{< blocks/products/cells/cells-cloud-resource-links >}}
 {{< /blocks/products/pf/main-wrap-class >}}
