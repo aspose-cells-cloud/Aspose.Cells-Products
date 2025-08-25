@@ -20,7 +20,7 @@ BreadcrumbList: {"@context":"https://schema.org","@type":"BreadcrumbList","itemL
 
 {{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT"  apiurl="https://api.aspose.cloud/v4.0/cells/convert/spreadsheet"  %}}
 
-{{< blocks/products/cells/cells-cloud-api-template btName="RunCode" OutResultType="Variable" OutResultDataType="Stream" ResponseType="Stream" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet" >}}
+{{< blocks/products/cells/cells-cloud-run-conversion btName="RunCode" OutResultType="Variable" OutResultDataType="Stream" ResponseType="Stream" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet" >}}
 {{< blocks/products/cells/cells-cloud-upload>}}
 
 {{< blocks/products/cells/cells-cloud-parameters itName="format"  required="False" prompt="The format to convert(CSV/XLS/HTML/MHTML/ODS/PDF/XML/TXT/TIFF/XLSB/XLSM/XLSX/XLTM/XLTX/XPS/PNG/JPG/JPEG/GIF/EMF/BMP/MD[Markdown]/Numbers).">}}
@@ -43,7 +43,7 @@ BreadcrumbList: {"@context":"https://schema.org","@type":"BreadcrumbList","itemL
     cellsApi.ConvertSpreadsheet(new ConvertSpreadsheetRequest { Spreadsheet = "EmployeeSalesSummary.xlsx", format = "pdf" }, "result.pdf");
 ```
 {{% /blocks/products/cells/cells-cloud-showcode %}}
-{{< /blocks/products/cells/cells-cloud-api-template >}}
+{{< /blocks/products/cells/cells-cloud-run-conversion >}}
 
 <!-- {{< blocks/products/pf/product-card-row title="Supported File Formats" >}}
 <div class="diagram1 d2  d1-cloud">
