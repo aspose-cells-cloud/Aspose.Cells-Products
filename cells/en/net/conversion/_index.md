@@ -71,7 +71,9 @@ BreadcrumbList: {"@context":"https://schema.org","@type":"BreadcrumbList","itemL
 <div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 </div>
 {{< /blocks/products/pf/product-card-row >}} -->
-
+<!-- {{< blocks/products/cells/cells-cloud-card-row title="Conversion using Net Extension links" >}}
+{{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/net/conversion/conversion40" >}}
+{{< /blocks/products/cells/cells-cloud-card-row >}} -->
 {{< blocks/products/cells/cells-cloud-available-sdks >}}
 
 
@@ -89,7 +91,7 @@ BreadcrumbList: {"@context":"https://schema.org","@type":"BreadcrumbList","itemL
 {{< blocks/products/cells/cells-cloud-card-support pfName="Aspose.Cells Cloud" title="SDK for Swift" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/">}}
 {{< /blocks/products/cells/cells-language-cloud-card-row >}} -->
 
-
+{{< blocks/products/cells/cells-cloud-other40conversion-links >}}
 {{< /blocks/products/pf/main-container >}}
 
 

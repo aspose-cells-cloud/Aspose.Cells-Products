@@ -1,8 +1,8 @@
 ---
-title: Converts a range of spreadsheet on a local drive to the pdf file.
-description: This method reads a spreadsheet file from the local file system, converts it's range to the desired pdf file, and returns the converted result. \nThe source file path and target format must be specified correctly. \nEnsure that the necessary permissions are in place to read the source file and write the converted file if applicable. \nThe conversion process occurs entirely on the cloud server, eliminating the need for any cloud storage or external downloads. \nIf the source file does not exist, is inaccessible, or if an error occurs during the conversion process, an appropriate exception will be thrown. \nSupported formats for conversion depend on the available libraries and their capabilities.
+title: Converts a chart of spreadsheet on a local drive to image.
+description: This method reads a chart of spreadsheet file from the local file system, converts it into the desired image format (e.g., PNG, SVG, Tiff), and returns the converted result. \nThe source file path and target format must be specified correctly. \nEnsure that the necessary permissions are in place to read the source file and write the converted file if applicable. \nThe conversion process occurs entirely on the cloud server, eliminating the need for any cloud storage or external downloads. \nIf the source file does not exist, is inaccessible, or if an error occurs during the conversion process, an appropriate exception will be thrown. \nSupported formats for conversion depend on the available libraries and their capabilities.
 kwords: aspose cells
-url: /net/convert-range-to-pdf/
+url: /net/convert-chart-to-image/
 ---
 
 
@@ -15,7 +15,7 @@ url: /net/convert-range-to-pdf/
     {{< blocks/products/cells/cells-cloud-languageindex-msg feature="Supported Features" featuremsg="Aspose.Cells Cloud provides REST API which supports converting Excel files to various format and offers SDKs for multiple programming languages. These programming languages are include of Net, Java, Go, NodeJS, Python, and so on. .">}}
 {{< /blocks/products/cells/cells-cloud-languageindex >}}
 
-{{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT"  apiurl="/cells/convert/range/pdf"  %}}
+{{% blocks/products/cells/cells-cloud-api-http-method apiname="PUT"  apiurl="/cells/convert/chart/image"  %}}
 
 <!-- {{< blocks/products/cells/cells-cloud-run-conversion btName="RunCode" OutResultType="Variable" OutResultDataType="Stream" ResponseType="Stream" ResultPosition="result" apireferenceurl="https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet" >}} -->
 <!-- {{< blocks/products/cells/cells-cloud-upload>}} -->
@@ -29,7 +29,7 @@ url: /net/convert-range-to-pdf/
 	using Aspose.Cells.Cloud.SDK.Model;
 	using Aspose.Cells.Cloud.SDK.Request;
 	CellsApi cellsApi = new CellsApi("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-    cellsApi.ConvertRangeToPdf(new ConvertRangeToPdfRequest{ Spreadsheet = "EmployeeSalesSummary.xlsx",worksheet ="Sheet1",range="A1:C10"}, "result.pdf");
+    cellsApi.ConvertChartToImage(new ConvertChartToImageRequest{ Spreadsheet = "EmployeeSalesSummary.xlsx",worksheet ="Sheet1",chartIndex = 0,format ="png" }, "result.png");
 ```
 {{% /blocks/products/cells/cells-cloud-showcode %}}
 <!-- {{< /blocks/products/cells/cells-cloud-run-conversion >}} -->

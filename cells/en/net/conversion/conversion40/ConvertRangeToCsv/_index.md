@@ -1,6 +1,6 @@
 ---
-title:Converts a range of spreadsheet on a local drive to the csv file.
-description:This method reads a spreadsheet file from the local file system, converts it's range to the desired csv file, and returns the converted result. \nThe source file path and target format must be specified correctly. \nEnsure that the necessary permissions are in place to read the source file and write the converted file if applicable. \nThe conversion process occurs entirely on the cloud server, eliminating the need for any cloud storage or external downloads. \nIf the source file does not exist, is inaccessible, or if an error occurs during the conversion process, an appropriate exception will be thrown. \nSupported formats for conversion depend on the available libraries and their capabilities.
+title: Converts a range of spreadsheet on a local drive to the csv file.
+description: This method reads a spreadsheet file from the local file system, converts it's range to the desired csv file, and returns the converted result.he source file path and target format must be specified correctly.Ensure that the necessary permissions are in place to read the source file and write the converted file if applicable. The conversion process occurs entirely on the cloud server, eliminating the need for any cloud storage or external downloads. If the source file does not exist, is inaccessible, or if an error occurs during the conversion process, an appropriate exception will be thrown.Supported formats for conversion depend on the available libraries and their capabilities.
 kwords: aspose cells
 url: /net/convert-range-to-csv/
 ---
