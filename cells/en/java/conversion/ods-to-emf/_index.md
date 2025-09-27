@@ -10,7 +10,7 @@ fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"
 {{< blocks/products/cells/cells-cloud-banner h1="Convert ODS to EMF" h2="Java library for converting ODS to EMF" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Java projects. This is a professional solution to convert ODS to EMF and other document formats online using Java." urlsection="conversion/ods-to-emf/" >}}
 
 {{< blocks/products/cells/cells-cloud-section  title="Convert ODS to EMF using Cells Cloud SDK for Java" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v4.0/cells/convert/spreadsheet/  apireferenceurl=https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet  apimethod=PUT %}}
 <br/>
 Converting file formats from ODS to EMF can be a complex task. Our Java SDK handles all ODS to EMF format conversions while preserving the main structural and logical content of the source ODS spreadsheet. Our Java library provides a professional solution for converting ODS to EMF files online. This Cloud SDK empowers Java developers with powerful functionality and ensures high-quality EMF output.
 
@@ -20,28 +20,19 @@ Converting file formats from ODS to EMF can be a complex task. Our Java SDK hand
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-    import java.io.File;
-    import com.aspose.cloud.cells.api.*;
-    public class Conversion {
+    package com.aspose.cloud.cells.api;
+	import com.aspose.cloud.cells.api.CellsApi;
+	import com.aspose.cloud.cells.request.*;
+	public class ConvertSpreadsheetExample {
         public static void main(String[] args) {
-            String name =  "Book1.ods";
-            String format = "emf";
-            String password = null;
-            String outPath = null;
-            String destFile = "DestFile.emf";
             try {
-                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
-                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
-                if(response.canRead())
-                {
-                    if(response.exists()){
-                        response.renameTo(new File(destFile));
-                    }                
-                }
-            }
-            catch(Exception exception )
-            {
-                System.out.print(exception);
+                CellsApi api = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                ConvertSpreadsheetRequest request = new ConvertSpreadsheetRequest();
+                request.setSpreadsheet("EmployeeSalesSummary.ods");
+                request.setFormat("emf");
+                api.convertSpreadsheet(request);
+            } catch (ApiException e) {
+                e.printStackTrace();
             }
         }
     }

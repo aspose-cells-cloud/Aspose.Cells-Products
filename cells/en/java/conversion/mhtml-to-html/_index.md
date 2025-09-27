@@ -10,7 +10,7 @@ fqa: {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"
 {{< blocks/products/cells/cells-cloud-banner h1="Convert MHTML to HTML" h2="Java library for converting MHTML to HTML" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Java projects. This is a professional solution to convert MHTML to HTML and other document formats online using Java." urlsection="conversion/mhtml-to-html/" >}}
 
 {{< blocks/products/cells/cells-cloud-section  title="Convert MHTML to HTML using Cells Cloud SDK for Java" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v4.0/cells/convert/spreadsheet/  apireferenceurl=https://reference.aspose.cloud/cells/?urls.primaryName=API+v4#/Conversion/ConvertSpreadsheet  apimethod=PUT %}}
 <br/>
 Converting file formats from MHTML to HTML can be a complex task. Our Java SDK handles all MHTML to HTML format conversions while preserving the main structural and logical content of the source MHTML spreadsheet. Our Java library provides a professional solution for converting MHTML to HTML files online. This Cloud SDK empowers Java developers with powerful functionality and ensures high-quality HTML output.
 
@@ -20,28 +20,19 @@ Converting file formats from MHTML to HTML can be a complex task. Our Java SDK h
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-    import java.io.File;
-    import com.aspose.cloud.cells.api.*;
-    public class Conversion {
+    package com.aspose.cloud.cells.api;
+	import com.aspose.cloud.cells.api.CellsApi;
+	import com.aspose.cloud.cells.request.*;
+	public class ConvertSpreadsheetExample {
         public static void main(String[] args) {
-            String name =  "Book1.mhtml";
-            String format = "html";
-            String password = null;
-            String outPath = null;
-            String destFile = "DestFile.html";
             try {
-                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
-                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
-                if(response.canRead())
-                {
-                    if(response.exists()){
-                        response.renameTo(new File(destFile));
-                    }                
-                }
-            }
-            catch(Exception exception )
-            {
-                System.out.print(exception);
+                CellsApi api = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                ConvertSpreadsheetRequest request = new ConvertSpreadsheetRequest();
+                request.setSpreadsheet("EmployeeSalesSummary.mhtml");
+                request.setFormat("html");
+                api.convertSpreadsheet(request);
+            } catch (ApiException e) {
+                e.printStackTrace();
             }
         }
     }
