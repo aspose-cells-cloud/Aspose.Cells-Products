@@ -11,6 +11,11 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Low Code APIs Include" >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Api for AI" imgSrc="/ai/cloud-ai-api.svg" productLink="/cells/ai-api/" >}}
+Execute various AI functions of the cloud API online via a webpage.
+{{< /blocks/products/pf/product >}}
+
+
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Python" imgSrc="/sdk/aspose_cells-for-python.svg" productLink="/cells/python/" >}}
 Access, process & manipulate cloud-based spreadsheets using Python via REST API.
 {{< /blocks/products/pf/product >}}
