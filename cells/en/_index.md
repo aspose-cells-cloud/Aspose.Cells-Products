@@ -11,7 +11,7 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Low Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Api for AI" imgSrc="/sdk/cloud-ai-api.svg" productLink="/cells/ai-api/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Api for AI" imgSrc="/sdk/aspose_cells-for-ai.svg" productLink="/cells/ai-api/" >}}
 Execute various AI functions of the cloud API online via a webpage.
 {{< /blocks/products/pf/product >}}
 
