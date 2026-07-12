@@ -1,6 +1,6 @@
 ---
-title: Clear shapes on the local workbook in Cloud 
-description: Cloud APIs & SDKs for clearing shapes on Microsoft Excel & OpenOffice Calc. Clear shapes on local spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Java – Clear shapes in Excel/Calc via Aspose.Cells Cloud API
+description: Use Aspose.Cells Cloud Java SDK to remove shapes from Excel and OpenOffice Calc files. Fast REST API, free trial available – start clearing now!
 
 ---
 

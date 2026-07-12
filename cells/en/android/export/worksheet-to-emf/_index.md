@@ -1,6 +1,6 @@
 ---
-title: Export WORKSHEET to EMF from Excel using Cells Cloud SDK for Android  
-description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
+title: Export Worksheet to EMF using Aspose.Cells Cloud Android
+description: Use Aspose.Cells Cloud API to export a worksheet to EMF format directly from your Android app. Get fast, high‑quality EMF files—try it now!
 
 ---
 

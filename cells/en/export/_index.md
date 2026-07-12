@@ -1,6 +1,6 @@
 ---
-title: Export objects of Excel 
-description: Aspose.Cells Cloud REST API facilitates exporting workbooks and their internal objects to various formats and provides SDKs for multiple programming languages, including Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and Swift. 
+title: Aspose.Cells Cloud API – Export Excel Workbooks & Objects`（约55字符）
+description: Use Aspose.Cells Cloud API to export Excel workbooks or objects to 30+ formats. SDKs available for C#, Java, Python & more. Try it now!`（约153字符）
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

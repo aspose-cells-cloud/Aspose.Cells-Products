@@ -1,6 +1,6 @@
 ---
-title: Remove duplicate rows from the local workbook using C# within Aspose Cells Cloud environment. 
-description: Cloud APIs and SDKs for clearing duplicate rows in Microsoft Excel and OpenOffice Calc using C#. Clear duplicate rows in local spreadsheets with the Cells Cloud SDK for C#. 
+title: Aspose Cells Cloud C# – Remove Duplicate Rows from Local Workbook
+description: Use the Aspose Cells Cloud C# SDK to quickly clear duplicate rows in local Excel or OpenOffice Calc files. Follow the step‑by‑step guide and start cleaning your spreadsheets today.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Decrypt local spreadsheets with password in Cloud 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc unlock. Spreadsheets decrypt by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: PHP Decrypt Excel/Calc Spreadsheet with Password – Cells Cloud
+description: Use Aspose Cells Cloud PHP SDK to decrypt Excel or OpenOffice Calc files protected by password. Call the Unlock API in minutes—no installation needed. Try free today!
 
 ---
 

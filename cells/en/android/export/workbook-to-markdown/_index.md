@@ -1,6 +1,6 @@
 ---
-title: Export WORKBOOK to MARKDOWN from Excel using Cells Cloud SDK for Android  
-description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
+title: Export Workbook to Markdown with Aspose.Cells Cloud Android SDK
+description: Use Aspose.Cells Cloud Android SDK to export Excel workbooks to Markdown format via a simple REST API. Get fast, accurate conversion—try it now!
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Clear Objects in Excel 
-description: Aspose.Cells Cloud REST API supports clearing inner objects in an Excel file and provides SDKs for various programming languages, including Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and Swift. 
+title: Aspose.Cells Cloud API – Clear Objects in Excel
+description: Use Aspose.Cells Cloud REST API to quickly clear content, styles, charts, tables or backgrounds in Excel files. Try the SDKs for .NET, Java, Python and more – see code samples now!
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

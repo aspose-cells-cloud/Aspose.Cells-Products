@@ -1,6 +1,6 @@
 ---
-title: Save MHTML as HTML using Android 
-description: Utilizing Aspose.Cells Cloud SDK for Android to save MHTML format file as HTML format file. 
+title: Aspose.Cells Cloud for Android – Save MHTML as HTML
+description: Learn how to quickly convert MHTML spreadsheets to HTML using Aspose.Cells Cloud SDK for Android. Follow our step‑by‑step guide and code sample to integrate the SaveAs API into your Android app today. Get free API quota from the Aspose Cloud Dashboard and start building powerful spreadsheet workflows instantly.
 kwords: Excel, Save MHTML as HTML, REST, Android
 howto: How to save MHTML as HTML using Aspose.Cells Cloud Android library.
 ---

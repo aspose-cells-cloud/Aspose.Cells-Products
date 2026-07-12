@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to XLS using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a JSON format file to a XLS format file. 
+title: Convert JSON to XLS with Aspose.Cells Cloud Android SDK
+description: Use Aspose.Cells Cloud Android SDK to quickly convert JSON files to XLS spreadsheets. See full code example and start automating your spreadsheet workflows today.
 kwords: Excel, Convert JSON to XLS, REST, Android
 howto: How to convert JSON to XLS using Aspose.Cells Cloud Android library.
 ---

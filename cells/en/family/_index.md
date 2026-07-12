@@ -1,7 +1,7 @@
 ---
-title: APIs for Excel Spreadsheet Parsing available in .NET, Java, Python, C++, PHP, and Go.
+title: Aspose.Cells Cloud API for Excel (.NET, Java, Python)
 weight: 10
-description: The Aspose.Cells Cloud API empowers you to execute a wide range of document processing tasks on any platform, encompassing the creation, manipulation, conversion, and rendering of Excel documents in the cloud. With this API, you can effortlessly convert Excel, OpenOffice, and other file formats into a variety of output formats, including PDF, HTML, ODS, XPS, CSV, JSON, Markdown, and more.
+description: Aspose.Cells Cloud API lets developers create, edit, convert and render Excel files across .NET, Java, Python, C++, PHP and Go. Convert spreadsheets to PDF, HTML, CSV and more—try it free today!
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

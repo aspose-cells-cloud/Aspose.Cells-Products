@@ -1,6 +1,6 @@
 ---
-title: Save Excel file as other formats using C#
-description: Aspose.Cells Cloud REST API supports saving Excel files in various formats using C# and offers SDKs for multiple programming languages.
+title: Save Excel to Other Formats with Aspose.Cells Cloud C#
+description: Use Aspose.Cells Cloud C# SDK to save Excel workbooks to over 30 formats instantly. Explore code samples and start converting today!
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

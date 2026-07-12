@@ -1,6 +1,6 @@
 ---
-title: Convert BMP to SQL using C# 
-description: Utilizing the Aspose.Cells Cloud SDK for C# to convert a BMP format file to a SQL format file. 
+title: Convert BMP to SQL with Aspose.Cells Cloud C# SDK
+description: Use Aspose.Cells Cloud C# SDK to quickly convert BMP files to SQL format. Get free API quota, follow a simple code example, and start converting today.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Merge Excel files using PHP 
-description: Aspose.Cells Cloud REST API supports merging multiple Excel files into a single Excel file using PHP, and offers SDKs for various programming languages. 
+title: Merge Excel Files with Aspose.Cells Cloud PHP SDK
+description: Merge multiple Excel files into one with Aspose.Cells Cloud PHP SDK. View code samples, read the docs, and start integrating for free today.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

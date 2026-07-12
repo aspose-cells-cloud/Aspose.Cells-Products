@@ -1,6 +1,6 @@
 ---
-title: Export WORKBOOK to TXT from Excel using Cells Cloud SDK for Android  
-description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
+title: Aspose.Cells Cloud Android - Export Workbook to TXT
+description: Use Aspose.Cells Cloud Android SDK to export an Excel workbook to TXT format instantly. Try the API now and integrate seamless text conversion into your mobile apps.
 
 ---
 

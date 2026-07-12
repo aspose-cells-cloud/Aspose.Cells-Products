@@ -1,6 +1,6 @@
 ---
-title: Convert BMP to TIFF using C# 
-description: Utilizing the Aspose.Cells Cloud SDK for C# to convert a BMP format file to a TIFF format file. 
+title: Convert BMP to TIFF with Aspose.Cells Cloud C# SDK
+description: Utilize the Aspose.Cells Cloud C# SDK to convert BMP to TIFF online. Get a free API key, view instant code samples and integrate high‑quality conversion into your .NET projects today.
 
 ---
 
