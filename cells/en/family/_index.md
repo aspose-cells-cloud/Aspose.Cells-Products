@@ -1,7 +1,7 @@
 ---
-title: Aspose.Cells Cloud API for Excel (.NET, Java, Python)
+title: Aspose.Cells Cloud API – Excel for .NET, Java, Python, Go
 weight: 10
-description: Aspose.Cells Cloud API lets developers create, edit, convert and render Excel files across .NET, Java, Python, C++, PHP and Go. Convert spreadsheets to PDF, HTML, CSV and more—try it free today!
+description: Use Aspose.Cells Cloud API to create, edit, convert and render Excel spreadsheets in the cloud. Supports PDF, HTML, CSV, JSON and more. Start your free trial today!
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

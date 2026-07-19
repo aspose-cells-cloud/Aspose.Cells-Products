@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to SQL using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a XLSX format file to a SQL format file. 
+title: Aspose Cells Cloud - Convert XLSX to SQL on Android
+description: Use Aspose.Cells Cloud SDK for Android to effortlessly convert XLSX files to SQL databases. Get ready‑made code samples, fast API calls, and start building powerful conversion workflows today.
 
 ---
 

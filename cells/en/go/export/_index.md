@@ -1,6 +1,6 @@
 ---
-title: Export Excel Files with Go using Aspose.Cells Cloud API
-description: Use Aspose.Cells Cloud REST API to export Excel workbooks and objects to 30+ formats with Go. Get instant code samples, free trial, and detailed docs.
+title: Export Excel with Go using Aspose.Cells Cloud SDK
+description: Use Aspose.Cells Cloud Go SDK to export Excel workbooks and objects to 30+ formats. Try the API now and accelerate your Go development.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

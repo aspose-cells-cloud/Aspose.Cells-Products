@@ -1,6 +1,6 @@
 ---
 title: Aspose.Cells Cloud Swift API – Convert XLSX to JSON
-description: Convert XLSX files to JSON instantly with Aspose.Cells Cloud Swift SDK. Preserve spreadsheet structure, get clean JSON output, and integrate conversion into your Swift app with just a few lines of code. Try it now!
+description: Leverage the Aspose.Cells Cloud Swift SDK to quickly convert XLSX spreadsheets to high‑quality JSON. Seamless REST integration, full data fidelity, and easy setup. Try it today and accelerate your Swift projects!
 url: /swift/conversion/xlsx-to-json/
 ---
 

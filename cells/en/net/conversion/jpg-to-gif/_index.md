@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud C# API - Convert JPG to GIF
-description: Use Aspose.Cells Cloud C# SDK to instantly convert JPG files to high‑quality GIFs. Get free API quota, follow the simple code example, and start converting today!
+title: Aspose.Cells Cloud – Convert JPG to GIF with C#
+description: Utilizing Aspose.Cells Cloud SDK for .NET, learn how to convert JPG to GIF with C#. Get sample code, free API quota and start converting instantly.
 
 ---
 

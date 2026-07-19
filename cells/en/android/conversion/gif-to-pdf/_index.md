@@ -1,6 +1,6 @@
 ---
-title: Convert GIF to PDF using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a GIF format file to a PDF format file. 
+title: Aspose.Cells Cloud - Convert GIF to PDF on Android
+description: Convert GIF files to PDF with Aspose.Cells Cloud SDK for Android. Use our step‑by‑step code example to add conversion to your Android apps today.
 kwords: Excel, Convert GIF to PDF, REST, Android
 howto: How to convert GIF to PDF using Aspose.Cells Cloud Android library.
 ---

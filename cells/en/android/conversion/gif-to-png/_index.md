@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Android SDK – Convert GIF to PNG
-description: Leverage Aspose.Cells Cloud Android SDK to quickly convert GIF spreadsheets to PNG images. Integrate the Conversion API now to boost your Android app.
+title: Aspose Cells Cloud for Android – Convert GIF to PNG
+description: Use Aspose.Cells Cloud Android SDK to quickly convert GIF files to high‑quality PNG images. Easy integration, secure REST API – try it now!
 kwords: Excel, Convert GIF to PNG, REST, Android
 howto: How to convert GIF to PNG using Aspose.Cells Cloud Android library.
 ---

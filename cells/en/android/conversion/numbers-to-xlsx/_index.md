@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud for Android – Convert NUMBERS to XLSX
-description: Convert NUMBERS files to XLSX on Android with Aspose.Cells Cloud SDK. Preserve formatting, boost productivity, and start converting instantly via our REST API.
+title: Aspose.Cells Cloud - Convert NUMBERS to XLSX on Android
+description: Use Aspose.Cells Cloud Android SDK to quickly convert NUMBERS files to XLSX. Free trial available – integrate seamless spreadsheet conversion into your Android apps today.
 kwords: Excel, Convert NUMBERS to XLSX, REST, Android
 howto: How to convert NUMBERS to XLSX using Aspose.Cells Cloud Android library.
 ---

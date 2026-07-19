@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Android - Save HTML as DOCX
-description: Use Aspose.Cells Cloud SDK for Android to easily convert HTML spreadsheets to DOCX. Learn how to integrate the SaveAs API, get a free trial, and enhance your Android app’s document handling.
+title: Convert HTML to DOCX with Aspose.Cells Cloud Android SDK
+description: Use Aspose.Cells Cloud Android SDK to instantly convert HTML spreadsheets to DOCX. Learn how to call the SaveAs API with code samples—start converting today!
 kwords: Excel, Save HTML as DOCX, REST, Android
 howto: How to save HTML as DOCX using Aspose.Cells Cloud Android library.
 ---

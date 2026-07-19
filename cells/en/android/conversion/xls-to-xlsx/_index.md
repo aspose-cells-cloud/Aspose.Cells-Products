@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to XLSX using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a XLS format file to a XLSX format file. 
+title: Aspose.Cells Cloud Android SDK – Convert XLS to XLSX Online
+description: Use Aspose.Cells Cloud Android SDK to quickly convert XLS files to XLSX in the cloud. Get high‑quality results with just a few lines of code – start converting now!
 kwords: Excel, Convert XLS to XLSX, REST, Android
 howto: How to convert XLS to XLSX using Aspose.Cells Cloud Android library.
 ---

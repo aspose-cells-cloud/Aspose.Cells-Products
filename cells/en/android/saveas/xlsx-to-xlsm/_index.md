@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud for Android - Save XLSX as XLSM
-description: Use Aspose.Cells Cloud SDK for Android to effortlessly convert XLSX files to XLSM with full formula support. Try the free API now and integrate seamless Excel conversion into your Android app.
+title: Aspose.Cells Cloud Android SDK - Save XLSX as XLSM
+description: Use Aspose.Cells Cloud SDK for Android to convert XLSX to XLSM quickly. Follow our step‑by‑step guide and code sample to integrate SaveAs API today.
 
 ---
 

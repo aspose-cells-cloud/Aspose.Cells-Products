@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud API – Clear Objects in Excel
-description: Use Aspose.Cells Cloud REST API to quickly clear content, styles, charts, tables or backgrounds in Excel files. Try the SDKs for .NET, Java, Python and more – see code samples now!
+title: Aspose.Cells Cloud API – Clear Objects in Excel Files
+description: Use Aspose.Cells Cloud REST API to clear content, styles, charts, tables, backgrounds and more in Excel files. Try the .NET, Java, Python SDKs today.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}
