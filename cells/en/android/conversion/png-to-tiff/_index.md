@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Android - Convert PNG to TIFF via API
-description: Use Aspose.Cells Cloud Android SDK to quickly convert PNG files to high‑quality TIFF. Learn the API usage with ready‑made code samples—try it now!
+title: Aspose.Cells Cloud for Android – Convert PNG to TIFF
+description: Use Aspose.Cells Cloud Android SDK to quickly convert PNG images to high‑quality TIFF files. Get code samples, REST API details, and start converting today!
 kwords: Excel, Convert PNG to TIFF, REST, Android
 howto: How to convert PNG to TIFF using Aspose.Cells Cloud Android library.
 ---

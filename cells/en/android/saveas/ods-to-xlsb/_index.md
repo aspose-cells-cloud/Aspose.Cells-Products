@@ -1,6 +1,6 @@
 ---
-title: Save ODS as XLSB with Aspose.Cells Cloud for Android
-description: Learn how to quickly convert ODS to XLSB on Android using Aspose.Cells Cloud SDK. Follow our step‑by‑step guide, view sample code, and start saving files instantly with the powerful REST API.
+title: Aspose.Cells Cloud for Android - Save ODS as XLSB
+description: Use Aspose.Cells Cloud Android SDK to quickly convert ODS spreadsheets to XLSB. Follow our step‑by‑step code sample, get free API quota, and start saving files today.
 kwords: Excel, Save ODS as XLSB, REST, Android
 howto: How to save ODS as XLSB using Aspose.Cells Cloud Android library.
 ---

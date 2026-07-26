@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud - Convert BMP to TIFF with C# SDK
-description: Learn how to quickly convert BMP images to high‑quality TIFF files using the Aspose.Cells Cloud C# SDK. Try the free API now and integrate seamless format conversion into your .NET applications.
+title: Aspose.Cells Cloud C# API – Convert BMP to TIFF Online
+description: Use Aspose.Cells Cloud C# SDK to instantly convert BMP images to high‑quality TIFF files online. Free API quota is available – start converting now!
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Android SDK - Convert XML to HTML
-description: Use Aspose.Cells Cloud Android SDK to quickly convert XML spreadsheets to high‑quality HTML. Start converting now with simple API calls.
+title: Aspose.Cells Cloud for Android - Convert XML to HTML
+description: Use Aspose.Cells Cloud Android SDK to quickly convert XML spreadsheets to high‑quality HTML. Explore our step‑by‑step code example and start enhancing your app’s document workflow today.
 kwords: Excel, Convert XML to HTML, REST, Android
 howto: How to convert XML to HTML using Aspose.Cells Cloud Android library.
 ---

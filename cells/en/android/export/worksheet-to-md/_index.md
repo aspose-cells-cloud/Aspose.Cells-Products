@@ -1,6 +1,6 @@
 ---
-title: Export Excel Worksheet to MD with Aspose.Cells Cloud for Android
-description: Use Aspose.Cells Cloud Android SDK to quickly export Excel worksheets to Markdown (MD) format. Get high‑quality MD files via a simple REST API – try it now!
+title: Export Worksheet to MD using Aspose.Cells Cloud Android SDK
+description: Use Aspose.Cells Cloud Android SDK to export a worksheet from Excel to Markdown (MD) format with just a few lines of code. Try it now to streamline your spreadsheet workflow!
 
 ---
 

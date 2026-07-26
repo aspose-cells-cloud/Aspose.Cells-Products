@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to JSON with Aspose.Cells Cloud Android SDK
-description: Use Aspose.Cells Cloud Android SDK to easily convert NUMBERS spreadsheet files to JSON. Get fast, high‑quality conversion via REST API – try it today!
+description: Use the Aspose.Cells Cloud Android SDK to quickly convert NUMBERS spreadsheets to JSON. Get high‑quality JSON output with just a few lines of code – try it now!
 kwords: Excel, Convert NUMBERS to JSON, REST, Android
 howto: How to convert NUMBERS to JSON using Aspose.Cells Cloud Android library.
 ---

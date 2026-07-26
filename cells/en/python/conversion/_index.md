@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud - Convert Excel Files with Python
-description: Convert Excel to PDF, CSV, HTML and 30+ other formats with Aspose.Cells Cloud Python SDK. Try the free trial and get code samples now!
+title: Aspose.Cells Cloud - Convert Excel Formats with Python
+description: Use Aspose.Cells Cloud REST API and Python SDK to instantly convert Excel files to 30+ formats. Try the free API today and accelerate your development.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

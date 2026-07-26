@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to JSON with Aspose.Cells Cloud Android SDK
-description: Learn how to quickly convert HTML spreadsheets to JSON using Aspose.Cells Cloud Android SDK. Try the REST API now for seamless online conversion!
+title: Aspose.Cells Cloud SDK for Android – Convert HTML to JSON
+description: Use Aspose.Cells Cloud SDK for Android to effortlessly convert HTML spreadsheets into JSON. Follow our step‑by‑step guide and code sample to integrate the conversion into your Android app today.
 kwords: Excel, Convert HTML to JSON, REST, Android
 howto: How to convert HTML to JSON using Aspose.Cells Cloud Android library.
 ---

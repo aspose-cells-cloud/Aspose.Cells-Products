@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud for Android – Save GIF as HTML
-description: Use Aspose.Cells Cloud Android SDK to quickly convert GIF spreadsheets to HTML. Learn how with sample code and start saving your files today!
+title: Save GIF as HTML with Aspose.Cells Cloud Android SDK
+description: Use Aspose.Cells Cloud Android SDK to convert GIF spreadsheets to HTML quickly. View code samples, call the SaveAs API, and start integrating today.
 kwords: Excel, Save GIF as HTML, REST, Android
 howto: How to save GIF as HTML using Aspose.Cells Cloud Android library.
 ---

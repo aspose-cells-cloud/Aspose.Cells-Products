@@ -1,6 +1,6 @@
 ---
-title: Export WORKBOOK to JSON from Excel using Cells Cloud SDK for Android  
-description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
+title: Export Workbook to JSON using Aspose.Cells Cloud Android SDK
+description: Export Excel workbooks to JSON quickly with Aspose.Cells Cloud Android SDK. Simple REST API integration for developers – start converting today!
 
 ---
 

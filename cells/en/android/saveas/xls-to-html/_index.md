@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud for Android - Save XLS as HTML
-description: Learn how to use Aspose.Cells Cloud Android SDK to convert XLS to HTML instantly. Follow step‑by‑step code example and start your free trial today.
+title: Save XLS as HTML with Aspose.Cells Cloud SDK for Android
+description: Use Aspose.Cells Cloud SDK for Android to convert XLS files to HTML quickly. Follow our step‑by‑step guide and code example to integrate the SaveAs API into your Android app. Start converting now!
 kwords: Excel, Save XLS as HTML, REST, Android
 howto: How to save XLS as HTML using Aspose.Cells Cloud Android library.
 ---
