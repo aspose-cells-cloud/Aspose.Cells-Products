@@ -1,6 +1,6 @@
 ---
-title: XLSX to PDF Convert API for Swift 
-description: Using Aspose.Cells Cloud SDK for Swift to convert XLSX format file to PDF format file. 
+title: Aspose.Cells Cloud Swift API - Convert XLSX to PDF
+description: Convert XLSX files to high‑quality PDFs in Swift using Aspose.Cells Cloud SDK. Easy integration, fast processing, and detailed code examples – start converting today!
 url: /swift/conversion/xlsx-to-pdf/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Merge Excel Files with Perl using Aspose.Cells Cloud API
-description: Use Aspose.Cells Cloud REST API to merge multiple Excel files into one workbook with Perl. Fast, reliable, and supported across languages – start merging today!
+title: Merge Excel Files with Perl using Aspose.Cells Cloud
+description: Use Aspose.Cells Cloud Perl SDK to merge multiple Excel files into one. Fast, reliable REST API with full Excel format support. Start integrating today!
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

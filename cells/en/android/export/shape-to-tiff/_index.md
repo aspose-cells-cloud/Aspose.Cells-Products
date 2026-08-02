@@ -1,6 +1,6 @@
 ---
-title: Export SHAPE to TIFF from Excel using Cells Cloud SDK for Android  
-description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
+title: Export SHAPE to TIFF with Aspose.Cells Cloud SDK for Android
+description: Use Aspose.Cells Cloud REST API for Android to export SHAPE objects from Excel to high‑quality TIFF files. Quick integration, reliable results – try it now!
 
 ---
 

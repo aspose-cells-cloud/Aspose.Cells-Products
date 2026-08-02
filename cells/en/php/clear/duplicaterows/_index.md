@@ -1,6 +1,6 @@
 ---
-title: Remove Duplicate Rows in Excel with PHP – Aspose Cells Cloud
-description: Use Aspose Cells Cloud PHP SDK to quickly remove duplicate rows from local Excel or OpenOffice Calc files. Try it now with a free API quota.
+title: Aspose Cells Cloud PHP – Remove Duplicate Rows
+description: Use Aspose Cells Cloud PHP SDK to quickly remove duplicate rows from local Excel or OpenOffice Calc files. Try the API now and streamline your data cleaning.
 
 ---
 

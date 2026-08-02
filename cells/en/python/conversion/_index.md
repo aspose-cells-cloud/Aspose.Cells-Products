@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud - Convert Excel Formats with Python
-description: Use Aspose.Cells Cloud REST API and Python SDK to instantly convert Excel files to 30+ formats. Try the free API today and accelerate your development.
+title: Aspose.Cells Cloud Python API – Convert Excel to 30+ Formats
+description: Aspose.Cells Cloud REST API lets you convert Excel files to 30+ formats with Python. Easy SDK integration, free trial – start converting today!
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

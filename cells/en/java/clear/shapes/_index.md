@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Java API – Clear Shapes in Excel & OpenOffice Calc
-description: Use Aspose.Cells Cloud Java SDK to quickly clear shapes in local Excel and OpenOffice Calc files. Secure REST API, free trial quota—try it now!
+title: Java Clear Shapes API – Aspose Cells Cloud
+description: Use Aspose Cells Cloud Java SDK to clear shapes from Excel and OpenOffice Calc spreadsheets. Quick REST API integration, free trial available – start clearing now!
 
 ---
 

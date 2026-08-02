@@ -1,6 +1,6 @@
 ---
-title: Save Excel as Other Formats with Aspose.Cells Cloud C# SDK`（58 字符）
-description: Save Excel workbooks to 30+ formats with Aspose.Cells Cloud C# SDK. Try the REST API now and accelerate your .NET applications.`（150 字符）
+title: Save Excel as Other Formats with Aspose.Cells Cloud C# SDK
+description: Use Aspose.Cells Cloud C# SDK to save Excel workbooks in over 30 formats instantly. Explore code samples, API reference, and start converting today!
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

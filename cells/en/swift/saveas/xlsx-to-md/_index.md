@@ -1,6 +1,6 @@
 ---
 title: Aspose.Cells Cloud Swift API – Save XLSX as Markdown (MD)
-description: Learn how to use Aspose.Cells Cloud Swift SDK to convert XLSX spreadsheets to Markdown (MD) files. Follow step‑by‑step code examples and start saving your Excel data as Markdown today!
+description: Leverage Aspose.Cells Cloud SDK for Swift to convert XLSX to Markdown (MD) quickly. Save, customize, and download MD files via REST API. Try it now!
 url: /swift/saveas/xlsx-to-md/
 ---
 

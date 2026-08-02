@@ -1,6 +1,6 @@
 ---
-title: Convert XML to BMP with Aspose.Cells Cloud Android SDK
-description: Learn how to use the Aspose.Cells Cloud Android SDK to quickly convert XML spreadsheets to high‑quality BMP images. Try the API now and streamline your Android workflow.
+title: Aspose.Cells Cloud - Convert XML to BMP on Android
+description: Use Aspose.Cells Cloud Android SDK to quickly convert XML spreadsheets to high‑quality BMP images. Try the API now and integrate seamless conversion into your Android apps.
 kwords: Excel, Convert XML to BMP, REST, Android
 howto: How to convert XML to BMP using Aspose.Cells Cloud Android library.
 ---

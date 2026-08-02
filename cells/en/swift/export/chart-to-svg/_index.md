@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Swift API – Export Chart to SVG
-description: Use Aspose.Cells Cloud Swift SDK to export spreadsheet charts to high‑quality SVG files via REST API. Get code samples and start integrating today!
+title: Export Chart to SVG with Aspose.Cells Cloud Swift API
+description: Use Aspose.Cells Cloud Swift SDK to export chart objects to SVG files directly from spreadsheets. Try the API now for fast, high‑quality SVG output.
 url: /swift/export/chart-to-svg/
 ---
 

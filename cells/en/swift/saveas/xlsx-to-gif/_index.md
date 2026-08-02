@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Swift SDK – Convert XLSX to GIF API
-description: Leverage the Aspose.Cells Cloud Swift SDK to effortlessly convert XLSX files to high‑quality GIF images online. Try the API now and speed up your spreadsheet workflows!
+title: Aspose.Cells Cloud Swift API - Convert XLSX to GIF
+description: Convert XLSX to GIF quickly with Aspose.Cells Cloud Swift SDK. Seamlessly save spreadsheets as high‑quality GIF images via REST API. Try it free today!
 url: /swift/saveas/xlsx-to-gif/
 ---
 

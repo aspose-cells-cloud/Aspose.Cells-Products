@@ -1,6 +1,6 @@
 ---
-title: Export Worksheet to EMF via Aspose.Cells Cloud Android SDK
-description: Easily export Excel worksheets to EMF files using Aspose.Cells Cloud API on Android. Get reliable vector output for your apps – try the SDK today!
+title: Export Worksheet to EMF with Aspose.Cells Cloud SDK for Android
+description: Use Aspose.Cells Cloud API to effortlessly export Excel worksheets to EMF format on Android. High‑quality vector output in seconds – try it now!
 
 ---
 

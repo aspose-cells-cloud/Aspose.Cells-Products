@@ -1,6 +1,6 @@
 ---
-title: Remove duplicate rows in Excel/Calc with Python – Aspose Cells Cloud
-description: Use Aspose Cells Cloud Python SDK to clear duplicate rows in Excel or OpenOffice Calc spreadsheets. Learn how and try it now!
+title: Remove Duplicate Rows in Excel with Python – Aspose Cells Cloud
+description: Use Aspose.Cells Cloud Python SDK to clear duplicate rows in local Excel and OpenOffice Calc files. Follow step‑by‑step code examples and start optimizing your spreadsheets today.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud - Convert BMP to SVG with C#
-description: Use Aspose.Cells Cloud C# SDK to quickly convert BMP images to high‑quality SVG files. Try it now with a free API quota and integrate seamless conversion into your .NET applications.
+title: Convert BMP to SVG with Aspose.Cells Cloud SDK for C#
+description: Use the Aspose.Cells Cloud SDK for .NET to quickly convert BMP images to high‑quality SVG files in C#. Try it free today and integrate seamless format conversion into your applications.
 
 ---
 
