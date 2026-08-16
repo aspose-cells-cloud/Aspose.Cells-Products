@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to XML with Aspose.Cells Cloud C# SDK
-description: Learn how to quickly convert JPG to XML using the Aspose.Cells Cloud C# SDK. Follow a ready‑to‑run code example, get free API quota, and start integrating today!
+title: Aspose.Cells Cloud .NET API – Convert JPG to XML Online
+description: Convert JPG to XML instantly with Aspose.Cells Cloud .NET SDK. Get a free API key, try the online conversion now, and boost your .NET workflow.
 
 ---
 

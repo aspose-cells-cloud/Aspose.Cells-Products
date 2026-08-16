@@ -1,6 +1,6 @@
 ---
-title: Convert EMF to PDF using C# 
-description: Utilizing the Aspose.Cells Cloud SDK for C# to convert a EMF format file to a PDF format file. 
+title: Aspose.Cells Cloud - Convert EMF to PDF with C# .NET
+description: Use Aspose.Cells Cloud .NET SDK to quickly convert EMF files to high‑quality PDF in C#. Explore code samples, get free API quota, and start converting online today.
 
 ---
 

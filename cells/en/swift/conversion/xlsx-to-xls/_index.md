@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Swift API – Convert XLSX to XLS
-description: Convert XLSX to XLS instantly with Aspose.Cells Cloud Swift API. Get ready‑to‑use code samples, free trial and step‑by‑step guide to integrate spreadsheet conversion into your Swift apps.
+title: Aspose Cells Cloud Swift API – Convert XLSX to XLS
+description: Easily convert XLSX to XLS in Swift with Aspose.Cells Cloud SDK. Upload your spreadsheet, set format to XLS, and download the converted file instantly. Try the free API now!
 url: /swift/conversion/xlsx-to-xls/
 ---
 

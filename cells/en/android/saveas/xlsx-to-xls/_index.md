@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud for Android – Save XLSX as XLS
-description: Use Aspose.Cells Cloud SDK for Android to quickly convert XLSX to XLS with high‑quality results. Integrate the API into your Android app today and boost productivity.
+title: Aspose.Cells Cloud Android SDK – Convert XLSX to XLS
+description: Convert XLSX to XLS in Android instantly with Aspose.Cells Cloud SDK. Grab a free API key, view ready‑to‑run code samples, and start transforming spreadsheets today.
 
 ---
 

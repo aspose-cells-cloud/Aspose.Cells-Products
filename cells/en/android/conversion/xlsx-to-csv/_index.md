@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud SDK for Android - Convert XLSX to CSV
-description: Use the Aspose.Cells Cloud SDK for Android to quickly and accurately convert XLSX files to CSV. Follow our step‑by‑step guide and start automating spreadsheet workflows today.
+title: Aspose.Cells Cloud API for Android – Convert XLSX to CSV
+description: Quickly convert XLSX to CSV on Android with Aspose.Cells Cloud API. Follow our step‑by‑step guide and sample code to add seamless spreadsheet conversion to your app now.
 
 ---
 

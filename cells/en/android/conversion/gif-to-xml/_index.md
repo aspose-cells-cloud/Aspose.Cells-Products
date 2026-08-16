@@ -1,6 +1,6 @@
 ---
-title: Convert GIF to XML using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a GIF format file to a XML format file. 
+title: Aspose.Cells Cloud Android - Convert GIF to XML
+description: Use Aspose.Cells Cloud Android SDK to quickly convert GIF spreadsheets to XML. Get step‑by‑step code examples, REST API details, and start converting today.
 kwords: Excel, Convert GIF to XML, REST, Android
 howto: How to convert GIF to XML using Aspose.Cells Cloud Android library.
 ---

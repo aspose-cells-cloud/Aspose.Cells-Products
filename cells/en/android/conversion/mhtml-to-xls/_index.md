@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to XLS using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a MHTML format file to a XLS format file. 
+title: Convert MHTML to XLS with Aspose.Cells Cloud Android SDK
+description: Use Aspose.Cells Cloud Android SDK to quickly convert MHTML files to XLS format. Get high‑quality Excel output via a simple REST API – try it now!
 kwords: Excel, Convert MHTML to XLS, REST, Android
 howto: How to convert MHTML to XLS using Aspose.Cells Cloud Android library.
 ---

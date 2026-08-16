@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud for Android – Convert PNG to JSON
-description: Use Aspose.Cells Cloud Android SDK to quickly convert PNG files to JSON via REST API. Get high‑quality results – try it now!
+title: Aspose.Cells Cloud Android PNG to JSON Converter
+description: Use Aspose.Cells Cloud Android SDK to effortlessly convert PNG files to JSON. Quick API, sample code, and free trial – start converting today!
 kwords: Excel, Convert PNG to JSON, REST, Android
 howto: How to convert PNG to JSON using Aspose.Cells Cloud Android library.
 ---

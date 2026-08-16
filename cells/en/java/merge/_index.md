@@ -1,6 +1,6 @@
 ---
-title: Merge Excel Files with Java using Aspose.Cells Cloud API
-description: Easily merge multiple Excel files into one with the Aspose.Cells Cloud Java SDK. Try the REST API now to speed up your Excel automation.
+title: Java Merge Excel Files – Aspose.Cells Cloud API
+description: Learn how to merge Excel files with Java using Aspose.Cells Cloud API. Download the Java SDK, view code samples, and start integrating now – trial available.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

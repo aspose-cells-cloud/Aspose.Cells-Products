@@ -1,6 +1,6 @@
 ---
-title: Export picture to JPG with Aspose.Cells Cloud Android SDK
-description: Use Aspose.Cells Cloud Android SDK to export picture objects from Excel workbooks to high‑quality JPG files. Try it now via our REST API and enhance your app’s image handling.
+title: Export picture to JPG with Aspose.Cells Cloud Android API
+description: Export picture objects from Excel to high‑quality JPG using Aspose.Cells Cloud Android SDK via REST API. Try it now and improve your app’s image handling.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud – Convert CSV to JSON on Android
-description: Utilizing the Aspose.Cells Cloud SDK for Android, easily convert CSV files to JSON format. Explore code samples, get quick start guides, and start converting today!
+title: Aspose.Cells Cloud Android API – Convert CSV to JSON
+description: Convert CSV to JSON on Android with Aspose.Cells Cloud API. Access code samples, quick‑start guide, and start integrating now!
 kwords: Excel, Convert CSV to JSON, REST, Android
 howto: How to convert CSV to JSON using Aspose.Cells Cloud Android library.
 ---

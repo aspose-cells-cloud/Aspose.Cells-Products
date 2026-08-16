@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Java – Clear Excel & Calc Content
-description: Use Aspose.Cells Cloud Java SDK to clear content in local Excel and OpenOffice Calc files via REST API. Try it now with free quota – see code examples and docs.
+title: Java Cells API – Clear Content in Local Excel & Calc
+description: Use Aspose.Cells Cloud Java SDK to quickly clear data, formulas, and formatting from local Excel or OpenOffice Calc files via REST API. Try it free today!
 
 ---
 
