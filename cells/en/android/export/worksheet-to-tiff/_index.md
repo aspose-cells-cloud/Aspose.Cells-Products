@@ -1,6 +1,6 @@
 ---
-title: Export WORKSHEET to TIFF from Excel using Cells Cloud SDK for Android  
-description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
+title: Export Worksheet to TIFF with Aspose.Cells Cloud Android SDK
+description: Use Aspose.Cells Cloud Android SDK to effortlessly export a worksheet from an Excel file to high‑quality TIFF images. Quick integration with REST API – try it now!
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to BMP using Aspose.Cells Cloud Android SDK
-description: Learn how Android developers can quickly convert PNG images to BMP with Aspose.Cells Cloud SDK. Follow the step‑by‑step guide, view sample code, and start converting now.
+title: Aspose Cells Cloud - Convert PNG to BMP with Android SDK
+description: Convert PNG images to BMP instantly using Aspose.Cells Cloud Android SDK. Follow our step‑by‑step guide, view sample code, and start converting today – free trial available.
 kwords: Excel, Save PNG as BMP, REST, Android
 howto: How to save PNG as BMP using Aspose.Cells Cloud Android library.
 ---

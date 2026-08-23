@@ -1,6 +1,6 @@
 ---
-title: Convert EMF to SVG with Aspose.Cells Cloud SDK for C#
-description: Use Aspose.Cells Cloud SDK for .NET to quickly convert EMF files to high‑quality SVG. Free API trial available – see code example and start converting today!
+title: Aspose.Cells Cloud - Convert EMF to SVG with C# API
+description: Use Aspose.Cells Cloud C# SDK to instantly convert EMF files to high‑quality SVG via a simple API call. No installation needed – get your result in seconds. Try it free today!
 
 ---
 

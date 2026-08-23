@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Android – Save XLTX as XLS
-description: Convert XLTX to XLS on Android with Aspose.Cells Cloud SDK. Leverage our REST API for fast, accurate saving and get free API quota to start instantly.
+title: Aspose.Cells Cloud for Android - Save XLTX as XLS via API
+description: Use Aspose.Cells Cloud Android SDK to instantly convert XLTX files to XLS. Learn how to call the SaveAs API, view code samples, and start saving spreadsheets today!
 kwords: Excel, Save XLTX as XLS, REST, Android
 howto: How to save XLTX as XLS using Aspose.Cells Cloud Android library.
 ---

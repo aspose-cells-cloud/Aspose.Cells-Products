@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud REST API – Merge Excel Files with Python
-description: Use Aspose.Cells Cloud REST API to merge multiple Excel files with Python. Download the SDK, explore code samples, and try it free now.
+title: Merge Excel Files with Python using Aspose.Cells Cloud API
+description: Merge Excel files into one with Python using Aspose.Cells Cloud REST API. Download the SDK, explore code samples, and start merging instantly – try it free now!
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

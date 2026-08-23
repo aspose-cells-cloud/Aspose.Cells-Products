@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud SDK for Android – Save XLSX as ODS
-description: Use Aspose.Cells Cloud SDK for Android to convert XLSX to ODS effortlessly. View code samples, claim free API quota, and start saving spreadsheets online today.
+title: Aspose Cells Cloud for Android - Convert XLSX to ODS
+description: Use Aspose.Cells Cloud Android SDK to effortlessly convert XLSX spreadsheets to ODS format. Follow step‑by‑step code samples, get a free API quota, and start building robust conversion workflows today.
 
 ---
 

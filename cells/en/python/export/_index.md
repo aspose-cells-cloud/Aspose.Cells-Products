@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud - Export Excel Objects with Python API
-description: Use Aspose.Cells Cloud Python SDK to export workbooks and Excel objects to over 30 file formats. Easy integration, robust API – start converting now!
+title: Python Excel Export – Aspose.Cells Cloud API (30+ Formats)
+description: Looking for Python Excel export? Aspose.Cells Cloud lets you export workbooks and Excel objects to 30+ formats via a simple Python SDK. Try it free today!
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}
