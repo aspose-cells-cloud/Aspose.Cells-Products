@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to XLSX using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a TXT format file to a XLSX format file. 
+title: Aspose.Cells Cloud - Convert TXT to XLSX on Android
+description: Use Aspose.Cells Cloud Android SDK to quickly convert TXT files to XLSX spreadsheets. Integrate the Conversion API into your Android app today and get high‑quality Excel output.
 kwords: Excel, Convert TXT to XLSX, REST, Android
 howto: How to convert TXT to XLSX using Aspose.Cells Cloud Android library.
 ---

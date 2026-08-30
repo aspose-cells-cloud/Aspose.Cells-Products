@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud C# SDK – Convert EMF to XLS Online
-description: Use the Aspose.Cells Cloud C# SDK to quickly convert EMF files to XLS format online. Preserve layout, get high‑quality spreadsheets, and start with a free API quota today.
+title: Aspose.Cells Cloud – Convert EMF to XLS with C#
+description: Use Aspose.Cells Cloud SDK for C# to quickly convert EMF files to XLS format. Get free API quota, simple code example, and start converting online today.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to JPG using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a HTML format file to a JPG format file. 
+title: Aspose.Cells Cloud Android SDK - Convert HTML to JPG
+description: Use Aspose.Cells Cloud Android SDK to quickly convert HTML spreadsheets to high‑quality JPG images. View code samples and start integrating today!
 kwords: Excel, Convert HTML to JPG, REST, Android
 howto: How to convert HTML to JPG using Aspose.Cells Cloud Android library.
 ---

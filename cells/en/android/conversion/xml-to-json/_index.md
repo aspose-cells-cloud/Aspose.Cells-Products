@@ -1,6 +1,6 @@
 ---
-title: Convert XML to JSON using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a XML format file to a JSON format file. 
+title: Aspose.Cells Cloud for Android – Convert XML to JSON
+description: Utilize the Aspose.Cells Cloud SDK for Android to quickly convert XML files to JSON. Explore code samples, get free trial, and start converting today!
 kwords: Excel, Convert XML to JSON, REST, Android
 howto: How to convert XML to JSON using Aspose.Cells Cloud Android library.
 ---

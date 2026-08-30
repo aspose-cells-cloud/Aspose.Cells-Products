@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Excel Export API – Export Workbooks & Objects
-description: Export Excel workbooks, sheets, charts with Aspose.Cells Cloud Excel Export API. Supports 30+ formats and SDKs for .NET, Java, Python. Start for free now!
+title: Aspose.Cells Cloud API - Export Excel Workbooks & Objects
+description: Export Excel workbooks, sheets, charts and other objects via Aspose.Cells Cloud REST API. Supports 30+ formats and SDKs for .NET, Java, Python, C# and more. Try it free now!
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

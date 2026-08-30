@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Swift API – Convert SXC to XLS Online
-description: Convert SXC spreadsheets to XLS with Aspose.Cells Cloud Swift SDK. Fast, accurate online conversion via REST API. Try the code sample now and integrate instantly.
+title: Aspose.Cells Cloud Swift API – Convert SXC to XLS
+description: Leverage Aspose.Cells Cloud SDK for Swift to effortlessly convert SXC spreadsheets to XLS. Get fast, reliable results and try the API for free today!
 url: /swift/conversion/sxc-to-xls/
 ---
 

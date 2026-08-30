@@ -1,6 +1,6 @@
 ---
-title: Save XLS as XLSX using Android 
-description: Utilizing Aspose.Cells Cloud SDK for Android to save XLS format file as XLSX format file. 
+title: Aspose.Cells Cloud Android API - Save XLS as XLSX
+description: Learn how to convert XLS to XLSX in Android with Aspose.Cells Cloud SDK. Quick code example, free trial – start converting now!
 kwords: Excel, Save XLS as XLSX, REST, Android
 howto: How to save XLS as XLSX using Aspose.Cells Cloud Android library.
 ---

@@ -1,6 +1,6 @@
 ---
-title: Save XLS as CSV using Android 
-description: Utilizing Aspose.Cells Cloud SDK for Android to save XLS format file as CSV format file. 
+title: Save XLS as CSV with Aspose.Cells Cloud Android SDK
+description: Use Aspose.Cells Cloud Android SDK to easily convert XLS to CSV. Save your spreadsheet online with a few lines of code – try the free API today!
 
 ---
 

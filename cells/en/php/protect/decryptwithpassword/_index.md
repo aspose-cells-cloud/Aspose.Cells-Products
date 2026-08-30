@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud PHP – Decrypt Excel Spreadsheet with Password
-description: Unlock password‑protected Excel or OpenOffice Calc files with Aspose.Cells Cloud PHP SDK. Decrypt spreadsheets instantly via REST API – try it free now and integrate in seconds.
+title: Aspose.Cells Cloud PHP API – Decrypt Excel & ODS Password
+description: Unlock Excel and OpenOffice Calc files protected by password using Aspose.Cells Cloud PHP SDK. Decrypt spreadsheets instantly via REST API – start your free trial now!
 
 ---
 

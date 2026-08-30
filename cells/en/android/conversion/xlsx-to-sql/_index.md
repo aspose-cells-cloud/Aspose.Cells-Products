@@ -1,6 +1,6 @@
 ---
-title: Aspose Cells Cloud API – Convert XLSX to SQL on Android
-description: Convert XLSX to SQL on Android with Aspose Cells Cloud SDK. Access ready‑made code samples, API calls, and start building conversion workflows today – try now!
+title: Aspose Cells Cloud for Android – Convert XLSX to SQL via API
+description: Convert XLSX to SQL on Android with Aspose Cells Cloud SDK – fast API, ready‑made code samples, free trial. Start building your conversion workflow today!
 
 ---
 

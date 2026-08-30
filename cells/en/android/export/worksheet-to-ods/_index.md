@@ -1,6 +1,6 @@
 ---
-title: Export WORKSHEET to ODS from Excel using Cells Cloud SDK for Android  
-description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
+title: Export Worksheet to ODS with Aspose.Cells Cloud SDK for Android
+description: Use Aspose.Cells Cloud REST API to export a worksheet from an Excel file to ODS format in Android. Quick integration, high‑fidelity output – try it now!
 
 ---
 
