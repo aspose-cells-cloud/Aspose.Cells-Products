@@ -1,6 +1,6 @@
 ---
-title: Save MHTML as TXT using Android 
-description: Utilizing Aspose.Cells Cloud SDK for Android to save MHTML format file as TXT format file. 
+title: Aspose.Cells Cloud for Android - Save MHTML as TXT
+description: Use Aspose.Cells Cloud SDK for Android to instantly convert MHTML spreadsheets to TXT. View code samples and start saving files via REST API today.
 kwords: Excel, Save MHTML as TXT, REST, Android
 howto: How to save MHTML as TXT using Aspose.Cells Cloud Android library.
 ---

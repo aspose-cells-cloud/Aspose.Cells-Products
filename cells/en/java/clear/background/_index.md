@@ -1,6 +1,6 @@
 ---
-title: Clear background on the local workbook in Cloud 
-description: Cloud APIs & SDKs for clearing background on Microsoft Excel & OpenOffice Calc. Clear background on local spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Java Cells Cloud API - Clear background in local Excel/Calc
+description: Use Aspose Cells Cloud Java SDK to clear background from local Excel or OpenOffice Calc files. Quick REST API integration, free trial available—start clearing now!
 
 ---
 

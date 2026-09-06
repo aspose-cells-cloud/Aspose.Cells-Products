@@ -1,6 +1,6 @@
 ---
-title: Export WORKBOOK to PNG from Excel using Cells Cloud SDK for Android  
-description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
+title: Aspose.Cells Cloud for Android - Export Workbook to PNG
+description: Use Aspose.Cells Cloud Android SDK to export Excel workbook objects to high‑quality PNG images via a simple REST API. Try it now and integrate seamless image conversion into your Android apps.
 
 ---
 

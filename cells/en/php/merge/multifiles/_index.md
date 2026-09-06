@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud PHP API – Merge Multiple Excel Files
-description: Effortlessly merge multiple Excel files with Aspose.Cells Cloud PHP API. Get free quota, follow the step‑by‑step guide, and start building your Excel merger today!
+title: Aspose.Cells Cloud PHP – Excel Merger for Multiple Files
+description: Use Aspose.Cells Cloud PHP to quickly merge multiple Excel files. Get free API quota, follow our step‑by‑step guide, and start building your Excel merger now!
 
 ---
 

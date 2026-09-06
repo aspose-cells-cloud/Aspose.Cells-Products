@@ -1,6 +1,6 @@
 ---
-title: Export Workbook to HTML using Aspose.Cells Cloud Android SDK
-description: Use Aspose.Cells Cloud Android SDK to instantly export Excel workbooks to high‑quality HTML. Try it now with our REST API and boost your app’s file conversion capabilities.
+title: Export Workbook to HTML with Aspose.Cells Cloud Android SDK
+description: Export Excel workbooks to HTML instantly with Aspose.Cells Cloud Android SDK. Leverage our REST API to boost Android app file conversion—try it today!
 
 ---
 

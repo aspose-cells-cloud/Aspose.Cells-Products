@@ -1,6 +1,6 @@
 ---
-title: Merge Excel Files with Python using Aspose.Cells Cloud API` （约 59 字符）
-description: Merge multiple Excel files into a single workbook with Python via Aspose.Cells Cloud REST API. Grab the SDK, explore code samples, and try it free today!` （约 156 字符）
+title: Merge Excel Files with Python – Aspose.Cells Cloud API`（约 55 字符）
+description: Easily merge multiple Excel workbooks into one using Python and Aspose.Cells Cloud REST API. Download the SDK, view code samples, and start for free now!`（约 146 字符）
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ---
-title: Save TXT as PDF using Android 
-description: Utilizing Aspose.Cells Cloud SDK for Android to save TXT format file as PDF format file. 
+title: Aspose.Cells Cloud Android SDK – Save TXT as PDF
+description: Use Aspose.Cells Cloud Android SDK to easily convert TXT files to high‑quality PDF via REST API. Get free API quota, quick integration and ready‑to‑run code – start converting today!
 kwords: Excel, Save TXT as PDF, REST, Android
 howto: How to save TXT as PDF using Aspose.Cells Cloud Android library.
 ---

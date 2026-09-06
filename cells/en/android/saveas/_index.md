@@ -1,6 +1,6 @@
 ---
-title: Save Excel as Other Formats with Aspose.Cells Cloud Android
-description: Use Aspose.Cells Cloud Android SDK to save Excel workbooks in over 30 formats via REST API. Get code samples and start converting today.
+title: Aspose.Cells Cloud Android - Save Excel to 30+ Formats
+description: Leverage Aspose.Cells Cloud Android SDK to convert Excel workbooks to over 30 formats via REST API. Access code samples, docs, and start converting now.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

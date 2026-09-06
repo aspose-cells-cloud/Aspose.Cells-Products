@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to CSV using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a HTML format file to a CSV format file. 
+title: Convert HTML to CSV with Aspose.Cells Cloud Android SDK
+description: Convert HTML spreadsheets to CSV with Aspose.Cells Cloud Android SDK. See code samples and start using the Conversion API in your Android app today.
 
 ---
 

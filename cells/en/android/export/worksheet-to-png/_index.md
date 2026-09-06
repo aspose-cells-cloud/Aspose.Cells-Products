@@ -1,6 +1,6 @@
 ---
-title: Export Worksheet to PNG with Aspose.Cells Cloud for Android
-description: Use Aspose.Cells Cloud SDK for Android to easily export Excel worksheets to high‑quality PNG images. Integrate with just a few lines of code – try it now!
+title: Export Worksheet to PNG via Aspose.Cells Cloud API for Android
+description: Export Excel worksheets to PNG with Aspose.Cells Cloud API for Android. Simple Java code converts worksheets in seconds—view the sample, try the free trial now!
 
 ---
 

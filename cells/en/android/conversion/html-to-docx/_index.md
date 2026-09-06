@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to DOCX using Android 
-description: Utilizing the Aspose.Cells Cloud SDK for Android to convert a HTML format file to a DOCX format file. 
+title: Aspose.Cells Cloud Android – Convert HTML to DOCX
+description: Utilize Aspose.Cells Cloud Android SDK to instantly convert HTML files to DOCX. See code sample, API guide & start converting today!
 kwords: Excel, Convert HTML to DOCX, REST, Android
 howto: How to convert HTML to DOCX using Aspose.Cells Cloud Android library.
 ---

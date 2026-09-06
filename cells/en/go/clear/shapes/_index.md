@@ -1,6 +1,6 @@
 ---
-title: Clear Shapes with Go using Aspose.Cells Cloud API
-description: Use Aspose.Cells Cloud Go SDK to quickly clear shapes from local Excel and OpenOffice Calc files. Try it now for fast, reliable spreadsheet processing.
+title: Aspose.Cells Cloud API – Clear Shapes in Excel & Calc with Go SDK
+description: Learn how to clear shapes from Excel and OpenOffice Calc files using Aspose.Cells Cloud Go SDK. Follow the quick example and start processing spreadsheets today!
 
 ---
 

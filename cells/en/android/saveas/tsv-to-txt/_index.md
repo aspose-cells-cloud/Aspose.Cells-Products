@@ -1,6 +1,6 @@
 ---
-title: Save TSV as TXT with Aspose.Cells Cloud for Android
-description: Utilizing Aspose.Cells Cloud SDK for Android, quickly convert TSV files to TXT format. Follow our step‑by‑step code example and start converting today.
+title: Save TSV as TXT using Aspose.Cells Cloud Android SDK
+description: Learn how to convert TSV to TXT with Aspose.Cells Cloud Android SDK – use the SaveAs API, get ready‑to‑run Java code and a free API quota. Start converting now!
 kwords: Excel, Save TSV as TXT, REST, Android
 howto: How to save TSV as TXT using Aspose.Cells Cloud Android library.
 ---

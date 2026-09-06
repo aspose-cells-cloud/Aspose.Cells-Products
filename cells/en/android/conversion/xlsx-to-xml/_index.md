@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to XML with Aspose.Cells Cloud Android SDK – API & Code Sample
-description: Convert XLSX to XML quickly with Aspose.Cells Cloud Android SDK. Access the Conversion API, view ready‑to‑run code samples, and get high‑quality XML output in your Android app. Start your free trial today!
+title: XLSX to XML conversion using Aspose.Cells Cloud Android SDK
+description: Use Aspose.Cells Cloud Android SDK to convert XLSX to XML instantly. Explore the Conversion API, run ready‑to‑use code samples, and get high‑quality XML for Android apps. Try it free now!
 
 ---
 

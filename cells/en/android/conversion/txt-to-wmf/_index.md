@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Android API - Convert TXT to WMF
-description: Learn how to use Aspose.Cells Cloud Android SDK to quickly convert TXT files to WMF format. Follow the code example and start converting today!
+title: Convert TXT to WMF using Aspose.Cells Cloud Android SDK
+description: Learn how Android developers can quickly convert TXT files to WMF with Aspose.Cells Cloud Android SDK. View code example and try it free today!
 kwords: Excel, Convert TXT to WMF, REST, Android
 howto: How to convert TXT to WMF using Aspose.Cells Cloud Android library.
 ---

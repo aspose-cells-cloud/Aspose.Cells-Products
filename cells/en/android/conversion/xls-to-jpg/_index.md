@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud for Android – Convert XLS to JPG
-description: Use Aspose.Cells Cloud Android SDK to effortlessly convert XLS to JPG. Get code samples, step‑by‑step guide, and start converting in minutes – try it now!
+title: Aspose.Cells Cloud Android – Convert Excel XLS to JPG
+description: Convert Excel XLS files to JPG on Android with Aspose.Cells Cloud SDK. Access sample code, step‑by‑step guide, and start integrating the REST API today – try it free!
 kwords: Excel, Convert XLS to JPG, REST, Android
 howto: How to convert XLS to JPG using Aspose.Cells Cloud Android library.
 ---
