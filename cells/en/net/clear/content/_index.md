@@ -1,6 +1,6 @@
 ---
-title: Clear content on the local workbook in Cloud 
-description: Cloud APIs & SDKs for clearing content on Microsoft Excel & OpenOffice Calc. Clear content on local spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Clear Excel workbook using PostClearObjects - Aspose.Cells Cloud
+description: Use the PostClearObjects API in the .NET SDK to clear content from local Excel or OpenOffice Calc files. Get free quota and start clearing today!
 
 ---
 

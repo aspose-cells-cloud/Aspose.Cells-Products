@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Android SDK – Convert XLSX to DOCX
-description: Use Aspose.Cells Cloud Android SDK to effortlessly convert XLSX spreadsheets to DOCX documents. Preserve formatting, get high‑quality results and view ready‑to‑run code samples – try it today!
+title: Convert XLSX to DOCX in Android with Aspose.Cells Cloud SDK
+description: Learn how to quickly convert XLSX to DOCX in Android using Aspose.Cells Cloud SDK. Follow the step-by-step code sample and start converting today!
 
 ---
 

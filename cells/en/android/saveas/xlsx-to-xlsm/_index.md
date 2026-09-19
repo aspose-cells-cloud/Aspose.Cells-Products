@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells Cloud Android API – Save XLSX as XLSM
-description: Save XLSX as XLSM in Android using Aspose.Cells Cloud API. Follow our step‑by‑step guide, view sample Java code, and claim free API quota – start integrating today!
+title: Save XLSX as XLSM in Android via SaveAs API - Aspose.Cells Cloud
+description: Save XLSX as XLSM on Android with Aspose.Cells Cloud SaveAs API. See sample code, get free API quota, follow the quick guide, and start integrating today!
 
 ---
 

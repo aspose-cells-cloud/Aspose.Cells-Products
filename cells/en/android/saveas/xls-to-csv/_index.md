@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to CSV via Aspose.Cells Cloud Android SDK API
-description: Easily convert XLS to CSV in Android with Aspose.Cells Cloud SDK. Get free API access, sample code and step‑by‑step guide – start converting today!
+title: Convert XLS to CSV in Android with Aspose.Cells Cloud SaveAs API
+description: Learn how to convert XLS to CSV on Android using Aspose.Cells Cloud SaveAs API. Follow the code sample and start with a free API quota today!
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Export Excel objects using Android 
-description: Aspose.Cells Cloud REST API supports exporting workbook and internal objects to all kinds of formats using Android. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Export Excel Workbooks & Objects on Android with Aspose.Cells Cloud
+description: Use Aspose.Cells Cloud on Android to export Excel workbooks and objects to 30+ formats, including PDF, PNG, HTML. View code samples and start integrating.
 
 ---
 {{< blocks/products/pf/main-wrap-class >}}

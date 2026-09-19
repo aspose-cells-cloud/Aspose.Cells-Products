@@ -1,6 +1,6 @@
 ---
-title: Save XLSM as XLS using Android 
-description: Utilizing Aspose.Cells Cloud SDK for Android to save XLSM format file as XLS format file. 
+title: Save XLSM as XLS in Android with Aspose.Cells Cloud
+description: Learn how to save XLSM files as XLS on Android using Aspose.Cells Cloud SDK. Follow the step-by-step code sample and start converting today.
 kwords: Excel, Save XLSM as XLS, REST, Android
 howto: How to save XLSM as XLS using Aspose.Cells Cloud Android library.
 ---
