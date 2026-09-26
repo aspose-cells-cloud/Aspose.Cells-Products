@@ -9,6 +9,16 @@ url: /
 {{< blocks/products/pf/family-upper-banner h1="Excel Sheet Generator & Converter Solution" h2="On-premise & Cloud APIs to seamlessly enhance your native, web & cloud apps to provide spreadsheet processing functionality." logoImageSrc="/headers/aspose_cells-brand.svg" imageAlt="Aspose.Cells Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/product-card-row title="Aspose.Cells Cloud MCP Server" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Api for MCP" imgSrc="/cells/sdk/aspose_cells-for-ai.svg" productLink="/cells/mcp-server/" >}}
+Connect to the Cells Cloud MCP server from a webpage and run its AI-powered spreadsheet tools online.
+{{< /blocks/products/pf/product >}}
+
+
+{{< /blocks/products/pf/product-card-row >}}
+
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Api for AI" imgSrc="/cells/sdk/aspose_cells-for-ai.svg" productLink="/cells/ai-api/" >}}
